@@ -1,0 +1,3 @@
+# Ashley
+
+*   **Role:** Player Character

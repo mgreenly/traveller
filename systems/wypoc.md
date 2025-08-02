@@ -1,4 +1,6 @@
 # WYPOC (E9C4547-9)
+*   **Subsector:** Lanth
+*   **Coordinates:** 2011
 *   **Astronomics:** Single F-class star (a hot, yellow-white star). Wypoc is the fourth of 7 planets. A massive gas giant, "Goliath," is the sixth planet.
 *   **Description:** A large world with a frontier starport and an exotic, unbreathable atmosphere (high argon content). The population is small, and the government is a representative democracy.
 *   **UPP (E9C4547-9):**
@@ -11,6 +13,10 @@
     *   **Law Level:** 7 (Extreme: Shotguns prohibited)
     *   **Tech Level:** 9 (Average Stellar)
 *   **Lore:** No specific lore is widely known for Wypoc, making it a blank slate. The exotic atmosphere requires specialized breathing equipment. Its high law level combined with a frontier starport is an unusual combination, suggesting a tightly controlled but isolated society.
+*   **Neighbors:**
+    *   **[Dinomn](./dinomn.md):** South-West
+    *   **[Djinni](./djinni.md):** North-East
+    *   **[Rech](./rech.md):** South-East
 
 ---
 ### Arrival Experience

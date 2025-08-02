@@ -1,0 +1,3 @@
+# Pete
+
+*   **Role:** Player Character

@@ -1,4 +1,6 @@
 # DINOM (D300535-A)
+*   **Subsector:** Lanth
+*   **Coordinates:** 1811
 *   **Astronomics:** Single K-class star (a cool, orange-hued star). Dinom is the second of 5 planets. A large gas giant, "Aegis," is the fifth planet.
 *   **Description:** A small, airless rock with a population in the tens of thousands. The starport is poor, suggesting it's a mining outpost or a research station.
 *   **UPP (D300535-A):**
@@ -11,6 +13,10 @@
     *   **Law Level:** 5 (High: Personal concealable weapons prohibited)
     *   **Tech Level:** A (10 - Average Imperial)
 *   **Lore:** Located in the Lanth subsector. A medical researcher from Dinom is credited with finding a cure for a disease that was causing blindness in the children of his homeworld, suggesting a history of genetic or biological research.
+*   **Neighbors:**
+    *   **[Jenghe](./jenghe.md):** North
+    *   **Extolay:** North-West
+    *   **[Dinomn](./dinomn.md):** South-East
 
 ---
 ### Arrival Experience

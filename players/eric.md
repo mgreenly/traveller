@@ -1,0 +1,3 @@
+# Eric
+
+*   **Role:** Player Character

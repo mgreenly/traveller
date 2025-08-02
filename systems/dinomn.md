@@ -1,4 +1,6 @@
 # DINOMN (B674632-9)
+*   **Subsector:** Lanth
+*   **Coordinates:** 1912
 *   **Astronomics:** Single G-class star (a yellow, Sol-like star). Dinomn is the third of 6 planets. A ringed gas giant, "Chronos," is the fifth planet.
 *   **Description:** A medium-sized world with a standard atmosphere and significant landmass. It has a good starport and a population in the hundreds of thousands.
 *   **UPP (B674632-9):**
@@ -11,6 +13,9 @@
     *   **Law Level:** 2 (Low: Portable energy weapons prohibited)
     *   **Tech Level:** 9 (Average Stellar)
 *   **Lore:** Also in the Lanth subsector, its name suggests a close relationship with Dinom. The system hosts a small Imperial Scout Base in orbit around the gas giant Chronos, used for long-range reconnaissance and as a supply depot for scout ships in the region.
+*   **Neighbors:**
+    *   **[Dinom](./dinom.md):** North-West
+    *   **[Wypoc](./wypoc.md):** North-East
 
 ---
 ### Arrival Experience

@@ -28,11 +28,11 @@ The players need to borrow approximately **Cr3,250,000** to fund the recovery mi
 
 The adventure begins in the opulent, continent-spanning metropolis of Capital on [Regina](./systems/regina.md). The players are summoned to the sterile, high-tech offices of **Haskins & Associates**, a law firm occupying the 87th floor of a cloud-piercing arcology.
 
-**The Hook:** [Keith](./characters/keith.md), a former student of the reclusive scientist [Dr. Aris](./characters/dr-aris.md), receives a message from the firm. They are legally transferring the title of [Dr. Aris](./characters/dr-aris.md)'s primary asset—the lab ship *Stardust Drifter*—to him.
+**The Hook:** [Keith](./players/keith.md), a former student of the reclusive scientist [Dr. Aris](./characters/dr-aris.md), receives a message from the firm. They are legally transferring the title of [Dr. Aris](./characters/dr-aris.md)'s primary asset—the lab ship *Stardust Drifter*—to him.
 
 The lawyer explains the ship is abandoned in the main asteroid belt of the **[Djinni](./systems/djinni.md)** system, a quarantined **Red Zone**. They provide a one-time activation code for the ship's emergency transponder but assume no liability for any recovery attempt.
 
-Along with the legal documents, the firm provides a data wafer sealed with a military-grade biolock keyed to [Keith](./characters/keith.md). Once activated, a message from [Dr. Aris](./characters/dr-aris.md) warns him:
+Along with the legal documents, the firm provides a data wafer sealed with a military-grade biolock keyed to [Keith](./players/keith.md). Once activated, a message from [Dr. Aris](./characters/dr-aris.md) warns him:
 
 > *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](./characters/roric-vance.md), an information broker. He hangs around the seedy parts of the downport. Tell him the 'Whiskey Jack' needs a fast ship. He'll know what to do. Be ready. Don't let them have my work!"*
 
@@ -129,7 +129,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 
 ### Allies & Contacts
 *   **[Dr. Aris](./characters/dr-aris.md):** The mysterious, reclusive scientist who bequeaths the *Stardust Drifter*.
-*   **[Keith](./characters/keith.md):** [Dr. Aris](./characters/dr-aris.md)'s former student and the player character who inherits the ship.
+*   **[Keith](./players/keith.md):** [Dr. Aris](./characters/dr-aris.md)'s former student and the player character who inherits the ship.
 *   **[Roric Vance](./characters/roric-vance.md):** An aging information broker on [Regina](./systems/regina.md).
 *   **[Silas Kane](./characters/silas-kane.md):** A predatory financier on [Regina](./systems/regina.md).
 *   **The Crew of *The Void Gambit***

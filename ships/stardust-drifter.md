@@ -21,4 +21,4 @@ The *Stardust Drifter* is a heavily modified Type S Scout/Courier, repurposed by
 ## Crew
 *   **Current Crew:** None (abandoned)
 *   **Original Owner:** [Dr. Aris](../characters/dr-aris.md)
-*   **Intended Recipient:** [Keith](../characters/keith.md) (Player Character)
+*   **Intended Recipient:** [Keith](../players/keith.md) (Player Character)

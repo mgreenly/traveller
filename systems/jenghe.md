@@ -1,4 +1,6 @@
 # JENGHE (C799663-9)
+*   **Subsector:** Regina
+*   **Coordinates:** 1810
 *   **Astronomics:** Single K-class star (a cool, orange-hued star). The system has 4 planets, with Jenghe being the second. No gas giants are present.
 *   **Description:** A standard-sized, water-heavy world with a tainted, dense atmosphere. It has a good starport and a population in the hundreds of thousands.
 *   **UPP (C799663-9):**
@@ -11,6 +13,11 @@
     *   **Law Level:** 3 (Standard: Machine guns, automatic rifles prohibited)
     *   **Tech Level:** 9 (Average Stellar)
 *   **Lore:** A colonial holding of [Regina](./regina.md), primarily an agricultural world. Its "captive government" status suggests potential for political tension with its parent world. The tainted atmosphere requires filter masks for off-worlders.
+*   **Neighbors:**
+    *   **RUIE:** North
+    *   **[Regina](./regina.md):** North-East
+    *   **Extolay:** South-West
+    *   **[Dinom](./dinom.md):** South
 
 ---
 ### Arrival Experience

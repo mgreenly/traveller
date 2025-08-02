@@ -1,4 +1,6 @@
 # RECH (D9957AA-6)
+*   **Subsector:** Lanth
+*   **Coordinates:** 2112
 *   **Astronomics:** Single G-class star (a yellow, Sol-like star). Rech is the third of 8 planets. A stormy gas giant, "Maelstrom," is the sixth planet.
 *   **Description:** A large, tainted world with a population in the millions but a poor starport. The most notable feature is its state of anarchy.
 *   **UPP (D9957AA-6):**
@@ -11,6 +13,10 @@
     *   **Law Level:** A (Severe: All weapons and armor prohibited)
     *   **Tech Level:** 6 (Industrial)
 *   **Lore:** A world in chaos. The combination of anarchy and a high law level suggests a world where there is no central government, but various powerful factions enforce their own strict rules in their own territories. The "taint" in the atmosphere is industrial pollution. A dangerous but potentially rewarding place for savvy travellers.
+*   **Neighbors:**
+    *   **[Djinni](./djinni.md):** North
+    *   **[Wypoc](./wypoc.md):** North-West
+    *   **K'Kirka:** South-East
 
 ---
 ### Arrival Experience

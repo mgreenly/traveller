@@ -1,4 +1,6 @@
 # Regina (A788899-C)
+*   **Subsector:** Regina
+*   **Coordinates:** 1910
 *   **Astronomics:** Trinary star system (a system with three stars) featuring Lusor, a G-class star (yellow, Sol-like); Speck, an M-class star (cool, red); and Darida, another M-class star. The main world, Regina, is a habitable moon orbiting the gas giant Assiniboia. The system contains 11 other planets and an asteroid belt.
 *   **Description:** A large, dense, water-rich world with a population in the billions. It boasts an excellent starport and is a major hub of activity.
 *   **UPP (A788899-C):**
@@ -11,6 +13,10 @@
     *   **Law Level:** 9 (Extreme: All weapons prohibited)
     *   **Tech Level:** C (12 - Advanced Stellar)
 *   **Lore:** The capital of the Regina subsector and a vital hub on the Spinward Main trade route. It's known for its political importance, wealth, and an archaeological site containing artifacts of the mysterious Ancients.
+*   **Neighbors:**
+    *   **Hefry:** North
+    *   **Rui:** North-West
+    *   **[Jenghe](./jenghe.md):** South-West
 
 ---
 ### Arrival Experience
