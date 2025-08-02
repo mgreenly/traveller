@@ -1,17 +1,26 @@
 # Adventure 001: The Inheritance
 
+## Arrival on Regina
+
+The adventure begins as the players' passenger liner makes its final approach. The view from the ship's viewport is spectacular; the brilliant yellow-white light of Lusor, the system's primary star, glints off the swirling cloud tops of the immense gas giant Assiniboia. The liner banks, revealing their destination: Regina, a lush, water-rich moon, its surface a marble of blue oceans, green landmasses, and swirling white clouds. The sheer volume of ship traffic, from massive corporate freighters to sleek private yachts and grim Imperial Navy patrols, makes it clear this is a major hub of the Imperium.
+
+Disembarking at the Regina Highport is an experience in itself. The starport is a marvel of engineering, a city-sized ring station gleaming with chrome and holograms, bustling with a billion souls. The air hums with a dozen languages as wealthy tourists, sharp-suited corporate executives, and rugged free traders move through the vast, clean concourses under the watchful eyes of Imperial customs officials. After the sterile efficiency of the port, the players descend via a mag-lift into the sprawling metropolis of Capital, a city that covers a continent. The architecture is a stunning mix of impossibly tall, gleaming arcologies and preserved, ancient stone buildings from a forgotten age. The air is thick with the smells of street food from a thousand different worlds and the sounds of grav-vehicle traffic.
+
+Their destination is the legal district, a sterile canyon of obsidian towers. A short grav-cab ride takes them to the offices of **Haskins & Associates**, which occupies the entire 87th floor of a building that seems to pierce the clouds. The reception area is a study in minimalist wealth, all white marble and silent, imposing furniture, a stark contrast to the vibrant chaos of the city below.
+
 ## The Hook
 
 The adventure begins on Regina. Keith, a former student and favored assistant to the reclusive scientist Dr. Aris, receives a message from the law firm **Haskins & Associates**. The firm states that, per instructions from their client, Dr. Aris, they are legally transferring the title of his primary asset—the lab ship *Stardust Drifter*—to Keith. The message is clinical and offers no details on Dr. Aris's current status or whereabouts.
 
 The legal document states the ship was abandoned and powered down within the main asteroid belt of the **Djinni** system. The firm notes with severe caution that Djinni is a **Red Zone**, under Imperial quarantine, and that travel there is strictly forbidden. They provide a unique, one-time activation code for the ship's emergency transponder, but stress that due to the ship's location, they assume no liability for any recovery attempt.
 
-A second, private message from Dr. Aris warns Keith: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named Roric Vance, an information broker. He hangs around the seedy parts of the downport. Tell him the 'Whiskey Jack' needs a fast ship. He'll know what to do. Be ready. Don't let them have my work!"*
+Along with the legal documents, the firm provides a small, sealed data wafer. The lawyer explains, with a hint of frustration, that it was left by Dr. Aris with explicit instructions to be delivered only to Keith. The wafer contains a single message, but it is sealed with a military-grade biolock keyed to Keith's biometrics, which they were unable to bypass. Once Keith presses his thumb to the wafer, it activates, and the message from Dr. Aris warns him: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named Roric Vance, an information broker. He hangs around the seedy parts of the downport. Tell him the 'Whiskey Jack' needs a fast ship. He'll know what to do. Be ready. Don't let them have my work!"*
 
 *   **Potential Skill Checks:**
-    *   **Advocate:** A successful check might reveal that the legal message from Haskins & Associates is carefully worded to aDjinni is a designated **Red Zone** by the Imperium. Travel is forbidden due to the discovery of an unstable, pre-sentient, and highly aggressive native life form in the planet's deep oceans. The Imperial Navy maintains a quarantine cordon at the jump points. The name "Djinni" is a warning from the first survey team that barely escaped.
-bsolve them of all responsibility, but also subtly distances them from Dr. Aris, as if he were a liability. It might also hint that the "one-time activation code" is designed to be tracked.
+    *   **Advocate:** A successful check might reveal that the legal message from Haskins & Associates is carefully worded to absolve them of all responsibility, but also subtly distances them from Dr. Aris, as if he were a liability. It might also hint that the "one-time activation code" is designed to be tracked.
     *   **Investigate:** Used to research Haskins & Associates, revealing they have a reputation for representing clients involved in high-stakes corporate espionage.
+    *   **Computers:** A successful check on the data wafer before opening it could reveal its military-grade strength, underscoring the importance Dr. Aris placed on its security. It would also confirm it is keyed specifically to Keith's biometrics and has no hidden traps.
+    *   **Insight/Streetwise:** A successful check on the lawyer's demeanor might reveal their frustration is not just about being unable to read the message, but also about being cut out of a potentially lucrative information loop.
 
 ## The Goal
 
@@ -50,18 +59,26 @@ Roric's information is the end of his involvement, leaving the players to arrang
     *   **Deception:** Can be used to mask their true intentions when questioned by suspicious port officials about their travel plans.
 
 ### Stop 1: Jenghe
+The jump to Jenghe is short, the system dominated by a single, cool K-class star that bathes the system in a perpetual orange twilight. The main world is a water-heavy planet, its continents shrouded in a thick, tainted atmosphere that gives the clouds a sickly yellow hue. As a colonial holding of Regina, it feels like a distant suburb—less important, less crowded, and a significant step down in every regard.
+
 The first leg to Jenghe is a short, comfortable hop on a subsidized colonial liner. Jenghe's starport is a clean, functional facility smelling of processed grains and machinery, a clear step down from the grandeur of the subsector capital. Finding passage onward requires asking around the cargo dispatch offices, as major passenger liners don't stop here; they'll need to negotiate a fare on a bulk hauler heading rimward. Accommodations are spartan but safe, and the local bars are filled with weary agricultural workers and ship crews exchanging mundane gossip.
 *   **Passage to Dinom:** Securing passage on a cargo hauler costs around Cr1,500 for Low Passage (a bunk in a converted container) or Cr6,000 for a cramped but private cabin (Standard Passage).
 
 ### Stop 2: Dinom
+The approach to Dinom reveals a bleak, lonely system orbiting a dim K-class star. The planet is a small, pockmarked world of grey rock, entirely without an atmosphere or any sign of native life. The only point of light is the starport, a small cluster of domes and landing pads carved into the rock near a massive mining operation. This is a place built for function, not comfort, existing only to extract resources from the lifeless ground.
+
 The ride to Dinom is on a cramped ore hauler, the ship vibrating with the strain of its heavy load. The starport is little more than a patch of flattened rock and a few prefabricated structures, the vacuum of space held back by humming force fields. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye the players with suspicion. Here, they hear another rumor about the Rust Dogs: a story about how the crew recently "salvaged" a disabled prospector's ship, leaving the owner stranded.
 *   **Passage to Dinomn:** A few corporate transports offer more regular service. Standard Passage in a shared cabin costs around Cr8,000, while a private room runs closer to Cr12,000. Low Passage is not available.
 
 ### Stop 3: Dinomn
+In contrast to its neighbor, the Dinomn system feels much more welcoming, orbiting a familiar yellow G-class star much like Earth's sun. The view is dominated by the majestic, ringed gas giant Chronos, a popular destination for tourists and a key strategic location for the Imperial Scouts. The main world is a pleasant-looking planet of brown continents and blue seas, and the increased ship traffic suggests a return to a more civilized and orderly part of the sector.
+
 Jumping to Dinomn feels like a return to civilization, with its well-maintained starport and standard atmosphere. The system is home to a small Imperial Scout Base, and the players might see scout ships on patrol or uniformed personnel in the bars, lending an air of order. From the starport concourse, they see the *Scrap Vulture* docked at a secure berth across the field, undergoing a rapid refueling. The Rust Dogs are seen moving with purpose, their efficiency a stark contrast to the more relaxed pace of the system.
 *   **Passage to Wypoc:** This is a standard commercial route. Low Passage is Cr2,000, Standard is Cr10,000, and a few luxury liners even offer High Passage for Cr25,000.
 
 ### Stop 4: Wypoc
+The Wypoc system is dominated by its brilliant, hot F-class star, forcing the ship's viewports to polarize against the harsh, blue-white light. The planet itself is a large, hazy orb with an unbreathable argon atmosphere, its surface obscured by thick, churning clouds. The system feels remote and isolated, a true frontier outpost where the environment itself is hostile to human life.
+
 Arriving at Wypoc is a jarring return to the frontier, as the starport is just a collection of pressurized domes connected by sterile corridors. The exotic, argon-heavy atmosphere requires filter masks the moment they step off the ship, and the high law level means Imperial customs officials scrutinize every traveler. Passage to a chaotic world like Rech is viewed with suspicion, forcing the players to discreetly book space on a tramp freighter. Their search for a ride is cut short as they see the *Scrap Vulture* lifting off from a distant pad, a clear sign their rivals are once again one step ahead.
 *   **Passage to Rech:** Finding a captain willing to travel to an anarchic system is difficult and expensive. There are no official tickets; it's a cash-only, off-the-books negotiation. Expect to pay at least Cr20,000 per person for a cramped bunk, with no questions asked and no guarantee of arrival.
 
