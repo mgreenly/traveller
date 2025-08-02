@@ -32,11 +32,13 @@ Once the code phrase is spoken, Roric will provide the crucial information: the 
 
 ## The Journey to Rech
 
-Roric's information is the end of his involvement. The players are now on their own to find passage from Regina to Rech. This is a legal, but not necessarily simple, journey. They will need to book passage on a commercial liner or a free trader, paying their own way and transporting their own gear.
+Roric's information is the end of his involvement, leaving the players to arrange their own multi-jump journey from Regina to Rech. This is a legal, but not necessarily simple, undertaking that will test their patience and resourcefulness as they hop from system to system.
 
-While waiting for their transport at the Regina starport, they spot a heavily modified freighter, the *Scrap Vulture*, docked at a private berth. The ship is a monstrosity of patched armor plating and oversized weapon mounts, with a crudely painted emblem of a snarling dog on its hull. A grim-faced crew in matching gear is seen loading heavy equipment aboard, their movements efficient and professional. Port authority chatter might reveal the ship is known for "asset recovery," and has a reputation for taking on jobs in hazardous, legally ambiguous zones.
+### Stop 1: Jenghe
+The first leg to Jenghe is a short, comfortable hop on a subsidized colonial liner. Jenghe's starport is a clean, functional facility smelling of processed grains and machinery, a clear step down from the grandeur of the subsector capital. Finding passage onward requires asking around the cargo dispatch offices, as major passenger liners don't stop here; they'll need to negotiate a fare on a bulk hauler heading rimward. Accommodations are spartan but safe, and the local bars are filled with weary agricultural workers and ship crews exchanging mundane gossip.
 
-This journey gives them time to prepare for the dangerous task ahead.
+### Stop 2: Wypoc
+Arriving at Wypoc is a jarring experience, as the frontier starport is little more than a collection of pressurized domes connected by sterile corridors. The exotic, argon-heavy atmosphere requires filter masks the moment they step off the ship, and the high law level means Imperial customs officials scrutinize every traveler. Passage to a chaotic world like Rech is viewed with suspicion, forcing the players to discreetly book space on a tramp freighter willing to skirt regulations. While searching, they spot the unmistakable silhouette of the *Scrap Vulture* lifting off from a distant pad, a clear sign their rivals are still one step ahead.
 
 ## The Search for Kaelen
 
