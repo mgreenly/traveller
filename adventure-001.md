@@ -31,15 +31,34 @@ Disembarking at the Regina Highport is an experience in itself. The starport is 
 
 Their destination is the legal district, a sterile canyon of obsidian towers. A short grav-cab ride takes them to the offices of **Haskins & Associates**, which occupies the entire 87th floor of a cloud-piercing arcology (a massive, self-contained city within a single building). The reception area is a study in minimalist wealth, all white marble and silent, imposing furniture, a stark contrast to the vibrant chaos of the city below.
 
-**The Hook:** [Keith](./players/keith.md), a former student of the reclusive scientist [Dr. Aris](./characters/dr-aris.md), receives a message from the firm. They are legally transferring the title of [Dr. Aris](./characters/dr-aris.md)'s primary asset—the lab ship *Stardust Drifter*—to him.
+### Task Chain: Dealing with Haskins & Associates
+The meeting with the lawyers is the players' first challenge. The goal is not to "win," but to extract as much information as possible. The lawyers will volunteer nothing beyond the legal minimum.
+**Baseline Outcome (Automatic Success):** The players receive the legal documents for the *Stardust Drifter* and the sealed data wafer from Dr. Aris.
 
-The lawyer explains the ship is abandoned in the main asteroid belt of the **[Djinni](./systems/djinni.md)** system, a quarantined **Red Zone**. They provide a one-time activation code for the ship's emergency transponder but assume no liability for any recovery attempt.
+#### Stage 1: Reading the Room (TN 8+)
+As the lawyer presents the case, players can make an **Investigate** or **Advocate** check to gauge the atmosphere.
+*   **Investigate:** Represents observing the lawyer's body language and other out-of-place details.
+*   **Advocate:** Represents sensing the legal implications behind the lawyer's carefully chosen words.
+*   **Success (8+):** The players notice the lawyer's unusual stiffness; it's a carefully constructed wall. They sense a desire to sever all ties with the name "Dr. Aris." This grants a **+1 bonus** to the check in Stage 2.
+*   **Failure (7-):** The lawyer is a perfect corporate drone. This imposes a **-1 penalty** to the check in Stage 2.
 
-Along with the legal documents, the firm provides a data wafer sealed with a military-grade biolock keyed to [Keith](./players/keith.md). Once activated, a message from [Dr. Aris](./characters/dr-aris.md) warns him:
+#### Stage 2: The Inquisition (TN 8+)
+After the presentation, the players can probe for more information with a **Persuade** or **Advocate** check (modified by Stage 1).
+*   **Persuade:** An attempt to break through the corporate facade with a friendly or intimidating approach.
+*   **Advocate:** An attempt to use precise legal questioning to corner the lawyer.
 
-> *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](./characters/roric-vance.md), an information broker. He hangs around the seedy parts of the downport. Tell him the 'Whiskey Jack' needs a fast ship. He'll know what to do. Be ready. Don't let them have my work!"*
+#### Outcome Tiers
+*   **Tier 1: Minimal Success (Failure on Stage 2 check):** The lawyer stonewalls. "All pertinent information is contained within the provided documentation. We have no further comment."
+*   **Tier 2: Standard Success (Success on Stage 2 check):** The lawyer concedes that Dr. Aris was a "problematic" client and that the firm is **terminating its relationship** with him, a major red flag.
+*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** The lawyer makes a critical slip, revealing the one-time transponder code is a **tracking device** that sends a confirmation signal back to the firm's network upon activation.
 
-*   **Skill Checks:** **Advocate** to sense the law firm's liability concerns; **Investigate** to uncover the firm's shady reputation; **Computers** to analyze the data wafer's security; **Insight/Streetwise** to gauge the lawyer's frustration.
+#### The Inheritance
+The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](./players/keith.md). They explain the ship is in the **[Djinni](./systems/djinni.md)** system, a **Red Zone**. They provide the transponder code but assume no liability.
+
+Finally, they provide the data wafer, explaining it is sealed with a biolock keyed to Keith. Once Keith opens it, he receives the message from Dr. Aris:
+> *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](./characters/roric-vance.md)..."*
+
+*   **Optional Action (Computers TN 8+):** Before opening the wafer, a successful check will reveal its military-grade encryption and confirm it has no traps. A failure reveals nothing.
 
 ## Scene 2: The Information Broker
 
@@ -47,13 +66,30 @@ Along with the legal documents, the firm provides a data wafer sealed with a mil
 
 Following [Dr. Aris](./characters/dr-aris.md)'s message, the players must find the information broker **[Roric Vance](./characters/roric-vance.md)** in the seedy underbelly of the [Regina](./systems/regina.md) downport. During their search, they'll hear rumors of a ruthless salvage crew, the **"Rust Dogs,"** who have also been asking about [Dr. Aris](./characters/dr-aris.md).
 
-The players will track Roric to "The Gilded Spacer," a noisy dive bar. He is a washed-up, aging man with a permanent tremor, highly suspicious until the players deliver the code phrase: *"The Whiskey Jack needs a fast ship."*
+The players will track Roric to "The Gilded Spacer," a noisy dive bar. He is a washed-up, aging man with a permanent tremor, highly suspicious of strangers.
 
-Roric's demeanor shifts. He provides the name of the only captain crazy enough for a Red Zone run—**[Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md)**—and her last known location: the anarchic world of **[Rech](./systems/rech.md)**. He then gives them a grim reality check about the cost of such a venture and points them toward their only financial option.
+### Task Chain: Negotiating with Roric Vance
+This encounter is a two-stage task chain. The outcome of the first stage impacts the difficulty of the second, determining the quality of information the players receive.
+**Required Element:** The players MUST use the code phrase: *"The Whiskey Jack needs a fast ship."* Without it, the negotiation automatically fails.
 
-> *"Kaelen's the best, but she's not cheap... you're looking at close to three million... There's a man... a 'financier.' Goes by the name **[Silas Kane](./characters/silas-kane.md)**. He operates out of a high-end pawn shop called 'The Gilded Cage' in the mid-port... be warned: his interest rates are measured in blood, not percentages."*
+#### Stage 1: The Approach (TN 8+)
+The players must make a **Streetwise** or **Investigate** check to approach Vance without making him more paranoid.
+*   **Streetwise:** Represents blending in and reading the room.
+*   **Investigate:** Represents doing homework on Vance to disarm him.
+*   **Success (8+):** The players approach smoothly. **+1 bonus** to their check in Stage 2.
+*   **Failure (7-):** The players are clumsy. Vance is visibly more agitated. **-1 penalty** to their check in Stage 2.
 
-*   **Skill Checks:** **Streetwise** to navigate the downport and find Roric; **Persuade** to get information from locals; **Investigate** to follow the data trail of the Rust Dogs.
+#### Stage 2: The Negotiation (TN 8+)
+After giving the code phrase, the players make a **Persuade** or **Broker** check (modified by Stage 1) to determine how much information Vance shares.
+*   **Persuade:** Represents appealing to Vance's sincerity or loyalty to Dr. Aris.
+*   **Broker:** Represents treating this as a professional transaction.
+
+#### Outcome Tiers
+*   **Tier 1: Minimal Success (Failure on Stage 2 check):** Vance provides only the bare minimum. "The pilot you need is a woman named **Kaelen**. Last I heard, she was running jobs out of **Rech**. That's all I know." He will not provide the ship's name or the lead to Silas Kane.
+*   **Tier 2: Standard Success (Success on Stage 2 check):** Vance relaxes slightly and provides the core information plus a warning. He gives them Kaelen's name, her location (Rech), the name of her ship (*The Void Gambit*), and a grim reality check about the cost (~3 million Credits).
+*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** Vance is impressed and decides to give the players a real chance. He provides all the information from Tier 2, plus the unsolicited, dangerous lead to the financier **[Silas Kane](./characters/silas-kane.md)** at 'The Gilded Cage'.
+
+*   **Referee Note:** If the players fail to get the lead to Silas Kane, they will have to find their own way to raise the funds, likely through much more difficult and less reliable means in the Regina downport.
 
 ## Scene 3: The Journey to the Fringe
 
