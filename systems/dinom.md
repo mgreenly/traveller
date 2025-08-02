@@ -18,3 +18,10 @@
 Dinom is a bleak, lonely system orbiting a dim K-class star. The planet is a small, pockmarked world of grey rock, entirely without an atmosphere or any sign of native life. The only point of light is the starport, a small cluster of domes and landing pads carved into the rock near a massive mining operation. This is a place built for function, not comfort, existing only to extract resources from the lifeless ground.
 
 The starport is little more than a patch of flattened rock and a few prefabricated structures, the vacuum of space held back by humming force fields. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye outsiders with suspicion.
+
+---
+### Factions
+
+*   **The Dinom Mining Corporation (DMC):** The de facto government of the world. The DMC owns the mines, the starport, and the habitat domes.
+*   **The Workers' Union:** A powerful and often militant union that represents the miners. They are in a constant state of negotiation and conflict with the DMC over pay and safety conditions.
+*   **Independent Prospectors:** A small, rugged community of independents who refuse to work for the DMC. They operate on the fringes, searching for the one big score that will let them leave this rock forever.

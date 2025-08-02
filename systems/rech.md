@@ -16,3 +16,11 @@
 ### Arrival Experience
 
 Arrival in the Rech system, which orbits a standard G-class star, is a jarring experience. The planet is a smog-choked ball of industrial grey and polluted brown. The starport is a chaotic, sprawling mess of patched-together landing pads, temporary structures, and heavily armed faction checkpoints. This is a place where the rule of law is what the person with the biggest gun says it is, and every interaction is fraught with potential danger.
+
+---
+### Factions
+
+*   **The Starport Authority:** A heavily armed security force that controls the main landing pads. They extort high fees for "protection" and "priority" docking.
+*   **The Smelters' Union:** A powerful workers' collective that controls the vast industrial zones. They are known for their brutal enforcement of their own laws within their territory.
+*   **The Free-Traders' Alliance:** A loose coalition of independent captains, brokers, and merchants who try to maintain a semblance of order in the chaotic markets. They are a good source of information, for a price.
+*   **Various Warlords:** Numerous smaller, heavily armed gangs who control specific districts or even single city blocks through violence and intimidation.

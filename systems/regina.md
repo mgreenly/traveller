@@ -18,3 +18,11 @@
 The view from an approaching vessel is spectacular; the brilliant yellow-white light of Lusor glints off the swirling cloud tops of the immense gas giant Assiniboia. Regina, a lush, water-rich moon, presents as a marble of blue oceans, green landmasses, and swirling white clouds. The sheer volume of ship traffic—from massive corporate freighters to sleek private yachts and grim Imperial Navy patrols—makes it clear this is a major hub of the Imperium.
 
 The Regina Highport is a marvel of engineering, a city-sized ring station gleaming with chrome and holograms. The vast, clean concourses bustle with a billion souls, and the air hums with a dozen languages as wealthy tourists, sharp-suited corporate executives, and rugged free traders move under the watchful eyes of Imperial customs officials. The port connects to the planetary metropolis of Capital via a mag-lift system, which descends into a sprawling city that covers a continent. The architecture is a stunning mix of impossibly tall, gleaming arcologies and preserved, ancient stone buildings from a forgotten age.
+
+---
+### Factions
+
+*   **The Imperial Navy:** As the subsector capital, Regina hosts a significant naval presence, from capital ships to patrol craft. They are the ultimate authority in the system.
+*   **Mega-Corporations:** Giants like SuSAG and Makhidkarun have massive corporate campuses here, wielding immense economic and political power.
+*   **The University of Regina:** A prestigious institution known for its research into the Ancients. Its archaeological department often competes with corporate interests for access to newly discovered sites.
+*   **Underworld Syndicates:** Beneath the gleaming surface, powerful criminal organizations control smuggling, illegal tech, and information brokering in the downports.

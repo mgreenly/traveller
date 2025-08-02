@@ -18,3 +18,10 @@
 The Wypoc system is dominated by its brilliant, hot F-class star, forcing approaching vessels to polarize their viewports against the harsh, blue-white light. The planet itself is a large, hazy orb with an unbreathable argon atmosphere, its surface obscured by thick, churning clouds. The system feels remote and isolated, a true frontier outpost where the environment itself is hostile to human life.
 
 The starport is a jarring frontier experience, consisting of a collection of pressurized domes connected by sterile corridors. The exotic, argon-heavy atmosphere requires filter masks the moment travelers step off a ship, and the high law level means Imperial customs officials scrutinize every traveler.
+
+---
+### Factions
+
+*   **The Wypoc Directorate:** The democratically elected government that rules the system. They are responsible for the unusually high law level, which they see as necessary to maintain order on the frontier.
+*   **Imperial Customs and Excise:** Due to the high law level, the Imperial customs office has a much larger and more powerful presence here than in other frontier systems. They are meticulous and not open to bribery.
+*   **The Free Prospectors' Guild:** A loose affiliation of miners and explorers who resent the Directorate's tight control. They are constantly pushing the boundaries of the law in their search for new resources.

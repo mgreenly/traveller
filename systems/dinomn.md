@@ -18,3 +18,10 @@
 In contrast to its neighbor, the Dinomn system is much more welcoming, orbiting a familiar yellow G-class star. The view is dominated by the majestic, ringed gas giant Chronos, a popular destination for tourists and a key strategic location for the Imperial Scouts. The main world is a pleasant-looking planet of brown continents and blue seas, and the increased ship traffic suggests a more civilized and orderly part of the sector.
 
 The starport is well-maintained, and the presence of uniformed Imperial Scout personnel lends an air of order.
+
+---
+### Factions
+
+*   **The Imperial Scout Service:** The most powerful and respected faction in the system. They operate the scout base in orbit of Chronos and use Dinomn as a key supply and leave port.
+*   **The Ruling Families:** The "Self-Perpetuating Oligarchy" is composed of a few powerful families who control the planet's primary industries and government.
+*   **The Chronos Tourist Board:** A civilian agency that promotes tourism to the rings of Chronos. They often find themselves at odds with the secrecy and strict regulations of the Scout Service.
