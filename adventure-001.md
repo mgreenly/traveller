@@ -1,5 +1,20 @@
 # Adventure 001: The Inheritance
 
+## Table of Contents
+*   [Overview & Goal](#overview--goal)
+*   [Scene 1: An Unexpected Inheritance](#scene-1-an-unexpected-inheritance)
+*   [Scene 2: The Information Broker](#scene-2-the-information-broker)
+*   [Scene 3: The Journey to the Fringe](#scene-3-the-journey-to-the-fringe)
+*   [Scene 4: Anarchy and Opportunity](#scene-4-anarchy-and-opportunity)
+*   [Scene 5: The Djinni Run](#scene-5-the-djinni-run)
+*   [Scene 6: Climax in the Belt](#scene-6-climax-in-the-belt)
+*   [Resolution](#resolution)
+*   [Appendix A: Random Encounters](#appendix-a-random-encounters)
+*   [Appendix B: Dramatis Personae](#appendix-b-dramatis-personae)
+*   [Appendix C: Starships](#appendix-c-starships)
+
+---
+
 ## Overview & Goal
 
 This adventure begins with a classic Traveller problem: the players are given a ship they can't afford to recover. They will inherit the title to the advanced lab ship *Stardust Drifter*, but the vessel is abandoned and powered down in the [Djinni](./systems/djinni.md) system, a quarantined Red Zone.
@@ -73,7 +88,7 @@ This encounter is a two-stage task chain. The outcome of the first stage impacts
 **Required Element:** The players MUST use the code phrase: *"The Whiskey Jack needs a fast ship."* Without it, the negotiation automatically fails.
 
 #### Stage 1: The Approach (TN 8+)
-The players must make a **Streetwise** or **Investigate** check to approach Vance without making him more paranoid.
+The players must make a **Streetwise** or **Investigate** check to approach Vance withoutmaking him more paranoid.
 *   **Streetwise:** Represents blending in and reading the room.
 *   **Investigate:** Represents doing homework on Vance to disarm him.
 *   **Success (8+):** The players approach smoothly. **+1 bonus** to their check in Stage 2.
