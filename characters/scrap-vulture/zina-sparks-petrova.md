@@ -1,6 +1,7 @@
 # Zina "Sparks" Petrova
 
 *   **Role:** Antagonist, Engineer/Medic of the "Rust Dogs"
+*   **Affiliation:** Crew of the [*Scrap Vulture*](../../ships/scrap-vulture.md)
 *   **Description:** A focused, grim-faced woman with grease-stained hands and a tool kit that's never more than an arm's length away. She views people with the same detached, analytical gaze she uses on a faulty power conduit, making her an efficient, if unnerving, medic.
 *   **UPP (68A893):**
     *   **Strength:** 6 (Average)

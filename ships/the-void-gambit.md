@@ -19,6 +19,6 @@
 *   **Cargo:** 68 tons
 
 ## Crew
-*   **Captain Kaelen:** Pilot, Leader
-*   **Jax:** Engineer, Pilot
-*   **"Grim":** Gunner, Muscle
+*   **[Captain Kaelen](../characters/the-void-gambit/captain-kaelen.md):** Pilot, Leader
+*   **[Jax](../characters/the-void-gambi/jax.md):** Engineer, Pilot
+*   **["Grim"](../characters/the-void-gambit/grim.md):** Gunner, Muscle

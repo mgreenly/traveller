@@ -1,6 +1,7 @@
 # Joric "Slick" Fen
 
 *   **Role:** Antagonist, Pilot/Slicer of the "Rust Dogs"
+*   **Affiliation:** Crew of the [*Scrap Vulture*](../../ships/scrap-vulture.md)
 *   **Description:** A wiry, fast-talking man in his late 20s with a cocky grin and fingers that are constantly drumming on any available surface. He believes he's the best pilot in the subsector and has the skills to back it up, making him arrogant and prone to taking unnecessary risks for a bigger thrill or payout.
 *   **UPP (7B8954):**
     *   **Strength:** 7 (Above Average)

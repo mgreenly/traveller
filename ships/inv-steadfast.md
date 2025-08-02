@@ -1,7 +1,7 @@
 # INV Steadfast (Vigilant-class Corvette)
 
 ## Description
-The INV *Steadfast* is a *Vigilant*-class corvette, a common but effective patrol and interdiction vessel used by the Imperial Navy. It is a symbol of Imperial authority, kept in pristine condition by its professional crew. The ship is designed for extended patrol duties in contested or dangerous systems, with enough firepower to outclass any pirate, smuggler, or civilian vessel it is likely to encounter. Its current mission is to enforce the quarantine of the Djinni system, a dull but critical task.
+The INV *Steadfast* is a *Vigilant*-class corvette, a common but effective patrol and interdiction vessel used by the Imperial Navy. It is a symbol of Imperial authority, kept in pristine condition by its professional crew. The ship is designed for extended patrol duties in contested or dangerous systems, with enough firepower to outclass any pirate, smuggler, or civilian vessel it is likely to encounter. Its current mission is to enforce the quarantine of the [Djinni](../systems/djinni.md) system, a dull but critical task.
 
 ## Ship Stats
 *   **Hull:** 600 tons
@@ -22,7 +22,7 @@ The INV *Steadfast* is a *Vigilant*-class corvette, a common but effective patro
 
 ## Crew
 *   **Total Crew:** 18
-*   **Commander:** Ship's Captain
+*   **Commander:** [Ship's Captain](../characters/inv-steadfast/captain-valerius-thorne.md)
 *   **Bridge Crew:** 5 (Pilot, Navigator, 2x Sensor Ops, Comms)
 *   **Engineering:** 4 (Chief Engineer, 3x Technicians)
 *   **Gunners:** 6 (2 per turret)
@@ -31,8 +31,8 @@ The INV *Steadfast* is a *Vigilant*-class corvette, a common but effective patro
 ---
 ## Key Personnel
 
-### Captain Valerius Thorne
-*   **Description:** A veteran officer in his late 50s, with sharp grey eyes and a meticulously maintained uniform. Thorne is a consummate professional who has built a career on quiet competence and strict adherence to Imperial regulations. He finds the Djinni quarantine duty to be a mind-numbingly dull assignment but runs his ship with unwavering discipline, believing that readiness is the key to survival in the fringe. He is not cruel, but he is inflexible, and he will not tolerate any breach of his assigned patrol.
+### [Captain Valerius Thorne](../characters/inv-steadfast/captain-valerius-thorne.md)
+*   **Description:** A veteran officer in his late 50s, with sharp grey eyes and a meticulously maintained uniform. Thorne is a consummate professional who has built a career on quiet competence and strict adherence to Imperial regulations. He finds the [Djinni](../systems/djinni.md) quarantine duty to be a mind-numbingly dull assignment but runs his ship with unwavering discipline, believing that readiness is the key to survival in the fringe. He is not cruel, but he is inflexible, and he will not tolerate any breach of his assigned patrol.
 *   **UPP (9A8A87):**
     *   **Strength:** 9 (Above Average)
     *   **Dexterity:** A (10 - Notable)

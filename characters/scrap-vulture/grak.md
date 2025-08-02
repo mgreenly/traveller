@@ -1,6 +1,7 @@
 # Grak
 
 *   **Role:** Antagonist, Muscle of the "Rust Dogs"
+*   **Affiliation:** Crew of the [*Scrap Vulture*](../../ships/scrap-vulture.md)
 *   **Description:** A mountain of a man, heavily augmented with obvious, industrial-grade cybernetics in his arms and legs that hiss with movement. He rarely speaks, communicating mostly through intimidating glares and monosyllabic grunts, letting his sheer size and the Combat Shotgun he always carries do the talking.
 *   **UPP (C9A532):**
     *   **Strength:** C (12 - Impressive)

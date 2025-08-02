@@ -1,6 +1,6 @@
 # Jax
 
-*   **Role:** Ally, Engineer/Pilot of *The Void Gambit*
+*   **Role:** Ally, Engineer/Pilot of [*The Void Gambit*](../../ships/the-void-gambit.md)
 *   **Description:** A young, lanky prodigy in his early 20s with a mop of unruly hair and an infectious, high-energy enthusiasm for all things mechanical. He can push the ship's systems to their absolute limit and beyond, often jury-rigging solutions that defy the manufacturer's specs. He sees the *Void Gambit* not as a machine, but as a living entity that he communicates with.
 *   **UPP (67BA94):**
     *   **Strength:** 6 (Average)

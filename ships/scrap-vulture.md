@@ -19,7 +19,7 @@ The *Scrap Vulture* is a monstrosity of a ship, a heavily modified freighter tha
 *   **Cargo:** 70 tons
 
 ## Crew (The "Rust Dogs")
-*   **Kaelen "Wrench" Riker:** Leader
-*   **Joric "Slick" Fen:** Pilot/Slicer
-*   **Grak:** Muscle/Gunner
-*   **Zina "Sparks" Petrova:** Engineer/Medic
+*   **[Kara "Wrench" Riker](../characters/scrap-vulture/kara-wrench-riker.md):** Leader
+*   **[Joric "Slick" Fen](../characters/scrap-vulture/joric-slick-fen.md):** Pilot/Slicer
+*   **[Grak](../characters/scrap-vulture/grak.md):** Muscle/Gunner
+*   **[Zina "Sparks" Petrova](../characters/scrap-vulture/zina-sparks-petrova.md):** Engineer/Medic

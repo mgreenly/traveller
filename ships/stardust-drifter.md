@@ -1,7 +1,7 @@
 # Stardust Drifter (Lab Ship)
 
 ## Description
-The *Stardust Drifter* is a heavily modified Type S Scout/Courier, repurposed by the reclusive scientist Dr. Aris for long-range exploration and research in hazardous environments. Its exterior is weathered and scarred from years of travel through uncharted space. Internally, the standard passenger cabins have been replaced with a state-of-the-art, albeit cramped, research laboratory and sample containment units. The ship is old but was once top-of-the-line, a testament to Dr. Aris's dedication to his work.
+The *Stardust Drifter* is a heavily modified Type S Scout/Courier, repurposed by the reclusive scientist [Dr. Aris](../characters/dr-aris.md) for long-range exploration and research in hazardous environments. Its exterior is weathered and scarred from years of travel through uncharted space. Internally, the standard passenger cabins have been replaced with a state-of-the-art, albeit cramped, research laboratory and sample containment units. The ship is old but was once top-of-the-line, a testament to [Dr. Aris](../characters/dr-aris.md)'s dedication to his work.
 
 ## Ship Stats (Based on a Type S Scout/Courier)
 *   **Hull:** 100 tons
@@ -20,5 +20,5 @@ The *Stardust Drifter* is a heavily modified Type S Scout/Courier, repurposed by
 
 ## Crew
 *   **Current Crew:** None (abandoned)
-*   **Original Owner:** Dr. Aris
-*   **Intended Recipient:** Keith (Player Character)
+*   **Original Owner:** [Dr. Aris](../characters/dr-aris.md)
+*   **Intended Recipient:** [Keith](../characters/keith.md) (Player Character)
