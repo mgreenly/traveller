@@ -8,6 +8,10 @@ The legal document states the ship was abandoned and powered down within the mai
 
 A second, private message from Dr. Aris warns Keith: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named Roric Vance, an information broker. He hangs around the seedy parts of the downport. Tell him the 'Whiskey Jack' needs a fast ship. He'll know what to do. Be ready. Don't let them have my work!"*
 
+*   **Potential Skill Checks:**
+    *   **Advocate:** A successful check might reveal that the legal message from Haskins & Associates is carefully worded to absolve them of all responsibility, but also subtly distances them from Dr. Aris, as if he were a liability. It might also hint that the "one-time activation code" is designed to be tracked.
+    *   **Investigate:** Used to research Haskins & Associates, revealing they have a reputation for representing clients involved in high-stakes corporate espionage.
+
 ## The Goal
 
 The players' immediate goals are:
@@ -26,6 +30,11 @@ During their search, they may pick up unsettling rumors about a brutal salvage c
 
 After some investigation, they will track Roric to a secluded booth in a noisy bar called "The Gilded Spacer."
 
+*   **Potential Skill Checks:**
+    *   **Streetwise:** The primary skill for this section. Success allows the players to ask the right questions in the right places, avoiding scams and gang trouble. A high level of success could lead them to Roric faster and provide more detailed rumors about the Rust Dogs.
+    *   **Persuade:** Useful for convincing reluctant informants to talk or for negotiating a bribe with a port official.
+    *   **Investigate:** Could be used to follow the data trail of the Rust Dogs' inquiries, confirming they are searching for information related to Dr. Aris.
+
 *   **Roric Vance:** A washed-up, aging information broker with a permanent tremor in his hands. He will be highly suspicious of the players until they give him the code phrase from Dr. Aris: "The Whiskey Jack needs a fast ship."
 
 Once the code phrase is spoken, Roric will provide the crucial information: the name of the only captain crazy enough to help them, **Kaelen**, and her last known location, the anarchic world of **Rech**. He provides the name of her ship, *The Void Gambit*, but has no way of contacting her.
@@ -33,6 +42,11 @@ Once the code phrase is spoken, Roric will provide the crucial information: the 
 ## The Journey to Rech
 
 Roric's information is the end of his involvement, leaving the players to arrange their own multi-jump journey from Regina to Rech. This is a legal, but not necessarily simple, undertaking that will test their patience and resourcefulness as they hop from system to system, with each stop taking them further from Imperial law and closer to the fringes.
+
+*   **Potential Skill Checks:**
+    *   **Broker:** The key skill for negotiating passage on various freighters. A good roll can lower the price or secure more comfortable quarters.
+    *   **Streetwise:** Essential for finding a discreet pilot willing to fly to a place like Rech, especially when under the watchful eye of Wypoc's customs.
+    *   **Deception:** Can be used to mask their true intentions when questioned by suspicious port officials about their travel plans.
 
 ### Stop 1: Jenghe
 The first leg to Jenghe is a short, comfortable hop on a subsidized colonial liner. Jenghe's starport is a clean, functional facility smelling of processed grains and machinery, a clear step down from the grandeur of the subsector capital. Finding passage onward requires asking around the cargo dispatch offices, as major passenger liners don't stop here; they'll need to negotiate a fare on a bulk hauler heading rimward. Accommodations are spartan but safe, and the local bars are filled with weary agricultural workers and ship crews exchanging mundane gossip.
@@ -56,6 +70,11 @@ Soon after, a nervous informant tells the players that the Rust Dogs are not jus
 
 Eventually, they will track her down and must persuade her to take on their impossible mission. The story of Dr. Aris and the promise of a massive payday will be their primary bargaining chips.
 
+*   **Potential Skill Checks:**
+    *   **Persuade:** Crucial for convincing Captain Kaelen to take such a dangerous and illegal job. This will likely be an opposed check against her initial skepticism.
+    *   **Broker:** Useful for negotiating the terms of the contract, including the crew's payment, potential salvage rights, and liability.
+    *   **Streetwise:** Helps the players navigate the faction-controlled territories of Rech without getting into trouble, and is key to finding a reliable informant who can point them toward Kaelen.
+
 ### The Crew of *The Void Gambit*
 *   **The Ship:** A heavily modified Type A Free Trader, *The Void Gambit*. Its cargo bay is smaller than standard, making way for upgraded and overclocked maneuver drives, giving it exceptional agility for a ship of its size.
 *   **Captain Kaelen:** A sharp-witted and pragmatic ex-scout who was discharged for "insubordination" and now makes a living taking on the jobs no one else will touch.
@@ -66,6 +85,11 @@ Eventually, they will track her down and must persuade her to take on their impo
 
 The Djinni system is a silent, dangerous place. An Imperial Navy patrol vessel is on station, monitoring the jump points. The players must enter the system undetected and navigate to the asteroid belt. Activating the transponder is now an act of extreme desperation, as it will alert not only their rivals but also the Imperial Navy patrol to their exact location, triggering an immediate response.
 
+*   **Potential Skill Checks (Ship Actions):**
+    *   **Pilot:** Required for the delicate maneuvers needed to slip past the Navy patrol and navigate the dense asteroid field.
+    *   **Sensors:** To detect the Imperial patrol from a safe distance and identify a clear path into the system. A failed roll could mean jumping in too close to the patrol.
+    *   **Engineer:** To minimize the ship's emissions and run silently, making it harder for the Navy to detect them.
+
 ## Complications
 
 *   **The Imperial Navy:** A *Vigilant* class corvette, the INV *Steadfast*, is on patrol. It will respond to any unauthorized ship signatures or transponder signals. It is a vastly superior vessel to anything the players or their rivals are likely to have.
@@ -74,6 +98,11 @@ The Djinni system is a silent, dangerous place. An Imperial Navy patrol vessel i
     *   **Booby traps:** Simple but effective traps designed to disable or injure intruders.
     *   **A "guest" on board:** Dr. Aris's research was the reason Djinni was declared a Red Zone. He may have left a sample of the system's dangerous native life form on the ship, contained for now.
     *   **A cryptic log:** The final log entry will explain the nature of his research and why he had to abandon the ship in a Red Zone.
+*   **Potential Skill Checks:**
+    *   **Investigate:** To spot the booby traps before they are triggered.
+    *   **Mechanics/Explosives:** To safely disarm the traps once they are found.
+    *   **Science (Biology):** To understand the nature of the contained life form and the dangers it poses.
+    *   **Science (any):** To decipher the cryptic, technical language in Dr. Aris's final log entry.
 *   **The Red Zone Hazard:** The native life form that caused the quarantine is a constant background threat. While the players are in the asteroid belt, they are relatively safe, but any extended stay increases the risk of an encounter.
 
 ## Resolution
