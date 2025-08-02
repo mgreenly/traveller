@@ -9,20 +9,20 @@ This map shows the jump-1 connections between the systems relevant to the "Inher
                 |    /|
                 D   W |
                  \ / \|
-                  N   R
+                  N   C
                        \
                         K
 ```
 
 ## Map Key
-*   **R:** [Regina](./regina.md) (1910)
-*   **J:** [Jenghe](./jenghe.md) (1810)
-*   **D:** [Dinom](./dinom.md) (1811)
-*   **N:** [Dinomn](./dinomn.md) (1912)
-*   **W:** [Wypoc](./wypoc.md) (2011)
-*   **C:** [Rech](./rech.md) (2112)
-*   **I:** [Djinni](./djinni.md) (2111)
-*   **K:** K'Kirka
+*   **R:** (1910) [Regina](./regina.md)
+*   **J:** (1810) [Jenghe](./jenghe.md)
+*   **D:** (1811) [Dinom](./dinom.md)
+*   **N:** (1912) [Dinomn](./dinomn.md)
+*   **W:** (2011) [Wypoc](./wypoc.md)
+*   **C:** (2112) [Rech](./rech.md)
+*   **I:** (2111) [Djinni](./djinni.md)
+*   **K:** (2212) [K'Kirka](./k-kirka.md)
 
 
 ## Jump Routes
@@ -34,6 +34,9 @@ This map shows the jump-1 connections between the systems relevant to the "Inher
 4.  **(N)** to **(W)** - 1 Parsec - Dinomn to Wypoc
 5.  **(W)** to **(C)** - 1 Parsec - Wypoc to Rech
 6.  **(C)** to **(I)** - 1 Parsec - Rech to Djinni
+
+
+
 
 ```
 

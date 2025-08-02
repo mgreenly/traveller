@@ -101,11 +101,11 @@ After giving the code phrase, the players make a **Persuade** or **Broker** chec
 *   **Broker:** Represents treating this as a professional transaction.
 
 #### Outcome Tiers
-*   **Tier 1: Minimal Success (Failure on Stage 2 check):** Vance provides only the bare minimum. "The pilot you need is a woman named **Kaelen**. Last I heard, she was running jobs out of **Rech**. That's all I know." He will not provide the ship's name or the lead to Silas Kane.
+*   **Tier 1: Minimal Success (Failure on Stage 2 check):** Vance provides only the bare minimum. "The pilot you need is a woman named **Kaelen**. Last I heard, she was running jobs out of **Rech**. That's all I know." He will not provide the ship's name or the lead to Silas "The Gilded" Kane.
 *   **Tier 2: Standard Success (Success on Stage 2 check):** Vance relaxes slightly and provides the core information plus a warning. He gives them Kaelen's name, her location (Rech), the name of her ship (*The Void Gambit*), and a grim reality check about the cost (~3 million Credits).
-*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** Vance is impressed and decides to give the players a real chance. He provides all the information from Tier 2, plus the unsolicited, dangerous lead to the financier **[Silas Kane](./characters/silas-kane.md)** at 'The Gilded Cage'.
+*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** Vance is impressed and decides to give the players a real chance. He provides all the information from Tier 2, plus the unsolicited, dangerous lead to the financier **[Silas "The Gilded" Kane](./characters/silas-kane.md)** at 'The Gilded Cage'.
 
-*   **Referee Note:** If the players fail to get the lead to Silas Kane, they will have to find their own way to raise the funds, likely through much more difficult and less reliable means in the Regina downport.
+*   **Referee Note:** If the players fail to get the lead to Silas "The Gilded" Kane, they will have to find their own way to raise the funds, likely through much more difficult and less reliable means in the Regina downport.
 
 ## Scene 3: The Journey to the Fringe
 
@@ -233,7 +233,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   **[Dr. Aris](./characters/dr-aris.md):** The mysterious, reclusive scientist who bequeaths the *Stardust Drifter*.
 *   **[Keith](./players/keith.md):** [Dr. Aris](./characters/dr-aris.md)'s former student and the player character who inherits the ship.
 *   **[Roric Vance](./characters/roric-vance.md):** An aging information broker on [Regina](./systems/regina.md).
-*   **[Silas Kane](./characters/silas-kane.md):** A predatory financier on [Regina](./systems/regina.md).
+*   **[Silas "The Gilded" Kane](./characters/silas-kane.md):** A predatory financier on [Regina](./systems/regina.md).
 *   **The Crew of *The Void Gambit***
     *   **[Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md):** A pragmatic and skilled ex-scout captain.
     *   **[Jax](./characters/the-void-gambit/jax.md):** A brilliant, high-energy engineer.
