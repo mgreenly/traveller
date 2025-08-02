@@ -207,6 +207,16 @@ The lab is a mess of scattered papers and broken glassware, all floating in zero
 
 > **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship has just jumped into the system nearby. It's the *Scrap Vulture*, its brutish, heavily armored hull and oversized weapon mounts making it look like a predator. They've used you as a beacon, and now they're racing towards you, hoping to claim the prize before the Navy corvette, now accelerating in your direction, can intervene.
 
+### Optional Objective: Boarding the *Scrap Vulture*
+If the players manage to disable and board the rival vessel during the confrontation, they can gain crucial intelligence. A successful **Computers (TN 8)** check on the captain's terminal on the *Scrap Vulture's* bridge reveals two critical items:
+
+1.  **The Acquisition Contract:** The job was issued by a shell corporation named **"Fringe Asset Recovery, LLC."** The contract is for the "forced acquisition" of the *Stardust Drifter*, with a massive bonus for securing the lab and any biological samples intact. A subsequent **Streetwise or Broker (TN 8)** check made later in a civilized system will reveal that "Fringe Asset Recovery" is a known front for **Makhidkarun's** special projects division.
+
+2.  **The Ghost in the Machine:** A recent ship's log entry from Kara Riker expresses frustration over a recent systems breach. It reads:
+    > *"Slick's diagnostics confirm it. The intrusion was military-grade. Pinpoint, traceless, and gone before we could even react. It wasn't a corporate rival; the profile is wrong. The only signature that fits this kind of ghost is Imperial, and not the standard Navy spooks. This has all the hallmarks of an S86 op. They're watching this prize, too. We need to move faster."*
+
+This log entry confirms that a third, highly secretive power is monitoring the situation, and the rivals themselves have identified it as the legendary Section 86.
+
 ## Resolution
 
 The adventure concludes when the players escape the [Djinni](./systems/djinni.md) system with the *Stardust Drifter*. To make their ownership official, they must file a salvage and inheritance claim at a high-class starport, likely **[Regina](./systems/regina.md)** or **[Jenghe](./systems/jenghe.md)**. This sets the stage for future adventures, where they must deal with their massive debt and the true nature of [Dr. Aris](./characters/dr-aris.md)'s research.
