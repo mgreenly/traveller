@@ -32,13 +32,19 @@ Once the code phrase is spoken, Roric will provide the crucial information: the 
 
 ## The Journey to Rech
 
-Roric's information is the end of his involvement, leaving the players to arrange their own multi-jump journey from Regina to Rech. This is a legal, but not necessarily simple, undertaking that will test their patience and resourcefulness as they hop from system to system.
+Roric's information is the end of his involvement, leaving the players to arrange their own multi-jump journey from Regina to Rech. This is a legal, but not necessarily simple, undertaking that will test their patience and resourcefulness as they hop from system to system, with each stop taking them further from Imperial law and closer to the fringes.
 
 ### Stop 1: Jenghe
 The first leg to Jenghe is a short, comfortable hop on a subsidized colonial liner. Jenghe's starport is a clean, functional facility smelling of processed grains and machinery, a clear step down from the grandeur of the subsector capital. Finding passage onward requires asking around the cargo dispatch offices, as major passenger liners don't stop here; they'll need to negotiate a fare on a bulk hauler heading rimward. Accommodations are spartan but safe, and the local bars are filled with weary agricultural workers and ship crews exchanging mundane gossip.
 
-### Stop 2: Wypoc
-Arriving at Wypoc is a jarring experience, as the frontier starport is little more than a collection of pressurized domes connected by sterile corridors. The exotic, argon-heavy atmosphere requires filter masks the moment they step off the ship, and the high law level means Imperial customs officials scrutinize every traveler. Passage to a chaotic world like Rech is viewed with suspicion, forcing the players to discreetly book space on a tramp freighter willing to skirt regulations. While searching, they spot the unmistakable silhouette of the *Scrap Vulture* lifting off from a distant pad, a clear sign their rivals are still one step ahead.
+### Stop 2: Dinom
+The ride to Dinom is on a cramped ore hauler, the ship vibrating with the strain of its heavy load. The starport is little more than a patch of flattened rock and a few prefabricated structures, the vacuum of space held back by humming force fields. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye the players with suspicion. Here, they hear another rumor about the Rust Dogs: a story about how the crew recently "salvaged" a disabled prospector's ship, leaving the owner stranded.
+
+### Stop 3: Dinomn
+Jumping to Dinomn feels like a return to civilization, with its well-maintained starport and standard atmosphere. The system is home to a small Imperial Scout Base, and the players might see scout ships on patrol or uniformed personnel in the bars, lending an air of order. From the starport concourse, they see the *Scrap Vulture* docked at a secure berth across the field, undergoing a rapid refueling. The Rust Dogs are seen moving with purpose, their efficiency a stark contrast to the more relaxed pace of the system.
+
+### Stop 4: Wypoc
+Arriving at Wypoc is a jarring return to the frontier, as the starport is just a collection of pressurized domes connected by sterile corridors. The exotic, argon-heavy atmosphere requires filter masks the moment they step off the ship, and the high law level means Imperial customs officials scrutinize every traveler. Passage to a chaotic world like Rech is viewed with suspicion, forcing the players to discreetly book space on a tramp freighter. Their search for a ride is cut short as they see the *Scrap Vulture* lifting off from a distant pad, a clear sign their rivals are once again one step ahead.
 
 ## The Search for Kaelen
 
