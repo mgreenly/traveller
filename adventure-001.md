@@ -6,29 +6,26 @@ The adventure begins on Regina. Keith, a former student and favored assistant to
 
 The legal document states the ship was abandoned and powered down within the main asteroid belt of the **Djinni** system. The firm notes with severe caution that Djinni is a **Red Zone**, under Imperial quarantine, and that travel there is strictly forbidden. They provide a unique, one-time activation code for the ship's emergency transponder, but stress that due to the ship's location, they assume no liability for any recovery attempt.
 
-A second, private message from Dr. Aris warns Keith: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. The Navy thinks they're watching a dead system, but they're not. Be ready. Don't let them have my work!"*
+A second, private message from Dr. Aris warns Keith: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. Find Roric Vance at the Gilded Spacer. Tell him the 'Whiskey Jack' needs a fast ship. He'll know what to do. Be ready. Don't let them have my work!"*
 
 ## The Goal
 
 The players' immediate goals are:
-1.  Find a crew and ship willing to take them to the Djinni system.
-2.  Illegally travel to the Djinni system, bypassing the Imperial Navy quarantine.
-3.  Use the transponder code to locate and secure the *Stardust Drifter* while avoiding both rivals and the Imperial Navy.
-4.  Escape the Red Zone and pilot the ship back to Regina to file their claim.
+1.  Find the information broker, Roric Vance.
+2.  Get the location of a ship and crew from him.
+3.  Hire that crew to take them to the Djinni system.
+4.  Illegally travel to the Djinni system, bypassing the Imperial Navy quarantine.
+5.  Use the transponder code to locate and secure the *Stardust Drifter*.
+6.  Escape the Red Zone and pilot the ship back to Regina to file their claim.
 
-## The Search for a Ship
+## The Search for a Contact
 
-Following the meeting with the law firm, it is clear the players need a ship and a crew that specializes in off-the-books operations. The lawyers advise them that such a service will not be cheap and that the best place to start looking is in the less-reputable districts of the Regina starport.
+Dr. Aris's message gives the players a name and a location: Roric Vance at the Gilded Spacer. Their first task is to find this information broker and get the real lead.
 
-The players can explore several locations:
+*   **The Gilded Spacer:** A dimly lit, smoky bar frequented by free traders, ex-military types, and a few genuine smugglers. The players will need to navigate the patrons and the paranoid atmosphere to find their man.
+*   **Roric Vance:** A washed-up, aging information broker with a permanent tremor in his hands and a nervous habit of looking over his shoulder. He can be found in a secluded corner booth, nursing a drink. He will be highly suspicious of the players until they give him the code phrase from Dr. Aris: "The Whiskey Jack needs a fast ship."
 
-*   **The Gilded Spacer:** A dimly lit, smoky bar frequented by free traders, ex-military types, and a few genuine smugglers. The drinks are cheap, and the patrons are tight-lipped, but a few well-placed bribes might loosen some tongues.
-*   **The Downport Market:** A chaotic, open-air market filled with stalls selling everything from used ship parts to exotic alien foods. Information brokers operate out of the back rooms of seemingly legitimate businesses, trading secrets for credits.
-*   **The Last Jump:** A high-end, exclusive club for starship officers and wealthy merchants. While seemingly legitimate, it's a known place to make discreet connections with individuals who can make problems... or people... disappear.
-
-After several days of searching, spending money, and following false leads, the players will come to a dead end. No one on Regina, with its heavy Imperial Navy presence, is willing to risk a direct flight into a Red Zone. However, their efforts will yield one valuable piece of information: a contact who knows a crew that might just be crazy enough to take the job. This crew operates out of the anarchic world of **Rech**, one jump away from Djinni.
-
-The contact tells them to look for the free trader *The Void Gambit* and its captain, a woman named Kaelen.
+Once the code phrase is spoken, Roric will relax slightly. He'll explain that he owes Dr. Aris a life debt and that the "Whiskey Jack" was Aris's code name. He will tell the players that no one on Regina is foolish enough to fly into a Red Zone, but he knows a crew that might be: Captain Kaelen and her ship, *The Void Gambit*. He'll tell them Kaelen is a former scout with a grudge against the Navy and a reputation for taking impossible jobs. Her last known port of call was the anarchic world of **Rech**, one jump away from Djinni.
 
 ### The Crew of *The Void Gambit*
 *   **The Ship:** A heavily modified Type A Free Trader, *The Void Gambit*. Its cargo bay is smaller than standard, making way for upgraded and overclocked maneuver drives, giving it exceptional agility for a ship of its size.
@@ -38,9 +35,7 @@ The contact tells them to look for the free trader *The Void Gambit* and its cap
 
 ## The Journey
 
-The first leg of the journey is finding passage from Regina to Rech. This is a relatively simple, legal trip that can be booked on any number of commercial liners. Once on Rech, the players will need to navigate the chaotic, faction-controlled spaceport to find *The Void Gambit* and persuade Captain Kaelen to take on their impossible mission. This will require a significant upfront payment and a compelling story.
-
-Once a deal is struck, the real journey begins: a carefully planned, illegal jump into the quarantined Djinni system.
+The first leg of the journey is finding passage from Regina to Rech. This is a relatively simple, legal trip that can be booked on any number of commercial liners. Once on Rech, the players will need to navigate the chaotic, faction-controlled spaceport to find *The Void Gambit* and persuade Captain Kaelen to take on their impossible mission. Roric will have given them a transponder code for her ship, a much more direct way to find her than asking around.
 
 ## The Arrival in Djinni
 
