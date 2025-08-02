@@ -2,36 +2,37 @@
 
 ## The Hook
 
-The adventure begins on Regina. Keith, a former student and favored assistant to the reclusive scientist Dr. Aris, receives a message from the law firm **Haskins & Associates**. It informs him that Dr. Aris has passed away and, as his designated heir, Keith has inherited his primary asset: the lab ship *Stardust Drifter*.
+The adventure begins on Regina. Keith, a former student and favored assistant to the reclusive scientist Dr. Aris, receives a message from the law firm **Haskins & Associates**. The firm states that, per instructions from their client, Dr. Aris, they are legally transferring the title of his primary asset—the lab ship *Stardust Drifter*—to Keith. The message is clinical and offers no details on Dr. Aris's current status or whereabouts.
 
-The legal document states the ship was abandoned and powered down within the main asteroid belt between the third and fourth planets of the **Lanth** system. To aid in its recovery, the law firm provides a unique, one-time activation code for the ship's emergency transponder. When broadcast within the Lanth system, this code will force the *Stardust Drifter*'s transponder to activate, revealing its precise location.
+The legal document states the ship was abandoned and powered down within the main asteroid belt of the **Djinni** system. The firm notes with severe caution that Djinni is a **Red Zone**, under Imperial quarantine, and that travel there is strictly forbidden. They provide a unique, one-time activation code for the ship's emergency transponder, but advise that using it is a crime and that they, the law firm, assume no liability.
 
-A second, private message from Dr. Aris warns Keith: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. Be ready. Don't let them have my work!"*
+A second, private message from Dr. Aris warns Keith: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. The Navy thinks they're watching a dead system, but they're not. Be ready. Don't let them have my work!"*
 
 ## The Goal
 
 The players' immediate goals are:
-1.  Travel from Regina to the Lanth system.
-2.  Strategically use the transponder code to locate and secure the *Stardust Drifter*.
-3.  Pilot the ship back to Regina to file their claim.
+1.  Find a way to illegally travel to the Djinni system, bypassing the Imperial Navy quarantine.
+2.  Use the transponder code to locate and secure the *Stardust Drifter* while avoiding both rivals and the Imperial Navy.
+3.  Escape the Red Zone and pilot the ship back to Regina to file their claim.
 
 ## The Journey
 
-Getting to Lanth from Regina requires finding passage on a ship willing to travel to the dead-end system. This will likely involve negotiation with a free trader or merchant captain, who may be suspicious of a trip to such a quiet system.
+Breaching a Red Zone is a serious crime. The players cannot book legal passage. They must seek out smugglers, criminals, or desperate free traders who are willing to risk Imperial entanglement for a high price. They will need to plan their infiltration carefully, perhaps by finding an unmonitored jump point or using a ship with a sophisticated stealth suite.
 
-## The Arrival in Lanth
+## The Arrival in Djinni
 
-Upon arrival, the players face a tactical decision. Broadcasting the transponder code will reveal the ship's location to them, but it will also alert anyone else in the system who is monitoring ship transmissions. They must decide when and where to activate the code to give themselves the biggest advantage. The asteroid belt provides ample cover but also makes a close-range search difficult and dangerous.
+The Djinni system is a silent, dangerous place. An Imperial Navy patrol vessel is on station, monitoring the jump points. The players must enter the system undetected and navigate to the asteroid belt. Activating the transponder is now an act of extreme desperation, as it will alert not only their rivals but also the Imperial Navy patrol to their exact location, triggering an immediate response.
 
 ## Complications
 
-*   **The "Asset Recovery Specialists":** A team of unethical repo-men, the "Rust Dogs," have been dispatched by the Bank of Regina to seize the *Stardust Drifter*. They know the ship is in the Lanth system but do not have the transponder code. They are patrolling the system, monitoring for any unusual transmissions. The moment the players activate the transponder, the Rust Dogs will know the ship's location and will race to intercept it.
+*   **The Imperial Navy:** A *Vigilant* class corvette, the INV *Steadfast*, is on patrol. It will respond to any unauthorized ship signatures or transponder signals. It is a vastly superior vessel to anything the players or their rivals are likely to have.
+*   **The "Asset Recovery Specialists":** The "Rust Dogs" are also trying to breach the quarantine. They are ruthless and well-equipped, likely using a modified ship with stealth capabilities. They are waiting for the players to take the risk of activating the transponder, at which point they will race to claim the prize, hoping to get in and out before the Navy arrives.
 *   **The Ship's Condition:** The *Stardust Drifter* is not in pristine condition. Dr. Aris, in his paranoia, has left surprises:
     *   **Booby traps:** Simple but effective traps designed to disable or injure intruders.
-    *   **A cryptic log:** Dr. Aris's final log entry will be a cryptic message that hints at why he abandoned the ship and what he was researching. This can be a hook for a future adventure.
-    *   **A "guest" on board:** Dr. Aris may have left behind a piece of his research... a strange alien creature in a containment field, a malfunctioning AI, or something even more bizarre.
-*   **The Lanth System Authorities:** The local authorities on Lanth are not fond of off-worlders causing trouble in their system. If a firefight or a high-speed chase erupts in the asteroid belt, it may attract their attention.
+    *   **A "guest" on board:** Dr. Aris's research was the reason Djinni was declared a Red Zone. He may have left a sample of the system's dangerous native life form on the ship, contained for now.
+    *   **A cryptic log:** The final log entry will explain the nature of his research and why he had to abandon the ship in a Red Zone.
+*   **The Red Zone Hazard:** The native life form that caused the quarantine is a constant background threat. While the players are in the asteroid belt, they are relatively safe, but any extended stay increases the risk of an encounter.
 
 ## Resolution
 
-The adventure concludes when the players have successfully boarded the *Stardust Drifter*, dealt with any immediate threats, and successfully jumped out of the Lanth system on a course for Regina. They have a ship, a sense of accomplishment, and no idea of the financial complications that await them. This sets the stage perfectly for Adventure #2.
+The adventure concludes when the players have successfully boarded the *Stardust Drifter*, dealt with any immediate threats, and successfully escaped the Djinni system, evading both the Rust Dogs and the Imperial Navy. They have a ship, a powerful secret, and are now wanted criminals. This sets the stage perfectly for Adventure #2.
