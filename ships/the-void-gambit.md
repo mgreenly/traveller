@@ -20,5 +20,5 @@
 
 ## Crew
 *   **[Captain Kaelen](../characters/the-void-gambit/captain-kaelen.md):** Pilot, Leader
-*   **[Jax](../characters/the-void-gambi/jax.md):** Engineer, Pilot
+*   **[Jax](../characters/the-void-gambit/jax.md):** Engineer, Pilot
 *   **["Grim"](../characters/the-void-gambit/grim.md):** Gunner, Muscle

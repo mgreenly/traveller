@@ -22,7 +22,7 @@ The INV *Steadfast* is a *Vigilant*-class corvette, a common but effective patro
 
 ## Crew
 *   **Total Crew:** 18
-*   **Commander:** [Ship's Captain](../characters/inv-steadfast/captain-valerius-thorne.md)
+*   **Commander:** [Captain Valerius Thorne](../characters/inv-steadfast/captain-valerius-thorne.md)
 *   **Bridge Crew:** 5 (Pilot, Navigator, 2x Sensor Ops, Comms)
 *   **Engineering:** 4 (Chief Engineer, 3x Technicians)
 *   **Gunners:** 6 (2 per turret)
