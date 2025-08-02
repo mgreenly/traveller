@@ -6,36 +6,53 @@ The adventure begins on Regina. Keith, a former student and favored assistant to
 
 The legal document states the ship was abandoned and powered down within the main asteroid belt of the **Djinni** system. The firm notes with severe caution that Djinni is a **Red Zone**, under Imperial quarantine, and that travel there is strictly forbidden. They provide a unique, one-time activation code for the ship's emergency transponder, but stress that due to the ship's location, they assume no liability for any recovery attempt.
 
-A second, private message from Dr. Aris warns Keith: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. Find Roric Vance at the Gilded Spacer. Tell him the 'Whiskey Jack' needs a fast ship. He'll know what to do. Be ready. Don't let them have my work!"*
+A second, private message from Dr. Aris warns Keith: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named Roric Vance, an information broker. He hangs around the seedy parts of the downport. Tell him the 'Whiskey Jack' needs a fast ship. He'll know what to do. Be ready. Don't let them have my work!"*
 
 ## The Goal
 
 The players' immediate goals are:
-1.  Find the information broker, Roric Vance.
-2.  Get the location of a ship and crew from him.
-3.  Hire that crew to take them to the Djinni system.
-4.  Illegally travel to the Djinni system, bypassing the Imperial Navy quarantine.
+1.  Find the information broker, Roric Vance, on Regina.
+2.  Travel from Regina to Rech.
+3.  Locate and hire Captain Kaelen and her crew.
+4.  Illegally travel with Kaelen to the Djinni system.
 5.  Use the transponder code to locate and secure the *Stardust Drifter*.
 6.  Escape the Red Zone and pilot the ship back to Regina to file their claim.
 
 ## The Search for a Contact
 
-Dr. Aris's message gives the players a name and a location: Roric Vance at the Gilded Spacer. Their first task is to find this information broker and get the real lead.
+Dr. Aris's message gives the players a name—Roric Vance—and a general location: the seedy underbelly of the Regina downport. Their first task is to navigate this dangerous district to find him. This will involve asking questions at various dives, bribing officials, and potentially avoiding trouble with local gangs.
 
-*   **The Gilded Spacer:** A dimly lit, smoky bar frequented by free traders, ex-military types, and a few genuine smugglers. The players will need to navigate the patrons and the paranoid atmosphere to find their man.
-*   **Roric Vance:** A washed-up, aging information broker with a permanent tremor in his hands and a nervous habit of looking over his shoulder. He can be found in a secluded corner booth, nursing a drink. He will be highly suspicious of the players until they give him the code phrase from Dr. Aris: "The Whiskey Jack needs a fast ship."
+During their search, they may pick up unsettling rumors about a brutal salvage crew known as the **"Rust Dogs,"** who have also been asking questions about Dr. Aris. The stories describe them as efficient, ruthless, and unusually well-informed, leaving a trail of bruised informants and paid-off officials in their wake.
 
-Once the code phrase is spoken, Roric will relax slightly. He'll explain that he owes Dr. Aris a life debt and that the "Whiskey Jack" was Aris's code name. He will tell the players that no one on Regina is foolish enough to fly into a Red Zone, but he knows a crew that might be: Captain Kaelen and her ship, *The Void Gambit*. He'll tell them Kaelen is a former scout with a grudge against the Navy and a reputation for taking impossible jobs. Her last known port of call was the anarchic world of **Rech**, one jump away from Djinni.
+After some investigation, they will track Roric to a secluded booth in a noisy bar called "The Gilded Spacer."
+
+*   **Roric Vance:** A washed-up, aging information broker with a permanent tremor in his hands. He will be highly suspicious of the players until they give him the code phrase from Dr. Aris: "The Whiskey Jack needs a fast ship."
+
+Once the code phrase is spoken, Roric will provide the crucial information: the name of the only captain crazy enough to help them, **Kaelen**, and her last known location, the anarchic world of **Rech**. He provides the name of her ship, *The Void Gambit*, but has no way of contacting her.
+
+## The Journey to Rech
+
+Roric's information is the end of his involvement. The players are now on their own to find passage from Regina to Rech. This is a legal, but not necessarily simple, journey. They will need to book passage on a commercial liner or a free trader, paying their own way and transporting their own gear.
+
+While waiting for their transport at the Regina starport, they spot a heavily modified freighter, the *Scrap Vulture*, docked at a private berth. The ship is a monstrosity of patched armor plating and oversized weapon mounts, with a crudely painted emblem of a snarling dog on its hull. A grim-faced crew in matching gear is seen loading heavy equipment aboard, their movements efficient and professional. Port authority chatter might reveal the ship is known for "asset recovery," and has a reputation for taking on jobs in hazardous, legally ambiguous zones.
+
+This journey gives them time to prepare for the dangerous task ahead.
+
+## The Search for Kaelen
+
+Upon arriving at the chaotic, faction-controlled starport on Rech, the players must find Captain Kaelen and *The Void Gambit*. This involves navigating the local power struggles and asking questions in a place where a wrong word can lead to a knife in the back.
+
+During their search, they have a direct run-in with a few members of the **Rust Dogs** in a crowded downport bar. The encounter might be a tense standoff over a spilled drink or a territorial dispute at the bar. The Rust Dogs are arrogant and aggressive, clearly trying to intimidate the players. They might make a veiled comment about how "some people should stay out of business that doesn't concern them," before being called away by their leader.
+
+Soon after, a nervous informant tells the players that the Rust Dogs are not just on Rech by coincidence—they are actively hunting for a group matching the players' description. The word on the street is that the Rust Dogs are also trying to hire a ship for a high-risk run into a Red Zone. The race is on to find Kaelen before their rivals do, or worse, before the Rust Dogs decide to eliminate the competition directly.
+
+Eventually, they will track her down and must persuade her to take on their impossible mission. The story of Dr. Aris and the promise of a massive payday will be their primary bargaining chips.
 
 ### The Crew of *The Void Gambit*
 *   **The Ship:** A heavily modified Type A Free Trader, *The Void Gambit*. Its cargo bay is smaller than standard, making way for upgraded and overclocked maneuver drives, giving it exceptional agility for a ship of its size.
 *   **Captain Kaelen:** A sharp-witted and pragmatic ex-scout who was discharged for "insubordination" and now makes a living taking on the jobs no one else will touch.
 *   **Jax:** The ship's engineer and pilot, a young prodigy who can push the ship's systems to their absolute limit and beyond.
 *   **"Grim":** A hulking, silent Vargr who serves as the ship's muscle and gunner, fiercely loyal to Kaelen after she saved his life.
-
-## The Journey
-
-The first leg of the journey is finding passage from Regina to Rech. This is a relatively simple, legal trip that can be booked on any number of commercial liners. Once on Rech, the players will need to navigate the chaotic, faction-controlled spaceport to find *The Void Gambit* and persuade Captain Kaelen to take on their impossible mission. Roric will have given them a transponder code for her ship, a much more direct way to find her than asking around.
 
 ## The Arrival in Djinni
 
@@ -44,7 +61,7 @@ The Djinni system is a silent, dangerous place. An Imperial Navy patrol vessel i
 ## Complications
 
 *   **The Imperial Navy:** A *Vigilant* class corvette, the INV *Steadfast*, is on patrol. It will respond to any unauthorized ship signatures or transponder signals. It is a vastly superior vessel to anything the players or their rivals are likely to have.
-*   **The "Asset Recovery Specialists":** The "Rust Dogs" are also trying to breach the quarantine. They are ruthless and well-equipped, likely using a modified ship with stealth capabilities. They are waiting for the players to take the risk of activating the transponder, at which point they will race to claim the prize, hoping to get in and out before the Navy arrives.
+*   **The "Asset Recovery Specialists":** The **Rust Dogs** are the "specialists" trying to breach the quarantine. They are ruthless and well-equipped, using their ship, the *Scrap Vulture*, which has modified stealth capabilities. They are waiting for the players to take the risk of activating the transponder, at which point they will race to claim the prize, hoping to get in and out before the Navy arrives.
 *   **The Ship's Condition:** The *Stardust Drifter* is not in pristine condition. Dr. Aris, in his paranoia, has left surprises:
     *   **Booby traps:** Simple but effective traps designed to disable or injure intruders.
     *   **A "guest" on board:** Dr. Aris's research was the reason Djinni was declared a Red Zone. He may have left a sample of the system's dangerous native life form on the ship, contained for now.
@@ -53,4 +70,10 @@ The Djinni system is a silent, dangerous place. An Imperial Navy patrol vessel i
 
 ## Resolution
 
-The adventure concludes when the players have successfully boarded the *Stardust Drifter* and dealt with any immediate threats. If they manage to escape the Djinni system without being identified by the Imperial Navy, they have pulled off the impossible: escaping a Red Zone with a new ship and a powerful secret, their identities still intact. This sets the stage perfectly for Adventure #2.
+The adventure's climax is the successful escape from the Djinni system. The players have the *Stardust Drifter*, but the ship is still legally in limbo. To make their ownership official, they must travel to a system with a sufficiently high-class starport to file a salvage and inheritance claim.
+
+Their logical options are:
+*   **Regina:** The subsector capital. The most bureaucratic and legally sound option, but also the one with the highest Imperial presence.
+*   **Jenghe:** A colonial holding of Regina. Filing a claim here might be faster and draw less attention, but it may not be as legally binding.
+
+The adventure concludes when the players have successfully filed their claim in the port of their choice, setting the stage for Adventure #2, where they discover the ship's hidden debts and the true nature of Dr. Aris's research.
