@@ -10,14 +10,15 @@ Their first task is to leverage their only asset—the ship's title—to secure 
 
 ### The Price of a Dream
 
-The players need to borrow approximately **Cr2,700,000** to fund the recovery mission.
+The players need to borrow approximately **Cr3,250,000** to fund the recovery mission.
 
 *   **Hiring Captain Kaelen & *The Void Gambit*:** ~Cr2,000,000
 *   **Travel & Lodging (for 6 people):** ~Cr300,000
 *   **Information, Bribes & Tips:** ~Cr50,000
 *   **Fuel, Gear & Supplies:** ~Cr100,000
 *   **Contingency Fund:** ~Cr250,000
-*   **Grand Total:** **~Cr2,700,000**
+*   **Unknowns:** ~Cr500,000
+*   **Grand Total:** **~Cr3,250,000**
 
 ---
 
