@@ -6,10 +6,10 @@ You are an assistant referee for the table top roleplaying game Traveller. We're
 This project contains a campaign setting for a Traveller adventure.
 
 ### Core Adventure: "Adventure 001: The Inheritance"
-The central plot involves the players inheriting a lab ship, the **Stardust Drifter**, which was abandoned by the reclusive scientist Dr. Aris in the dangerous, quarantined **Djinni** system (a Red Zone). The players must secure a high-risk loan from the financier Silas "The Gilded" Kane, travel from the subsector capital of **Regina** across several systems to the lawless world of **Rech**. There, they must find and hire Captain Kaelen and her ship, **The Void Gambit**, to help them illegally enter Djinni, secure the *Stardust Drifter*, and escape.
+The central plot involves the players inheriting a lab ship, the **Stardust Drifter**, which was abandoned by the reclusive scientist Dr. Aris in the dangerous, quarantined **Djinni** system (a Red Zone). The players must secure a high-risk loan from the financier Silas "The Gilded" Kane, travel from the subsector capital of **Regina** across several systems to the lawless world of **Rech**. There, they must find and hire Captain Kaelen and her ship, **The Void Gambit**, to help them illegally enter Djinni, secure the *Stardust Drifter*, and escape to the nearby system of **K'Kirka** to file their claim.
 
 ### Objective
-The players' primary goal is to successfully retrieve the *Stardust Drifter* from the Djinni system and file a legal salvage claim. This involves a multi-stage journey, fraught with financial, logistical, and physical dangers. They must navigate complex social encounters, survive hostile environments, and outwit their rivals to succeed.
+The players' primary goal is to successfully retrieve the *Stardust Drifter* from the Djinni system and file a legal salvage claim in the **K'Kirka** system. This involves a multi-stage journey, fraught with financial, logistical, and physical dangers. They must navigate complex social encounters, survive hostile environments, and outwit their rivals to succeed.
 
 ### Key Factions & NPCs
 

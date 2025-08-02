@@ -69,7 +69,7 @@ After the presentation, the players can probe for more information with a **Pers
 *   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** The lawyer makes a critical slip, revealing the one-time transponder code is a **tracking device** that sends a confirmation signal back to the firm's network upon activation.
 
 #### The Inheritance
-The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](./players/keith.md). They explain the ship is in the **[Djinni](./systems/djinni.md)** system, a **Red Zone**. They provide the transponder code but assume no liability.
+The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](./players/keith.md). They explain the ship is in the **[Djinni](./systems/djinni.md)** system, a **Red Zone**, and provide the transponder code but assume no liability. They also add, "Due to the unique legal circumstances surrounding the Djinni quarantine, any salvage or inheritance claim for this vessel must be filed in person at the Imperial administrative offices in the **[K'Kirka](./systems/k-kirka.md)** system. Filing elsewhere will be considered invalid."
 
 Finally, they provide the data wafer, explaining it is sealed with a biolock keyed to Keith. Once Keith opens it, he receives the message from Dr. Aris:
 > *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](./characters/roric-vance.md)..."*
@@ -101,9 +101,9 @@ After giving the code phrase, the players make a **Persuade** or **Broker** chec
 *   **Broker:** Represents treating this as a professional transaction.
 
 #### Outcome Tiers
-*   **Tier 1: Minimal Success (Failure on Stage 2 check):** Vance provides only the bare minimum. "The pilot you need is a woman named **Kaelen**. Last I heard, she was running jobs out of **Rech**. That's all I know." He will not provide the ship's name or the lead to Silas "The Gilded" Kane.
-*   **Tier 2: Standard Success (Success on Stage 2 check):** Vance relaxes slightly and provides the core information plus a warning. He gives them Kaelen's name, her location (Rech), the name of her ship (*The Void Gambit*), and a grim reality check about the cost (~3 million Credits).
-*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** Vance is impressed and decides to give the players a real chance. He provides all the information from Tier 2, plus the unsolicited, dangerous lead to the financier **[Silas "The Gilded" Kane](./characters/silas-kane.md)** at 'The Gilded Cage'.
+*   **Tier 1: Minimal Success (Failure on Stage 2 check):** Vance is cagey and provides only the bare minimum, framed as a desperate warning. "The pilot you need is a woman named **Kaelen** in **Rech**. For the money, see **Silas Kane** at 'The Gilded Cage'. But know this: the moment you sign his contract, he owns you. Aris knew this. He said he built a 'get out of jail free' card into the ship's main data core. A file with enough dirt on Kane to make him cancel the debt. If you want to survive the deal, you *must* get that core. Now get out of here."
+*   **Tier 2: Standard Success (Success on Stage 2 check):** Vance relaxes slightly and provides a clearer picture of the power dynamic. He gives them Kaelen's name, her location (Rech), her ship's name (*The Void Gambit*), and the cost (~3 million Credits). He then adds, "For the money, go see **Silas 'The Gilded' Kane** at 'The Gilded Cage'. But he doesn't give loans; he buys people. Aris was paranoid, but smart. He created a blackmail file on Kane—proof of his dirty work. He called it the 'Kane Contingency' and it's on the main data core of that ship. With that file, you can walk back into Kane's office and force him to tear up your contract. Without it, you're his property for life. Get the loan, get the ship, then get that core. It's your only way out."
+*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** Vance is impressed and reveals the true power behind Kane. He gives them the full warning from Tier 2, and then adds, his voice low and serious: "The file isn't just about Kane. It's about his masters. **Makhidkarun**. That's who you're really getting into bed with. The 'Kane Contingency' file has enough proof of their illegal dealings to ruin him and cause a major scandal for the corporation. It's not just a tool to cancel your debt; it's a weapon against a megacorp. That's why they want that ship so badly. And that's why you cannot afford to lose that data core."
 
 *   **Referee Note:** If the players fail to get the lead to Silas "The Gilded" Kane, they will have to find their own way to raise the funds, likely through much more difficult and less reliable means in the Regina downport.
 
@@ -191,12 +191,13 @@ Dr. Aris left a simple but nasty surprise for intruders.
 *   **Spotting:** An **Investigate (TN 10)** check is required to spot the faint scoring on the floor plate and the unusually clean lens of the welder.
 *   **Disarming:** A **Mechanics or Explosives (TN 8)** check will safely disable the trigger mechanism. Failure means the trap goes off.
 
-### 2. Hacking the Bridge
-The bridge is dark, with only the faint emergency lights of the *Void Gambit* playing through the viewport.
-*   **The System:** The bridge terminals are locked. A **Computers (TN 8)** check is required to gain basic access to ship systems (power, life support, etc.).
-*   **Failure:** A failed check might trigger a silent, low-power alarm on a hidden frequency or wipe a portion of the non-essential logs.
-*   **Dr. Aris's Final Log:** The final, encrypted log entry is on the main computer. Decrypting it requires a **Difficult Computers (TN 10)** check. On a success, the players receive the crucial information:
-    > *"Log, final entry. They found me. I don't know how. The quarantine was supposed to keep them out. The creatures... they aren't just animals. They're a network. They communicate with focused energy, drawn to the resonance of a jump drive activation. That's how they find ships. I have to get this research out. I'm abandoning the Drifter. The sample in the lab is the key. Don't let them have it. Aris out."*
+### 2. The Missing Core
+The bridge is dark, with only the faint emergency lights of the *Void Gambit* playing through the viewport. The main computer console has been visibly tampered with; a housing unit is ripped open, with severed cables dangling where a data core should be.
+*   **The System:** The secondary bridge terminals are still functional but locked. A **Computers (TN 8)** check is required to gain basic access to ship systems (power, life support, etc.).
+*   **The Crime Scene:** A successful **Investigate (TN 8)** or **Mechanics (TN 8)** check of the damaged console reveals two things:
+    1.  The cutting marks on the housing are crude and forceful, not the work of a skilled technician.
+    2.  Wedged into a crevice is a small, branded multitool, carelessly left behind. It bears the snarling dog emblem of the "Rust Dogs."
+*   **The Realization:** The players have the ship, but the most valuable part—Dr. Aris's research, his logs, and the reason for his disappearance—is gone. They've been beaten to the punch.
 
 ### 3. The "Guest" in the Lab
 The lab is a mess of scattered papers and broken glassware, all floating in zero-g.
@@ -205,10 +206,10 @@ The lab is a mess of scattered papers and broken glassware, all floating in zero
 
 ## Scene 7: Climax in the Belt
 
-> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship has just jumped into the system nearby. It's the *Scrap Vulture*, its brutish, heavily armored hull and oversized weapon mounts making it look like a predator. They've used you as a beacon, and now they're racing towards you, hoping to claim the prize before the Navy corvette, now accelerating in your direction, can intervene.
+> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship has just jumped into the system nearby. It's the *Scrap Vulture*, its brutish, heavily armored hull and oversized weapon mounts making it look like a predator. They were waiting for a sign of activity, and now they're moving in to claim the prize. You have the ship, but they have the data core—the key to everything. Your new objective is clear: get that core back before the Navy corvette, now accelerating in your direction, complicates everything.
 
-### Optional Objective: Boarding the *Scrap Vulture*
-If the players manage to disable and board the rival vessel during the confrontation, they can gain crucial intelligence. A successful **Computers (TN 8)** check on the captain's terminal on the *Scrap Vulture's* bridge reveals two critical items:
+### Objective: The Data Heist
+The players must now engage the *Scrap Vulture* to retrieve the stolen data core. This can be achieved through force, stealth, or negotiation. If they manage to disable and board the rival vessel, they can gain crucial intelligence. A successful **Computers (TN 8)** check on the captain's terminal on the *Scrap Vulture's* bridge reveals two critical items:
 
 1.  **The Acquisition Contract:** The job was issued by a shell corporation named **"Fringe Asset Recovery, LLC."** The contract is for the "forced acquisition" of the *Stardust Drifter*, with a massive bonus for securing the lab and any biological samples intact. A subsequent **Streetwise or Broker (TN 8)** check made later in a civilized system will reveal that "Fringe Asset Recovery" is a known front for **Makhidkarun's** special projects division.
 
@@ -219,7 +220,7 @@ This log entry confirms that a third, highly secretive power is monitoring the s
 
 ## Resolution
 
-The adventure concludes when the players escape the [Djinni](./systems/djinni.md) system with the *Stardust Drifter*. To make their ownership official, they must file a salvage and inheritance claim at a high-class starport, likely **[Regina](./systems/regina.md)** or **[Jenghe](./systems/jenghe.md)**. This sets the stage for future adventures, where they must deal with their massive debt and the true nature of [Dr. Aris](./characters/dr-aris.md)'s research.
+The adventure concludes when the players escape the [Djinni](./systems/djinni.md) system with the *Stardust Drifter*. To make their ownership official, they must file a salvage and inheritance claim at the starport on [K'Kirka](./systems/k-kirka.md). This sets the stage for future adventures, where they must deal with their massive debt and the true nature of [Dr. Aris](./characters/dr-aris.md)'s research.
 
 ---
 ## Appendix A: Random Encounters
