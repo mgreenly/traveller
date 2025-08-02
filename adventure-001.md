@@ -1,3 +1,19 @@
+# Referee's Introduction
+
+This document outlines the adventure "The Inheritance." It is designed to be the starting point for a new campaign. The central premise is that the players inherit a valuable asset but have no liquid cash to secure it. Their first major challenge will be financial.
+
+## The High-Risk Loan
+The players will not start with the necessary funds. Instead, they must secure a high-risk loan of approximately **2.7 million Credits** to finance the recovery of the *Stardust Drifter*. They can use the ship's title, provided by Haskins & Associates, as collateral. This will likely involve dealing with a shady lender—a frontier bank with exorbitant interest rates, a corporation with its own agenda, or a criminal syndicate—who will see this as a high-risk, high-reward investment. This debt will become a major motivating factor and a source of future adventure hooks.
+
+### Estimated Adventure Costs (The Loan Amount)
+*   **Hiring Captain Kaelen & *The Void Gambit*:** ~Cr2,000,000
+*   **Travel & Lodging (for 6 people):** ~Cr300,000
+*   **Information, Bribes & Tips:** ~Cr50,000
+*   **Fuel, Gear & Supplies:** ~Cr100,000
+*   **Contingency Fund:** ~Cr250,000
+*   **Grand Total:** **~Cr2,700,000**
+
+---
 # Adventure 001: The Inheritance
 
 ## Arrival on Regina
@@ -47,7 +63,9 @@ After some investigation, they will track Roric to a secluded booth in a noisy b
 
 *   **Roric Vance:** A washed-up, aging information broker with a permanent tremor in his hands. He will be highly suspicious of the players until they give him the code phrase from Dr. Aris: "The Whiskey Jack needs a fast ship."
 
-Once the code phrase is spoken, Roric will provide the crucial information: the name of the only captain crazy enough to help them, **Kaelen**, and her last known location, the anarchic world of **Rech**. He provides the name of her ship, *The Void Gambit*, but has no way of contacting her.
+Once the code phrase is spoken, Roric's demeanor shifts. He leans in, the tremor in his hands momentarily stilling. "Dr. Aris... damn fool. Of course, he'd get himself into a mess only he could make worse." He provides the crucial information: the name of the only captain crazy enough to help them, **Kaelen**, and her last known location, the anarchic world of **Rech**. He provides the name of her ship, *The Void Gambit*, but has no way of contacting her.
+
+He then gives them a grim reality check. "Kaelen's the best, but she's not cheap. A run into a Red Zone... she won't even talk to you for less than two million. Add in your travel, gear, bribes... you're looking at close to three million before you even smell the vacuum." Seeing the likely look on their faces, he sighs. "You don't have it. Of course, you don't. There's a man... a 'financier.' Goes by the name **Silas Kane**. He operates out of a high-end pawn shop called 'The Gilded Cage' in the mid-port. He'll give you the money, especially with a lab ship as collateral. But be warned: his interest rates are measured in blood, not percentages. He's your only real option, but he might be worse than the Navy."
 
 ## The Journey to Rech
 
