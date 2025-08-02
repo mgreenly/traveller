@@ -26,7 +26,11 @@ The players need to borrow approximately **Cr3,250,000** to fund the recovery mi
 
 **Location:** [Regina](./systems/regina.md), Subsector Capital
 
-The adventure begins in the opulent, continent-spanning metropolis of Capital on [Regina](./systems/regina.md). The players are summoned to the sterile, high-tech offices of **Haskins & Associates**, a law firm occupying the 87th floor of a cloud-piercing arcology.
+The adventure begins as the players' passenger liner makes its final approach. The view from the ship's viewport is spectacular; the brilliant yellow-white light of Lusor, the system's primary star, glints off the swirling cloud tops of the immense gas giant Assiniboia. The liner banks, revealing their destination: Regina, a lush, water-rich moon, its surface a marble of blue oceans, green landmasses, and swirling white clouds. The sheer volume of ship traffic, from massive corporate freighters to sleek private yachts and grim Imperial Navy patrols, makes it clear this is a major hub of the Imperium.
+
+Disembarking at the Regina Highport is an experience in itself. The starport is a marvel of engineering, a city-sized ring station gleaming with chrome and holograms, bustling with a billion souls. The air hums with a dozen languages as wealthy tourists, sharp-suited corporate executives, and rugged free traders move through the vast, clean concourses under the watchful eyes of Imperial customs officials. After clearing customs, the players take a cramped shuttle down through the atmosphere to the sprawling downport, a chaotic city-unto-itself just outside the gleaming metropolis of Capital. From the downport, a high-speed mag-lev train whisks them into the city proper.
+
+Their destination is the legal district, a sterile canyon of obsidian towers. A short grav-cab ride takes them to the offices of **Haskins & Associates**, which occupies the entire 87th floor of a cloud-piercing arcology (a massive, self-contained city within a single building). The reception area is a study in minimalist wealth, all white marble and silent, imposing furniture, a stark contrast to the vibrant chaos of the city below.
 
 **The Hook:** [Keith](./players/keith.md), a former student of the reclusive scientist [Dr. Aris](./characters/dr-aris.md), receives a message from the firm. They are legally transferring the title of [Dr. Aris](./characters/dr-aris.md)'s primary asset—the lab ship *Stardust Drifter*—to him.
 

@@ -22,9 +22,9 @@
 ---
 ### Arrival Experience
 
-The Wypoc system is dominated by its brilliant, hot F-class star, forcing approaching vessels to polarize their viewports against the harsh, blue-white light. The planet itself is a large, hazy orb with an unbreathable argon atmosphere, its surface obscured by thick, churning clouds. The system feels remote and isolated, a true frontier outpost where the environment itself is hostile to human life.
+The Wypoc system is dominated by its brilliant, hot F-class star. The planet itself is a large, hazy orb with an unbreathable argon atmosphere. The orbital starport is a basic, frontier-style station.
 
-The starport is a jarring frontier experience, consisting of a collection of pressurized domes connected by sterile corridors. The exotic, argon-heavy atmosphere requires filter masks the moment travelers step off a ship, and the high law level means Imperial customs officials scrutinize every traveler.
+The downport on the surface is a jarring experience, consisting of a collection of pressurized domes connected by sterile corridors. The exotic, argon-heavy atmosphere requires filter masks the moment travelers step off the shuttle, and the high law level means Imperial customs officials scrutinize every traveler.
 
 ---
 ### Factions

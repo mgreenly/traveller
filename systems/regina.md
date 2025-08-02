@@ -24,7 +24,7 @@
 
 The view from an approaching vessel is spectacular; the brilliant yellow-white light of Lusor glints off the swirling cloud tops of the immense gas giant Assiniboia. Regina, a lush, water-rich moon, presents as a marble of blue oceans, green landmasses, and swirling white clouds. The sheer volume of ship traffic—from massive corporate freighters to sleek private yachts and grim Imperial Navy patrols—makes it clear this is a major hub of the Imperium.
 
-The Regina Highport is a marvel of engineering, a city-sized ring station gleaming with chrome and holograms. The vast, clean concourses bustle with a billion souls, and the air hums with a dozen languages as wealthy tourists, sharp-suited corporate executives, and rugged free traders move under the watchful eyes of Imperial customs officials. The port connects to the planetary metropolis of Capital via a mag-lift system, which descends into a sprawling city that covers a continent. The architecture is a stunning mix of impossibly tall, gleaming arcologies and preserved, ancient stone buildings from a forgotten age.
+The Regina Highport is a marvel of engineering, a city-sized ring station gleaming with chrome and holograms. The vast, clean concourses bustle with a billion souls, and the air hums with a dozen languages. After clearing customs in the Highport, travelers take a shuttle down to the planetary surface, arriving at the sprawling Downport. From there, a high-speed mag-lev train connects to the continent-spanning metropolis of Capital, a city of impossibly tall arcologies and preserved ancient buildings.
 
 ---
 ### Factions

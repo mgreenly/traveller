@@ -22,7 +22,9 @@
 ---
 ### Arrival Experience
 
-Arrival in the Rech system, which orbits a standard G-class star, is a jarring experience. The planet is a smog-choked ball of industrial grey and polluted brown. The starport is a chaotic, sprawling mess of patched-together landing pads, temporary structures, and heavily armed faction checkpoints. This is a place where the rule of law is what the person with the biggest gun says it is, and every interaction is fraught with potential danger.
+Arrival in the Rech system is a jarring experience. The planet is a smog-choked ball of industrial grey and polluted brown. The orbital starport is a barely functioning wreck, a patchwork of competing factions and jury-rigged repairs. Shuttles, often of questionable safety, provide transport to the surface.
+
+The downport is a chaotic, sprawling mess of landing pads, temporary structures, and heavily armed faction checkpoints. This is a place where the rule of law is what the person with the biggest gun says it is, and every interaction is fraught with potential danger.
 
 ---
 ### Factions

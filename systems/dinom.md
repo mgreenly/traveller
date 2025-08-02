@@ -22,9 +22,9 @@
 ---
 ### Arrival Experience
 
-Dinom is a bleak, lonely system orbiting a dim K-class star. The planet is a small, pockmarked world of grey rock, entirely without an atmosphere or any sign of native life. The only point of light is the starport, a small cluster of domes and landing pads carved into the rock near a massive mining operation. This is a place built for function, not comfort, existing only to extract resources from the lifeless ground.
+Dinom is a bleak, lonely system orbiting a dim K-class star. The planet is a small, pockmarked world of grey rock, entirely without an atmosphere. The orbital starport is a cramped, utilitarian station reeking of ozone and recycled air. Shuttles ferry passengers and cargo to the surface.
 
-The starport is little more than a patch of flattened rock and a few prefabricated structures, the vacuum of space held back by humming force fields. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye outsiders with suspicion.
+The downport is a small cluster of domes and landing pads carved into the rock near a massive mining operation. This is a place built for function, not comfort, existing only to extract resources from the lifeless ground. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye outsiders with suspicion.
 
 ---
 ### Factions

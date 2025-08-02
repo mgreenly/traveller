@@ -21,9 +21,7 @@
 ---
 ### Arrival Experience
 
-In contrast to its neighbor, the Dinomn system is much more welcoming, orbiting a familiar yellow G-class star. The view is dominated by the majestic, ringed gas giant Chronos, a popular destination for tourists and a key strategic location for the Imperial Scouts. The main world is a pleasant-looking planet of brown continents and blue seas, and the increased ship traffic suggests a more civilized and orderly part of the sector.
-
-The starport is well-maintained, and the presence of uniformed Imperial Scout personnel lends an air of order.
+In contrast to its neighbor, the Dinomn system is much more welcoming. The view is dominated by the majestic, ringed gas giant Chronos. The orbital starport is a well-maintained commercial station with a visible Imperial Scout presence. After taking a shuttle to the surface, the downport is clean and efficient, and the presence of uniformed Scout personnel in the bars and concourses lends an air of order.
 
 ---
 ### Factions

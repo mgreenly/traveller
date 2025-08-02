@@ -25,7 +25,7 @@
 
 The Jenghe system is dominated by a single, cool K-class star that bathes the system in a perpetual orange twilight. The main world is a water-heavy planet, its continents shrouded in a thick, tainted atmosphere that gives the clouds a sickly yellow hue. As a colonial holding of [Regina](./regina.md), it feels like a distant suburb—less important, less crowded, and a significant step down in every regard.
 
-Jenghe's starport is a clean, functional facility smelling of processed grains and machinery. Accommodations are spartan but safe, and the local bars are filled with weary agricultural workers and ship crews exchanging mundane gossip.
+The orbital starport is a functional, no-frills station. After docking, travelers take a shuttle to the downport, a clean facility smelling of processed grains and machinery. Accommodations are spartan but safe, and the local bars are filled with weary agricultural workers and ship crews exchanging mundane gossip.
 
 ---
 ### Factions
