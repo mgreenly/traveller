@@ -40,11 +40,11 @@ The players need to borrow approximately **Cr3,000,000** to fund the recovery mi
 
 **Location:** [Regina](./systems/regina.md), Subsector Capital
 
-The adventure begins as the players' passenger liner makes its final approach. The view from the ship's viewport is spectacular; the brilliant yellow-white light of Lusor, the system's primary star, glints off the swirling cloud tops of the immense gas giant Assiniboia. The liner banks, revealing their destination: Regina, a lush, water-rich moon, its surface a marble of blue oceans, green landmasses, and swirling white clouds. The sheer volume of ship traffic, from massive corporate freighters to sleek private yachts and grim Imperial Navy patrols, makes it clear this is a major hub of the Imperium.
-
-Disembarking at the Regina Highport is an experience in itself. The starport is a marvel of engineering, a city-sized ring station gleaming with chrome and holograms, bustling with a billion souls. The air hums with a dozen languages as wealthy tourists, sharp-suited corporate executives, and rugged free traders move through the vast, clean concourses under the watchful eyes of Imperial customs officials. After clearing customs, the players take a cramped shuttle down through the atmosphere to the sprawling downport, a chaotic city-unto-itself just outside the gleaming metropolis of Capital. From the downport, a high-speed mag-lev train whisks them into the city proper.
-
-Their destination is the legal district, a sterile canyon of obsidian towers. A short grav-cab ride takes them to the offices of **Haskins & Associates**, which occupies the entire 87th floor of a cloud-piercing arcology (a massive, self-contained city within a single building). The reception area is a study in minimalist wealth, all white marble and silent, imposing furniture, a stark contrast to the vibrant chaos of the city below.
+> **Read Aloud:** The chime indicating final approach is soft and pleasant. Below you, the gas giant Assiniboia is a breathtaking swirl of orange and white clouds, its sheer scale humbling. Your passenger liner banks, and the moon Regina swims into view—a vibrant marble of blue oceans and green continents. The space around you is thick with traffic: hulking corporate freighters, sleek yachts cutting through the void, and the grim, grey shapes of Imperial Navy patrols. You've arrived at the heart of the subsector.
+>
+> After the sterile efficiency of the orbital Highport and a cramped shuttle ride down to the surface, the Regina Downport is a chaotic assault on the senses. Thousands of people move through the sprawling landing field, the air thick with the smells of street food and the shouts of competing cargo haulers. A high-speed mag-lev train whisks you away from the chaos and into Capital proper.
+>
+> Your destination is a sterile canyon of obsidian towers that pierce the clouds. The law offices of Haskins & Associates are on the 87th floor. The reception area is a study in minimalist wealth—white marble, imposing furniture, and utter silence. A severe-looking receptionist directs you to a conference room where a lawyer in an impeccably tailored suit waits for you, a thin data-slate resting on the polished table before them. They do not smile.
 
 ### Task Chain: Dealing with Haskins & Associates
 The meeting with the lawyers is the players' first challenge. The goal is not to "win," but to extract as much information as possible. The lawyers will volunteer nothing beyond the legal minimum.
@@ -79,16 +79,16 @@ Finally, they provide the data wafer, explaining it is sealed with a biolock key
 
 **Location:** [Regina](./systems/regina.md) Downport
 
-Following [Dr. Aris](./characters/dr-aris.md)'s message, the players must find the information broker **[Roric Vance](./characters/roric-vance.md)** in the seedy underbelly of the [Regina](./systems/regina.md) downport. During their search, they'll hear rumors of a ruthless salvage crew, the **"Rust Dogs,"** who have also been asking about [Dr. Aris](./characters/dr-aris.md).
-
-The players will track Roric to "The Gilded Spacer," a noisy dive bar. He is a washed-up, aging man with a permanent tremor, highly suspicious of strangers.
+> **Read Aloud:** The search for Roric Vance takes you deep into the Regina Downport, a maze of narrow streets, crowded markets, and dimly lit bars, all sitting under the perpetual shadow of the landing pads above. The air is thick with the smell of fried food, spilled booze, and unidentifiable chemicals. After asking around and greasing a few palms, you are pointed toward "The Gilded Spacer," a dive bar buzzing with loud music and the low murmur of a hundred conversations.
+>
+> In a dark booth in the back, you find your man. He is older than you expected, his face a roadmap of wrinkles and his eyes bloodshot. He wears a stained, synth-leather jacket that might have been fashionable two decades ago, and his hands tremble as he nurses a glass of amber liquid. He eyes your approach with deep suspicion.
 
 ### Task Chain: Negotiating with Roric Vance
 This encounter is a two-stage task chain. The outcome of the first stage impacts the difficulty of the second, determining the quality of information the players receive.
 **Required Element:** The players MUST use the code phrase: *"The Whiskey Jack needs a fast ship."* Without it, the negotiation automatically fails.
 
 #### Stage 1: The Approach (TN 8+)
-The players must make a **Streetwise** or **Investigate** check to approach Vance withoutmaking him more paranoid.
+The players must make a **Streetwise** or **Investigate** check to approach Vance without making him more paranoid.
 *   **Streetwise:** Represents blending in and reading the room.
 *   **Investigate:** Represents doing homework on Vance to disarm him.
 *   **Success (8+):** The players approach smoothly. **+1 bonus** to their check in Stage 2.
@@ -108,7 +108,7 @@ After giving the code phrase, the players make a **Persuade** or **Broker** chec
 
 ## Scene 3: The Journey to the Fringe
 
-This multi-jump journey takes the players from the heart of the Imperium to its lawless edge.
+> **Read Aloud:** The journey ahead is a long one, taking you from the heart of the Imperium to its lawless fringe. Each jump will take you further from the safety of Imperial law and closer to the kind of places where a quick wit and a loaded gun are more valuable than a credit chip. Your path is a well-worn trade route, a string of systems connected by jump-1 parsec lanes, each with its own character and dangers.
 
 ### Task Chain: Haggling for Passage
 This reusable task chain can be used whenever the players negotiate for passage or lodging. The "standard price" is the one listed in the adventure text for each leg of the journey.
@@ -133,32 +133,36 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 ---
 
 ### Stop 1: [Jenghe](./systems/jenghe.md) (Colonial Holding)
-A short, comfortable hop on a subsidized liner. The players must negotiate passage on a bulk hauler for the next leg of their journey.
+> **Read Aloud:** The jump to Jenghe is short and comfortable. The system is bathed in the perpetual orange twilight of its K-class star. The orbital starport is a functional, no-frills station. After a shuttle ride down, you find the downport to be a clean but unremarkable facility smelling of processed grains and machinery. This is a quiet backwater, a clear step down from the grandeur of the subsector capital.
+
 *   **Passage to [Dinom](./systems/dinom.md):** ~Cr1,500 (Low) or ~Cr6,000 (Standard).
 
 ### Stop 2: [Dinom](./systems/dinom.md) (Mining Outpost)
-Arrival is on a cramped ore hauler. The starport is a rough, functional dome. Here, the players hear another rumor about the **Rust Dogs** having "salvaged" a prospector's ship, leaving the owner stranded.
+> **Read Aloud:** Your ride to Dinom is on a cramped ore hauler that constantly vibrates. The system is bleak and lonely. The orbital starport is a utilitarian station reeking of ozone. The downport on the pockmarked grey rock below is a small cluster of domes connected by tunnels, all huddled near a massive mining operation. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye you with open suspicion.
+
 *   **Passage to [Dinomn](./systems/dinomn.md):** ~Cr8,000 (Standard) or ~Cr12,000 (Private).
 
 ### Stop 3: [Dinomn](./systems/dinomn.md) (Scout Base)
-A return to civilization. From the starport, the players get their first glimpse of the rivals' ship, the ***Scrap Vulture***, docked and undergoing a rapid refueling. The Rust Dogs are moving fast.
+> **Read Aloud:** The Dinomn system feels like a return to civilization. The orbital starport is a well-maintained commercial station with a visible Imperial Scout presence. From a viewport, you see the majestic, ringed gas giant Chronos. As you wait for your connecting passage, you see a brutish, heavily modified freighter docked at a secure berth across the field, undergoing a rapid refueling. It's the *Scrap Vulture*. The Rust Dogs are here, and they are moving fast.
+
 *   **Passage to [Wypoc](./systems/wypoc.md):** ~Cr2,000 (Low), ~Cr10,000 (Standard), or ~Cr25,000 (High).
 
 ### Stop 4: [Wypoc](./systems/wypoc.md) (Frontier World)
-A harsh, isolated system. As the players arrive, they witness the ***Scrap Vulture*** lifting off from a distant pad. Their rivals are now one step ahead. Passage to a chaotic world like [Rech](./systems/rech.md) is viewed with suspicion by Imperial customs.
-*   **Passage to [Rech](./systems/rech.md):** ~Cr20,000 per person (cash only, off-the-books).
+> **Read Aloud:** The brilliant, blue-white light of Wypoc's F-class star forces the ship's viewports to polarize. The planet is a hazy, hostile orb. The orbital starport is a basic, frontier-style station. The downport is a collection of pressurized domes connected by sterile corridors. The moment you step off the shuttle, the argon-heavy atmosphere requires you to don filter masks. As you're being scrutinized by Imperial customs, you see the *Scrap Vulture* lifting off from a distant pad. Your rivals are once again one step ahead.
 
-*   **Skill Checks:** **Broker** to negotiate passage; **Streetwise** to find discreet pilots; **Deception** to mask their intentions.
+*   **Passage to [Rech](./systems/rech.md):** ~Cr20,000 per person (cash only, off-the-books).
 
 ## Scene 4: Anarchy and Opportunity
 
 **Location:** [Rech](./systems/rech.md), The Lawless World
 
-The players arrive at the chaotic, faction-controlled starport on [Rech](./systems/rech.md). Their goal: find **[Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md)** and her ship, ***The Void Gambit***.
+> **Read Aloud:** Rech is a smog-choked ball of industrial grey and polluted brown. The orbital starport is a barely functioning wreck, a patchwork of competing factions and jury-rigged repairs. The shuttle ride down is terrifying. The downport is a chaotic, sprawling mess of landing pads and temporary structures, policed by heavily armed thugs at faction checkpoints. The rule of law here is whatever the person with the biggest gun says it is.
 
-Their search leads to a direct confrontation with a few members of the **Rust Dogs** in a crowded bar. The encounter is a tense, non-lethal standoff. Shortly after, a nervous informant reveals the Rust Dogs are actively hunting the players and are also trying to hire a ship for a Red Zone run.
+During their search, the players have a run-in with the **Rust Dogs**.
+> **Read Aloud:** The bar is crowded, loud, and smells of stale beer and sweat. As you're trying to get information, a mountain of a man covered in hissing, industrial-grade cybernetics ([Grak](./characters/scrap-vulture/grak.md)) "accidentally" bumps into you, spilling your drink. He turns, a sneer on his face, flanked by a wiry, fast-talking man with a cocky grin ([Joric "Slick" Fen](./characters/scrap-vulture/joric-slick-fen.md)). "You got a problem?" Joric asks, his hand resting near the pistol on his hip. They are clearly looking for a fight.
 
-The players must race to find Kaelen first. They will eventually track her down and must persuade the pragmatic ex-scout to take on their impossible mission, using the story of [Dr. Aris](./characters/dr-aris.md) and the promise of a massive payday as their primary bargaining chips.
+Eventually, the players find **Captain Kaelen**.
+> **Read Aloud:** Your informant points you to a quiet corner of a cargo bay where a woman in a worn flight jacket is overseeing her crew load supplies. Her dark hair is cut short for practicality, and her steady, grey-eyed gaze misses nothing as she watches you approach. This is [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md). Beside her, a young, lanky man with a mop of unruly hair ([Jax](./characters/the-void-gambit/jax.md)) is practically vibrating with energy as he tunes a diagnostic tool. Leaning against the ship's hull is a hulking, silent Vargr whose fur is a patchwork of grey and black, his face scarred from old battles ([Grim](./characters/the-void-gambit/grim.md)). He watches you with unnerving stillness.
 
 *   **Skill Checks:** **Persuade** to convince Kaelen; **Broker** to negotiate the contract; **Streetwise** to navigate [Rech](./systems/rech.md)'s dangerous factions.
 
@@ -166,20 +170,16 @@ The players must race to find Kaelen first. They will eventually track her down 
 
 **Location:** The [Djinni](./systems/djinni.md) System, Red Zone
 
-The crew of *The Void Gambit* must slip past the **INV *Steadfast***, a *Vigilant* class corvette on patrol, and navigate the dense asteroid belt. Activating the *Stardust Drifter's* transponder is an act of desperation—it will alert both the Imperial Navy and the **Rust Dogs** to their exact location.
+> **Read Aloud:** The jump into the Djinni system is jarring. The silence in the cockpit is absolute. The system's yellow star is a distant, lonely point of light. In the distance, you see the faint, unmistakable silhouette of a *Vigilant*-class corvette, the INV *Steadfast*, on patrol. Between you and your destination—the main asteroid belt—is a whole lot of empty, monitored space.
+>
+> After hours of silent running, you approach the asteroid belt. Your sensors finally get a lock on the emergency transponder signal. There, floating silently amidst the slowly tumbling rocks, is the *Stardust Drifter*. It's a modified Scout/Courier, its hull scarred and weathered. It is dark, cold, and appears utterly lifeless.
 
 *   **Ship Actions:** **Pilot** to navigate the asteroid field; **Sensors** to detect the Navy patrol; **Engineer** to run the ship silently.
-
-Once they reach the *Stardust Drifter*, they find it powered down, unpressurized, and cold. [Dr. Aris](./characters/dr-aris.md), in his paranoia, has left surprises:
-*   **Booby traps:** Simple but effective traps to disable intruders.
-*   **A "guest":** A sample of the dangerous native life form that caused the quarantine, currently contained.
-*   **A cryptic log:** Explaining his research and why he had to flee.
-
 *   **Skill Checks:** **Vacc Suit** to operate in vacuum; **Investigate** to spot traps; **Mechanics/Explosives** to disarm them; **Science (Biology/any)** to understand the "guest" and decipher the log.
 
 ## Scene 6: Climax in the Belt
 
-The adventure climaxes as the **Rust Dogs** arrive aboard the ***Scrap Vulture***. They used the players as a beacon and now intend to claim the prize, hoping to get in and out before the Navy arrives. This can play out as a ship-to-ship battle, a tense standoff, or a frantic race as the INV *Steadfast* closes in.
+> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship has just jumped into the system nearby. It's the *Scrap Vulture*, its brutish, heavily armored hull and oversized weapon mounts making it look like a predator. They've used you as a beacon, and now they're racing towards you, hoping to claim the prize before the Navy corvette, now accelerating in your direction, can intervene.
 
 ## Resolution
 
