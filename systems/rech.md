@@ -1,0 +1,18 @@
+# RECH (D9957AA-6)
+*   **Astronomics:** Single G-class star (a yellow, Sol-like star). Rech is the third of 8 planets. A stormy gas giant, "Maelstrom," is the sixth planet.
+*   **Description:** A large, tainted world with a population in the millions but a poor starport. The most notable feature is its state of anarchy.
+*   **UPP (D9957AA-6):**
+    *   **Starport:** D (Poor)
+    *   **Size:** 9 (14,400km diameter)
+    *   **Atmosphere:** 9 (Dense, Tainted)
+    *   **Hydrographics:** 5 (46-55% water)
+    *   **Population:** 7 (Tens of millions)
+    *   **Government:** A (Charismatic Dictator / Anarchy)
+    *   **Law Level:** A (Severe: All weapons and armor prohibited)
+    *   **Tech Level:** 6 (Industrial)
+*   **Lore:** A world in chaos. The combination of anarchy and a high law level suggests a world where there is no central government, but various powerful factions enforce their own strict rules in their own territories. The "taint" in the atmosphere is industrial pollution. A dangerous but potentially rewarding place for savvy travellers.
+
+---
+### Arrival Experience
+
+Arrival in the Rech system, which orbits a standard G-class star, is a jarring experience. The planet is a smog-choked ball of industrial grey and polluted brown. The starport is a chaotic, sprawling mess of patched-together landing pads, temporary structures, and heavily armed faction checkpoints. This is a place where the rule of law is what the person with the biggest gun says it is, and every interaction is fraught with potential danger.
