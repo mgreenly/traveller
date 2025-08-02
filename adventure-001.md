@@ -2,7 +2,14 @@
 
 This adventure, "The Inheritance," kicks off a campaign with a classic Traveller problem: the players have been given a ship, but it's located somewhere they can't get to and they don't have the money to retrieve it. The players will inherit the title to the advanced lab ship *Stardust Drifter*, but the vessel is abandoned and powered down in the Djinni system, a quarantined Red Zone. Lacking the personal capital to fund such a dangerous recovery mission, their first task will be to leverage their only asset—the ship's title—to secure a high-risk loan from a predatory financier on Regina.
 
-This initial financial hurdle is the adventure's core motivator. The players will need to borrow approximately **2.7 million Credits** to cover the cost of hiring a specialized crew, traveling to the fringe, and outfitting their expedition. This debt will hang over their heads, creating a powerful incentive to successfully claim their inheritance and make it profitable enough to pay him off before his dangerous interest rates spiral out of control. The estimated cost breakdown is as follows: ~Cr2,000,000 for hiring Captain Kaelen, ~Cr300,000 for travel, ~Cr50,000 for information, ~Cr100,000 for supplies, and ~Cr250,000 for a contingency fund.
+This initial financial hurdle is the adventure's core motivator. The players will need to borrow approximately **2.7 million Credits** to cover the cost of hiring a specialized crew, traveling to the fringe, and outfitting their expedition. This debt will hang over their heads, creating a powerful incentive to successfully claim their inheritance and make it profitable enough to pay him off before his dangerous interest rates spiral out of control. The estimated cost breakdown is as follows:
+
+*   **Hiring Captain Kaelen & *The Void Gambit*:** ~Cr2,000,000
+*   **Travel & Lodging (for 6 people):** ~Cr300,000
+*   **Information, Bribes & Tips:** ~Cr50,000
+*   **Fuel, Gear & Supplies:** ~Cr100,000
+*   **Contingency Fund:** ~Cr250,000
+*   **Grand Total:** **~Cr2,700,000**
 
 ---
 # Adventure 001: The Inheritance
