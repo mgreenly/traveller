@@ -23,7 +23,7 @@ The players' primary goal is to successfully retrieve the *Stardust Drifter* fro
         *   **"Grim":** A loyal and formidable Vargr gunner.
 
 *   **Rivals (The "Rust Dogs"):**
-    *   **Kaelen "Wrench" Riker:** The ruthless leader of the rival crew.
+    *   **Kara "Wrench" Riker:** The ruthless leader of the rival crew.
     *   **Joric "Slick" Fen:** The cocky pilot of the *Scrap Vulture*.
     *   **Grak:** The heavily augmented muscle.
     *   **Zina "Sparks" Petrova:** The grim engineer and medic.
