@@ -2,17 +2,17 @@
 
 ## The Hook
 
-The adventure begins on Regina. Keith, a former student and favored assistant to the reclusive scientist Dr. Aris, receives two messages.
+The adventure begins on Regina. Keith, a former student and favored assistant to the reclusive scientist Dr. Aris, receives a message from the law firm **Haskins & Associates**. It informs him that Dr. Aris has passed away and, as his designated heir, Keith has inherited his primary asset: the lab ship *Stardust Drifter*.
 
-The first is a formal, certified message from the law firm **Haskins & Associates**. It informs him that Dr. Aris has passed away and, as his designated heir, Keith has inherited his primary asset: the lab ship *Stardust Drifter*. The legal document states the ship is in a stable, unpowered orbit around a small, unnamed moon of the second planet in the **Lanth** system. To take legal possession, Keith must secure the ship and file a claim at a registered starport.
+The legal document states the ship was abandoned and powered down within the main asteroid belt between the third and fourth planets of the **Lanth** system. To aid in its recovery, the law firm provides a unique, one-time activation code for the ship's emergency transponder. When broadcast within the Lanth system, this code will force the *Stardust Drifter*'s transponder to activate, revealing its precise location.
 
-The second message, received shortly after, is a pre-recorded, encrypted message from Dr. Aris himself. It is rambling and paranoid, warning Keith: *"They know. They'll come for it. Don't trust the lawyers, don't trust the bank. I hid it where the old moon whispers to the new. The key is the journey, not the destination. Don't let them have my work!"* This message provides a cryptic clue to the ship's location, giving the players an advantage.
+A second, private message from Dr. Aris warns Keith: *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. Be ready. Don't let them have my work!"*
 
 ## The Goal
 
 The players' immediate goals are:
 1.  Travel from Regina to the Lanth system.
-2.  Locate and secure the *Stardust Drifter*, using Dr. Aris's clue.
+2.  Strategically use the transponder code to locate and secure the *Stardust Drifter*.
 3.  Pilot the ship back to Regina to file their claim.
 
 ## The Journey
@@ -21,16 +21,16 @@ Getting to Lanth from Regina requires finding passage on a ship willing to trave
 
 ## The Arrival in Lanth
 
-Upon arrival, the players must decipher Dr. Aris's clue to pinpoint the ship's location. The "old moon whispering to the new" could refer to a Lagrange point, a specific orbital resonance, or a location on the moon itself that is only visible from a certain angle. This search is a race against time.
+Upon arrival, the players face a tactical decision. Broadcasting the transponder code will reveal the ship's location to them, but it will also alert anyone else in the system who is monitoring ship transmissions. They must decide when and where to activate the code to give themselves the biggest advantage. The asteroid belt provides ample cover but also makes a close-range search difficult and dangerous.
 
 ## Complications
 
-*   **The "Asset Recovery Specialists":** The players are not the only interested party. A team of unethical repo-men, the "Rust Dogs," have been dispatched by the Bank of Regina to seize the *Stardust Drifter* due to a defaulted loan. They have less information than the players, knowing only that the ship is somewhere in the Lanth system. They will be actively, and aggressively, searching for the ship, and will view the players as rival salvagers to be eliminated.
+*   **The "Asset Recovery Specialists":** A team of unethical repo-men, the "Rust Dogs," have been dispatched by the Bank of Regina to seize the *Stardust Drifter*. They know the ship is in the Lanth system but do not have the transponder code. They are patrolling the system, monitoring for any unusual transmissions. The moment the players activate the transponder, the Rust Dogs will know the ship's location and will race to intercept it.
 *   **The Ship's Condition:** The *Stardust Drifter* is not in pristine condition. Dr. Aris, in his paranoia, has left surprises:
     *   **Booby traps:** Simple but effective traps designed to disable or injure intruders.
     *   **A cryptic log:** Dr. Aris's final log entry will be a cryptic message that hints at why he abandoned the ship and what he was researching. This can be a hook for a future adventure.
     *   **A "guest" on board:** Dr. Aris may have left behind a piece of his research... a strange alien creature in a containment field, a malfunctioning AI, or something even more bizarre.
-*   **The Lanth System Authorities:** The local authorities on Lanth are not fond of off-worlders causing trouble in their system. If the players get into a conflict with the Rust Dogs or cause any damage, they may have to deal with the local law enforcement.
+*   **The Lanth System Authorities:** The local authorities on Lanth are not fond of off-worlders causing trouble in their system. If a firefight or a high-speed chase erupts in the asteroid belt, it may attract their attention.
 
 ## Resolution
 
