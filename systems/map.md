@@ -27,12 +27,12 @@ This map shows the jump-1 connections between the systems relevant to the "Inher
 
 ## Jump Routes
 
-### Primary Route (Regina to Rech)
-1.  **Regina (R)** to **Jenghe (J)** - 1 Parsec
-2.  **Jenghe (J)** to **Dinom (D)** - 1 Parsec
-3.  **Dinom (D)** to **Dinomn (N)** - 1 Parsecs
-4.  **Dinomn (N)** to **Wypoc (W)** - 1 Parsecs
-5.  **Wypoc (W)** to **Rech (C)** - 1 Parsecs
-6.  **Rech (C)** to **Djinni (I)** - 1 Parsec
+### Primary Route (Regina to Djinni)
+1.  **(R)** to **(J)** - 1 Parsec - Regina to Jenghe
+2.  **(J)** to **(D)** - 1 Parsec - Jenghe to Dinom
+3.  **(D)** to **(N)** - 1 Parsec - Dinom to Dinomn
+4.  **(N)** to **(W)** - 1 Parsec - Dinomn to Wypoc
+5.  **(W)** to **(C)** - 1 Parsec - Wypoc to Rech
+6.  **(C)** to **(I)** - 1 Parsec - Rech to Djinni
 
 ```
