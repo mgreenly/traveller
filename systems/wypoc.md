@@ -1,4 +1,5 @@
 # WYPOC (E9C4547-9)
+*   **Sector:** Spinward March
 *   **Subsector:** Lanth
 *   **Coordinates:** 2011
 *   **Astronomics:** Single F-class star (a hot, yellow-white star). Wypoc is the fourth of 7 planets. A massive gas giant, "Goliath," is the sixth planet.

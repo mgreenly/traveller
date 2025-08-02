@@ -1,4 +1,5 @@
 # DINOM (D300535-A)
+*   **Sector:** Spinward March
 *   **Subsector:** Lanth
 *   **Coordinates:** 1811
 *   **Astronomics:** Single K-class star (a cool, orange-hued star). Dinom is the second of 5 planets. A large gas giant, "Aegis," is the fifth planet.

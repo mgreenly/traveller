@@ -1,4 +1,5 @@
 # RECH (D9957AA-6)
+*   **Sector:** Spinward March
 *   **Subsector:** Lanth
 *   **Coordinates:** 2112
 *   **Astronomics:** Single G-class star (a yellow, Sol-like star). Rech is the third of 8 planets. A stormy gas giant, "Maelstrom," is the sixth planet.

@@ -1,4 +1,5 @@
 # Regina (A788899-C)
+*   **Sector:** Spinward March
 *   **Subsector:** Regina
 *   **Coordinates:** 1910
 *   **Astronomics:** Trinary star system (a system with three stars) featuring Lusor, a G-class star (yellow, Sol-like); Speck, an M-class star (cool, red); and Darida, another M-class star. The main world, Regina, is a habitable moon orbiting the gas giant Assiniboia. The system contains 11 other planets and an asteroid belt.

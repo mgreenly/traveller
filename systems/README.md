@@ -1,16 +1,3 @@
-# Systems
-
-This file contains a list of all the systems in the campaign.
-
-*   [Dinom](./dinom.md)
-*   [Dinomn](./dinomn.md)
-*   [Djinni](./djinni.md)
-*   [Jenghe](./jenghe.md)
-*   [Rech](./rech.md)
-*   [Regina](./regina.md)
-*   [Wypoc](./wypoc.md)
-
----
 # Subsector Map
 
 This map shows the jump-1 connections between the systems relevant to the "Inheritance" adventure.

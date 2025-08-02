@@ -1,4 +1,5 @@
 # DINOMN (B674632-9)
+*   **Sector:** Spinward March
 *   **Subsector:** Lanth
 *   **Coordinates:** 1912
 *   **Astronomics:** Single G-class star (a yellow, Sol-like star). Dinomn is the third of 6 planets. A ringed gas giant, "Chronos," is the fifth planet.

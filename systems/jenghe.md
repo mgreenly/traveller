@@ -1,4 +1,5 @@
 # JENGHE (C799663-9)
+*   **Sector:** Spinward March
 *   **Subsector:** Regina
 *   **Coordinates:** 1810
 *   **Astronomics:** Single K-class star (a cool, orange-hued star). The system has 4 planets, with Jenghe being the second. No gas giants are present.

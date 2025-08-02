@@ -1,4 +1,7 @@
 # DJINNI (X559000-0) - RED ZONE
+*   **Sector:** Spinward March
+*   **Subsector:** Lanth
+*   **Coordinates:** 2111
 *   **Astronomics:** Single G-class star (a yellow, Sol-like star). Djinni is the second of 4 planets. A dark gas giant, "Nyx," is the fourth planet.
 *   **Description:** A completely undeveloped and uninhabited world with no starport. It is a medium-sized, thin-atmosphere water world.
 *   **UPP (X559000-0):**
