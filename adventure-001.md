@@ -95,6 +95,28 @@ After giving the code phrase, the players make a **Persuade** or **Broker** chec
 
 This multi-jump journey takes the players from the heart of the Imperium to its lawless edge.
 
+### Task Chain: Haggling for Passage
+This reusable task chain can be used whenever the players negotiate for passage or lodging. The "standard price" is the one listed in the adventure text for each leg of the journey.
+
+#### Stage 1: Finding Leverage (TN 8+)
+Before negotiating, players can make a **Streetwise** or **Investigate** check to find an advantage.
+*   **Streetwise:** Represents asking around to learn the real going rates.
+*   **Investigate:** Represents checking official shipping manifests or corporate rate cards.
+*   **Success (8+):** The players find some leverage. **+1 bonus** to their check in Stage 2.
+*   **Failure (7-):** They enter the negotiation blind. **-1 penalty** to their check in Stage 2.
+
+#### Stage 2: The Haggle (TN 8+)
+The players negotiate with the captain or broker using a **Broker** or **Persuade** check (modified by Stage 1).
+*   **Broker:** The primary skill for professional negotiation.
+*   **Persuade:** An attempt to get a better deal through charm or a sob story.
+
+#### Outcome Tiers
+*   **Tier 1: Failure:** The price is **150% of the standard rate**.
+*   **Tier 2: Standard Success:** The price is **100% of the standard rate**.
+*   **Tier 3: Exceptional Success (Effect 4+):** The price is **75% of the standard rate**, or they receive a free upgrade.
+
+---
+
 ### Stop 1: [Jenghe](./systems/jenghe.md) (Colonial Holding)
 A short, comfortable hop on a subsidized liner. The players must negotiate passage on a bulk hauler for the next leg of their journey.
 *   **Passage to [Dinom](./systems/dinom.md):** ~Cr1,500 (Low) or ~Cr6,000 (Standard).
