@@ -251,7 +251,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 ---
 ## Appendix C: Starships
 
-*   ***Stardust Drifter*:** The prize. A modified lab ship, abandoned in the [Djinni](./systems/djinni.md) system.
-*   ***The Void Gambit*:** The players' ride. A fast, modified free trader captained by Kaelen.
-*   ***Scrap Vulture*:** The rivals' ship. A brutish, modified freighter used by the Rust Dogs.
-*   ***INV Steadfast*:** The law. An Imperial Navy corvette patrolling the [Djinni](./systems/djinni.md) system.
+*   [***Stardust Drifter***](./ships/stardust-drifter.md): The prize. A modified lab ship, abandoned in the [Djinni](./systems/djinni.md) system.
+*   [***The Void Gambit***](./ships/the-void-gambit.md): The players' ride. A fast, modified free trader captained by Kaelen.
+*   [***Scrap Vulture***](./ships/scrap-vulture.md): The rivals' ship. A brutish, modified freighter used by the Rust Dogs.
+*   [***INV Steadfast***](./ships/inv-steadfast.md): The law. An Imperial Navy corvette patrolling the [Djinni](./systems/djinni.md) system.
