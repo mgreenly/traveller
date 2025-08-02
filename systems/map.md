@@ -3,19 +3,15 @@
 This map shows the jump-1 connections between the systems relevant to the "Inheritance" adventure.
 
 ```
-      U   R
-       \ /
-        J
-       / \
-      E   D
-           \
-            N
-           /
-          W
-         / \
-        I---C
-            |
-            K
+                  R
+                 /
+                J     I
+                |    /|
+                D   W |
+                 \ / \|
+                  N   R
+                       \
+                        K
 ```
 
 ## Map Key
@@ -26,20 +22,17 @@ This map shows the jump-1 connections between the systems relevant to the "Inher
 *   **W:** [Wypoc](./wypoc.md) (2011)
 *   **C:** [Rech](./rech.md) (2112)
 *   **I:** [Djinni](./djinni.md) (2111)
-
----
-*   **U:** Rui / Ruie
-*   **E:** Extolay
 *   **K:** K'Kirka
+
 
 ## Jump Routes
 
 ### Primary Route (Regina to Rech)
 1.  **Regina (R)** to **Jenghe (J)** - 1 Parsec
 2.  **Jenghe (J)** to **Dinom (D)** - 1 Parsec
-3.  **Dinom (D)** to **Dinomn (N)** - 2 Parsecs (via Extolay)
-4.  **Dinomn (N)** to **Wypoc (W)** - 2 Parsecs
-5.  **Wypoc (W)** to **Rech (C)** - 2 Parsecs
+3.  **Dinom (D)** to **Dinomn (N)** - 1 Parsecs
+4.  **Dinomn (N)** to **Wypoc (W)** - 1 Parsecs
+5.  **Wypoc (W)** to **Rech (C)** - 1 Parsecs
 6.  **Rech (C)** to **Djinni (I)** - 1 Parsec
 
 ```
