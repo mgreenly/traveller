@@ -1,0 +1,21 @@
+DECK 1
+9
+9
+9
+
+LEGEND
+1. Staterooms
+2. Common area
+3. Turrets
+4. Docking space
+5. Airlocks
+6. Jump drives
+7. Manoeuvre drive
+8. Power plant
+9. Fuel processor
+10. Bridge
+11. Cargo hold
+
+119
+
+

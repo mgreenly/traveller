@@ -1,0 +1,103 @@
+BRILLIANCE-CLASS LONG LINER
+TL15
+Hull
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Systems
+
+Staterooms
+
+Software
+
+800 tons, Streamlined
+Thrust 2
+Jump 4
+Fusion (TL15), Power 500
+J-4, 4 weeks of operation, plus Pinnace
+Computer/25
+Civilian Grade
+Fuel Scoops
+Medical Bay
+Re-Entry Pods x 34
+Library
+Docking Space (30 tons)
+Slow Boat
+Standard x 6
+High x 24
+Luxury x 4
+Manoeuvre/0
+Jump Control/4
+Library
+Intellect
+Virtual Crew/1
+Anti-Hijack/3
+
+Common Areas
+Cargo
+
+TOTAL: MCR 344.492
+
+194
+
+TONS
+
+COST (MCR)
+
+–
+16
+85
+25
+324
+20
+–
+1
+–
+4
+34
+4
+33
+–
+24
+144
+40
+–
+–
+–
+–
+–
+–
+12
+14
+
+48
+32
+127.5
+50
+–
+4
+10
+3
+–
+2
+5.1
+4
+8.25
+4.842
+3
+19.2
+6
+–
+0.4
+–
+1
+5
+10
+1.2
+–
+
+

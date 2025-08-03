@@ -1,0 +1,224 @@
+SPINWARDS MARCHES-SUBSCTOR D
+
+ARAMIS
+
+The Aramis subsector lies at the coreward edge of the
+Marches. To trailing is the Pretoria subsector in Deneb,
+Imperial territory, but coreward is the Vargr Extents. Most
+Vargr incursions in the four Frontier Wars, and most
+corsair raids today, come through this subsector. As a
+result, the 214th Fleet, tasked with protection of Aramis,
+attempts to control access to the rest of the sector.
+This activity is mainly concentrated on the rimward end
+of the subsector. The fleet is based out of Paya, Natoko
+and L’Oeul d’Dieu, clearly demonstrating the Navy’s lack
+of interest in the relatively unimportant worlds further
+coreward. Navy ships do sweep the more coreward
+systems but not anything like as frequently as the
+rimward ones.
+Name
+Aramanx
+Aramis
+Carsten
+Corfu
+Dhian
+Feneteman
+Focaline
+Heguz
+Jesedipere
+Junidy
+Lablon
+Lewis
+L’oeul d’Dieu
+Nasemin
+Natoko
+Patinir
+Pavanne
+Paya
+Pysadi
+Reacher
+Rugbird
+Towers
+Violante
+Yebab
+Zila
+Zykoca
+
+Location
+3005
+3110
+2906
+2602
+2510
+3104
+2607
+2706
+3001
+3202
+2701
+3107
+3010
+3003
+3209
+3207
+2905
+2509
+3008
+3210
+3102
+3103
+2708
+3002
+2908
+3004
+
+Bases
+NS
+
+W
+
+N
+S
+N
+
+N
+
+S
+
+Statistics
+B657974-7
+A5A0556-B
+C427402-B
+C895674-8
+C9A769D-8
+C422200-C
+EA88544-7
+E66A224-9
+C775300-7
+B434ABD-B
+B646589-A
+D427402-7
+B98A510-B
+B98A422-B
+B582211-8
+C000632-9
+E310000-0
+A655241-9
+C5766D8-5
+C9A8542-8
+BAC5634-A
+B544448-A
+C669452-A
+C9A489A-8
+E556727-7
+D994542-6
+
+Critics of the Imperial system of government like to
+point out that the Marquis of Aramis is a member
+of the Tukera family and Tukera is one of the main
+Imperial megacorporations. They suggest that it is not
+coincidence that Aramis itself has a naval base and is
+flanked by two others. Imperial Navy officials (and the
+office of the Marquis of Aramis) dismiss this as a typical
+example of paranoid anti-establishment ranting.
+Junidy is the homeworld of a minor race called the
+Llellewyoly, colloquially known as ‘Dandelions’ as a result
+of their appearance. They are an oddball species falling
+somewhere between plants and animals, with a highly
+complex social order that routinely baffles outsiders.
+Trade Codes
+Hi Ga
+He Ni
+Ni
+Ag Ni
+Fl Ni
+He Lo Po
+Ag Ni
+Lo Wa
+Lo
+Hi
+Ag Ni
+Ni
+Ni Wa
+Ni Wa
+Lo
+As Na Ni Va
+Ba
+Lo Ga
+Ag Ni
+Fl Ni
+Fl Ni
+Ni
+Ni
+Fl
+Ag
+Ag Ni
+
+Travel Code
+A
+
+A
+A
+
+A
+R
+
+A
+A
+A
+A
+
+A
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

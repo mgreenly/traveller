@@ -1,0 +1,87 @@
+TL2
+HAND-CRANKED DIRIGIBLE
+TL
+
+2
+
+SKILL
+
+Flyer (airship)
+
+AGILITY
+
+-4
+
+SPEED (CRUISE)
+
+Idle (Idle)
+
+RANGE (CRUISE)
+
+-
+
+CREW
+
+20
+
+PASSENGERS
+
+-
+
+CARGO
+
+2.5 tons
+
+HULL
+
+20
+
+SHIPPING
+
+10 tons
+
+COST
+
+Cr25000
+
+ARMOUR
+
+EQUIPMENT AND WEAPONS
+
+F RONT
+
+0
+
+REAR
+
+0
+
+SIDES
+
+0
+
+TRAITS
+
+Bunks x 5, Control System (primitive), Galley (10 people)
+
+—
+
+—
+
+DESCRIPTION
+Like most vehicles on Victoria, this example is a one-off build. It consists of a large gasbag
+under which is slung a propulsion gondola and crew accommodation pod. The latter has a set
+of bunks and a galley capable of serving the crew. The vessel normally operates with a crew of
+16-20, with crewmembers hot bunking, sleeping in shifts when they are not working. The galley serves a very
+limited selection of high-energy foods, capable of sustaining the crew throughout their voyage.
+Propulsion is by means of hand-cranked propellers. The main propeller is directly aft of the working gondola,
+just beyond the end of the gasbag, supplemented by four steerable propellers that provide some manoeuvring
+capability. Landing is typically an all-hands-to-the-cranks affair, with the whole crew operating propellers under
+the direction of the vessel’s master.
+The main propeller is shaft-driven from a flywheel, which is brought up to speed gradually and with great
+effort, despite a gearing ratio designed to make it possible for even a single person to eventually build up some
+momentum. Once the flywheel is in motion, it essentially stores energy for the propeller to use at need and it is
+theoretically possible to spend a long time accelerating the flywheel, then make a flight with a minimal
+crew aboard.
+
+

@@ -1,0 +1,64 @@
+Retrofitting
+
+It is common for old warships to be converted into
+system defence vessels. Whilst some components of the
+jump drive may be degraded, enough remains reusable
+in most ships to be a valuable source of spares for other
+vessels. Components can also be sold to offset the
+cost of the conversion. A ship that no longer has jump
+capability does not need enormous fuel tanks and these
+can be converted to other uses.
+Conversely, weaponry and other components can be
+retrofitted to ships that did not previously have them.
+Minor systems, like laser turrets and a small additional
+power plant to support them, can be fitted into odd
+spaces, effectively reducing cargo capacity or replacing
+a stateroom or two.
+
+VENTURER-CLASS
+
+FAST FREIGHTLINER
+
+Designed and operated exclusively by Tukera Lines –
+other than a handful of vessels passed to other owners
+after suffering damage or incidents such as the notorious
+ships-for-votes affair of 1096 – the Venturer-class is
+fast in two ways. First, it has a two-jump-2 capability,
+enabling it to cross a four-parsec gap between major ports
+without the need to follow mains or standard shipping
+routes. The Venturer also uses a lighter-aboard-ship
+(LASH) configuration to permit rapid cargo transfers.
+
+LASH ships carry little cargo internally but instead use
+cargo lighters that are little more than powered cargo
+pods. These can be dropped the moment the ship
+emerges from jump, to make their way towards the
+starport under their own power. A replacement set of
+pre-loaded lighters can be waiting near the jump limit,
+enabling the vessel to make its second two-parsec jump
+before a conventional ship would have even reached
+port. With vessels passing through on the strict schedule
+for which Tukera is famous, this set-up can be very
+efficient. It is particularly useful in systems where the
+mainworld is an asteroid belt or where there are cargoes
+for several points in the system; all can be delivered
+at once rather than having to wait for transfer from the
+main starport.
+Of course, this system carries a significant overhead
+in terms of prepositioned lighters but a small fleet of
+Venturer-class vessels constantly runs between designated
+ports, reusing the same lighters and pilots aboard a
+succession of ships. Normally the standard 100-ton
+cargo lighter and passenger boat are shipped but when
+necessary the Venturer can carry a variety of other craft all
+built on the same hull, with the same fittings.
+Lighters are built to TL12 standards on a variety of
+worlds and used as utility craft by numerous port
+authorities, world governments and even other shipping
+operators. The use of a lightly built hull and lower level of
+technological sophistication keeps costs down and allows
+these craft to be easily maintained at the ports they visit.
+
+181
+
+

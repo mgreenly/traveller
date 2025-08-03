@@ -1,0 +1,61 @@
+12
+11
+
+13
+DECK 5
+12
+
+14
+18
+15
+DECK 8
+DECK 6
+
+3
+20
+
+21
+
+17
+
+14
+
+DECK 7
+
+16
+
+DECK 9
+
+3
+22
+
+11
+3
+DECK 10
+
+11. Full hangar
+12. Triple turrets
+13. Recovery Deck
+14. Cargo hold
+15. Stables
+16. Vaults
+17. Training facilities
+18. Sandcasters
+19. Luxury rooms
+
+24
+20. Distributed arrays
+21. Enhased sensors
+22. Command bridge
+23. Armoury
+24. Bridge
+
+DECK 11
+
+23
+
+24
+
+209
+
+

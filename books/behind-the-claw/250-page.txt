@@ -1,0 +1,225 @@
+D E N E B - S U B S E C T O R
+
+G
+
+DUNMAG
+The 28 star systems of the Dunmag subsector are, for
+the most part, arranged as variously sized clumps with
+jump-2 vessels required to transit between them. This
+creates a set of small local economies that have links
+to other, similar groupings. Whilst not as conducive
+to economic growth as a major main or cluster, these
+conditions did permit a modestly powerful economy to
+develop in the subsector before the Imperial Civil War.
+
+Name
+Andalia
+Cunha
+Diiski
+Donu-na
+Dunmag
+Giikusu
+Imlaar
+Jurburk
+Kadidun
+Karst
+Kennebec
+Lan-chou
+Namidshur
+Nibel
+Orenberg
+Pagamin
+Petrarch
+Piram
+Polizzi
+Reims
+Ruwenzori
+Shinorasus
+Stoyben
+Teatro
+Torm
+Twinian
+Ugrik
+Zinuun
+
+Location
+1714
+2117
+2111
+1917
+2413
+2316
+2212
+2414
+2114
+1814
+1717
+2317
+2019
+2411
+2011
+2412
+1712
+2116
+1719
+1716
+2017
+1918
+1713
+2120
+2220
+2013
+2016
+2014
+
+Bases
+
+N
+S
+N
+S
+
+S
+S
+
+NS
+
+S
+S
+S
+
+Statistics
+C87A447-7
+C62677C-7
+C66A200-8
+C560850-9
+A427138-C
+E647ABC-A
+D677551-6
+B554233-B
+D5A2103-9
+B87679B-6
+E978552-6
+D855788-6
+B3106A9-C
+E688303-4
+B430678-C
+C571114-8
+B554853-8
+E311777-7
+B402532-D
+C624779-7
+E749424-7
+A410200-E
+D31356A-8
+C8A78CA-8
+C556445-9
+C40447B-7
+E300000-0
+E4367BA-6
+
+During the ‘bad war’ phase of the war in Deneb, many
+worlds suffered major damage with population centres
+and industrial sites attacked from orbit. Some worlds –
+notably Andalia, Twinian and Pagamin – were rendered
+all but uninhabitable. The consequences of this damage
+went beyond the boundaries of Dunmag; the destruction
+of economic assets created a hole in the middle of the
+sector, which later absorbed goods that could have been
+
+Trade Codes
+Ni Wa
+Lo Wa
+De Ri
+Lo
+Hi In
+Ag Ni
+Lo
+Fl Lo
+Ag
+Ag Ni
+Ag Ga
+Na Ni
+Lo
+De Na Ni Po
+Lo
+
+Travel Code
+A
+
+A
+
+A
+
+Ic Na
+Ic Ni Va
+Ni
+Lo
+Ic Ni
+Fl
+Ni
+Ic Ni Va
+Ba Va
+
+A
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

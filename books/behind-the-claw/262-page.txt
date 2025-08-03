@@ -1,0 +1,243 @@
+D E N E B -
+
+S U B S E C O R
+
+J
+
+VINCENNES
+Astrographically, Vincennes is a typical subsector with
+32 star systems grouped into clusters of varying sizes,
+all accessible by a jump-2 ship. The subsector is named
+for the world of Vincennes, which has been its capital
+since incorporation into the Imperium in 243.
+
+With good communications within and beyond the
+subsector, Vincennes was well set to develop into a
+powerful economy, which it did. Today, Vincennes is
+one of the few TL16 worlds in the Imperium, exporting
+small quantities of high-technology components and
+
+Name
+Achemadon
+Alaungpaya
+Al-Uqayr
+Arnyl
+Bishop
+Brontitor
+Bumushe
+Burtrum
+Condamine
+Dekha
+Djar
+Eretaro
+Erisis
+Frisgar
+HRD
+Ibix Donora
+Irumunu
+Ishiri
+Jonkeer
+Kew
+Medard
+Montane
+Northammon
+Peres
+Prege
+Risir
+Sarden
+Sipedon
+Taburi Nen
+Teyobald
+Verd
+Vincennes
+
+Trade Codes
+Ag
+De Po
+Lo
+Ni Ri
+Ic Ni Va
+Fl Lo
+Ni Ri Wa
+
+Location
+1224
+1628
+1323
+0930
+1226
+1630
+1522
+1026
+1428
+1128
+1229
+1430
+1123
+1025
+1623
+0925
+1023
+1429
+1324
+1426
+1327
+1223
+0921
+1221
+1030
+1626
+1424
+0929
+1227
+0922
+1524
+1122
+
+Bases
+S
+NS
+S
+S
+
+S
+S
+
+N
+W
+S
+
+NS
+
+Statistics
+A5477BB-A
+C540794-8
+E567259-5
+B683697-8
+B201553-E
+B9C4210-9
+C68A657-7
+C5387A9-8
+C665578-7
+C100A9A-F
+C3008CE-7
+C9C4100-B
+D679443-7
+E424752-9
+A401654-F
+C432245-9
+B7B3620-B
+E56598A-7
+C5908C9-8
+C512103-B
+B421425-C
+C683104-7
+B764667-A
+C536224-6
+B79A678-9
+C430225-9
+E552652-7
+E5536AB-6
+A54658A-B
+B8B3545-C
+E550433-6
+A899AA6-G
+
+Ag Ni Ga
+Hi In Na Va
+Na Va
+Fl Lo
+Ni
+Ic Na Ni Va
+Lo Po
+Fl Ni
+Hi
+De
+Ic Lo
+Ni Po
+Lo
+Ag Ni Ri
+Lo
+Ni Wa
+De Lo Po
+Ni Po
+Ni Po
+Ag Ni
+Fl Ni
+De Ni Po
+Hi In
+
+Travel Code
+A
+
+A
+
+A
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

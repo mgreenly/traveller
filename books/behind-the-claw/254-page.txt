@@ -1,0 +1,205 @@
+D E N E B - S U B S E C T O R
+
+ATSAH
+
+The 24 star systems of Atsah are all full members
+of the Imperium, although the region has a distinct
+cultural identity as a result of its history. Atsah is
+astrographically important as a link to Corridor and thus
+to the Imperial heartland beyond and, as such, it is of
+strategic interest in regions as far away as the Spinward
+Marches. A more stable subsector might not draw such
+great attention but Atsah is prone to rather vigorous
+internal politics.
+This situation has its origins in the pre-Imperial era.
+Atsah was the centre of a loose federation of Vargr
+worlds when the Imperium began pushing through
+the sector and co-opted into Imperial membership by
+demonstrations of strength and incentives for local
+leaders. On one hand this allowed a large region to be
+Name
+Arabah
+Atadl
+Atsah
+Berora
+Berth
+Corfinium
+Doho
+Dophkah
+Erita
+Errogel
+Gampin
+Ivora
+Kasmar
+Khishuda
+Kiirindor
+Lamar
+Niven
+Og Bere’
+Prevsla
+Salaam
+Segan
+Sherad
+Wal-ta-ka
+Zerderu
+
+Location
+3115
+3015
+2913
+2615
+3112
+3011
+2813
+2715
+2519
+2716
+2820
+3013
+2515
+2918
+2520
+3111
+2512
+2812
+3113
+3213
+2717
+3116
+2713
+3016
+
+Bases
+S
+W
+NS
+
+N
+N
+S
+
+NS
+S
+
+S
+N
+N
+
+Statistics
+C877233-5
+B3109C7-E
+A656750-D
+B100672-D
+B547345-B
+B543634-8
+A696444-C
+B647777-8
+E99A575-8
+B550554-A
+D668644-6
+E999533-5
+E631754-8
+C856340-5
+B546666-A
+C410410-7
+E9C4237-9
+B564512-8
+D543300-8
+D576300-5
+B5509AB-C
+A000447-E
+C560431-9
+B541685-A
+
+H
+
+incorporated relatively easily; on the other it meant
+that the Duchy of Atsah continued in the previous
+tradition of turbulent politics based on personalities
+rather than policies.
+At any given time, some worlds in Atsah are likely to be
+in rebellion, or in dispute with the Imperium, and some
+will have client state status rather than full membership.
+This is a polite way of saying that the world government
+is making noise about secession from the Imperium,
+or even declared it, but Imperial authorities have
+not recognised the move as this would require a full
+intervention. This polite fiction allows other, subtler,
+measures to be taken – which can often be nothing more
+than waiting until the local political wind changes.
+Trade Codes
+Lo
+Hi In Na
+Ag Ga
+Na Ni Va
+Lo
+Ni Po
+Ni
+Ag
+Ni Wa
+De Ni Po
+Ag Ni Ri
+Ni
+Na Po
+Lo Ga
+Ag Ni
+Ni
+Fl Lo
+Ag Ni
+Lo Po
+Lo
+De Hi Po
+As Ni Va
+De Ni
+Ni Po
+
+Travel Code
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+A
+
+A
+
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

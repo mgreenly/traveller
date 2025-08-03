@@ -1,0 +1,70 @@
+320
+HULL POINTS
+
+CREW
+CAPTAIN, PILOT, ASTROGATOR,
+ENGINEERS X 3, MEDIC, STEWARDS X 3,
+ADMINISTRATOR
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr28708/month
+
+PURCHASE COST
+MCr344.492
+
+Power Requirements
+160
+
+160
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+320
+
+1
+
+—
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+The Brilliance class is a long liner, a highjump passenger vessel with very little cargo
+capacity. It is built on an 800 ton hull to
+a very high standard, with an impressive
+jump-4 performance that allows it to travel
+directly between important worlds. Long
+Liners typically follow the x-boat routes
+or ply between major political or trade
+centres, although some are available for
+charter. Others are used for VIP personnel
+transfers or to host small conferences, with
+common areas configured for discussion,
+presentations or planning sessions.
+Passenger accommodation is extremely
+luxurious, with the very best food and
+drink prepared by skilled stewards. It is not
+uncommon for liners to provide specialist
+entertainment or education on for a voyage,
+often tailoring the choice to the passengers’
+preferences. A voyage between two systems
+might be a chance to meet a famous author
+or former sports personality, take a course
+from a high-end artist or enjoy performances
+by professional entertainers.
+
+195
+
+

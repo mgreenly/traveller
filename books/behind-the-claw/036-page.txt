@@ -1,0 +1,96 @@
+T H E
+
+S P E C I A L I S T
+
+C O L L E C T I O N
+
+DELPHINIC TECHNOLOGY
+
+1
+
+Equipment developed for use by Dolphins to allow them to integrate with interstellar societies.
+
+A01/56376
+
+TRAVEL SUIT
+
+This garment combines gravitic technology with a hostile environment
+suit, and contains a super-humid atmosphere for the comfort of its
+Dolphin wearer. The TL12 version provides 12 hours of life support,
+while the TL15 version extends this to 48 hours. The helmet includes
+a polylucent cuprothallium visor with a full heads-up display tied
+into an on-board computer/communications array (a computer/3 at
+TL12 and computer/5 at TL15). The communications system is an
+audio/video transceiver with a 500km range, while grav flight has a
+maximum Speed Band of Slow.
+Armour Type
+Travel Suit
+
+A01/75324
+
+Protection
++5
++8
+
+TL
+12
+15
+
+Rad
+-
+
+Kg Cost
+12 Cr125000
+7
+Cr150000
+
+Required Skill
+-
+
+TYPE D BATTLE DRESS
+
+This is a combat version of the travel suit and includes all its
+facilities. However, it is extremely well-armoured and adds waldos,
+the full electronics suite for battle dress found on page 30 of the
+Central Supply Catalogue, and a sonar-based sensor system with a
+range of 1km that grants DM+2 to Electronics (sensors) checks.
+
+Armour Protection TL Rad STR DEX Slots Kg Cost
+Required Skill
+Type D
+Battle +25
+15 300 +2 +6 20
+12 Cr300000 Vacc Suit 1
+Dress
+
+A01/86479
+
+WALDO
+
+A waldo is a mechanical manipulation device used by Dolphins as
+substitute hands and arms. They are typically built into travel suits
+but can also be worn as a harness. At TL9, waldos are typically
+clumsy and weak (DM-2 to all checks involving their use) but
+at TL12 a surgically implanted neural control plug is used (the
+operation costing Cr150000), reducing the penalty in their use to
+DM-1 and increasing STR+2. At TL15, there is no penalty involved
+in their use and strength is increased by STR+4.
+Item
+Waldo
+
+TL
+9
+12
+15
+
+Kg
+20
+10
+8
+
+Cost
+Cr150000
+Cr250000
+Cr350000
+
+

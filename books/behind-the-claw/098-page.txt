@@ -1,0 +1,219 @@
+SPINWARDS MARCHES-SUBSECTOR K
+
+LUNION
+
+With most of its worlds on the Spinward Main and in
+close proximity to Mora, the Lunion subsector was
+settled early in the Imperial expansion into the Marches
+and contains a number of high-technology worlds.
+Most traffic bound for the Five Sisters and Darrian goes
+through Lunion, contributing to the local economy.
+
+belong to the 43rd Fleet, which is mainly concerned
+with keeping its section of the Spinward Main safe for
+navigation. Long-term guardship deployments are not
+uncommon, even in systems with minor starports. While
+tedious for the crews involved, such deployments go a
+long way towards deterring both piracy and smuggling.
+
+Ling Standard Products (LSP) has major shipyards at
+Lunion and Strouden, the most important yards in the
+Marches in terms of output. They handle commercial
+and military contracts on a large scale, as well as
+building standard designs and one-off vessels for private
+customers. Standards of workmanship are very high. Not
+coincidentally, the main naval bases for the subsector
+are also at Lunion and Strouden, with light patrol forces
+based out of Shirene and Capon. Subsector assets
+
+The sparse area in the coreward end of the subsector is
+part of the Abyss Rift and has the same bad reputation
+for misjumping ships and other strange phenomena.
+
+Name
+Adabicci
+Arba
+Capon
+Carse
+Derchon
+Drolraw
+Gandr
+Gorram
+Harvosette
+Ianic
+Lunion
+Olympia
+Penkwhar
+Persephone
+Quiru
+Rabwhar
+Resten
+Sharrip
+Shirene
+Smoug
+Spirelle
+Strouden
+Tenalphi
+Wardn
+Zaibon
+
+Location
+1824
+1721
+2324
+2224
+2024
+2426
+2425
+2322
+2129
+1924
+2124
+1728
+2128
+2228
+2321
+1822
+2323
+2325
+2125
+1729
+1927
+2327
+1826
+1727
+1825
+
+Bases
+N
+N
+S
+
+NS
+
+W
+S
+S
+S
+S
+N
+S
+
+Statistics
+A57189B-B
+C200200-C
+B747748-A
+C563325-9
+C512799-8
+EAB6311-8
+E000347-8
+X554220-2
+C430737-9
+E560697-5
+A995984-D
+C428342-7
+D978310-5
+B775833-A
+B565300-8
+D5448BA-6
+B310100-B
+C575101-A
+B984510-B
+C54078A-9
+C766846-8
+A745988-D
+A774722-E
+B756486-B
+B000544-B
+
+The subsector’s planetoid belts are something of an
+economic disappointment. Gandr is particularly poor,
+although the discovery of superheavy elements there in
+1040 caused a number of firms to move in, only to pull
+out again when the deposits proved unviable. Zaibon
+
+Trade Codes
+Lo Va
+Ag
+Lo
+Ic Na
+Fl Lo
+As Lo Va
+Lo
+De Na Po
+De Ni Ri
+Hi In
+Lo
+Lo
+
+Travel Code
+A
+
+R
+
+A
+
+Lo
+A
+Lo
+Lo
+Ag Ni
+De Po Pi
+Ga Ri
+Hi In
+Ag An
+Ni Ga
+As Ni Va
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+
+G
+G
+G
+G
+G
+G
+G
+G
+
+G
+G
+
+

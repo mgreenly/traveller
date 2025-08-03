@@ -1,0 +1,50 @@
+DESCRIPTION
+The Deep Ranger-class is an extremely wellequipped vessel intended for long duration deepdiving in water or other non-corrosive fluids. Its
+underwater displacement is around 1500 tons;
+not large for a maritime vessel but sizeable for a
+civilian submarine (note that water displacement
+is not the same as starship displacement,
+which is determined by displacement of liquid
+hydrogen rather than water).
+This submarine can safely descend to depths of
+16km, far more than needed on most worlds,
+and can stay underwater for as long as food
+stocks last. It is extremely cramped, however,
+as almost all available space is taken up with
+equipment or controls The submarine has a
+nominal crew complement of 10, although most
+vessels operate with 3-5 personnel on board.
+This makes it possible to remove some of the
+bunks and reconfigure spaces to give the crew a
+little breathing room.
+By far the most spacious part of the submarine
+is its laboratory suite, which consists of a main
+hydrographics lab and four configurable research
+spaces. Most external work is done with a mix
+
+of heavy and fine-work manipulator arms or
+sensors mounted on extendable masts pushed
+into seabed silt. There are airlocks for divers but
+these can only be used in shallow water unless
+robotic craft are launched. The research suite
+also contains holding tanks, of which nearly half
+can be refrigerated and a cryoberth unit normally
+used to freeze samples.
+The vessel’s fusion power plant allows extremely
+long duration operations and is complemented
+by a water-jet system linked to hydrographic
+sampling equipment. High powered water jet
+thrusters allow rapid emergency movement
+away from a hazard or station-keeping in strong
+currents, and there is an auxiliary crawler system
+on the ventral surfaced of the submersible to
+permit movement on the seabed.
+Although all submarines come equipped with
+life support and hostile environment capability,
+the Deep Ranger takes this to an extreme and
+has a multiply redundant backup system. In
+dire emergenies, the main control cabin can be
+sealed and ejected, returning to the surface by
+means of slight positive buoyancy.
+
+

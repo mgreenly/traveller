@@ -1,0 +1,324 @@
+SPINWARDS MARCHES-SUBSECTOR B
+
+JEWELL
+
+The Jewell subsector is where the Imperium and
+Zhodani Consulate meet. Politically, there are three
+distinct parts to the subsector. The spinward-coreward
+systems are mostly Consulate and form a thin strip of
+Zhodani territory projecting into the subsector. Farreach,
+Clan and Chwistyoch are heavily fortified as naval bases
+and, along with Cipango in Cronor subsector, form what
+many Imperial observers call the Riverland Wall.
+
+their Zhodani equivalents, these are heavily protected
+for the most part, with forward naval bases at Jewell
+and Mongo, and Scout Service bases at Ruby, Emerald,
+Jewell, Mongo and Lysen.
+The scout bases include maintenance facilities
+for the x-boat service as well as intelligence ships
+monitoring the frontier. Persistent rumours speak of
+covert operations launched from these bases, aimed at
+adjusting the attitudes of neutral worlds or countering
+Zhodani activities with similar objectives.
+
+Imperial holdings in the subsector are limited to eight
+worlds in the middle (in rimward-coreward terms). Like
+Name
+
+Location
+
+871-438
+
+Bases
+
+Statistics
+
+Trade Codes
+
+Travel Code
+
+Allegiance
+
+Gas Giants
+
+1510
+
+E722000-0
+
+BaPo
+
+Ao-dai
+
+1201
+
+E410644-7
+
+Na Ni
+
+Consulate
+
+G
+
+Chwistyoch
+
+0904
+
+ZM
+
+B766766-A
+
+Ag Ga
+
+Consulate
+
+G
+
+Clan
+
+1103
+
+ZM
+
+B672899-A
+
+Consulate
+
+G
+
+Condyole
+
+0901
+
+Emerald
+
+1006
+
+Esalin
+
+1004
+
+Farreach
+
+1402
+
+Foelen
+
+G
+
+A
+
+E7A1522-8
+
+Fl Ni
+
+B766555-B
+
+Ag Ni Ga
+
+C565673-8
+
+Ag Ni Ri
+
+A
+
+A200400-B
+
+Ni Va
+
+A
+
+Consulate
+
+1401
+
+B638665-8
+
+Ni
+
+A
+
+Consulate
+
+Gougeste
+
+0909
+
+C572510-A
+
+Ni
+
+A
+
+Imperium
+
+Grant
+
+1607
+
+X664100-3
+
+Lo
+
+R
+
+Imperium
+
+G
+
+Jewell
+
+1106
+
+A777999-C
+
+Hi In
+
+Imperium
+
+G
+
+Louzy
+
+1604
+
+D422A88-8
+
+Hi In Na Po
+
+Imperium
+
+Lysen
+
+1307
+
+S
+
+B592655-A
+
+He Ni
+
+Imperium
+
+G
+
+Mongo
+
+1204
+
+NS
+
+A568685-A
+
+Ag Ni Ri
+
+Imperium
+
+G
+
+Nakege
+
+1305
+
+D591314-5
+
+He Lo
+
+A
+
+Imperium
+
+G
+
+Pequan
+
+1210
+
+E5656B9-4
+
+Ag Ni Ri
+
+A
+
+Puparkin
+
+0902
+
+C7B3386-9
+
+Fl Lo
+
+Riverland
+
+1102
+
+C566A99-9
+
+Hi
+
+Ruby
+
+1005
+
+S
+
+B400445-B
+
+Ni Va
+
+Utoland
+
+1209
+
+M
+
+C573464-7
+
+Ni
+
+Zenopit
+
+1010
+
+D430546-7
+
+De Ni Po
+
+G
+
+Zircon
+
+1110
+
+C792668-8
+
+Ni
+
+G
+
+S
+ZM
+
+NS
+
+M
+
+G
+Imperium
+
+G
+G
+G
+
+G
+A
+
+Consulate
+
+G
+
+Imperium
+
+G
+
+

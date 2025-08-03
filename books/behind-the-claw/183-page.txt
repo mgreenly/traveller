@@ -1,0 +1,81 @@
+960
+HULL POINTS
+
+CREW
+CAPTAIN, OFFICERS X 2, PILOT, ASTROGATOR,
+ENGINEERS X 10, MAINTENANCE X 3, MEDIC,
+GUNNERS X 4, ADMINISTRATORS X 2,
+STEWARDS X 4
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr60308.33/month
+
+PURCHASE COST
+
+The Venturer is a nominally 3,200 ton design,
+assuming eight 100-ton lighters are carried
+aboard. The main hull is rated at 2,400 tons
+displacement but drives, power plant and fuel
+assume a full complement of craft. The lighters
+nestle in recessed cradles and are not quite fully
+flush with the hull but are well protected against
+micrometeorite strikes and the like. The ship has
+little internal cargo space; what there is would
+normally be used for secure items and ship’s stores
+rather than standard freight. Shipping containers
+are left aboard the lighters; if a transfer is desired
+it has to be done manually through airlocks, which
+is not an easy task. This is not a problem since the
+lighters themselves transport goods and the ship
+carries them from system-to-system.
+Passengers transfer from the interface craft to
+internal cabins. Typically, around 28 passenger
+cabins are available, plus eight high cabins,
+although this depends on crewing levels aboard
+the freightliner. Small craft crew normally live
+aboard their craft but spend most of their time in
+the main hull whilst in jump.
+
+MCr7237
+
+Power Requirements
+640
+
+480
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+640
+
+1
+
+36
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+Accommodation is of a high quality, with
+generous common areas and additional spaces,
+such as small conference rooms, for the use of
+passengers and crew. The ship is lightly armed
+for self-defence but not intended to leave wellpatrolled spaceways. A GEM-ship might venture
+into the frontier but for the most part these
+vessels are optimised for operations on a safe,
+regular run and tend to stick to this role.
+
+183
+
+

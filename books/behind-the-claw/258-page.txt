@@ -1,0 +1,243 @@
+D E N E B - S U B S E C T O R
+
+I
+
+STAR LANE
+Star Lane contains 30 star systems, all of which are
+Imperial territory. Ten of these systems form part of a
+cluster extending into Vincennes and Gulf. This region
+is heavily influenced by the duchy of Vincennes whether
+the local nobility like it or not, leading to endless
+political machinations.
+The Duke of Vincennes cannot directly command the
+votes of the Star Lane nobility when an issue is debated
+in the Imperial Moot but tries to control their voting
+Name
+Adapam
+Araa
+Askigaak
+Aziziyah
+Barbary
+Breslow
+Bukit Seng
+Burnham
+Canisus
+Chaosheo
+Daumier
+Dunstan
+Gulistan
+Helmuth
+Imone
+Isurkun
+Kernal
+Mater Nova
+Moltke
+Mushinag
+Norg
+Rena
+Rimkuku
+Rouenet
+Sejmal
+Shen-Yang
+Skopyeh
+Sultana
+Tlaza
+Wroclaw
+
+Location
+0224
+0623
+0629
+0229
+0327
+0222
+0830
+0828
+0330
+0130
+0223
+0328
+0124
+0624
+0826
+0524
+0626
+0221
+0529
+0622
+0729
+0123
+0228
+0422
+0525
+0727
+0827
+0730
+0824
+0226
+
+Bases
+S
+
+S
+
+N
+S
+
+S
+S
+N
+
+S
+S
+N
+S
+S
+
+S
+
+Statistics
+E796442-7
+C566254-A
+E549AA8-B
+C86A475-B
+C5717CF-5
+X540510-5
+C542334-8
+B664379-8
+C4317BA-8
+E87A788-5
+B88A452-E
+C649220-8
+CAB5358-8
+C846203-8
+A9C4555-F
+A541334-A
+B566786-7
+B575744-9
+C646110-8
+D575556-8
+A000114-D
+D596211-7
+D9A8872-8
+C562201-A
+C310643-A
+C665520-5
+B500534-C
+B649414-9
+C303100-A
+C5667BF-7
+
+by making life difficult until he wants something, then
+offering incentives – which sometimes amount to little
+more than a cessation of harassment – to align their
+votes with those of his supporters.
+The counts of Askigaak, as senior Imperial nobles in the
+region, have long expected to be elevated to subsector
+dukes. Opposition to Vincennes’ influence stems in part
+from a desire to be seen to be powerful, capable and
+independent and at times this is more important to the
+
+Trade Codes
+Ni
+Lo
+Hi In
+Ni Wa
+De Ni Po
+Lo Po
+Lo
+Na Po
+Wa
+Ni Wa
+Lo
+Fl Lo
+Lo
+Fl Ni
+Lo Po
+Ag Ri
+Ag
+Lo
+Ag Ni
+As Lo Va
+Lo
+Fl
+Lo
+Na Ni
+Ag Ni Ga
+Ni Va
+Ni
+Ic Lo Va
+Ag Ri
+
+Travel Code
+
+A
+R
+
+A
+A
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

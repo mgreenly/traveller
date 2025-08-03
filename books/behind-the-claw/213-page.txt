@@ -1,0 +1,23 @@
+1
+
+2
+1
+
+11
+
+4
+
+1
+
+5
+
+LEGEND
+1. Fuel tanks
+2. Cargo hold
+3. Fuel processors
+4. Repair drones
+5. Jump drive
+
+213
+
+

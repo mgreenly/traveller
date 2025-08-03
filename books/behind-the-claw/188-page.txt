@@ -1,0 +1,118 @@
+PASSENGER LIGHTER
+TL12
+Hull
+M-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Staterooms
+
+Software
+Cargo
+
+TONS COST (MCR)
+100 tons, Standard, –
+Light
+Thrust 1
+1
+Fusion (TL12),
+3
+Power 45
+4 weeks of operation 0.3
+Small
+6
+Computer/5
+–
+Civilian Grade
+1
+Standard x 2
+8
+Acceleration Seat
+15
+x20
+Cabin Space
+30
+Manoeuvre/0
+–
+Library
+–
+35.7
+
+3.75
+
+CREW
+PILOT, ENGINEER, STEWARD
+
+2
+3
+
+RUNNING COSTS
+
+–
+0.5
+0.03
+3
+1
+0.6
+
+MAINTENANCE COST
+Cr1281.67/month
+
+PURCHASE COST
+MCr15.38
+
+1.5
+–
+–
+–
+
+Power Requirements
+
+TOTAL: MCR15.38
+
+10
+
+20
+
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+—
+
+1
+
+—
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+Built on the same hull as the cargo variant,
+the passenger lighter is an interface craft
+designed to move personnel from port
+to starship. It has a small amount of
+living space and some cargo capacity but
+otherwise facilities are basic. The crew will
+usually include a steward who looks after
+the passengers during their flight
+to and from their ship. To accommodate
+this extra crewmember the craft has a
+second stateroom.
+
+36
+HULL POINTS
+188
+
+

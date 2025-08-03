@@ -1,0 +1,116 @@
+All of the standard vessels in Imperial service can be
+encountered in Deneb, along with a few designs more
+or less unique to the region. The vast majority of these
+ships are commercial or utilitarian in nature, since it is
+interstellar commerce that supports the battle fleets and
+specialised vessels.
+
+have the decreased fuel advantage, while warships are
+often equipped with black globe generators.
+
+Most ship operators in Deneb have access only to the
+mainstream technologies available elsewhere but some
+can obtain unique items from non-human races or
+extremely advanced components produced in the TL16
+factories of Vincennes.
+
+WARSHIPS
+
+VINCENNES
+
+TECHNOLOGY
+
+Vincennes has a technological edge over the rest of the
+Third Imperium. The following High Guard components
+are available to the shipyards of Vincennes.
+Electronics: The electronics suites of Vincennes-built
+ships are very advanced, creating significant advantages
+for their ships. TL16 computer and sensor packages
+are available in limited numbers on the open market
+and in greater quantities to those who have the right
+connections or are friendly with Vincennes.
+Processing
+Computer/40
+Core/110
+Sensors
+
+TL Suite
+
+Tech Level
+16
+16
+
+Cost
+MCr40
+MCr150
+
+DM Power Tons Cost
+
+Superior 16 Densitometer, +3 8
+Jammers,
+Lidar, Neural
+Activity
+Sensor, Radar
+
+8
+
+MCr8.4
+
+Advanced Countermeasures Suite: Improving upon the
+already formidable military countermeasures suite, this
+system can overwhelm any enemy communications
+networks it encounters.
+The advanced countermeasures suite grants DM+8 to all
+attempts at jamming and electronic warfare, regardless
+of the usual DM of the sensor suite it is attached to.
+An advanced countermeasures suite consumes 20 tons
+and costs MCr40. It requires 5 Power.
+Other systems: Ships built at Vincennes typically use
+advanced jump drives (see page 48 of High Guard) that
+
+180
+
+DEMILITARISED
+AND CONVERTED
+There are rules in place within the Imperium regarding
+who is permitted to operate what sort of ship and
+what weapon systems can be carried. Accountability
+is the key factor; a world government is generally
+considered more accountable for its actions than a small
+corporation with an easily relocated centre of operations.
+There is also the level of trust to be considered; a world
+that has rebelled several times in the last two centuries
+that suddenly wants to buy battleships, will not receive a
+favourable response.
+Power and influence can override many rules, however,
+the client must be able to afford the ships. The Imperial
+authorities do care if the vessels are affordable to the
+end client, for two reasons. Firstly, there is always the
+risk that a world government may buy ships it cannot
+afford, then sell them to less than desirable operators,
+and secondly the purchase of ships a client cannot
+afford suggests they will be put to use in the near future.
+This interests intelligence services, who constantly
+watch for internal wars, rebellions and powerplays.
+Some trusted operators can build or purchase warships
+of any capability, a few technologies are restricted to
+the Imperial armed forces and are never transferred
+to other users. For others, options are more limited.
+Some classes of ship (such as battleships and fleet
+carriers) may be prohibited, leading to some interesting
+legal fictions that allow builds; a few shipyards
+construct ‘heavy commerce protection vessels’ that are
+essentially cruisers for users not normally permitted to
+have major warships.
+Alternatively, ships may be demilitarised before sale.
+The precise definition of demilitarisation is somewhat
+flexible but generally means that spinal mounts are
+removed along with some or all bay weapons. A general
+reduction in fighting power is always considered
+‘demilitarisation’ even if the vessel remains a powerful
+fighting unit. The areas freed up by the removal of
+weapon systems can be used for other purposes,
+although this is never 100% efficient due to the shape
+and location of spaces.
+
+

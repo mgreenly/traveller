@@ -1,0 +1,249 @@
+S P I N W A R D S
+
+M A R C H E S - S U B S E C T O R
+
+RHYLANOR
+
+Lying close to the Mora subsector, the longest-developed
+part of the Marches, and also the established industries
+of Deneb, Rhylanor is a prosperous area that sees a
+considerable amount of commercial traffic. One reason
+for this is that every world in the subsector is on the
+Spinward Main or accessible from it using a jump-2
+vessel. Indeed, a jump-2 ship can leave Belizo and
+Name
+457-973
+Belizo
+Bevey
+Celepina
+Cipatwe
+Fulacin
+Garrincski
+Gerome
+Gileden
+Gitosy
+Henoz
+Heroni
+Huderu
+Jae Tellona
+Kegena
+Kinorb
+Loneseda
+Macene
+Margesi
+Natoko
+Nutema
+Pannet
+Porozlo
+Powaza
+Rhylanor
+Risek
+Somem
+Tacaxeb
+Valhalla
+Vanejen
+Vinorian
+Zivije
+
+Location
+3019
+3015
+3216
+2913
+3118
+2613
+2520
+2818
+2514
+2918
+2912
+3017
+3114
+2814
+3016
+2512
+2720
+2612
+3212
+2620
+3112
+2519
+2715
+3220
+2716
+2712
+3020
+3218
+2811
+3119
+3111
+2812
+
+Bases
+
+S
+NS
+
+S
+
+N
+
+N
+NS
+N
+
+NS
+N
+
+Statistics
+X572776-5
+B895646-5
+D4209CC-A
+B434456-9
+B55879A-6
+A674210-D
+B632520-7
+X573000-0
+C583103-6
+B000676-9
+A545543-B
+E7A0614-8
+X575000-0
+A560565-8
+E869569-3
+C549433-9
+C86A215-7
+B000453-E
+A576257-C
+C8879AB-9
+B864310-8
+E9C5677-9
+A867A74-B
+C787566-5
+A434934-F
+A425579-A
+C301340-B
+C430411-B
+E565432-5
+C686854-5
+B879610-9
+C6B199C-B
+
+H
+
+make a circuit through the Mora, Lunion and Lanth
+subsectors, all the way through to Celepina before
+crossing back to Belizo via Jae Tellona.
+Rhylanor has a long naval connection and was the
+birthplace of Admiral Olav hault-Plankwell, victor of
+the First Frontier War and instigator of the Civil War.
+
+Trade Codes
+Ag Ni
+De Hi In Na
+Ni
+Ag
+Lo An
+Ni Po
+Ba
+Lo
+As Na Ni Va
+Ag Ni
+Ni
+Ba
+De Ni
+Ni
+Ni
+Lo Wa
+As Ni Va
+Lo
+Hi Ga
+Lo
+Fl Ni
+Hi Ga
+Ag Ni Ga
+Hi
+Ni
+Ic Lo Va
+De Ni Po
+Ni
+Ga Ri
+Ni
+Fl Hi In
+
+Travel Code
+R
+A
+
+R
+
+R
+A
+
+A
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+
+G
+G
+G
+
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+G
+
+

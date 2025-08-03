@@ -1,0 +1,98 @@
+Usani borders the Great Rift, although most of its 30
+worlds are concentrated in a single large cluster, with no
+outliers in the rift itself. The proximity of the rift gives
+the subsector what is often termed a ‘hard border’, a
+natural frontier that has influenced the development of
+the rest of the subsector.
+Usani contains Deneb, nominal capital of the sector.
+This honour is largely ceremonial as there is no sector
+duke and the Duchy of Usani is weak compared to its
+rivals. There are some advantages to be had from being
+the sector capital however; many businesses feel there
+is kudos to be had from operating out of Deneb and
+state visits by the Imperial family have to include the
+sector capital. As host, the Duke of Usani has the ear of
+a visitor – although these occasions are rare enough that
+the advantage is offset by the expense of maintaining a
+suitable set of accommodations.
+The Duchy of Usani also administers Geniishir and Vast
+Heavens. Geniishir contains just four star systems, all
+easily reached by a jump-2 ship from Deneb. Other
+worlds close to these in Atsah are administered by the
+Duchy of Atsah but are astrographically remote from
+it due to the minor rift lying to coreward-trailing. The
+Duchy of Usani exerts some influence over these worlds,
+which are part of the local economy to a greater degree
+than that of Atsah.
+The 154th Fleet, assigned to protect the subsector, has
+its bases towards the rimward end. It is primarily active
+in the central cluster, with outlying worlds receiving
+few patrols. Elements of the fleet are routinely sent into
+
+Geniishir to conduct the usual commerce-protection and
+flag-showing duties and occasionally make a foray into
+nearby worlds at the rimward end of Atsah. This does
+not cause friction with the Duke of Atsah or the Imperial
+Navy forces assigned to the subsector; it is a logical
+piece of cooperation that relieves the 88th Fleet of this
+responsibility. However, the arrangement has at times
+become the victim of local politics, to the detriment of
+populations and Imperial fleet personnel alike.
+
+DENEB
+
+The Deneb system was named for its red giant primary
+rather than its mainworld, although eventually the name of
+the mainworld was changed. Deneb is the homeworld of
+the Nenlat, an amphibious minor race who had achieved
+only the most basic technology when humans arrived.
+The Nenlat evolved in low-lying wetlands and most still
+occupy these areas. Their traditional villages are capable
+of maintaining a TL4 society, with some imported hightechnology items here and there. ‘High technology’ in
+the case of the Nenlat means around TL6-8 for the most
+part. Higher-tech items require too much support and do
+not remain functional for long in the damp conditions
+favoured by traditional Nenlat.
+Some Nenlat live among the ‘interstellar’ society of
+Deneb, which is made up mostly of humans with some
+Vargr and other species scattered among them. These
+Nenlat are thoroughly Imperial in outlook and consider
+themselves superior to ‘traditional’ wetlands Nenlat.
+
+NENLAT
+ANIMAL
+Nenlat
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+HITS
+SPEED
+21
+6m
+Melee (natural) 1, Survival 1
+Stinger (1D)
+Amphibious
+Omnivore, Sophont
+
+The Nenlat are semi-aquatic sophonts native to Deneb’s
+wetlands and equally at home walking on land or
+swimming in shallow water. Their barrel-shaped bodies
+are trilaterally near-symmetrical, with three legs, three
+arms and three flippers. A head containing the brain and
+most sensory organs faces the ‘central’ arm and leg, with
+the shorter central arm used for most fine manipulation
+tasks and the longer ‘side-rear’ arms better suited to
+manoeuvring through weed-cluttered waters.
+
+270
+
+Nenlat have a stinger at the back of the neck, which
+can curve up over the head to strike a target gripped by
+the Nenlat. Normally, the stinger lies along the back,
+although it may twitch about when the Nenlat is agitated.
+The stinger’s venom is capable of killing smaller creatures
+but is painful rather than life-threatening to humans.
+
+

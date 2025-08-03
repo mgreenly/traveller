@@ -1,0 +1,136 @@
+GAGH-CLASS TRAMP TRADER
+TL13
+Hull
+Armour
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Systems
+
+Staterooms
+Software
+
+Common
+Areas
+Cargo
+
+TONS COST (MCR)
+200 tons, Streamlined
+Crystaliron, Armour 4
+Thrust 1
+Jump 2
+Fusion (TL12), Power
+75
+J-2, 4 weeks of
+operation
+Computer 10/fib
+Civilian
+Fuel Processor (20
+tons/day)
+Fuel Scoop
+Standard x 6
+Manoeuvre/0
+Jump Control/2
+Library
+Intellect
+
+CREW
+
+10
+2
+15
+5
+
+12
+2.4
+4
+22.5
+5
+
+41
+
+-
+
+10
+1
+1
+
+1
+0.24
+3
+0.05
+
+MAINTENANCE COST
+
+24
+12
+
+3
+0.2
+1
+1.2
+
+MCr55.59
+
+Power RequirEments
+
+121
+
+-
+
+20
+
+40
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+40
+
+1
+
+—
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 55.59
+
+CAPTAIN, PILOT,
+ASTROGATOR, ENGINEER
+
+RUNNING COSTS
+Cr4633/month
+
+PURCHASE COST
+
+The Gagh is a common small merchant
+or transport vessel optimised for low-cost
+haulage. Although it has spare cabins when
+running with a small crew, it is rare to
+find this vessel carrying passengers in the
+normal manner. More commonly, the extra
+cabin space is used for the patron of a
+charter (or their representative), or as extra
+living space for the crew.
+
+80
+HULL POINTS
+84
+
+

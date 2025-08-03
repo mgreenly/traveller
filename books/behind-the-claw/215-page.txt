@@ -1,0 +1,45 @@
+13. Staterooms
+14. Hangar
+15. Launch tube
+16. Recovery deck
+17. Workshop
+18. Armoury
+19. Torpedo storage
+20. Missile storage
+
+12
+2
+
+15
+
+14
+
+17
+
+16
+
+18
+
+13
+
+19
+
+21
+2
+
+20
+
+24
+22
+
+25
+23
+21. High staterooms
+22. Point defence batteries
+23. Sensors
+24. Command bridge
+25. Holographic controls bridge
+
+215
+
+

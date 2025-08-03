@@ -1,0 +1,95 @@
+Jumping to a Bridge
+
+It is only possible to use a jump bridge if its position
+is precisely known and the astrogator must have an
+extremely accurate set of coordinates. In the case
+of commercial jump bridges these are available at
+nearby starports and are constantly updated.
+Jumping to a jump bridge requires an extremely
+tight jump plot, requiring a Difficult (10+)
+Astrogation check. Most astrogators will offset
+this difficulty by taking longer over the plot. The
+alternative is to buy a template jump solution from
+a nearby starport. Most ports within one jump of
+the bridge will have them for sale. The usual cost is
+Cr500 but in some cases the plot is discounted, or
+even free, to encourage use of the bridge. Using a
+pre-generated solution still requires finalisation but
+this is a Routine (6+) Astrogation check.
+Ideally, ships jump directly to the jump bridge and
+emerge very close to it. Standard manoeuvre drives
+perform very poorly in deep space, so a ship that has
+to navigate to the bridge after emergence may take
+some time to get there. Most bridges used manned
+or robotic tugs to bring in ships that arrive too far
+out to reach the bridge within a few hours. These
+tugs are equipped with reaction drives or deep-space
+manouvring systems to permit efficient operation.
+The Effect of the Astrogation check indicates how
+close to the bridge the vessel arrives.
+Jump Bridge Variance
+Effect
+Variance
+6 or better Perfect jump. Docking in 4D minutes
+4-5
+Excellent jump. Docking in 2D hours
+2-3
+Good jump. Docking in 4D hours
+1
+Adequate jump. Docking in 1D days
+0
+Poor jump. Docking in 2D days
+-1 or
+Disaster!
+worse
+These times assume a vessel moving under its own
+power using a standard drive. A vessel towed by tugs
+or using reaction drives can make the approach in
+half the time.
+A vessel suffering a Disaster does not emerge
+close to the jump bridge. It may be able to crawl
+across the intervening gap over a period of weeks
+or months if its power and supplies do not run out,
+or be rescued by a reaction-drive ship if one is
+available. If not, the occupants face a slow death
+– quite possibly within sensor and comms range of
+the jump bridge but beyond any hope of rescue.
+
+Jumping Through the Sargasso
+
+Any vessel charting a course through the Dunmag
+Sargasso suffers DM-1D to the crew’s Engineering
+and Astrogation (determine separately for each)
+checks to jump. The cumulative Effect of these
+checks is used to determine if something untoward
+has occurred.
+Effect
+-10 or lower
+-9 to -6
+-6 to -3
+-2 to 0
+1+
+
+Result
+Trapped
+Major Variance
+Minor Variance
+Slight Variance
+No Variance
+
+Variance indicates an increase in jump duration and
+emergence position:
+Slight: Jump duration is increased by 2D-2 hours;
+this is often too small to be noticed. Emergence
+position will be off by 2Dx10 diameters.
+Minor: Duration is increased by 4D hours.
+Emergence is off by 2Dx100 diameters.
+Major: Duration is increased by 2D-1 days.
+Emergence is off by 2Dx1,000 diameters
+A ship that suffers a Trapped result emerges from
+jump within the Sargasso gas cloud after a normal
+jump duration. Escape may depend upon finding
+some suitable source of fuel, perhaps scavenged
+from a less fortunate vessel.
+
+

@@ -1,0 +1,221 @@
+SPINWARDS MARCHES-SUBSECTOR M
+
+FIVE SISTERS
+The Five Sisters were first explored by the merchant
+captain Ignaz Ruffleran, who named the worlds of
+Mirriam, Jone, Penelope, Karin and Ucella after his
+daughters. When an official subsector designation was
+assigned, these worlds gave what had previously been
+District 267 its name.
+
+coordinated effort was implemented in 740 under the
+auspices of Emperor Paulo I but was curtailed half a
+century later after little success. That efforts to colonise
+a region close to two worlds inhabited by the psionicsusing Droyne coincided with the Psionics Suppressions
+has not escaped notice.
+
+Lying beyond the Imperium proper and connected to
+it only by a tenuous link through the Sword Worlds,
+the subsector was not heavily colonised at first. A
+
+Since that time, the subsector has remained an isolated
+territory under the administration of the Imperial Navy.
+It is the responsibility of the 208th Fleet, which is
+
+Name
+769-422
+875-496
+876-574
+975-452
+Andor
+Candory
+Emape
+Froin
+Gohature
+Gothe
+Iderati
+Jinx
+Jone
+Karin
+Lakou
+Mewey
+Mirriam
+Ochecate
+Penelope
+Quhaiathat
+Ralhe
+Raweh
+Saxe
+Tondoul
+Ucella
+Wonderay
+Wonstar
+
+Location
+0240
+0834
+0140
+0840
+0236
+0336
+0133
+0539
+0632
+0332
+0732
+0440
+0433
+0534
+0638
+0838
+0333
+0837
+0533
+0637
+0731
+0139
+0231
+0739
+0532
+0340
+0538
+
+Bases
+S
+
+N
+S
+N
+N
+NS
+
+NW
+
+N
+
+N
+
+Statistics
+E754401-8
+E888421-7
+E687200-3
+E100316-9
+C695735-9
+C593634-8
+B564500-B
+C535225-9
+C754766-7
+E42159B-7
+A887798-C
+D100133-7
+B792785-9
+A767768-C
+E779454-7
+D786799-5
+B9998A6-A
+E747569-7
+C560642-4
+C31479B-9
+E424574-8
+B430300-B
+EAA5543-8
+E5136A7-7
+D574654-7
+E88A47A-4
+B555741-7
+
+Trade Codes
+Ni
+Ni Pa
+Lo Ga
+Lo Va
+Ag
+Ni
+Ag Ni
+Lo
+Ag
+He Ni Po
+Ag Ga Ri
+Lo Va
+Ag Ga Ri
+Ni
+Ag Ga Ri
+Ag Ni
+De Ni Ri
+Ic
+Ni
+De Lo Po
+Fl Ni
+Ic Na Ni
+Ag Ni
+Ni Wa
+Ag
+
+Travel Code
+
+Allegiance
+
+A
+
+Imperium
+
+R
+R
+A
+
+A
+
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+A
+A
+A
+A
+
+Imperium
+Imperium
+Imperium
+
+A
+
+Imperium
+
+A
+
+Imperium
+Imperium
+
+A
+
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+G
+Imperium
+A
+
+Imperium
+
+

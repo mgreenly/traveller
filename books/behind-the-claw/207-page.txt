@@ -1,0 +1,112 @@
+Occasionally the Imperial Navy sells damaged vessels
+or a client wishes to buy warships but cannot obtain
+clearance for a full-capability cruiser or battleship.
+Even without its spinal mount, a major warship is
+still a prestigious flagship for a noble or a corporation
+and can provide useful military capability when
+operating in a troubled region.
+This demilitarised Gionetti has lost its spinal
+armament, missile capability and tractor beams.
+Laser armament has also been reduced, with
+standard weapons substituted for the advanced
+beam lasers of the original design. It is otherwise a
+fully capable warship.
+
+12,000
+HULL POINTS
+
+CREW
+CAPTAIN, PILOTS X 6, ASTROGATOR,
+ENGINEERS X 60, MAINTENANCE X 30,
+GUNNERS X 72, ADMINISTRATORS X 15,
+MEDICS X 2, STEWARDS X 30
+
+RUNNING COSTS
+MAINTENANCE COST
+
+MCr1.371915 per month
+
+The conversion, in this case, is for the vessel to be
+the private yacht of a powerful noble. The space
+originally occupied by the spinal meson gun has
+been converted into a flight operations centre with
+hangars for up to 1,000 tons of craft. The former
+meson tube is now open to space for most of its
+length, acting as a launch/recovery deck for shuttles
+and rapid recovery of up to 100 tons of craft at once
+is possible; larger vessels can be accommodated but
+must make a careful approach and flight through the
+short remaining section of the tunnel.
+There is an element of ego about this arrangement.
+The ship retains its original five cutters as
+subordinate craft but the ability to launch several
+fighters at once, then the owner’s private shuttle,
+followed by another escort flight has its uses. Rapid
+recovery might be useful in the event of a hurried
+departure from negotiations gone awry but more
+commonly it is used to recover a group of escorting
+fighters at once just for show.
+Other features were fitted in the space vacated by the
+missile magazines. These include an additional and
+wholly unnecessary command bridge dedicated purely
+to controlling flight operations of the owner’s shuttle
+and any escorts, and tracking threats. The owner’s
+grand suite comprises the equivalent of four luxury
+staterooms and a large reception/relaxation area, plus
+an armoured vault containing another luxury stateroom,
+private medical facility and a common area.
+
+PURCHASE COST
+MCr16462.985 *
+
+Power Requirements
+15000
+
+6000
+
+200
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+15000
+
+16
+
+537
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+* Note that this cost assumes a basic refit. Hubris
+can (and often does) greatly increase the cost as
+luxury items such as ballrooms, theatres and spas
+are added.
+
+Guest accommodation is on the other side of the
+ship, with several luxury staterooms and a dedicated
+common area serving the occupants. Former missile
+storage space now holds a small biosphere created
+as an ornamental garden, a rather grand library, a
+firing range and a stable. There is also a ballroom
+the size of a small merchant ship.
+The interior of the ship has been extensively
+redecorated, with the former drab scheme replaced
+with real wood panelling and soft carpets. Even
+the original crew cabins and working areas have
+been refurbished to improve comfort and – more
+importantly to the owner – impress those lucky
+enough to be invited aboard.
+
+207
+
+

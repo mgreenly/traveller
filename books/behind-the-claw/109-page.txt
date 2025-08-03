@@ -1,0 +1,98 @@
+TL15
+DEEP RANGER RESEARCH SUBMARINE
+TL
+
+15
+
+SKILL
+
+Seafarer (submarine)
+
+AGILITY
+
+-1
+
+SPEED (CRUISE)
+
+Medium (Slow)
+
+RANGE (CRUISE)
+
+—
+
+CREW
+
+10
+
+PASSENGERS
+
+—
+
+CARGO
+
+500kg
+
+HULL
+
+1500
+
+SHIPPING
+
+250 tons
+
+COST
+
+MCr311.5
+
+EQUIPMENT AND WEAPONS
+
+Crush Depth: 48,000m
+
+F RONT
+
+20
+
+REAR
+
+20
+
+SIDES
+
+20
+
+TRAITS
+
+Airlock x 2, Autodoc (TL14), Autopilot (advanced),
+Auxiliary Thrusters, Bunks x 5, Communications System
+(advanced, meson communicator), Computer/5, Control
+System (advanced), Cryoberth x 6, Ejection Cocoon, Fire
+Extinguishers, Freshers x 2, Fusion Plant (advanced), Galley
+(large), Geological Sampler, Ground Drive, Hydrographic
+Sampler, Laboratory (general purpose), Manipulator Arms
+(advanced) x 5, Navigation System, (advanced), Refrigerator,
+Sensor System (advanced, increased fidelity x 6, sensor
+mast, underwater sensors)
+
+Safe Depth: 16,000m
+
+ARMOUR
+
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+Life Support: Indefinite
+
+3
+1,000km
++1
++6
+—
+—
+
+—
+
+

@@ -1,0 +1,159 @@
+DEMILITARISED GIONETTI-CLASS LIGHT CRUISER
+TL15
+Hull
+M-Drive
+Jump Drive
+Power Plant
+Fuel Tanks
+Bridge
+Command Bridge
+Computer
+Sensors
+
+Weapons
+
+Ammunition
+Screens
+Systems
+
+Staterooms
+
+Software
+
+30,000 tons, Standard
+Reinforced
+Thrust 5 (size reduction x3)
+Jump 5 (decreased fuel)
+Fusion (TL15), Power 24,000
+J-5, 8 weeks of operation
+Holographic Controls
+Core/100 fib
+Advanced
+Military Countermeasures Suite
+Enhanced Signal Processing
+Distributed Arrays
+Dual Turrets (beam lasers) x50
+Triple Turrets (sandcasters) x22
+Point Defence Battery (type III) x2
+Sandcaster Barrels (1,320 Barrels)
+Nuclear Dampers (size reduction x3) x9
+Modular Cutters x5
+Recovery Deck (100 tons)
+Full Hangar (1,000 tons)
+Armoury
+Briefing Rooms x10
+Fuel Processor (1,000 tons/day)
+Fuel Scoops
+Medical Bays x3
+Workshops x2
+Biosphere
+Libraries x8
+Training Facilities
+Stable (20 cattle-sized)
+Vault x 10
+High x2
+Standard x 167
+Luxury x21
+Anti-Hijack/3
+Jump Control/5
+Library
+Manoeuvre/0
+Point Defence/2
+
+Common Areas
+Cargo
+
+TOTAL: MCR 16462.985
+206
+
+TONS
+
+COST (MCR)
+
+–
+–
+1,050
+3,755
+1,200
+15,240
+60
+80
+–
+5
+15
+2
+10
+50
+22
+40
+66
+135
+–
+1,000
+2,000
+16
+40
+200
+–
+12
+12
+120
+32
+32
+20
+120
+12
+668
+210
+–
+–
+–
+–
+–
+3,250
+1,526
+
+1,500
+750
+3,150
+6,195.75
+2,400
+–
+187.5
+225
+195
+5.3
+28
+8
+10.6
+75
+38.5
+40
+–
+63
+51.435
+500
+400
+4
+5
+10
+1
+6
+1.8
+12
+44
+32
+0.5
+60
+1.6
+83.5
+31.5
+10
+0.5
+–
+–
+12
+325
+–
+
+

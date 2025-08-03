@@ -1,0 +1,113 @@
+ILAUUS-CLASS FAST SHUTTLE
+TL15
+Hull
+Armour
+M-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+Staterooms
+Software
+
+Cargo
+
+TONS COST (MCR)
+100 tons,
+–
+Streamlined
+Bonded Superdense, 6.4
+Armour: 8
+Thrust 6
+6
+Fusion (TL15),
+5
+power 100
+16 weeks of
+5
+operation
+Small
+6
+Computer/10
+–
+Military Grade
+2
+Double Turret
+1
+(sandcasters)
+Standard x 2
+8
+Manoeuvre/0
+–
+Jump Control/1
+–
+Library
+–
+47
+
+TOTAL: MCR30.010
+
+40
+HULL POINTS
+120
+
+6
+
+CREW
+PILOTS, ENGINEER, GUNNER
+
+3.84
+12
+5
+
+RUNNING COSTS
+
+–
+
+MAINTENANCE COST
+Cr2500.83/month
+
+0.5
+0.16
+4.1
+1
+1
+–
+0.1
+–
+–
+
+PURCHASE COST
+MCr30.010
+
+Power RequirEments
+60
+
+20
+
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+0
+
+2
+
+1
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+

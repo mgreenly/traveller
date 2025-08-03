@@ -1,0 +1,98 @@
+TL8
+TRANSPORT CRAWLER
+TL
+
+8
+
+SKILL
+
+Drive (track)
+
+AGILITY
+
+-2
+
+SPEED (CRUISE)
+
+Slow (Very Slow)
+
+RANGE (CRUISE)
+
+50 years
+
+CREW
+
+3
+
+PASSENGERS
+
+180
+
+CARGO
+
+40 tons
+
+HULL
+
+2400
+
+SHIPPING
+
+200 tons
+
+COST
+
+MCr67.1
+
+EQUIPMENT AND WEAPONS
+Airlock x 2, Autopilot (improved), Bunks x
+30, Communications System (improved),
+Computer/1, Crane (heavy), Entertainment
+System x 180, Fire Extinguishers, Fission
+Plant (advanced), Galley (20 people), Hostile
+Environment, Life Support (long term),
+Navigation System (basic), Sensors (improved)
+—
+
+ARMOUR
+
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+1
+500km
++1
++1
+-
+
+F RONT
+
+12
+
+REAR
+
+12
+
+SIDES
+
+12
+
+TRAITS
+Tracked
+
+DESCRIPTION
+Crawlers of all sizes are used
+on Dorannia, to cross its
+inhospitable surface, and
+this represents the largest, capable of
+carrying both cargo and passengers over
+rough terrain in safety. It is not especially
+well-appointed but running costs after
+purchase are relatively cheap and a wellmaintained crawler can keep moving for
+decades before being replaced.
+
+

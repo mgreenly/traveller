@@ -1,0 +1,39 @@
+4
+
+3
+
+DECK 1 & 2 - FUEL ONLY
+2
+
+1
+
+DECK 3
+
+10
+8
+
+9
+
+7
+6
+9
+
+5
+
+DECK 4
+
+208
+
+LEGEND
+1. Jump drive
+2. Power plant
+3. Nuclear damper
+4. Fuel processor
+5. Manoeuvre drive
+6. Staterooms
+7. Common area
+8. Biosphere
+9. Dual turrets
+10. Luxury rooms
+
+

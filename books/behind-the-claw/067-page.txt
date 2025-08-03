@@ -1,0 +1,227 @@
+SPINWARDS MARCHES-SUBSECTOR G
+
+LANTH
+
+Lanth has two contrasting regions. Most of the subsector
+is very sparse but the coreward and trailing edges are
+dominated by the Spinward Main, which branches at
+Tureded. Traffic bound for Rhylanor and beyond heads
+coreward-trailing while the primary arm of the Main
+loops away to spinward, giving access to Regina, Jewell,
+Vilis and, ultimately, Querion.
+As a consequence of its strategic position, Tureded sees
+a great deal of traffic coming through its small port,
+more than the minor installation can really deal with. An
+upgrade is long overdue and has been delayed by the
+independent nature of the locals, who are not keen on
+an influx of offworlders even if they arrive with buckets
+Name
+Cogri
+D’Ganzio
+Dinom
+Dinomn
+Djinni
+Echiste
+Equus
+Extolay
+Ghandi
+Icetina
+Ivendo
+Keanou
+K’Kirka
+La’Belle
+Lanth
+Pirema
+Quopist
+Rech
+Rhise
+Skull
+Sonthert
+Treece
+Tureded
+Victoria
+Vreibefger
+Wypoc
+Ylaven
+
+Location
+2419
+1920
+1811
+1912
+2111
+2313
+2417
+1711
+1815
+2418
+2319
+2411
+2212
+2416
+1719
+2314
+2215
+2112
+2317
+2420
+1918
+2311
+2414
+1817
+2415
+2011
+1916
+
+Bases
+N
+S
+
+S
+N
+N
+N
+NS
+S
+
+NS
+
+N
+
+Statistics
+CA6A643-9
+B420410-D
+D300535-A
+B674632-9
+X559000-0
+C53A313-A
+B55A858-B
+B55589A-A
+B311455-A
+B5245A9-7
+B424659-A
+C792348-7
+CAA5345-8
+C564112-4
+A879533-B
+D691142-5
+B551679-A
+D9957AA-6
+C100576-A
+C4237C7-9
+D6266AB-7
+D432866-8
+C565540-9
+D6D7772-2
+E581542-3
+E9C4547-9
+X587552-4
+
+of cash. It is likely that the port will be expanded soon
+whatever the locals think of the idea, causing friction
+between the existing population and those who come to
+work at the expanded facility.
+Traffic on the Spinward Main is considerable but the
+rest of the subsector is inaccessible to ships capable of
+less than jump-3 or 4 capability; although the x-boat
+route and naval patrols can cross the subsector quickly,
+commercial traffic has to take the long way round. The
+sparse area in the spinward and rimward ends of the
+subsector is known as the Abyss Rift and seems to
+deserve its somewhat dramatic name.
+
+Trade Codes
+Ni Ri Wa
+De Ni Po
+Ni Va
+Ag Ni
+Ba
+Lo Wa
+Wa
+Ic Ni
+Ni
+Ni
+He Lo
+Fl Lo
+Lo
+Ni
+He Lo
+Ni Po
+Ag
+Ni Va
+Na Po
+Ni
+Na Po
+Ag Ni
+
+Travel Code
+
+R
+
+A
+A
+A
+A
+
+R
+Ni
+Fl Ni
+Ag Ni
+
+A
+R
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

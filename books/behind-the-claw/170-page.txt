@@ -1,0 +1,160 @@
+GL’LU TRADER
+TONS COST
+(MCR)
+
+TL13
+Hull
+Armour
+M-Drive
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Bridge
+Computer
+Sensors
+Weapons
+Systems
+
+Staterooms
+Software
+
+300 tons, Streamlined
+Crystaliron, Armour 2
+Thrust 1
+Thrust 1
+Jump 2
+Fusion (TL12), Power 180
+J-2, 4 weeks of operation
+Small
+Small
+Computer/10
+Civilian Grade
+Double Turrets x 2
+Fuel Processor (60 tons/day)
+Fuel Scoops
+Cargo Crane
+Cargo Scoop
+Docking Space (20 tons) x 2
+Launch x 2
+Standard x 12
+Low Berths x 8
+Manoeuvre/0
+Jump Control/2
+Library
+
+Common
+Areas
+Cargo
+
+TOTAL: MCR106.044
+
+–
+7.5
+3
+3
+20
+12
+61
+10
+10
+–
+1
+2
+3
+–
+3
+2
+44
+–
+48
+4
+–
+–
+–
+6
+
+18
+1.8
+6
+6
+30
+12
+–
+1.5
+1.5
+0.16
+3
+1
+0.15
+–
+3
+0.5
+11
+4.734
+6
+0.4
+–
+0.2
+–
+0.6
+
+60
+
+–
+
+CREW
+PILOT, ENGINEER, GUNNER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr8837/month
+
+PURCHASE COST
+MCr106.044
+
+Power Requirements
+60
+
+60
+
+3
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+60
+
+1
+
+2
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+This trader is typical of Gl’lu design and
+many like it can be found in the Sabine
+and Inar subsectors. Noticeably larger
+than a free trader, its size is necessary
+to compete with comparative merchants
+from the Imperium, due to the notorious
+design features of the Gl’lu. While cramped
+inside, the trader is supremely reliable
+and a well-maintained vessel can keep on
+plying trade routes for decades at a time.
+
+120
+HULL POINTS
+170
+
+

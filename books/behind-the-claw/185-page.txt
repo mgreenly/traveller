@@ -1,0 +1,48 @@
+2
+5
+
+4
+9
+10
+
+14
+6
+
+4
+
+1
+9
+DECK 3
+13
+2
+
+12
+
+11
+
+14
+
+1
+DECK 2
+
+DECK 1 - FUEL ONLY
+
+LEGEND
+1.Fuel tanks
+2. Staterooms
+3. Freshers
+4. Duel turret
+5. Common area
+6. Cargo hold
+7. Jump drive
+8. Fuel processor
+9. Power plant
+10. Maneuver drive
+11. Sensors
+12. Bridge
+13. High staterooms
+14. Lifts
+
+185
+
+

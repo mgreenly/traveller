@@ -1,0 +1,26 @@
+1
+
+LEGEND
+1. Cargo hold
+2. Torpedo barbette
+3. Fuel processor
+4. Triple turrets (beam lasers)
+5. Power plant
+6. Jump drives
+7. Manoeuvre drive
+8. Common area
+9. State rooms
+10. Docking clamp
+11. Barracks
+
+DECK 5
+2
+
+1
+3
+
+DECK 4
+
+200
+
+

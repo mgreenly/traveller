@@ -1,0 +1,91 @@
+FAUNA
+Calamander
+Chirper
+Clambrey
+Gas-Shark
+Kian
+Nenlant
+Sachupe
+
+SHIPS
+97
+79
+272
+164
+135
+270
+260
+
+EQUIPMENT
+Delphinic Technology
+Travel suit
+Type D battle Dress
+Waldo
+Keng Long-gun
+Plaigue Environmental Systems Products
+Tailored Vacc Suit
+Accessory Pack
+Technology of Vincennes
+High-performance Grav Harness
+Sensor Spikes
+Smart Utility Clothing
+
+36
+
+43
+108
+
+266
+
+VEHICLES
+Deep Ranger Research Submarine
+Ghoerruegh G/Carrier
+Hand-Cranked Dirigible
+Hnefir Air/Raft
+Transport Crawler
+
+109
+55
+73
+93
+87
+
+Brilliance-class Long Liner
+Cargo Lighter
+Demilitarised Gionetti-Class Light Cruiser
+Deneb Stalwart-Class Monitor
+Fel Armed Merchant
+Fuel Lighter
+Gagh-Class Tramp Trader
+Gl'lu Trader
+Gunship Lighter
+Ilauus-Class Fast Shuttle
+Kehmed-Class Dreadnought
+Passenger Lighter
+Shuigabumudkhar-Class Dromedary
+Sleipnir-Class Patroller
+Sydki-Class Detached Frigate
+Thousand Freighter
+Tukera Venturer-Class Fast Freightliner
+Vargr Advanced Corsair
+
+190
+182
+206
+202
+232
+186
+84
+170
+188
+120
+210
+184
+116
+94
+194
+280
+198
+52
+
+

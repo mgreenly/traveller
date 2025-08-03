@@ -1,0 +1,142 @@
+DENEB STALWART-CLASS MONITOR
+TL15
+Hull
+Armour
+M-Drive
+Powerplant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+
+Ammunition
+Screens
+Systems
+
+Accommodation
+Software
+
+5,000 tons, Standard
+Crystalliron, Armour: 12
+Thrust 6
+Fusion (TL12), Power 6,570
+8 weeks of operation
+Holographic Controls
+Core/70 fib
+Advanced
+Countermeasures Suite
+Enhanced Signal Processing
+Small Missile Bays x10
+Large Fusion Gun Bays x2
+Triple Turrets (beam lasers) x30
+Point Defence Battery (type III) x2
+Missile Storage (1920 Missiles)
+Nuclear Dampers x2
+Meson Screens x2
+Modular Cutters x3
+Docking Space (50 tons) x3
+Armoury
+Briefing Room
+Fuel Scoops
+Medical Bay
+Workshop
+Repair Drones
+Standard x114
+Advanced Fire Control/2
+Anti-Hijack/2
+Auto Repair/1
+Broad Spectrum EW
+Electronic Warfare/1
+Library
+Manoeuvre/0
+Point Defence/2
+
+Common Areas
+Cargo
+
+TOTAL: MCR 2258.711
+
+202
+
+TONS
+
+COST (MCR)
+
+–
+750
+300
+450
+90
+60
+–
+5
+2
+2
+500
+1,000
+30
+40
+160
+20
+20
+–
+165
+5
+4
+–
+4
+6
+50
+456
+–
+–
+–
+–
+–
+–
+–
+–
+
+250
+150
+600
+450
+–
+31.25
+120
+5.3
+4
+8
+120
+100
+75
+40
+–
+20
+40
+30.861
+41.25
+1.25
+0.5
+1
+2
+0.9
+10
+57
+15
+8
+5
+14
+15
+–
+–
+12
+
+314
+567
+
+31.4
+–
+
+

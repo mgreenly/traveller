@@ -1,0 +1,88 @@
+T H E
+
+S P E C I A L I S T
+
+C O L L E C T I O N
+
+PALIQUE ENVIRONMENTAL
+SYSTEMS PRODUCTS
+
+2
+
+Palique is renowned for the high quality of its vacc suits and environmental protection equipment. All are manufactured
+at TL14 and have a reputation for reliability and comfort that extends far beyond the sector. Of course, this is reflected
+in the price tag.
+A02/56376
+
+PALIQUE TAILORED VACC SUIT
+
+A standard lightweight suit worn as crew uniform by some personnel, the tailored vacc suit
+is little more cumbersome than a set of heavy duty clothes. Armour and radiation protection
+is not as good as a bulkier suit but the main garment can be worn constantly without fatigue.
+Suits come with a set of undergloves’ and a soft bubble headcovering that are adequate,
+although most users purchase the accessory kit and use it when they need real protection.
+The suit contains a highly oxygenated gel trapped between layers of cloth around
+the collar area, which is combined with carbon dioxide scrubbing materials. This
+creates an integral air supply/rebreather system that can sustain a wearer for an hour
+under normal exertion without discomfort and about five times as long in gradually
+increasing distress. All Palique suits use this system, giving the wearer a last chance
+to reach safety if other systems fail or the opportunity to operate without a life
+support pack. The collar system is activated by pulling a tab and must be replaced
+after use. This is a fiddly but not complex process, although most users prefer to
+avoid it by using accessories.
+A tailored vacc suit can be used by anyone who has had the most cursory instruction
+– it is little more than a set of clothes with glove seals and a bubble helmet. It is not
+recommended that unskilled personnel do anything more complex than sit at their consoles
+while wearing a vacc suit, however.
+Armour Type
+Palique Tailored Vacc Suit
+
+A01/75324
+
+Protection
++6
+
+TL
+14
+
+Rad
+75
+
+Kg
+2
+
+Cost
+Cr35000
+
+Required Skill
+None
+
+PALIQUE ACCESSORY PACK
+
+The accessory pack contains a solid helmet and semi-rigid torso piece, which
+drops over the suit and provides additional armour protection, although this is
+intended to protect against micrometeorites. There is also a belt that can be
+worn with or without the torso piece. Its pockets contain over-gloves and
+safety tethers, a battery-powered lamp and a one-hour air bottle plus two
+emergency disposable gas thruster units that allow a stranded spacefarer
+to return to their ship. The suit can be fed with power and air from an
+external source – a feed is normally found at all starship crew duty stations
+– or run off the belt batteries and air bottle. For extended operations, the
+manufacturer recommends the use of the torso unit, which contains an eighthour air supply and sufficient oxygenated/rebreather gel to keep the wearer
+alive for twice that long after the air runs out.
+Armour Type
+Accessory Pack
+
+Protection
++6
+
+TL
+14
+
+Rad Kg Cost
++25 +2 Cr8000
+
+Required Skill
+None
+
+

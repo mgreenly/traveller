@@ -1,0 +1,106 @@
+homebuilt missiles are not up to the safety standards
+required in the Imperium; although the Imperium
+permits nuclear munitions to be owned by world
+governments for planetary defence in the event of major
+war, there are many volumes of regulations for their safe
+storage and circumstances under which they can be
+used. Whereas most ship-to-ship missiles, even aboard
+warships, are non-nuclear, Dorannia has launched more
+nuclear munitions under combat conditions since 1103
+than most planetary navies in their entire history. The
+fact of the matter is that ‘Atomic Dorannia’ has become
+trigger-happy with its new arsenal.
+Since Dorannia has no capability to conduct boarding
+and search operations in space, the only option is
+to use the threat of annihilation. Vessels that seem
+even slightly suspect are targeted and told they have
+numerous missiles aimed at them. They are permitted
+to either sheer off and go somewhere else or otherwise
+proceed to land at the port very slowly and carefully.
+Several vessels have been fired upon and as the
+guidance systems of Dorannia’s missile arsenal are not
+the best, accuracy is problematical. The answer is, of
+course, to fire large salvoes in the hope of a hit. As a
+result, a typical Dorannia PAD (Planetary Aerospace
+Defence) missile consists of a large ground-to-orbit
+bus section and six independently targeted
+short-range missiles, each with a tactical nuclear
+warhead. PAD silos are supplemented with smaller
+turrets carrying traditional missile racks (again, armed
+with nuclear missiles).
+A number of vessels have been induced to flee in the
+face of this crazily aggressive response and at least one
+has been destroyed. It is not possible to tell from an
+expanding cloud of radioactive debris and gas whether
+the target was actually a raider or simply a merchant
+vessel whose bad-tempered captain chose the wrong
+frontier world to get stroppy with traffic control. In
+any case, word seems to have got round, as the raids
+have stopped.
+
+Dorannia PAD Missiles
+
+The Planetary Aerospace Defence missiles used on
+Dorannia are classed as torpedo-sized weapons,
+similar to the multi-warhead torpedo found in High
+Guard (page 32). In theory, they could be fired from
+a torpedo launcher on a ship but possess some
+drawbacks when compared to traditional torpedoes.
+•
+
+•
+•
+
+•
+
+The target acquisition systems of Dorannia leave
+something to be desired and all attack rolls made
+by a PAD missile suffers DM-2 (for a total DM-4
+when targeting a ship smaller than 2,000 tons).
+The use of a first stage to boost PAD missiles
+into orbit mean they cannot target any ship
+within Adjacent, Close or Short range.
+Most settlements protected by PAD missiles
+have 2D silos, each capable of launching a
+missile every combat round. Larger settlements
+will have two or three times this number.
+Each PAD missile carries six warheads that
+overwhelm anti-missile defences (DM-2 to all
+point defence fire) and multiples the number of
+torpedoes in the salvo by 6.
+
+Weapon TL Thrust Damage Cost
+Traits
+PAD
+8 8
+6D
+Cr400000 Radiation,
+Missile
+Smart
+
+JUNCTION
+
+Junction lies on the outer edge of the Spinward
+Marches, requiring a long transit through neutral space
+or a potentially hazardous journey through the Sword
+Worlds Confederation for Imperial traders. As a result,
+most ships that visit are independent or of Darrian
+registry. The system is important to the Darrians as
+a jump-off point for expeditions into Foreven,
+although there are few reasons to stay rather than
+just pass through.
+Junction is home to a few thousand farmers and
+ranchers who have little interest in the outside universe.
+The ‘starport’ is nothing more than a large town with a
+landing area and part-time traders, plus a detachment
+of Darrian personnel who operate a refuelling and
+resupply service for Darrian vessels only. Newcomers
+to the world find the locals hospitable enough but
+unimpressed by technology or tales of interstellar
+adventure. Junction is listed in several interstellar
+navigation guides as ‘a little port that could be anywhere
+and does a pretty good job of being nowhere’.
+
+88
+
+

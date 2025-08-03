@@ -1,0 +1,38 @@
+5
+13
+
+14
+
+12
+
+9
+4
+
+10
+
+8
+11
+
+6
+
+4
+1
+
+7
+DECK 1
+
+5
+
+6
+
+8. Cargo hold
+9. Common area
+10. Libraries
+11. Re-entry pods
+12. Medical bay
+13. Staterooms
+14. Bridge
+
+197
+
+

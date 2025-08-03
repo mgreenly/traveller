@@ -1,0 +1,74 @@
+2,000
+HULL POINTS
+
+CREW
+CAPTAIN, PILOTS X 4, ASTROGATOR,
+ENGINEERS X 10, MAINTENANCE X 2,
+GUNNERS X 56, ADMINISTRATORS X 2,
+MEDIC
+
+RUNNING COSTS
+MAINTENANCE COST
+
+MCr0.188226 per month
+
+PURCHASE COST
+MCr2258.711
+
+Power Requirements
+3000
+
+1000
+
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+—
+
+8
+
+—
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+The Deneb Stalwart-class is a common system
+defence monitor based on a converted P.F Sloanclass fleet escort. As system defence craft go, it
+is a high performance vessel, well armoured and
+packing a powerful missile punch for its size.
+The conversion is a relatively straightforward one,
+replacing the fuel tanks with armour and a ring
+of missile bays and the jump drive with a pair of
+fusion gun bays. The missile bays are arranged in
+a ring around the middle of the vessel, with the
+remaining fuel tankage replaced by a thick belt of
+Crystalliron armour extended over the rest of the
+hull. Coverage is not even and some critical areas
+– notably the command spaces – are less well
+protected than the drives and missile armament.
+However, on balance the extra armour adds good
+protection against most threats.
+The replacement of the jump drive with fusion
+guns necessitates some relocation of powerplant
+systems, making the vessel a little awkward to
+operate. The fusion guns cannot fire into the
+forward arc but this is not normally a drawback. A
+fast close pass allows the guns to fire unimpeded
+and fire can be maintained as the monitor
+accelerates away. More commonly, an engagement
+is carried out with missiles as far as possible.
+
+203
+
+

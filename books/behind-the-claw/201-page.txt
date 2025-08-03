@@ -1,0 +1,57 @@
+3
+
+20
+
+5
+
+22
+
+6
+
+3
+4
+
+DECK 3
+21
+12
+17
+
+10
+
+18
+
+19
+
+16
+
+9
+
+13
+
+8
+15
+11
+
+7
+
+14
+
+DECK 2
+
+DECK 1 - FUEL ONLY
+
+12. Low berths
+13. Emergency low berths
+14. Repair drones
+15. Armoury
+16. Bridge
+17. Airlock
+18. Briefing room
+19. Advance sensors
+20. Nuclear damper
+21. Military countermeasures suite
+22. Missile storage
+
+201
+
+

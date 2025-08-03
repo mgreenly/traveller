@@ -1,0 +1,43 @@
+2
+
+1
+
+3
+4
+
+5
+6
+
+4
+
+7
+
+LEGEND
+1. Military grade sensors
+2. Bridge
+3. Staterooms
+4. Cargo hold
+5. Power plant
+6. Manoeuvre drive
+7. Double turret
+
+The Ilauus-class is defined by its builder as a fast multipurpose shuttle. It is commonly
+associated with the Shuigabumudkhar-class dromedary and other Imperial Navy replenishment
+ships but can be encountered in other roles. Its expense ensures that few non-government
+operators exist, although there are civilian concerns that perceive a need for a high-acceleration,
+lightly armoured cargo hauler.
+The Ilauus-class is essentially a cargo hold with a powerful drive. Its small bridge is very
+cramped, although this is offset by the provision of two crew cabins. Normal operating
+complement is four in naval hands – a pilot/commander, co-pilot, engineering technician and a
+gunner. Most Ilauus-class vessels are equipped with a dual sandcaster turret, increasing their
+chances of survival as they dash between fleet units in an emergency. Some are instead fitted
+with a laser armament and may even be pressed into service as customs, law enforcement or
+patrol assets.
+The majority of craft are, however, carried aboard fleet logistics ships or orbital stations and are
+configured either as dry cargo haulers or fuellers for small vessels. Some are outfitted with seats
+or acceleration couches for personnel transportation. An experiment using these craft as forward
+fighter-control units met with some success but has not been implemented on a large scale.
+
+121
+
+

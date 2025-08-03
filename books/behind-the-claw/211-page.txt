@@ -1,0 +1,116 @@
+TL16
+
+TONS
+
+Staterooms
+
+Software
+
+COST (MCR)
+
+Recovery Deck
+Launch x 3
+Troop Transport x 2
+Shuttle
+Heavy Fighters x 12
+Training Facilities
+Medical Bay
+Workshops
+Standard x 2,830
+High x 6
+Emergency Low Berths x 14
+Barracks (80 marines)
+Manoeuvre/0
+Jump Control/4
+Library
+Conscious Intelligence (TL16)
+Auto-Repair/2
+Advanced Fire Control/3
+Evade/3
+Intellect
+Battle System/3
+Anti-Hijack/3
+Electronic Warfare/3
+Launch Solution/3
+Point Defence/2
+
+500
+40
+188
+60
+11320
+36
+14
+160
+-
+
+250
+7.101
+81.88
+15.167
+512.76
+8
+94
+1.5
+1415
+4.8
+14
+8
+0.4
+25
+10
+18
+3
+1
+36
+10
+24
+16
+12
+
+Virtual Crew/2
+
+-
+
+10
+
+4631
+
+-
+
+Common Areas
+Cargo
+
+TOTAL: MCR 338798.248
+
+Power Requirements
+730
+SCREENS
+
+180000
+
+60000
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+120000
+
+33
+
+JUMP DRIVE
+
+2500
+
+31000
+WEAPONS
+
+SENSORS
+
+FUEL PROCESSOR
+211
+
+

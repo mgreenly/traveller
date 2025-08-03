@@ -1,0 +1,267 @@
+D E N E B - S U B S E C T O R
+
+ZENG
+
+The Zeng subsector lies close to the fringe of the Great
+Rift, giving it a hard border similar to that of Deneb. To
+rimward are a few worlds in Macon; a handful in Kamlar
+
+Name
+Agdarmi
+Atab
+Balzac
+Breit-Tuve
+Dawn
+Echura
+Fessenden
+Giffert
+Giranima
+Ibsen
+Inquar
+Isidor
+Jecife
+Keirei
+Lilad
+Muntgumree
+Oriryu
+Pashus
+Pikha
+Point Ay
+Quinthept
+Quirinal
+Rajan
+Sestos
+Shiiku
+Sorel
+Storm
+Third Mu
+Timmer
+Tullyhome
+Unxava
+Ushashin
+Uushadiiru
+Veldt
+Zeng
+
+Location
+1340
+1433
+1636
+1439
+1336
+0933
+1440
+1332
+1334
+1635
+0935
+1436
+1640
+1133
+1135
+1238
+1140
+1432
+1633
+1231
+1032
+1435
+1532
+0939
+1333
+1338
+1035
+1137
+1038
+0936
+1337
+1138
+1639
+1235
+1339
+
+Bases
+S
+N
+N
+
+S
+S
+N
+S
+NS
+S
+S
+
+S
+N
+
+S
+
+N
+S
+NS
+
+Statistics
+B566799-A
+C540899-8
+A552879-C
+C425574-B
+AA9A531-C
+C6837AB-8
+C4357CC-6
+B7A8557-D
+D7979C8-8
+D4346AC-6
+B8B5754-B
+C571565-8
+A439667-F
+C310330-B
+C547AAE-C
+B553666-8
+B536534-9
+A432455-G
+B738A86-C
+C560524-9
+C521575-A
+C651754-9
+C87A112-B
+D5A6878-8
+D6517BF-6
+B539113-C
+CAD6223-A
+BA7A210-C
+C562652-8
+D66977A-5
+B677627-7
+EA9A210-7
+A551445-A
+C567754-8
+A426446-C
+
+N
+
+lie to trailing. As a result of its positioning, Zeng did not
+receive an equal share of early investment and has lagged
+behind the development of other subsectors since.
+
+Trade Codes
+Ag Ri
+De Po
+Po
+Ni
+Ni
+Ri
+Fl Ni
+Hi In
+Ni
+Fl
+Ni
+Ni
+Lo
+Hi In
+Ni Po
+Ni
+Ni Po
+Hi
+De Ni
+Ni Po
+Po
+Lo Wa
+Fl
+Po
+Lo
+Lo
+Lo
+Ni Ri
+Ri
+Ag Ni
+Lo
+Ni Po
+Ag Ri
+Ni
+
+Travel Code
+
+A
+A
+A
+A
+
+A
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

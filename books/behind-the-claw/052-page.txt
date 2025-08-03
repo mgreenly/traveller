@@ -1,0 +1,126 @@
+VARGR ADVANCED CORSAIR
+TL13
+Hull
+Armour
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+Ammunition
+Systems
+
+Staterooms
+Software
+
+TONS
+
+COST (MCR)
+
+Computer/10
+Military Grade
+Countermeasures Suite
+Triple Turrets (pulse lasers) x 2
+Triple Turrets (missile racks) x 2
+Missiles x 72
+Fuel Processor (80 tons/day)
+Fuel Scoops
+Cargo Scoop
+Forced Linkage Apparatus (TL12)
+Docking Space (50 tons)
+
+8
+20
+20
+25
+26
+84
+20
+2
+2
+2
+2
+6
+4
+2
+2
+55
+
+24
+16
+4.8
+40
+37.5
+1
+2
+0.16
+4.1
+4
+8
+6.5
+0.2
+0.5
+0.1
+13.75
+
+Modular Cutter
+
+-
+
+10.287
+
+Docking Space (15 tons) x 2
+
+33
+
+8.25
+
+Ghoerruegh G/Carriers x 2
+
+-
+
+22.02
+
+Armoury
+
+1
+
+0.25
+
+Standard x 12
+Emergency Low Berths x 6
+Manoeuvre/0
+Jump Control/2
+Library
+Fire Control/2
+
+48
+6
+6
+26
+
+6
+6
+0.2
+4
+0.6
+-
+
+400 tons, Streamlined
+Emissions Absorption Grid
+Crystaliron, Armour 4
+Thrust 5
+Jump 2
+Fusion (TL12), Power 390
+J-2, 4 weeks of operation, plus Cutter
+
+Common Areas
+Cargo
+
+TOTAL: MCR 220.217
+52
+
+

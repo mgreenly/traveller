@@ -1,0 +1,237 @@
+SPINWARDS MARCHES-SUBSECTOR J
+
+SWORD WORLDS
+Every system in the Sword Worlds subsector lies on
+the Spinward Main, although getting to some without
+a jump-2 capable ship requires meandering for some
+time. The main diverges at Iron and again at Caliburn,
+and heading spinward-rimward from there is a section
+of the referred to as the Bowman Arm, which runs
+across the coreward ends of District 268 and the Five
+Sisters before wandering out of the sector at Garoo and
+Uniqua. Rimward from Caliburn, the main splits again
+in District 268, giving access to the rimward end of the
+Five Sisters in one direction and Glisten in the other.
+Jump-2 ships can make a circuit back towards Trin and
+Mora by this route. Spinward-coreward from Iron is an
+Name
+Anduril
+Beater
+Biter
+Bronze
+Caladbolg
+Caliburn
+Colada
+Durendal
+Dyrnwyn
+Enos
+Excalibur
+Flammarion
+Gram
+Gungnir
+Gunn
+Hofud
+Hrunting
+Iron
+Joyeuse
+Mithril
+Mjolnir
+Narsil
+Orcrist
+Sacnoth
+Steel
+Sting
+Tizon
+Tyrfing
+
+Location
+1026
+1424
+1526
+1627
+1329
+1430
+1022
+1523
+1522
+1130
+1225
+0930
+1223
+1221
+1429
+1524
+0921
+1626
+1123
+1628
+1121
+0927
+1126
+1325
+1529
+1525
+0922
+1324
+
+Bases
+NM
+NM
+NM
+S
+NM
+NM
+NM
+M
+NM
+NM
+NM
+M
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+
+Statistics
+B985855-B
+B685686-A
+B354623-A
+E201000-0
+B565776-A
+E000514-A
+B564685-B
+B687734-B
+B958812-A
+E35059B-4
+B424755-A
+A623514-B
+A895957-C
+B544779-8
+E544110-8
+B666853-A
+B563747-9
+E529000-0
+B564778-A
+E568000-0
+B530544-A
+B574A55-A
+B8A6733-A
+A775956-C
+E655000-0
+B645796-A
+B586887-A
+B637735-A
+
+arm of the main that leads to Darrian but is not normally
+considered part of the Spinward Main except in purely
+astrographical terms, due to the political allegiance of
+the worlds on the Main.
+The Sword Worlds Confederation, occupying a section
+of the Spinward Main and a couple of spurs from it,
+is a collection of like-minded world governments who
+sometimes work together, rather than a monolithic
+political body. The present Confederation capital is at
+Gram, although exactly how much power is exerted
+from there can vary considerably depending on the
+political climate.
+
+Trade Codes
+Ri
+Ag Ni Ga Ri
+Ag Ni
+Ba Ic Va
+Ag Ri
+As Ni Va
+Ag Ni Ri
+Ag Ga Ri
+
+Travel Code
+
+De Ni Po
+
+A
+
+Ni Po
+Hi In
+Ag
+Lo
+Ga Ri
+Ri
+Ba
+Ag Ri
+Ba
+De Ni Po
+Hi In
+Fl
+Hi In
+Ba Ga
+Ag
+Ri
+
+A
+
+A
+
+Allegiance
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Imperium
+Imperium
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Imperium
+Sword Worlds
+Sword Worlds
+Imperium
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+Sword Worlds
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

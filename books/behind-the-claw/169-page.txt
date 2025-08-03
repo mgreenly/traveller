@@ -1,0 +1,77 @@
+Creating Gl’lu Travellers
+
+The Gl’lu are descended from rough-terrain
+scavenger intimidators and look like nightmarish
+insectoids. Their porous mottled skin, slimy
+appendages and periscope-like eyestalk make
+them look like a cross between a Terran octopus
+and a slug. Indeed, upon first encountering
+the race during the Grand Survey, scouts
+mistook them for a far-flung colony of Githiasko
+or genetically altered hivers. Their body is
+asymmetric, with two sets of limbs; the front set
+comprises four legs, which have adapted hands,
+while the rear set consists of three stouter legs
+for stability and power. The Gl’lu have a single
+gender and for all intents and purposes are
+hermaphroditic.
+
+Characteristics
+
+Gl’lu Travellers have the following modifiers
+applied to their characteristics: END-1, DEX+1,
+EDU-2
+
+Traits
+
+Gl’lu Travellers all possess the following traits:
+Atmospheric Requirements: The Gl’lu depend on an
+ammonia-rich environment and require a sealed
+suit to survive in other atmospheres.
+Fast Metabolism (+1): Gl’lu have a heightened
+metabolism and very fast reactions. They gain
+DM+1 to initiative rolls.
+Heightened Senses: Gl’lu have better hearing and
+sense of smell than humans. They receive DM+1
+to any Recon and Survival checks they have to
+make.
+IR Vision: Gl’lu have highly developed vision in
+the infrared part of the spectrum and can see
+clearly in darkness. However, they can only see in
+infrared.
+Natural Weapon (fangs, 1D+2): Gl’lu have sharp
+fangs that they can use to bite enemies. The
+fangs do 1D+2 damage and use the Melee
+(natural) skill.
+
+Careers
+
+All careers from the Traveller Core Rulebook are
+suitable for the Gl’lu.
+
+Gl’lu Starships
+
+The Gl’lu have become a minor starfaring race and
+thousands of Gl’lu traders can be found throughout the
+region. Their best-selling commodities include highgrade materials and innovative environmental products,
+while the synthetic slime coating that grants the wearer
+protection from airborne corrosives is less than attractive
+to other races.
+Gl’lu starship design is a focus of obsession with
+backup systems and redundancy, and all Gl’lu starships
+have two bridges and two manoeuvre drives, typically
+situated as far apart as possible. To a human, this
+wasted space seems inefficient and in cases of multiple
+backups even ludicrous, but to a Gl’lu humans live on
+borrowed time onboard ships with no real redundancy of
+critical systems.
+The Gl’lu are accustomed to inhabiting small spaces
+and their staterooms require much less space than those
+intended for humans. They do not suffer any penalties
+for working within a small bridge (see page 17 of High
+Guard) and a Gl’lu stateroom can comfortably support
+eight Gl’lu rather than two humans.
+
+169
+
+

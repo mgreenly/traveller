@@ -1,0 +1,158 @@
+GUNSHIP LIGHTER
+TL12
+Hull
+
+Armour
+M-Drive
+Power Plant
+
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+
+Staterooms
+Software
+Cabin Space
+Cargo
+Secure Cargo
+Space
+Armoured
+Bulkhead
+
+TONS COST (MCR)
+100 tons,
+Standard,
+Reinforced
+Crystalliron,
+Armour: 12
+Thrust 4
+Fusion
+(TL12), Power
+75
+4 weeks of
+operation
+Small
+Computer/5
+Military Grade
+Triple Pop-up
+Turret (pulse
+lasers)
+Standard x 4
+Manoeuvre/0
+Library
+
+Secure Cargo
+Space
+
+–
+
+7.5
+
+15
+
+4.5
+
+4
+5
+
+8
+5
+
+0.5
+
+–
+
+6
+–
+2
+2
+
+0.5
+0.03
+4.1
+5
+
+16
+–
+–
+10
+28.5
+10
+
+2
+–
+–
+0.5
+–
+
+1
+
+0.2
+
+PILOT, ENGINEER, GUNNER
+
+TOTAL: MCR37.33
+
+44
+HULL POINTS
+192
+
+CREW
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr3110.83/month
+
+PURCHASE COST
+MCr37.33
+
+Power Requirements
+40
+
+20
+
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+—
+
+1
+
+9
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+Built on the same hull form, but in a far
+more robust manner, the gunship version
+of the lighter looks very similar but can be
+identified by its much higher acceleration.
+The triple laser turret is mounted in a
+pop-up configuration so as not to impede
+docking and also to conceal the fact that
+the craft is armed. Gunships are used for
+high-value cargo and passenger transfers
+and allow a freightliner to function in the
+GEM-ship (Gunship Equipped Merchant)
+role. Essentially, this configuration allows
+the parent vessel to self-escort or provide
+additional protection to a convoy. The
+GEM-ship configuration has applications
+as a paramilitary vessel and gunships are
+sometimes encountered as light system
+defence or patrol craft.
+
+

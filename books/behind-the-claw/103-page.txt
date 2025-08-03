@@ -1,0 +1,220 @@
+SPINWARDS MARCHES-SUBSECTOR L
+
+MORA
+
+Very much the gateway to the Marches, Mora was
+the first area to be colonised by the Imperium and
+has developed steadily ever since. All worlds in the
+subsector are Imperial members and defended by the
+73rd Fleet, which is based out of Mora itself. The
+Spinward Marches Sector Fleet is also headquartered at
+Mora, although if a Depot system is someday designated
+it may move there.
+In the meantime, the co-location of fleet headquarters
+and de facto sector ducal court has been criticised
+for creating an over-politicised fleet. Other observers
+suggest it enables better co-operation between the
+political structure of the Imperium and the Navy, its
+
+Name
+Brodie
+Byret
+Carey
+Catuz
+Dojodo
+Duale
+Fenl’s Gren
+Fornice
+Fosey
+Grille
+Heroni
+Hexos
+Jokotre
+Mainz
+Maitz
+Meleto
+Mercury
+Mora
+Moran
+Nadrin
+Nexine
+Palique
+Pedase
+Pimane
+Rorise
+Tivid
+
+Location
+3021
+2523
+2726
+2824
+3223
+2728
+3228
+3025
+2621
+3026
+2521
+2828
+3024
+2930
+2927
+2827
+2624
+3124
+2924
+3123
+3030
+3029
+2830
+2527
+3022
+2627
+
+Bases
+
+S
+RS
+
+N
+S
+S
+NS
+NS
+N
+S
+S
+S
+
+Statistics
+C410468-7
+B585697-6
+C579221-9
+C42048C-9
+C512311-7
+A5437BF-B
+C647346-9
+A554A87-C
+A633656-A
+E410335-7
+B6449B9-8
+B534420-8
+B6548D9-7
+C553352-A
+A201511-B
+C675100-5
+B658663-8
+AA99AC7-F
+C567300-8
+D420203-7
+C97A443-8
+A511965-E
+C415346-7
+E500343-7
+C994100-A
+C534477-8
+
+main military arm. Either way, the Marches is behind
+the times in retaining a ‘crust’ defensive strategy when
+the move to elastic defence began elsewhere a
+decade ago.
+The Imperial Navy has additional bases at Mercury,
+Moran and Hexos, which mostly play host to lighter
+fleet elements. Mora is more intensively patrolled than
+most other subsectors and has no less than four light
+carrier task groups available for anti-piracy and general
+security. This makes Mora safer for traffic, at the cost of
+taking fleet assets away from frontier areas that might
+need them more.
+
+Trade Codes
+Ni
+Ag Ni Ri
+Lo
+De Ni Po
+Ic Lo
+Po
+Lo
+Hi
+Na Ni Po
+Lo
+Hi In
+Ni
+
+Travel Code
+
+A
+A
+A
+
+A
+A
+
+Lo Po
+Ic Ni Va
+Lo
+Ag Ni
+Hi In
+Lo
+De Lo Po
+Ni Wa
+Hi Ic In Na
+Ic Lo
+Lo Va
+Lo
+Ni
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

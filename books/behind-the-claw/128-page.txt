@@ -1,0 +1,226 @@
+SPINWARDS MARCHES-SUBSECTOR O
+
+GLISTEN
+
+Glisten lies entirely within the Imperium, for many years
+a backwater lying on an unimportant frontier, receiving
+little attention. X-boats bound for Imperial holdings in
+Pax Rulin (rimward, towards the Great Rift) ran through
+Glisten itself but otherwise there was little need to
+develop the region. The opening of District 268 for
+Imperial expansion in 940 brought greater importance
+to Glisten and has stimulated investment.
+
+Name
+Aki
+Aster
+Bendor
+Bicornn
+Caledonia
+Callia
+Centry
+Craw
+Crout
+Egypt
+Ffudn
+Glisten
+Grote
+Horosho
+Inthe
+Lydia
+Marastan
+Melior
+Mithras
+New Rome
+Overnale
+Romar
+Sorel
+Tirem
+Trane
+Tsarina
+Weiss
+Windsor
+Wurzburg
+
+Location
+2035
+1739
+2336
+2331
+2134
+1836
+2132
+1939
+2232
+1737
+2334
+2036
+1731
+2138
+2234
+1733
+2231
+1736
+1932
+1938
+1937
+2140
+2137
+2233
+2038
+2236
+1934
+1935
+2237
+
+Bases
+
+NS
+
+N
+NS
+S
+
+S
+
+N
+NS
+
+S
+
+Statistics
+B543987-9
+C86A410-9
+A756656-C
+E563576-2
+C541636-5
+E550852-6
+E422447-7
+C573645-5
+E4359CA-7
+BAC6567-9
+A41489D-C
+A000986-F
+A400404-B
+C4378A6-A
+C100598-B
+E310430-7
+D868764-5
+D540466-7
+C8B5568-8
+B837866-B
+B55467A-9
+B550456-8
+E58569A-2
+C7B5975-B
+C639422-B
+D420636-7
+A626464-B
+C783511-9
+C795300-A
+
+Many of the worlds in the subsector lie on the Spinward
+Main, although the Glisten Arm is a lightly travelled part
+of the main. It terminates at Bendor, however a jump-2
+capable ship can reach any world in the subsector and
+proceed beyond into Trin’s Veil and finally back to Mora.
+The subsector is the responsibility of the 100th Fleet,
+with its headquarters at Glisten itself. The fleet is
+
+Trade Codes
+Hi In Po
+Ni Wa
+Ag Ni Ga
+Ni
+Ni Po
+De Po
+Ni Po
+Ni
+Hi
+Fl Ni
+Ic
+As Hi In Na Va
+Ni Va
+Ni Va
+Ni
+Ag Ri
+De Ni Po
+Fl Ni
+Ag Ni
+De Ni Po
+Ag Ni Ri
+Fl Hi In
+Ni
+De Na Ni Po
+Ni
+Ni
+Lo
+
+Travel Code
+A
+
+A
+A
+
+A
+A
+
+A
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

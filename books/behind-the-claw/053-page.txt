@@ -1,0 +1,60 @@
+160
+HULL POINTS
+
+CREW
+CAPTAIN, PILOT, ASTROGATOR,
+ENGINEERS X 2, MEDIC, GUNNERS X 4
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr18351/month
+
+PURCHASE COST
+MCr220.217
+
+Using a 400-ton hull, this ship is the
+raiding vessel of choice for the corsair
+bands of the Vargr Extents. Despite being
+of sophisticated design, it is by no means
+an unusual sight in Vargr space and border
+regions and one feared by many Travellers.
+The advanced corsair typically has a crew
+of 10 but can carry up to 14 additional
+crewmembers with double occupancy,
+usually raiders and boarding party members.
+With a manoeuvre drive powerful enough
+to run down all but the fastest ships,
+the average merchant is well-advised to
+surrender early when pursued by this vessel.
+
+Power RequirEments
+200
+
+80
+
+4
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+80
+
+3
+
+28
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+53
+
+

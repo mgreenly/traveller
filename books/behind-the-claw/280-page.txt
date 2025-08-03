@@ -1,0 +1,124 @@
+THOUSAND FREIGHTER
+TONS COST
+(MCR)
+
+TL12
+Hull
+M-Drive
+Power Plant
+Fuel Tanks
+Bridge
+
+1,150 tons, Standard, Light
+Thrust 2
+Fusion (TL12), power 465
+16 weeks of operation
+
+23
+31
+12.4
+20
+
+43.125
+46
+31
+5
+
+Computer
+Sensors
+Systems
+Staterooms
+Software
+
+Computer/10
+Civilian Grade
+Cargo Crane
+Standard x 8
+Manoeuvre/0
+Library
+
+1
+6
+36
+-
+
+0.16
+3
+6
+4
+-
+
+20.6
+
+2.06
+
+Common
+Areas
+Cargo
+
+CREW
+CAPTAIN, PILOT, ENGINEERS X
+2, MAINTENANCE X 2
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr13240.4/month
+
+PURCHASE COST
+MCr158.85
+
+1,000 -
+
+Power Requirements
+
+TOTAL: MCR158.85
+
+414
+HULL POINTS
+280
+
+230
+
+230
+
+0
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+0
+
+1
+
+0
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+The Thousand Freighter is an in-system
+vessel built around a 1000-ton cargo
+hold; all other functions are dedicated to
+moving this hold and its contents around
+the system. The vessel is normally operated
+by a small crew and typically just one or
+two passengers will be aboard on any given
+trip. More can be carried if the crew move
+into double-occupancy but most Thousand
+Freighters have one or two ‘guest rooms’
+and fill the rest up with the belongings of
+the crew, spare parts and whatever else is
+lying around. These ships have a reputation
+for being a very basic form of transport but
+they move cargo cheaply and efficiently,
+which is all their operators really care about.
+
+

@@ -1,0 +1,161 @@
+SYDKAI-CLASS DETACHED FRIGATE
+TL15
+Hull
+
+Armour
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+
+Weapons
+
+Ammunition
+Screens
+Systems
+
+Staterooms
+
+Software
+
+2,000 tons, Streamlined
+Reflec
+Stealth
+Bonded Superdense, Armour: 6
+Thrust 3
+Jump 3
+Fusion (TL15), Power 1,860
+J-3, 8 weeks of operation
+Hardened, Holographic Controls
+Computer/35 fib
+Advanced
+Enhanced Signal Processing
+Military Countermeasures Suite
+Triple Turret (missile racks)
+Torpedo Barbette
+Triple Turrets (beam lasers) x 17
+Missile Storage (480 missiles)
+Torpedo Storage (120 torpedoes)
+Nuclear Damper
+Fuel Processor (320 tons/day)
+Fuel Scoops
+Repair Drones
+Breaching Tube
+Docking Clamp (type I)
+Armoury
+Briefing Room
+Medical Bay
+Standard x 22
+Low Berths x 20
+Emergency Low Berths x 2
+Barracks (40 marines)
+Manoeuvre/0
+Jump Control/3
+Library
+Auto-Repair/2
+Advanced Fire Control/2
+Evade/3
+Intellect
+Battle System/3
+Virtual Crew/0
+
+Common Areas
+Cargo
+
+TOTAL: MCR 1390.5
+198
+
+TONS
+
+COST (MCR)
+
+–
+–
+–
+96
+60
+155
+93
+620
+40
+–
+5
+2
+15
+1
+5
+17
+40
+40
+10
+16
+–
+20
+3
+1
+12
+4
+4
+88
+10
+2
+80
+–
+–
+–
+–
+–
+–
+–
+–
+–
+125
+436
+
+120
+200
+200
+57.6
+120
+232.5
+186
+–
+18.75
+45
+5.3
+8
+28
+3.25
+3
+42.5
+–
+–
+10
+0.8
+–
+4
+3
+0.5
+3
+0.5
+2
+11
+1
+2
+4
+–
+0.3
+–
+10
+15
+3
+1
+36
+1
+12.5
+–
+
+

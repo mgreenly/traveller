@@ -1,0 +1,26 @@
+4
+
+3
+
+3
+1
+2
+DECK 2
+
+LEGEND
+1. Jump drives
+2. Docking space
+3. Luxury rooms
+4. High staterooms
+5. Fuel tanks
+6. Power plant
+7. Maneuver drive
+
+196
+
+4
+11
+
+5
+
+

@@ -1,0 +1,266 @@
+D E N E B - S U B S E C T O R
+
+INAR
+
+F
+
+The 36 star systems of Inar lie entirely within
+the Imperium, with most forming part of a large
+concentration sprawling across both Inar and Sabine.
+Inar itself, the subsector capital, is not part of this
+
+concentration but has easy jump-2 access to it by way of
+Pecena. Indeed, jump-2 communications with the rest
+of the sector and beyond are good.
+
+Name
+Abydos
+Amarkimi
+Ashasi
+Ciprien
+Clarissa
+Depot
+Gaagir
+Gaza
+Hessel
+Inar
+Jessok
+Karabeth
+Kauai
+Kayu
+Kubishush
+Liiri
+Minde’s Star
+Modika
+Montcolm
+Morninglori
+Mowebe
+Neopidan
+Otomisi
+Pecena
+Prigojin
+Quanah
+Quebraco
+Rayel
+Skold
+Springarn
+Starn
+Surisha
+Taillon
+Thane
+Trevith
+Zeen
+
+Trade Codes
+Ni
+Ni
+Hi
+Lo Po
+Ni
+Na Ni Va
+Lo Wa
+Na Ni Po
+Lo
+Na
+Ni Po
+Ni
+Ni
+Fl Ni
+Fl Hi In
+Hi In Po
+Ni
+De Ni Po
+Lo
+Ag Ni
+Ag Ni
+Fl Ni
+Fl Ni
+Lo
+Ni Va
+Ni Pa
+Ni Wa
+Ni
+Lo
+Lo
+As Hi In Na Va
+Lo
+Ni Ri Wa
+Ni
+Lo
+Ni Po
+
+Location
+1116
+0913
+1618
+1318
+1217
+1613
+1218
+1615
+1018
+1213
+1011
+1118
+1520
+0912
+0917
+1016
+1220
+1314
+1419
+1216
+1014
+1619
+0914
+1115
+1212
+1311
+1420
+1313
+0915
+1614
+1417
+1620
+1415
+1319
+1518
+1111
+
+Bases
+S
+W
+
+S
+D
+S
+W
+N
+N
+
+NS
+
+S
+S
+
+N
+S
+NS
+
+S
+S
+S
+S
+
+Statistics
+D435666-8
+B546410-A
+E9D5AA8-B
+C553310-7
+C536422-A
+A10066A-F
+C86A358-A
+B430656-B
+B658100-C
+A310736-E
+C623510-A
+E663468-7
+BA89537-B
+E9B75A8-8
+B8B69AA-D
+B542998-C
+D435452-A
+B550413-8
+D675212-7
+B544585-7
+C748551-A
+BA9A547-9
+B5A5577-C
+B547314-A
+E100440-8
+C567474-6
+E78A568-5
+B693632-8
+B764323-A
+E564320-5
+B000996-F
+D682232-3
+C78A668-9
+D585430-7
+E673347-5
+D6536B6-6
+
+Travel Code Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+A
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+A
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

@@ -1,0 +1,80 @@
+T H E
+
+S P E C I A L I S T
+
+C O L L E C T I O N
+
+TECHNOLOGY OF VINCENNES
+
+3
+
+Travellers visiting Vincennes will have the chance to obtain advanced equipment. Exactly what is on offer at any given time can
+vary depending on who has the most success in cutting through all the layers of bureaucracy surrounding exports of TL16 gear.
+
+A03/48956
+
+HIGH-PERFORMANCE GRAV HARNESS
+
+A significant advance on early grav belts, the HPGH or ‘hug-pug’ consists
+of a belt and shoulder straps that can be adjusted to fit over bulky clothing
+such as a vacc suit or be worn under a normal jacket. Bulk and weight are
+only slightly less than a standard grav belt, but a hug-pug offers the user
+significant advantages over earlier models. Among them is gravitic support
+for the user; early grav belts work well enough but the wearer tends to suffer
+a sensation of dangling uncomfortably in the belt with the load concentrated
+around the waist. This has been compared to the opposite of wearing an
+extremely heavy tool belt and quickly leads to discomfort. The HPGH version
+greatly reduces this sensation, reducing operator fatigue.
+In addition, an HPGH projects a low-powered field around the user,
+deflecting rain and small objects as well as reducing wind resistance. The
+unit cannot fly any faster than a standard grav belt – it is still limited to
+Medium speed – but flight is much more comfortable and can be sustained
+for longer. An HPGH can operate for 24 hours before requiring recharging,
+and has an emergency system built in. This will automatically slow a fall and
+correct a tumble, unless countermanded by the operator, and will return an
+unconscious or incapacitated wearer to a prearranged safe location.
+
+Item
+
+TL Kg Cost
+
+High Performance Grav Harness
+
+16
+
+A03/75674
+
+4
+
+Cr250000
+
+SENSOR SPIKES
+
+Sensor spikes are thin, 6cm long spikes designed to be pushed into any
+surface. A one-use battery generates a cutting field at the sharp end,
+enabling the spike to be pushed into a rock face or wall without difficulty and
+a spike can be thrown into a softer surface. Once emplaced, a set of ultrathin fibre antennae are deployed, gathering a range of data and transmitting
+it in bursts or in real-time transmissions to any designated computer. Their
+internal power lasts for 48 hours.
+Spikes gather optical and thermal data with a tiny camera in the head
+and monitor the temperature of the surface the spike is embedded in and
+surrounding air, along with chemical composition, radiation levels and
+vibrations. A network of spikes can be used to create a perimeter alarm
+system or gather data for scientific purposes. Most sensors only gather data
+from within 5m of the spike, although vibrations can be sensed at greater
+distances depending on intensity. Transmission range is 25m, but a chain of
+spikes can relay information over almost any distance.
+
+Item
+
+TL Kg Cost
+
+Sensor Spikes (12 pack)
+
+16
+
+-
+
+Cr50
+
+

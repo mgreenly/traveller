@@ -1,0 +1,57 @@
+11. Staterooms
+12. Common area
+13. Armoury
+14. Briefing room
+15. Medical bay
+16. Nuclear dampers
+17. Meson screens
+18. Point defence battery
+19. Bridge
+20. Advanced sensors
+
+11
+
+3
+
+3
+
+12
+DECK 9
+12
+
+6
+
+10
+
+3
+
+15
+14
+13
+
+3
+DECK 10
+17
+
+16
+
+18
+
+DECK 11
+
+DECK 8
+
+20
+
+11
+
+19
+12
+
+DECK 12
+
+DECK 9
+
+205
+
+

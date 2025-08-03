@@ -1,0 +1,227 @@
+D E N E B - S U B S E C T O R
+
+E
+
+SABINE
+
+The Sabine subsector contains 27 star systems, all
+members of the Imperium. Sixteen of these worlds are
+part of a jump-1 cluster sprawling across Sabine and
+Inar, with all of the economic benefits this entails.
+Not all these worlds are well developed however and
+the presence of two interdicted systems does tend to
+channel jump-1 traffic into local patterns. The remainder
+of the subsector contains mostly underdeveloped worlds,
+which provide a jump-2 link to Rhylanor in the Marches
+but otherwise are of little importance.
+
+Name
+Amirante
+Amritsar
+Anomaly Five
+Ara Pacis
+Bahadur
+Cabrini
+Cicus
+Coshecawat
+Dhapura
+Endimyon
+Fennec
+Jehun
+Magash
+Makeni
+Marnie’s World
+Musayid
+Pangumo
+Pharos
+Rhinom
+Saarinen
+Seleen
+Sevas Topol
+Sui’tang
+Suvfoto
+Thengin
+Umiikam
+Vanzeti
+
+Location
+0713
+0814
+0615
+0419
+0715
+0319
+0812
+0816
+0412
+0516
+0311
+0819
+0316
+0813
+0514
+0214
+0815
+0415
+0717
+0113
+0517
+0619
+0417
+0211
+0518
+0217
+0218
+
+Bases
+S
+
+N
+S
+
+S
+S
+N
+
+N
+
+S
+N
+S
+
+Statistics
+D310899-7
+C897535-8
+X100000-0
+A437678-B
+A426230-E
+C565510-6
+E310330-7
+X100641-7
+E579758-7
+X555434-3
+C556833-8
+E66766A-6
+A400976-F
+E100542-8
+AA9A324-B
+E5448AE-5
+C55259B-9
+B593477-8
+B7768AB-8
+B566212-8
+A310467-E
+D9C4256-9
+B552864-A
+D95488A-6
+B567998-C
+DAA6300-8
+C52A531-C
+
+These backwater worlds are of small interest to major
+economies so long as merchant traffic is not impeded
+and are of low strategic importance to the Imperium
+as a whole. There is thus little regulation of corporate
+activity in the region and away from the immediate
+environs of the starport many worlds might as well not
+be part of Imperium at all. These systems are prone to
+piracy and raiding, which provokes a response from the
+subsector fleet and Imperial authorities when it reaches
+a serious level.
+
+Trade Codes
+Na
+Ag Ni
+Ba Va
+Ni
+Lo
+Ag Ni
+Lo
+Na Ni Va
+
+Travel Code
+
+Ni
+
+R
+
+R
+
+R
+
+Ag Ni Ga Ri
+Hi In Na Va
+Ni Va
+Lo
+Ni Po
+Ni
+
+A
+A
+A
+
+Lo
+Ni
+Fl Lo
+Po
+Hi
+Fl Lo
+Ni
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

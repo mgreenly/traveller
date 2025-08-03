@@ -1,0 +1,49 @@
+2
+
+1
+
+3
+
+LEGEND
+1. Sensors
+2. Bridge
+3. Common area
+4. Cargo hold
+5. Power plant
+6. Staterooms
+7. Airlock
+8. Manoeuvre drive
+9. Fuel tanks
+
+4
+
+DECK 4
+
+5
+7
+4
+
+6
+
+DECK 3
+
+8
+8
+
+4
+
+9
+9
+
+8
+
+DECK 2
+
+8
+4
+
+DECK 1
+
+281
+
+

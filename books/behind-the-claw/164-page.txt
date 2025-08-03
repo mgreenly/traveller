@@ -1,0 +1,62 @@
+GAS-SHARK
+ANIMAL
+Gas-Shark
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+HITS
+25+
+—
+Dissolve (1D)
+Flyer (idle)
+Omnivore Grazer
+
+SPEED
+2m
+
+Hand weapons and projectiles have no effect on them
+other than to stir the cloud around a little. Likewise
+lasers are largely ineffective and will damage whatever
+they hit on the far side of the cloud (a laser fired at a
+gas-shark does one point of damage per die – so a 5D
+laser weapon will deal 5 points of damage).
+
+RESEARCH STATIONS
+Deneb has six Imperial research stations, an usually
+high concentration for any sector. There is no standard
+form for a research station; some are large complexes
+on remote planetoids, others are chains of universities
+located in major cities. The only thing these facilities
+have in common is that they are far greater in size and
+capabilities than the typical corporate laboratory or
+university research department and that they have a
+charter from the Imperium.
+
+164
+
+Electricity and similar forms of energy will harm a gasshark and Stun weapons deliver damage as normal. High
+temperatures (such as plasma or flame weapons) will
+also harm a gas-shark but may be inadvisable inside a
+spacecraft.
+A Traveller touched by a gas-shark will be slowly
+dissolved at the rate of 1D damage per round. Armour is
+dissolved at the rate of 1 point of Protection per round
+and once reduced to zero, it is gravely breached and
+useless. A gas-shark may well find ways into a sealed
+suit before then. There is a 1 in 6 chance each round
+of contact with the Traveller by way of a breached seal.
+This is not sufficient to cause a suit to fail completely
+but will result in a leak that could become serious.
+
+Most research stations concentrate on a narrow remit,
+and are leaders in their field. In some cases, the nature
+of research undertaken at a facility is subject to strict
+secrecy and the station is off-limits to unauthorised
+visitors. Rumours of superweapons projects and
+incredible revelations on the nature of the universe
+abound but most of what goes on in these stations is
+relatively mundane.
+
+

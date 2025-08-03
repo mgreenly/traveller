@@ -1,0 +1,77 @@
+25,000
+HULL POINTS
+
+CREW
+CAPTAIN, PILOTS X 15, ASTROGATOR,
+ENGINEERS X 120, MAINTENANCE X 20,
+GUNNERS X 200, ADMINISTRATORS X 25,
+MEDICS X 4, OFFICERS X 24
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr1833575/month
+
+PURCHASE COST
+
+The term ‘dromedary’ is given to support
+vessels that carry both fuel and dry stores,
+typically used to support small squadron
+or task force operations where a fleet
+tanker and auxiliaries would be wasteful.
+Dromedaries are inefficient when used to
+support major fleets but are often pressed
+into that role. Most replenishment tasks are
+undertaken directly with the ship’s UNREP
+system but there is hangar space for six
+100-ton craft such as Ilauus-class shuttles,
+which can be used for resupply tasks.
+The Shuigabumudkhar-class is large enough
+to resupply destroyers but is not sufficient
+for cruiser or capital ship operations. In
+peacetime, dromedaries can sometimes
+be encountered ferrying cargo on behalf of
+Imperial armed forces, acting as additional
+resupply ships for army deployments or
+undertaking other mundane tasks.
+
+MCr22002.9
+
+Power RequirEments
+20,000
+
+10,000
+
+250
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+20,000
+
+2
+
+600
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+Strategic mobility is standard for Imperial
+fleet assets (jump-4) and with 4g
+acceleration the Shuigabumudkhar-class
+is sufficiently agile to respond to most
+situations. It is lightly armoured and armed
+to repel strikes by minor enemy combatants
+but relies on escorts for protection.
+
+117
+
+

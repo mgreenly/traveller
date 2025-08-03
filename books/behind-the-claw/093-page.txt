@@ -1,0 +1,97 @@
+TL9
+HNAEFIR AIR/RAFT
+
+ARMOUR
+
+TL
+
+9
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
++0
+
+SPEED (CRUISE)
+
+Fast (High)
+
+RANGE (CRUISE)
+
+1000 (1500)
+
+CREW
+
+1
+
+PASSENGERS
+
+5
+
+CARGO
+
+0.25 tons
+
+HULL
+
+16
+
+SHIPPING
+
+4 tons
+
+COST
+
+Cr199000
+
+F RONT
+
+6
+
+REAR
+
+6
+
+SIDES
+
+6
+
+EQUIPMENT AND WEAPONS
+Communication System (improved), Control
+System (primitive)
+No weapons
+
+TRAITS
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+—
+500 km
+—
+—
+—
+—
+
+—
+
+DESCRIPTION
+The staple civilian air transport in
+the Sword Worlds, the Hnaefir is a
+simple design with two ideas in mind
+– being cheap and being sturdy. The militarised
+version provides little protection, has less in
+the way of sensors and somewhat ‘unforgiving’
+controls, but can ferry half a Confederation unit
+and their gear much quicker than an equivalent
+ground vehicle. Some examples in military
+service sacrifice their cargo space for a forwardfacing fixed mount capable of mounting a small
+(1 Space) weapon.
+
+

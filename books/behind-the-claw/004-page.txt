@@ -1,0 +1,110 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+O
+
+N
+
+E
+
+CHARTED SPACE
+Space that has been explored by humans is referred to
+as Charted Space. Within this region are many areas
+densely populated and well-travelled by starships.
+Others are backwaters or have never been more than
+superficially mapped.
+
+Outside the confines of a star system, some frame of
+reference is needed to indicate relative positions. By
+convention the following terms are used:
+
+The most prevalent sentient species in Charted Space is
+human, and the most powerful human state is the Third
+Imperium, although there are many other powers,
+great and small, along with independent worlds and
+political groups.
+
+Coreward refers to the direction towards the galactic core.
+Rimward is the opposite direction to coreward, towards
+the galactic rim.
+Spinward means in the direction in which the galaxy
+is rotating.
+Trailing is the opposite of spinward; away from the
+direction of galactic rotation.
+
+There are few areas about which absolutely everything
+is known and, even if an area had been properly
+explored, the data may not be publicly available or the
+public version may be entirely incorrect. There is still
+plenty to be discovered, even in the settled regions
+of Charted Space, and beyond the core areas many
+mysteries await discovery.
+
+Some Imperial citizens also use the term coreward to
+mean towards the Imperial heartworlds, literally the
+‘Imperial Core’. This usage is generally obvious from
+context. For example, it should be fairly obvious that a
+magazine called Coreward Gazette deals with matters
+in the Imperial central region and not the centre of the
+galaxy tens of thousands of light-years away.
+
+DIRECTIONS IN SPACE
+
+Distances
+
+Directions like north or southwest are meaningless in
+space. Within a star system, most objects move in orbit
+about the star or a planet and movement can be defined
+with reference to a suitable point. Most bodies in a star
+system orbit in the same general plane, known as the
+ecliptic. One direction at 90 degrees to the ecliptic is
+defined by convention as ‘system north’ or ‘up’ and the
+other as ‘system south’ or ‘down’.
+
+Concepts like metres and kilometres are inadequate
+for the vast distances in space. Over relatively short
+distances, such as in orbital space, thousands
+or millions of kilometres are used as a measure.
+Larger distances in-system are measured using the
+Astronomical Unit, or AU. This is based on the
+distance of Earth’s orbit from the Sun and is about
+160,000,000 km.
+
+Most movement within a system is defined in terms of
+going towards, or away from, a given body, usually the
+main world of the system or the star itself. The terms
+‘in-system’ (towards the inner planets of the system
+and the star) or ‘out-system’ (away from the star)
+are also used. These are rather general terms but as
+navigation in three dimensions, whether along an orbital
+path or a straight line, is a complex business they serve
+for casual conversation. Of course, starship astrogators
+produce rather more detailed course plots using highly
+advanced mathematics…
+
+The light-second is also used, defined as the distance
+light travels within a vacuum in one second. This is
+299,792,458 km, usually rounded to 300,000,000 km.
+One AU is 499 light-seconds.
+Over greater distances, still larger measures are needed.
+The light-year (the distance light travels in one standard
+Earth year) is sometimes used, equating to 63,241 AU.
+More commonly, the parsec (3.26 light-years) is used as
+this is the maximum distance that can be covered by a
+jump-1 capable starship.
+Most Traveller starmaps use a scale of 1 parsec to 1 hex.
+
+

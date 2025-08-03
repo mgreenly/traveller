@@ -1,0 +1,33 @@
+2
+
+1
+
+4
+8
+
+5
+
+6
+
+3
+
+5
+
+7
+DECK 2
+
+DECK 1
+
+LEGEND
+1. Bridge
+2. Sensors
+3. Airlock
+4. Stateroom
+5. Cargo hold
+6. Power plant
+7. Manoeuvre drive
+8. Fresher
+
+187
+
+

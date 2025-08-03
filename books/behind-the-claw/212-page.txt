@@ -1,0 +1,43 @@
+Built by the advanced shipyards of
+Vincennes, the Kehmed dreadnoughts
+represent the cutting edge of warship design
+within the spinward sectors of the Third
+Imperium. Each ship of the class is named
+after one of the metroplexes on Vincennes
+and they are a source of pride for many of
+the inhabitants of the system.
+Like the older Plankwell-class, the Kehmed
+is a traditional battleship with no troop
+contingent carried aboard. It is intended
+for a pure warfighting role, smashing the
+enemy battle line and moving on. Other
+ships can land marines or mop up whatever
+resistance remains; these highly advanced
+battlewagons are too expensive and too
+potent to be wasted on peacekeeping or
+insurgency suppression missions. The swing
+towards multirole capital ships was always
+controversial and it does seem that a return
+to specialist designs is the way forward.
+
+220,000
+HULL POINTS
+
+CREW
+CAPTAIN, PILOTS X 3, ASTROGATOR,
+OFFICERS X 515, MEDICS X 47,
+MAINTENANCE X 600, ENGINEERS X 1,732,
+GUNNERS X 2,440, ADMINISTRATORS X
+300, MARINES X 80
+
+RUNNING COSTS
+MAINTENANCE COST
+
+MCr28.233187/month
+
+PURCHASE COST
+MCr338798.248
+
+212
+
+

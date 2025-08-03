@@ -1,0 +1,91 @@
+understrength and contains mostly small or obsolescent
+vessels, its strength further diluted by the need to patrol
+District 268 and maintain a detachment there. The
+Sector Fleet also has a light presence in the subsector;
+the region is a long way from likely combat zones in a
+war with the Zhodani.
+There are four Amber Zones in Glisten and one world
+that, while not actually a Red Zone, has access strictly
+restricted. This is Mithras, an Imperial prison world.
+Environmental conditions are harsh, making survival
+outside the prison complex problematical at best.
+Although some prisoners are life-long exiles, there
+are separate areas for those serving long but finite
+sentences. The complex has a good rehabilitation
+record and a small, attached institution for the
+criminally insane.
+Egypt is a major training base for Colonial Office
+personnel. Originally set up for a large-scale move
+into District 268, the facility has supported several
+operations elsewhere and offers a retraining service for
+ex-Imperial service personnel seeking to make a new life
+on a frontier world.
+Glisten itself is named for the capital settlement in a
+system characterised by cities built in the two asteroid
+belts. Originally called Gliss Ten (Gliss being the name
+of the system’s star), Glisten City rose to become the
+system capital and eventually the administrative centre
+for the subsector. There are many other large cities
+throughout the system’s belts, most specialising in one
+aspect of industry or economic endeavour.
+
+KRVN
+Krvn are omnivorous and capable of burrowing through
+dense soil. Their nests contain dozens, perhaps hundreds,
+of workers and one or more large breeders which are rarely
+seen aboveground.
+ANIMAL
+Krvn
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+130
+
+HITS
+SPEED
+16
+8m
+Stealth 1
+Bite (1D)
+Armour (+2)
+Omnivore, Gatherer
+
+Marastan is an Imperial reserve world. Although access
+to the starport and associated city are unrestricted, only
+properly accredited academics are permitted access
+to the world at large, as Marastan is preserved as a
+showcase for plant and animal species collected by the
+Scout Service. Some of these are now extinct in their
+home environment but survive on Marastan in carefully
+segregated reserves.
+Other worlds of interest in the subsector include Romar,
+source of dust-spice, a narcotic valued by the Aslan,
+and Melior, whose population is about half Jonkeereen.
+Callia also has a significant Jonkeereen minority,
+numbering around a quarter of the total population.
+
+BICORNN
+
+Lying off the main trade routes, Bicornn is a low-tech
+world of no great importance. Its local population have
+a stable TL2 society but never progressed further. There
+is no reason why the locals could not develop their
+technological base but this would require enormous
+external investment before any returns were made. Few
+would consider the effort worthwhile even if it were
+not for the risks. Bicornn is heavily balkanised and its
+population are engaged in a war of survival against a
+burrowing arachnoid species known as Krvn. These
+creatures resemble the Chamax, a hugely destructive
+species found to spinward of the region, but are not
+thought to be related. However, the alarm caused by
+a possible connection with the Chamax sparked a
+research project that made the startling discovery that
+Krvn are present on a number of other worlds in quite
+distant regions. How this came to be is not yet apparent,
+although teams of Imperial researchers regularly risk
+their lives on Bicornn to find out.
+
+

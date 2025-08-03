@@ -1,0 +1,39 @@
+1
+
+2
+4
+
+10
+
+2
+
+5
+
+3
+
+6
+9
+8
+DECK 2
+
+7
+
+9
+5
+DECK 1
+
+LEGEND
+1. Bridge
+2. Sensors
+3. Airlock
+4. Staterooms
+5. Cargo hold
+6. Power plant
+7. Manoeuvre drive
+8. Acceleration seats
+9. Cabin space
+10. Fresher
+
+189
+
+

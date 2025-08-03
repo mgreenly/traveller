@@ -1,0 +1,267 @@
+D E N E B - S U B S E C T O R
+
+K
+
+&
+
+L
+
+USANI AND GENIISHIR
+Name
+Amshal
+Arcanum
+Avernus
+Ayers
+Azed Bek
+Bisistra
+Bruyere
+Byblos
+Deneb
+Eshamlii
+Exile
+Farraco
+Gatooma
+Hysyl
+Liran
+Minocoy
+Monogan
+Nusukha
+Nyassl
+Prefecture
+Redemption
+Revoc
+Rolvaag
+Ronsard
+Sage
+Tetzel
+Thussar Ozoam
+Turkoman
+Usani
+Woaros
+
+Location
+1926
+2126
+2027
+2424
+2323
+1829
+2023
+2223
+1925
+1826
+1928
+1824
+1730
+2425
+1923
+2024
+1728
+2127
+2028
+1827
+1722
+2224
+1821
+1830
+2322
+1823
+1927
+1930
+2225
+1726
+
+Bases
+N
+
+Name
+Exotrope
+Geniishir
+Maelstrom
+Newpenton
+
+Location
+2523
+2521
+2522
+2721
+
+Bases
+S
+N
+
+S
+S
+N
+S
+S
+N
+S
+
+S
+N
+
+N
+
+S
+S
+N
+
+NS
+
+Statistics
+B687365-9
+X434868-6
+E8865A6-4
+C430668-A
+C766300-A
+B557579-B
+C544767-5
+C6738BD-7
+B537ADD-C
+A434343-B
+X799212-5
+E200478-9
+E100566-7
+C5407A9-7
+B0008B8-A
+B422505-D
+E10056A-8
+E310100-7
+B300653-D
+E4307B6-8
+E540634-5
+C9AA577-A
+E580345-7
+DA89654-8
+D563310-7
+B643232-B
+X545101-5
+B9C67CB-9
+A552699-C
+X747678-5
+
+Trade Codes
+Lo
+
+Gas Giants
+G
+
+Hi
+Lo
+Lo
+Ni Va
+Ni Va
+De Po
+As Na Va
+He Ni Po
+Ni Va
+Lo
+Na Ni Va
+De Na Po
+De Ni Po
+Fl Ni
+De Lo
+Ni Ri
+Lo
+Lo Po
+Lo
+Fl
+Ni Po
+Ag Ni Fo
+
+Travel Code Allegiance
+Imperium
+R
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+A
+Imperium
+A
+Imperium
+Imperium
+R
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+A
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+A
+Imperium
+R
+Imperium
+A
+Imperium
+Imperium
+R
+Imperium
+
+Statistics
+D300674-7
+A310123-D
+B79A855-D
+C595321-9
+
+Trade Codes
+Na Ni Va
+Lo
+Wa
+Lo
+
+Travel Code Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+
+Ag Ni Ga
+De Na Ni Po
+Lo Ga
+Ag Ni
+Ag
+
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

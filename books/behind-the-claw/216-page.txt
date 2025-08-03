@@ -1,0 +1,247 @@
+D E N E B - S U B S E C T O R
+
+A
+
+PRETORIA
+The Pretoria subsector contains 31 star systems, of
+which all but three are Imperial territory. The Imperial
+Coreward border runs diagonally across the subsector,
+with a mix of primarily human and Vargr worlds beyond.
+This border has traditionally been troubled, with the
+tumultuous politics of the Vargr Extents spilling into
+Imperial territory.
+Name
+New Ramma
+Marz
+Carthage
+Enaaka
+Rubrak
+Teh
+Kretikaa
+Kiiga
+Riacon
+Saki
+Horizon
+Gessert
+Miwald
+Pretoria
+L’sis
+El D’Nah
+Spectre
+Ash
+Caladib
+Redi
+Gra-Bie
+Kirklend
+Carmel
+Urnas
+Taa
+Dilex
+Hylaxis
+Naali
+Retion
+Jode
+Therm
+
+Location
+0108
+0201
+0202
+0203
+0207
+0208
+0209
+0303
+0304
+0306
+0310
+0403
+0404
+0406
+0409
+0502
+0503
+0504
+0508
+0509
+0510
+0602
+0604
+0609
+0701
+0702
+0709
+0710
+0803
+0805
+0809
+
+Bases
+S
+S
+
+S
+S
+
+N
+
+S
+NS
+N
+
+S
+N
+
+N
+S
+
+S
+
+S
+
+Statistics
+D565540-6
+A584985-A
+B3107B9-C
+B777786-6
+C554511-7
+D563136-5
+B20057B-C
+D530624-7
+B666441-8
+D576642-6
+E310725-8
+C554315-9
+C53349B-A
+B656967-C
+A764896-8
+C549456-B
+B100654-A
+A540887-8
+B697222-9
+E575565-5
+C43027B-9
+A668443-A
+B546441-9
+D420974-A
+A651643-9
+D626888-7
+B7B2354-A
+C61657A-8
+C558445-5
+A9A6683-B
+D9B4489-8
+
+Even when there is no large-scale problem to disrupt
+the Coreward end of Pretoria, corsair raids and minor
+disputes are common. These do not originate exclusively
+from coreward; neighbouring Aramis subsector in the
+Spinward Marches provides a route into Pretoria for
+raiders and troublemakers, as do the unaligned worlds of
+Lamas, to trailing.
+
+Trade Codes
+Ag Ni
+Hi
+Na
+Ag
+Ag Ni
+Lo
+Ni Va
+De Na Ni Po
+Ni Ga
+Ag Ni
+Na
+Lo
+Ni Po
+Hi Ga
+Ri
+Ni
+Na Ni Va
+De He Po
+Lo
+Ag Ni
+De Lo Po
+Ni Pa
+Ni Pa
+De Hi In Na Po
+Ni Po
+Fl Lo
+Ic Ni
+Ni
+Fl Ni
+Fl Ni
+
+Travel Code
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+G
+G
+G
+G
+G
+
+

@@ -1,0 +1,272 @@
+SPINWARDS MARCHES-SUBSECTOR E
+
+QUERION
+
+Querion lies entirely outside of the Imperium. Most of
+the subsector is claimed by the Zhodani Consulate as
+an area of interest, although if expansion into the area
+was desired it would have been carried out long ago.
+Much of this territory was gained at the end of the Third
+Frontier War.
+
+The remainder of the subsector is mostly neutral, although
+the Entropic Worlds (Winston, Entrope and Anselhome)
+are claimed by both the Sword Worlds and Darrian
+Confederations. They are, at present, held by the Sword
+Worlds, having been conquered in the Fourth Frontier War.
+The Imperium set up Research Station Delta at Retinae
+when that world was part of the Imperium and has since
+maintained it as an Imperial possession on an otherwise
+neutral planet. It is connected to the Imperium by
+way of a naval courier route through Thanber and
+administered from Frenzie in the Vilis subsector.
+
+Six worlds in the subsector are formally part of the
+Consulate and linked to it via a narrow strip of territory
+running coreward through the Cronor subsector. The
+Zhodani naval bases at Rapp’s World and Querion
+represent the most rimward Zhodani possessions in
+the Marches.
+Name
+
+Location
+
+Anselhome
+
+Bases
+
+Statistics
+
+Trade Codes
+
+0820
+
+C310588-8
+
+Asmodeus
+
+0512
+
+Atson
+
+Allegiance
+
+Gas Giants
+
+Ni
+
+Sword Worlds
+
+G
+
+E596400-5
+
+Ni
+
+Consulate
+
+G
+
+0111
+
+B310598-8
+
+Ni
+
+Attica
+
+0414
+
+C400546-8
+
+Ni Va
+
+Bael
+
+0218
+
+E200100-8
+
+Lo Va
+
+Dekalb
+
+0618
+
+EA8A799-6
+
+Ri Wa
+
+Entrope
+
+0720
+
+E436AAA-B
+
+Hi
+
+Faisal
+
+0518
+
+D545436-5
+
+Ni
+
+Imperium
+
+Lebeau
+
+0613
+
+B869554-C
+
+Ni
+
+Consulate
+
+Mizan-fel
+
+0311
+
+B56258A-8
+
+Ni
+
+Prinx
+
+0212
+
+C436635-6
+
+Ni
+
+Querion
+
+0614
+
+ZM
+
+B554788-9
+
+Ag
+
+Consulate
+
+G
+
+Rapp’s World
+
+0712
+
+M
+
+C592320-8
+
+He Lo
+
+Consulate
+
+G
+
+Retinae
+
+0416
+
+E8C69AA-9
+
+Fl Hi In
+
+Rushu
+
+0215
+
+E766674-4
+
+Ag Ni Ga Ri
+
+Consulate
+
+G
+
+Sansibar
+
+0412
+
+B200310-A
+
+Lo Va
+
+Consulate
+
+G
+
+Terra Nova
+
+0511
+
+C786342-9
+
+Lo Ga
+
+Consulate
+
+G
+
+Thanber
+
+0717
+
+B543653-C
+
+Ni Po
+
+Imperium
+
+Winston
+
+0620
+
+E887573-6
+
+Ag Ni Ga
+
+Sword Worlds
+
+Xhosa
+
+0115
+
+EA95124-5
+
+Lo
+
+Yiktor
+
+0114
+
+C6B6431-A
+
+Fl Ni
+
+ZM
+
+Travel Code
+
+G
+G
+Imperium
+A
+
+Sword Worlds
+G
+G
+
+A
+
+Imperium
+
+G
+G
+
+

@@ -1,0 +1,40 @@
+Introduction: 2
+Charted Space: 4
+
+### The Spinward Marches: 9
+*   Cronor Subsector: 16
+*   Jewell Subsector: 28
+*   Regina Subsector: 40
+*   Aramis Subsector: 52
+*   Querion Subsector: 64
+*   Vilis Subsector: 76
+*   Lanth Subsector: 88
+*   Rhylanor Subsector: 100
+*   Darrian Subsector: 112
+*   Sword Worlds Subsector: 124
+*   Five Sisters Subsector: 136
+*   Glisten Subsector: 148
+*   Tigress Subsector: 160
+*   Collace Subsector: 172
+*   District 268 Subsector: 184
+*   Foreven Subsector: 196
+
+### Deneb: 208
+*   Corridor Subsector: 212
+*   Reft Subsector: 224
+*   Star Lane Subsector: 236
+*   Vincennes Subsector: 248
+*   Sabine Subsector: 260
+*   Inar Subsector: 272
+*   Usani Subsector: 284
+*   Atsah Subsector: 296
+*   Gudgik Subsector: 308
+*   Antra Subsector: 320
+*   Khouth Subsector: 332
+*   Million Subsector: 344
+*   Zarushagar Subsector: 356
+*   Tlaiowaha Subsector: 368
+*   Provence Subsector: 380
+*   Joy-e-use Subsector: 392
+
+Index: 404

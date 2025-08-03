@@ -1,0 +1,50 @@
+1
+4
+
+2
+
+15
+6
+
+DECK 4
+3
+
+1
+7
+
+8
+DECK 3
+
+9
+10
+
+11
+12
+
+2
+13
+DECK 2
+
+DECK 1
+14
+
+LEGEND
+1. Bridge
+2. Manoeuvre drive
+3. Cargo hold
+4. Crane
+5. Airlock
+6. Sensors
+7. Staterooms
+8. Common area
+9. Low berths
+10. Fuel processor
+11. Jump drive
+12. Power plant
+13. Docking space
+14. Double turret
+15. Cargo scoop
+
+171
+
+

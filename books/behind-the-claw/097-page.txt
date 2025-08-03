@@ -1,0 +1,107 @@
+prospect for rescue if something goes wrong and they
+all have jobs to do at the port.
+Exploration teams have surveyed the world,
+sometimes working out of the port, often reporting
+an unusual phenomenon known as the ephemeral
+glade. Mithril is normally very cold and its ecosystem
+has developed to take maximum advantage of short
+periods of above-zero temperatures. During these
+very brief warm periods (warm by Mithril’s standards
+means a degree or so above freezing), an ephemeral
+glade may spring up, an area of plant life that grows
+from the thawing soil at incredible speed. Within
+a few hours, an area of grass-like plants up to 2-3
+metres high can spring up.
+Glades tend to be 2-3 kilometres across and rapidly
+attract animals from the surrounding area, drawn to
+the readily available food and shelter of the glade.
+Once the temperature drops below freezing, the
+plants die rapidly and the animals depart after a last
+frenzy of feeding on the dying glade’s bounty.
+Among the animals attracted to a glade are
+Calamanders, scaly burrowing creatures with a
+complex society. Each group is centred on a female
+who bears young and seems to be the ‘queen’ of the
+group. She resides in a burrow that she rarely leaves,
+attended by several drone males. A third gender,
+referred to as a protector, digs tunnels, forages for
+food and, as the name suggests, fiercely protects the
+burrow. They are amphibious and prone to scavenge
+for food or shiny objects that they take back to the
+female, perhaps as gifts or trophies.
+
+ANIMAL
+Calamander
+Female
+
+HITS
+12
+
+SPEED
+2m
+
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+Melee 0
+Bite (1D)
+Slow Metabolism (-2)
+Omnivore, Intermittent
+
+ANIMAL
+Calamander
+Male
+
+HITS
+8
+
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+Melee (natural) 1, Recon 1, Survival 1
+Bite (1D)
+Amphibious
+Omnivore, Intermittent
+
+ANIMAL
+Calamander
+Protector
+
+HITS
+14
+
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+Melee (natural) 2, Recon 2, Survival 1
+Bite (1D)
+Amphibious, Armour (+2)
+Omnivore, Intermittent
+
+SPEED
+8m
+
+SPEED
+2m
+
+Crystallice are another creature native to Mithril and
+are, at best, a nuisance. They are tiny insect-like
+creatures that, even close up, resemble ice crystals.
+They lie on the surface of snow or ice and attach
+themselves to passing creatures, chewing through
+clothing to reach exposed skin. At this point, they
+begin to burrow into the dermis, causing extreme
+pain and often considerable bleeding. Crystallice
+infestation can be fatal and best countered by
+picking the crystallice off before they burrow under
+the skin.
+
+97
+
+

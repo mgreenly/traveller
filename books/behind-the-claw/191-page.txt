@@ -1,0 +1,35 @@
+1
+
+2
+9
+4
+5
+
+2
+3
+
+6
+
+6
+
+7
+
+8
+DECK 2
+
+DECK 1 - FUEL ONLY
+
+LEGEND
+1. Bridge
+2. Sensors
+3. Airlock
+4. Fresher
+5. Fuel processor
+6. Fuel tanks
+7. Power plant
+8. Manoeuvre drive
+9. Stateroom
+
+191
+
+

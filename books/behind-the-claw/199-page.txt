@@ -1,0 +1,78 @@
+800
+HULL POINTS
+
+CREW
+CAPTAIN, PILOTS X 2, ASTROGATOR,
+OFFICERS X 3, MEDIC, MAINTENANCE X 2,
+ENGINEERS X 9, GUNNERS X 21,
+MARINES X 40
+
+The Imperial Navy does not make much
+use of frigate or, more accurately, considers
+vessels that others might call frigates to be
+a subset of destroyer escorts. Most frigates
+within the Imperium are in the hands of
+private (non-Imperial Navy) users such as
+world governments, corporations or noble
+houses. Some examples of the Sydkai-class
+are operated by the Deneb Sector fleet but
+there are far more ships of this class outside
+the navy than serving within it.
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr115875/month
+
+PURCHASE COST
+MCr1390.5
+
+Power Requirements
+600
+
+400
+
+16
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+600
+
+10
+
+222
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+20
+
+The Sydkai is designed as a patrol vessel,
+with good endurance to allow it to remain
+on-station for extended periods or make a
+long sweep through backwater systems. It
+is lightly armoured, with sufficient firepower
+to overwhelm a corsair or raider before
+serious damage is sustained. The design
+is new, having been offered by the GSbAG
+since 1000 but has demonstrated high
+capabilities in its intended role. Vessels
+of this class can be encountered in the
+private navies of the great nobility or
+occasionally headed across the border to
+investigate rumours of a corsair base.
+
+SCREENS
+
+199
+
+

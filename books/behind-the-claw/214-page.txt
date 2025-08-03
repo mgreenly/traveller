@@ -1,0 +1,33 @@
+7
+
+1
+
+6
+
+9
+7
+2
+
+10
+
+8
+9
+
+11
+8
+
+1
+
+12
+
+6. Fusion barbettes
+7. Small missile bays
+8. Large torpedo bays
+9. Medium particle beam bays
+10. Power plant
+11. Manoeuvre drive
+12. Spinal mount machinery
+
+214
+
+

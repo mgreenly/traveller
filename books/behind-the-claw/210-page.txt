@@ -1,0 +1,144 @@
+KEHMED-CLASS DREADNOUGHT
+TL16
+Hull
+
+Armour
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+
+Weapons
+
+Ammunition
+Screens
+
+Systems
+
+210
+
+300,000 tons, Standard
+Radiation Shielding
+Reinforced
+Stealth
+Molecular Bonded, Armour 20
+Thrust 6 (size reduction x 3)
+Jump 4 (decreased fuel x 3)
+Fusion (TL15), Power 400,000, size
+reduction
+J-4, 24 weeks of operation plus small craft
+Holographic Controls
+Command, Holographic Controls
+Core/110/fib
+Core/100/fib
+Superior, Rapid Deployment Extended Array
+Enhanced Signal Processing
+Advanced Countermeasures Suite
+Life Scanner
+Shallow Penetration Suite
+Sensor Stations x 12
+Spinal Mount (meson, TL15, 20DD)
+Large Torpedo Bays (size reduction x 3) x 10
+Medium Particle Beam Bays (size reduction x
+3) x 150
+Small Missile Bays (size reduction x 3) x 100
+Fusion Barbettes (accurate, high yield) x 600
+Point Defence Batteries (type III, size
+reduction x 2) x 50
+Missile Storage (8,160 missiles)
+Torpedo Storage (2,700 torpedoes)
+Black Globe Generator (capacitors 6,000
+tons)
+Meson Screens (size reduction x 3) x 10
+Nuclear Dampers (size reduction x 3) x 20
+Fuel Processor (50,000 tons/day)
+Repair Drones
+Docking Clamp (type V)
+Armoury
+Briefing Rooms x 12
+Full Hangar (1,000 tons)
+Launch Tube (50 tons)
+
+TONS
+
+COST (MCR)
+
+30000
+12600
+30005
+18000
+
+15000
+7500
+7500
+30000
+45000
+54000
+67511.25
+60000
+
+102108
+60
+80
+24
+2
+20
+1
+10
+12
+60000
+3500
+10500
+
+1875
+2812.5
+225
+195
+42
+8
+40
+2
+5
+6
+26000
+450
+9000
+
+3500
+3000
+800
+
+1800
+3600
+1500
+
+680
+900
+50
+
+100
+
+70
+140
+2500
+3000
+50
+241
+48
+2000
+500
+
+300
+300
+125
+600
+8
+60.25
+6
+400
+250
+
+

@@ -1,0 +1,49 @@
+12
+
+LEGEND
+1. Sensors
+2. Countermeasures suite
+3. Bridge
+4. Forced linkage apparatus
+5. Emergency low berths
+6. Common area
+7. Staterooms
+
+2
+3
+
+4
+
+6
+5
+
+11
+7
+
+8
+11
+9
+12
+DECK 2
+14
+
+13
+
+10
+DECK 1
+
+54
+
+13
+
+8. Power plant
+9. Manoeuvre drive
+10. Jump drive
+11. Triple turrets (pulse lasers)
+12. Triple turrets (missile racks)
+13. Cargo hold
+14. Docking space
+
+1
+
+

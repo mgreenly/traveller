@@ -1,0 +1,167 @@
+SLEIPNIR-CLASS PATROLLER
+TL11
+Hull
+Armour
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+
+Weapons
+
+Ammunition
+Systems
+Staterooms
+
+Software
+
+Cargo
+
+TONS COST (MCR)
+300 tons, Standard
+Crystaliron, Armour 8
+Thrust 3
+Jump 2
+Fusion (TL8), Power
+160
+J-2, 4 weeks of
+operation
+Small
+Computer 5/bis /fib
+Military Grade
+Improved Signal
+Processing
+Small Missile Bay
+Fixed Mount (missile
+rack)
+Double Turret
+(sandcasters)
+Missiles x 120
+Armoury
+Standard x 6
+Low Berths x 2
+Barracks (6 marines) *
+Manoeuvre/0
+Jump Control/2
+Library
+Fire Control/2
+
+30
+9
+65
+16
+
+15
+6
+18
+97.5
+8
+
+62
+
+-
+
+10
+2
+1
+
+0.75
+0.06
+4.1
+4
+
+50
+-
+
+25
+0.85
+
+1
+
+1
+
+10
+2
+24
+1
+6
+1
+
+0.5
+3
+0.1
+0.3
+0.2
+4
+-
+
+TOTAL: MCR188.36
+
+120
+HULL POINTS
+94
+
+* Note that Sword Worlds ships usually have cramped barracks that
+can effectively hold twice as many marines for the same cost.
+
+CREW
+CAPTAIN, PILOT, ASTROGATOR,
+ENGINEERS X 3, MEDIC,
+GUNNERS X 3, MARINES X 6
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr15696/month
+
+PURCHASE COST
+MCr188.36
+
+Power RequirEments
+90
+
+60
+
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+60
+
+3
+
+6
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+The Confederation has dozens of these
+ships in tours around the subsector at all
+times, their sensors sweeping for threats.
+When enemies are found, the Sleipnir is
+a more than capable small-engagement
+vessel that can handle auxiliary craft and
+small warships – even Imperial ones.
+There is little comfort inside these ships,
+especially when conscripted to hold
+marines or kommandos under the low
+ceiling and amidst crash-webbing and
+storage racks. It is not used for full-scale
+battles against battlecruisers or other
+massive foes but can hold its own against
+more common threats stumbled upon
+during patrols.
+
+

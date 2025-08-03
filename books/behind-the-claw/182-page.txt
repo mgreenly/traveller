@@ -1,0 +1,102 @@
+TUKERA VENTURER-CLASS FAST FREIGHTLINER
+TL12
+Hull
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+Systems
+
+Staterooms
+Software
+
+2,400 tons, Standard
+Thrust 2
+Jump 2
+Fusion (TL12), Power 1,800
+2 J-2, plus 12 weeks of operation
+Computer/20
+Civilian Grade
+Dual Turrets (pulse lasers) x4
+Fuel Scoops
+Fuel Processor (300 tons/day)
+Medical Bay
+Library
+Briefing Rooms x2
+Docking Cradles (100 tons) x8
+Additional Airlock x3
+Standard x 48
+High x 8
+Manoeuvre/0
+Jump Control/2
+Library
+Intellect
+Anti-Hijack/3
+
+Common Areas
+Cargo
+
+TOTAL: MCR 7237
+
+182
+
+TONS
+
+COST (MCR)
+
+–
+64
+165
+120
+1,316
+60
+–
+1
+10
+–
+15
+4
+4
+8
+880
+6
+192
+48
+–
+–
+–
+–
+–
+250
+57
+
+120
+128
+247.5
+120
+12
+5
+3
+4
+1
+0.75
+2
+4
+1
+8.25
+0.6
+24
+6.4
+–
+0.2
+–
+1
+10
+25
+–
+
+

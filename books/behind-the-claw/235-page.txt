@@ -1,0 +1,37 @@
+10. Common area
+11. Brigs
+12. Concealed compartment
+13. Grappling arms
+14. Torpedo magazine
+15. Fuel tanks
+16. Cargo crane
+17. Fuel processor
+
+14
+13
+3
+15
+
+12
+
+11
+11
+17
+
+13
+3
+
+10
+5
+6
+16
+15
+
+8
+9
+17
+DECK 1
+
+235
+
+

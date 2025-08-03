@@ -1,0 +1,106 @@
+FEL ARMED MERCHANT
+TL10
+Hull
+Armour
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+Ammunition
+Systems
+
+Staterooms
+Software
+
+500 tons, Standard, Reinforced
+Crystalliron, 2 points
+Thrust 3
+Jump 1
+Fusion (TL8), power 350
+J-1 x 2, 8 weeks of operation
+Standard
+Computer/10
+Military
+Triple Turrets (pulse lasers) x2
+Torpedo Barbettes x 3
+Torpedo Magazine (54 torpedoes)
+Cargo Crane
+Breaching Tube
+Grappling Arms x2
+Additional Airlock
+Concealed Compartment
+Fuel Processor (100 tons/day)
+Brigs x2
+Armouries x5
+Standard x 10
+Manoeuvre/0
+Library
+
+Common Areas
+Cargo
+
+TOTAL: MCR 159.61
+
+232
+
+TONS
+
+COST (MCR)
+
+–
+12.5
+15
+17.5
+35
+107
+20
+–
+2
+2
+15
+18
+4
+3
+4
+2
+20
+5
+8
+5
+40
+–
+–
+20
+147
+
+37.5
+6
+30
+26.25
+17.5
+–
+2.5
+0.16
+4.1
+8
+9
+–
+4
+3
+2
+0.2
+0.4
+0.25
+0.5
+1.25
+5
+–
+–
+2
+–
+
+

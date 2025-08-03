@@ -1,0 +1,247 @@
+S P I N W A R D S
+
+M A R C H E S - S U B S E C T O R
+
+TRIN’S VEIL
+
+Trin’s Veil gets its name from the reflective debris cloud
+that surrounds Trin, the subsector capital. This is the
+remains of a shattered moon and makes the night sky
+on Trin a glorious sight. It also interferes with navigation
+close to the world.
+
+Name
+Aramis
+Burtson
+Chamois
+Conway
+D’Mara
+Dobham
+Dodds
+Edenelt
+Farquahar
+Hammermium
+Hazel
+Katarulu
+Keltchner
+Leander
+Murchison
+Pepernium
+Prilissa
+Pyramus
+Ramiva
+Raydrad
+Robin
+Squanine
+Tee-Tee-Tee
+Tenelphi
+Thisbe
+Thornnastor
+Traltha
+Trin
+Tussinian
+Youghal
+Zephyr
+Zyra
+
+Location
+2540
+2534
+3139
+2735
+2638
+2537
+2739
+2733
+2839
+2936
+3236
+3032
+2639
+2832
+2935
+2833
+3035
+2538
+3233
+2933
+2637
+2536
+3038
+3040
+2539
+2940
+2834
+3235
+2731
+3039
+3138
+2934
+
+Bases
+
+S
+S
+S
+S
+S
+
+NW
+
+N
+
+S
+S
+NS
+
+Statistics
+B659772-6
+C562667-8
+B544642-5
+D894586-7
+E75A798-5
+A550457-A
+C5439DF-7
+A5638BD-B
+C625543-7
+A5525AB-B
+C645747-5
+B552665-B
+C525567-9
+E695244-5
+B544433-6
+D567530-3
+B985588-6
+E566335-2
+B3107A7-8
+E99467A-6
+C00059C-C
+A300550-B
+C310530-9
+D76A579-9
+E4305AD-6
+D534443-8
+B590630-6
+A894A96-F
+B678324-7
+AA95345-B
+C89556A-5
+B555448-7
+
+P
+
+The subsector is entirely within the Imperium and
+backs onto the Gulf subsector of Deneb. Although the
+Spinward Main does not run through Trin’s Veil, a jump2 ship can connect to it at Hexos (in Mora) or Bendor (in
+Glisten) after a simple transit via the Palique, Katarulu
+
+Trade Codes
+Ni Ri
+Ag Ni
+Ag Ni
+Wa
+De Ni Po
+Hi In Po
+Ri
+Ni
+Ni Po
+Ag
+Ni Po
+Ni
+Lo
+Ni
+Ag Ni
+Ag Ni
+Lo
+Na Pi
+Ag Ni
+As Ni Va
+Ni Va
+Ni
+Ni Wa
+De Ni Po
+Ni
+De Ni
+Hi In
+Lo
+Lo
+Ag Ni
+Ni
+
+Travel Code
+
+A
+A
+A
+A
+
+A
+
+A
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

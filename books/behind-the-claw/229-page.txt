@@ -1,0 +1,194 @@
+D E N E B - S U B S E C T O R
+
+D
+
+MILLION
+Eleven of the Million subsector’s twenty-two star
+systems lie within the Imperial border, most part of a
+central chain running out of the Imperium to coreward.
+At the rimward end of the chain lies Taproban, which
+acts as a trade hub for worlds to coreward.
+The astrography of Million, along with its proximity
+to Vargr states, made colonisation and subsequent
+economic expansion a difficult proposition.
+Communication with the Khouth subsector in Corridor
+requires jump-3 vessels, or a long jump-2 transit to
+rimward or outside Imperial space to coreward. The
+x-boat route running along the border from Khouth
+ensures that data travels quickly but goods and
+commercial ships tend not to enter the subsector from
+that direction.
+
+Name
+495-524
+Aerfor
+Akkip
+Arleshanu
+Crozat
+Fel
+Fosfog
+Gabrael
+Goukhsar
+Hammand
+Ikhaba
+Metare
+Moskene
+Nurara
+Olokono
+Oluk Dzas
+Talon
+Taproban
+Tensas
+Tubb
+Unekh
+Wyn
+
+Location
+2802
+3104
+2804
+3005
+2910
+2904
+2702
+2807
+3201
+2907
+2905
+2903
+2506
+2906
+3110
+3004
+2704
+3008
+2810
+2502
+2603
+2908
+
+Bases
+
+N
+
+S
+
+CN
+N
+
+Statistics
+D785300-4
+A584520-D
+C5426B7-8
+A562333-D
+C410424-7
+A7A7898-A
+A57559C-9
+A573646-C
+C563224-5
+E736132-6
+C675512-8
+A42465A-E
+E200101-A
+C5A5422-A
+E6A5211-8
+B563521-7
+C543976-A
+B8A8787-B
+C556550-6
+C89A799-9
+C20088B-7
+C546444-5
+
+Communications with Antra, to spinward, are equally
+difficult, making Vargr worlds to coreward the best
+trading partners for the central worlds of Million.
+Politics does not always permit this however, so the
+most reliable markets are found to rimward, in Atsah.
+Indeed, Million is to a great extent an extension of
+Atsah and not a very important one at that; although
+Million has a subsector administration of sorts, most
+policy decisions are made on Atsah and there is a long
+history of putting Million a distant second. As a result,
+raw materials and low-value goods flow rimward, with
+industrial and luxury items imported into Million at
+premium prices. This has further stunted the economic
+growth of the region and ensured its economies remain
+dependent on those of Atsah.
+
+Trade Codes
+Lo Ga
+Ag Ni
+Ni Po
+Lo
+Ni
+Fl
+Ag Ni
+Ni
+Lo
+Lo
+Ag Ni
+Ni
+Lo Va
+Fl Ni
+Fl Lo
+Ni
+Hi In Po
+Fl
+Ag Ni
+Wa
+Na Va
+Ni
+
+Travel Code
+
+Allegiance
+Imperium
+
+A
+
+A
+A
+
+A
+
+Imperium
+Imperium
+Vargr
+Vargr
+Imperium
+Vargr
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Vargr
+Vargr
+Imperium
+Imperium
+Vargr
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

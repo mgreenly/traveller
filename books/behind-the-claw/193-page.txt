@@ -1,0 +1,41 @@
+1
+
+2
+4
+6
+
+5
+2
+3
+
+7
+
+9
+
+10
+8
+11
+
+DECK 2
+
+12
+
+DECK 1
+
+LEGEND
+1. Bridge
+2. Sensors
+3. Airlock
+4. Triple turret
+5. Armoured bulkhead
+6. Stateroom
+7. Cabin space
+8. Secure cargo space
+9. Fresher
+10. Power plant
+11. Manoeuvre drive
+12. Cargo hold
+
+193
+
+

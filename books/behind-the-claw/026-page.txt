@@ -1,0 +1,315 @@
+SPINWARDS MARCHES-SUBSECTOR A
+
+CRONOR
+
+There are 24 star systems in the Cronor Subsector, of
+which only one, Quar, is a member of the Imperium.
+Quar is the site of both an Imperial Navy and Scout
+Service base even though it is situated within Zhodani
+territory, a curious situation that came about as a result
+of treaty negotiations at the end of the Frontier Wars.
+Although there is no subsector fleet, the base at Quar
+is heavily defended. In peacetime, it is home to a small
+flotilla of patrol ships that operate in neutral space and
+some intelligence-gathering vessels. In wartime, the
+base would probably be used as a forward staging post if
+it were not quickly eliminated.
+Name
+
+Location
+
+Algebaster
+
+0605
+
+Atsa
+
+0307
+
+Cantrel
+
+0104
+
+Chronor
+
+0304
+
+Cipango
+
+0705
+
+Enlas-du
+
+0601
+
+Errere
+
+0103
+
+Frond
+
+0810
+
+Gesentown
+
+0303
+
+Gyomar
+
+Bases
+
+The rest of the subsector is either controlled by the
+Zhodani Consulate or neutral. The neutral worlds are
+variously influenced by Imperial and Zhodani policies
+and sometimes a battleground for overt political
+manoeuvring or covert action by agents of both sides.
+Trade ships from the Imperium and Consulate are also
+active among these worlds.
+Astrographically, there are two main clusters of worlds
+in the subsector. The five worlds centred on Cipango are
+easier to reach from Imperial space than from Consulate
+holdings in the subsector, as this requires a jump-3
+
+Statistics
+
+Trade Codes
+
+C665658-9
+
+Ag Ni Ga Ri
+
+B4337CA-A
+
+Na Po
+
+C566243-9
+
+Lo
+
+Consulate
+
+ZM
+
+A6369A5-D
+
+Hi
+
+Consulate
+
+G
+
+ZM
+
+A886865-C
+
+Ga Ri
+
+Consulate
+
+G
+
+E975776-6
+
+Ag Pi
+
+B563664-B
+
+Ni Ri
+
+Consulate
+
+E9C3300-9
+
+Fl Lo
+
+Imperium
+
+G
+
+B31169B-C
+
+Ic Na Ni
+
+Consulate
+
+G
+
+0108
+
+C8B2889-8
+
+Fl
+
+Indo
+
+0703
+
+E434662-6
+
+Ni
+
+Narval
+
+0805
+
+D525688-7
+
+Ni
+
+Nerewhon
+
+0704
+
+E738475-7
+
+Ni
+
+Ninjar
+
+0608
+
+A311666-C
+
+Ic Na Ni
+
+Plaven
+
+0807
+
+E845300-5
+
+Lo
+
+Quar
+
+0808
+
+B532720-B
+
+Na Po
+
+Rasatt
+
+0607
+
+E883401-7
+
+Ni
+
+Reno
+
+0102
+
+C4207B9-A
+
+De Na Po
+
+Rio
+
+0301
+
+C686648-8
+
+Ag Ni Ga Ri
+
+Sheyou
+
+0610
+
+B756779-A
+
+Ag Ga
+
+Stave
+
+0710
+
+E7667A8-2
+
+Ag Ga Ri
+
+Thengo
+
+0202
+
+C868586-5
+
+Ag Ni
+
+Whenge
+
+0503
+
+D648500-8
+
+Ag Ni
+
+Zeycude
+
+0101
+
+C430698-9
+
+De Na Ni Po
+
+ZM
+
+ZM
+ZM
+
+M
+ZM
+N
+
+ZM
+
+Travel Code
+
+Allegiance
+
+A
+
+Consulate
+
+Gas Giants
+
+G
+
+A
+
+G
+A
+
+Consulate
+
+G
+
+Consulate
+G
+A
+
+Imperium
+
+G
+
+A
+
+Consulate
+
+G
+G
+
+Consulate
+
+G
+G
+
+Consulate
+
+G
+
+Consulate
+
+G
+
+

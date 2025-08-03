@@ -1,0 +1,211 @@
+D E N E B - S U B S E C T O R
+
+GULF
+
+The Gulf is characterised by small clusters of star
+systems with easy jump-2 navigation across the
+subsector. It has no subsector duke and is generally
+thought of as a protectorate of Trin in the Spinward
+Marches. Unfortunately, Trin’s interests extend only to
+the nearest worlds; the trailing parts of the subsector
+are largely ignored. Similarly, Vincennes exerts influence
+over the coreward-trailing worlds but gives little priority
+to the rest of the subsector.
+This does not mean that Gulf is a dangerous frontier,
+of course. It is more accurate to describe it as an
+underdeveloped backwater where the influence of three
+duchies meet but none are particularly strong. This
+means that powerplays tend to be on a small scale and
+typically considered of low importance. Gulf is a place
+where other interests can come to the fore, at least
+locally, without being crushed by the subsector duke.
+
+Name
+Aosta
+Beaxon
+Briaxis
+Brufort
+Endup
+Furens
+Inkekush
+Iruku
+Kiangya
+Maricutin
+Mephit
+Mtensc
+Noghon
+Nouakchat
+Preslin
+Qevar
+Raguseppe
+Saguenay
+Taman
+Taomina
+Tuwayk
+Upuraku
+Zyedl
+
+Location
+0332
+0439
+0531
+0638
+0436
+0334
+0233
+0138
+0735
+0534
+0833
+0740
+0440
+0238
+0633
+0731
+0734
+0235
+0237
+0737
+0339
+0336
+0431
+
+Bases
+
+N
+S
+N
+S
+
+S
+N
+NS
+N
+
+W
+
+Statistics
+A669236-C
+D88AA99-C
+C420445-B
+C669642-6
+D6939EG-8
+C8A9698-A
+A540548-D
+B31048A-9
+C7C2200-B
+B764102-A
+C9B8436-8
+D551454-8
+D79798B-8
+C532114-6
+B430679-C
+A4326AE-E
+B410555-B
+B438256-E
+E874300-5
+D4216AE-7
+B672843-A
+B584554-9
+E551443-5
+
+M
+
+The Scout Service way station at Upuraku is something
+of an oddity. Way stations are intended to serve the
+x-boat network and Upuraku should have formed part
+of a link between Trin and Zeng. The route was never
+implemented however, leaving the Scout Service to
+find a use for an extremely expensive and
+well-equipped installation.
+Way Station Upuraku supports the Trin end of the
+x-boat link, carrying out mid-life refits on x-boats and
+their tenders. These are rotated out of service for a
+more extensive overhaul than the routine maintenance
+conducted at other way stations. Similarly, an array
+of Scout Service craft are overhauled at Upuraku,
+including long-range exploration vessels and converted
+navy cruisers. Notable among these are Azhanti High
+Lightning-class cruisers transferred from the Imperial
+Navy for Scout Service use.
+
+Trade Codes
+Lo
+Hi Wa
+De Ni Po
+Ni Ri
+Hi In
+Fl Ni
+De Ni Po
+Ni
+Fl Lo
+Lo
+Fl Ni
+Ni Po
+Hi In
+Lo Po
+De Na Ni Po
+Na Ni Po Da
+Ni
+Lo
+Lo
+Na Ni Po
+Ag Ni
+Ni Po
+
+Travel Code
+A
+
+A
+
+A
+
+A
+
+Allegiance
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+Imperium
+
+Gas Giants
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+

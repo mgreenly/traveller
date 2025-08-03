@@ -1,0 +1,116 @@
+CARGO LIGHTER
+CREW
+TL12
+Hull
+M-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Staterooms
+Software
+Cargo
+
+PILOT
+
+TONS COST (MCR)
+100 tons, Standard, –
+Light
+Thrust 1
+1
+Fusion (TL12),
+3
+Power 45
+4 weeks of operation 0.3
+Small
+6
+Computer/5
+–
+Civilian Grade
+1
+Standard
+4
+Manoeuvre/0
+–
+Library
+–
+84.7
+
+3.75
+
+RUNNING COSTS
+
+2
+3
+
+MAINTENANCE COST
+Cr1065/month
+
+–
+0.5
+0.03
+3
+0.5
+–
+–
+–
+
+PURCHASE COST
+MCr12.78
+
+Power Requirements
+
+TOTAL: MCR12.78
+
+10
+
+20
+
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+—
+
+1
+
+—
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+This 100-ton lighter represents the
+cheapest way possible to carry cargo
+across a star system, between a highport
+and LASH-equipped freightliner. The one
+concession to luxury – if you can call it that
+– is the provision of a cabin for the crew or a
+passenger. Many lighter crews more or less
+live aboard their vessel, although they will
+spend most of their working time aboard the
+parent vessel when it is in jump.
+
+36
+HULL POINTS
+186
+
+The lighter is designed to nestle in
+an external cradle but can be carried
+internally by a ship with at least a 100-ton
+docking bay. It costs about two and a half
+times as much as a slow boat built at the
+same tech level but carries five times as
+much cargo – albeit even more slowly.
+
+

@@ -1,0 +1,51 @@
+1
+9
+
+DECK 1
+
+1
+DECK 6
+DECK 2
+
+8
+
+3
+2
+4
+3
+
+5
+DECK 3
+
+6
+
+6
+
+DECK 7
+
+7
+1
+
+DECK 4
+
+8
+
+DECK 5
+
+204
+
+3
+
+LEGEND
+1. Powerplant
+2. Missile storage
+3. Triple turrets
+4. Repair drones
+5. Fuel tank
+6. Docking space
+7. Manoeuvre drive
+8. Large fusion gun bays
+9. Small missile bays
+10. Cargo hold
+
+

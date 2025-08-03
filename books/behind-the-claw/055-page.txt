@@ -1,0 +1,122 @@
+TL10
+GHOERRUEGH G/CARRIER
+
+ARMOUR
+
+TL
+
+10
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
++1
+
+SPEED (CRUISE)
+
+F RONT
+
+50
+
+REAR
+
+46
+
+Fast (High)
+
+SIDES
+
+48
+
+RANGE (CRUISE)
+
+1500 (2250)
+
+CREW
+
+2
+
+ge turrent
+L ar
+
+PASSENGERS
+
+12
+
+CARGO
+
+-
+
+HULL
+
+60
+
+SHIPPING
+
+15 tons
+
+COST
+
+MCr11.01
+
+EQUIPMENT AND WEAPONS
+Autopilot (enhanced), Communications System
+(improved, encrypted), Computer/2, Control System
+(enhanced), Decoy Dispenser, ECM (improved), Fire
+Extinguishers, Life Support (short term), Navigation
+System (improved), Sensors (improved, increased
+fidelity), Stealth (improved), Vacuum Protection
+
+Autopilot (skill level) 2
+Communications (range) 500km
+Navigation (Navigation DM) +2
+Sensors (Electronics (sensors) DM) +2
+Camouflage (Recon DM) —
+Stealth (Electronics (sensors) DM) -2
+
+Large Turret (light laser cannon,
+enhanced fire control)
+
+TRAITS
+AFV
+
+DESCRIPTION
+A favourite of both Vargr military
+forces and corsairs, the Ghoerruegh
+is a personnel carrier designed for
+both speed and stealth, perfectly suited for swift
+planetary assaults and ground support. Corsairs
+will typically use them to launch raids upon
+settlements before beating a hasty retreat. When
+combined with a low-emissions corsair vessel
+as a launching platform, the first a lower tech
+society might know of the Vargr is the low whine
+of the Ghoerruegh’s engines.
+
+WEAPON
+Light Laser Cannon
+
+RANGE
+2
+
+DAMAGE
+8D
+
+MAGAZINE
+-
+
+MAGAZINE COST
+-
+
+TRAITS
+AP 5
+
+FIRE CONTROL
++3
+
+55
+
+

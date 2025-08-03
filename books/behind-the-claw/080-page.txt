@@ -1,0 +1,220 @@
+SPINWARDS MARCHES-SUBSECTOR I
+
+DARRIAN
+
+The Darrian subsector lies entirely beyond Imperial
+space, with access requiring either passage through
+the Sword Worlds Confederation (not always possible)
+or transit via an arm of the Spinward Main and into the
+subsector from Vilis-Querion or District 268-Five Sisters.
+The subsector itself is dominated by a 15-world cluster
+centring on Ilium and Mire, the original area into which
+the Darrians expanded when they first discovered
+interstellar travel. Although many of these worlds were
+cut off for a long period during the aftermath of the
+Name
+494-908
+886-945
+Ator
+Bularia
+Condaria
+Cunnonic
+Darrian
+Debarre
+Dorannia
+Ektron
+Engrange
+Garoo
+Ilium
+Jacent
+Junction
+Kardin
+Laberv
+Mire
+Nonym
+Nosea
+Roget
+Rorre
+Spume
+Stern-Stern
+Terant 340
+Torment
+Trifuge
+Uniqua
+Zamine
+
+Location
+0625
+0230
+0729
+0430
+0528
+0822
+0627
+0830
+0530
+0326
+0425
+0130
+0426
+0624
+0122
+0429
+0325
+0527
+0321
+0724
+0427
+0526
+0727
+0223
+0622
+0721
+0723
+0129
+0421
+
+Bases
+
+NM
+
+M
+NM
+M
+
+M
+
+Statistics
+X893000-0
+E833000-0
+D426258-7
+C774622-5
+E54779B-5
+E65767A-3
+A463955-G
+B854123-9
+E42158A-8
+C432652-9
+C554769-8
+A2008CB-A
+B544831-9
+A433744-D
+D550441-4
+E553123-6
+B554443-7
+A665A95-C
+C433898-A
+B4326BB-C
+B566777-9
+D765657-3
+C540200-A
+B421558-B
+D5405A7-9
+X433268-6
+C546556-9
+E62556B-7
+C897977-A
+
+Maghiz, they remained culturally Darrian and were
+peaceably re-integrated into the Darrian Confederation.
+Technically, this cluster lies on the Spinward Main
+but since access to the rest of the Main requires
+transiting through the Gram Arm of the Sword Worlds,
+astrographical convenience is overruled by local politics.
+Uniqua and Garoo are also on the Spinward Main,
+although they lie at the extreme outer end, where
+the main passes out of the Marches and into Foreven
+to spinward.
+
+Trade Codes
+Ba
+Ba Po
+Lo
+Ag Ni
+Ag
+Ag Ni Ga
+Hi
+Lo
+Ni Po
+Na Ni Po
+Ag
+Na Va
+Na Po
+De Ni Po
+Lo Po
+Ni
+Hi Ga
+Na Po
+Na Ni Po
+Ag Ri
+Ag Ni Ga Ri
+De Lo Po
+Ni Po
+De Ni Po
+Lo Po
+Ag Ni
+Ni
+Hi In
+
+Travel Code
+R
+
+Allegiance
+Darrian
+
+Gas Giants
+G
+G
+
+Imperium
+A
+Darrian
+Darrian
+Imperium
+
+G
+G
+G
+
+Darrian
+Darrian
+
+G
+G
+
+Darrian
+Darrian
+
+G
+
+Darrian
+Darrian
+
+G
+
+A
+
+G
+A
+
+R
+
+Darrian
+Darrian
+Darrian
+Darrian
+Darrian
+Darrian
+Darrian
+Darrian
+
+G
+G
+G
+G
+
+Darrian
+
+G
+
+

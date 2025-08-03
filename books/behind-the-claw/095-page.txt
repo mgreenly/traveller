@@ -1,0 +1,51 @@
+12
+6
+
+DECK 3
+
+1
+5
+
+13
+
+3
+
+11
+
+2
+4
+
+DECK 2
+
+7
+
+10
+
+8
+
+DECK 1
+9
+8
+
+14
+
+LEGEND
+1. Bridge
+2. Armoury
+3. Low berths
+4. Staterooms
+5. Barracks
+6. Double turret
+7. Airlock
+
+8. Manoeuvre drive
+9. Power plant
+10. Cargo hold
+11. Small missile bay
+12. Sensors (military grade)
+13. Improved signal processing
+14. Jump Drive
+
+95
+
+
