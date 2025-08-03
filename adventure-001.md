@@ -18,11 +18,11 @@
 
 ## Overview & Goal
 
-This adventure begins with a classic Traveller problem: the players are given a ship they can't afford to recover. They will inherit the title to the advanced lab ship *Stardust Drifter*, but the vessel is abandoned and powered down in the [Djinni](./systems/djinni.md) system, a quarantined Red Zone.
+This adventure begins with a classic Traveller problem: the players are given a ship they can't afford to recover. They will inherit the title to the advanced lab ship [*Stardust Drifter*](./ships/stardust-drifter.md), but the vessel is abandoned and powered down in the [Djinni](./systems/djinni.md) system, a quarantined Red Zone patrolled by the Imperial Navy.
 
-Their first task is to leverage their only asset—the ship's title—to secure a high-risk loan from a predatory financier on [Regina](./systems/regina.md). This debt will hang over their heads, creating a powerful incentive to successfully claim their inheritance.
+Their first task is to leverage their only asset—the ship's title—to secure a high-risk loan from a predatory financier on the subsector capital of [Regina](./systems/regina.md). This debt will hang over their heads, creating a powerful incentive to successfully claim their inheritance while navigating a web of corporate espionage and hidden agendas.
 
-**The Goal:** The players must find an information broker, secure a loan, hire a specialized crew, travel illegally to the [Djinni](./systems/djinni.md) system, locate and secure the *Stardust Drifter*, and escape the Red Zone to file a legal claim.
+**The Goal:** The players must find an information broker, secure a loan, hire a specialized crew, travel illegally to the [Djinni](./systems/djinni.md) system, locate and secure the *Stardust Drifter*, and escape the Red Zone to file a legal claim in the [K'Kirka](./systems/k-kirka.md) system.
 
 ### The Price of a Dream
 
@@ -39,7 +39,7 @@ The players need to borrow approximately **Cr3,000,000** to fund the recovery mi
 
 ## Scene 1: An Unexpected Inheritance
 
-**Location:** [Regina](./systems/regina.md), Subsector Capital
+**Location:** [Regina](./systems/regina.md), Subsector Capital (Law Level 9)
 
 > **Read Aloud:** The chime indicating final approach is soft and pleasant. Below you, the gas giant Assiniboia is a breathtaking swirl of orange and white clouds, its sheer scale humbling. Your passenger liner banks, and the moon Regina swims into view—a vibrant marble of blue oceans and green continents. The space around you is thick with traffic: hulking corporate freighters, sleek yachts cutting through the void, and the grim, grey shapes of Imperial Navy patrols. You've arrived at the heart of the subsector.
 >
@@ -76,6 +76,8 @@ Finally, they provide the data wafer, explaining it is sealed with a biolock key
 
 *   **Optional Action (Computers TN 8+):** Before opening the wafer, a successful check will reveal its military-grade encryption and confirm it has no traps. A failure reveals nothing.
 
+---
+
 ## Scene 2: The Information Broker
 
 **Location:** [Regina](./systems/regina.md) Downport
@@ -107,6 +109,8 @@ After giving the code phrase, the players make a **Persuade** or **Broker** chec
 
 *   **Referee Note:** If the players fail to get the lead to Silas "The Gilded" Kane, they will have to find their own way to raise the funds, likely through much more difficult and less reliable means in the Regina downport.
 
+---
+
 ## Scene 3: The Journey to the Fringe
 
 > **Read Aloud:** The journey ahead is a long one, taking you from the heart of the Imperium to its lawless fringe. Each jump will take you further from the safety of Imperial law and closer to the kind of places where a quick wit and a loaded gun are more valuable than a credit chip. Your path is a well-worn trade route, a string of systems connected by jump-1 parsec lanes, each with its own character and dangers.
@@ -133,29 +137,31 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 
 ---
 
-### Stop 1: [Jenghe](./systems/jenghe.md) (Colonial Holding)
+### Stop 1: [Jenghe](./systems/jenghe.md) (Colonial Holding, Law Level 3)
 > **Read Aloud:** The jump to Jenghe is short and comfortable. The system is bathed in the perpetual orange twilight of its K-class star. The orbital starport is a functional, no-frills station. After a shuttle ride down, you find the downport to be a clean but unremarkable facility smelling of processed grains and machinery. This is a quiet backwater, a clear step down from the grandeur of the subsector capital.
 
 *   **Passage to [Dinom](./systems/dinom.md):** ~Cr1,500 (Low) or ~Cr6,000 (Standard).
 
-### Stop 2: [Dinom](./systems/dinom.md) (Mining Outpost)
+### Stop 2: [Dinom](./systems/dinom.md) (Mining Outpost, Law Level 5)
 > **Read Aloud:** Your ride to Dinom is on a cramped ore hauler that constantly vibrates. The system is bleak and lonely. The orbital starport is a utilitarian station reeking of ozone. The downport on the pockmarked grey rock below is a small cluster of domes connected by tunnels, all huddled near a massive mining operation. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye you with open suspicion.
 
 *   **Passage to [Dinomn](./systems/dinomn.md):** ~Cr8,000 (Standard) or ~Cr12,000 (Private).
 
-### Stop 3: [Dinomn](./systems/dinomn.md) (Scout Base)
+### Stop 3: [Dinomn](./systems/dinomn.md) (Scout Base, Law Level 2)
 > **Read Aloud:** The Dinomn system feels like a return to civilization. The orbital starport is a well-maintained commercial station with a visible Imperial Scout presence. From a viewport, you see the majestic, ringed gas giant Chronos. As you wait for your connecting passage, you see a brutish, heavily modified freighter docked at a secure berth across the field, undergoing a rapid refueling. It's the *Scrap Vulture*. The Rust Dogs are here, and they are moving fast.
 
 *   **Passage to [Wypoc](./systems/wypoc.md):** ~Cr2,000 (Low), ~Cr10,000 (Standard), or ~Cr25,000 (High).
 
-### Stop 4: [Wypoc](./systems/wypoc.md) (Frontier World)
+### Stop 4: [Wypoc](./systems/wypoc.md) (Frontier World, Law Level 7)
 > **Read Aloud:** The brilliant, blue-white light of Wypoc's F-class star forces the ship's viewports to polarize. The planet is a hazy, hostile orb. The orbital starport is a basic, frontier-style station. The downport is a collection of pressurized domes connected by sterile corridors. The moment you step off the shuttle, the argon-heavy atmosphere requires you to don filter masks. As you're being scrutinized by Imperial customs, you see the *Scrap Vulture* lifting off from a distant pad. Your rivals are once again one step ahead.
 
 *   **Passage to [Rech](./systems/rech.md):** ~Cr20,000 per person (cash only, off-the-books).
 
+---
+
 ## Scene 4: Anarchy and Opportunity
 
-**Location:** [Rech](./systems/rech.md), The Lawless World
+**Location:** [Rech](./systems/rech.md), The Lawless World (Law Level A)
 
 > **Read Aloud:** Rech is a smog-choked ball of industrial grey and polluted brown. The orbital starport is a barely functioning wreck, a patchwork of competing factions and jury-rigged repairs. The shuttle ride down is terrifying. The downport is a chaotic, sprawling mess of landing pads and temporary structures, policed by heavily armed thugs at faction checkpoints. The rule of law here is whatever the person with the biggest gun says it is.
 
@@ -167,15 +173,19 @@ Eventually, the players find **Captain Kaelen**.
 
 *   **Skill Checks:** **Persuade** to convince Kaelen; **Broker** to negotiate the contract; **Streetwise** to navigate [Rech](./systems/rech.md)'s dangerous factions.
 
+---
+
 ## Scene 5: The Djinni Run
 
-**Location:** The [Djinni](./systems/djinni.md) System, Red Zone
+**Location:** The [Djinni](./systems/djinni.md) System, Red Zone (Law Level 0)
 
 > **Read Aloud:** The jump into the Djinni system is jarring. The silence in the cockpit is absolute. The system's yellow star is a distant, lonely point of light. In the distance, you see the faint, unmistakable silhouette of a *Vigilant*-class corvette, the INV *Steadfast*, on patrol. Between you and your destination—the main asteroid belt—is a whole lot of empty, monitored space.
 >
 > After hours of silent running, you approach the asteroid belt. Your sensors finally get a lock on the emergency transponder signal. There, floating silently amidst the slowly tumbling rocks, is the *Stardust Drifter*. It's a modified Scout/Courier, its hull scarred and weathered. It is dark, cold, and appears utterly lifeless.
 
 *   **Ship Actions:** **Pilot** to navigate the asteroid field; **Sensors** to detect the Navy patrol; **Engineer** to run the ship silently.
+
+---
 
 ## Scene 6: The Ghost Ship
 
@@ -212,6 +222,8 @@ In Engineering, players can access the ship's internal diagnostic logs.
     > **Log Entry 734: Containment Protocol.**
     > *"After the incident last week, I've had to create a failsafe. The 'Lab Isolation Protocol' can be initiated from the engineering station. It shunts all non-essential power and routes the bridge, life support, and jump drive controls through the shielded conduits that bypass the main lab. This should protect the ship's core systems from a specimen-induced energy cascade. Activating it will temporarily kill power to most of the ship, but it's better than becoming another ghost in the belt."*
 
+---
+
 ## Scene 7: Climax in the Belt
 
 > **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship has just jumped into the system nearby. It's the *Scrap Vulture*. Moments later, a tight-beam transmission comes through, audio only. It's the voice of Kara Riker.
@@ -223,16 +235,18 @@ In Engineering, players can access the ship's internal diagnostic logs.
 ### Objective: The Data Heist
 The players must now engage the *Scrap Vulture* to retrieve the stolen data core. This can be achieved through force, stealth, or negotiation. If they manage to disable and board the rival vessel, they can gain crucial intelligence. A successful **Computers (TN 8)** check on the captain's terminal on the *Scrap Vulture's* bridge reveals two critical items:
 
-1.  **The Acquisition Contract:** The job was issued by a shell corporation named **"Fringe Asset Recovery, LLC."** The contract is for the "forced acquisition" of the *Stardust Drifter*, with a massive bonus for securing the lab and any biological samples intact. A subsequent **Streetwise or Broker (TN 8)** check made later in a civilized system will reveal that "Fringe Asset Recovery" is a known front for **Makhidkarun's** special projects division.
+1.  **The Acquisition Contract:** The job was issued by a shell corporation named **"Fringe Asset Recovery, LLC."** The contract is for the "forced acquisition" of the *Stardust Drifter*, with a massive bonus for securing the lab and any biological samples intact. A subsequent **Streetwise or Broker (TN 8)** check made later in a civilized system will reveal that "Fringe Asset Recovery" is a known front for **[Makhidkarun's](./factions/makhidkarun.md)** special projects division.
 
 2.  **The Ghost in the Machine:** A recent ship's log entry from Kara Riker expresses frustration over a recent systems breach. It reads:
     > *"Slick's diagnostics confirm it. The intrusion was military-grade. Pinpoint, traceless, and gone before we could even react. It wasn't a corporate rival; the profile is wrong. The only signature that fits this kind of ghost is Imperial, and not the standard Navy spooks. This has all the hallmarks of an S86 op. They're watching this prize, too. We need to move faster."*
 
-This log entry confirms that a third, highly secretive power is monitoring the situation, and the rivals themselves have identified it as the legendary Section 86.
+This log entry confirms that a third, highly secretive power is monitoring the situation, and the rivals themselves have identified it as the legendary [Section 86](./factions/section-86.md).
+
+---
 
 ## Resolution
 
-The adventure concludes when the players escape the [Djinni](./systems/djinni.md) system with the *Stardust Drifter*. To make their ownership official, they must file a salvage and inheritance claim at the starport on [K'Kirka](./systems/k-kirka.md). This sets the stage for future adventures, where they must deal with their massive debt and the true nature of [Dr. Aris](./characters/dr-aris.md)'s research.
+The adventure concludes when the players escape the [Djinni](./systems/djinni.md) system with the *Stardust Drifter*. To make their ownership official, they must file a salvage and inheritance claim at the starport on [K'Kirka](./systems/k-kirka.md). This sets the stage for future adventures, where they must deal with their massive debt to Silas Kane, the unwanted attention from Makhidkarun, and the true nature of [Dr. Aris](./characters/dr-aris.md)'s research.
 
 ---
 ## Appendix A: Random Encounters
