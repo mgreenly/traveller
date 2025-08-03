@@ -104,9 +104,9 @@ After giving the code phrase, the players make a **Persuade** or **Broker** chec
 *   **Broker:** Represents treating this as a professional transaction.
 
 #### Outcome Tiers
-*   **Tier 1: Minimal Success (Failure on Stage 2 check):** Vance is cagey and provides only the bare minimum, framed as a desperate warning. "The pilot you need is a woman named **Kaelen** in **Rech**. For the money, see **Silas Kane** at 'The Gilded Cage'. But know this: the moment you sign his contract, he owns you. Aris knew this. He said he built a 'get out of jail free' card into the ship's main data core. A file with enough dirt on Kane to make him cancel the debt. If you want to survive the deal, you *must* get that core. Now get out of here."
-*   **Tier 2: Standard Success (Success on Stage 2 check):** Vance relaxes slightly and provides a clearer picture of the power dynamic. He gives them Kaelen's name, her location (Rech), her ship's name (*The Void Gambit*), and the cost (~3 million Credits). He then adds, "For the money, go see **Silas 'The Gilded' Kane** at 'The Gilded Cage'. But he doesn't give loans; he buys people. Aris was paranoid, but smart. He created a blackmail file on Kane—proof of his dirty work. He called it the 'Kane Contingency' and it's on the main data core of that ship. With that file, you can walk back into Kane's office and force him to tear up your contract. Without it, you're his property for life. Get the loan, get the ship, then get that core. It's your only way out."
-*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** Vance is impressed and reveals the true power behind Kane. He gives them the full warning from Tier 2, and then adds, his voice low and serious: "The file isn't just about Kane. It's about his masters. **Makhidkarun**. That's who you're really getting into bed with. The 'Kane Contingency' file has enough proof of their illegal dealings to ruin him and cause a major scandal for the corporation. It's not just a tool to cancel your debt; it's a weapon against a megacorp. That's why they want that ship so badly. And that's why you cannot afford to lose that data core."
+*   **Tier 1: Minimal Success (Failure on Stage 2 check):** Vance is cagey and provides only the bare minimum, framed as a desperate warning. "You need a pilot who knows the fringe. Go to **Rech**. Find a woman named **Kaelen**. She's reliable. For the money, see **Silas Kane** at 'The Gilded Cage'. But know this: the moment you sign his contract, he owns you. Aris knew this. He said he built a 'get out of jail free' card into the ship's main data core. A file with enough dirt on Kane to make him cancel the debt. If you want to survive the deal, you *must* get that core. Now get out of here."
+*   **Tier 2: Standard Success (Success on Stage 2 check):** Vance relaxes slightly and provides a clearer picture, giving the players a crucial choice. "Alright, you're serious. You have two real options, both on that lawless rock **Rech**. The smart money is on **[Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md)** and her ship, the *Void Gambit*. She's an ex-scout, professional and tough. She'll cost you, probably around 2 million, but she'll get the job done. Your other option is a kid named **[Rico 'Hotshot' Vega](./characters/rico-hotshot-vega.md)**. He flies a souped-up courier, the *Stray Comet*. He's faster and cheaper, but he's a reckless amateur. Your call: safety or speed?" He then adds the warning about **Silas 'The Gilded' Kane** and the "Kane Contingency" file on the data core.
+*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** Vance is impressed and reveals the true power behind Kane. He gives them the full details on both Kaelen and Rico from Tier 2, and then adds the dire warning about **Makhidkarun**'s involvement. "The file isn't just about Kane. It's about his masters. **Makhidkarun**. That's who you're really getting into bed with. The 'Kane Contingency' file has enough proof of their illegal dealings to ruin him and cause a major scandal for the corporation. It's not just a tool to cancel your debt; it's a weapon against a megacorp. That's why they want that ship so badly. And that's why you cannot afford to lose that data core."
 
 *   **Referee Note:** If the players fail to get the lead to Silas "The Gilded" Kane, they will have to find their own way to raise the funds, likely through much more difficult and less reliable means in the Regina downport.
 
@@ -169,10 +169,32 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 Your questions about off-the-books passage and capable pilots have not gone unnoticed. During their search, the players attract the attention of the **Rust Dogs**. The encounter is an intentional probe to determine if the players are rivals for the *Stardust Drifter* contract.
 > **Read Aloud:** The bar is crowded, loud, and smells of stale beer and sweat. As you're trying to get information, you get the distinct feeling of being watched. A mountain of a man covered in hissing, industrial-grade cybernetics ([Grak](./characters/scrap-vulture/grak.md)) bumps into you hard, spilling your drink. He turns, a sneer on his face, flanked by a wiry, fast-talking man with a cocky grin ([Joric "Slick" Fen](./characters/scrap-vulture/joric-slick-fen.md)). "That's a clumsy move for someone so far from home," Joric says, his voice deceptively casual, his hand resting near the pistol on his hip. "You looking for something? Or someone?" The aggression is a facade. This is a test—they are sizing you up.
 
-Eventually, the players find **Captain Kaelen**.
+### Task Chain: Hiring a Pilot
+Hiring a pilot on a lawless world like Rech is a multi-step process. The players must first locate their chosen pilot and then negotiate a contract.
+
+#### Option 1: Finding Captain Kaelen
 > **Read Aloud:** Your informant points you to a quiet corner of a cargo bay where a woman in a worn flight jacket is overseeing her crew load supplies. Her dark hair is cut short for practicality, and her steady, grey-eyed gaze misses nothing as she watches you approach. This is [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md). Beside her, a young, lanky man with a mop of unruly hair ([Jax](./characters/the-void-gambit/jax.md)) is practically vibrating with energy as he tunes a diagnostic tool. Leaning against the ship's hull is a hulking, silent Vargr whose fur is a patchwork of grey and black, his face scarred from old battles ([Grim](./characters/the-void-gambit/grim.md)). He watches you with unnerving stillness.
 
-*   **Skill Checks:** **Persuade** to convince Kaelen; **Broker** to negotiate the contract; **Streetwise** to navigate [Rech](./systems/rech.md)'s dangerous factions.
+#### Option 2: Finding Rico "Hotshot" Vega
+> **Read Aloud:** You find the *Stray Comet* tucked away in a disused corner of the landing field. It’s a small, sleek courier ship that looks like it’s been stripped down and rebuilt for pure speed. A young woman with grease-stained hands ([Lena Petrova](./characters/lena-petrova.md)) is arguing heatedly with a cocky-looking pilot ([Rico "Hotshot" Vega](./characters/rico-hotshot-vega.md)) at the base of the ramp, while a third, quiet man ([Corbin "Maps" Vance](./characters/corbin-vance.md)) studiously ignores them both, focused on a data-slate. The pilot, Rico, spots you approaching and flashes a grin. "Perfect timing! Come to save me from this lecture on 'engine safety' and 'responsible piloting'?"
+
+---
+#### Stage 1: The Pitch (TN 9+)
+This is the initial attempt to get the pilot to take the job seriously. This check can be failed.
+*   **Kaelen (The Professional):** She needs to be convinced the players are competent and the mission is viable. This requires a **Broker** or **Persuade** check.
+*   **Rico (The Hotshot):** He needs to be convinced the job is exciting and will make a great story. This requires a **Carouse** or **Streetwise** check.
+*   **Success (9+):** The pilot is intrigued and agrees to hear the full proposal. Proceed to Stage 2.
+*   **Failure (8-):** The pilot dismisses the players as amateurs and refuses the job. If this is the *first* pilot the players have approached, they must now find the other pilot. Their reputation as time-wasters precedes them, and they automatically succeed at this stage but with a **-2 penalty** to the check in Stage 2. If this was their second attempt, the pilot reluctantly reconsiders, but the players still take a **-2 penalty** to the check in Stage 2.
+
+#### Stage 2: The Negotiation (TN 8+)
+This stage determines the final price and terms. The pilot is already on board; this just determines how much it will cost the players. This check cannot be failed, but a poor roll will be expensive.
+*   **Kaelen:** Negotiate with **Broker** or **Persuade**.
+*   **Rico:** Negotiate with **Broker** or **Carouse**.
+
+#### Outcome Tiers
+*   **Tier 1: Minimal Success (Failure on Stage 2 check):** The pilot drives a hard bargain. The cost is **150% of their standard rate** (~3,000,000 for Kaelen, ~1,500,000 for Rico). They demand a significant portion up front and offer no flexibility.
+*   **Tier 2: Standard Success (Success on Stage 2 check):** A fair deal is struck. The cost is **100% of the standard rate** (~2,000,000 for Kaelen, ~1,000,000 for Rico).
+*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** The players impress the pilot. The cost is **75% of the standard rate**, and the pilot throws in a bonus (e.g., Kaelen offers her crew's assistance in the salvage, or Rico offers to use his contacts to get a discount on fuel).
 
 ---
 
@@ -279,6 +301,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
     *   **[Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md):** A pragmatic and skilled ex-scout captain.
     *   **[Jax](./characters/the-void-gambit/jax.md):** A brilliant, high-energy engineer.
     *   **["Grim"](./characters/the-void-gambit/grim.md):** A hulking, silent Vargr gunner.
+*   **[Rico "Hotshot" Vega](./characters/rico-hotshot-vega.md):** A reckless but talented freelance pilot.
 
 ### Rivals: The "Rust Dogs"
 *   **[Kara "Wrench" Riker](./characters/scrap-vulture/kara-wrench-riker.md):** The ruthless and calculating leader.
@@ -294,6 +317,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 
 *   [***Stardust Drifter***](./ships/stardust-drifter.md): The prize. A modified lab ship, abandoned in the [Djinni](./systems/djinni.md) system.
 *   [***The Void Gambit***](./ships/the-void-gambit.md): The players' ride. A fast, modified free trader captained by Kaelen.
+*   [***Stray Comet***](./ships/stray-comet.md): A faster, riskier option piloted by Rico "Hotshot" Vega.
 *   [***Scrap Vulture***](./ships/scrap-vulture.md): The rivals' ship. A brutish, modified freighter used by the Rust Dogs.
 *   [***INV Steadfast***](./ships/inv-steadfast.md): The law. An Imperial Navy corvette patrolling the [Djinni](./systems/djinni.md) system.
 ---

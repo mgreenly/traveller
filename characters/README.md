@@ -4,8 +4,14 @@ This file contains a list of all the Non-Player Characters (NPCs) in the campaig
 
 ## Main NPCs
 *   [Dr. Aris](./dr-aris.md)
+*   [Rico "Hotshot" Vega](./rico-hotshot-vega.md)
 *   [Roric Vance](./roric-vance.md)
 *   [Silas Kane](./silas-kane.md)
+
+## Crew of the Stray Comet
+*   [Corbin "Maps" Vance](./corbin-vance.md)
+*   [Lena Petrova](./lena-petrova.md)
+*   [Rico "Hotshot" Vega](./rico-hotshot-vega.md)
 
 ## Crew of the INV Steadfast
 *   [Captain Valerius Thorne](./inv-steadfast/captain-valerius-thorne.md)
