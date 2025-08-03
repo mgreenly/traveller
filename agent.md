@@ -66,6 +66,6 @@ The players' primary goal is to successfully retrieve the *Stardust Drifter* fro
 ### Actions
 * After changing files always look to see if this file needs to be updated.
 
-### Core Rulebook
-* I have access to the full 2022 core rulebook in the `books/core-rules-2022` directory. I have created a `toc.txt` file in that directory to help me navigate the book.
-* I also have access to the "Behind the Claw" supplement in the `books/behind-the-claw` directory, which provides detailed information on the Spinward Marches and Deneb sectors. A `toc.txt` file is also available for this book.
+### Books
+*   **`books/core-rules-2022`**: This directory contains the full text of the Traveller Core Rulebook (2022 Update). It is my primary source for all game rules, character creation, equipment, and general gameplay procedures. A detailed `toc.txt` file is available for quick navigation.
+*   **`books/behind-the-claw`**: This directory contains the full text of the "Behind the Claw" sector supplement. It is my primary source for detailed lore, history, politics, and system information for the Spinward Marches and Deneb sectors. A detailed, sub-sectioned `toc.txt` file is available for quick navigation.
