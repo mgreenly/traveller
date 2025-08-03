@@ -70,7 +70,7 @@ After the presentation, the players can probe for more information with a **Pers
 *   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** The lawyer makes a critical slip, revealing the one-time transponder code is a **tracking device** that sends a confirmation signal back to the firm's network upon activation.
 
 #### The Inheritance
-The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](./players/keith.md). They explain the ship is in the **[Djinni](./systems/djinni.md)** system, a **Red Zone**, and provide the transponder code but assume no liability. They also add, "Due to the unique legal circumstances surrounding the Djinni quarantine, any salvage or inheritance claim for this vessel must be filed in person at the Imperial administrative offices in the **[K'Kirka](./systems/k-kirka.md)** system. Filing elsewhere will be considered invalid."
+The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](./players/keith.md). They explain the ship is in the **[Djinni](./systems/djinni.md)** system, a **Red Zone**, and provide the transponder code but assume no liability. They also add, "Due to the unique legal circumstances surrounding a Red Zone vessel, any salvage or inheritance claim must be filed at a designated court of record. The closest and most appropriate for this region is in the **[K'Kirka](./systems/k-kirka.md)** system. Filing elsewhere will be considered invalid."
 
 Finally, they provide the data wafer, explaining it is sealed with a biolock keyed to Keith. Once Keith opens it, he receives the message from Dr. Aris:
 > *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](./characters/roric-vance.md). Tell him 'The Whiskey Jack needs a fast ship.'..."*
@@ -214,9 +214,9 @@ This stage determines the final price and terms. The pilot is already on board; 
 
 **Location:** The [Djinni](./systems/djinni.md) System, Red Zone (Law Level 0)
 
-> **Read Aloud:** The jump into the Djinni system is jarring. The silence in the cockpit is absolute. The system's yellow star is a distant, lonely point of light. In the distance, you see the faint, unmistakable silhouette of a *Vigilant*-class corvette, the INV *Steadfast*, on patrol. Between you and your destination—the main asteroid belt—is a whole lot of empty, monitored space.
+> **Read Aloud:** The jump into the Djinni system is jarring. The silence in the cockpit is absolute. The system's yellow star is a distant, lonely point of light. In the distance, you see the faint, unmistakable silhouette of a *Vigilant*-class corvette, the INV *Steadfast*, on patrol. Your destination is not the lush, green Droyne preserve that is the system's main world, but its second planet, a bleak, ice-crusted rock named Niflheim.
 >
-> After hours of silent running, you approach the asteroid belt. Your sensors finally get a lock on the emergency transponder signal. There, floating silently amidst the slowly tumbling rocks, is the *Stardust Drifter*. It's a modified Scout/Courier, its hull scarred and weathered. It is dark, cold, and appears utterly lifeless.
+> After hours of silent running, you approach the asteroid belt in high orbit around Niflheim. Your sensors finally get a lock on the emergency transponder signal. There, floating silently amidst the slowly tumbling rocks, is the *Stardust Drifter*. It's a modified Scout/Courier, its hull scarred and weathered. It is dark, cold, and appears utterly lifeless.
 
 *   **Ship Actions:** **Pilot** to navigate the asteroid field; **Sensors** to detect the Navy patrol; **Engineer** to run the ship silently.
 

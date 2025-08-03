@@ -13,7 +13,7 @@
     *   **Government:** 9 (Impersonal Bureaucracy)
     *   **Law Level:** 8 (High: All weapons except shotguns prohibited)
     *   **Tech Level:** B (11 - Early Stellar)
-*   **Lore:** K'Kirka is the administrative linchpin of the Lanth subsector. While not a major trade hub or military fortress, it is the designated center for Imperial bureaucracy in the region. Its primary function is to house the subsector's courts, licensing offices, and administrative archives. The requirement to file salvage claims here is a deliberate bureaucratic measure to ensure all high-value salvage is processed through proper Imperial channels, away from the corruption and chaos of the frontier.
+*   **Lore:** K'Kirka is the administrative linchpin of the Lanth subsector. While not a major trade hub or military fortress, it is the designated center for Imperial bureaucracy in the region. Its primary function is to house the subsector's courts, licensing offices, and administrative archives. The requirement to file salvage claims here is a deliberate bureaucratic measure to ensure all high-value salvage is processed through proper Imperial channels, away from the corruption and chaos of the frontier. While not the official subsector capital, its location on the Spinward Main and its stable Imperial bureaucracy have made it a designated 'court of record' for high-value salvage claims originating from the lawless fringe—a measure intended to prevent such claims from being processed on more corruptible worlds.
 *   **Neighbors:**
     *   **[Rech](./rech.md):** North-West
 

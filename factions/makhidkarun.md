@@ -8,7 +8,7 @@
 ## Operations and Methods
 *   **Political Manipulation:** Makhidkarun specializes in destabilizing planetary governments that are unfriendly to their business interests. They achieve this by funding insurgencies, backing political rivals, bribing officials, and orchestrating smear campaigns to install more compliant regimes. They are patient and will spend decades grooming a planet for corporate takeover.
 
-*   **Ruthless Espionage:** The corporation's intelligence division is a peer of Sector 86 in terms of reach and ruthlessness. They will stop at nothing to acquire a rival's secrets, from bribery and blackmail to kidnapping key personnel and executing targeted assassinations disguised as accidents.
+*   **Ruthless Espionage:** The corporation's intelligence division is a peer of Sector 86 in terms of reach and ruthlessness. They will stop at nothing to acquire a rival's secrets, from bribery and blackmail to kidnapping key personnel and executing targeted assassinations disguised as accidents. If all else fails, they are not above deploying catastrophic cyberwarfare to completely annihilate a planetary rival's infrastructure, as was the case with the planet Rech.
 
 *   **Suspected Zhodani Ties:** It is a widely held (but officially unproven) belief within Imperial Intelligence that Makhidkarun has deep, clandestine ties to the Zhodani Consulate, the Imperium's psionically-gifted political rivals. They are often suspected of acting as a fifth column, funneling sensitive technology and intelligence to the Zhodani in exchange for psionic services or preferential treatment in Zhodani space.
 

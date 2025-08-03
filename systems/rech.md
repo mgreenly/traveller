@@ -13,7 +13,11 @@
     *   **Government:** A (Charismatic Dictator / Anarchy)
     *   **Law Level:** A (Severe: All weapons and armor prohibited)
     *   **Tech Level:** 6 (Industrial)
-*   **Lore:** A world in chaos. The combination of anarchy and a high law level suggests a world where there is no central government, but various powerful factions enforce their own strict rules in their own territories. The "taint" in the atmosphere is industrial pollution. A dangerous but potentially rewarding place for savvy travellers.
+*   **Lore:** Rech was not always a lawless backwater. Official records show a UPP of B86889A-B, a prosperous, high-tech world with a population in the billions. That civilization was erased by the "System Quarantine," a catastrophic event triggered by a military-grade data-plague.
+    *   **The Collapse:** The virus, deployed by **Makhidkarun** as a scorched-earth tactic after a failed corporate takeover, targeted the planet's sophisticated, networked infrastructure. It bricked everything from power grids to governmental systems, causing a complete technological regression to a pre-network, industrial age (TL-6).
+    *   **The Aftermath:** Billions died or fled during the chaos. The survivors were forced to rely on dirty, inefficient industrial technology, leading to the current tainted atmosphere. The digital government was annihilated, leaving a power vacuum filled by factions controlling the remaining physical assets (factories, water purifiers, etc.).
+    *   **The Secret History:** Unknown to all but the highest echelons of Makhidkarun, their decision to deploy the virus was subtly engineered by **The Cultivators**. Seeing Rech's stable society as stagnant, the Cultivators fed Makhidkarun falsified intelligence, manipulating them into triggering the collapse to create a more "novel" and chaotic environment.
+    *   **The Current State:** The high Law Level (A) is a result of the ruling factions brutally hoarding their low-tech resources and banning any advanced, network-capable technology they cannot control.
 *   **Neighbors:**
     *   **[Djinni](./djinni.md):** North
     *   **[Wypoc](./wypoc.md):** North-West

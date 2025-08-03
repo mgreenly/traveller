@@ -13,7 +13,7 @@
     *   **Government:** 0 (None)
     *   **Law Level:** 0 (None)
     *   **Tech Level:** 0 (Stone Age)
-*   **Lore:** An uncharted and uninhabited water world. Djinni is a designated **Red Zone** by the Imperium. Travel is forbidden due to the discovery of an unstable, pre-sentient, and highly aggressive native life form in the planet's deep oceans. The Imperial Navy maintains a quarantine cordon at the jump points. The name "Djinni" is a warning from the first survey team that barely escaped.
+*   **Lore:** Djinni is a designated **Red Zone** by the Imperium because its main world is a Droyne preserve, interdicted to prevent cultural contamination. The system's second planet, a barren rockball named **Niflheim**, has recently drawn clandestine interest for its newly discovered and highly aggressive native life form, which thrives in its extreme environment.
 
 ---
 ### Arrival Experience

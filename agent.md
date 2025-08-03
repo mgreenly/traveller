@@ -51,7 +51,7 @@ The players' primary goal is to successfully retrieve the *Stardust Drifter* fro
 *   **Jenghe, Dinom, Dinomn, Wypoc:** The stops along the way to Rech, each with its own challenges.
 *   **Rech:** A lawless, anarchic world where the players must hire their pilot.
 *   **Djinni:** The destination. A quarantined Red Zone where the *Stardust Drifter* is located.
-*   **K'Kirka:** The final destination. A bureaucratic hub where the players must file their claim.
+*   **K'Kirka:** The final destination. A stable Imperial world designated as the legal point to file their claim.
 
 ### File Structure
 *   **`adventure-001.md`**: Contains the main plot, encounters, and NPC details for the "The Inheritance" adventure.
