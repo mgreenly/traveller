@@ -226,7 +226,7 @@ In Engineering, players can access the ship's internal diagnostic logs.
 
 ## Scene 7: Climax in the Belt
 
-> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship has just jumped into the system nearby. It's the *Scrap Vulture*. Moments later, a tight-beam transmission comes through, audio only. It's the voice of Kara Riker.
+> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship signature, previously hidden among the asteroid clutter, suddenly flares to life. It's the *Scrap Vulture*, powering up its weapons and drives. Moments later, a tight-beam transmission comes through, audio only. It's the voice of Kara Riker.
 >
 > *"Whoever you are, congratulations on getting the lights on. But your journey ends here. We are in possession of your main data core. As you've probably figured out, you can't jump without it. Power down your systems and prepare to be boarded. If you resist, we will vent your ship into the void. You have five minutes to comply."*
 >
