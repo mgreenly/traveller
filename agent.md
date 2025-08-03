@@ -65,3 +65,7 @@ The players' primary goal is to successfully retrieve the *Stardust Drifter* fro
 
 ### Actions
 * After changing files always look to see if this file needs to be updated.
+
+### Core Rulebook
+* I have access to the full 2022 core rulebook in the `books/core-rules-2022` directory.
+* I have created a `toc.txt` file in that directory to help me navigate the book.
