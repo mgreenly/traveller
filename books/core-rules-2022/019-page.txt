@@ -1,0 +1,112 @@
+COMMISSION
+
+This only applies to the military careers of Army,
+Navy and Marines. A Traveller who succeeds at a
+commission roll becomes a rank 1 officer in that career
+and progresses on the officer’s rank table from then on.
+Trying for a commission is optional.
+You may only attempt to gain a commission in your first
+term unless your SOC is 9 or higher, in which case you
+may try for a commission in any term. However, there
+is DM-1 applied to commission rolls for every term after
+the first.
+Some events give a bonus DM to advancement rolls or
+grant automatic advancement. You can apply these DMs
+to commission rolls also.
+If you gain a commission, you may not roll for
+advancement in the same term. Travellers can still roll for
+advancement if they fail a commission roll.
+
+THE CONNECTIONS RULE
+
+During Traveller creation, the aim is to not only to
+create interesting histories for Travellers through
+career decisions, events and mishaps but also to
+ensure Travellers know one another before the
+campaign begins. This avoids every campaign
+starting with the words ‘right, you all meet in the
+starport bar…’. In Traveller, you will all know one
+another to some degree and can get stuck into
+adventuring straight away.
+If two Travellers agree, then any event rolled
+for one Traveller can involve another. Only one
+Traveller needs to have rolled the specific event,
+though you will find it more exciting if Travellers
+can link events together (this is why it is best
+to create Travellers as a group activity, going
+through terms one-by-one together).
+If an event can be linked between two Travellers
+in this way, then they both get one extra skill of
+their choice. You may gain a maximum of two
+free skills from the connections rule and each
+connection must be with a different Traveller.
+For each connection you make, you may gain
+any skill but cannot bring a skill above level 3
+using this rule nor may you take the Jack-of-allTrades skill.
+
+Some ranks have bonuses associated with them, such
+as extra skills. These are acquired immediately upon
+attaining the rank.
+
+For example, Erik is working as an Agent and he
+rolls an undercover mission (event number 8 on
+the Agent Events table). Erik’s player suggests
+that Erik could have met Kathya while on this
+mission and Kathya’s player agrees. They then
+discuss exactly what happened during the
+mission and this begins to form previous history
+for both Travellers. Both Erik and Kathya will then
+gain an extra skill because of this.
+
+You begin at rank 0 in a new career. Each time you
+succeed with an advancement roll, you move up to
+the next rank. Ranks are most important for military
+careers, such as the Army or Navy, but every career
+has its own internal hierarchies and levels of authority
+and responsibility. However, not all ranks have a title
+like the military.
+
+BENEFITS
+
+When you leave a career for any reason, you gain
+material benefits from that career, representing
+money, equipment and influence acquired during your
+years of work.
+Benefits are described fully on page 46.
+
+DRIFTERS AND THE DRAFT
+
+You may attempt to enlist in one career each term if
+you are not continuing with an existing career. If you fail
+to qualify for a new career, you have two options. You
+can either apply to the draft, and be randomly sent to
+one of the military services, or you may spend that term
+travelling as a Drifter, without true career or purpose. A
+Traveller may only enter the draft once in their lifetime
+unless otherwise stated.
+
+
+Draft Table
+1D
+1
+2
+3
+4
+5
+6
+
+Career (assignment)
+Navy (any)
+Army (any)
+Marine (any)
+Merchant (merchant marine)
+Scout (any)
+Agent (law enforcement)
+
+traveller creation
+
+RANKS AND BONUSES
+
+19
+
+

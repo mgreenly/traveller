@@ -1,0 +1,128 @@
+•
+
+•
+
+Veterinary: The Traveller is trained in veterinary
+medicine and animal care.
+Applying Medical Care: See the Medic skill on page
+69, but use the Animals (veterinary) skill.
+Training: The Traveller knows how to tame and
+train animals.
+Taming a Strange Alien Creature: Formidable (14+)
+Animals (training) check (1D days, INT).
+
+Art
+The Traveller is trained in a type of creative art.
+
+Specialities
+•
+
+•
+
+•
+
+•
+
+•
+
+Astrogation
+This skill is for plotting the courses of starships and
+calculating accurate jumps. See the Spacecraft
+Operations chapter.
+Plotting Course to a Target World Using a Gas Giant
+for a Gravity Slingshot: Difficult (10+) Astrogation check
+(1D x 10 minutes, EDU).
+Plotting a Standard Jump: Easy (4+) Astrogation
+check (1D x 10 minutes, EDU), with DM- equal to the
+Jump distance.
+
+
+The Traveller is a trained athlete and is physically
+fit. The Athletics skill effectively augments a
+Traveller’s physical characteristics; whatever you
+can do with Strength alone you can also add your
+Athletics (strength) DM to, for example. Athletics is
+also the principal skill used in adverse gravitational
+environments, specifically Athletics (dexterity) in low or
+zero-G and Athletics (strength) in high-G locations.
+
+Specialities
+•
+
+•
+
+•
+
+Dexterity: Climbing, Juggling, Throwing. For alien
+species with wings, this also includes flying.
+Climbing: Difficulty varies. Athletics (dexterity)
+check (1D x 10 seconds, DEX). So long as they
+succeed, the Traveller’s Effect is usually irrelevant
+unless they are trying to do something while
+climbing, in which case the climbing is part of a task
+chain or multiple action.
+Sprinting: Average (8+) Athletics (dexterity) check
+(1D seconds, DEX). If the Traveller does nothing
+but sprint flat out they can cover 24 + Effect metres
+with every check. Avoiding obstacles while sprinting
+requires another Athletics (dexterity) check (Difficult,
+because they are performing a multiple action).
+High Jumping: Average (8+) Athletics (dexterity) check
+(1D seconds, DEX). The Traveller jumps a number of
+metres straight up equal to the Effect halved.
+Long Jumping: Average (8+) Athletics (dexterity)
+check (1D seconds, DEX). The Traveller jumps a
+number of metres forward equal to the Effect with a
+running start.
+Righting Yourself When Artificial Gravity Suddenly
+Fails on Board a Ship: Average (8+) Athletics
+(dexterity) check (1D seconds, DEX).
+Endurance: Long-distance running, hiking
+Long-distance Running: Average (8+) Athletics
+(endurance) check (1D x 10 minutes, END).
+Long-distance Swimming: Average (8+) Athletics
+(endurance) check (1D x 10 minutes, END).
+Strength: Feats of strength, weight-lifting.
+Arm Wrestling: Opposed Athletics (strength) check
+(1D minutes, STR).
+Feats of Strength: Average (8+) Athletics (strength)
+check (1D x 10 seconds, STR).
+Performing a Complicated Task in a High Gravity
+Environment: Difficult (10+) Athletics (strength)
+check (1D seconds, STR).
+
+skills and tasks
+
+Performer: The Traveller is a trained actor, dancer
+or singer at home on the stage, screen or holo.
+Performing a Play: Average (8+) Art (performer)
+check (1D hours, EDU).
+Convincing a Person you are Actually Someone
+Else: Art (performer) check (INT) opposed by Recon
+check (INT).
+Holography: Recording and producing aesthetically
+pleasing and clear holographic images.
+Surreptitiously Switching on Your Recorder
+While in a Secret Meeting: Formidable (14+) Art
+(holography) check (1D seconds, DEX).
+Instrument: Playing a particular musical
+instrument, such a flute, piano or organ.
+Playing a Concerto: Difficult (10+) Art (instrument)
+check (1D x 10 minutes, EDU).
+Visual Media: Making artistic or abstract paintings
+or sculptures in a variety of media.
+Making a Statue of Someone: Difficult (10+) Art
+(visual media) check (1D days, INT).
+Write: Composing inspiring or interesting pieces
+of text.
+Rousing the People of a Planet by Exposing Their
+Government’s Corruption: Difficult (10+) Art (write)
+check (1D hours, INT or EDU).
+Writing the Update of Traveller: Formidable (14+)
+Art (write) check (1D months, INT).
+
+Athletics
+
+65
+
+

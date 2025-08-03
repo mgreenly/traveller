@@ -1,0 +1,169 @@
+Ranks and bonuses
+Mishaps
+
+RANK
+
+WORKER
+
+SKILL OR BONUS
+
+RANK
+
+COLONIST
+
+SKILL OR BONUS
+
+0
+
+—
+
+—
+
+0
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+2
+
+Technician
+
+Profession 1
+
+2
+
+Settler
+
+Survival 1
+
+3
+
+—
+
+—
+
+3
+
+—
+
+—
+
+4
+
+Craftsman
+
+Mechanic 1
+
+4
+
+Explorer
+
+Navigation 1
+
+5
+
+—
+
+—
+
+5
+
+—
+
+—
+
+6
+
+Master Technician
+
+Engineer 1
+
+6
+
+—
+
+Gun Combat 1
+
+1D
+1
+2
+3
+4
+5
+
+Events
+
+6
+
+2D
+2
+3
+
+4
+
+6
+7
+8
+9
+10
+11
+12
+
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+Political upheaval strikes your homeworld and you are caught up in the revolution. Gain either
+Advocate 1, Persuade 1, Explosives 1 or Streetwise 1. Roll whichever skill you chose 8+. If you
+succeed you come out on the winning side and gain DM+2 to your next advancement roll. Fail and
+you suffer DM-2 to your next Survival roll.
+You spend time maintaining and using heavy vehicles, either as part of your job or as a hobby.
+Increase Mechanic, Drive, Electronics, Flyer or Engineer by one level.
+Your business expands, your corporation grows or the colony thrives. Gain DM+1 to any one
+Benefit roll.
+You are given advanced training in a specialist field. Roll EDU 10+ to gain any one skill of your
+choice at level 1.
+Life Event. Roll on the Life Events table (see page 46).
+You learn something you should not have – a corporate secret, a political scandal – which you can
+profit from illegally. If you choose to do so, then you gain DM+1 to a Benefit roll from this career and
+gain Streetwise 1, Deception 1 or a criminal Contact. If you refuse, you gain nothing.
+You are rewarded for your diligence or cunning. Gain DM+2 to your next advancement roll.
+You gain experience in a technical field as a computer operator or surveyor. Increase Electronics or
+Engineer by one level.
+You befriend a superior in the corporation or the colony. Gain an Ally. Either gain Diplomat 1 or
+DM+4 to your next advancement roll thanks to their aid.
+You rise to a position of power in your colony or corporation. You are automatically promoted.
+
+3
+
+traveller creation
+
+5
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury table and take the lower result.
+You are harassed and your life ruined by a criminal gang. Gain the gang as an Enemy.
+Hard times caused by a lack of interstellar trade costs you your job. Lose one SOC.
+Your business is investigated by the planetary authorities (or your colony suffers interference from
+interests offworld). Co-operate and the business or colony is shut down but you gain DM+2 to the
+qualification roll for your next career as a reward for your aid. Refuse and gain an Ally.
+A revolution, attack or other unusual event throws your life into chaos, forcing you to leave the
+planet. Roll Streetwise 8+. If you succeed, increase any skill you have by one level.
+Injured. Roll on the Injury table (see page 49).
+
+27
+
+

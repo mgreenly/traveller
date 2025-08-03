@@ -1,0 +1,213 @@
+T
+
+Under normal circumstances, an Electronics (sensors)
+check is all that is required to detect and identify a
+target that has moved into range of sensors. What
+information can be determined from this depends on
+the type of sensors employed.
+The kind of sensors a ship possesses depends on the
+sensor package installed. Distances between ships and
+other objects in space is determined by range bands,
+as shown on the Range Bands table.
+Once the range has been determined, consult the
+Sensor Target and Sensor Detail tables to determine
+what information can be gleaned on the target from the
+sensors on board.
+
+Sensor Target
+
+spacecraft operations
+160
+
+Visual
+
+Full
+Full
+Limited
+Limited
+Minimal
+Minimal
+None
+
+Thermal
+Full
+Full
+Full
+Limited
+Limited
+Minimal
+Minimal
+
+Sensor Detail
+Detail
+
+Visual
+
+Limited
+
+Shape and
+structure
+Basic outline
+
+Full
+
+Minimal
+
+
+V
+
+Range Band
+
+All spacecraft have advanced sensors that allow them
+to spot potential threats and items of interest from
+possibly thousands of kilometres distant. They have
+limited automatic operation but, as always, it requires a
+human present to actually interpret the information in a
+useful way.
+
+Adjacent
+Close
+Short
+Medium
+Long
+Very Long
+Distant
+
+A
+
+Range Bands
+
+SENSORS
+
+Range
+
+R
+
+Fine details
+
+EM
+
+Full
+Full
+Limited
+Limited
+Minimal
+Minimal
+None
+
+Thermal
+
+Adjacent
+Close
+Short
+Medium
+Long
+Very Long
+Distant
+
+E
+
+EM
+
+L
+
+E
+
+Distance
+
+1km or less
+1–10km
+11–1,250km
+1,251–10,000km
+10,001–25,000km
+25,001–50,000km
+More than 50,000km
+
+SENSOR TYPES
+
+The following are the types of sensor commonly found
+on spacecraft across Tech Levels.
+Visual (all): Electronically-enhanced telescopes.
+Thermal (all): Picking up heat emissions.
+Radar/Lidar (all): Detects physical objects. Active use
+bounces beams off a target and thus makes it easier to
+be seen (DM+2 to Electronics (sensors) checks to be
+detected in return).
+NAS (advanced): Neural Activity Scanner. Detects
+neural activity and intelligence.
+Densitometers (improved): Determines internal
+structure and makeup of an object through its natural gravity.
+
+Active Radar/Lidar Passive Radar/Lidar
+Full
+Full
+Full
+Limited
+Limited
+Minimal
+Minimal
+
+L
+
+Limited
+Limited
+Minimal
+Minimal
+None
+None
+None
+
+NAS
+
+Full
+Limited
+Minimal
+None
+None
+None
+None
+
+Active Radar/Lidar NAS
+
+Fine temperature
+Individual
+Fine details
+gradations, individual systems
+heat sources on
+exterior
+Hot or cold spots
+Powerful EM Shape and
+sources
+structure
+Hot or cold overall
+Presence or Basic outline
+absence of
+activity
+
+Densitometer
+Full
+Full
+Limited
+Minimal
+None
+None
+None
+
+Densitometer
+
+Individual brain Fine details
+activity
+Level of
+activity
+Presence or
+absence of
+activity
+
+Internal
+structure
+External
+structure
+
+R
+
+

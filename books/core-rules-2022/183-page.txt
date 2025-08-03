@@ -1,0 +1,103 @@
+This is not strictly necessary and ships can and will
+vary in this allocation, either increasing it to give crews
+and passengers a more luxurious (or at least more
+comfortable) journey or cutting back to give more space
+to useful components though at a cost of crew comfort.
+Common areas cost MCr0.1 per ton.
+
+STEP 12: ALLOCATE CARGO SPACE
+
+Any space left on the ship that has not been allocated
+to other components is considered to be free for cargo.
+There is no cost associated with areas designated for
+cargo but any cargo or other materials taken on board
+the ship can obviously not exceed the tonnage set
+aside for cargo.
+
+STEP 13: FINALISE DESIGN
+
+Once cargo space has been allocated, the design
+process has been completed – your ship is now
+ready to fly.
+All that remains is to total up the tonnage consumed by
+components to ensure you have not tried to squeeze
+too much within the hull and to add up all components
+to find the final cost of the ship. If you need to go back
+and revise any part of the ship, now is the time.
+At this point, you should work out the maintenance cost
+of the ship. For this, simply take the total cost of the
+ship, minus any other ships it is carrying and divide by
+1,000. Divide this final figure by 12, and you will have
+the regular maintenance cost of the ship, payable every
+Maintenance Period (see page 46).
+
+Weapons (both offensive and defensive in nature) are
+an important component for many ships. Presented
+here are some of options available to spacecraft
+architects looking to weaponise their creations.
+
+NUMBER OF WEAPONS
+
+There are only so many weapons that can be attached
+to a ship, the limiting factors being the supply of energy,
+the stresses imposed upon the hull through the use of
+high-powered weaponry and the surface area of a hull
+it is possible to cover with weapons.
+
+
+A ship has one Hardpoint for every full 100 tons of its hull.
+Each weapon system uses one Hardpoints.
+
+SMALL CRAFT
+
+Ships of less than 100 tons have Firmpoints instead
+of Hardpoints. A Firmpoint on a small craft is a
+fixed mount (typically forward-facing but there is no
+requirement for this) but can be upgraded to a single
+(not double or triple) turret.
+A ship of less than 35 tons has one Firmpoint. A
+ship of 35–70 tons has two Firmpoints, and a ship of
+71–99 tons has three Firmpoints. Beyond this size,
+ships use Hardpoints.
+A weapon mounted upon a Firmpoint has the following
+changes applied to it:
+•
+•
+•
+
+Weapons of Medium range or less are reduced to
+Adjacent range.
+Weapons of greater range are reduced to Close
+range.
+A weapon on a Firmpoint may not have its range
+increased beyond Close by any means.
+
+TURRETS AND FIXED MOUNTS
+
+Turrets and fixed mounts use the same type of
+weapons but whereas a fixed mount may only fire at
+targets directly ahead of it, a turret rotates and may
+engage any target in sight.
+One turret or fixed mount may be attached to each
+Hardpoint on a ship.
+Up to three weapons may be mounted on a fixed mount
+(small craft may only mount one weapon), while turrets
+can mount one, two or three weapons, depending on
+their type. These weapons need not be identical.
+If two or more weapons are of the same type, they
+may be fired together. One attack roll is made for all
+weapons being fired but each additional weapon adds
++1 per damage dice to the final damage total.
+Turrets and fixed mounts require just one gunner to
+operate, even if multiple weapons are mounted upon them.
+
+spacecraft construction
+
+WEAPONS AND SCREENS
+
+Spacecraft therefore have a maximum number of
+Hardpoints to which weapons can be attached.
+
+183
+
+

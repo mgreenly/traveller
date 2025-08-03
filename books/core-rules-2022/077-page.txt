@@ -1,0 +1,116 @@
+Note that unless a weapon has the Scope trait (see
+page 79), all attacks made at a range greater than 100
+metres are automatically considered to be Extreme
+Range. This assumes the Traveller is in a combat
+situation – if the Traveller is in a no-stress environment,
+the referee is free to increase this to 300 metres.
+
+MELEE ATTACKS
+
+Damage: This is the base amount of damage dealt by
+the weapon when it successfully hits a target. Damage
+is covered in more detail below.
+
+Armour reduces the damage sustained in an attack by
+the value of its Protection score. An attack with Effect 6+
+always inflicts at least one point of damage, regardless
+of the actual damage rolled or the Protection score.
+
+Kg: A simple measure of the mass of the weapon. This
+will affect how much a Traveller can carry.
+Cost: The cost of buying the weapon, in Credits.
+
+When a melee attack is successful, the attacker adds their
+STR DM to the damage rolled for the weapon, in addition
+to the Effect of the attack roll. Bigger things hit harder!
+
+ARMOUR
+
+Some weapons have the AP, or Armour Piercing, trait.
+These weapons ignore an amount of Armour equal to
+their AP score.
+
+Magazine: Most ranged weapons are capable of
+holding more than one round or projectile before they
+need reloading. How many shots can be fired before
+reloading is necessary is noted here.
+
+COVER
+
+Magazine Cost: This is simply the cost of a spare
+magazine that will fully reload the weapon.
+
+A Traveller using cover to shield themselves while
+engaging in combat inflicts DM-2 against all ranged
+attacks made against them.
+
+Traits: Some weapons have special rules. These will be
+listed here and are covered in more detail on page 79.
+
+When the bullets start flying, Travellers are advised to
+take cover behind something solid, ducking back when
+shot at and popping up to return fire.
+
+HIDING
+
+DAMAGE
+
+If a Traveller is able to position themselves completely
+in cover so the enemy cannot see them, and chooses
+not to make any attacks, they can hide.
+
+•
+
+However, if an enemy is aware of the Traveller’s
+presence, they can still be attacked. The Traveller gains
+all the benefits of cover but also gains a bonus to their
+armour’s Protection (or giving the Traveller Protection
+if they did not already have one). The amount of bonus
+Protection a target receives depends on the type of
+cover it is hiding behind.
+
+Each weapon in Traveller lists the damage it inflicts as
+a number of dice. A rifle, for example, has a Damage
+score of 3D:
+
+•
+
+•
+
+When characteristics have been eroded by damage,
+their DMs should be recalculated and the impaired DM
+used until the damage is healed.
+
+If a Traveller could potentially claim cover from two
+different types of cover (for example, they have
+ducked down behind a ground car within a forest
+and also has trees between themselves and their
+attacker) then they only receive a Protection bonus
+from the most effective cover.
+The following table gives some examples of Protection
+bonuses granted by cover. The referee is free to devise
+their own based on the values of this table:
+
+combat
+
+•
+
+Upon a successful attack, damage is rolled for, with
+the Effect of the attack roll added to the total.
+Damage is initially applied to a target’s END. If
+a target is reduced to 0 END, then any excess
+damage is deducted from either the target’s STR or
+DEX (target’s choice of which).
+If either STR or DEX are reduced to 0, the Traveller
+becomes unconscious and any further damage is
+deducted from the remaining physical characteristic.
+If all three physical characteristics (STR, DEX
+and END) are reduced to 0, the Traveller has
+been killed.
+
+Healing damage is covered on page 82.
+
+
+77
+
+

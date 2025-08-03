@@ -1,0 +1,111 @@
+•
+
+•
+
+•
+
+
+Engineer
+The Engineer skill is used to operate and maintain
+spacecraft and advanced vehicles. Engineer can
+be used to make repairs on damaged systems on
+spacecraft and advanced vehicles. For repairs on
+simpler machines and systems, use the Mechanic skill.
+
+Specialities
+•
+
+•
+
+•
+
+•
+
+M-drive: Maintaining and operating a spacecraft’s
+manoeuvre drive, as well as its artificial gravity.
+Overcharging a Thruster Plate to Increase a Ship’s
+Agility: Difficult (10+) Engineer (m-drive) check (1D
+minutes, INT).
+Estimating a Ship’s Tonnage From its Observed
+Performance: Average (8+) Engineer (m-drive)
+check (1D x 10 seconds, INT).
+J-drive: Maintaining and operating a spacecraft’s
+jump drive.
+Making a Jump: Easy (4+) Engineer (j-drive) check
+(1D x 10 minutes, EDU).
+Life Support: Covers oxygen generators, heating
+and lighting and other necessary life support systems.
+Safely Reducing Power to Life Support to Prolong
+a Ship’s Battery Life: Average (8+) Engineer (life
+support) check (1D minutes, EDU).
+Power: Maintaining and operating a spacecraft’s
+power plant.
+Monitoring an Enemy ship’s Power Output to
+Determine its Capabilities: Difficult (10+) Engineer
+(power) check (1D minutes, INT).
+
+Explosives
+The Explosives skill covers the use of demolition
+charges and other explosive devices, including
+assembling or disarming bombs. A failed Explosives
+check with an Effect of -4 or less can result in a bomb
+detonating prematurely.
+Planting Charges to Collapse a Wall in a Building:
+Average (8+) Explosives check (1D x 10 minutes, EDU).
+Planting a Breaching Charge: Average (8+) Explosives
+check (1D x 10 seconds, EDU). The damage from the
+explosive is multiplied by the Effect.
+Disarming a Bomb Equipped with Anti-Tamper Trembler
+Detonators: Formidable (14+) Explosives check (1D
+minutes, DEX).
+
+skills and tasks
+
+Accessing Publicly Available but Obscure Data
+Over Comms: Average (8+) Electronic (comms)
+check (1D x 10 minutes, EDU).
+Bouncing a Signal off Orbiting Satellite to Hide Your
+Transmitter: Difficult (10+) Electronics (comms)
+check (1D x 10 minutes, INT).
+Jamming a Comms System: Opposed Electronics
+(comms) check (1D minutes, INT). Difficult (10+) for
+radio, Very Difficult (12+) for laser and Formidable
+(14+) for masers. A Traveller using a comms
+system with a higher Technology Level than their
+opponent gains DM+1 for every TL of difference.
+Computers: Using and controlling computer
+systems and similar electronics and electrics.
+Accessing Publicly Available Data: Easy (4+)
+Electronics (computers) check (1D minutes, INT
+or EDU).
+Activating a Computer Program on a Ship’s
+Computer: Routine (6+) Electronics (computers)
+check (1D x 10 seconds, INT or EDU).
+Searching a Corporate Database for Evidence
+of Illegal Activity: Difficult (10+) Electronics
+(computers) check (1D hours, INT).
+Hacking into a Secure Computer Network:
+Formidable (14+) Electronics (computers) check
+(1D x 10 hours, INT). Hacking is aided by Intrusion
+programs and made more difficult by Security
+programs. The Effect determines the amount of
+data retrieved; failure means the targeted system
+may be able to trace the hacking attempt.
+Remote Ops: Using telepresence to remotely
+control drones, missiles, robots and other devices.
+Using a Mining Drone to Excavate an Asteroid:
+Routine (6+) Electronics (remote ops) check (1D
+hours, DEX).
+Sensors: The use and interpretation of data
+from electronic sensor devices, from observation
+satellites and remote probes to thermal imaging
+and densitometers.
+Making a Detailed Sensor Scan: Routine (6+)
+Electronics (sensors) check (1D x 10 minutes, INT
+or EDU).
+Analysing Sensor Data: Average (8+) Electronics
+(sensors) check (1D hours, INT).
+
+67
+
+

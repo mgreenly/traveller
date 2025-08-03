@@ -1,0 +1,149 @@
+T
+
+MOVEMENT
+
+The amount of Thrust required to increase or decrease
+the Range Band between ships by one category, up
+or down, is shown on the Ship Movement table – the
+Thrust listed is the amount required to move from that
+Range Band to either the next closest or next furthest.
+A ship can spend Thrust over multiple rounds to close
+or open a category.
+If two ships are travelling towards one another, then
+the proportion of their Thrusts devoted to movement
+are added together for the purposes of Range Band
+changes. If one ship is trying to escape another, then
+subtract the lower Thrust from the higher to work out
+the Range Band change – the faster ship will either
+gain on or pull away from the slower.
+As will be readily apparent, it takes a lot of Thrust to
+move between Range Bands once ships get to Long
+range or further. This is because space is vast and
+even the most powerful ships take a long time to
+cross any significant distance. At these ranges, ships
+will rarely expend vital energy trying to change range
+unless they are looking to board a target or escape.
+Note that once a spacecraft moves to within Close or
+Adjacent range of another, immediately start using the
+Dogfighting rules on page 174.
+
+COMBAT MANOEUVRING
+
+Any remaining Thrust that has not been allocated for
+movement may be used for combat manoeuvring.
+
+space combat
+
+One point of Thrust allows a ship to do one of the
+following, and several of these manoeuvres may be
+attempted if enough Thrust is available. However,
+each manoeuvre may only be attempted once with the
+exception of Evasive Action.
+
+166
+
+Aid Gunners: A pilot may attempt to aid thair gunners by
+providing a more stable firing platform along the optimum
+attack vector. The pilot makes a Pilot check to start a task
+chain with their gunners, as described on page 63.
+
+Ship Movement
+Range Band
+Adjacent
+Close
+Short
+Medium
+Long
+Very Long
+Distant
+
+
+Distance
+
+1km or less
+1–10km
+11–1,250km
+1,251–10,000km
+10,001–25,000km
+25,001–50,000km
+More than 50,000km
+
+R
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Docking: The pilot must make a successful Pilot
+check. If the other ship does not wish to be docked,
+then both ships must make opposed Pilot checks, with
+the ship trying to dock suffering DM-2. When a docking
+is successful, boarding actions can take place.
+Evasive Action: Any remaining Thrust can be used as
+a reaction to dodge incoming fire. This is covered on
+page 171.
+
+ATTACK STEP
+
+Once all ships have worked out their movement and
+combat manoeuvring, they can launch attacks! This is
+done in Initiative order.
+Attacking with weapons mounted on spacecraft uses
+the same rules as detailed in the Combat chapter, with
+the following exceptions:
+•
+•
+
+Firing a spacecraft-mounted weapon uses the
+Gunner skill.
+The maximum Range of weapons is noted in
+Range Bands, not metres.
+
+Weapons on board a spacecraft are fired by Travellers
+assigned to gunner duty. However, a pilot may fire any
+weapons in a single turret at DM-2 to the attack roll or
+weapons noted as being in fixed mounts (this is usually
+found on smaller craft that are not always large enough
+to accommodate turrets, such as fighters and shuttles).
+
+FIRING WEAPONS
+
+When a ship fires at another, it declares it is going to
+attack and selects a target. The target may then choose
+to perform Evasive Action. The Traveller on gunner duty
+for the weapon being fired then makes an appropriate
+skill check and, as normal for any skill check, if they
+total 8+, the attack is successful and damage is dealt to
+the target (see Damaging Spacecraft on page 168).
+
+Thrust Required
+
+1
+1
+2
+5
+10
+25
+50
+
+A
+
+Example
+
+Docked ships
+Nearby or dogfighting vessels
+Ships in same orbital path
+Surface to orbit
+Near to a planet
+Within jump limit
+Distant ships
+
+R
+
+

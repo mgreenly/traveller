@@ -1,0 +1,113 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+OPTIONS
+Climate Controlled (TL10): Structures can be given
+the climate-control option, allowing their internal
+temperature and other conditions to be controlled for
+comfort. Costs Cr500.
+
+Self-Assembling (TL11): The self-assembling upgrade
+can be given to tents, habitat modules and other basic
+structures. The structure is capable of expanding and
+assembling itself with only minimal aid, reducing the
+time needed to set up the shelter to a single man-hour.
+Costs Cr5000.
+
+Habitat Module
+
+Self-Sealing (TL13): Structures can be made selfrepairing and self-sealing for Cr2000. Small breaches
+and rips are automatically fixed in seconds.
+Breather Mask
+
+TOOLKITS
+
+Technical skills require specialist tools of various kinds.
+These kits contain diagnostic sensors, hand tools,
+computer analysis programs and spare parts.
+Toolkits may be purchased at higher Tech Levels and
+will be much more capable at fulfilling tasks. If a toolkit
+is at least two Tech Levels higher than the item or task
+that is being worked upon, it will grant DM+2 to all
+related checks. However, if a toolkit is two Tech Levels
+or more lower than the item or task that is being worked
+on, it will inflict DM-2 on all related checks.
+
+equipment
+
+TOOLKITS
+
+TL
+
+KG
+
+COST
+
+Electronics
+Engineering
+Forensics
+Mechanical
+Scientific
+
+7
+12
+8
+5
+5
+
+2
+12
+12
+12
+8
+
+Cr2000
+Cr4000
+Cr2000
+Cr1000
+Cr2000
+
+Surveying
+
+6
+
+12
+
+Cr1000
+
+Electronics (specific skill): Required for performing
+repairs and installing new equipment.
+
+Engineering (specific skill): Required for performing
+repairs and installing new equipment.
+
+Forensics: Required for investigating crime scenes
+and testing samples.
+
+Mechanical: Required for repairs and construction.
+Scientific: Required for scientific testing and analysis.
+Surveying: Required for planetary surveys or mapping.
+
+120
+
+Filter Mask
+
+
+Respirator
+
+R
+
+

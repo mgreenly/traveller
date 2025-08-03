@@ -1,0 +1,208 @@
+T
+
+9
+
+noble
+
+Qualification: SOC 10+
+DM -1 for every previous career
+Automatic qualification if your SOC is 10 or higher
+
+ASSIGNMENTS
+
+Choose one of the following:
+
+V
+
+E
+
+L
+
+L
+
+E
+
+SURVIVAL
+INT 4+
+INT 5+
+SOC 5+
+
+Administrator
+Diplomat
+Dilettante
+
+ADVANCEMENT
+EDU 6+
+SOC 7+
+INT 7+
+
+Mustering out benefits
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr10000
+Cr10000
+Cr50000
+Cr50000
+Cr100000
+Cr100000
+Cr200000
+
+BENEFITS
+Ship Share
+Two Ship Shares
+Blade
+SOC +1
+TAS Membership
+Yacht
+SOC +1 and Yacht
+
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Gambler
+Gun Combat
+Melee
+
+SERVICE SKILLS
+Admin
+Advocate
+Electronics
+Diplomat
+Investigate
+Persuade
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Science
+Advocate
+Language
+Leadership
+Diplomat
+Art
+
+1D
+1
+2
+3
+4
+5
+6
+
+ADMINISTRATOR
+Admin
+Advocate
+Broker
+Diplomat
+Leadership
+Persuade
+
+DIPLOMAT
+Advocate
+Carouse
+Electronics
+Steward
+Diplomat
+Deception
+
+DILETTANTE
+Carouse
+Deception
+Flyer
+Streetwise
+Gambler
+Jack-of-all-Trades
+
+
+Ranks and bonuses
+
+traveller creation
+
+Skills and training
+
+Administrator: You serve in the planetary government
+or even ruled over a fiefdom or other domain.
+Diplomat: You are a diplomat or other state official.
+Dilettante: You are known for being known and have
+absolutely no useful function in society.
+
+38
+
+A
+
+Career progress
+
+Individuals of the upper class who perform little
+consistent function but often have large amounts of
+ready money.
+
+9
+
+R
+
+RANK
+
+ADMINISTRATOR
+
+SKILL OR BONUS
+
+0
+
+Assistant
+
+—
+
+1
+
+Clerk
+
+Admin 1
+
+2
+
+Supervisor
+
+—
+
+3
+
+Manager
+
+Advocate 1
+
+4
+
+Chief
+
+—
+
+5
+
+Director
+
+Leadership 1
+
+6
+
+Minister
+
+—
+
+R
+
+

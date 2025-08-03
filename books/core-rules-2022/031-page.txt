@@ -1,0 +1,151 @@
+Ranks and bonuses
+Mishaps
+
+RANK
+0
+1
+
+JOURNALIST
+—
+Freelancer
+
+2
+3
+4
+5
+6
+
+Staff Writer
+—
+Correspondent
+—
+Senior
+Correspondent
+
+1D
+1
+2
+3
+4
+5
+
+Events
+
+6
+
+2D
+2
+3
+4
+
+6
+7
+8
+
+9
+10
+11
+12
+
+
+RANK
+
+PERFORMER
+
+SKILL OR BONUS
+
+0
+
+—
+
+—
+
+1
+
+—
+
+DEX +1
+
+2
+
+—
+
+—
+
+3
+
+—
+
+STR +1
+
+4
+
+—
+
+—
+
+5
+
+Famous Performer
+
+SOC +1
+
+6
+
+—
+
+—
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury table and take the lower result.
+You expose or are involved in a scandal of some sort.
+Public opinion turns on you. Reduce your SOC by 1.
+You are betrayed by a peer. One of your Contacts or Allies betrays you, ending your career. That
+Contact or Ally becomes a Rival or Enemy. If you have no Contacts or Allies, then you are betrayed
+by someone you never saw coming and still gain a Rival or Enemy.
+An investigation, tour, project or expedition goes wrong, stranding you far from home. Gain one of
+Survival 1, Pilot 1, Persuade 1 or Streetwise 1.
+You are forced out because of censorship or controversy. What truth did you get too close to? You
+gain DM+2 to the qualification roll for your next career.
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+You are invited to take part in a controversial event or exhibition. Roll Art or Investigate 8+. If you
+succeed, gain one SOC. If you fail, lose one SOC.
+You are a part of your homeworld’s celebrity circles. Gain one of Carouse 1, Persuade 1, Steward 1
+or a Contact.
+One of your works is especially well received and popular, making you a minor celebrity. Gain DM+1
+to any one Benefit roll.
+You gain a patron in the arts. Gain DM+2 to your next advancement roll and an Ally.
+Life Event. Roll on the Life Events table (see page 46).
+You have the opportunity to criticise or even bring down a questionable political leader on your
+homeworld. If you refuse and support the leader, you gain nothing. If you accept, gain an Enemy
+and roll Art or Persuade 8+. If you succeed, gain one level in any skill you already have. If you fail,
+increase a skill anyway and roll on the Mishap table.
+You go on a tour of the sector, visiting several worlds. Gain D3 Contacts.
+One of your pieces of art is stolen and the investigation brings you into the criminal underworld. Gain
+one of Streetwise 1, Investigate 1, Recon 1 or Stealth 1.
+As an artist, you lead a strange and charmed life. Go to the Life Events Table and have an
+Unusual Event.
+You win a prestigious prize. You are automatically promoted.
+
+5
+
+traveller creation
+
+5
+
+SKILL OR BONUS
+—
+Electronics
+(comms) 1
+Investigate 1
+—
+Persuade 1
+—
+SOC +1
+
+31
+
+

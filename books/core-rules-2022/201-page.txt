@@ -1,0 +1,16 @@
+1
+
+2
+1. Bridge
+2. Missile Storage
+3. Medical Bay
+4. Cargo Bay
+
+3
+
+4
+
+
+201
+
+

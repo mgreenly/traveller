@@ -1,0 +1,107 @@
+T
+
+ANIMALS OF ALIEN WORLDS
+Carthus
+
+A tall, pale creature that dwells in deep desert caves.
+Its four limbs and spine are extremely flexible as it can
+dislocate joints at will and feel its way through cracks
+and crevasses in their dark surroundings looking for
+prey. A huge mouth scrapes the roof of caves sucking
+moisture from fungus and moss. Although poor
+sighted the carthus other senses are highly tuned to
+search out prey.
+Hits
+
+Speed
+
+Carthus
+
+28
+
+13m
+
+Skills
+
+Melee (natural) 3, Recon 2, Stealth
+2, Survival 2
+
+Attacks
+
+Bite (4D)
+
+Traits
+
+Amphibious, Camouflaged, Fast
+Metabolism (+2), Heightened
+Senses, Large (+1)
+
+Behaviour
+
+Carnivore, Hunter
+
+Encounters and dangers
+
+Animal
+
+86
+
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Erakruul
+
+This is an extremely large sea worm with bioluminescent
+spots and markings across the length of its body. Its
+most notable feature is a large sucker-like disk of a
+mouth filled with hundreds of tiny sharp teeth. The
+erakruul spends the majority of its life in the very deep,
+inky black oceans of its homeworld where it feeds on
+corpses that sink to the bottom of the sea. While it
+is unknown how large these creatures can grow, the
+largest sighting to date was over 60 metres in length.
+Animal
+
+Hits
+
+Speed
+
+Erakruul
+
+95
+
+5m
+
+Skills
+
+Athletics (strength) 3, Survival 3
+
+Attacks
+
+Bite (6D)
+
+Traits
+
+Bioelectricity (+4D), Heightened
+Senses, Large (+5), Slow
+Metabolism (-3)
+
+Behaviour
+
+Scavenger, Reducer
+
+R
+
+

@@ -1,0 +1,139 @@
+T
+
+Broker
+The Broker skill allows a Traveller to negotiate trades
+and arrange fair deals. It is heavily used when trading
+(see the Trade chapter).
+Negotiating a Deal: Average (8+) Broker check (1D
+hours, INT).
+Finding a Buyer: Average (8+) Broker check (1D
+hours, SOC).
+
+R
+
+skills and tasks
+
+Deception allows a Traveller to lie fluently, disguise
+themselves, perform sleight of hand and fool
+onlookers. Most underhanded ways of cheating and
+lying fall under deception.
+
+66
+
+Convincing a Guard to let you Past Without ID: Very
+Difficult (12+) Deception check (1D minutes, INT).
+Alternatively, oppose with a Recon check.
+Palming a Credit Chit: Average (8+) Deception check
+(1D seconds, DEX).
+Disguising Yourself as a Wealthy Noble to Fool a Client:
+Difficult (10+) Deception check (1D x 10 minutes, INT
+or SOC). Alternatively, oppose with a Recon check.
+
+Diplomat
+The Diplomat skill is for negotiating deals, establishing
+peaceful contact and smoothing over social faux pas.
+It includes how to behave in high society and proper
+ways to address nobles. It is a much more formal skill
+than Persuade.
+Greeting the Emperor Properly: Difficult (10+) Diplomat
+check (1D minutes, SOC).
+Negotiating a Peace Treaty: Average (8+) Diplomat
+check (1D days, EDU).
+Transmitting a Formal Surrender: Average (8+)
+Diplomat check (1D x 10 seconds, INT).
+
+
+E
+
+L
+
+L
+
+E
+
+This skill is for controlling ground vehicles of various
+types. There are several specialities.
+
+Specialities
+•
+
+•
+
+Carousing is the art of socialising; having fun, but also
+ensuring other people have fun, and infectious good
+humour. It also covers social awareness and subterfuge
+in such situations.
+
+Deception
+
+V
+
+Drive
+
+Carouse
+
+Drinking Someone Under the Table: Opposed Carouse
+check (1D hours, END). Difficulty varies by liquor.
+Gathering Rumours at a Party: Average (8+) Carouse
+check (1D hours, SOC).
+
+A
+
+•
+
+•
+
+•
+
+Hovercraft: Vehicles that rely on a cushion of air
+and thrusters for motion.
+Manoeuvring a Hovercraft Through a Tight
+Canal: Difficult (10+) Drive (hovercraft) check (1D
+minutes, DEX).
+Mole: For controlling vehicles that move through
+solid matter using drills or other earth-moving
+technologies, such as plasma torches or cavitation.
+Surfacing in the Right Place: Average (8+) Drive
+(mole) check (1D x 10 minutes, INT).
+Precisely Controlling a Dig to Expose a Vein of
+Minerals: Difficult (10+) Drive (mole) check (1D x 10
+minutes, DEX).
+Track: For tanks and other vehicles that move
+on tracks.
+Manoeuvring (or Smashing, Depending on the
+Vehicle) Through a Forest: Difficult (10+) Drive
+(tracked) check (1D minutes, DEX).
+Driving a Tank into a Cargo Bay: Average (8+)
+Drive (tracked) check (1D x 10 seconds, DEX).
+Walker: Vehicles that use two or more legs to
+manoeuvre.
+Negotiating Rough Terrain: Difficult (10+) Drive
+(walker) check (1D minutes, DEX).
+Wheel: For automobiles and similar groundcars.
+Driving a Groundcar in a Short Race: Opposed Drive
+(wheeled) check (1D minutes, DEX). Longer races
+might use END instead of DEX.
+Avoiding an Unexpected Obstacle on the Road: Average
+(8+) Drive (wheeled) check (1D seconds, DEX).
+
+Electronics
+This skill is used to operate electronic devices such
+as computers and ship-board systems. Higher levels
+represent the ability to repair and create electronic
+devices and systems. There are several specialities.
+
+Specialities
+•
+
+Comms: The use of modern telecommunications;
+opening communications channels, querying
+computer networks, jamming signals and so on, as
+well as the proper protocols for communicating with
+starports and other spacecraft.
+Requesting Landing Privileges at a Starport:
+Routine (6+) Electronic (comms) check (1D
+minutes, EDU).
+
+R
+
+

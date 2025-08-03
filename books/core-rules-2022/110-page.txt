@@ -1,0 +1,78 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Any technological society runs on computers, with
+access to them as basic as the right to air and water.
+To those both knowledgeable and skilled, computers
+open a vast array of possibilities in all areas of life and
+having the right computer for the right job is usually
+more important than carrying a gun.
+
+Portable Computer
+
+computers
+& software
+THE CORE COLLECTION
+
+equipment
+
+USING COMPUTERS
+
+110
+
+Computers in Traveller are ranked by their Processing
+score. A Computer/3, for example, has a Processing
+score of 3. This is its ability to run software.
+
+A Traveller can use any high-Bandwidth software
+at a lower Bandwidth, to a minimum of the lowest
+Bandwidth shown. For example, a Traveller could run
+Intrusion/3 on a Computer/1 but it would only function
+as Intrusion/1.
+
+Note that the storage capacity of computers is not used
+in Traveller as, beyond TL8, the capacity of even a
+modest computer is effectively unlimited.
+
+A computer with Processing 0 can only run one
+software package of Bandwidth 0 at a time.
+
+All software has a Bandwidth score, which represents
+the processing power a computer requires in order to
+run it. At any one time, a computer can run a number of
+software packages whose combined Bandwidth does
+not exceed its Processing score.
+For example, a Computer/3 could run Translator/1 and
+Security/2 simultaneously, but if the Traveller using
+it then wanted to run Intelligent Interface (which has
+Bandwidth 1) then they would have to swap it out with
+one of the existing software packages.
+
+
+Note that Processing does not limit how much software
+a computer can store and have ready to use, just how
+many software packages can be active and useable at
+any one time.
+A computer must be of a TL equal to or greater than
+that of the software in order to be able to run it,
+regardless of available Bandwidth.
+Software packages of more than Bandwidth 1 cannot
+be copied easily, as they require a non-trivial amount of
+bandwidth to transfer.
+
+R
+
+

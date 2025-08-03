@@ -1,0 +1,150 @@
+The referee may add their own modifiers as they see
+fit. An industrial revolution will likely increase available
+cargo, for example, while a famine will reduce it.
+
+Freight Traffic
+2D
+
+1 or less
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20 or more
+
+Lots
+0
+1D
+1D
+2D
+2D
+3D
+3D
+3D
+4D
+4D
+4D
+5D
+5D
+5D
+6D
+6D
+7D
+8D
+9D
+10D
+
+Mail deliveries are priced at a flat-rate and the payment
+does not scale with distance.
+
+SPECULATIVE TRADE & SMUGGLING
+The greatest profits and losses are to be found
+in speculative trade – buying low and selling high
+across the stars. It sounds simple but while great
+fortunes have been made through speculative trade,
+many ships have found themselves bankrupted by
+the same process.
+Speculative trade is performed by going through the
+following steps:
+
+Trade Checklist
+
+A freight lot cannot be broken up. Cargo is paid for
+upon delivery, assuming it is delivered on time. Failing
+to deliver cargo on time reduces the amount paid by
+1D+4 x 10%.
+
+MAIL
+
+Mail is a special form of freight, consisting of large
+data storage drums that contain a vast amount of
+information, as well as physical packages, which must
+be transported from one world to another but not vital
+enough to be entrusted to the x-boat service or a
+private courier. To determine if there is mail available,
+roll 2D and then apply the modifiers on the Mail table.
+
+Freight Traffic DM–10 or less: 		
+Freight Traffic DM–9 to –5: 		
+Freight Traffic DM–4 to +4: 		
+Freight Traffic DM 5 to 9: 		
+Freight Traffic DM 10 or more: 		
+Travellers’ ship is armed: 		
+World is TL of 5 or less: 			
++ Travellers’ highest Naval or Scout rank
++ Travellers’ highest SOC DM
+
+
+DM-2
+DM-1
+DM+0
+DM+1
+DM+2
+DM+2
+DM-4
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Find a supplier or local broker
+Determine goods available
+Determine purchase price
+Purchase goods
+Travel to another market
+Find a buyer or local broker
+Determine sale price
+
+FIND A SUPPLIER
+
+On worlds regularly visited by trade vessels, finding
+a supplier is easy. There are traders and brokers at
+the starport eager to deal with offworlders and the
+whole planetary economy may rely on trade with other
+planets. Technologically advanced worlds will have
+computer networks that can be searched for suppliers,
+while on lower-tech worlds traders seek out suppliers in
+markets and bazaars. Travellers can search for multiple
+suppliers but there is DM-1 per previous attempt on a
+planet in the same month.
+The following skill checks are used to find suppliers:
+Finding a Supplier or Broker: Average (8+) Broker
+check (1D days, EDU or SOC).
+Finding a Black Market Supplier or Broker of Illegal
+Goods: Average (8+) Streetwise check (1D days, EDU
+or SOC).
+Finding an Online Supplier or Broker (TL8+ worlds
+only): Average (8+) Admin check (1D hours, EDU).
+
+trade
+
+Mail
+
+On 12 or more, the Travellers are chosen to transport
+mail to the destination world. Mail containers take
+up five tons of space and the Travellers will be paid
+Cr25000 for transporting the container. There will be
+1D containers available to transport and the Travellers
+must take them all or none at all.
+
+241
+
+

@@ -1,0 +1,117 @@
+T
+
+Quality: This determines both the condition of the port
+itself and the level of competence of the staff. Quality
+may vary – it is possible to find a Class D port run by
+expert engineers or a Class A that has succumbed
+to decay. Some worlds have entirely inappropriate
+starports; a world that was once a centre of commerce
+but has now been bypassed by new trade routes, might
+have a cavernous port capable of handling thousands
+of freighters now almost abandoned.
+A frontier installation is just a bare spot of bedrock,
+marked with a beacon, and is a starport in the most
+technical sense only.
+Berthing Cost: This is the price paid by any ship that
+wants to land or dock at the starport and is due weekly.
+Prices can vary wildly between starports but tend to
+remain stable at each (roll once for each starport and
+record it for future reference).
+Fuel: This refers to the fuel available for purchase –
+either refined or unrefined. Refined fuel costs Cr500 per
+ton; unrefined fuel costs Cr100 per ton but is risky to
+use when jumping. Bases have their own fuel-refining
+ability – see Bases on page 259.
+Facilities: These are the starport’s repair and
+construction ability. A shipyard allows for the construction
+of new vessels. A shipyard capable of building all types
+of ships can construct small craft (less than 100 tons),
+spacecraft (100 to 5,000 tons) and capital ships (more
+than 5,000 tons). However only a Class A starport can
+construct jump-capable spacecraft.
+Repair facilities allow a damaged ship to be repaired and
+have plenty of spare parts for most common systems.
+
+universe creation
+
+Limited repair facilities can only fix Hull damage.
+
+258
+
+Use the following modifiers when determining whether
+a highport is present: DM+1 if TL9–11, DM+2 if TL 12+,
+DM+1 if Population 9+, DM–1 if Population 6–
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+CHARTED SPACE: STARPORTS AND THE LAW
+Technically, a starport is Imperial territory
+and not under the jurisdiction of the planetary
+government. The local government may share in
+the construction costs, running costs and profits
+of the starport but the port is extraterritorial and
+run by an Imperium-appointed governor. This
+means that Travellers can carry locally illegal
+goods onto a planet so long as they do not leave
+the starport. It also means that criminals and
+refugees often claim sanctuary in a starport and
+that a starport’s Tech Level may be considerably
+higher than that of the rest of the planet.
+Starports operate according to Imperial Law
+(equivalent to Law Level 1 for most items and
+forbidding all use of psionics).
+However, Travellers should be aware that not
+every world honours this approach and paranoid
+governments have been known to forcibly board
+and inspect ships to root out what they see as
+unpleasant influences.
+
+TECH LEVEL
+
+The Tech Level of the planet is determined by rolling 1D
+and adding DMs from the Tech Level table.
+The Tech Level measures the average technology
+presence on the planet and gives an idea of local
+production and repair capability. Trade with offworlders
+may bring in advanced technology; on average, a rich
+individual can afford technology two or more levels
+higher than the planetary average. The government
+may also have access to higher-technology items.
+
+Use the following modifiers when determining whether
+a corsair base is present: DM+2 if Law Level 0, DM–2 if
+Law Level 2+.
+
+A planet’s technology may be one or more levels
+higher or lower in a particular field, such as Medicine,
+Communications, Weaponry, Ship Construction, Power
+Generation, Computers and so forth.
+
+Bases: This lists what sort of bases may be present.
+Roll 2D for each base type listed; for more details, see
+Bases on page 259.
+
+COMMUNICATIONS
+
+
+If the planet is below Tech Level 3, then there will be
+no telecommunication system whatsoever except for
+whatever facilities the starport offers. If it is between
+TL4 and TL6, then it has radio and telephone
+communications between major cities at least but
+
+R
+
+

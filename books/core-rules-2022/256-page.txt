@@ -1,0 +1,176 @@
+T
+
+Drugs: A government that bans drugs begins with
+narcotics but at higher Law Levels, medicinal and
+anagathic drugs may also be banned.
+Information: A government that seeks to control
+information begins by restricting the use of computers
+and computer programs, especially information-retrieval
+and information-control. At higher Law Levels, bringing
+data from offworld or even communicating with natives
+can be forbidden.
+Technology: A government that bans technology
+seeks to shield its citizens from the influence of
+advanced technology.
+Travellers: A ban on Travellers restricts the ability
+of outsiders to visit the world, confining them to the
+starport or forbidding landing entirely.
+Psionics: Restrictions on psionics are common and
+most worlds ban psionics as a matter of course. On
+other worlds, psionics may be technically legal but
+there is such prejudice against it that most psionic
+users hide their abilities.
+
+Law Level
+Law
+Level
+0
+1
+2
+
+universe creation
+
+3
+4
+
+256
+
+5
+6
+
+7
+8
+9+
+
+
+Weapons Banned
+
+Armour
+
+No restrictions – heavy armour and a
+handy weapon recommended…
+Poison gas, explosives,
+Battle dress
+undetectable weapons,
+WMD
+Portable energy and laser Combat
+weapons
+armour
+Military weapons
+Flak
+Light assault weapons and Cloth
+submachine guns
+Personal concealable
+Mesh
+weapons
+All firearms except
+shotguns & stunners;
+carrying weapons
+discouraged
+Shotguns
+All bladed weapons,
+All visible
+stunners
+armour
+All weapons
+All armour
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+THE LAW & TRAVELLERS
+
+A planet’s Law Level can be used to determine the
+Travellers’ interactions with the law. In each of the
+following situations, roll 2D, add the listed modifiers and
+if the total is equal to or lower than the planet’s Law
+Level, the Travellers are investigated or challenged by
+agents of planetary law enforcement.
+
+Situation
+
+First approach to a planet
+Offworlders wandering the
+streets of a city (once per day)
+Offworlders acting
+suspiciously
+Bar fight
+Shots fired
+Breaking and entering
+Firefight involving armoured
+Travellers and military
+weapons
+Murder and carnage
+
+DM
+
+Response
+
++0
++0
+
+Check
+Check
+
+-1
+
+Check
+
+-1
+-2
+-2
+-4
+
+Apprehended
+Apprehended
+Investigate
+Apprehended
+
+-4
+
+Investigate
+
+Check: This result means the Travellers’ travel
+documents and identities are checked, either by a
+police officer or guard, or electronically by querying the
+Travellers’ comms. A successful Admin or Streetwise
+check can allay suspicion but if it is failed, the planetary
+authorities move on to Investigation.
+Investigate: This results in a detective or bureaucrat
+probing deeper into the Travellers’ backgrounds. If the
+Travellers have a ship, it will be searched. They may
+be followed or have their communications tapped. They
+may also be questioned closely.
+Apprehended: The police show up ready for a fight.
+Their response will generally be proportional to the threat
+posed by the Travellers; if the Travellers are just making
+trouble in a bar, then most police forces will use batons,
+stunners, tranq gas and other non-lethal weapons. On
+the other hand, if the Travellers are in battle dress and
+firing PGHPs at the palace of the planetary duke, then
+the police will show up with the best weapons and armour
+available at the planet’s Tech Level (or even a few levels
+higher), possibly with the army not far behind them.
+Travellers arrested for a crime will face punishment,
+determined by rolling 2D+DMs on the Sentencing table.
+For crimes involving smuggling banned goods, the DM
+is equal to the difference between the planet’s Law
+Level and the banned goods in question (for example,
+laser weapons are banned at Law Level 2, so a
+Traveller found with a laser weapon on a Law Level 6
+world would have DM+4 on the Sentencing table).
+
+R
+
+

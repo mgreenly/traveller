@@ -1,0 +1,211 @@
+SOFTWARE
+
+BANDWIDTH
+
+TL
+
+COST
+
+EFFECT
+
+Interface
+
+0
+
+TL7
+
+Included
+
+Displays data.
+
+Intelligent
+Interface
+
+1
+
+TL11
+
+Cr100
+
+Artificial intelligence allows voice control and displays data
+intelligently. Required for using Expert software.
+
+Security
+
+0
+
+TL8
+
+Included
+
+1
+2
+3
+
+TL10
+TL11
+TL12
+
+Cr200
+Cr1000
+Cr20000
+
+Security software packages defend against intrusion.
+Security/0 requires an Average (8+) Electronics
+(computers) check to successfully bypass.
+Difficult (10+) difficulty.
+Very Difficult (12+) difficulty.
+Formidable (14+) difficulty.
+
+Intrusion
+
+1
+2
+3
+4
+
+TL10
+TL11
+TL13
+TL15
+
+Cr1000
+Cr10000
+Cr100000
+MCr1
+
+Intrusion software packages aid hacking attempts, giving
+a bonus equal to their Bandwidth. Intrusion software is
+often illegal.
+
+Expert
+
+1
+2
+3
+
+TL11
+TL12
+TL13
+
+Cr1000
+Cr10000
+Cr100000
+
+Expert software packages mimic skills. A Traveller using
+Expert may make a skill check as if they had the skill at the
+software’s Bandwidth -1. Only INT and EDU-based checks
+can be attempted. If a Traveller already has the skill, then
+Expert grants DM+1 to their check.
+
+Translator
+
+0
+1
+
+TL9
+TL10
+
+Cr50
+Cr500
+
+Translators are specialised Expert packages that only have
+Language skills. The TL9 version provides a near-real-time
+translation. The TL10 works in real-time and has a much
+better understanding of the nuances of language.
+
+Database
+
+—
+
+TL7
+
+Cr1010000
+
+A database is a large store of information on a topic that
+can be searched with an Electronics (computers) check or
+using an Agent.
+
+Agent
+
+0
+1
+2
+3
+
+TL11
+TL12
+TL13
+TL14
+
+Cr500
+Cr2000
+Cr100000
+Cr250000
+
+Agent packages have an Electronics (computers) skill
+equal to their Bandwidth and can carry out tasks assigned
+to them with a modicum of intelligence. For example, an
+Agent package might be commanded to hack into an enemy
+computer system and steal a particular data file. They are
+effectively specialised combinations of Expert Electronics
+(computers) and less capable Intellect software packages.
+
+Intellect
+
+1
+2
+3
+
+TL12
+TL13
+TL14
+
+Cr2000
+Cr50000
+Cr200000
+
+Intellect is an improved Agent, which can use Expert
+systems. For example, a robot doctor might be running
+Intellect/1 and Expert Medic/3, giving it a Medic skill of 2.
+An Intellect program can simultaneously use a number of
+skills equal to its Bandwidth.
+
+The computers used on spacecraft to calculate jump
+travel and combat solutions are much more powerful
+than those typically found planetside and can run much
+more sophisticated software. These are covered on
+page 161 and in detail within High Guard.
+
+Computer Terminal: This is a ‘dumb’ terminal
+
+with only limited processing power. It serves as an
+interface to a more powerful computer such as a ship’s
+computer or planetary network. Terminals range in size
+depending on their control method – a holographic
+display terminal can be much smaller than one with
+a physical keyboard and screen. These terminals are
+treated as Computer/0.
+
+ITEM
+
+TL
+
+Computer Terminal 7
+
+
+MASS
+
+COST
+
+2
+
+Cr200
+
+equipment
+
+SHIP-BASED COMPUTERS
+
+111
+
+

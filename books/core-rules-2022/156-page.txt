@@ -1,0 +1,140 @@
+T
+
+The encounter distance depends on the results of
+an Electronics (sensors) check. Civilian vessels
+and military craft not on manoeuvres broadcast a
+continuous IFF beacon, which gives DM+4 to detection
+attempts. See Sensors on page 160.
+Collisions, signals and solar flares are exempt from
+encounter distance rules.
+Collision!: Almost any collision at high speed is lethal
+even for the most powerful spacecraft. In this case, the
+ship has collided with a tiny object that has nevertheless
+smashed into the hull. The ship suffers 1D damage.
+Distress Signals: Ships transmit the standard timestamped SOS message (also known as Mayday
+in Solomani or Signal GK in Vilani within the Third
+Imperium setting) when in distress. Any vessel who
+detects an SOS is legally required to respond and
+offer assistance or contact the authorities. Failure to
+render assistance is a criminal offence but the harsh
+requirements of life support and orbital mechanics mean
+that many deaths in space are slow ones, where a crew
+know they are doomed but have days or weeks in which
+to contemplate it. Many ships carry low berths where the
+crew can freeze themselves and wait for rescue.
+Some distress calls are fakes, intended to draw ships in
+so they can be attacked.
+
+spacecraft operations
+
+Police Vessel: This result may also indicate a military
+vessel or government ship. A police vessel will aid the
+Travellers if they are attacked but will also challenge them
+to identify themselves and scan for contraband cargo.
+
+156
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Pirate: Pirates operate in three ways, all aimed at
+avoiding contact with the authorities at a spaceport
+(except in lawless systems where pirates operate
+with impunity). Some ambush ships travelling through
+normal space to outlying moons and colony worlds.
+Others lurk around the 100-diameter mark, hoping to
+surprise a ship as it prepares to jump. The pirates then
+quickly loot the most valuable cargo and supplies, and
+jump before the authorities arrive. The third category of
+pirates have agents and spies in the starport and know
+exactly which ships are suitable targets.
+Pirates often use armed free traders or even scout/couriers.
+Salvage: A derelict vessel or jettisoned cargo can be
+salvaged. Universal law in space permits salvage but
+the discovery must be registered first with the system
+starport, if any. Roll 2D on the Salvage table, applying
+DM-0 to -6 depending on how damaged the derelict is. If
+the result is an 8+, then D3 times on the Salvage table.
+Note that pirates have been known to use derelicts as bait…
+
+FUEL
+
+Most ships use refined hydrogen as fuel for their fusion
+power plants engines and jump drives. Starports (see
+page 257) and virtually any other facility that regularly
+hosts spacecraft will offer refuelling facilities. Hydrogen
+is obtained from water or the atmospheres of gas
+giants and costs Cr500 per ton for refined fuel.
+Some out-of-the-way places only offer unrefined fuel, at
+the bargain price of just Cr100 per ton. Using unrefined
+fuel is dangerous when jumping (see Jump Travel).
+Either way, it typically takes 1D hours to refuel a
+typical ship.
+
+Salvage
+2D
+
+Salvage
+
+2D
+
+5
+
+Junk: Minor personal effects, spare parts,
+trophies and other junk.
+
+10
+
+6
+
+Fuel: 2D x 10 tons of fuel can be extracted
+from the salvage (not exceeding the derelict’s
+maximum capacity)
+Equipment: Items such as vacc suits,
+medical supplies, weapons, with a total
+value of 2D x Cr2000.
+
+11
+
+3 or less
+4
+
+7
+
+
+Hazard! The ship’s reactor is damaged, the
+8
+ship is about to break up, there is a virus loose
+aboard ship, an alien monster killed the crew...
+No Salvage: Nothing useful can be recovered. 9
+
+12
+
+Salvage
+
+Cargo: 2D tons of the derelict’s cargo. Roll
+D66 on the Trade Goods table (page 244) to
+determine the type.
+Considerable Cargo: 2D x 10 tons of cargo (up
+to the derelict’s maximum cargo).
+Interesting Artefact: An alien relic, useful
+personal data, mail cannister or other adventure
+hook – or maybe a survivor in a low berth.
+Fittings: Weapons turrets, ship’s computers or
+air/raft, with a total value of 2D x Cr250000
+Ship: The ship is potentially repairable.
+
+R
+
+

@@ -1,0 +1,220 @@
+STARPORT
+
+Other crimes have a set DM.
+
+Crime
+
+DM
+
+False Identity
+
+Law Level -5
+
+Destruction of Property
+
+Law Level -3
+
+Assault
+
+Law Level -2
+
+Manslaughter
+
+Law Level -1
+
+Murder
+
+Law Level +0
+
+A Traveller with the Advocate skill may attempt to
+reduce the severity of sentencing by making a check. If
+successful, reduce the Sentencing DM by the Effect of
+the check.
+
+Sentencing
+2D+DM
+
+Sentence
+
+0 or less
+
+Dismissed or trivial
+
+1–2
+
+Fine of 1D x Cr1000 (per ton of
+contraband)
+
+3–4
+
+Fine of 2D x Cr5000 (per ton of
+contraband)
+
+5–6
+
+Exile or a fine of 2D x Cr10000 (per ton
+of contraband)
+
+7–8
+
+Imprisonment for 1D months or exile
+or fine of 2D x Cr20000 (per ton of
+contraband)
+
+9–10
+
+Imprisonment for 1D years or exile
+
+11–12
+
+Imprisonment for 2D years or exile
+
+13–14
+
+Life imprisonment
+
+15 or more
+
+Death
+
+A result of Exile means the Traveller must leave the
+planet immediately and never return.
+
+Class
+
+Quality
+
+Excellent
+
+1D x Cr1000
+
+Refined
+
+B
+
+Good
+
+1D x Cr500
+
+Refined
+
+C
+
+Routine
+
+1D x Cr100
+
+Unrefined
+
+D
+
+Poor
+
+1D x Cr10
+
+Unrefined
+
+E
+X
+
+Frontier
+No Starport
+
+0
+0
+
+None
+None
+
+A
+
+
+Berthing Cost
+
+Fuel
+
+Starports are classed from A to E. To determine the
+level of a starport on a planet, roll 2D and apply these
+DMs to the Starport Class table:
+DM+1 if the planet’s Population is 8-9
+DM+2 if the planet’s Population is 10+
+DM–1 if the planet’s Population is 3-4
+DM–2 if the planet’s Population is 2–
+
+Starport Class
+2D+DM
+
+2 or less
+3
+4
+5
+6
+7
+8
+9
+10
+11+
+
+Facilities
+
+Shipyard (all)
+Repair
+Highport 6+
+Shipyard (spacecraft)
+Repair
+Highport 8+
+Shipyard (small craft)
+Repair
+Highport 10+
+Limited Repair
+Highport 12+
+None
+None
+
+Starport Class
+X
+E
+E
+D
+D
+C
+C
+B
+B
+A
+
+Bases
+
+Military 8+
+Naval 8+
+Scout 10+
+Military 8+
+Naval 8+
+Scout 9+
+Military 10+
+Scout 9+
+Scout 8+
+Corsair 12+
+Corsair 10+
+Corsair 10+
+
+universe creation
+
+Starport Facilities
+
+Starports are the arteries of interstellar commerce.
+These ports for spacefaring craft range in size from
+a landing field with a rudimentary radio beacon and
+hydrogen fuel still, to city-sized edifices where tens of
+thousands of ships land daily. Many planets have only
+a downport, a landing zone on the ground accessible
+only by entering the atmosphere. Ships that cannot land
+at a downport are serviced by a fleet of shuttles and
+other smaller vessels. Worlds advanced or rich enough
+may possess a highport, an orbiting starport. Some
+are equipped with space elevators or even gravitic lifts
+connecting highport to downport.
+
+257
+
+

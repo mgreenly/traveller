@@ -1,0 +1,176 @@
+gecko all-terrain assault vehicle
+
+gunskiff
+
+Designed to transport a fire team or VIP through a war
+zone, the Gecko can handle a wide veriety of terrain
+at some speed and, despite being only semi-enclosed,
+its armour is sufficient to resist small arms fire of an
+equivalent Tech Level. It also sports a powerful punch,
+with twin-linked autocannon mounted on the roof.
+
+Camouflage (improved), Communications System
+(basic, increased range), Twin Light Autocannon.
+
+Despite some models featuring extreme styling to
+conform to standards of fashion, the Gunskiff is
+essentially an open-topped grav platform mounted with
+a single heavy weapon. It is a cheap and effective way
+to bring a heavy weapon to bear over a wide area but
+its light armour and open nature often means it is best
+employed against relatively low Tech Level enemies.
+The flat bed nature of the Gunskiff means that if it does
+not carry passengers, it can easily accommodate one
+ton of cargo.
+
+Pintle Mount (light autocannon x2, front)
+
+EQUIPMENT AND WEAPONS
+
+EQUIPMENT AND WEAPONS
+
+TL
+
+7
+
+SKILL
+
+Drive (wheel)
+
+AGILITY
+
++0
+
+SPEED (CRUISE)
+
+High (medium)
+
+Open vehicle, Autopilot (basic), Communications
+System (improved), Laser Cannon.
+Fixed Mount (laser cannon, front)
+TL
+
+10
+
+RANGE (CRUISE) 300 (450)
+
+SKILL
+
+Flyer (grav)
+
+CREW
+
+2
+
+AGILITY
+
+-1
+
+PASSENGERS
+
+3
+
+SPEED (CRUISE)
+
+Slow (very slow)
+
+CARGO
+
+—
+
+RANGE (CRUISE) 1000 (1500)
+
+HULL
+
+18
+
+CREW
+
+2
+
+SHIPPING
+
+4.5 tons
+
+PASSENGERS
+
+4
+
+COST
+
+Cr42450
+
+CARGO
+
+—
+
+HULL
+
+30
+
+SHIPPING
+
+10 tons
+
+COST
+
+Cr313750
+
+ARMOUR
+FRONT 12
+
+REAR
+
+12
+
+SIDES
+
+12
+
+ARMOUR
+FRONT 3
+
+REAR
+
+3
+
+SIDES
+
+3
+
+WEAPON
+
+RANGE FIRE ARCS
+
+DAMAGE MAGAZINE MAGAZINE COST
+
+TRAITS
+
+Twin Light Autocannon
+
+1
+
+6D+6
+
+500
+
+Cr2000
+
+Auto 3
+
+Laser Cannon
+
+2.5
+
+1DD
+
+—
+
+—
+
+AP 10
+
+
+147
+
+

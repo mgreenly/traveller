@@ -1,0 +1,146 @@
+T
+
+R
+
+•
+
+Flyer
+
+The various specialities of this skill cover different types
+of flying vehicles. Flyers only work in an atmosphere;
+vehicles that can leave the atmosphere and enter orbit
+generally use the Pilot skill.
+
+Specialities
+•
+•
+•
+•
+•
+
+Airship: Used for airships, dirigibles and other
+powered lighter than air craft.
+Grav: This covers air/rafts, grav belts and other
+vehicles that use gravitic technology.
+Ornithopter: For vehicles that fly through the use
+of flapping wings.
+Rotor: For helicopters, tilt-rotors and aerodynes.
+Wing: For jets, vectored thrust aircraft and
+aeroplanes using a lifting body.
+
+Landing Safely: Routine (6+) Flyer check (1D minutes, DEX).
+Racing Another Flyer: Opposed Flyer check (1D x 10
+minutes, DEX).
+
+Gambler
+
+The Traveller is familiar with a wide variety of gambling
+games, such as poker, roulette, blackjack, horse-racing,
+sports betting and so on, and has an excellent grasp
+of statistics and probability. Gambler increases the
+rewards from Benefit rolls, giving the Traveller DM+1 to
+their cash rolls if they have Gambler 1 or better.
+
+skills and tasks
+
+A Casual Game of Poker: Opposed Gambler check (1D
+hours, INT).
+Picking the Right Horse to Bet On: Average (8+)
+Gambler check (1D minutes, INT).
+
+68
+
+Gunner
+
+The various specialities of this skill deal with the
+operation of ship-mounted weapons in space combat.
+Most Travellers have smaller ships equipped solely with
+turret weapons.
+
+Specialities
+•
+
+•
+
+Turret: Operating turret-mounted weapons on
+board a ship.
+Firing a Turret at an Enemy Ship: Average (8+)
+Gunner (turret) check (1D seconds, DEX).
+Ortillery: A contraction of Orbital Artillery – using
+a ship’s weapons for planetary bombardment or
+attacks on stationary targets.
+Firing Ortillery: Average (8+) Gunner (ortillery)
+check (1D minutes, INT).
+
+
+•
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Screen: Activating and using a ship’s energy screens
+like Black Globe generators or meson screens.
+Activating a Screen to Intercept Enemy Fire: Difficult
+(10+) Gunner (screen) check (1D seconds, DEX).
+Capital: Operating bay or spinal mount weapons
+on board a ship.
+Firing a Spinal Mount Weapon: Average (8+)
+Gunner (capital) check (1D minutes, INT).
+
+Gun Combat
+
+The Gun Combat skill covers a variety of ranged
+weapons. See the Combat chapter for details on using
+guns in combat.
+
+Specialities
+•
+•
+•
+
+Archaic: For primitive weapons that are not
+thrown, such as bows and blowpipes.
+Energy: Using advanced energy weapons like
+laser pistols or plasma rifles.
+Slug: Weapons that fire a solid projectile such as
+the autorifle or gauss rifle.
+
+Firing a Gun: Average (8+) Gun Combat check (1D
+seconds, DEX).
+
+Heavy Weapons
+
+The Heavy Weapons skill covers portable and larger
+weapons that cause extreme property damage, such as
+rocket launchers, artillery and large plasma weapons.
+
+Specialities
+•
+•
+•
+
+Artillery: Fixed guns, mortars and other indirectfire weapons.
+Portable: Missile launchers, flamethrowers and
+portable fusion and plasma guns.
+Vehicle: Large weapons typically mounted on
+vehicles or strongpoints such as tank guns and
+autocannon.
+
+Firing an Artillery Piece at a Visible Target: Average (8+)
+Heavy Weapons (artillery) check (1D seconds, DEX).
+Firing an Artillery Piece Using Indirect Fire: Difficult
+(10+) Heavy Weapons (artillery) check (1D x 10
+seconds, INT).
+
+R
+
+

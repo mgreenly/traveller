@@ -1,0 +1,135 @@
+T
+
+CRUISING SPEED
+
+The Speed of vehicles in Traveller shows the maximum
+rate at which the vehicle can normally travel. The
+Range will show the distance they can travel while at
+this maximum speed.
+However, most vehicles will rarely travel at their
+maximum speed and will instead cruise to maintain a
+better balance of speed and endurance. The cruising
+speed of any vehicle is assumed to be one Speed
+Band lower than the vehicle’s maximum speed and
+if it maintains this rate of movement, its Range will
+increase by 50%.
+
+COMBAT
+
+Combat in and on vehicles is much the same as
+ordinary combat, although there are some differences.
+•
+
+•
+
+Unlike people, who are mobile and manoeuvrable,
+careful track must be kept of which way a vehicle is
+facing. Vehicle-mounted weapons and to a lesser
+extent armed passengers, are restricted to certain
+fire arcs.
+Vehicles are considered to move on the driver’s
+Initiative. The driver must spend a Minor Action
+every round to keep control of the vehicle under
+normal circumstances – a straight road or simple
+manoeuvres – or a Significant Action to navigate
+obstacles, conduct evasion or pursue a target.
+
+CLOSED VEHICLES
+
+Closed vehicles include typical cars, g/carriers, tanks
+and other vehicles with crew and passengers within a
+protective enclosed hull. All vehicles are assumed to be
+closed unless otherwise stated.
+
+vehicles
+
+•
+
+138
+
+•
+•
+
+Closed vehicles grant cover to any visible
+occupants, with a bonus equal to the Armour of the
+vehicle in the facing from which the attack originates.
+Any occupants not visible cannot be directly
+attacked at all.
+Only a few people in a closed vehicle can shoot
+out, depending on the number of windows or other
+firing ports and the internal space available. Unless
+the description mentions otherwise up to two
+people can fire into each arc from a civilian vehicle
+and one person in each arc in a military one.
+
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+OPEN VEHICLES
+
+Open vehicles include motorbikes, air/rafts and other
+vehicles where the occupants are exposed. If a vehicle
+is open, this will be stated in its description under
+Equipment & Traits.
+•
+•
+
+Open vehicles grant no cover to the passengers.
+Any passenger in an open vehicle can shoot (or
+otherwise attack) in any direction.
+
+VEHICULAR ACTIONS
+
+These are all significant actions that the driver (or pilot)
+of a vehicle can perform during their turn in a combat
+round. All skill checks used in these actions use the
+Agility of the vehicle as a DM.
+Dogfight: A vehicle within one kilometre and within one
+Speed Band of another may initiate a dogfight. This is a
+series of manoeuvres whereby the driver of one vehicle
+attempts to gain a position of advantage over another
+and, hopefully, destroy it.
+The drivers of both vehicles make opposed skill checks
+using the skill appropriate to their vehicle (Drive, Flyer,
+or Seafarer), modified by their vehicle’s Agility as
+normal. For every additional enemy engaging in the
+dogfight, DM-1 is applied.
+A draw means that neither vehicle may attack the other
+unless it possesses a weapon in a turret. The winner
+may choose to place their opponent’s vehicle in a
+fire arc of their choice and may choose which of the
+opposing vehicle’s fire arcs their own vehicle lies in.
+In this way, the winner of a dogfight can ensure all
+their forward facing weapons can attack their enemy
+while ensuring they stay out of their opponent’s forward
+facing (and the weapons present there). In addition, the
+winner of a dogfight gains DM+2 to all their attack rolls
+for this round while the loser suffers DM-2.
+If one of the vehicles’ drivers chooses to initiate a
+dogfight again in the following combat round, the
+winner of the previous dogfight applies the difference
+between that round’s opposed check as a positive DM
+to this round’s opposed check.
+Evasive Action: The driver may declare they are
+taking evasive action when their turn arrives. They
+make a skill check (the skill being determined by the
+type of vehicle and do not forget to apply the vehicle’s
+Agility!) and the Effect acts as a negative DM to all
+attacks against the vehicle or its passengers. The
+Effect also acts as a negative DM to any attacks made
+
+R
+
+

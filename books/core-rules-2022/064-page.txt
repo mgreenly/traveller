@@ -1,0 +1,119 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Each Skill is described using the following format.
+For example, Erik and Kathya are trying to force open
+a locked door within a smuggler’s asteroid lair with
+brute strength. Erik is the strongest with STR 9 and so
+he puts his shoulder into the door but fears he alone
+mighty not be enough. Kathya has STR 7 and helps.
+Kathya makes an STR check and consults the Task
+Chain table in order to provide a DM to Erik’s STR
+check, which will determine whether the door is forced
+open or not.
+
+DIFFICULTY, BOON/BANE AND DMS
+
+There are three factors that can affect a check in
+Traveller; Task Difficulty, Boons and Banes, and
+Dice Modifiers. However, all three are used in
+very specific circumstances and referees should
+use the following principles when applying them.
+Difficulty: Before any other factors are taken
+into account, the referee should set the
+difficulty of a task, based on how hard they
+believe the task should be without any exterior
+effects. For example, making a phone call is a
+Simple task and remains so, even if a Traveller
+is hanging upside down from a spacecraft
+flying through a storm.
+
+skills and tasks
+
+Dice Modifiers: In general, these should be
+regarded as being ‘hard-wired’ into the rules
+and only applied if they are listed in a Traveller
+rulebook or supplement.
+
+64
+
+Boon and Bane: If an exterior factor is
+influencing the task, for better or worse, then a
+Boon or Bane is applied to the check. Making
+a phone call while hanging upside down from
+a spacecraft is a good example of a Bane
+being applied. Boons and Banes are applied
+only at the prerogative of the referee and will
+never appear within any rulebook or published
+adventure. They are intended to be used on
+the fly to quickly provide an advantage or
+disadvantage to Travellers.
+In the vast majority of cases, a referee simply need
+set a Task Difficulty and then decide whether a
+Boon or Bane need be applied. Any necessary
+Dice Modifiers will be suggested by the rules.
+
+
+Description: What the skill does.
+Specialities: If the skill has several specialities, they are
+listed here. When a Traveller reaches level 1 in a skill,
+they must take a speciality in that skill at level 1. When
+they gain another level in the skill, they may increase that
+speciality to level 2 or take a different speciality. Most
+skills have no specialities.
+Common Checks: Common uses for the skill and what
+time increment, characteristic DM and difficulty are
+associated with those uses.
+
+Admin
+This skill covers bureaucracies and administration of all
+sorts, including the navigation of bureaucratic obstacles
+or disasters. It also covers tracking inventories, ship
+manifests and other records.
+Avoiding Close Examination of Papers: Average (8+)
+Admin check (1D x 10 seconds, EDU or SOC).
+Dealing with Police Harassment: Difficult (10+) Admin
+check (1D x 10 minutes, EDU or SOC).
+
+Advocate
+Advocate gives a knowledge of common legal codes
+and practises, especially interstellar law. It also gives the
+Traveller experience in oratory, debate and public speaking,
+making it an excellent skill for lawyers and politicians.
+Arguing in Court: Opposed Advocate check (1D days,
+EDU or SOC).
+Debating an Argument: Opposed Advocate check (1D x
+10 minutes, INT).
+
+Animals
+This skill, rare on industrialised or technologically
+advanced worlds, is for the care of animals.
+
+Specialities
+•
+
+Handling: The Traveller knows how to handle
+an animal and ride those trained to bear a rider.
+Unusual animals raise the difficulty of the check.
+Riding a Horse into Battle: Difficult (10+) Animals
+(handling) check (1D seconds, DEX). If successful,
+the Traveller can control the horse for a number of
+minutes equal to the Effect before needing to make
+another check.
+
+R
+
+

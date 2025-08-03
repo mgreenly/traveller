@@ -1,0 +1,179 @@
+SHIP COMPUTERS
+
+The computers installed on board ships to run their
+systems are a great deal more powerful than those
+commonly used planetside.
+
+SPECIALISED COMPUTERS
+
+Some ships, such as the Type-S scout, have very
+specialised computers that allow them to run jump
+software beyond their normal Processing score. These
+are noted as /bis computers (such as the computer/5bis
+installed within the Type-S) and can run Jump Control
+software as if their Rating was +5 higher.
+A Model 1/bis computer (normal Processing 5 but
+Processing 10 for Jump Control software) can therefore
+run Jump Control/2 (requiring Processing 10).
+
+SHIP SOFTWARE
+
+Ship software operates in exactly the same way as
+normal computer software but typically has a much
+higher bandwidth. Ship computers are fully capable of
+running normal software as well.
+
+Ship Software
+Program
+
+TL
+
+8
+11
+9
+11
+12
+13
+14
+15
+9
+11
+13
+9
+10
+11
+12
+13
+
+Bandwidth
+0
+0
+5
+10
+15
+20
+25
+30
+10
+15
+25
+5
+10
+15
+20
+25
+
+Cost (MCr)
+Included
+Included
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+1
+2
+3
+2
+4
+6
+8
+10
+
+Auto-Repair/1
+Auto-Repair/2
+
+10
+12
+
+10
+20
+
+5
+10
+
+Library
+
+8
+
+0
+
+Included
+
+
+Hijacking is one of the biggest threats faced by
+independent traders, especially those that carry
+passengers or travel to dangerous space. As the
+Travellers will likely face this threat (or be this threat at
+some point), it is worth looking at in some detail.
+
+CAMERAS & SENSORS
+
+Most vessels have security cameras in public areas,
+such as the galley, cargo bay and lounge but not in
+private staterooms (although these can be added).
+Cameras can be viewed from any terminal by an
+authorised person. Internal sensors on a ship are
+limited to environmental detectors like smoke alarms
+and most ships are not calibrated to, say, detect heat
+traces or life signs within their own hull. It is possible to
+detect when a door is opened or closed, although these
+sensors can easily be disabled.
+
+COMPUTERS
+
+The difficulty to hack into a ship’s computer depends
+on what is being accessed and from where. Few
+ships require anything less than Very Difficult (12+)
+Electronics (computers) checks to access critical
+systems from outside the ship but often the security
+system will apply only to these external connections
+and a hacker inside the ship will only face Average (8+)
+Electronics (computers) checks.
+
+Effect
+
+Allows basic control of ship.
+Allows a ship to understand and obey verbal commands.
+Allows jumps of up to the specified number. Incorporates
+astrogation software and jump engine management.
+
+The computer reacts automatically to incoming fire, applying a
+negative DM equal to the Evade program’s score to all attacks.
+Allows the computer to fire a number of turrets per round equal
+to the listed number. Alternatively, it can give a positive DM to
+an attack equal to the listed number or any combination of the
+two. For example, a ship with Fire Control/2 could make two
+automated attacks, grant DM+2 to a gunner making an attack or
+make one automated attack with DM+1.
+Allows the computer to make a number of repair attempts per
+round equal to the listed number. Alternatively, it can give a
+positive DM to a repair attempt equal to the listed number or any
+combination of the two. Requires the ship to carry repair drones.
+Contains a wealth of data on numerous subjects.
+
+spacecraft operations
+
+Manoeuvre
+Intellect
+Jump Control/1
+Jump Control/2
+Jump Control/3
+Jump Control/4
+Jump Control/5
+Jump Control/6
+Evade/1
+Evade/2
+Evade/3
+Fire Control/1
+Fire Control/2
+Fire Control/3
+Fire Control/4
+Fire Control/5
+
+SPACECRAFT SECURITY
+
+161
+
+

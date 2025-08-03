@@ -1,0 +1,25 @@
+TYPE: M
+
+3
+
+DECK 5
+2
+
+1. Bridge
+2. Launch Docking Space
+3. Cargo Bay
+
+1
+
+DECK 1
+
+DECK 2
+
+
+DECK 3
+
+DECK 4
+
+215
+
+

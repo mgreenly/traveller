@@ -1,0 +1,25 @@
+# AGENT NOTE:
+# This file is a table of contents for the Traveller Core Rulebook (Update 2022).
+# It is intended to help the agent navigate the book's content, which is split into individual page files.
+# Please update this file if you find it to be inaccurate or if additional information would be helpful.
+
+# File Naming Convention:
+# The files in this directory are named using the format `XXX-page.txt`, where `XXX` is the zero-padded page number.
+# For example, page 3 is located in `003-page.txt`.
+
+# Table of Contents:
+
+- **INTRODUCTION:** Page 3 (003-page.txt)
+- **TRAVELLER CREATION:** Page 8 (008-page.txt)
+- **SKILLS AND TASKS:** Page 58 (058-page.txt)
+- **COMBAT:** Page 73 (073-page.txt)
+- **ENCOUNTERS AND DANGERS:** Page 80 (080-page.txt)
+- **EQUIPMENT:** Page 97 (097-page.txt)
+- **VEHICLES:** Page 136 (136-page.txt)
+- **SPACECRAFT OPERATIONS:** Page 149 (149-page.txt)
+- **SPACE COMBAT:** Page 164 (164-page.txt)
+- **SPACECRAFT CONSTRUCTION:** Page 176 (176-page.txt)
+- **COMMON SPACECRAFT:** Page 188 (188-page.txt)
+- **PSIONICS:** Page 228 (228-page.txt)
+- **TRADE:** Page 238 (238-page.txt)
+- **WORLD AND UNIVERSE CREATION:** Page 246 (246-page.txt)

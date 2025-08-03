@@ -1,0 +1,122 @@
+•
+•
+•
+•
+•
+
+Fire Control programs can either act as gunners or
+assist gunners.
+A ship equipped with repair drones and Auto-Repair
+software can perform damage control.
+A ship running an Intellect program and Expert
+(engineer – j-drive, m-drive or power) can act as
+an engineer.
+A ship running an Intellect program and Expert
+(pilot) can act as the pilot.
+A ship running an Intellect program and Expert
+(electronics - sensors) can act as a sensor operator.
+
+STARTING A BATTLE
+
+Before a battle begins, it is important to note where ships
+are relative to one another. In general, all that is required
+in space is to know how far away each ship is from its
+opponents. This is determined by using Range Bands,
+as described in the Combat chapter, although the actual
+distance for each Range Band is much greater in space
+combat. Consult the Range Bands table for reference.
+
+Range Bands
+Range Band
+Adjacent
+Close
+Short
+Medium
+Long
+Very Long
+Distant
+
+Distance
+
+1km or less
+1–10km
+11–1,250km
+1,251–10,000km
+10,001–25,000km
+25,001–50,000km
+More than 50,000km
+
+INITIATIVE
+
+Once the relative positions of ships have been
+determined and crew assigned to duties, the battle
+begins. Initiative is rolled once for each ship as usual
+when the combat begins but with spacecraft you roll
+the following:
+2D + the pilot’s Pilot skill + the ship’s Thrust score
+
+Most spacecraft are manoeuvrable enough to
+spin or rotate to face their enemies in combat
+and have weapons mounted in turrets with
+very wide fire arcs so, generally speaking, it is
+not important to track which way a spacecraft
+is facing as it is with vehicles. However, some
+spacecraft, particularly small craft such as
+fighters, have fixed weapon mounts and must
+actually point towards the target they are
+engaging. In this instance, it can be important to
+keep track of where a spacecraft is pointing.
+
+TACTICS (NAVAL) SKILL
+
+In addition, the commander of each spacecraft (or the
+commander of a fleet, if more than one ship is present)
+may make a Tactics (naval) check at the start of a
+battle. The Effect of this check is added to the Initiative
+of the spacecraft (or fleet).
+
+SURPRISE
+
+Under normal circumstances, surprise is very difficult
+to achieve in space, as there are few places to hide
+behind. However, damaged sensors or inattentive
+sensor operators can mean a ship can approach
+another without being spotted and some ships may use
+asteroids or other astronomical objects to hide behind,
+while others may pretend to be harmless and then
+suddenly reveal their intentions.
+If one ship does manage to surprise another, its
+opponent will not be able to take any actions in the first
+round of the combat.
+
+MANOEUVRE STEP
+
+In order of Initiative, each ship can allocate Thrust
+to either movement (closing or increasing the range
+between it and another ship) or combat manoeuvring
+(docking with another vessel, lining up a shot or
+dodging incoming fire).
+All movement and combat manoeuvring is performed
+by the Traveller assigned to pilot duty.
+
+space combat
+
+Most hostile encounters in space will start at Very Long
+or Distant ranges, when the combatants first detect one
+another. However, actual combat will start when one of
+the combatants manages to move into range of their
+weapons, typically Long or Medium range. However, in
+some circumstances ships might get a lot closer before
+hostilities begin, perhaps getting as near as Close
+range if a pirate successfully pretends to be an honest
+merchant, for example.
+
+FACING AND FIRE ARCS
+
+Ships with better pilots and faster manoeuvre drives will
+therefore be quicker to act in space combat.
+
+
+165
+
+

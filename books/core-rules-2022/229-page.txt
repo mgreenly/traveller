@@ -1,0 +1,93 @@
+Next, she tries telepathy. She rolls 2D+1 (her PSI
+DM), +4 (the Telepathy learning DM) and –1 (one
+previous talent learning check) and gets a total of 10.
+Luka gains Telepathy 0.
+
+PSIONIC TALENTS
+
+There are several psionic talents, each of which is
+controlled by a different skill. Within each talent are
+several powers, all of which may be used by a Traveller
+trained in the talent. The most common talents are:
+Telepathy: Reading minds & communicating
+Clairvoyance: Perceiving at a distance
+Telekinesis: Mind over matter
+Awareness: Control over one’s own mind and body
+Teleportation: Moving from one point to another instantly
+
+USING PSIONIC POWERS
+
+To activate a power, the Traveller must make a skill
+check using the appropriate skill (Telepathy, Telekinesis
+and so on), adding their PSI DM, along with any other
+appropriate DMs. They must also spend the listed
+number of PSI points if they succeed or one point if
+they fail. If this cost brings them below zero PSI, then
+any excess points are applied as damage. A Traveller
+with no PSI points cannot attempt to activate a power.
+Most powers can be used at a distance and have a
+Reach characteristic. This is the distance, using the
+Psionic Range table, at which the power can normally be
+used. However, a strong psion can increase the range at
+which they use powers with greater mental effort.
+The Reach of a power can be increased by one Range
+Band if twice the PSI Cost is paid and increased by two
+Range Bands if the PSI Cost is multiplied by four.
+
+USING THE PSION CAREER
+
+A Traveller may only attempt to enter the
+Psion career with the permission of the referee
+normally because of the single Life Event (see
+page 46) that allows it.
+Unlike other careers, a Psion takes skills from
+the appropriate Specialist table instead of the
+Service Skills table during basic training.
+The Psion must still roll to acquire talents when
+they determine their PSI. When rolling on the
+Service Skills table, if the Psion gains the skill
+for a talent they do not yet possess, they may
+attempt another roll to learn that talent.
+The assignments for Psions are considered to
+be separate careers and a Traveller must roll for
+qualification as normal if they choose to change
+assignment during their career.
+
+Psionic Range
+Range Band
+
+Personal
+Close
+Short
+Medium
+Long
+Very Long
+Distant
+Very Distant
+Continental
+Planetary
+
+Distance to Target
+
+Less than one metre
+1 to 5 metres
+6 to 10 metres
+11 to 50 metres
+51 metres to 250 metres
+251 metres to 500 metres
+501 metres to 5 kilometres
+6 kilometres to 500 kilometres
+501 to 5,000 kilometres
+5,001 to 50,000 kilometres
+
+
+psionics
+
+For example, a psionic Traveller could read the mind of
+a target at Long range using Read Surface Thoughts
+for 2 PSI points normally, or boost it to Very Long range
+for 4 PSI points, or even Distant for 8 PSI points.
+
+229
+
+

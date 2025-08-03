@@ -1,0 +1,114 @@
+A ship with fuel scoops may gather fuel from bodies of
+water using hoses. It may also scoop hydrogen from
+a gas giant, requiring a Difficult (10+) Pilot check (1D
+hours, DEX). Fuel gathered in the wild is unrefined but
+a ship with fuel processors may refine it. More notes on
+fuel scooping are covered in the Traveller Companion.
+
+Jump!: Firing the jump drive requires an Easy (4+)
+Engineer (j-drive) check (1D x 10 minutes, EDU),
+modified by the task chain of the original Astrogation
+check and the following modifiers.
+
+JUMP TRAVEL
+
+•
+•
+
+Jump travel covers the method by which ships can
+travel the enormous distances needed to journey to
+other star systems with relative speed. Other methods
+of star travel are covered in High Guard.
+Jump travel is the only known means by which a vessel
+may travel faster than light. To jump, a ship creates
+a bubble of hyperspace by means of injecting highenergy exotic particles into an artificial singularity. The
+singularity is driven out of our universe, creating a tiny
+parallel universe that is then blown up like a balloon
+by injecting hydrogen into it. The jump bubble is folded
+around the ship, carrying it into the little pocket universe.
+This new universe is short-lived and will eventually
+collapse, precipitating the ship back into normal space
+several light-years from its original position.
+
+PREPARING FOR JUMP
+
+To jump, the following procedures must be performed
+as a task chain using Astrogation and Engineer
+(j-drive) checks.
+Astrogation: The jump needs to be plotted. This is
+an Easy (4+) Astrogation check (1D x 10 minutes,
+EDU), modified by the jump distance (thus, a jump
+covering four parsecs gives DM-4 to the check). If the
+check is failed, then the astrogator must plot the jump
+again. Astrogation can be done in advance (a jump is
+normally plotted while the ship is travelling out to the
+100-diameter distance).
+
+
+Jump drive not maintained: DM-1 per month
+behind maintenance
+Using unrefined fuel: DM-2
+Still within the 100-diameter limit: DM-4
+
+If this check is failed, then the ship misjumps.
+Divert Power: A jump drive requires a tremendous
+amount of power to function, which must be supplied
+by the ship’s power plant. On many vessels, especially
+older ships, the power plant strains to provide this
+much, leading to the tradition of ‘jump dimming’ where
+non-essential systems including lighting is shut down
+to allow for jump. If insufficient Power is available, the
+jump drive cannot be activated.
+
+JUMP TRAVEL
+
+When making a jump, a ship will use an amount of
+fuel equal to 10% of its hull tonnage for every parsec
+jumped. For example, if a 200-ton ship makes a two
+parsec jump, it will require 40 tons of fuel (10% of 200
+tons = 20, multiplied by two parsecs = 40 tons).
+A jump carries the vessel a number of parsecs equal
+to the jump number. Jumps of less than one parsec
+(less than three light years or one hex on a sector map)
+are possible and count as jump-1 for the purposes of
+Astrogation checks and fuel expenditure. Regardless of
+how far the ship jumps, it always stays in jumpspace for
+roughly one week (148 + 6D hours).
+While in jumpspace, the ship is completely and utterly
+cut off from the universe. It hangs in a shimmering
+bubble of boiling hydrogen, a pocket dimension from
+which nothing can escape. It cannot communicate with
+the normal universe, not even by psionic means. It is
+utterly alone.
+When the ship exits jumpspace after an accurate jump,
+it tends to arrive close to the target world but outside
+or on the verge of the 100-diameter limit. Inaccurate
+jumps dump the ship somewhere in the inner system,
+requiring a long space flight.
+
+MISJUMPS
+
+On rare occasions, normally because of a lack of
+maintenance or using unrefined fuel, a ship can
+misjump. Many misjumps are lethal, causing the jump
+bubble to collapse early or for time in the bubble to flow
+
+spacecraft operations
+
+A ship can only safely jump when it is more than 100
+diameters distant from any object larger than the ship.
+A vessel could only jump away from Earth, for example,
+when it is more than 1.27 million kilometres distant (as
+well as 140 million kilometres away from Sol and 300,000
+kilometres away from the Moon). Gravity can cause a
+jump bubble to collapse prematurely, bringing a ship back
+into normal space early – so, if a ship tried to jump from
+Earth to Mars when the Sun was between the two, the
+vessel would fall out of jump space as soon as it came
+within 100 diameters of the Sun.
+
+•
+
+157
+
+

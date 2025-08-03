@@ -1,0 +1,229 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+These are among the most powerful weapons to appear
+on the battlefield and require special training to use
+effectively. Only those mounted on vehicles and ships
+will be more powerful at any equivalent Tech Level.
+These weapons require the Heavy Weapons
+(portable) skill.
+
+Grenade
+Launcher
+
+heavy weapons
+THE CORE COLLECTION
+
+WEAPON
+
+TL RANGE
+14
+
+450m
+
+2DD
+
+12
+
+Cr100000 —
+
+—
+
+FGHP-15
+
+15
+
+450m
+
+2DD
+
+12
+
+Cr400000 —
+
+—
+
+FGHP-16
+16
+Grenade
+7
+Launcher
+Machinegun 6
+PGHP-12
+12
+PGHP-13
+13
+PGHP-14
+14
+RAM
+8
+Grenade
+Launcher
+Rocket
+6
+Launcher
+Rocket
+7
+Launcher
+Rocket
+8
+Launcher
+Rocket
+9
+Launcher
+
+450m
+100m
+
+2DD
+15
+As grenade 6
+
+MCr0.5
+Cr400
+
+—
+6
+
+—
+As grenades
+
+500m
+250m
+450m
+450m
+250m
+
+3D
+10
+1DD
+10
+1DD
+10
+1DD
+10
+As grenade 2
+
+Cr1500
+Cr20000
+Cr65000
+Cr100000
+Cr800
+
+60
+—
+—
+—
+6
+
+Cr100
+—
+—
+—
+As grenades
+
+Auto 4
+Very Bulky
+Bulky
+
+120m
+
+4D
+
+8
+
+Cr2000
+
+1
+
+Cr300
+
+Blast 6
+
+150m
+
+4D+3
+
+8
+
+Cr2000
+
+1
+
+Cr400
+
+200m
+
+5D
+
+8
+
+Cr2000
+
+2
+
+Cr600
+
+250m
+
+5D+6
+
+8
+
+Cr2000
+
+2
+
+Cr800
+
+Blast 6,
+Smart
+Blast 6,
+Scope, Smart
+Blast 6,
+Scope, Smart
+
+equipment
+
+FGHP-14
+
+132
+
+
+DAMAGE
+
+KG
+
+COST
+
+MAGAZINE
+
+MAGAZINE COST
+
+TRAITS
+
+Radiation,
+Very Bulky
+Bulky,
+Radiation
+Radiation
+Bulky
+
+Auto 3, Bulky
+
+R
+
+

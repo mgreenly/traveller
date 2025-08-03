@@ -1,0 +1,209 @@
+TRAVEL TIMES
+
+Spacecraft are extremely fast – however, space is very
+large and even with all their advanced technology, it still
+takes a long time to reach destinations. Worlds orbiting
+the same star are accessible by interplanetary travel,
+on ships operated by local entrepreneurs or with a
+variety of small craft.
+
+TRAVEL CALCULATIONS
+
+The following calculations can be used to work out
+specific travel times if required – you are going to
+need a calculator for this!
+Time Required: Time = 2 x Square Root of
+(Distance/Acceleration)
+Acceleration Required: Acceleration = (Distance
+x 4)/Time2
+Distance Travelled: Distance = (Acceleration x
+Time2)/4
+
+Interplanetary travel takes time. The travel formulae can
+determine time required (if distance and acceleration are
+known), acceleration required (if distance and time are
+known) and distance travelled (if time and acceleration
+are known). All of these formulae use kilometres (which
+can be determined by Range Bands for short distances)
+and assume the ship is undertaking a journey from
+rest, that it accelerates continuously to midpoint of
+the trip, then decelerates to rest again. 1G is equal to
+approximately 10 metres per second per second.
+
+Transit Times
+Distance (km)
+
+633 seconds 447 seconds 365 seconds 316 seconds 283 seconds
+2,000 seconds 1,414 seconds 1,155 seconds 1,000 seconds 894 seconds
+105 minutes
+74 minutes
+61 minutes
+53 minutes
+47 minutes
+183 minutes
+129 minutes
+105 minutes
+91 minutes
+82 minutes
+
+1G
+
+2G
+
+3G
+
+4G
+
+5G
+
+258 seconds
+816 seconds
+42 minutes
+74 minutes
+
+211 minutes
+333 minutes
+17.6 hours
+30.42 hours
+37.3 hours
+55.6 hours
+68 hours
+
+149 minutes
+236 minutes
+12.4 hours
+21.5 hours
+26.4 hours
+39.3 hours
+48.11
+
+122 minutes
+192 minutes
+10.1 hours
+17.5 hours
+21.5 hours
+32.1 hours
+39.2 hours
+
+106 minutes
+167 minutes
+8.8 hours
+15.2 hours
+18.6 hours
+27.8 hours
+34 hours
+
+94 minutes
+149 minutes
+7.9 hours
+13.6 hours
+16.7 hours
+24.8 hours
+30.3 hours
+
+86 minutes
+136 minutes
+7.2 hours
+12.4 hours
+15.2 hours
+22.7 hours
+27.8 hours
+
+88.7 hours
+136.1 hours
+166.7 hours
+7.3 days
+
+62.7 hours
+96.2 hours
+117.9 hours
+5.2 days
+
+51.2 hours
+78.6 hours
+96.2 hours
+4.2 days
+
+44.4 hours
+68.0 hours
+83.4 hours
+3.7 days
+
+39.7 hours
+60.9 hours
+74.5 hours
+3.3 days
+
+36.2 hours
+55.6 hours
+68.0 hours
+2.9 days
+
+Common Distances for Traders
+Object to Object
+
+World Surface to Orbit
+Orbiting Satellite
+Close Neighbour World
+Far Neighbour World
+Close Gas Giant
+Far Gas Giant
+
+
+Distance
+
+10,000km
+400,000km
+45,000,000km
+255,000,000km
+600,000,000km
+900,000,000km
+
+Time at 1G
+
+2,000 seconds
+211 minutes
+37.3 hours
+88.7 hours
+136.1 hours
+166.7 hours
+
+Time at 2G
+
+6G
+
+1,414 seconds
+149 minutes
+26.4 hours
+62.7 hours
+96.2 hours
+117.9 hours
+
+spacecraft operations
+
+1,000
+10,000
+100,000
+300,000
+(1 light second)
+400,000
+1,000,000
+10,000,000
+30,000,000
+45,000,000
+100,000,000
+150,000,000
+(1 AU)
+255,000,000
+600,000,000
+900,000,000
+1,000,000,000
+
+While some of you may be very comfortable with
+such formulae, we know others will not be and
+so many useful distances are summarised on the
+Transit Times table.
+
+163
+
+

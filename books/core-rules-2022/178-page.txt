@@ -1,0 +1,72 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+HULL CONFIGURATIONS
+
+Streamlined?
+
+Hull Points
+
+Cost
+
+Standard
+
+Partial
+
+—
+
+—
+
+spacecraft construction
+
+Hull Configuration
+
+Hull Configuration
+
+Streamlined?
+
+Hull Points
+
+Cost
+
+Streamlined
+
+Yes
+
+—
+
++20%
+
+Hull Configuration
+
+Streamlined?
+
+Hull Points
+
+Cost
+
+-10%
+
+-50%
+
+Dispersed Structure No
+
+178
+
+
+R
+
+
