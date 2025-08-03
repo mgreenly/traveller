@@ -82,7 +82,7 @@ Finally, they provide the data wafer, explaining it is sealed with a biolock key
 
 **Location:** [Regina](./systems/regina.md) Downport
 
-> **Read Aloud:** The search for Roric Vance takes you deep into the Regina Downport, a maze of narrow streets, crowded markets, and dimly lit bars, all sitting under the perpetual shadow of the landing pads above. The air is thick with the smell of fried food, spilled booze, and unidentifiable chemicals. After asking around and greasing a few palms, you are pointed toward "The Gilded Spacer," a dive bar buzzing with loud music and the low murmur of a hundred conversations.
+> **Read Aloud:** The search for Roric Vance takes you deep into the Regina Downport, a maze of narrow streets, crowded markets, and dimly lit bars, all sitting under the perpetual shadow of the landing pads above. The air is thick with the smell of fried food, spilled booze, and unidentifiable chemicals. After asking around and greasing a few palms, you are pointed toward "The Gravity Well," a dive bar buzzing with loud music and the low murmur of a hundred conversations.
 >
 > In a dark booth in the back, you find your man. He is older than you expected, his face a roadmap of wrinkles and his eyes bloodshot. He wears a stained, synth-leather jacket that might have been fashionable two decades ago, and his hands tremble as he nurses a glass of amber liquid. He eyes your approach with deep suspicion.
 
