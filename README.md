@@ -1,8 +1,8 @@
-# Traveller Campaign: The Inheritance
+# Traveller Campaign: The Long Haul
 
 > A ship you can't afford. A debt you can't pay. A secret you can't escape.
 
-Welcome to the campaign notes for **The Inheritance**, a high-stakes adventure set in the Spinward Marches of the Traveller universe. This repository contains all the necessary documents, characters, and lore for the campaign.
+Welcome to the campaign notes for **The Long Haul**, a high-stakes adventure set in the Spinward Marches of the Traveller universe. This repository contains all the necessary documents, characters, and lore for the campaign.
 
 ## The Adventure So Far...
 

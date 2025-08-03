@@ -73,7 +73,7 @@ After the presentation, the players can probe for more information with a **Pers
 The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](./players/keith.md). They explain the ship is in the **[Djinni](./systems/djinni.md)** system, a **Red Zone**, and provide the transponder code but assume no liability. They also add, "Due to the unique legal circumstances surrounding the Djinni quarantine, any salvage or inheritance claim for this vessel must be filed in person at the Imperial administrative offices in the **[K'Kirka](./systems/k-kirka.md)** system. Filing elsewhere will be considered invalid."
 
 Finally, they provide the data wafer, explaining it is sealed with a biolock keyed to Keith. Once Keith opens it, he receives the message from Dr. Aris:
-> *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](./characters/roric-vance.md)..."*
+> *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](./characters/roric-vance.md). Tell him 'The Whiskey Jack needs a fast ship.'..."*
 
 *   **Optional Action (Computers TN 8+):** Before opening the wafer, a successful check will reveal its military-grade encryption and confirm it has no traps. A failure reveals nothing.
 
