@@ -144,7 +144,10 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 *   **Passage to [Dinom](./systems/dinom.md):** ~Cr1,500 (Low) or ~Cr6,000 (Standard).
 
 ### Stop 2: [Dinom](./systems/dinom.md) (Mining Outpost, Law Level 5)
+### Stop 2: [Dinom](./systems/dinom.md) (Mining Outpost, Law Level 5)
 > **Read Aloud:** Your ride to Dinom is on a cramped ore hauler that constantly vibrates. The system is bleak and lonely. The orbital starport is a utilitarian station reeking of ozone. The downport on the pockmarked grey rock below is a small cluster of domes connected by tunnels, all huddled near a massive mining operation. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye you with open suspicion.
+
+*   **Passage to [Dinomn](./systems/dinomn.md):** ~Cr8,000 (Standard) or ~Cr12,000 (Private).
 
 *   **Passage to [Dinomn](./systems/dinomn.md):** ~Cr8,000 (Standard) or ~Cr12,000 (Private).
 
@@ -166,8 +169,17 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 
 > **Read Aloud:** Rech is a smog-choked ball of industrial grey and polluted brown. The orbital starport is a barely functioning wreck, a patchwork of competing factions and jury-rigged repairs. The shuttle ride down is terrifying. The downport is a chaotic, sprawling mess of landing pads and temporary structures, policed by heavily armed thugs at faction checkpoints. The rule of law here is whatever the person with the biggest gun says it is.
 
-Your questions about off-the-books passage and capable pilots have not gone unnoticed. During their search, the players attract the attention of the **Rust Dogs**. The encounter is an intentional probe to determine if the players are rivals for the *Stardust Drifter* contract.
-> **Read Aloud:** The bar is crowded, loud, and smells of stale beer and sweat. As you're trying to get information, you get the distinct feeling of being watched. A mountain of a man covered in hissing, industrial-grade cybernetics ([Grak](./characters/scrap-vulture/grak.md)) bumps into you hard, spilling your drink. He turns, a sneer on his face, flanked by a wiry, fast-talking man with a cocky grin ([Joric "Slick" Fen](./characters/scrap-vulture/joric-slick-fen.md)). "That's a clumsy move for someone so far from home," Joric says, his voice deceptively casual, his hand resting near the pistol on his hip. "You looking for something? Or someone?" The aggression is a facade. This is a test—they are sizing you up.
+### Encounter: The Ambush
+After the players secure a contract with a pilot, the Rust Dogs decide to eliminate the competition. They will attack as the players are moving through the chaotic industrial warrens of the Rech downport, perhaps on their way to gather supplies or return to their lodgings.
+
+> **Read Aloud:** The alleyways of the Rech downport are a maze of rusting metal, hissing pipes, and deep shadows. As you round a corner, a heavy cargo container suddenly crashes down from a magnetic crane above, blocking your path. It's not an accident. From the gantries above, you see the glint of a rifle scope. A voice you recognize from the bar—[Joric "Slick" Fen](./characters/scrap-vulture/joric-slick-fen.md)—yells out, "Sorry about the mess! Wrench just wants to make sure you don't make your flight." A volley of laser fire erupts from multiple directions. You've been boxed in.
+
+This is a full-scale combat encounter. The Rust Dogs will use their environment and numbers to their advantage.
+*   **Tactics:** [Grak](./characters/scrap-vulture/grak.md) will provide suppressing fire with his shotgun while [Joric](./characters/scrap-vulture/joric-slick-fen.md) and [Kara](./characters/scrap-vulture/kara-wrench-riker.md) attempt to flank the players. [Zina](./characters/scrap-vulture/zina-sparks-petrova.md) will hang back, providing covering fire and medical aid to her crew.
+*   **Environment:** The players can use the maze of containers and pipes for cover. A successful **Athletics (TN 8)** check could allow a character to climb to a higher vantage point. A **Streetwise (TN 8)** check could reveal a hidden maintenance tunnel or a rickety catwalk that provides an escape route.
+*   **Goal:** The players' primary goal is to survive and escape. Defeating the Rust Dogs here is possible but difficult. The rivals will retreat if they take significant casualties (e.g., if Grak is taken down or Kara is seriously wounded), as their primary mission is the ship, not a protracted gang war.
+
+**Consequences:** Surviving this ambush makes the rivalry intensely personal. The players now know the Rust Dogs are willing to kill them to get the ship. Their hired pilot, having just been caught in a firefight, will be on high alert, adding tension to the next stage of the mission.
 
 ### Task Chain: Hiring a Pilot
 Hiring a pilot on a lawless world like Rech is a multi-step process. The players must first locate their chosen pilot and then negotiate a contract.
@@ -252,9 +264,9 @@ In Engineering, players can access the ship's internal diagnostic logs.
 
 ## Scene 7: Climax in the Belt
 
-> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship signature, previously hidden among the asteroid clutter, suddenly flares to life. It's the *Scrap Vulture*, powering up its weapons and drives. Moments later, a tight-beam transmission comes through, audio only. It's the voice of Kara Riker.
+> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship signature, previously hidden among the asteroid clutter, suddenly flares to life. It's the *Scrap Vulture*, powering up its weapons and drives. Moments later, a tight-beam transmission comes through, audio only. The voice is cold, confident, and familiar. It's Kara Riker.
 >
-> *"Whoever you are, congratulations on getting the lights on. But your journey ends here. We are in possession of your main data core. As you've probably figured out, you can't jump without it. Power down your systems and prepare to be boarded. If you resist, we will vent your ship into the void. You have five minutes to comply."*
+> *"So, you survived Rech. Impressive. I should have been more thorough. But your luck just ran out. We have your main data core. As you've probably figured out, you can't jump without it. Power down your systems and prepare to be boarded. If you resist, we will finish the job we started in that alley and vent your ship into the void. You have five minutes to comply."*
 >
 > The *Scrap Vulture* is holding its position a few kilometers away, well within the effective range of the weapon in your lab. The Rust Dogs' arrogance is their undoing. They believe they hold all the cards, unaware that you are sitting on a homemade EMP bomb and have the instructions to protect your own ship from it. Your new objective is clear: turn the tables on your rivals, disable their ship, and take back the core before the Navy corvette, now accelerating in your direction, complicates everything.
 
