@@ -16,7 +16,7 @@
 
 ---
 
-## Overview & Goal
+## Referee's Overview
 
 This adventure begins with a classic Traveller problem: the players are given a ship they can't afford to recover. They will inherit the title to the advanced lab ship [*Stardust Drifter*](./ships/stardust-drifter.md), but the vessel is abandoned and powered down in the [Djinni](./systems/djinni.md) system, a quarantined Red Zone patrolled by the Imperial Navy.
 
