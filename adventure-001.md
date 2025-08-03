@@ -13,6 +13,7 @@
 *   [Appendix A: Random Encounters](#appendix-a-random-encounters)
 *   [Appendix B: Dramatis Personae](#appendix-b-dramatis-personae)
 *   [Appendix C: Starships](#appendix-c-starships)
+*   [Appendix D: The Aris Data Core](#appendix-d-the-aris-data-core)
 
 ---
 
@@ -295,3 +296,22 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   [***The Void Gambit***](./ships/the-void-gambit.md): The players' ride. A fast, modified free trader captained by Kaelen.
 *   [***Scrap Vulture***](./ships/scrap-vulture.md): The rivals' ship. A brutish, modified freighter used by the Rust Dogs.
 *   [***INV Steadfast***](./ships/inv-steadfast.md): The law. An Imperial Navy corvette patrolling the [Djinni](./systems/djinni.md) system.
+---
+## Appendix D: The Aris Data Core
+
+Once the players have recovered the main data core from the Rust Dogs and installed it in the *Stardust Drifter*, they gain access to more than just the ship's operating systems. Buried in the terabytes of mundane data are several of Dr. Aris's personal research files and logs, offering new adventure hooks.
+
+### 1. The Ghost of Cthonia
+*   **File Type:** Fragmented Survey Data & Personal Log
+*   **Content:** The data points to a previously uncharted moon, **Cthonia**, orbiting a gas giant in the barren **Menkar** system (a system several parsecs off the main trade routes). Aris's log describes his last visit there: *"The structures are not of any known race. Geometric, crystalline... they hum in a frequency my sensors can't properly analyze. I had to leave before I could explore the primary subterranean entrance; the radiation spikes were becoming too dangerous. The site is pristine, completely unknown to the IISS. I've encrypted its location; can't risk a megacorp getting their claws on it."*
+*   **Hook:** The players now have the coordinates to a completely unknown and potentially priceless alien archaeological site. What secrets does it hold? What dangers caused the radiation spikes? And what will they do with the discovery of a lifetime?
+
+### 2. Project "Janus"
+*   **File Type:** Encrypted Research Proposal (Half-finished)
+*   **Content:** This file outlines Aris's theoretical work on a revolutionary and highly illegal technology: a "Janus-class" computer virus. The virus is designed to simultaneously create a perfect digital duplicate of a ship's computer core while erasing the original, making it the ultimate tool for data theft. The proposal notes the extreme danger: a minor error in the code could cause a cascade failure, turning the target computer into a useless brick. Aris seems to have abandoned the project, noting it was "too unstable, too dangerous."
+*   **Hook:** The incomplete code is a digital time bomb. Do the players try to finish it, creating a powerful but illegal cyberweapon? Do they try to sell the dangerous research to a corporation or government? Or do they destroy it, fearing it could fall into the wrong hands? Their decision could attract the attention of corporate security, Imperial intelligence, or a syndicate of high-tech thieves.
+
+### 3. The "Sparrow" Correspondence
+*   **File Type:** A series of heavily encrypted, one-way communications.
+*   **Content:** These are messages *sent to* Dr. Aris from an unknown contact who signs off only as "Sparrow." The messages are cryptic and personal. *"They know. The Regina project was compromised. I'm burning this identity and going dark. Don't try to find me. I've enclosed the usual payment for your silence. Stay safe, old friend."* The final message is dated just a few weeks before Aris abandoned the *Stardust Drifter*. Attached is a digital wallet with a few thousand untraceable credits.
+*   **Hook:** Who is Sparrow? What was the "Regina project"? Was Aris helping someone on the run? This breadcrumb trail could lead the players into a web of personal loyalty and corporate or political espionage, trying to uncover the identity of Sparrow and the secret they were protecting.
