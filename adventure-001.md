@@ -14,6 +14,7 @@
 *   [Appendix B: Dramatis Personae](#appendix-b-dramatis-personae)
 *   [Appendix C: Starships](#appendix-c-starships)
 *   [Appendix D: The Aris Data Core](#appendix-d-the-aris-data-core)
+*   [Appendix E: Reusable Encounters](#appendix-e-reusable-encounters)
 
 ---
 
@@ -29,7 +30,7 @@ Their first task is to leverage their only asset—the ship's title—to secure 
 
 The players need to borrow approximately **Cr3,000,000** to fund the recovery mission.
 
-*   **Hiring [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md) & *The Void Gambit*:** ~Cr2,000,000
+*   **Hiring [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md) & [*The Void Gambit*](./ships/the-void-gambit.md):** ~Cr2,000,000
 *   **Travel & Lodging (for 6 people):** ~Cr300,000
 *   **Information, Bribes & Tips:** ~Cr50,000
 *   **Fuel, Gear & Supplies:** ~Cr100,000
@@ -72,7 +73,7 @@ After the presentation, the players can probe for more information with a **Pers
 #### The Inheritance
 The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](./players/keith.md). They explain the ship is in the **[Djinni](./systems/djinni.md)** system, a **Red Zone**, and provide the transponder code but assume no liability. They also add, "Due to the unique legal circumstances of Dr. Aris's estate, the title transfer was filed through our sub-sector branch specializing in fringe assets. Therefore, any salvage or inheritance claim for this vessel must be certified in person at the designated court of record in the **[K'Kirka](./systems/k-kirka.md)** system. Filing elsewhere will be considered invalid."
 
-Finally, they provide the data wafer, explaining it is sealed with a biolock keyed to Keith. Once Keith opens it, he receives the message from Dr. Aris:
+Finally, they provide the data wafer, explaining it is sealed with a biolock keyed to Keith. Once Keith opens it, he receives the message from [Dr. Aris](./characters/dr-aris.md):
 > *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](./characters/roric-vance.md). Tell him 'The Whiskey Jack needs a fast ship.'..."*
 
 *   **Optional Action (Computers TN 8+):** Before opening the wafer, a successful check will reveal its military-grade encryption and confirm it has no traps. A failure reveals nothing.
@@ -104,9 +105,9 @@ After giving the code phrase, the players make a **Persuade** or **Broker** chec
 *   **Broker:** Represents treating this as a professional transaction.
 
 #### Outcome Tiers
-*   **Tier 1: Minimal Success (Failure on Stage 2 check):** Vance is cagey and provides only the bare minimum, framed as a desperate warning. "You need a pilot who knows the fringe. Go to **Rech**. Find a woman named **Kaelen**. She's reliable. For the money, see **Silas Kane** at 'The Gilded Cage'. But know this: the moment you sign his contract, he owns you. Aris knew this. He said he built a 'get out of jail free' card into the ship's main data core. A file with enough dirt on Kane to make him cancel the debt. If you want to survive the deal, you *must* get that core. Now get out of here."
-*   **Tier 2: Standard Success (Success on Stage 2 check):** Vance relaxes slightly and provides a clearer picture, giving the players a crucial choice. "Alright, you're serious. You have two real options, both on that lawless rock **Rech**. The smart money is on **[Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md)** and her ship, the *Void Gambit*. She's an ex-scout, professional and tough. She'll cost you, probably around 2 million, but she'll get the job done. Your other option is a kid named **[Rico 'Hotshot' Vega](./characters/rico-hotshot-vega.md)**. He flies a souped-up courier, the *Stray Comet*. He's faster and cheaper, but he's a reckless amateur. Your call: safety or speed?" He then adds the warning about **Silas 'The Gilded' Kane** and the "Kane Contingency" file on the data core.
-*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** Vance is impressed and reveals the true power behind Kane. He gives them the full details on both Kaelen and Rico from Tier 2, and then adds the dire warning about **Makhidkarun**'s involvement. "The file isn't just about Kane. It's about his masters. **Makhidkarun**. That's who you're really getting into bed with. The 'Kane Contingency' file has enough proof of their illegal dealings to ruin him and cause a major scandal for the corporation. It's not just a tool to cancel your debt; it's a weapon against a megacorp. That's why they want that ship so badly. And that's why you cannot afford to lose that data core."
+*   **Tier 1: Minimal Success (Failure on Stage 2 check):** Vance is cagey and provides only the bare minimum, framed as a desperate warning. "You need a pilot who knows the fringe. Go to **[Rech](./systems/rech.md)**. Find a woman named **Kaelen**. She's reliable. For the money, see **[Silas Kane](./characters/silas-kane.md)** at 'The Gilded Cage'. But know this: the moment you sign his contract, he owns you. Aris knew this. He said he built a 'get out of jail free' card into the ship's main data core. A file with enough dirt on Kane to make him cancel the debt. If you want to survive the deal, you *must* get that core. Now get out of here."
+*   **Tier 2: Standard Success (Success on Stage 2 check):** Vance relaxes slightly and provides a clearer picture, giving the players a crucial choice. "Alright, you're serious. You have two real options, both on that lawless rock **Rech**. The smart money is on **[Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md)** and her ship, the *Void Gambit*. She's an ex-scout, professional and tough. She'll cost you, probably around 2 million, but she'll get the job done. Your other option is a kid named **[Rico 'Hotshot' Vega](./characters/rico-hotshot-vega.md)**. He flies a souped-up courier, the [*Stray Comet*](./ships/stray-comet.md). He's faster and cheaper, but he's a reckless amateur. Your call: safety or speed?" He then adds the warning about **Silas 'The Gilded' Kane** and the "Kane Contingency" file on the data core.
+*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** Vance is impressed and reveals the true power behind Kane. He gives them the full details on both Kaelen and Rico from Tier 2, and then adds the dire warning about **[Makhidkarun](./factions/makhidkarun.md)**'s involvement. "The file isn't just about Kane. It's about his masters. **Makhidkarun**. That's who you're really getting into bed with. The 'Kane Contingency' file has enough proof of their illegal dealings to ruin him and cause a major scandal for the corporation. It's not just a tool to cancel your debt; it's a weapon against a megacorp. That's why they want that ship so badly. And that's why you cannot afford to lose that data core."
 
 *   **Referee Note:** If the players fail to get the lead to Silas "The Gilded" Kane, they will have to find their own way to raise the funds, likely through much more difficult and less reliable means in the Regina downport.
 
@@ -144,10 +145,25 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 *   **Passage to [Dinom](./systems/dinom.md):** ~Cr1,500 (Low) or ~Cr6,000 (Standard).
 
 ### Stop 2: [Dinom](./systems/dinom.md) (Mining Outpost, Law Level 5)
+### Stop 1: [Jenghe](./systems/jenghe.md) (Colonial Holding, Law Level 3)
+> **Read Aloud:** The jump to Jenghe is short and comfortable. The system is bathed in the perpetual orange twilight of its K-class star. The orbital starport is a functional, no-frills station. After a shuttle ride down, you find the downport to be a clean but unremarkable facility smelling of processed grains and machinery. This is a quiet backwater, a clear step down from the grandeur of the subsector capital.
+
+*   **Passage to [Dinom](./systems/dinom.md):** ~Cr1,500 (Low) or ~Cr6,000 (Standard).
+
 ### Stop 2: [Dinom](./systems/dinom.md) (Mining Outpost, Law Level 5)
 > **Read Aloud:** Your ride to Dinom is on a cramped ore hauler that constantly vibrates. The system is bleak and lonely. The orbital starport is a utilitarian station reeking of ozone. The downport on the pockmarked grey rock below is a small cluster of domes connected by tunnels, all huddled near a massive mining operation. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye you with open suspicion.
 
 *   **Passage to [Dinomn](./systems/dinomn.md):** ~Cr8,000 (Standard) or ~Cr12,000 (Private).
+
+### Stop 3: [Dinomn](./systems/dinomn.md) (Scout Base, Law Level 2)
+> **Read Aloud:** The Dinomn system feels like a return to civilization. The orbital starport is a well-maintained commercial station with a visible Imperial Scout presence. From a viewport, you see the majestic, ringed gas giant Chronos. As you wait for your connecting passage, you see a brutish, heavily modified freighter docked at a secure berth across the field, undergoing a rapid refueling. It's the [*Scrap Vulture*](./ships/scrap-vulture.md). The Rust Dogs are here, and they are moving fast.
+
+*   **Passage to [Wypoc](./systems/wypoc.md):** ~Cr2,000 (Low), ~Cr10,000 (Standard), or ~Cr25,000 (High).
+
+### Stop 4: [Wypoc](./systems/wypoc.md) (Frontier World, Law Level 7)
+> **Read Aloud:** The brilliant, blue-white light of Wypoc's F-class star forces the ship's viewports to polarize. The planet is a hazy, hostile orb. The orbital starport is a basic, frontier-style station. The downport is a collection of pressurized domes connected by sterile corridors. The moment you step off the shuttle, the argon-heavy atmosphere requires you to don filter masks. As you're being scrutinized by Imperial customs, you see the *Scrap Vulture* lifting off from a distant pad. Your rivals are once again one step ahead.
+
+*   **Passage to [Rech](./systems/rech.md):** ~Cr20,000 per person (cash only, off-the-books).
 
 *   **Passage to [Dinomn](./systems/dinomn.md):** ~Cr8,000 (Standard) or ~Cr12,000 (Private).
 
@@ -169,23 +185,12 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 
 > **Read Aloud:** Rech is a smog-choked ball of industrial grey and polluted brown. The orbital starport is a barely functioning wreck, a patchwork of competing factions and jury-rigged repairs. The shuttle ride down is terrifying. The downport is a chaotic, sprawling mess of landing pads and temporary structures, policed by heavily armed thugs at faction checkpoints. The rule of law here is whatever the person with the biggest gun says it is.
 
-### Encounter: The Ambush
-After the players secure a contract with a pilot, the Rust Dogs decide to eliminate the competition. They will attack as the players are moving through the chaotic industrial warrens of the Rech downport, perhaps on their way to gather supplies or return to their lodgings.
-
-> **Read Aloud:** The alleyways of the Rech downport are a maze of rusting metal, hissing pipes, and deep shadows. As you round a corner, a heavy cargo container suddenly crashes down from a magnetic crane above, blocking your path. It's not an accident. From the gantries above, you see the glint of a rifle scope. A voice you recognize from the bar—[Joric "Slick" Fen](./characters/scrap-vulture/joric-slick-fen.md)—yells out, "Sorry about the mess! Wrench just wants to make sure you don't make your flight." A volley of laser fire erupts from multiple directions. You've been boxed in.
-
-This is a full-scale combat encounter. The Rust Dogs will use their environment and numbers to their advantage.
-*   **Tactics:** [Grak](./characters/scrap-vulture/grak.md) will provide suppressing fire with his shotgun while [Joric](./characters/scrap-vulture/joric-slick-fen.md) and [Kara](./characters/scrap-vulture/kara-wrench-riker.md) attempt to flank the players. [Zina](./characters/scrap-vulture/zina-sparks-petrova.md) will hang back, providing covering fire and medical aid to her crew.
-*   **Environment:** The players can use the maze of containers and pipes for cover. A successful **Athletics (TN 8)** check could allow a character to climb to a higher vantage point. A **Streetwise (TN 8)** check could reveal a hidden maintenance tunnel or a rickety catwalk that provides an escape route.
-*   **Goal:** The players' primary goal is to survive and escape. Defeating the Rust Dogs here is possible but difficult. The rivals will retreat if they take significant casualties (e.g., if Grak is taken down or Kara is seriously wounded), as their primary mission is the ship, not a protracted gang war.
-
-**Consequences:** Surviving this ambush makes the rivalry intensely personal. The players now know the Rust Dogs are willing to kill them to get the ship. Their hired pilot, having just been caught in a firefight, will be on high alert, adding tension to the next stage of the mission.
-
 ### Task Chain: Hiring a Pilot
 Hiring a pilot on a lawless world like Rech is a multi-step process. The players must first locate their chosen pilot and then negotiate a contract.
 
 #### Option 1: Finding Captain Kaelen
-> **Read Aloud:** Your informant points you to a quiet corner of a cargo bay where a woman in a worn flight jacket is overseeing her crew load supplies. Her dark hair is cut short for practicality, and her steady, grey-eyed gaze misses nothing as she watches you approach. This is [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md). Beside her, a young, lanky man with a mop of unruly hair ([Jax](./characters/the-void-gambit/jax.md)) is practically vibrating with energy as he tunes a diagnostic tool. Leaning against the ship's hull is a hulking, silent Vargr whose fur is a patchwork of grey and black, his face scarred from old battles ([Grim](./characters/the-void-gambit/grim.md)). He watches you with unnerving stillness.
+#### Option 1: Finding Captain Kaelen
+> **Read Aloud:** Your informant points you to a quiet corner of a cargo bay where a woman in a worn flight jacket is overseeing her crew load supplies. Her dark hair is cut short for practicality, and her steady, grey-eyed gaze misses nothing as she watches you approach. This is [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md). Beside her, a young, lanky man with a mop of unruly hair ([Jax](./characters/the-void-gambit/jax.md)) is practically vibrating with energy as he tunes a diagnostic tool. Leaning against the ship's hull is a hulking, silent Vargr whose fur is a patchwork of grey and black, his face scarred from old battles (["Grim"](./characters/the-void-gambit/grim.md)). He watches you with unnerving stillness.
 
 #### Option 2: Finding Rico "Hotshot" Vega
 > **Read Aloud:** You find the *Stray Comet* tucked away in a disused corner of the landing field. It’s a small, sleek courier ship that looks like it’s been stripped down and rebuilt for pure speed. A young woman with grease-stained hands ([Lena Petrova](./characters/lena-petrova.md)) is arguing heatedly with a cocky-looking pilot ([Rico "Hotshot" Vega](./characters/rico-hotshot-vega.md)) at the base of the ramp, while a third, quiet man ([Corbin "Maps" Vance](./characters/corbin-vance.md)) studiously ignores them both, focused on a data-slate. The pilot, Rico, spots you approaching and flashes a grin. "Perfect timing! Come to save me from this lecture on 'engine safety' and 'responsible piloting'?"
@@ -208,6 +213,47 @@ This stage determines the final price and terms. The pilot is already on board; 
 *   **Tier 2: Standard Success (Success on Stage 2 check):** A fair deal is struck. The cost is **100% of the standard rate** (~2,000,000 for Kaelen, ~1,000,000 for Rico).
 *   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** The players impress the pilot. The cost is **75% of the standard rate**, and the pilot throws in a bonus (e.g., Kaelen offers her crew's assistance in the salvage, or Rico offers to use his contacts to get a discount on fuel).
 
+### Encounter: The Ambush
+After the players secure a contract with a pilot, the Rust Dogs decide to eliminate the competition. They will attack as the players are moving through the chaotic industrial warrens of the Rech downport, perhaps on their way to gather supplies or return to their lodgings.
+
+> **Read Aloud:** The alleyways of the Rech downport are a maze of rusting metal, hissing pipes, and deep shadows. As you round a corner, a heavy cargo container suddenly crashes down from a magnetic crane above, blocking your path. It's not an accident. From the gantries above, you see the glint of a rifle scope. A voice you recognize from the bar—[Joric "Slick" Fen](./characters/scrap-vulture/joric-slick-fen.md)—yells out, "Sorry about the mess! Wrench just wants to make sure you don't make your flight." A volley of laser fire erupts from multiple directions. You've been boxed in.
+
+This is a full-scale combat encounter. The Rust Dogs will use their environment and numbers to their advantage.
+*   **Tactics:** [Grak](./characters/scrap-vulture/grak.md) will provide suppressing fire with his shotgun while [Joric](./characters/scrap-vulture/joric-slick-fen.md) and [Kara](./characters/scrap-vulture/kara-wrench-riker.md) attempt to flank the players. [Zina "Sparks" Petrova](./characters/scrap-vulture/zina-sparks-petrova.md) will hang back, providing covering fire and medical aid to her crew.
+
+#### Option 2: Finding Rico "Hotshot" Vega
+> **Read Aloud:** You find the *Stray Comet* tucked away in a disused corner of the landing field. It’s a small, sleek courier ship that looks like it’s been stripped down and rebuilt for pure speed. A young woman with grease-stained hands ([Lena Petrova](./characters/lena-petrova.md)) is arguing heatedly with a cocky-looking pilot ([Rico "Hotshot" Vega](./characters/rico-hotshot-vega.md)) at the base of the ramp, while a third, quiet man ([Corbin "Maps" Vance](./characters/corbin-vance.md)) studiously ignores them both, focused on a data-slate. The pilot, Rico, spots you approaching and flashes a grin. "Perfect timing! Come to save me from this lecture on 'engine safety' and 'responsible piloting'?"
+
+---
+#### Stage 1: The Pitch (TN 9+)
+This is the initial attempt to get the pilot to take the job seriously. This check can be failed.
+*   **Kaelen (The Professional):** She needs to be convinced the players are competent and the mission is viable. This requires a **Broker** or **Persuade** check.
+*   **Rico (The Hotshot):** He needs to be convinced the job is exciting and will make a great story. This requires a **Carouse** or **Streetwise** check.
+*   **Success (9+):** The pilot is intrigued and agrees to hear the full proposal. Proceed to Stage 2.
+*   **Failure (8-):** The pilot dismisses the players as amateurs and refuses the job. If this is the *first* pilot the players have approached, they must now find the other pilot. Their reputation as time-wasters precedes them, and they automatically succeed at this stage but with a **-2 penalty** to the check in Stage 2. If this was their second attempt, the pilot reluctantly reconsiders, but the players still take a **-2 penalty** to the check in Stage 2.
+
+#### Stage 2: The Negotiation (TN 8+)
+This stage determines the final price and terms. The pilot is already on board; this just determines how much it will cost the players. This check cannot be failed, but a poor roll will be expensive.
+*   **Kaelen:** Negotiate with **Broker** or **Persuade**.
+*   **Rico:** Negotiate with **Broker** or **Carouse**.
+
+#### Outcome Tiers
+*   **Tier 1: Minimal Success (Failure on Stage 2 check):** The pilot drives a hard bargain. The cost is **150% of their standard rate** (~3,000,000 for Kaelen, ~1,500,000 for Rico). They demand a significant portion up front and offer no flexibility.
+*   **Tier 2: Standard Success (Success on Stage 2 check):** A fair deal is struck. The cost is **100% of the standard rate** (~2,000,000 for Kaelen, ~1,000,000 for Rico).
+*   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** The players impress the pilot. The cost is **75% of the standard rate**, and the pilot throws in a bonus (e.g., Kaelen offers her crew's assistance in the salvage, or Rico offers to use his contacts to get a discount on fuel).
+
+### Encounter: The Ambush
+After the players secure a contract with a pilot, the Rust Dogs decide to eliminate the competition. They will attack as the players are moving through the chaotic industrial warrens of the Rech downport, perhaps on their way to gather supplies or return to their lodgings.
+
+> **Read Aloud:** The alleyways of the Rech downport are a maze of rusting metal, hissing pipes, and deep shadows. As you round a corner, a heavy cargo container suddenly crashes down from a magnetic crane above, blocking your path. It's not an accident. From the gantries above, you see the glint of a rifle scope. A voice you recognize from the bar—[Joric "Slick" Fen](./characters/scrap-vulture/joric-slick-fen.md)—yells out, "Sorry about the mess! Wrench just wants to make sure you don't make your flight." A volley of laser fire erupts from multiple directions. You've been boxed in.
+
+This is a full-scale combat encounter. The Rust Dogs will use their environment and numbers to their advantage.
+*   **Tactics:** [Grak](./characters/scrap-vulture/grak.md) will provide suppressing fire with his shotgun while [Joric](./characters/scrap-vulture/joric-slick-fen.md) and [Kara](./characters/scrap-vulture/kara-wrench-riker.md) attempt to flank the players. [Zina](./characters/scrap-vulture/zina-sparks-petrova.md) will hang back, providing covering fire and medical aid to her crew.
+*   **Environment:** The players can use the maze of containers and pipes for cover. A successful **Athletics (TN 8)** check could allow a character to climb to a higher vantage point. A **Streetwise (TN 8)** check could reveal a hidden maintenance tunnel or a rickety catwalk that provides an escape route.
+*   **Goal:** The players' primary goal is to survive and escape. Defeating the Rust Dogs here is possible but difficult. The rivals will retreat if they take significant casualties (e.g., if Grak is taken down or Kara is seriously wounded), as their primary mission is the ship, not a protracted gang war.
+
+**Consequences:** Surviving this ambush makes the rivalry intensely personal. The players now know the Rust Dogs are willing to kill them to get the ship. Their hired pilot, having just been caught in a firefight, will be on high alert, adding tension to the next stage of the mission.
+
 ---
 
 ## Scene 5: The Djinni Run
@@ -224,7 +270,45 @@ This stage determines the final price and terms. The pilot is already on board; 
 
 ## Scene 6: The Ghost Ship
 
+**Location:** > **Read Aloud:** The jump into the Djinni system is jarring. The silence in the cockpit is absolute. The system's yellow star is a distant, lonely point of light. In the distance, you see the faint, unmistakable silhouette of a *Vigilant*-class corvette, the [INV *Steadfast*](./ships/inv-steadfast.md), on patrol. Your destination is not the lush, green Droyne preserve that is the system's main world, but its second planet, a bleak, ice-crusted rock named Niflheim.
+>
+> After hours of silent running, you approach the asteroid belt in high orbit around Niflheim. Your sensors finally get a lock on the emergency transponder signal. There, floating silently amidst the slowly tumbling rocks, is the [*Stardust Drifter*](./ships/stardust-drifter.md). It's a modified Scout/Courier, its hull scarred and weathered. It is dark, cold, and appears utterly lifeless.
+
+*   **Ship Actions:** **Pilot** to navigate the asteroid field; **Sensors** to detect the Navy patrol; **Engineer** to run the ship silently.
+
+---
+
+## Scene 6: The Ghost Ship
+
 **Location:** The *Stardust Drifter*
+
+> **Read Aloud:** The *Drifter's* airlock cycles open with a faint hiss of escaping residual atmosphere. Inside, the ship is freezing, dark, and utterly silent. Your suit lights cut sharp beams through the zero-gravity environment, illuminating floating dust motes and small, frozen droplets of liquid. The air smells stale and metallic. Every corridor is a dark maw, and every sound you make seems unnaturally loud. This ship is a tomb.
+
+The players must navigate the derelict ship, overcome its obstacles, and get it running before the Rust Dogs arrive.
+
+### 1. Airlock Trap
+Dr. Aris left a simple but nasty surprise for intruders.
+*   **The Trap:** A pressure plate on the interior side of the airlock is rigged to a high-intensity industrial welder mounted in the ceiling. If stepped on, it will fire a single, searing beam at chest height, designed to breach a vacc suit.
+*   **Spotting:** An **Investigate (TN 10)** check is required to spot the faint scoring on the floor plate and the unusually clean lens of the welder.
+*   **Disarming:** A **Mechanics or Explosives (TN 8)** check will safely disable the trigger mechanism. Failure means the trap goes off.
+
+### 2. The Missing Core & The Crippled Drive
+The bridge is dark, with only the faint emergency lights of the *Void Gambit* playing through the viewport. The main computer console has been visibly tampered with; a housing unit is ripped open, with severed cables dangling where a data core should be.
+*   **The System:** The secondary bridge terminals are still functional but locked. A **Computers (TN 8)** check is required to gain basic access to ship systems (power, life support, etc.).
+*   **The Crime Scene:** A successful **Investigate (TN 8)** or **Mechanics (TN 8)** check of the damaged console reveals two things:
+    1.  The cutting marks on the housing are crude and forceful, not the work of a skilled technician.
+    2.  Wedged into a crevice is a small, branded multitool, carelessly left behind. It bears the snarling dog emblem of the "Rust Dogs."
+*   **The Realization:** The players have the ship, but the most valuable part is gone. Worse, they see that the custom jump drive's navigation computer is physically slaved to the main data core housing. The severed cables make the truth brutally clear: **without the core, the ship cannot calculate a jump.** They are stranded.
+
+### 3. Clue #1: The "Guest" in the Lab
+The lab is a mess of scattered papers and broken glassware, all floating in zero-g. The walls are interwoven with a fine, golden mesh of EM shielding.
+*   **Containment:** A reinforced, transparent containment unit in the center of the lab is still intact. Inside, a crystalline, faintly bioluminescent entity the size of a clenched fist floats motionlessly. This is a specimen of the native Djinni life form.
+*   **Understanding (Science TN 8):** A successful check allows the player to access the local terminal on the containment unit.
+    *   **Standard Success:** The player identifies the creature as a "biological capacitor." A log entry from Dr. Aris reads: *"Specimen is highly reactive to energy spikes. The strange thing is, my readings show it expends significantly more energy in its discharge than it seems to consume. This shouldn't be possible. If this can be controlled, it's a potential weapon. For now, containment is holding, but the lab must be considered a blast chamber."*
+    *   **Exceptional Success (Effect 4+):** The player understands the full, tactical implication. The "catastrophic energy discharge" would be an **omnidirectional electromagnetic pulse (EMP)**, powerful enough to disable unshielded ship systems at close range. They realize they could trigger it intentionally.
+
+***Referee Note: The Cultivators' Gambit***
+*The players might wonder how Dr. Aris managed to operate in a quarantined Red Zone. The truth is, he had a contact within the Imperial Navy who tipped him off about a scheduled 72-hour patrol gap, officially logged as a 'sensor maintenance and recalibration' window for the INV Steadfast. What neither Aris nor his naval source knew was that the gap itself was engineered by [The Cultivators](./factions/the-cultivators.md). This secretive faction subtly manipulated naval maintenance schedules to ensure Aris, a uniquely brilliant and reckless scientist, could acquire the Djinni specimen, seeing it as a catalyst for 'novel interactions.' This information is not readily available but could be uncovered through deep investigation into naval logs or encounters with the Cultivators or their rivals, the Engineers, in future adventures.*
 
 > **Read Aloud:** The *Drifter's* airlock cycles open with a faint hiss of escaping residual atmosphere. Inside, the ship is freezing, dark, and utterly silent. Your suit lights cut sharp beams through the zero-gravity environment, illuminating floating dust motes and small, frozen droplets of liquid. The air smells stale and metallic. Every corridor is a dark maw, and every sound you make seems unnaturally loud. This ship is a tomb.
 
@@ -273,7 +357,7 @@ In Engineering, players can access the ship's internal diagnostic logs.
 ### Objective: The Data Heist
 The players must now engage the *Scrap Vulture* to retrieve the stolen data core. This can be achieved through force, stealth, or negotiation. If they manage to disable and board the rival vessel, they can gain crucial intelligence. A successful **Computers (TN 8)** check on the captain's terminal on the *Scrap Vulture's* bridge reveals two critical items:
 
-1.  **The Acquisition Contract:** The job was issued by a shell corporation named **"Fringe Asset Recovery, LLC."** The contract is for the "forced acquisition" of the *Stardust Drifter*, with a massive bonus for securing the lab and any biological samples intact. A subsequent **Streetwise or Broker (TN 8)** check made later in a civilized system will reveal that "Fringe Asset Recovery" is a known front for **[Makhidkarun's](./factions/makhidkarun.md)** special projects division.
+1.  **The Acquisition Contract:** The job was issued by a shell corporation named **"[Fringe Asset Recovery, LLC.](./factions/fringe-asset-recovery.md)"** The contract is for the "forced acquisition" of the *Stardust Drifter*, with a massive bonus for securing the lab and any biological samples intact. A subsequent **Streetwise or Broker (TN 8)** check made later in a civilized system will reveal that "Fringe Asset Recovery" is a known front for **[Makhidkarun's](./factions/makhidkarun.md)** special projects division.
 
 2.  **The Ghost in the Machine:** A recent ship's log entry from Kara Riker expresses frustration over a recent systems breach. It reads:
     > *"Slick's diagnostics confirm it. The intrusion was military-grade. Pinpoint, traceless, and gone before we could even react. It wasn't a corporate rival; the profile is wrong. The only signature that fits this kind of ghost is Imperial, and not the standard Navy spooks. This has all the hallmarks of an S86 op. They're watching this prize, too. We need to move faster."*
@@ -284,7 +368,7 @@ This log entry confirms that a third, highly secretive power is monitoring the s
 
 ## Resolution
 
-The adventure concludes when the players escape the [Djinni](./systems/djinni.md) system with the *Stardust Drifter*. To make their ownership official, they must file a salvage and inheritance claim at the starport on [K'Kirka](./systems/k-kirka.md). This sets the stage for future adventures, where they must deal with their massive debt to Silas Kane, the unwanted attention from Makhidkarun, and the true nature of [Dr. Aris](./characters/dr-aris.md)'s research.
+The adventure concludes when the players escape the [Djinni](./systems/djinni.md) system with the *Stardust Drifter*. To make their ownership official, they must file a salvage and inheritance claim at the starport on [K'Kirka](./systems/k-kirka.md). This sets the stage for future adventures, where they must deal with their massive debt to [Silas Kane](./characters/silas-kane.md), the unwanted attention from [Makhidkarun](./factions/makhidkarun.md), and the true nature of [Dr. Aris](./characters/dr-aris.md)'s research.
 
 ---
 ## Appendix A: Random Encounters
@@ -351,3 +435,14 @@ Once the players have recovered the main data core from the Rust Dogs and instal
 *   **File Type:** A series of heavily encrypted, one-way communications.
 *   **Content:** These are messages *sent to* Dr. Aris from an unknown contact who signs off only as "Sparrow." The messages are cryptic and personal. *"They know. The Regina project was compromised. I'm burning this identity and going dark. Don't try to find me. I've enclosed the usual payment for your silence. Stay safe, old friend."* The final message is dated just a few weeks before Aris abandoned the *Stardust Drifter*. Attached is a digital wallet with a few thousand untraceable credits.
 *   **Hook:** Who is Sparrow? What was the "Regina project"? Was Aris helping someone on the run? This breadcrumb trail could lead the players into a web of personal loyalty and corporate or political espionage, trying to uncover the identity of Sparrow and the secret they were protecting.
+
+---
+## Appendix E: Reusable Encounters
+
+This adventure uses several modular, reusable encounters that can be found in the `/misc` directory. They are designed to be dropped into any adventure in this campaign.
+
+*   [**Starport Customs Encounter**](./misc/customs-encounter.md): A task chain for dealing with Imperial customs, with paths for honest travellers, smugglers, and those willing to offer a bribe.
+*   [**The Extra Mile Outfitters**](./misc/the-extra-mile-outfitters.md): A reliable gear shop run by a retired Scout, with options for acquiring illegal equipment.
+*   [**The Star-Hopper Inn**](./misc/the-star-hopper-inn.md): A cheap, modular motel that can serve as a base of operations or a source of low-level information.
+*   [**The Gravity Well (Dive Bar)**](./misc/the-gravity-well.md): A classic fringe dive bar, perfect for finding shady contacts and rumors.
+*   [**The Alibi (Upscale Bar)**](./misc/the-alibi.md): A high-class corporate bar, ideal for encounters with powerful and influential NPCs.
