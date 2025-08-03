@@ -1,7 +1,7 @@
 # Adventure 001: The Inheritance
 
 ## Table of Contents
-*   [Overview & Goal](#overview--goal)
+*   [Referee's Overview](#referees-overview)
 *   [Scene 1: An Unexpected Inheritance](#scene-1-an-unexpected-inheritance)
 *   [Scene 2: The Information Broker](#scene-2-the-information-broker)
 *   [Scene 3: The Journey to the Fringe](#scene-3-the-journey-to-the-fringe)
@@ -213,7 +213,7 @@ The bridge is dark, with only the faint emergency lights of the *Void Gambit* pl
 The lab is a mess of scattered papers and broken glassware, all floating in zero-g. The walls are interwoven with a fine, golden mesh of EM shielding.
 *   **Containment:** A reinforced, transparent containment unit in the center of the lab is still intact. Inside, a crystalline, faintly bioluminescent entity the size of a clenched fist floats motionlessly. This is a specimen of the native Djinni life form.
 *   **Understanding (Science TN 8):** A successful check allows the player to access the local terminal on the containment unit.
-    *   **Standard Success:** The player identifies the creature as a "biological capacitor." A log entry from Dr. Aris reads: *"Specimen is highly reactive to energy spikes. A ship-level power surge or weapons fire nearby could cause a catastrophic energy discharge. Containment is holding, but the lab must be considered a blast chamber."*
+    *   **Standard Success:** The player identifies the creature as a "biological capacitor." A log entry from Dr. Aris reads: *"Specimen is highly reactive to energy spikes. The strange thing is, my readings show it expends significantly more energy in its discharge than it seems to consume. This shouldn't be possible. If this can be controlled, it's a potential weapon. For now, containment is holding, but the lab must be considered a blast chamber."*
     *   **Exceptional Success (Effect 4+):** The player understands the full, tactical implication. The "catastrophic energy discharge" would be an **omnidirectional electromagnetic pulse (EMP)**, powerful enough to disable unshielded ship systems at close range. They realize they could trigger it intentionally.
 
 ***Referee Note: The Cultivators' Gambit***
