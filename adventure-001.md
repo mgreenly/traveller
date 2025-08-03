@@ -159,8 +159,8 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 
 > **Read Aloud:** Rech is a smog-choked ball of industrial grey and polluted brown. The orbital starport is a barely functioning wreck, a patchwork of competing factions and jury-rigged repairs. The shuttle ride down is terrifying. The downport is a chaotic, sprawling mess of landing pads and temporary structures, policed by heavily armed thugs at faction checkpoints. The rule of law here is whatever the person with the biggest gun says it is.
 
-During their search, the players have a run-in with the **Rust Dogs**.
-> **Read Aloud:** The bar is crowded, loud, and smells of stale beer and sweat. As you're trying to get information, a mountain of a man covered in hissing, industrial-grade cybernetics ([Grak](./characters/scrap-vulture/grak.md)) "accidentally" bumps into you, spilling your drink. He turns, a sneer on his face, flanked by a wiry, fast-talking man with a cocky grin ([Joric "Slick" Fen](./characters/scrap-vulture/joric-slick-fen.md)). "You got a problem?" Joric asks, his hand resting near the pistol on his hip. They are clearly looking for a fight.
+Your questions about off-the-books passage and capable pilots have not gone unnoticed. During their search, the players attract the attention of the **Rust Dogs**. The encounter is an intentional probe to determine if the players are rivals for the *Stardust Drifter* contract.
+> **Read Aloud:** The bar is crowded, loud, and smells of stale beer and sweat. As you're trying to get information, you get the distinct feeling of being watched. A mountain of a man covered in hissing, industrial-grade cybernetics ([Grak](./characters/scrap-vulture/grak.md)) bumps into you hard, spilling your drink. He turns, a sneer on his face, flanked by a wiry, fast-talking man with a cocky grin ([Joric "Slick" Fen](./characters/scrap-vulture/joric-slick-fen.md)). "That's a clumsy move for someone so far from home," Joric says, his voice deceptively casual, his hand resting near the pistol on his hip. "You looking for something? Or someone?" The aggression is a facade. This is a test—they are sizing you up.
 
 Eventually, the players find **Captain Kaelen**.
 > **Read Aloud:** Your informant points you to a quiet corner of a cargo bay where a woman in a worn flight jacket is overseeing her crew load supplies. Her dark hair is cut short for practicality, and her steady, grey-eyed gaze misses nothing as she watches you approach. This is [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md). Beside her, a young, lanky man with a mop of unruly hair ([Jax](./characters/the-void-gambit/jax.md)) is practically vibrating with energy as he tunes a diagnostic tool. Leaning against the ship's hull is a hulking, silent Vargr whose fur is a patchwork of grey and black, his face scarred from old battles ([Grim](./characters/the-void-gambit/grim.md)). He watches you with unnerving stillness.
@@ -191,22 +191,34 @@ Dr. Aris left a simple but nasty surprise for intruders.
 *   **Spotting:** An **Investigate (TN 10)** check is required to spot the faint scoring on the floor plate and the unusually clean lens of the welder.
 *   **Disarming:** A **Mechanics or Explosives (TN 8)** check will safely disable the trigger mechanism. Failure means the trap goes off.
 
-### 2. The Missing Core
+### 2. The Missing Core & The Crippled Drive
 The bridge is dark, with only the faint emergency lights of the *Void Gambit* playing through the viewport. The main computer console has been visibly tampered with; a housing unit is ripped open, with severed cables dangling where a data core should be.
 *   **The System:** The secondary bridge terminals are still functional but locked. A **Computers (TN 8)** check is required to gain basic access to ship systems (power, life support, etc.).
 *   **The Crime Scene:** A successful **Investigate (TN 8)** or **Mechanics (TN 8)** check of the damaged console reveals two things:
     1.  The cutting marks on the housing are crude and forceful, not the work of a skilled technician.
     2.  Wedged into a crevice is a small, branded multitool, carelessly left behind. It bears the snarling dog emblem of the "Rust Dogs."
-*   **The Realization:** The players have the ship, but the most valuable part—Dr. Aris's research, his logs, and the reason for his disappearance—is gone. They've been beaten to the punch.
+*   **The Realization:** The players have the ship, but the most valuable part is gone. Worse, they see that the custom jump drive's navigation computer is physically slaved to the main data core housing. The severed cables make the truth brutally clear: **without the core, the ship cannot calculate a jump.** They are stranded.
 
-### 3. The "Guest" in the Lab
-The lab is a mess of scattered papers and broken glassware, all floating in zero-g.
+### 3. Clue #1: The "Guest" in the Lab
+The lab is a mess of scattered papers and broken glassware, all floating in zero-g. The walls are interwoven with a fine, golden mesh of EM shielding.
 *   **Containment:** A reinforced, transparent containment unit in the center of the lab is still intact. Inside, a crystalline, faintly bioluminescent entity the size of a clenched fist floats motionlessly. This is a specimen of the native Djinni life form.
-*   **Understanding:** A **Science (Biology) (TN 8)** check reveals that the creature appears dormant, but its crystalline structure suggests it could react violently to energy fluctuations—like powering up a nearby ship's systems or a firefight.
+*   **Understanding (Science TN 8):** A successful check allows the player to access the local terminal on the containment unit.
+    *   **Standard Success:** The player identifies the creature as a "biological capacitor." A log entry from Dr. Aris reads: *"Specimen is highly reactive to energy spikes. A ship-level power surge or weapons fire nearby could cause a catastrophic energy discharge. Containment is holding, but the lab must be considered a blast chamber."*
+    *   **Exceptional Success (Effect 4+):** The player understands the full, tactical implication. The "catastrophic energy discharge" would be an **omnidirectional electromagnetic pulse (EMP)**, powerful enough to disable unshielded ship systems at close range. They realize they could trigger it intentionally.
+
+### 4. Clue #2: The Failsafe
+In Engineering, players can access the ship's internal diagnostic logs.
+*   **The Discovery (Computers TN 8):** Slicing into the logs reveals a "Maintenance & Operations" log left by Dr. Aris. One entry is flagged as critical:
+    > **Log Entry 734: Containment Protocol.**
+    > *"After the incident last week, I've had to create a failsafe. The 'Lab Isolation Protocol' can be initiated from the engineering station. It shunts all non-essential power and routes the bridge, life support, and jump drive controls through the shielded conduits that bypass the main lab. This should protect the ship's core systems from a specimen-induced energy cascade. Activating it will temporarily kill power to most of the ship, but it's better than becoming another ghost in the belt."*
 
 ## Scene 7: Climax in the Belt
 
-> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship has just jumped into the system nearby. It's the *Scrap Vulture*, its brutish, heavily armored hull and oversized weapon mounts making it look like a predator. They were waiting for a sign of activity, and now they're moving in to claim the prize. You have the ship, but they have the data core—the key to everything. Your new objective is clear: get that core back before the Navy corvette, now accelerating in your direction, complicates everything.
+> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship has just jumped into the system nearby. It's the *Scrap Vulture*. Moments later, a tight-beam transmission comes through, audio only. It's the voice of Kara Riker.
+>
+> *"Whoever you are, congratulations on getting the lights on. But your journey ends here. We are in possession of your main data core. As you've probably figured out, you can't jump without it. Power down your systems and prepare to be boarded. If you resist, we will vent your ship into the void. You have five minutes to comply."*
+>
+> The *Scrap Vulture* is holding its position a few kilometers away, well within the effective range of the weapon in your lab. The Rust Dogs' arrogance is their undoing. They believe they hold all the cards, unaware that you are sitting on a homemade EMP bomb and have the instructions to protect your own ship from it. Your new objective is clear: turn the tables on your rivals, disable their ship, and take back the core before the Navy corvette, now accelerating in your direction, complicates everything.
 
 ### Objective: The Data Heist
 The players must now engage the *Scrap Vulture* to retrieve the stolen data core. This can be achieved through force, stealth, or negotiation. If they manage to disable and board the rival vessel, they can gain crucial intelligence. A successful **Computers (TN 8)** check on the captain's terminal on the *Scrap Vulture's* bridge reveals two critical items:
