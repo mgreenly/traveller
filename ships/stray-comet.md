@@ -1,7 +1,7 @@
 # Stray Comet (Modified Courier)
 
 ## Description
-The *Stray Comet* is a small, 100-ton courier that has been stripped down and rebuilt for one purpose: speed. Its owner and pilot, [Rico "Hotshot" Vega](../characters/rico-hotshot-vega.md), has pushed its engines far beyond their safety limits. The ship is a blur in sublight and can outrun almost anything its size, but it's a maintenance nightmare and prone to unexpected system failures. To make room for the oversized engines, most of the standard staterooms and the entire cargo bay were ripped out. The ship has a cockpit, a small common area, and just enough passenger space for four people in extremely cramped, bunk-style quarters.
+The *Stray Comet* is a small, 100-ton courier that has been stripped down and rebuilt for one purpose: speed. Its owner and pilot, [Rico "Hotshot" Vega](../characters/rico-hotshot-vega.md), has pushed its engines far beyond their safety limits. The ship is a blur in sublight and can outrun almost anything its size, but it's a maintenance nightmare. To accommodate the oversized engines, the original cargo bay has been completely converted into a spartan, multi-tiered bunkhouse with just enough room for six passengers. There is virtually no cargo space left. The ship consists of a cockpit, a tiny common area, the crew's quarters, and the passenger bunkhouse.
 
 ## Ship Stats (Based on a Courier)
 *   **Hull:** 100 tons
@@ -16,7 +16,7 @@ The *Stray Comet* is a small, 100-ton courier that has been stripped down and re
 *   **Craft:** None
 *   **Software:** Jump Control/2, Maneuver/1
 *   **Special:** Overclocked Drives (prone to failure)
-*   **Cargo:** 10 tons
+*   **Cargo:** 2 tons (for personal luggage)
 
 ## Crew
 *   **[Rico "Hotshot" Vega](../characters/rico-hotshot-vega.md):** Pilot
