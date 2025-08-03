@@ -216,6 +216,9 @@ The lab is a mess of scattered papers and broken glassware, all floating in zero
     *   **Standard Success:** The player identifies the creature as a "biological capacitor." A log entry from Dr. Aris reads: *"Specimen is highly reactive to energy spikes. A ship-level power surge or weapons fire nearby could cause a catastrophic energy discharge. Containment is holding, but the lab must be considered a blast chamber."*
     *   **Exceptional Success (Effect 4+):** The player understands the full, tactical implication. The "catastrophic energy discharge" would be an **omnidirectional electromagnetic pulse (EMP)**, powerful enough to disable unshielded ship systems at close range. They realize they could trigger it intentionally.
 
+***Referee Note: The Cultivators' Gambit***
+*The players might wonder how Dr. Aris managed to operate in a quarantined Red Zone. The truth is, he had a contact within the Imperial Navy who tipped him off about a scheduled 72-hour patrol gap, officially logged as a 'sensor maintenance and recalibration' window for the INV Steadfast. What neither Aris nor his naval source knew was that the gap itself was engineered by the Cultivators. This secretive faction subtly manipulated naval maintenance schedules to ensure Aris, a uniquely brilliant and reckless scientist, could acquire the Djinni specimen, seeing it as a catalyst for 'novel interactions.' This information is not readily available but could be uncovered through deep investigation into naval logs or encounters with the Cultivators or their rivals, the Engineers, in future adventures.*
+
 ### 4. Clue #2: The Failsafe
 In Engineering, players can access the ship's internal diagnostic logs.
 *   **The Discovery (Computers TN 8):** Slicing into the logs reveals a "Maintenance & Operations" log left by Dr. Aris. One entry is flagged as critical:
