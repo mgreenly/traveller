@@ -13,9 +13,10 @@ The *Stardust Drifter* is a heavily modified Lab Ship, repurposed by the reclusi
 *   **Computer:** Advanced (Computer/3)
 *   **Sensors:** Advanced
 *   **Weapons:** Single Turret (empty)
+*   **Craft:** 1x Ship's Boat (in 4-ton hangar)
 *   **Software:** Jump Control/2, Maneuver/0, Library
 *   **Special:** 1x Advanced Laboratory, 1x Sample Containment Unit
-*   **Cargo:** 44 tons
+*   **Cargo:** 40 tons
 
 ## Crew
 *   **Current Crew:** None (abandoned)
