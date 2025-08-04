@@ -256,7 +256,6 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 Hiring a pilot on a lawless world like Rech is a multi-step process. The players must first locate their chosen pilot and then negotiate a contract.
 
 #### Option 1: Finding Captain Kaelen
-#### Option 1: Finding Captain Kaelen
 > **Read Aloud:** Your informant points you to a quiet corner of a cargo bay where a woman in a worn flight jacket is overseeing her crew load supplies. Her dark hair is cut short for practicality, and her steady, grey-eyed gaze misses nothing as she watches you approach. This is [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md). Beside her, a young, lanky man with a mop of unruly hair ([Jax](./characters/the-void-gambit/jax.md)) is practically vibrating with energy as he tunes a diagnostic tool. Leaning against the ship's hull is a hulking, silent Vargr whose fur is a patchwork of grey and black, his face scarred from old battles (["Grim"](./characters/the-void-gambit/grim.md)). He watches you with unnerving stillness.
 
 #### Option 2: Finding Rico "Hotshot" Vega
@@ -264,11 +263,17 @@ Hiring a pilot on a lawless world like Rech is a multi-step process. The players
 
 ---
 #### Stage 1: The Pitch (TN 9+)
-This is the initial attempt to get the pilot to take the job seriously. This check can be failed.
+This is the initial attempt to get the pilot to take the job seriously. **For the first pilot approached, this check can result in complete refusal. For the second pilot, they will always eventually agree regardless of the roll.**
 *   **Kaelen (The Professional):** She needs to be convinced the players are competent and the mission is viable. This requires a **Broker** or **Persuade** check.
 *   **Rico (The Hotshot):** He needs to be convinced the job is exciting and will make a great story. This requires a **Carouse** or **Streetwise** check.
+
+**First Pilot Approached:**
 *   **Success (9+):** The pilot is intrigued and agrees to hear the full proposal. Proceed to Stage 2.
-*   **Failure (8-):** The pilot dismisses the players as amateurs and refuses the job. If this is the *first* pilot the players have approached, they must now find the other pilot. Their reputation as time-wasters precedes them, and they automatically succeed at this stage but with a **-2 penalty** to the check in Stage 2. If this was their second attempt, the pilot reluctantly reconsiders, but the players still take a **-2 penalty** to the check in Stage 2.
+*   **Failure (8-):** The pilot dismisses the players as amateurs and absolutely refuses the job. The players must now find the other pilot.
+
+**Second Pilot Approached:**
+*   **Success (9+):** The pilot is intrigued and agrees to hear the full proposal. Proceed to Stage 2 with no penalties.
+*   **Failure (8-):** The pilot is initially dismissive but ultimately agrees to hear them out. Their reputation as time-wasters precedes them, giving the players a **-2 penalty** to the check in Stage 2.
 
 #### Stage 2: The Negotiation (TN 8+)
 This stage determines the final price and terms. The pilot is already on board; this just determines how much it will cost the players. This check cannot be failed, but a poor roll will be expensive.
@@ -293,11 +298,17 @@ This is a full-scale combat encounter. The Rust Dogs will use their environment 
 
 ---
 #### Stage 1: The Pitch (TN 9+)
-This is the initial attempt to get the pilot to take the job seriously. This check can be failed.
+This is the initial attempt to get the pilot to take the job seriously. **For the first pilot approached, this check can result in complete refusal. For the second pilot, they will always eventually agree regardless of the roll.**
 *   **Kaelen (The Professional):** She needs to be convinced the players are competent and the mission is viable. This requires a **Broker** or **Persuade** check.
 *   **Rico (The Hotshot):** He needs to be convinced the job is exciting and will make a great story. This requires a **Carouse** or **Streetwise** check.
+
+**First Pilot Approached:**
 *   **Success (9+):** The pilot is intrigued and agrees to hear the full proposal. Proceed to Stage 2.
-*   **Failure (8-):** The pilot dismisses the players as amateurs and refuses the job. If this is the *first* pilot the players have approached, they must now find the other pilot. Their reputation as time-wasters precedes them, and they automatically succeed at this stage but with a **-2 penalty** to the check in Stage 2. If this was their second attempt, the pilot reluctantly reconsiders, but the players still take a **-2 penalty** to the check in Stage 2.
+*   **Failure (8-):** The pilot dismisses the players as amateurs and absolutely refuses the job. The players must now find the other pilot.
+
+**Second Pilot Approached:**
+*   **Success (9+):** The pilot is intrigued and agrees to hear the full proposal. Proceed to Stage 2 with no penalties.
+*   **Failure (8-):** The pilot is initially dismissive but ultimately agrees to hear them out. Their reputation as time-wasters precedes them, giving the players a **-2 penalty** to the check in Stage 2.
 
 #### Stage 2: The Negotiation (TN 8+)
 This stage determines the final price and terms. The pilot is already on board; this just determines how much it will cost the players. This check cannot be failed, but a poor roll will be expensive.
