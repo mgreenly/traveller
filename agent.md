@@ -22,6 +22,7 @@
 - `systems/`: Star system data sheets.
 - `factions/`: Faction data sheets.
 - `misc/`: Miscellaneous lore and data.
+- `players/`: Player character data sheets. There are 6 player characters in the campaign.
 - **MAINTENANCE:** After changing any of the above files, check if this file (`agent.md`) needs to be updated to reflect the changes.
 
 ## 5. KNOWLEDGE BASE
