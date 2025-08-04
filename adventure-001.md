@@ -13,30 +13,30 @@
 
 ## Prologue: The Letter
 
-The adventure begins not with a bang, but with the quiet chime of a secure message arriving on dataslates across the sector. Several individuals, strangers to one another, each receive a personalized, encrypted message.
+The adventure begins not with a bang, but with the quiet chime of a secure message arriving on dataslates across the sector. The transmission finds its way to a handful of individuals scattered across the fringe. While some may be acquainted, they are not a crew—not yet. Each receives the same personalized, encrypted message.
 
 **The Recipients:**
 *   **Keith:** A former student of the eccentric Dr. Aris, currently on [Regina](./systems/regina.md).
-*   **Corbin "Maps" Vance:** A freelance navigator with a knack for finding lost things, currently charting asteroid fields near [Wypoc](./systems/wypoc.md).
+*   **Corbin "Maps" Vance:** A freelance navigator, currently with his associates on the lawless world of [Rech](./systems/rech.md).
 *   **Lena Petrova:** A gifted mechanic struggling to keep a rust-bucket courier flying, based out of a grimy hangar on [Rech](./systems/rech.md).
 *   **Rico "Hotshot" Vega:** A cocky pilot who believes he's the best in the sector, currently looking for his next big score on [Rech](./systems/rech.md).
 *   **Roric Vance:** An aging information broker who has seen better days, nursing a drink in a dive bar on [Regina](./systems/regina.md).
 
-Though the recipients are scattered and unknown to each other, the message they receive is nearly identical.
+Though the recipients are in different systems and not working together, the summons they receive is identical, drawing them all toward a single point in space and time.
 
 ---
 
-> **Subject: A Matter of Utmost Importance - The Estate of Dr. Aris**
+> **Subject: A Matter of Utmost Importance - Regarding Dr. Aris**
 >
 > **[Recipient's Name],**
 >
-> This message serves as a formal notification from the law offices of Haskins & Associates, representing the estate of the late Dr. Aris.
+> This message serves as a formal notification from the law offices of Haskins & Associates, representing the interests of Dr. Aris.
 >
-> Dr. Aris's final testament includes a provision that we believe you will find to be of significant material interest. Pursuant to his last wishes, you have been named as a beneficiary in the dispersal of his assets.
+> A legal directive filed by our client includes a provision that we believe you will find to be of significant material interest. Pursuant to this directive, you have been named as a beneficiary in a transfer of assets.
 >
-> To claim this inheritance, your presence is required at our offices on Regina. A secured, pre-paid transport ticket has been reserved in your name. Please present this message at any licensed starport ticketing agent to claim your passage.
+> To claim this asset, your presence is required at our offices on Regina. A secured, pre-paid transport ticket has been reserved in your name. Please present this message at any licensed starport ticketing agent to claim your passage.
 >
-> We understand this summons may be unexpected. Be assured of its legitimacy and of the value of the assets in question. The matter is time-sensitive and requires your discretion.
+> We understand this summons may be unexpected. Be assured of its legitimacy and of the value of the asset in question. The matter is time-sensitive and requires your discretion.
 >
 > We await your arrival at our offices located in the Capital district, 87th Floor, Commerce Tower Spire, Regina.
 >
@@ -97,7 +97,7 @@ The players need to borrow approximately **Cr3,000,000** to fund the recovery mi
 
 > **Read Aloud:** Whether your journey was a long haul from the fringe or a short trip from across town, you all arrive at the same destination: a sterile canyon of obsidian towers that pierce the clouds of Regina's capital. The law offices of Haskins & Associates are on the 87th floor. The reception area is a study in minimalist wealth—white marble, imposing furniture, and utter silence.
 >
-> A severe-looking receptionist checks your credentials, one by one, with an air of detached efficiency. You are escorted into a conference room. The others mentioned in the summons are already here, or arrive shortly after you—a collection of strangers sizing each other up in silence. A lawyer in an impeccably tailored suit waits at the head of a long, polished table, a thin data-slate resting before them. They do not smile. "Thank you for coming," the lawyer begins, their voice as sterile as the room. "Please, be seated. We have much to discuss regarding the estate of Dr. Aris."
+> A severe-looking receptionist checks your credentials, one by one, with an air of detached efficiency. You are escorted into a conference room. The others mentioned in the summons are already here, or arrive shortly after you—a collection of strangers sizing each other up in silence. A lawyer in an impeccably tailored suit waits at the head of a long, polished table, a thin data-slate resting before them. They do not smile. "Thank you for coming," the lawyer begins, their voice as sterile as the room. "Please, be seated. We have much to discuss regarding a matter for our client, Dr. Aris."
 
 ### Task Chain: Dealing with Haskins & Associates
 The meeting with the lawyers is the players' first challenge. The goal is not to "win," but to extract as much information as possible. The lawyers will volunteer nothing beyond the legal minimum.
@@ -120,8 +120,8 @@ After the presentation, the players can probe for more information with a **Pers
 *   **Tier 2: Standard Success (Success on Stage 2 check):** The lawyer concedes that Dr. Aris was a "problematic" client and that the firm is **terminating its relationship** with him, a major red flag.
 *   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** The lawyer makes a critical slip, revealing the one-time transponder code is a **tracking device** that sends a confirmation signal back to the firm's network upon activation.
 
-#### The Inheritance
-The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](./players/keith.md). They explain the ship is in the **[Djinni](./systems/djinni.md)** system, a **Red Zone**, and provide the transponder code but assume no liability. They also add, "Due to the unique legal circumstances of Dr. Aris's estate, the title transfer was filed through our sub-sector branch specializing in fringe assets. Therefore, any salvage or inheritance claim for this vessel must be certified in person at the designated court of record in the **[K'Kirka](./systems/k-kirka.md)** system. Filing elsewhere will be considered invalid."
+#### The Transfer
+The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](./players/keith.md). They explain the ship is in the **[Djinni](./systems/djinni.md)** system, a **Red Zone**, and provide the transponder code but assume no liability. They also add, "Due to the unique legal circumstances of this transfer, it was filed through our sub-sector branch specializing in fringe assets. Therefore, any salvage or title claim for this vessel must be certified in person at the designated court of record in the **[K'Kirka](./systems/k-kirka.md)** system. Filing elsewhere will be considered invalid."
 
 Finally, they provide the data wafer, explaining it is sealed with a biolock keyed to Keith. Once Keith opens it, he receives the message from [Dr. Aris](./characters/dr-aris.md):
 > *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](./characters/roric-vance.md). Tell him 'The Whiskey Jack needs a fast ship.'..."*
