@@ -584,6 +584,21 @@ A travel broker senses the players' urgency and quotes them a price double the s
 
 Once the players have recovered the main data core from the Rust Dogs and installed it in the *Stardust Drifter*, they gain access to more than just the ship's operating systems. Buried in the terabytes of mundane data are several of Dr. Aris's personal research files and logs, offering new adventure hooks.
 
+### The Kane Contingency File
+
+Hidden within the data core's encrypted partition is a folder labeled "Insurance Policy - SKane." A successful **Computers (TN 10)** check is required to decrypt it. This contains:
+
+*   **Financial Records:** Detailed transactions showing Kane laundering money for Makhidkarun's illegal operations in the Spinward Marches
+*   **Recorded Conversations:** Audio files of Kane discussing "asset seizures" where borrowers met suspicious ends, including one chilling conversation about "making an example" of a defaulter
+*   **Contract Database:** Proof that Kane's loan contracts contain clauses that violate Imperial usury laws and Commerce regulations
+*   **Makhidkarun Connection:** Documents proving Kane is not just a lender but a wholly-owned asset of Makhidkarun's Special Projects Division
+
+**Using the File:**
+*   **Direct Confrontation:** Present the evidence to Kane to nullify the debt. Requires a **Persuade (TN 8)** or **Advocate (TN 10)** check. Success cancels the debt; failure means Kane knows you have it.
+*   **Legal Route:** File with Imperial authorities. Automatically cancels debt but makes Kane a permanent enemy and alerts Makhidkarun to your knowledge.
+*   **Blackmail:** Use for ongoing leverage. Provides +4 to all negotiations with Kane but requires constant vigilance against retaliation.
+*   **Sale to Rivals:** Other crime bosses or corporations would pay Cr500,000-1,000,000 for this information.
+
 ### 1. The Ghost of Cthonia
 *   **File Type:** Fragmented Survey Data & Personal Log
 *   **Content:** The data points to a previously uncharted moon, **Cthonia**, orbiting a gas giant in the barren **Menkar** system (a system several parsecs off the main trade routes). Aris's log describes his last visit there: *"The structures are not of any known race. Geometric, crystalline... they hum in a frequency my sensors can't properly analyze. I had to leave before I could explore the primary subterranean entrance; the radiation spikes were becoming too dangerous. The site is pristine, completely unknown to the IISS. I've encrypted its location; can't risk a megacorp getting their claws on it."*
