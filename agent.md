@@ -10,9 +10,9 @@
 3.  **Adhere to Conventions:** All file creations or modifications must match the style, structure, and format of existing files in the project.
 
 ## 3. ADVENTURE CONTEXT ACQUISITION
-- **Trigger:** When the user's query references a specific adventure by its file name, number, or title (e.g., "adventure-001.md", "the first adventure", "The Inheritance").
-- **Action:** Your first step is to read the corresponding `adventure-*.md` file and extract all content from the beginning of the file down to the horizontal rule (`---`) that separates the overview from the main content.
-- **Purpose:** This overview is your primary source of context for that adventure's objectives, key characters, and plot points. Do not proceed with actions related to the adventure without this context.
+- **Trigger:** Upon initialization of a new session.
+- **Action:** Use the `glob` tool to find all `adventure-*.md` files. For each file found, read the content from the beginning down to the first horizontal rule (`---`) to parse its `AGENT OVERVIEW`.
+- **Purpose:** This provides you with a complete overview of all available adventures, their objectives, and key entities at the start of the interaction. This context is foundational for all subsequent tasks.
 
 ## 4. FILE SYSTEM GUIDE
 - `adventure-*.md`: Adventure-specific plots, encounters, and details. Each contains an AGENT OVERVIEW.
