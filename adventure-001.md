@@ -104,13 +104,12 @@ While waiting, they might visit some of Regina's famous attractions:
 *   **The Museum of Imperial Endeavor:** A vast museum showcasing the technological and cultural history of the Third Imperium.
 *   **The Crystal Gardens:** A breathtaking public park where native flora are encased in massive, shimmering crystal domes, creating a surreal, glittering forest.
 *   **The Grand Concourse:** A legendary entertainment and shopping district, miles long, filled with everything from high-end boutiques to seedy, back-alley gambling dens.
-*   **Sector 86 Memorial Plaza:** A solemn, quiet plaza dedicated to the memory of Imperial agents who have fallen in service to the Imperium, its centerpiece a stark, black monolith inscribed with thousands of names.
 
 Once the final recipient has checked into the hotel, a formal, encrypted message is sent to each of their rooms: "All parties are present. Please be at our offices tomorrow at 0900 sharp. A car will be waiting."
 
 ---
 
-This letter is the catalyst that will bring these disparate individuals together, setting them on a path to fortune, danger, and the recovery of the *Stardust Drifter*.
+This letter is the catalyst that brings the crew together, setting them on a path to fortune and danger.
 
 ---
 
@@ -118,9 +117,9 @@ This letter is the catalyst that will bring these disparate individuals together
 
 **Location:** [Regina](./systems/regina.md), Subsector Capital (Law Level 9)
 
-> **Read Aloud:** Whether your journey was a long haul from the fringe or a short trip from across town, you all arrive at the same destination: a sterile canyon of obsidian towers that pierce the clouds of Regina's capital. The law offices of Haskins & Associates are on the 87th floor. The reception area is a study in minimalist wealth—white marble, imposing furniture, and utter silence.
+> **Read Aloud:** Whether your journey was a long haul from the fringe or a short trip from an adjacent system, you've all now arrived at the law offices of Haskins & Associates. The reception area is a study in minimalist wealth—white marble, imposing furniture, and utter silence.
 >
-> A severe-looking receptionist checks your credentials, one by one, with an air of detached efficiency. You are escorted into a conference room. The others mentioned in the summons are already here, or arrive shortly after you—a collection of strangers sizing each other up in silence. A lawyer in an impeccably tailored suit waits at the head of a long, polished table, a thin data-slate resting before them. They do not smile. "Thank you for coming," the lawyer begins, their voice as sterile as the room. "Please, be seated. We have much to discuss regarding a matter for our client, Dr. Aris."
+> A severe-looking receptionist checks your credentials, one by one, with an air of detached efficiency.  Then you all are escorted into a conference room. A lawyer in an impeccably tailored suit waits at the head of a long, polished table, a thin data-slate resting before them. They do not smile. "Thank you for coming," the lawyer begins, their voice as sterile as the room. "Please, be seated. We have much to discuss regarding a matter for our client, Dr. Aris."
 
 ### Task Chain: Dealing with Haskins & Associates
 The meeting with the lawyers is the players' first challenge. The goal is not to "win," but to extract as much information as possible. The lawyers will volunteer nothing beyond the legal minimum.
