@@ -7,9 +7,9 @@
 - [x] Ensure single, clear sequence of events
 
 ### 2. **Missing Financial Setup**
-- [ ] Add scene where players meet with Silas Kane to secure the loan
-- [ ] Include negotiation mechanics and terms
-- [ ] Place between Scene 2 and Scene 3
+- [X] Add scene where players meet with Silas Kane to secure the loan
+- [X] Include negotiation mechanics and terms
+- [X] Place between Scene 2 and Scene 3
 
 ### 3. **Unclear Character Groupings**
 - [ ] Clarify relationship between letter recipients and player characters
