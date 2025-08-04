@@ -183,6 +183,18 @@ After giving the code phrase, the players make a **Persuade** or **Broker** chec
 
 *   **Referee Note:** If the players fail to get the lead to Silas "The Gilded" Kane, they will have to find their own way to raise the funds, likely through much more difficult and less reliable means in the Regina downport.
 
+### Alternative Financing (Optional Mini-Scene)
+
+If the players attempt to secure a loan from legitimate sources before seeking out Kane:
+
+> **Imperial Commerce Bank - Regina Branch**
+> 
+> The loan officer, **Ms. Elara Voss**, reviews your application with practiced efficiency. After running credit checks and asset evaluations, she delivers her verdict with corporate politeness:
+> 
+> "I'm terribly sorry, but Imperial Commerce Bank cannot approve a loan of this magnitude for salvage operations in a Red Zone. The risk assessment algorithms classify this as a Category VII venture - uninsurable and outside our lending parameters. Even with the ship as collateral, we cannot verify its condition or even confirm retrieval is possible. I'd suggest trying the... less traditional lending institutions in the downport. Good day."
+
+*Other legitimate lenders will give similar rejections, citing: Red Zone violations, unverifiable collateral, lack of salvage bonds, or simply "excessive risk factors."*
+
 ---
 
 ## Scene 3: The Devil's Bargain
