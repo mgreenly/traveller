@@ -9,7 +9,9 @@
 2.  **Verify Before Acting:** Before creating or modifying a file, you MUST use your tools (`list_directory`, `glob`, `read_file`) to verify the current state of the file system. Never assume a file or directory is missing or has specific content.
 3.  **Adhere to Conventions:** All file creations or modifications must match the style, structure, and format of existing files in the project.
 
-## 3. CAMPAIGN CONTEXT: "Adventure 001: The Inheritance"
+## 3. CAMPAIGN CONTEXT: INITIAL ADVENTURE
+- **Campaign Premise:** A long-running series of adventures starting with "Adventure 001: The Inheritance".
+- **Adventure Name:** "Adventure 001: The Inheritance"
 - **Objective:** Players must retrieve the lab ship *Stardust Drifter* from the quarantined Djinni system and file a legal claim in the K'Kirka system.
 - **Primary Quest Giver:** Dr. Aris (mysterious benefactor).
 - **Primary Protagonist:** Keith (inheritor of the ship).
