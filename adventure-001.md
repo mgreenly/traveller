@@ -1,3 +1,14 @@
+# AGENT OVERVIEW
+- **Objective:** Retrieve the lab ship *Stardust Drifter* from the quarantined Djinni system.
+- **Start:** Regina system.
+- **End:** K'Kirka system (to file salvage claim).
+- **Key NPC Ally:** Captain Kaelen of *The Void Gambit* (hired on Rech).
+- **Key NPC Antagonist:** Silas Kane (financier on Regina).
+- **Rival Group:** "Rust Dogs" aboard the *Scrap Vulture*.
+- **Primary Obstacle:** INV *Steadfast* corvette enforcing the Djinni quarantine.
+- **Underlying Factions:** Makhidkarun (hired Rust Dogs), Section 86 (monitoring), The Cultivators (observing).
+---
+
 # Adventure 001: The Inheritance
 
 ## Prologue: The Letter
@@ -39,19 +50,6 @@ Though the recipients are scattered and unknown to each other, the message they 
 This letter is the catalyst that will bring these disparate individuals together, setting them on a path to fortune, danger, and the recovery of the *Stardust Drifter*.
 
 ---
-
-# AGENT OVERVIEW
-- **Objective:** Retrieve the lab ship *Stardust Drifter* from the quarantined Djinni system.
-- **Start:** Regina system.
-- **End:** K'Kirka system (to file salvage claim).
-- **Key NPC Ally:** Captain Kaelen of *The Void Gambit* (hired on Rech).
-- **Key NPC Antagonist:** Silas Kane (financier on Regina).
-- **Rival Group:** "Rust Dogs" aboard the *Scrap Vulture*.
-- **Primary Obstacle:** INV *Steadfast* corvette enforcing the Djinni quarantine.
-- **Underlying Factions:** Makhidkarun (hired Rust Dogs), Section 86 (monitoring), The Cultivators (observing).
----
-
-# Adventure 001: The Inheritance
 
 ## Table of Contents
 *   [Prologue: The Letter](#prologue-the-letter)
