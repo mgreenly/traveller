@@ -1,3 +1,45 @@
+# Adventure 001: The Inheritance
+
+## Prologue: The Letter
+
+The adventure begins not with a bang, but with the quiet chime of a secure message arriving on dataslates across the sector. Several individuals, strangers to one another, each receive a personalized, encrypted message.
+
+**The Recipients:**
+*   **Keith:** A former student of the eccentric Dr. Aris, currently on [Regina](./systems/regina.md).
+*   **Corbin "Maps" Vance:** A freelance navigator with a knack for finding lost things, currently charting asteroid fields near [Wypoc](./systems/wypoc.md).
+*   **Lena Petrova:** A gifted mechanic struggling to keep a rust-bucket courier flying, based out of a grimy hangar on [Rech](./systems/rech.md).
+*   **Rico "Hotshot" Vega:** A cocky pilot who believes he's the best in the sector, currently looking for his next big score on [Rech](./systems/rech.md).
+*   **Roric Vance:** An aging information broker who has seen better days, nursing a drink in a dive bar on [Regina](./systems/regina.md).
+
+Though the recipients are scattered and unknown to each other, the message they receive is nearly identical.
+
+---
+
+> **Subject: A Matter of Utmost Importance - The Estate of Dr. Aris**
+>
+> **[Recipient's Name],**
+>
+> This message serves as a formal notification from the law offices of Haskins & Associates, representing the estate of the late Dr. Aris.
+>
+> Dr. Aris's final testament includes a provision that we believe you will find to be of significant material interest. Pursuant to his last wishes, you have been named as a beneficiary in the dispersal of his assets.
+>
+> To claim this inheritance, your presence is required at our offices on Regina. A secured, pre-paid transport ticket has been reserved in your name. Please present this message at any licensed starport ticketing agent to claim your passage.
+>
+> We understand this summons may be unexpected. Be assured of its legitimacy and of the value of the assets in question. The matter is time-sensitive and requires your discretion.
+>
+> We await your arrival at our offices located in the Capital district, 87th Floor, Commerce Tower Spire, Regina.
+>
+> Sincerely,
+>
+> **Haskins & Associates**
+> *Fiduciary & Legal Services*
+
+---
+
+This letter is the catalyst that will bring these disparate individuals together, setting them on a path to fortune, danger, and the recovery of the *Stardust Drifter*.
+
+---
+
 # AGENT OVERVIEW
 - **Objective:** Retrieve the lab ship *Stardust Drifter* from the quarantined Djinni system.
 - **Start:** Regina system.
@@ -12,6 +54,7 @@
 # Adventure 001: The Inheritance
 
 ## Table of Contents
+*   [Prologue: The Letter](#prologue-the-letter)
 *   [Referee's Overview](#referees-overview)
 *   [Scene 1: An Unexpected Inheritance](#scene-1-an-unexpected-inheritance)
 *   [Scene 2: The Information Broker](#scene-2-the-information-broker)
@@ -54,11 +97,9 @@ The players need to borrow approximately **Cr3,000,000** to fund the recovery mi
 
 **Location:** [Regina](./systems/regina.md), Subsector Capital (Law Level 9)
 
-> **Read Aloud:** The chime indicating final approach is soft and pleasant. Below you, the gas giant Assiniboia is a breathtaking swirl of orange and white clouds, its sheer scale humbling. Your passenger liner banks, and the moon Regina swims into view—a vibrant marble of blue oceans and green continents. The space around you is thick with traffic: hulking corporate freighters, sleek yachts cutting through the void, and the grim, grey shapes of Imperial Navy patrols. You've arrived at the heart of the subsector.
+> **Read Aloud:** Whether your journey was a long haul from the fringe or a short trip from across town, you all arrive at the same destination: a sterile canyon of obsidian towers that pierce the clouds of Regina's capital. The law offices of Haskins & Associates are on the 87th floor. The reception area is a study in minimalist wealth—white marble, imposing furniture, and utter silence.
 >
-> After the sterile efficiency of the orbital Highport and a cramped shuttle ride down to the surface, the Regina Downport is a chaotic assault on the senses. Thousands of people move through the sprawling landing field, the air thick with the smells of street food and the shouts of competing cargo haulers. A high-speed mag-lev train whisks you away from the chaos and into Capital proper.
->
-> Your destination is a sterile canyon of obsidian towers that pierce the clouds. The law offices of Haskins & Associates are on the 87th floor. The reception area is a study in minimalist wealth—white marble, imposing furniture, and utter silence. A severe-looking receptionist directs you to a conference room where a lawyer in an impeccably tailored suit waits for you, a thin data-slate resting on the polished table before them. They do not smile.
+> A severe-looking receptionist checks your credentials, one by one, with an air of detached efficiency. You are escorted into a conference room. The others mentioned in the summons are already here, or arrive shortly after you—a collection of strangers sizing each other up in silence. A lawyer in an impeccably tailored suit waits at the head of a long, polished table, a thin data-slate resting before them. They do not smile. "Thank you for coming," the lawyer begins, their voice as sterile as the room. "Please, be seated. We have much to discuss regarding the estate of Dr. Aris."
 
 ### Task Chain: Dealing with Haskins & Associates
 The meeting with the lawyers is the players' first challenge. The goal is not to "win," but to extract as much information as possible. The lawyers will volunteer nothing beyond the legal minimum.
