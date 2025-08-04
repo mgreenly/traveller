@@ -56,11 +56,12 @@ The players need to borrow approximately **Cr3,000,000** to fund the recovery mi
 The adventure begins not with a bang, but with the quiet chime of a secure message arriving on dataslates across the sector. The transmission finds its way to a handful of individuals scattered across the fringe. While some may be acquainted, they are not a crew—not yet. Each receives the same personalized, encrypted message.
 
 **The Recipients:**
-*   **Keith:** A former student of the eccentric Dr. Aris, currently on [Regina](./systems/regina.md).
-*   **Corbin "Maps" Vance:** A freelance navigator, currently with his associates on the lawless world of [Rech](./systems/rech.md).
-*   **Lena Petrova:** A gifted mechanic struggling to keep a rust-bucket courier flying, based out of a grimy hangar on [Rech](./systems/rech.md).
-*   **Rico "Hotshot" Vega:** A cocky pilot who believes he's the best in the sector, currently looking for his next big score on [Rech](./systems/rech.md).
-*   **Roric Vance:** An aging information broker who has seen better days, nursing a drink in a dive bar on [Regina](./systems/regina.md).
+*   **[Keith](./players/keith.md)**
+*   **[Ashley](./players/ashley.md)**
+*   **[Eric](./players/eric.md)**
+*   **[Mike](./players/mike.md)**
+*   **[Pete](./players/pete.md)**
+*   **[Quinn](./players/quinn.md)**
 
 Though the recipients are in different systems and not working together, the summons they receive is identical, drawing them all toward a single point in space and time.
 
@@ -536,16 +537,26 @@ A travel broker senses the players' urgency and quotes them a price double the s
 ---
 ## Appendix B: Dramatis Personae
 
+### Player Characters
+*   **[Keith](./players/keith.md)**
+*   **[Ashley](./players/ashley.md)**
+*   **[Eric](./players/eric.md)**
+*   **[Mike](./players/mike.md)**
+*   **[Pete](./players/pete.md)**
+*   **[Quinn](./players/quinn.md)**
+
 ### Allies & Contacts
 *   **[Dr. Aris](./characters/dr-aris.md):** The mysterious, reclusive scientist who bequeaths the *Stardust Drifter*.
-*   **[Keith](./players/keith.md):** [Dr. Aris](./characters/dr-aris.md)'s former student and the player character who inherits the ship.
 *   **[Roric Vance](./characters/roric-vance.md):** An aging information broker on [Regina](./systems/regina.md).
 *   **[Silas "The Gilded" Kane](./characters/silas-kane.md):** A predatory financier on [Regina](./systems/regina.md).
 *   **The Crew of *The Void Gambit***
     *   **[Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md):** A pragmatic and skilled ex-scout captain.
     *   **[Jax](./characters/the-void-gambit/jax.md):** A brilliant, high-energy engineer.
     *   **["Grim"](./characters/the-void-gambit/grim.md):** A hulking, silent Vargr gunner.
-*   **[Rico "Hotshot" Vega](./characters/rico-hotshot-vega.md):** A reckless but talented freelance pilot.
+*   **The Crew of *Stray Comet***
+    *   **[Rico "Hotshot" Vega](./characters/rico-hotshot-vega.md):** A reckless but talented freelance pilot.
+    *   **[Corbin "Maps" Vance](./characters/corbin-vance.md):** A quiet, studious navigator.
+    *   **[Lena Petrova](./characters/lena-petrova.md):** A gifted mechanic.
 
 ### Rivals: The "Rust Dogs"
 *   **[Kara "Wrench" Riker](./characters/scrap-vulture/kara-wrench-riker.md):** The ruthless and calculating leader.

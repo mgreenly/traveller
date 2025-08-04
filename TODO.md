@@ -12,9 +12,9 @@
 - [X] Place between Scene 2 and Scene 3
 
 ### 3. **Unclear Character Groupings**
-- [ ] Clarify relationship between letter recipients and player characters
-- [ ] Resolve confusion about NPCs (Corbin, Lena, Rico, Roric) vs PCs
-- [ ] Establish clear party composition
+- [X] Clarify relationship between letter recipients and player characters
+- [X] Resolve confusion about NPCs (Corbin, Lena, Rico, Roric) vs PCs
+- [X] Establish clear party composition
 
 ### 4. **Inconsistent Pilot Options**
 - [ ] Fix Rico "Hotshot" Vega paradox (can't be both recipient and hireable pilot)
