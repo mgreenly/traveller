@@ -17,9 +17,9 @@
 - [X] Establish clear party composition
 
 ### 4. **Inconsistent Pilot Options**
-- [ ] Fix Rico "Hotshot" Vega paradox (can't be both recipient and hireable pilot)
-- [ ] Clarify crew compositions for both pilot options
-- [ ] Ensure NPCs aren't in multiple places simultaneously
+- [X] Fix Rico "Hotshot" Vega paradox (can't be both recipient and hireable pilot)
+- [X] Clarify crew compositions for both pilot options
+- [X] Ensure NPCs aren't in multiple places simultaneously
 
 ### 5. **Plot Logic Gap**
 - [ ] Explain how Rust Dogs knew about the ship before transponder activation
