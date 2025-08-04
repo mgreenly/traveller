@@ -9,29 +9,13 @@
 2.  **Verify Before Acting:** Before creating or modifying a file, you MUST use your tools (`list_directory`, `glob`, `read_file`) to verify the current state of the file system. Never assume a file or directory is missing or has specific content.
 3.  **Adhere to Conventions:** All file creations or modifications must match the style, structure, and format of existing files in the project.
 
-## 3. CAMPAIGN CONTEXT: INITIAL ADVENTURE
-- **Campaign Premise:** A long-running series of adventures starting with "Adventure 001: The Inheritance".
-- **Adventure Name:** "Adventure 001: The Inheritance"
-- **Objective:** Players must retrieve the lab ship *Stardust Drifter* from the quarantined Djinni system and file a legal claim in the K'Kirka system.
-- **Primary Quest Giver:** Dr. Aris (mysterious benefactor).
-- **Primary Protagonist:** Keith (inheritor of the ship).
-- **Critical Path:**
-    1.  Secure a loan from **Silas Kane** on **Regina**.
-    2.  Travel the route: **Regina** -> **Jenghe** -> **Dinom** -> **Dinomn** -> **Wypoc** -> **Rech**.
-    3.  On **Rech**, hire **Captain Kaelen** and her ship, *The Void Gambit*.
-    4.  Illegally enter the **Djinni** system (a Red Zone).
-    5.  Secure the *Stardust Drifter*.
-    6.  Escape to **K'Kirka** to file the claim.
-- **Rival Faction:** The "Rust Dogs" (a mercenary crew) have been hired by the **Makhidkarun** megacorporation to seize the *Stardust Drifter*.
-- **Observing Factions:**
-    - **Section 86** (Imperial intelligence) is monitoring Makhidkarun.
-    - **The Cultivators** (secretive faction) are observing the chaos they instigated.
-- **Primary Obstacles:**
-    - The "Rust Dogs" crew and their ship, the *Scrap Vulture*.
-    - The INV *Steadfast* (Imperial Navy corvette) enforcing the Djinni quarantine.
+## 3. ADVENTURE CONTEXT ACQUISITION
+- **Trigger:** When the user's query references a specific adventure by its file name, number, or title (e.g., "adventure-001.md", "the first adventure", "The Inheritance").
+- **Action:** Your first step is to read the corresponding `adventure-*.md` file and extract all content from the beginning of the file down to the horizontal rule (`---`) that separates the overview from the main content.
+- **Purpose:** This overview is your primary source of context for that adventure's objectives, key characters, and plot points. Do not proceed with actions related to the adventure without this context.
 
 ## 4. FILE SYSTEM GUIDE
-- `adventure-001.md`: Main plot, encounters, and details for "The Inheritance".
+- `adventure-*.md`: Adventure-specific plots, encounters, and details. Each contains an AGENT OVERVIEW.
 - `agent.md`: This file. Your configuration and context.
 - `characters/`: NPC data sheets, organized into subdirectories by affiliation.
 - `ships/`: Starship data sheets.

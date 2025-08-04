@@ -1,3 +1,14 @@
+# AGENT OVERVIEW
+- **Objective:** Retrieve the lab ship *Stardust Drifter* from the quarantined Djinni system.
+- **Start:** Regina system.
+- **End:** K'Kirka system (to file salvage claim).
+- **Key NPC Ally:** Captain Kaelen of *The Void Gambit* (hired on Rech).
+- **Key NPC Antagonist:** Silas Kane (financier on Regina).
+- **Rival Group:** "Rust Dogs" aboard the *Scrap Vulture*.
+- **Primary Obstacle:** INV *Steadfast* corvette enforcing the Djinni quarantine.
+- **Underlying Factions:** Makhidkarun (hired Rust Dogs), Section 86 (monitoring), The Cultivators (observing).
+---
+
 # Adventure 001: The Inheritance
 
 ## Table of Contents
