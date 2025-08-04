@@ -22,9 +22,9 @@
 - [X] Ensure NPCs aren't in multiple places simultaneously
 
 ### 5. **Plot Logic Gap**
-- [ ] Explain how Rust Dogs knew about the ship before transponder activation
-- [ ] Add information trail or corporate leak
-- [ ] Make timing of their knowledge consistent
+- [x] Explain how Rust Dogs knew about the ship before transponder activation
+- [x] Add information trail or corporate leak
+- [x] Make timing of their knowledge consistent
 
 ### 6. **Missing Consequences**
 - [ ] Detail how to use the "Kane Contingency" file

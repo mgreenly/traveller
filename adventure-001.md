@@ -38,6 +38,8 @@ This adventure begins with a classic Traveller problem: the players are given a 
 
 Their first task is to leverage their only asset—the ship's title—to secure a high-risk loan from a predatory financier on the subsector capital of [Regina](./systems/regina.md). This debt will hang over their heads, creating a powerful incentive to successfully claim their inheritance while navigating a web of corporate espionage and hidden agendas.
 
+**The Hidden Threat:** Unknown to the players, [Makhidkarun](./factions/makhidkarun.md) has been tracking the *Stardust Drifter* via a corporate asset tracker installed years ago when they were funding Dr. Aris's research. When the ship lost power, the tracker provided a final location vector before going dark. This is how their hired salvage crew, the Rust Dogs, know to search the Djinni asteroid belt—they have the approximate location but still need to find the exact position among thousands of asteroids.
+
 **The Goal:** The players must find an information broker, secure a loan, hire a specialized crew, travel illegally to the [Djinni](./systems/djinni.md) system, locate and secure the *Stardust Drifter*, and escape the Red Zone to file a legal claim in the [K'Kirka](./systems/k-kirka.md) system.
 
 ### The Price of a Dream
@@ -504,11 +506,13 @@ In Engineering, players can access the ship's internal diagnostic logs.
 > The *Scrap Vulture* is holding its position a few kilometers away, well within the effective range of the weapon in your lab. The Rust Dogs' arrogance is their undoing. They believe they hold all the cards, unaware that you are sitting on a homemade EMP bomb and have the instructions to protect your own ship from it. Your new objective is clear: turn the tables on your rivals, disable their ship, and take back the core before the Navy corvette, now accelerating in your direction, complicates everything.
 
 ### Objective: The Data Heist
-The players must now engage the *Scrap Vulture* to retrieve the stolen data core. This can be achieved through force, stealth, or negotiation. If they manage to disable and board the rival vessel, they can gain crucial intelligence. A successful **Computers (TN 8)** check on the captain's terminal on the *Scrap Vulture's* bridge reveals two critical items:
+The players must now engage the *Scrap Vulture* to retrieve the stolen data core. This can be achieved through force, stealth, or negotiation. If they manage to disable and board the rival vessel, they can gain crucial intelligence. A successful **Computers (TN 8)** check on the captain's terminal on the *Scrap Vulture's* bridge reveals three critical items:
 
 1.  **The Acquisition Contract:** The job was issued by a shell corporation named **"[Fringe Asset Recovery, LLC.](./factions/fringe-asset-recovery.md)"** The contract is for the "forced acquisition" of the *Stardust Drifter*, with a massive bonus for securing the lab and any biological samples intact. A subsequent **Streetwise or Broker (TN 8)** check made later in a civilized system will reveal that "Fringe Asset Recovery" is a known front for **[Makhidkarun's](./factions/makhidkarun.md)** special projects division.
 
-2.  **The Ghost in the Machine:** A recent ship's log entry from Kara Riker expresses frustration over a recent systems breach. It reads:
+2.  **Corporate Asset Tracking:** Buried in the technical logs is a reference to "reacquiring Signal MKD-7743-ARIS." Cross-referencing the signal frequency reveals it matches a Makhidkarun deep-space asset tracker - the kind used on high-value research equipment. The tracker went dark when the ship lost power but provided the last known vector before shutdown. This explains how the Rust Dogs knew the ship was somewhere in the Djinni asteroid belt but not its exact location.
+
+3.  **The Ghost in the Machine:** A recent ship's log entry from Kara Riker expresses frustration over a recent systems breach. It reads:
     > *"Slick's diagnostics confirm it. The intrusion was military-grade. Pinpoint, traceless, and gone before we could even react. It wasn't a corporate rival; the profile is wrong. The only signature that fits this kind of ghost is Imperial, and not the standard Navy spooks. This has all the hallmarks of an S86 op. They're watching this prize, too. We need to move faster."*
 
 This log entry confirms that a third, highly secretive power is monitoring the situation, and the rivals themselves have identified it as the legendary [Section 86](./factions/section-86.md).
