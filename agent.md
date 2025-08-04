@@ -14,7 +14,11 @@
 ## 3. ADVENTURE CONTEXT ACQUISITION
 - **Trigger:** Upon initialization of a new session.
 - **Action:** Use the `glob` tool to find all `adventure-*.md` files. For each file found, read the content from the beginning down to the first horizontal rule (`---`) to parse its `AGENT OVERVIEW`.
-- **Structure:** The `AGENT OVERVIEW` section must always be the first section at the top of the file. No content, including prologues, should precede it.
+- **Structure:** Adventure files must follow this exact section order:
+  1. `AGENT OVERVIEW` - First section at the top of the file
+  2. `Table of Contents` - Second section
+  3. `REFEREE OVERVIEW` - Third section
+  4. All other content follows after these three sections
 - **Purpose:** This provides you with a complete overview of all available adventures, their objectives, and key entities at the start of the interaction. This context is foundational for all subsequent tasks.
 
 ## 4. FILE SYSTEM GUIDE

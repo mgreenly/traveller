@@ -1,3 +1,5 @@
+# Adventure 001: The Inheritance
+
 # AGENT OVERVIEW
 - **Objective:** Retrieve the lab ship *Stardust Drifter* from the quarantined Djinni system.
 - **Start:** Regina system.
@@ -7,9 +9,46 @@
 - **Rival Group:** "Rust Dogs" aboard the *Scrap Vulture*.
 - **Primary Obstacle:** INV *Steadfast* corvette enforcing the Djinni quarantine.
 - **Underlying Factions:** Makhidkarun (hired Rust Dogs), Section 86 (monitoring), The Cultivators (observing).
+
 ---
 
-# Adventure 001: The Inheritance
+## Table of Contents
+*   [Prologue: The Letter](#prologue-the-letter)
+*   [REFEREE OVERVIEW](#referee-overview)
+*   [Scene 1: An Unexpected Inheritance](#scene-1-an-unexpected-inheritance)
+*   [Scene 2: The Information Broker](#scene-2-the-information-broker)
+*   [Scene 3: The Journey to the Fringe](#scene-3-the-journey-to-the-fringe)
+*   [Scene 4: Anarchy and Opportunity](#scene-4-anarchy-and-opportunity)
+*   [Scene 5: The Djinni Run](#scene-5-the-djinni-run)
+*   [Scene 6: The Ghost Ship](#scene-6-the-ghost-ship)
+*   [Scene 7: Climax in the Belt](#scene-7-climax-in-the-belt)
+*   [Resolution](#resolution)
+*   [Appendix A: Random Encounters](#appendix-a-random-encounters)
+*   [Appendix B: Dramatis Personae](#appendix-b-dramatis-personae)
+*   [Appendix C: Starships](#appendix-c-starships)
+*   [Appendix D: The Aris Data Core](#appendix-d-the-aris-data-core)
+*   [Appendix E: Reusable Encounters](#appendix-e-reusable-encounters)
+
+---
+
+## REFEREE OVERVIEW
+
+This adventure begins with a classic Traveller problem: the players are given a ship they can't afford to recover. They will inherit the title to the advanced lab ship [*Stardust Drifter*](./ships/stardust-drifter.md), but the vessel is abandoned and powered down in the [Djinni](./systems/djinni.md) system, a quarantined Red Zone patrolled by the Imperial Navy.
+
+Their first task is to leverage their only asset—the ship's title—to secure a high-risk loan from a predatory financier on the subsector capital of [Regina](./systems/regina.md). This debt will hang over their heads, creating a powerful incentive to successfully claim their inheritance while navigating a web of corporate espionage and hidden agendas.
+
+**The Goal:** The players must find an information broker, secure a loan, hire a specialized crew, travel illegally to the [Djinni](./systems/djinni.md) system, locate and secure the *Stardust Drifter*, and escape the Red Zone to file a legal claim in the [K'Kirka](./systems/k-kirka.md) system.
+
+### The Price of a Dream
+
+The players need to borrow approximately **Cr3,000,000** to fund the recovery mission.
+
+*   **Hiring [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md) & [*The Void Gambit*](./ships/the-void-gambit.md):** ~Cr2,000,000
+*   **Travel & Lodging (for 6 people):** ~Cr300,000
+*   **Information, Bribes & Tips:** ~Cr50,000
+*   **Fuel, Gear & Supplies:** ~Cr100,000
+*   **Contingency Fund:** ~Cr500,000
+*   **Grand Total:** **~Cr3,000,000**
 
 ## Prologue: The Letter
 
@@ -47,47 +86,25 @@ Though the recipients are in different systems and not working together, the sum
 
 ---
 
+### Arrival on Regina
+
+Given the distances involved, the beneficiaries arrive on Regina at different times over several days. Upon arrival at the Regina Downport, each individual is directed to a waiting ground car, which whisks them to the opulent **Celestial Plaza Hotel** in the heart of the Capital district.
+
+The law firm has arranged for their accommodations. Each beneficiary is checked into a comfortable, well-appointed suite. A polite but reserved hotel concierge named **Lian** informs them that all expenses are covered and that Haskins & Associates will contact them once all parties have arrived.
+
+This provides a window of a few days for the characters to themselves, explore the city, or perhaps meet each other in the hotel's lounge.
+
+While waiting, they might visit some of Regina's famous attractions:
+*   **The Museum of Imperial Endeavor:** A vast museum showcasing the technological and cultural history of the Third Imperium.
+*   **The Crystal Gardens:** A breathtaking public park where native flora are encased in massive, shimmering crystal domes, creating a surreal, glittering forest.
+*   **The Grand Concourse:** A legendary entertainment and shopping district, miles long, filled with everything from high-end boutiques to seedy, back-alley gambling dens.
+*   **Sector 86 Memorial Plaza:** A solemn, quiet plaza dedicated to the memory of Imperial agents who have fallen in service to the Imperium, its centerpiece a stark, black monolith inscribed with thousands of names.
+
+Once the final recipient has checked into the hotel, a formal, encrypted message is sent to each of their rooms: "All parties are present. Please be at our offices tomorrow at 0900 sharp. A car will be waiting."
+
+---
+
 This letter is the catalyst that will bring these disparate individuals together, setting them on a path to fortune, danger, and the recovery of the *Stardust Drifter*.
-
----
-
-## Table of Contents
-*   [Prologue: The Letter](#prologue-the-letter)
-*   [Referee's Overview](#referees-overview)
-*   [Scene 1: An Unexpected Inheritance](#scene-1-an-unexpected-inheritance)
-*   [Scene 2: The Information Broker](#scene-2-the-information-broker)
-*   [Scene 3: The Journey to the Fringe](#scene-3-the-journey-to-the-fringe)
-*   [Scene 4: Anarchy and Opportunity](#scene-4-anarchy-and-opportunity)
-*   [Scene 5: The Djinni Run](#scene-5-the-djinni-run)
-*   [Scene 6: The Ghost Ship](#scene-6-the-ghost-ship)
-*   [Scene 7: Climax in the Belt](#scene-7-climax-in-the-belt)
-*   [Resolution](#resolution)
-*   [Appendix A: Random Encounters](#appendix-a-random-encounters)
-*   [Appendix B: Dramatis Personae](#appendix-b-dramatis-personae)
-*   [Appendix C: Starships](#appendix-c-starships)
-*   [Appendix D: The Aris Data Core](#appendix-d-the-aris-data-core)
-*   [Appendix E: Reusable Encounters](#appendix-e-reusable-encounters)
-
----
-
-## Referee's Overview
-
-This adventure begins with a classic Traveller problem: the players are given a ship they can't afford to recover. They will inherit the title to the advanced lab ship [*Stardust Drifter*](./ships/stardust-drifter.md), but the vessel is abandoned and powered down in the [Djinni](./systems/djinni.md) system, a quarantined Red Zone patrolled by the Imperial Navy.
-
-Their first task is to leverage their only asset—the ship's title—to secure a high-risk loan from a predatory financier on the subsector capital of [Regina](./systems/regina.md). This debt will hang over their heads, creating a powerful incentive to successfully claim their inheritance while navigating a web of corporate espionage and hidden agendas.
-
-**The Goal:** The players must find an information broker, secure a loan, hire a specialized crew, travel illegally to the [Djinni](./systems/djinni.md) system, locate and secure the *Stardust Drifter*, and escape the Red Zone to file a legal claim in the [K'Kirka](./systems/k-kirka.md) system.
-
-### The Price of a Dream
-
-The players need to borrow approximately **Cr3,000,000** to fund the recovery mission.
-
-*   **Hiring [Captain Kaelen](./characters/the-void-gambit/captain-kaelen.md) & [*The Void Gambit*](./ships/the-void-gambit.md):** ~Cr2,000,000
-*   **Travel & Lodging (for 6 people):** ~Cr300,000
-*   **Information, Bribes & Tips:** ~Cr50,000
-*   **Fuel, Gear & Supplies:** ~Cr100,000
-*   **Contingency Fund:** ~Cr500,000
-*   **Grand Total:** **~Cr3,000,000**
 
 ---
 
