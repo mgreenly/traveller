@@ -81,6 +81,7 @@ How I'm using Git with feature branches and squash merging:
 - `gsquash` - Squash merge wip into main
 - `gcommit "msg"` - Commit with message
 - `gclean` - Delete wip branch
+- `grollback` - Reset to previous commit (git reset --hard HEAD^)
 
 Repeat until done.
 
