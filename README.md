@@ -63,3 +63,13 @@ The human operator commits changes to git between Claude interactions, ensuring:
 - **Risk-free experimentation** - Can try bold changes knowing we can always revert
 
 This combination of Docker sandboxing and git version control allows for rapid, fearless campaign development while maintaining complete safety and reversibility.
+
+## Git Stuff
+Start on feature branch (after finishing work)
+- git checkout -b wip              # Create fdature branch
+- git checkout main                # Switch to target branch
+- git merge --squash wip           # Merge feature into main
+- git commit -m "Your message"     # Create the squashed commit
+- git branch -d wip                # Delete feature branch
+
+
