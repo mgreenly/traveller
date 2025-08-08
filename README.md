@@ -75,4 +75,5 @@ How I'm using Git
 - `git commit -m "the message"`     # Create the squashed commit
 - `git branch -d wip`               # Delete feature branch
 
+Repeat until done.
 
