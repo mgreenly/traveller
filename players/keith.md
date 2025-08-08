@@ -4,6 +4,11 @@
 *   **Connection:** A former student and favored assistant to the reclusive scientist [Dr. Aris](../characters/dr-aris.md).
 *   **Hook:** He is the legal recipient of [Dr. Aris](../characters/dr-aris.md)'s lab ship, the [*Stardust Drifter*](../ships/stardust-drifter.md), and receives a biolocked message from his former mentor warning him of danger. This makes him the primary target of those who want the ship and its secrets.
 
+Age: 54
+
+* mishap: +1 gang as enemies
+* event: +1 ally
+
 ## Atributes: UPP (5669F5)
 
   -   **Dexterity:** 6
