@@ -68,11 +68,11 @@ This combination of Docker sandboxing and git version control allows for rapid, 
 
 How I'm using Git
 
-- git checkout -b wip              # Create feature branch
-- claude                           # do a commit per prompt
-- git checkout main                # Switch to target branch
-- git merge --squash wip           # Merge feature into main
-- git commit -m "Your message"     # Create the squashed commit
-- git branch -d wip                # Delete feature branch
+- `git checkout -b wip`             # Create feature branch
+- `claude`                          # do a commit per prompt
+- `git checkout main`               # Switch to target branch
+- `git merge --squash wip`          # Merge feature into main
+- `git commit -m "the message"`     # Create the squashed commit
+- `git branch -d wip`               # Delete feature branch
 
 
