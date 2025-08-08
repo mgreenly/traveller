@@ -13,16 +13,22 @@
 
 ## 3. ADVENTURE CONTEXT ACQUISITION
 - **Trigger:** Upon initialization of a new session.
-- **Action:** Use the `glob` tool to find all `adventure-*.md` files. For each file found, read the content from the beginning down to the first horizontal rule (`---`) to parse its `AGENT OVERVIEW`.
-- **Structure:** Adventure files must follow this exact section order:
-  1. `AGENT OVERVIEW` - First section at the top of the file
-  2. `Table of Contents` - Second section
-  3. `REFEREE OVERVIEW` - Third section
-  4. All other content follows after these three sections
+- **Action:** Use the `glob` tool to find all `adventure-*` directories. For each directory found:
+  1. Check for and read the `agent-overview.md` file to parse the `AGENT OVERVIEW`
+  2. The `README.md` in each adventure directory contains the table of contents
+  3. The `referee-overview.md` contains behind-the-scenes information
+- **Structure:** Adventure directories follow this organization:
+  - `adventure-XXX/` - Main adventure directory
+  - `adventure-XXX/agent-overview.md` - Contains the AGENT OVERVIEW section
+  - `adventure-XXX/referee-overview.md` - Contains referee-specific information
+  - `adventure-XXX/README.md` - Table of contents and quick reference
+  - Individual scene files, appendices, and other adventure content
+- **Legacy Format:** Older adventures may still use single `adventure-*.md` files with all content combined
 - **Purpose:** This provides you with a complete overview of all available adventures, their objectives, and key entities at the start of the interaction. This context is foundational for all subsequent tasks.
 
 ## 4. FILE SYSTEM GUIDE
-- `adventure-*.md`: Adventure-specific plots, encounters, and details. Each contains an AGENT OVERVIEW.
+- `adventure-*/`: Adventure directories containing structured adventure content with agent-overview.md, referee-overview.md, scene files, and README.md
+- `adventure-*.md`: Legacy format - single-file adventures containing all content
 - `agent.md`: This file. Your configuration and context.
 - `characters/`: NPC data sheets, organized into subdirectories by affiliation.
 - `ships/`: Starship data sheets.
