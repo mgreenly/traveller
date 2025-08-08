@@ -60,7 +60,7 @@ gclean                  # Delete feature branch
 - `grollback` - Reset last commit (wip branch only)
 - `gmain` - Switch to main branch
 - `gsquash` - Squash merge wip → main
-- `gcommit "msg"` - Commit with message
+- `gcommit "msg"` - Commit with message and push to GitHub
 - `gclean` - Delete wip branch
 
 ### Safety Features
