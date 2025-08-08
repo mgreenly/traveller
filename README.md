@@ -44,7 +44,7 @@ This campaign repository is managed using Claude AI running in a Docker containe
 ### Docker Setup
 - **Dockerfile**: [`Dockerfile`](./Dockerfile)
 - **Build Script**: [`bin/build`](./bin/build) - Builds the Docker container
-- **Agent Runner**: [`bin/agent`](./bin/agent) - Launches Claude Code CLI in the container
+- **Claude Runner**: [`bin/claude`](./bin/claude) - Launches Claude Code CLI in the container
 
 This setup uses Vim for editing and Claude Code CLI for AI assistance - no IDE required.
 
