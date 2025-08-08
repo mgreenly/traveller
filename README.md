@@ -34,3 +34,30 @@ An overview of the major factions and organizations whose influence shapes the e
 
 ### [Lore & Setting Details](./misc/README.md)
 Supplementary documents covering important game rules and setting details, such as Imperial Law Levels and the dangers of Red Zones.
+
+---
+
+## Technical Notes
+
+This campaign repository is managed using Claude AI running in a Docker container for enhanced workflow and sandboxing capabilities.
+
+### Docker Setup
+- **Container Configuration**: [`.devcontainer/devcontainer.json`](./.devcontainer/devcontainer.json)
+- **Dockerfile**: [`.devcontainer/Dockerfile`](./.devcontainer/Dockerfile)
+
+### Why Docker?
+We run Claude in a containerized environment to:
+- **Sandbox operations** - Provides a safe, isolated workspace for file manipulation
+- **Live dangerously** - Allows us to skip verification steps and work more efficiently  
+- **Consistent environment** - Ensures the same tooling and file system across sessions
+- **Easy reset** - Can quickly restore to a clean state if needed
+- **Complete isolation** - Nothing outside the project folder can be changed, protecting the host system
+
+### Workflow Safety Net
+The human operator commits changes to git between Claude interactions, ensuring:
+- **Version control** - Every change is tracked and documented
+- **Easy rollback** - Previous state is always just one `git reset` away
+- **Audit trail** - Complete history of all campaign development
+- **Risk-free experimentation** - Can try bold changes knowing we can always revert
+
+This combination of Docker sandboxing and git version control allows for rapid, fearless campaign development while maintaining complete safety and reversibility.
