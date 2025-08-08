@@ -1,0 +1,36 @@
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+LICENSE
+
+# Scripts and tools
+bin/
+Dockerfile*
+
+# System files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+
+# Game content (not needed for building the container)
+adventure-*/
+characters/
+ships/
+systems/
+factions/
+misc/
+lore/
+players/
+books/
