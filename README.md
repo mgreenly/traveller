@@ -61,7 +61,8 @@ gclean                  # Delete feature branch
 - `gmain` - Switch to main branch
 - `gsquash` - Squash merge wip → main
 - `gcommit "msg"` - Commit with message and push to GitHub
-- `gclean` - Delete wip branch
+- `gclean` - Delete wip branch (safe)
+- `greset` - Force delete wip branch
 
 ### Safety Features
 - **Docker Isolation** - Nothing outside project folder can be changed
