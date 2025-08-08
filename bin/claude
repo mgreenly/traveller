@@ -56,6 +56,8 @@ docker_args=(
 )
 
 # Forward signals to the container
+# This trap ensures the container is killed if the user presses Ctrl+C or the script is terminated
+# The --rm flag will then clean up the stopped container automatically
 trap 'docker kill "claude-$$" 2>/dev/null || true' INT TERM
 
 # Run the container
