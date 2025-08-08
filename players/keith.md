@@ -15,17 +15,17 @@
 
 
 ## Skills ##
-Athletics    0
-Diplomat     0
-Drive        0
-Electronics  2
-Engineer     1
-Flyer        0
-Language     0
-Medic        2
-Melee        0
-Profession   0
-Science      1
-Steward      0
-Streewise    0
-Vacsuit      0
+  - Athletics    0
+  - Diplomat     0
+  - Drive        0
+  - Electronics  2
+  - Engineer     1
+  - Flyer        0
+  - Language     0
+  - Medic        2
+  - Melee        0
+  - Profession   0
+  - Science      1
+  - Steward      0
+  - Streewise    0
+  - Vacsuit      0
