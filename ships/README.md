@@ -1,9 +1,24 @@
 # Ships
 
-This file contains a list of all the starships in the campaign.
+This directory contains detailed specifications and descriptions for all starships encountered in the Traveller RPG campaign. Ships are organized by their role and affiliation in the ongoing adventures.
 
-*   [INV Steadfast](./inv-steadfast.md)
-*   [Scrap Vulture](./scrap-vulture.md)
-*   [Stardust Drifter](./stardust-drifter.md)
-*   [Stray Comet](./stray-comet.md)
-*   [The Void Gambit](./the-void-gambit.md)
+## Table of Contents
+
+### Key Vessels
+
+#### The Prize
+*   [Stardust Drifter](./stardust-drifter.md) - Dr. Aris's heavily modified lab ship, the inheritance at the heart of the campaign
+
+### Player-Accessible Ships
+
+#### Transport Options
+*   [The Void Gambit](./the-void-gambit.md) - Professional transport, modified Free Trader with exceptional agility
+*   [Stray Comet](./stray-comet.md) - Rico's speed-modified courier with oversized engines
+
+### Opposition Forces
+
+#### Rival Salvagers
+*   [Scrap Vulture](./scrap-vulture.md) - The Rust Dogs' heavily armed and modified salvage freighter
+
+#### Imperial Navy
+*   [INV Steadfast](./inv-steadfast.md) - Vigilant-class corvette enforcing the Djinni quarantine

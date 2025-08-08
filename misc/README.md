@@ -1,6 +1,6 @@
 # Miscellaneous Rules and Reference Tables
 
-This directory contains gameplay aids, reference tables, and rules explanations for the Traveller campaign.
+This directory contains essential gameplay aids, reference tables, and detailed rules explanations for the Traveller RPG campaign. These resources provide quick access to commonly-needed information during play sessions.
 
 ## Table of Contents
 

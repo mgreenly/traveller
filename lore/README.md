@@ -1,6 +1,6 @@
 # Lore
 
-This directory contains in-universe locations, encounters, and establishments that can be used across multiple adventures in the Traveller campaign.
+This directory contains reusable in-universe locations, encounters, and establishments for the Traveller RPG campaign. All content is designed to be modular and adaptable, allowing referees to drop familiar locations into new worlds or create recurring experiences across different adventures.
 
 ## Table of Contents
 

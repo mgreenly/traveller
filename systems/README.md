@@ -1,6 +1,13 @@
-# Subsector Map
+# Star Systems
 
-This map shows the jump-1 connections between the systems relevant to the "Inheritance" adventure.
+This directory contains detailed planetary and system information for all star systems in the Traveller RPG campaign. Systems include full Universal World Profile (UWP) data, astronomical details, and campaign-specific information.
+
+## Table of Contents
+
+### Campaign Overview
+
+#### Subsector Map
+This map shows the jump-1 connections between systems relevant to the "Inheritance" adventure:
 
 ```
                   R
@@ -14,16 +21,21 @@ This map shows the jump-1 connections between the systems relevant to the "Inher
                         K
 ```
 
-## Map Key
-*   **R:** (1910) [Regina](./regina.md)
-*   **J:** (1810) [Jenghe](./jenghe.md)
-*   **D:** (1811) [Dinom](./dinom.md)
-*   **N:** (1912) [Dinomn](./dinomn.md)
-*   **W:** (2011) [Wypoc](./wypoc.md)
-*   **C:** (2112) [Rech](./rech.md)
-*   **I:** (2111) [Djinni](./djinni.md)
-*   **K:** (2212) [K'Kirka](./k-kirka.md)
+### Key Systems
 
+#### Major Hub Worlds
+*   [Regina](./regina.md) (A788899-C) - Subsector capital and adventure starting point
+*   [K'Kirka](./k-kirka.md) (B677898-B) - Where salvage claims must be filed
+
+#### Adventure Locations
+*   [Djinni](./djinni.md) (X559000-0) - **RED ZONE** - Contains the derelict Stardust Drifter
+*   [Rech](./rech.md) (D9957AA-6) - Lawless world for hiring pilots and crew
+
+#### Transit Systems
+*   [Jenghe](./jenghe.md) - First jump from Regina toward Djinni
+*   [Dinom](./dinom.md) - Transit system along the route
+*   [Dinomn](./dinomn.md) - Transit system along the route  
+*   [Wypoc](./wypoc.md) - Final transit before reaching Rech/Djinni
 
 ## Jump Routes
 
@@ -35,9 +47,6 @@ This map shows the jump-1 connections between the systems relevant to the "Inher
 5.  **(W)** to **(C)** - 1 Parsec - Wypoc to Rech
 6.  **(C)** to **(I)** - 1 Parsec - Rech to Djinni
 
-
-
-
-```
-
-```
+**Map Key:**
+*   **R:** (1910) Regina  |  **J:** (1810) Jenghe  |  **D:** (1811) Dinom  |  **N:** (1912) Dinomn
+*   **W:** (2011) Wypoc  |  **C:** (2112) Rech  |  **I:** (2111) Djinni  |  **K:** (2212) K'Kirka

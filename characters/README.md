@@ -1,28 +1,31 @@
 # Characters
 
-This file contains a list of all the Non-Player Characters (NPCs) in the campaign.
+This directory contains detailed profiles for all Non-Player Characters (NPCs) in the Traveller RPG campaign. Characters are organized by their ship affiliations and roles in the ongoing adventures.
 
-## Main NPCs
-*   [Dr. Aris](./dr-aris.md)
-*   [Rico "Hotshot" Vega](./rico-hotshot-vega.md)
-*   [Roric Vance](./roric-vance.md)
-*   [Silas Kane](./silas-kane.md)
+## Table of Contents
 
-## Crew of the Stray Comet
-*   [Corbin "Maps" Vance](./corbin-vance.md)
-*   [Lena Petrova](./lena-petrova.md)
-*   [Rico "Hotshot" Vega](./rico-hotshot-vega.md)
+### Key Campaign NPCs
+*   [Dr. Aris](./dr-aris.md) - Mysterious scientist who bequeaths the Stardust Drifter
+*   [Roric Vance](./roric-vance.md) - Washed-up information broker with hidden loyalties
+*   [Silas Kane](./silas-kane.md) - Predatory financier who runs "The Gilded Cage"
 
-## Crew of the INV Steadfast
-*   [Captain Valerius Thorne](./inv-steadfast/captain-valerius-thorne.md)
+### Ship Crews
 
-## Crew of the Scrap Vulture (The "Rust Dogs")
-*   [Grak](./scrap-vulture/grak.md)
-*   [Joric "Slick" Fen](./scrap-vulture/joric-slick-fen.md)
-*   [Kara "Wrench" Riker](./scrap-vulture/kara-wrench-riker.md)
-*   [Zina "Sparks" Petrova](./scrap-vulture/zina-sparks-petrova.md)
+#### Stray Comet Crew
+*   [Rico "Hotshot" Vega](./rico-hotshot-vega.md) - Reckless pilot and ship captain
+*   [Corbin "Maps" Vance](./corbin-vance.md) - Navigator and Roric's relative
+*   [Lena Petrova](./lena-petrova.md) - Engineer and crew member
 
-## Crew of The Void Gambit
-*   [Captain Kaelen](./the-void-gambit/captain-kaelen.md)
-*   ["Grim"](./the-void-gambit/grim.md)
-*   [Jax](./the-void-gambit/jax.md)
+#### INV Steadfast (Imperial Navy)
+*   [Captain Valerius Thorne](./inv-steadfast/captain-valerius-thorne.md) - Imperial Navy patrol captain
+
+#### Scrap Vulture - "The Rust Dogs" (Rival Salvagers)
+*   [Kara "Wrench" Riker](./scrap-vulture/kara-wrench-riker.md) - Leader of the Rust Dogs salvage crew
+*   [Grak](./scrap-vulture/grak.md) - Crew member and enforcer
+*   [Joric "Slick" Fen](./scrap-vulture/joric-slick-fen.md) - Smooth-talking crew member
+*   [Zina "Sparks" Petrova](./scrap-vulture/zina-sparks-petrova.md) - Engineer and electronics specialist
+
+#### The Void Gambit (Professional Transport)
+*   [Captain Kaelen](./the-void-gambit/captain-kaelen.md) - Professional pilot for hire
+*   ["Grim"](./the-void-gambit/grim.md) - Crew member
+*   [Jax](./the-void-gambit/jax.md) - Crew member

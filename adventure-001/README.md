@@ -3,25 +3,31 @@
 A Traveller RPG adventure where six player characters inherit a valuable lab ship trapped in a quarantined system. They must secure financing, hire specialists, and recover the vessel while competing against rival salvagers and evading Imperial Navy patrols.
 
 ## Table of Contents
+
+### Adventure Structure
 *   [Agent Overview](./agent-overview.md) - Quick reference for running the adventure
 *   [Referee Overview](./referee-overview.md) - Behind-the-scenes information and costs
-*   [Prologue: The Letter](./prologue.md)
-*   [Scene 1: An Unexpected Inheritance](./scene-1-unexpected-inheritance.md)
-*   [Scene 2: The Information Broker](./scene-2-information-broker.md)
-*   [Scene 3: The Devil's Bargain](./scene-3-devils-bargain.md)
-*   [Scene 4: The Journey to the Fringe](./scene-4-journey-to-fringe.md)
-*   [Scene 5: Anarchy and Opportunity](./scene-5-anarchy-and-opportunity.md)
-*   [Scene 6: The Djinni Run](./scene-6-djinni-run.md)
-*   [Scene 7: The Ghost Ship](./scene-7-ghost-ship.md)
-*   [Scene 8: Climax in the Belt](./scene-8-climax-in-belt.md)
-*   [Resolution](./resolution.md)
-*   [Appendices](./appendices.md)
+*   [Timeline](./timeline.md) - Estimated timeline of major events
+
+### Scenes
+*   [Prologue: The Letter](./prologue.md) - The encrypted inheritance message
+*   [Scene 1: An Unexpected Inheritance](./scene-1-unexpected-inheritance.md) - Meeting the executor on Regina
+*   [Scene 2: The Information Broker](./scene-2-information-broker.md) - Roric Vance provides crucial intel
+*   [Scene 3: The Devil's Bargain](./scene-3-devils-bargain.md) - Financing negotiation with Silas Kane
+*   [Scene 4: The Journey to the Fringe](./scene-4-journey-to-fringe.md) - Travel to Rech to hire pilot
+*   [Scene 5: Anarchy and Opportunity](./scene-5-anarchy-and-opportunity.md) - Pilot recruitment on lawless Rech
+*   [Scene 6: The Djinni Run](./scene-6-djinni-run.md) - Dangerous entry into the Red Zone
+*   [Scene 7: The Ghost Ship](./scene-7-ghost-ship.md) - Boarding the derelict Stardust Drifter
+*   [Scene 8: Climax in the Belt](./scene-8-climax-in-belt.md) - Final confrontation with the Rust Dogs
+
+### Resolution & Resources
+*   [Resolution](./resolution.md) - Adventure conclusion and aftermath
+*   [Appendices](./appendices.md) - Supporting materials and encounters
     - Appendix A: Random Encounters
     - Appendix B: Dramatis Personae
     - Appendix C: Starships
     - Appendix D: The Aris Data Core
     - Appendix E: Reusable Encounters
-*   [Timeline](./timeline.md)
 
 ## Quick Reference
 
