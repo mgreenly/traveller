@@ -5,12 +5,12 @@
 *   **Hook:** He is the legal recipient of [Dr. Aris](../characters/dr-aris.md)'s lab ship, the [*Stardust Drifter*](../ships/stardust-drifter.md), and receives a biolocked message from his former mentor warning him of danger. This makes him the primary target of those who want the ship and its secrets.
 
 ## Atributes: UPP (5669F5)##
-    *   **Strength:**  5
-    *   **Dexterity:** 6
-    *   **Endurance:** 6
-    *   **Intellect:** 9
-    *   **Education:** F
-    *   **Social:**    5
+
+  -   **Dexterity:** 6
+  -   **Endurance:** 6
+  -   **Intellect:** 9
+  -   **Education:** F
+  -   **Social:**    5
 
 
 ## Skills ##
