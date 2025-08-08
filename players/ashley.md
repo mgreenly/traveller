@@ -1,8 +1,5 @@
 # Ashley
 
-*   **Role:** Player Character
-
-
 Age: 54
 
 ## Atributes: UPP (555AC6)

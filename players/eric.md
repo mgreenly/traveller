@@ -1,8 +1,5 @@
 # Eric
 
-*   **Role:** Player Character
-
-
 Age: 58
 
 ## Atributes: UPP (2C3B75)
