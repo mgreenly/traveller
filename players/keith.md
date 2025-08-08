@@ -6,30 +6,37 @@
 
 Age: 54
 
-* mishap: +1 gang as enemies
-* event: +1 ally
-
 ## Atributes: UPP (5669F5)
 
-  -   **Dexterity:** 6
-  -   **Endurance:** 6
-  -   **Intellect:** 9
-  -   **Education:** F
-  -   **Social:**    5
+  - 05  **Strength:**
+  - 06  **Dexterity:**
+  - 06  **Endurance:**
+  - 09  **Intellect:**
+  - 15  **Education:**
+  - 05  **Social:**
 
 
 ## Skills
-  - Athletics    0
-  - Diplomat     0
-  - Drive        0
-  - Electronics  2
-  - Engineer     1
-  - Flyer        0
-  - Language     0
-  - Medic        2
-  - Melee        0
-  - Profession   0
-  - Science      1
-  - Steward      0
-  - Streewise    0
-  - Vacsuit      0
+  - 0 Athletics
+  - 0 Diplomat
+  - 0 Drive
+  - 2 Electronics
+  - 1 Engineer
+  - 0 Flyer
+  - 0 Language
+  - 2 Medic
+  - 0 Melee
+  - 0 Profession
+  - 1 Science
+  - 0 Steward
+  - 0 Streewise
+  - 0 Vacsuit
+
+## Items
+  - retirement income 16,000 cr
+  - 100,000 cr
+  - labship 50%
+
+# Contacts
+ - 1 gang as enemies
+ - 1 ally
