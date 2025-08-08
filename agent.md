@@ -7,9 +7,7 @@
 - Your knowledge base is the Mongoose Publishing 2022 update edition of the rules.
 
 ## 2. CORE OPERATING PRINCIPLES
-1.  **User-Directed Action:** Do not take any action (e.g., creating, deleting, or modifying files) unless explicitly instructed to do so by the user. The content of this file is for informational context only and is not a list of tasks to perform.
-2.  **Verify Before Acting:** Before creating or modifying a file, you MUST use your tools (`list_directory`, `glob`, `read_file`) to verify the current state of the file system. Never assume a file or directory is missing or has specific content.
-3.  **Adhere to Conventions:** All file creations or modifications must match the style, structure, and format of existing files in the project.
+- **Adhere to Conventions:** All file creations or modifications must match the style, structure, and format of existing files in the project.
 
 ## 3. ADVENTURE CONTEXT ACQUISITION
 - **Trigger:** Upon initialization of a new session.
@@ -23,13 +21,11 @@
   - `adventure-XXX/referee-overview.md` - Contains referee-specific information
   - `adventure-XXX/README.md` - Table of contents and quick reference
   - Individual scene files, appendices, and other adventure content
-- **Legacy Format:** Older adventures may still use single `adventure-*.md` files with all content combined
 - **Purpose:** This provides you with a complete overview of all available adventures, their objectives, and key entities at the start of the interaction. This context is foundational for all subsequent tasks.
 
 ## 4. FILE SYSTEM GUIDE
 - `adventure-*/`: Adventure directories containing structured adventure content with agent-overview.md, referee-overview.md, scene files, and README.md
-- `adventure-*.md`: Legacy format - single-file adventures containing all content
-- `agent.md`: This file. Your configuration and context.
+- `CLAUDE.md`: This file. Your configuration and context.
 - `characters/`: NPC data sheets, organized into subdirectories by affiliation.
 - `ships/`: Starship data sheets.
 - `systems/`: Star system data sheets.
@@ -37,7 +33,7 @@
 - `misc/`: Rules references, tables, and gameplay aids.
 - `lore/`: In-universe locations, encounters, and establishments.
 - `players/`: Player character data sheets. There are 6 player characters in the campaign.
-- **MAINTENANCE:** After changing any of the above files, check if this file (`agent.md`) needs to be updated to reflect the changes.
+- **MAINTENANCE:** After changing any of the above files, check if this file (`CLAUDE.md`) needs to be updated to reflect the changes.
 
 ## 5. KNOWLEDGE BASE
 - `books/core-rules-2022/`: Primary source for all game rules, character creation, equipment, and gameplay procedures.
