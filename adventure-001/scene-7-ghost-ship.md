@@ -1,19 +1,19 @@
 ## Scene 7: The Ghost Ship
 
-**Location:** The *Stardust Drifter*
+**Location:** The [*Stardust Drifter*](../ships/stardust-drifter.md)
 
 > **Read Aloud:** The *Drifter's* airlock cycles open with a faint hiss of escaping residual atmosphere. Inside, the ship is freezing, dark, and utterly silent. Your suit lights cut sharp beams through the zero-gravity environment, illuminating floating dust motes and small, frozen droplets of liquid. The air smells stale and metallic. Every corridor is a dark maw, and every sound you make seems unnaturally loud. This ship is a tomb.
 
 The players must navigate the derelict ship, overcome its obstacles, and get it running before the Rust Dogs arrive.
 
 ### 1. Airlock Trap
-Dr. Aris left a simple but nasty surprise for intruders.
+[Dr. Aris](../characters/dr-aris.md) left a simple but nasty surprise for intruders.
 *   **The Trap:** A pressure plate on the interior side of the airlock is rigged to a high-intensity industrial welder mounted in the ceiling. If stepped on, it will fire a single, searing beam at chest height, designed to breach a vacc suit.
 *   **Spotting:** An **Investigate (TN 10)** check is required to spot the faint scoring on the floor plate and the unusually clean lens of the welder.
 *   **Disarming:** A **Mechanics or Explosives (TN 8)** check will safely disable the trigger mechanism. Failure means the trap goes off.
 
 ### 2. The Missing Core & The Crippled Drive
-The bridge is dark, with only the faint emergency lights of the *Void Gambit* playing through the viewport. The main computer console has been visibly tampered with; a housing unit is ripped open, with severed cables dangling where a data core should be.
+The bridge is dark, with only the faint emergency lights of the [*Void Gambit*](../ships/the-void-gambit.md) playing through the viewport. The main computer console has been visibly tampered with; a housing unit is ripped open, with severed cables dangling where a data core should be.
 *   **The System:** The secondary bridge terminals are still functional but locked. A **Computers (TN 8)** check is required to gain basic access to ship systems (power, life support, etc.).
 *   **The Crime Scene:** A successful **Investigate (TN 8)** or **Mechanics (TN 8)** check of the damaged console reveals two things:
     1.  The cutting marks on the housing are crude and forceful, not the work of a skilled technician.

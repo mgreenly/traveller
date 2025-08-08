@@ -26,17 +26,17 @@ A Traveller RPG adventure where six player characters inherit a valuable lab shi
 ## Quick Reference
 
 ### Key NPCs
-- **Dr. Aris** - Mysterious scientist who bequeaths the ship
-- **Silas Kane** - Predatory financier (antagonist)
-- **Kara "Wrench" Riker** - Leader of the Rust Dogs (rival)
-- **Captain Kaelen** - Professional pilot option
-- **Rico "Hotshot" Vega** - Reckless pilot option
+- **[Dr. Aris](../characters/dr-aris.md)** - Mysterious scientist who bequeaths the ship
+- **[Silas Kane](../characters/silas-kane.md)** - Predatory financier (antagonist)
+- **[Kara "Wrench" Riker](../characters/scrap-vulture/kara-wrench-riker.md)** - Leader of the Rust Dogs (rival)
+- **[Captain Kaelen](../characters/the-void-gambit/captain-kaelen.md)** - Professional pilot option
+- **[Rico "Hotshot" Vega](../characters/rico-hotshot-vega.md)** - Reckless pilot option
 
 ### Key Locations
-- **Regina** - Starting point, subsector capital
-- **Rech** - Lawless world where pilots are hired
-- **Djinni** - Red Zone containing the derelict ship
-- **K'Kirka** - Where salvage claim must be filed
+- **[Regina](../systems/regina.md)** - Starting point, subsector capital
+- **[Rech](../systems/rech.md)** - Lawless world where pilots are hired
+- **[Djinni](../systems/djinni.md)** - Red Zone containing the derelict ship
+- **[K'Kirka](../systems/k-kirka.md)** - Where salvage claim must be filed
 
 ### Critical Plot Elements
 - The ship's data core contains the "Kane Contingency" file needed to cancel the debt

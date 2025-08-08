@@ -36,7 +36,7 @@ The main negotiation determines the loan terms. Kane will provide the 3 million 
 
 *   **Tier 1: Crushing Terms (Failure on Stage 2 check):** 
     - Interest: **40% monthly**, compounding
-    - Collateral: The *Stardust Drifter*, all personal assets, **and** future earnings
+    - Collateral: The [*Stardust Drifter*](../ships/stardust-drifter.md), all personal assets, **and** future earnings
     - Term: **60 days** before first payment
     - Special clause: Kane's representatives have the right to "inspect" the salvage operation
     - Kane's parting words: "Don't disappoint me. I do so hate having to collect collateral... personally."

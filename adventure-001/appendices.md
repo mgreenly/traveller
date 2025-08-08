@@ -27,11 +27,11 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   **[Dr. Aris](../characters/dr-aris.md):** The mysterious, reclusive scientist who bequeaths the *Stardust Drifter*.
 *   **[Roric Vance](../characters/roric-vance.md):** An aging information broker on [Regina](../systems/regina.md).
 *   **[Silas "The Gilded" Kane](../characters/silas-kane.md):** A predatory financier on [Regina](../systems/regina.md).
-*   **The Crew of *The Void Gambit***
+*   **The Crew of *[The Void Gambit](../ships/the-void-gambit.md)***
     *   **[Captain Kaelen](../characters/the-void-gambit/captain-kaelen.md):** A pragmatic and skilled ex-scout captain.
     *   **[Jax](../characters/the-void-gambit/jax.md):** A brilliant, high-energy engineer.
     *   **["Grim"](../characters/the-void-gambit/grim.md):** A hulking, silent Vargr gunner.
-*   **The Crew of *Stray Comet***
+*   **The Crew of *[Stray Comet](../ships/stray-comet.md)***
     *   **[Rico "Hotshot" Vega](../characters/rico-hotshot-vega.md):** A reckless but talented freelance pilot.
     *   **[Corbin "Maps" Vance](../characters/corbin-vance.md):** A quiet, studious navigator.
     *   **[Lena Petrova](../characters/lena-petrova.md):** A gifted mechanic.
@@ -62,14 +62,14 @@ Once the players have recovered the main data core from the Rust Dogs and instal
 
 Hidden within the data core's encrypted partition is a folder labeled "Insurance Policy - SKane." A successful **Computers (TN 10)** check is required to decrypt it. This contains:
 
-*   **Financial Records:** Detailed transactions showing Kane laundering money for Makhidkarun's illegal operations in the Spinward Marches
+*   **Financial Records:** Detailed transactions showing Kane laundering money for [Makhidkarun](../factions/makhidkarun.md)'s illegal operations in the Spinward Marches
 *   **Recorded Conversations:** Audio files of Kane discussing "asset seizures" where borrowers met suspicious ends, including one chilling conversation about "making an example" of a defaulter
 *   **Contract Database:** Proof that Kane's loan contracts contain clauses that violate Imperial usury laws and Commerce regulations
-*   **Makhidkarun Connection:** Documents proving Kane is not just a lender but a wholly-owned asset of Makhidkarun's Special Projects Division
+*   **Makhidkarun Connection:** Documents proving Kane is not just a lender but a wholly-owned asset of [Makhidkarun](../factions/makhidkarun.md)'s Special Projects Division
 
 **Using the File:**
 *   **Direct Confrontation:** Present the evidence to Kane to nullify the debt. Requires a **Persuade (TN 8)** or **Advocate (TN 10)** check. Success cancels the debt; failure means Kane knows you have it.
-*   **Legal Route:** File with Imperial authorities. Automatically cancels debt but makes Kane a permanent enemy and alerts Makhidkarun to your knowledge.
+*   **Legal Route:** File with Imperial authorities. Automatically cancels debt but makes Kane a permanent enemy and alerts [Makhidkarun](../factions/makhidkarun.md) to your knowledge.
 *   **Blackmail:** Use for ongoing leverage. Provides +4 to all negotiations with Kane but requires constant vigilance against retaliation.
 *   **Sale to Rivals:** Other crime bosses or corporations would pay Cr500,000-1,000,000 for this information.
 

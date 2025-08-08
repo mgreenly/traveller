@@ -6,19 +6,19 @@ This timeline provides a realistic estimate of how many days pass from the start
 
 ### Days 0-7: The Summons and Arrival
 - **Day 0:** PCs receive encrypted messages at various locations across the sector
-- **Days 1-6:** Travel time to Regina varies by PC location (1-2 jumps typical)
+- **Days 1-6:** Travel time to [Regina](../systems/regina.md) varies by PC location (1-2 jumps typical)
 - **Days 3-7:** PCs arrive at Regina Downport over several days, check into Celestial Plaza Hotel
 - **Day 7:** Final PC arrives; meeting scheduled for next morning
 
 ### Day 8: Regina - The Inheritance
 - **Morning (0900):** Meeting at Haskins & Associates law offices
-- **Afternoon:** Research and planning, opening Dr. Aris's data wafer
-- **Evening:** Search for Roric Vance begins
+- **Afternoon:** Research and planning, opening [Dr. Aris](../characters/dr-aris.md)'s data wafer
+- **Evening:** Search for [Roric Vance](../characters/roric-vance.md) begins
 
 ### Day 9: Regina - Information and Financing
 - **Morning:** Continue search for Roric Vance in Regina Downport
 - **Afternoon:** Meeting with Roric Vance at The Gravity Well
-- **Evening:** Initial contact/research on Silas Kane
+- **Evening:** Initial contact/research on [Silas Kane](../characters/silas-kane.md)
 
 ### Day 10: Regina - The Devil's Bargain
 - **Morning:** Due diligence on Kane (optional)
@@ -27,59 +27,59 @@ This timeline provides a realistic estimate of how many days pass from the start
 
 ### Days 11-12: Regina - Departure Preparations
 - **Day 11:** Book passage, gather supplies, final preparations
-- **Day 12:** Depart Regina for Jenghe
+- **Day 12:** Depart Regina for [Jenghe](../systems/jenghe.md)
 
 ### Days 13-19: Jump to Jenghe
 - **Jump space:** 7 days (standard Jump-1)
 
 ### Days 20-21: Jenghe Layover
 - **Day 20:** Arrive Jenghe, clear customs, find lodging
-- **Day 21:** Book passage to Dinom, resupply
+- **Day 21:** Book passage to [Dinom](../systems/dinom.md), resupply
 
 ### Days 22-28: Jump to Dinom
 - **Jump space:** 7 days
 
 ### Days 29-30: Dinom Layover
-- **Day 29:** Arrive at mining outpost, find passage to Dinomn
+- **Day 29:** Arrive at mining outpost, find passage to [Dinomn](../systems/dinomn.md)
 - **Day 30:** Brief layover, depart for Dinomn
 
 ### Days 31-37: Jump to Dinomn
 - **Jump space:** 7 days
-- **Note:** First sighting of *Scrap Vulture* during layover
+- **Note:** First sighting of [*Scrap Vulture*](../ships/scrap-vulture.md) during layover
 
 ### Days 38-39: Dinomn Layover
 - **Day 38:** Arrive at Scout base, spot Rust Dogs' ship
-- **Day 39:** Hasty departure arrangements to Wypoc
+- **Day 39:** Hasty departure arrangements to [Wypoc](../systems/wypoc.md)
 
 ### Days 40-46: Jump to Wypoc
 - **Jump space:** 7 days
 
 ### Days 47-48: Wypoc Layover
 - **Day 47:** Arrive, see *Scrap Vulture* departing
-- **Day 48:** Arrange off-books passage to Rech
+- **Day 48:** Arrange off-books passage to [Rech](../systems/rech.md)
 
 ### Days 49-55: Jump to Rech
 - **Jump space:** 7 days
 
 ### Days 56-58: Rech - Hiring and Conflict
 - **Day 56:** Arrive at lawless Rech, begin search for pilots
-- **Day 57:** Negotiations with chosen pilot (Kaelen or Rico)
+- **Day 57:** Negotiations with chosen pilot ([Kaelen](../characters/the-void-gambit/captain-kaelen.md) or [Rico](../characters/rico-hotshot-vega.md))
 - **Day 58:** Rust Dogs ambush, final preparations
 
 ### Days 59-65: Jump to Djinni
 - **Jump space:** 7 days
 
-### Days 66-67: Djinni System - The Salvage
+### Days 66-67: [Djinni](../systems/djinni.md) System - The Salvage
 - **Day 66:** Arrive in Red Zone, navigate to asteroid belt
   - Silent running to avoid Navy patrol
-  - Locate and board *Stardust Drifter*
+  - Locate and board [*Stardust Drifter*](../ships/stardust-drifter.md)
   - Discover missing data core
   - Rust Dogs arrive and reveal themselves
 - **Day 67:** Confrontation with Rust Dogs
   - Combat/negotiation for data core
   - Escape from Djinni system before Navy intercept
 
-### Days 68-74: Jump to K'Kirka
+### Days 68-74: Jump to [K'Kirka](../systems/k-kirka.md)
 - **Jump space:** 7 days
 
 ### Day 75: K'Kirka - Legal Filing

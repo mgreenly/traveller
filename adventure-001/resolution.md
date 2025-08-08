@@ -1,6 +1,6 @@
 ## Resolution
 
-The adventure concludes when the players escape the [Djinni](../systems/djinni.md) system with the *Stardust Drifter*. To make their ownership official, they must file a salvage and inheritance claim at the starport on [K'Kirka](../systems/k-kirka.md). This sets the stage for future adventures, where they must deal with their massive debt to [Silas Kane](../characters/silas-kane.md), the unwanted attention from [Makhidkarun](../factions/makhidkarun.md), and the true nature of [Dr. Aris](../characters/dr-aris.md)'s research.
+The adventure concludes when the players escape the [Djinni](../systems/djinni.md) system with the [*Stardust Drifter*](../ships/stardust-drifter.md). To make their ownership official, they must file a salvage and inheritance claim at the starport on [K'Kirka](../systems/k-kirka.md). This sets the stage for future adventures, where they must deal with their massive debt to [Silas Kane](../characters/silas-kane.md), the unwanted attention from [Makhidkarun](../factions/makhidkarun.md), and the true nature of [Dr. Aris](../characters/dr-aris.md)'s research.
 
 ### If the Data Core is Lost
 
@@ -11,7 +11,7 @@ Without the data core, the players face severe consequences:
 *   **Makhidkarun Wins:** They recover their research through the Rust Dogs and will view the players as loose ends to be eliminated.
 *   **No Leverage:** Without the Kane Contingency file, players have no defense against the crushing debt.
 *   **Reduced Ship Value:** The ship is worth only 20% of its full value without its advanced lab systems and proprietary data.
-*   **Navy Complications:** Without jump capability, evading the INV *Steadfast* becomes nearly impossible, likely resulting in arrest.
+*   **Navy Complications:** Without jump capability, evading the [INV *Steadfast*](../ships/inv-steadfast.md) becomes nearly impossible, likely resulting in arrest.
 
 ### Dealing with the Debt
 

@@ -1,6 +1,6 @@
 ## Scene 8: Climax in the Belt
 
-> **Read Aloud:** Just as you manage to power up the *Stardust Drifter's* primary systems, proximity alarms blare through the cockpit. A ship signature, previously hidden among the asteroid clutter, suddenly flares to life. It's the *Scrap Vulture*, powering up its weapons and drives. Moments later, a tight-beam transmission comes through, audio only. The voice is cold, confident, and familiar. It's Kara Riker.
+> **Read Aloud:** Just as you manage to power up the [*Stardust Drifter's*](../ships/stardust-drifter.md) primary systems, proximity alarms blare through the cockpit. A ship signature, previously hidden among the asteroid clutter, suddenly flares to life. It's the [*Scrap Vulture*](../ships/scrap-vulture.md), powering up its weapons and drives. Moments later, a tight-beam transmission comes through, audio only. The voice is cold, confident, and familiar. It's [Kara "Wrench" Riker](../characters/scrap-vulture/kara-wrench-riker.md).
 >
 > *"So, you survived Rech. Impressive. I should have been more thorough. But your luck just ran out. We have your main data core. As you've probably figured out, you can't jump without it. Power down your systems and prepare to be boarded. If you resist, we will finish the job we started in that alley and vent your ship into the void. You have five minutes to comply."*
 >

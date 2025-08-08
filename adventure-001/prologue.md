@@ -14,19 +14,19 @@ Though the recipients are in different systems and not working together, the sum
 
 ---
 
-> **Subject: A Matter of Utmost Importance - Regarding Dr. Aris**
+> **Subject: A Matter of Utmost Importance - Regarding [Dr. Aris](../characters/dr-aris.md)**
 >
 > **[Recipient's Name],**
 >
-> This message serves as a formal notification from the law offices of Haskins & Associates, representing the interests of Dr. Aris.
+> This message serves as a formal notification from the law offices of Haskins & Associates, representing the interests of [Dr. Aris](../characters/dr-aris.md).
 >
 > A legal directive filed by our client includes a provision that we believe you will find to be of significant material interest. Pursuant to this directive, you have been named as a beneficiary in a transfer of assets.
 >
-> To claim this asset, your presence is required at our offices on Regina. A secured, pre-paid transport ticket has been reserved in your name. Please present this message at any licensed starport ticketing agent to claim your passage.
+> To claim this asset, your presence is required at our offices on [Regina](../systems/regina.md). A secured, pre-paid transport ticket has been reserved in your name. Please present this message at any licensed starport ticketing agent to claim your passage.
 >
 > We understand this summons may be unexpected. Be assured of its legitimacy and of the value of the asset in question. The matter is time-sensitive and requires your discretion.
 >
-> We await your arrival at our offices located in the Capital district, 87th Floor, Commerce Tower Spire, Regina.
+> We await your arrival at our offices located in the Capital district, 87th Floor, Commerce Tower Spire, [Regina](../systems/regina.md).
 >
 > Sincerely,
 >
@@ -35,15 +35,15 @@ Though the recipients are in different systems and not working together, the sum
 
 ---
 
-### Arrival on Regina
+### Arrival on [Regina](../systems/regina.md)
 
-Given the distances involved, the beneficiaries arrive on Regina at different times over several days. Upon arrival at the Regina Downport, each individual is directed to a waiting ground car, which whisks them to the opulent **Celestial Plaza Hotel** in the heart of the Capital district.
+Given the distances involved, the beneficiaries arrive on [Regina](../systems/regina.md) at different times over several days. Upon arrival at the [Regina](../systems/regina.md) Downport, each individual is directed to a waiting ground car, which whisks them to the opulent **Celestial Plaza Hotel** in the heart of the Capital district.
 
 The law firm has arranged for their accommodations. Each beneficiary is checked into a comfortable, well-appointed suite. A polite but reserved hotel concierge named **Lian** informs them that all expenses are covered and that Haskins & Associates will contact them once all parties have arrived.
 
 This provides a window of a few days for the characters to themselves, explore the city, or perhaps meet each other in the hotel's lounge.
 
-While waiting, they might visit some of Regina's famous attractions:
+While waiting, they might visit some of [Regina](../systems/regina.md)'s famous attractions:
 *   **The Museum of Imperial Endeavor:** A vast museum showcasing the technological and cultural history of the Third Imperium.
 *   **The Crystal Gardens:** A breathtaking public park where native flora are encased in massive, shimmering crystal domes, creating a surreal, glittering forest.
 *   **The Grand Concourse:** A legendary entertainment and shopping district, miles long, filled with everything from high-end boutiques to seedy, back-alley gambling dens.

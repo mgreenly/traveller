@@ -4,11 +4,11 @@
 
 > **Read Aloud:** Whether your journey was a long haul from the fringe or a short trip from an adjacent system, you've all now arrived at the law offices of Haskins & Associates. The reception area is a study in minimalist wealth—white marble, imposing furniture, and utter silence.
 >
-> A severe-looking receptionist checks your credentials, one by one, with an air of detached efficiency.  Then you all are escorted into a conference room. A lawyer in an impeccably tailored suit waits at the head of a long, polished table, a thin data-slate resting before them. They do not smile. "Thank you for coming," the lawyer begins, their voice as sterile as the room. "Please, be seated. We have much to discuss regarding a matter for our client, Dr. Aris."
+> A severe-looking receptionist checks your credentials, one by one, with an air of detached efficiency.  Then you all are escorted into a conference room. A lawyer in an impeccably tailored suit waits at the head of a long, polished table, a thin data-slate resting before them. They do not smile. "Thank you for coming," the lawyer begins, their voice as sterile as the room. "Please, be seated. We have much to discuss regarding a matter for our client, [Dr. Aris](../characters/dr-aris.md)."
 
 ### Task Chain: Dealing with Haskins & Associates
 The meeting with the lawyers is the players' first challenge. The goal is not to "win," but to extract as much information as possible. The lawyers will volunteer nothing beyond the legal minimum.
-**Baseline Outcome (Automatic Success):** The players receive the legal documents for the *Stardust Drifter* and the sealed data wafer from Dr. Aris.
+**Baseline Outcome (Automatic Success):** The players receive the legal documents for the [*Stardust Drifter*](../ships/stardust-drifter.md) and the sealed data wafer from Dr. Aris.
 
 #### Stage 1: Reading the Room (TN 8+)
 As the lawyer presents the case, players can make an **Investigate** or **Advocate** check to gauge the atmosphere.
