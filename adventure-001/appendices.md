@@ -93,8 +93,8 @@ Hidden within the data core's encrypted partition is a folder labeled "Insurance
 
 This adventure uses several modular, reusable encounters that can be found in the `/misc` directory. They are designed to be dropped into any adventure in this campaign.
 
-*   [**Starport Customs Encounter**](../misc/customs-encounter.md): A task chain for dealing with Imperial customs, with paths for honest travellers, smugglers, and those willing to offer a bribe.
-*   [**The Extra Mile Outfitters**](../misc/the-extra-mile-outfitters.md): A reliable gear shop run by a retired Scout, with options for acquiring illegal equipment.
-*   [**The Star-Hopper Inn**](../misc/the-star-hopper-inn.md): A cheap, modular motel that can serve as a base of operations or a source of low-level information.
-*   [**The Gravity Well (Dive Bar)**](../misc/the-gravity-well.md): A classic fringe dive bar, perfect for finding shady contacts and rumors.
-*   [**The Alibi (Upscale Bar)**](../misc/the-alibi.md): A high-class corporate bar, ideal for encounters with powerful and influential NPCs.
+*   [**Starport Customs Encounter**](../lore/customs-encounter.md): A task chain for dealing with Imperial customs, with paths for honest travellers, smugglers, and those willing to offer a bribe.
+*   [**The Extra Mile Outfitters**](../lore/the-extra-mile-outfitters.md): A reliable gear shop run by a retired Scout, with options for acquiring illegal equipment.
+*   [**The Star-Hopper Inn**](../lore/the-star-hopper-inn.md): A cheap, modular motel that can serve as a base of operations or a source of low-level information.
+*   [**The Gravity Well (Dive Bar)**](../lore/the-gravity-well.md): A classic fringe dive bar, perfect for finding shady contacts and rumors.
+*   [**The Alibi (Upscale Bar)**](../lore/the-alibi.md): A high-class corporate bar, ideal for encounters with powerful and influential NPCs.
