@@ -51,9 +51,8 @@ This setup uses Vim for editing and Claude Code CLI for AI assistance - no IDE r
 ### Why Docker?
 We run Claude in a containerized environment to:
 - **Sandbox operations** - Provides a safe, isolated workspace for file manipulation
-- **Live dangerously** - Allows us to skip verification steps and work more efficiently  
+- **Skip permissions checks** - Uses `--dangerously-skip-permissions` flag for faster operations in our sandboxed environment
 - **Consistent environment** - Ensures the same tooling and file system across sessions
-- **Easy reset** - Can quickly restore to a clean state if needed
 - **Complete isolation** - Nothing outside the project folder can be changed, protecting the host system
 
 ### Workflow Safety Net
