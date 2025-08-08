@@ -59,6 +59,7 @@ docker_args=(
 trap 'docker kill "claude-$$" 2>/dev/null || true' INT TERM
 
 # Run the container
+clear
 exec docker run \
     --name "claude-$$" \
     "${docker_args[@]}" \
