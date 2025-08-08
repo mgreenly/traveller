@@ -64,16 +64,23 @@ The human operator commits changes to git between Claude interactions, ensuring:
 
 This combination of Docker sandboxing and git version control allows for rapid, fearless campaign development while maintaining complete safety and reversibility.
 
-## Git Stuff
+## Git Workflow
 
-How I'm using Git
+How I'm using Git with feature branches and squash merging:
 
-- `git checkout -b wip`             # Create feature branch
-- `claude`                          # do a commit per prompt
-- `git checkout main`               # Switch to target branch
-- `git merge --squash wip`          # Merge feature into main
-- `git commit -m "the message"`     # Create the squashed commit
-- `git branch -d wip`               # Delete feature branch
+- `git checkout -b wip` / `gwip`             # Create feature branch
+- `claude`                                   # Run Claude, do work, commit per prompt
+- `git checkout main` / `gmain`              # Switch to target branch
+- `git merge --squash wip` / `gsquash`       # Merge feature into main
+- `git commit -m "message"` / `gcommit`      # Create the squashed commit
+- `git branch -d wip` / `gclean`             # Delete feature branch
+
+**Aliases available via direnv** (`.envrc` file):
+- `gwip` - Create and switch to wip branch
+- `gmain` - Switch to main branch  
+- `gsquash` - Squash merge wip into main
+- `gcommit "msg"` - Commit with message
+- `gclean` - Delete wip branch
 
 Repeat until done.
 
