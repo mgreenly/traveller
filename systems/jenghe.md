@@ -5,6 +5,7 @@
 *   **Astronomics:** Single K-class star (a cool, orange-hued star). The system has 4 planets, with Jenghe being the second. No gas giants are present.
 *   **Description:** A standard-sized, water-heavy world with a tainted, dense atmosphere. It has a good starport and a population in the hundreds of thousands.
 *   **World Type:** Medium Rocky World (11,200km diameter)
+*   **Jump Distance:** 1,120,000 km from center (100-diameter limit)
 *   **UPP (C799663-9):**
     *   **Starport:** C (Routine)
     *   **Size:** 7 (11,200km diameter)

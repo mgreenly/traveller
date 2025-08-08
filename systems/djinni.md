@@ -5,6 +5,7 @@
 *   **Astronomics:** Single G-class star (a yellow, Sol-like star). Djinni is the second of 4 planets. A dark gas giant, "Nyx," is the fourth planet.
 *   **Description:** A completely undeveloped and uninhabited world with no starport. It is a medium-sized, thin-atmosphere water world.
 *   **World Type:** Medium Rocky World (8,000km diameter)
+*   **Jump Distance:** 800,000 km from center (100-diameter limit)
 *   **UPP (X559000-0):**
     *   **Starport:** X (No Starport)
     *   **Size:** 5 (8,000km diameter)

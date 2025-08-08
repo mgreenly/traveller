@@ -5,6 +5,7 @@
 *   **Astronomics:** Single G-class star (a yellow, Sol-like star). Dinomn is the third of 6 planets. A ringed gas giant, "Chronos," is the fifth planet.
 *   **Description:** A medium-sized world with a standard atmosphere and significant landmass. It has a good starport and a population in the hundreds of thousands.
 *   **World Type:** Medium Rocky World (9,600km diameter)
+*   **Jump Distance:** 960,000 km from center (100-diameter limit)
 *   **UPP (B674632-9):**
     *   **Starport:** B (Good)
     *   **Size:** 6 (9,600km diameter)

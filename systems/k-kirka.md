@@ -5,6 +5,7 @@
 *   **Astronomics:** Single G-class star (a yellow, Sol-like star). K'Kirka is the fourth of 9 planets.
 *   **Description:** A temperate, earth-like world with a good starport. It is the designated administrative capital of the Lanth subsector.
 *   **World Type:** Medium Rocky World (9,600km diameter)
+*   **Jump Distance:** 960,000 km from center (100-diameter limit)
 *   **UPP (B677898-B):**
     *   **Starport:** B (Good)
     *   **Size:** 6 (9,600km diameter)

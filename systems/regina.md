@@ -5,6 +5,7 @@
 *   **Astronomics:** Trinary star system (a system with three stars) featuring Lusor, a G-class star (yellow, Sol-like); Speck, an M-class star (cool, red); and Darida, another M-class star. The main world, Regina, is a habitable moon orbiting the gas giant Assiniboia. The system contains 11 other planets and an asteroid belt.
 *   **Description:** A large, dense, water-rich world with a population in the billions. It boasts an excellent starport and is a major hub of activity.
 *   **World Type:** Large Rocky World (11,200km diameter moon)
+*   **Jump Distance:** 1,120,000 km from center (100-diameter limit)
 *   **UPP (A788899-C):**
     *   **Starport:** A (Excellent)
     *   **Size:** 7 (11,200km diameter)

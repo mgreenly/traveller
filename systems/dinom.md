@@ -5,6 +5,7 @@
 *   **Astronomics:** Single K-class star (a cool, orange-hued star). Dinom is the second of 5 planets. A large gas giant, "Aegis," is the fifth planet.
 *   **Description:** A small, airless rock with a population in the tens of thousands. The starport is poor, suggesting it's a mining outpost or a research station.
 *   **World Type:** Small Rocky World (4,800km diameter)
+*   **Jump Distance:** 480,000 km from center (100-diameter limit)
 *   **UPP (D300535-A):**
     *   **Starport:** D (Poor)
     *   **Size:** 3 (4,800km diameter)
