@@ -4,6 +4,7 @@
 *   **Coordinates:** 2011
 *   **Astronomics:** Single F-class star (a hot, yellow-white star). Wypoc is the fourth of 7 planets. A massive gas giant, "Goliath," is the sixth planet.
 *   **Description:** A large world with a frontier starport and an exotic, unbreathable atmosphere (high argon content). The population is small, and the government is a representative democracy.
+*   **World Type:** Large Rocky World (14,400km diameter)
 *   **UPP (E9C4547-9):**
     *   **Starport:** E (Frontier)
     *   **Size:** 9 (14,400km diameter)

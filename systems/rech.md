@@ -4,6 +4,7 @@
 *   **Coordinates:** 2112
 *   **Astronomics:** Single G-class star (a yellow, Sol-like star). Rech is the third of 8 planets. A stormy gas giant, "Maelstrom," is the sixth planet.
 *   **Description:** A large, tainted world with a population in the millions but a poor starport. The most notable feature is its state of anarchy.
+*   **World Type:** Large Rocky World (14,400km diameter)
 *   **UPP (D9957AA-6):**
     *   **Starport:** D (Poor)
     *   **Size:** 9 (14,400km diameter)
