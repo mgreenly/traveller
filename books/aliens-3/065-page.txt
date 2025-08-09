@@ -1,0 +1,178 @@
+T
+
+R
+
+Darrian battle dress is designed to mount mission
+specific modules in the form of backpack units. Only
+one module at a time can be attached although they
+have self-contained power systems. These modules
+uniformly weigh 15 kilograms each (3 kilograms when
+supported by armour) but have different configurations
+based on function.
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Anti-Armour Module
+
+15
+
+15
+
+Not Available
+
+Anti-Personnel: The standard weapons unit is a VRF
+gauss rifle with backpack mounted ammunition storage,
+carrying the equivalent of 20 magazines. Due to the
+mitten-like armour of Darrian battle dress gauntlets, the
+gun has no external firing mechanism, relying instead
+on the suit’s internal finger sensors as triggers or the
+onboard computer to fire.
+
+Anti-Personnel Module 15
+
+CSC: Darrian
+
+Item
+
+TL
+
+Kg Cost
+
+Command Module
+
+15
+
+15
+
+Electronics Warfare Module 15
+
+66
+
+Not Available
+
+Electronics Warfare: Provides ECM/ECCM coverage
+to jam or monitor enemy signals, filling the wavelengths
+with incomprehensible noise within a radius of 50
+kilometres for radio communication and 5 kilometres for
+tight beam laser communication. The module also has
+a meson communicator capable of ranges up to 500
+kilometres that cannot be jammed.
+TL
+
+L
+
+E
+
+Electronics Suites
+
+15
+
+Advanced Holographic Camera,
+Atmosphere Tester, Computer/6
+(hardened), Eye Protection, Geiger
+Counter, Improved Neural Activity Detector,
+IR Goggles, Light Intensifier Goggles,
+Motion Sensor, NBC Combination Analysis
+Unit, PRIS Binoculars, Radio Transceiver
+(5,000km range), Scope, Surveillance
+Radar (5km range)
+
+16
+
+Advanced Holographic Camera,
+Atmosphere Tester, Bioscanner,
+Computer/8, Eye Protection, Geiger
+Counter, Improved Neural Activity Detector,
+IR Goggles, Light Intensifier Goggles,
+Motion Sensor, NBC Combination Analysis
+Unit, PRIS Binoculars, Radio Transceiver
+(10,000km range), Scope, Surveillance
+Radar (10km range)
+
+Not Available
+
+Command: Command modules incorporate a
+comprehensive tactical relay network hub, allowing a
+commander to share benefits of their Tactics checks
+with a unit in communications range, and commandassist computer software. This equipment provides
+DM+1 to all Tactics (military) checks. The transmitters
+and bulky battlefield C&C computers take up the entire
+available volume of the module.
+
+Item
+
+L
+
+TL
+
+Kg Cost
+15
+
+E
+
+All Darrian battle dress comes equipped with
+the electronics suites shown here, appropriate
+to Tech Level.
+
+Anti-Armour: Heavy support uses the FGMP (TL15) with
+similar internal firing mechanisms as the VRF gauss rifle.
+
+TL
+
+V
+
+EQUIPMENT SLOTS
+
+BATTLE DRESS MODIFICATIONS
+
+Item
+
+A
+
+Kg Cost
+15
+
+Not Available
+
+Air Suppression: An air defence module containing an
+advanced anti-missile laser system, which is tied into
+the suit’s sensor system for target identification. This
+allows the Traveller to ignore all negative DMs incurred
+for attacking a fast moving target. The module is also
+equipped with a rocket pod or heavy rocket pod (see
+page 133 of the Central Supply Catalogue).
+Item
+
+TL
+
+Kg Cost
+
+Air Suppression Module
+
+15
+
+15
+
+Not Available
+
+SURVIVAL GEAR
+Darrians have a number of devices designed to enable
+them to survive on worlds outside the Confederation.
+Exoskeleton: These ubiquitous devices are used
+by Darrians travelling to worlds with a Size of two or
+more above their homeworld, until their physiology
+can adapt. The exoskeleton supports their fragile bone
+structure against the rigours of higher gravity, providing
+additional strength to pick up objects that weigh more
+in higher gravity environments, adding STR+2 for the
+purposes of lifting objects only.
+
+R
+
+

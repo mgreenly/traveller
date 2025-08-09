@@ -1,0 +1,167 @@
+T
+
+4
+
+R
+
+A
+
+V
+
+Cavalry
+Infantry
+Support
+
+ASSIGNMENTS
+
+Skills and training
+
+Choose one of the following:
+Cavalry: You pilot the heavy armoured vehicles of the
+Confederation, such as APCs and main battle tanks. You exalt in
+the feel of hundreds of tons of war machine smashing through the
+landscape and delight in firing mounted weapons.
+Infantry: You are the elite foot soldiers wearing battle dress and armed
+with support weapons. You hit hard using overwhelming firepower and
+advanced technology to beat enemy troops at their own game.
+Support: You provide artillery fire support, demolitions and
+combat engineering to the armoured infantry and cavalry. When
+things break, you fix that too.
+
+Darrian Travellers
+
+L
+
+E
+
+Career progress
+
+Qualification: STR 6+
+DM-1 for every previous career
+Commission: INT 8+
+
+46
+
+L
+
+Guard
+
+Members of this career protect the worlds of the Confederation.
+
+4
+
+E
+
+SURVIVAL
+END 6+
+END 6+
+END 7+
+
+ADVANCEMENT
+EDU 6+
+EDU 7+
+EDU 5+
+
+Mustering out benefits
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+BENEFITS
+Cr5000
+INT +1
+Cr5000
+END +1
+Cr10000 EDU +1
+Cr10000 Weapon
+Cr20000 Armour
+Cr50000 Vehicle
+Cr100000 Weapon
+
+ADVANCED EDUCATION
+(MIN. EDU 8)
+Tactics (military)
+Leadership
+Advocate
+Diplomat
+Electronics
+Admin
+
+OFFICER
+(COMMISSIONED ONLY)
+Electronics (comms)
+Electronics (computers)
+Leadership
+Navigation
+Electronics (sensors)
+Tactics (military)
+
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Athletics
+Gun Combat
+Melee
+
+SERVICE SKILLS
+Athletics
+Vacc Suit
+Gun Combat
+Heavy Weapons
+Melee
+Recon
+
+1D
+1
+2
+3
+4
+
+CAVALRY
+Electronics (comms)
+Flyer
+Engineer
+Heavy Weapons
+(vehicle)
+Mechanic
+Electronics (sensors)
+
+INFANTRY
+Vacc Suit
+Gun Combat
+Heavy Weapons (man portable)
+Heavy Weapons (artillery)
+
+SUPPORT
+Vacc Suit
+Electronics (comms)
+Engineer
+Explosives
+
+Recon
+Stealth
+
+Heavy Weapons (artillery or man portable)
+Medic
+
+5
+6
+
+R
+
+

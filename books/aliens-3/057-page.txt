@@ -1,0 +1,194 @@
+T
+
+10
+
+R
+
+Worker
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Career progress
+
+The backbone of the Confederation, building and working in the
+bureaucracies and infrastructures that run worlds.
+
+SURVIVAL
+Bureaucratic INT 5+
+Corporate
+SOC 6+
+Industrial
+END 7+
+
+ADVANCEMENT
+SOC 7+
+INT 6+
+EDU 5+
+
+Qualification: EDU 5+
+DM-1 for every previous career
+
+Mustering out benefits
+
+ASSIGNMENTS
+
+Mishaps
+
+Darrian Travellers
+
+10
+
+Skills and training
+
+Choose one of the following:
+Bureaucratic: You are employed by your planetary government
+to perform the jobs required to allow society to function, from
+maintenance of infrastructure to population administration.
+Corporate: You work as part of a business designed to earn profit
+by selling products or services. Work can vary between working on
+the shop floor to management of company finances or resources.
+Industrial: You labour for companies that mine, manufacture,
+process, build or destroy things. Employment can range between
+driving heavy machinery to the conceptual design of new methods.
+
+6
+7
+8
+
+CASH
+Cr1000
+Cr5000
+Cr10000
+Cr20000
+Cr30000
+
+BENEFITS
+EDU +1
+INT +1
+Ally
+Vehicle
+Passage to anywhere
+in the Confederation
+Cr50000 Passage to anywhere in
+a neighbouring sector
+Cr80000 Ship Share
+Cr100000 Two Ship Shares
+
+1D
+1
+2
+3
+4
+
+PERSONAL DEVELOPMENT
+EDU +1
+INT +1
+Carouse
+Gamble
+
+SERVICE SKILLS
+Admin
+Electronics (computers)
+Drive
+Flyer
+
+5
+6
+
+Drive
+Profession
+
+Persuade
+Steward
+
+1D
+1
+2
+3
+4
+5
+6
+
+BUREAUCRATIC
+Admin
+Advocate
+Diplomat
+Leadership
+Persuade
+Streetwise
+
+CORPORATE
+Admin
+Broker
+Diplomat
+Leadership
+Persuade
+Profession
+
+1D
+1
+
+MISHAP
+Injured. Roll on the Injury table.
+
+2
+
+A family member or lover is killed in an accident. You fall apart and begin to act strangely.
+
+3
+
+A shift in office politics ruins your career. Lose SOC -1.
+
+4
+
+Excess stress takes its toll. Lose END -1.
+
+5
+
+You are framed by a rival and although later proven innocent, the disgrace had already ended your
+career. Gain a Rival.
+Your company’s fortunes decline. You may continue in this career if you wish but will gain no
+Benefit rolls this term or next.
+
+6
+
+58
+
+1D
+1
+2
+3
+4
+5
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Advocate
+Engineer
+Electronics (computers)
+Science (biology, cybernetics, genetics
+or psionicology)
+Science (chemistry, electronics and physics)
+Science (archaeology, economics,
+history, linguistics, philosophy,
+psychology or sophontology)
+INDUSTRIAL
+Admin
+Drive
+Mechanic
+Engineer
+Flyer
+Science (chemistry, electronics or physics)
+
+R
+
+

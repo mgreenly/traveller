@@ -1,0 +1,55 @@
+VARGR LIFE EVENTS
+
+The life events of a Vargr Traveller are similar to those of a human, with the addition of pack events. The pack is an
+important part of a Vargr’s life and events that affect the pack will often impact on the character.
+
+Life Events
+2D
+2
+3
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+204
+
+Event
+Sickness or Injury: You are injured or sick. Roll on the Injury table.
+Birth or Death: Someone close to you dies, such as a friend or pack member. Alternatively, someone
+close to you gives birth (or is born!). You are involved in some fashion (father or mother, pack member
+or similar).
+Ending of Relationship: A romantic relationship involving you ends. Roll 1D. On a 1–2 your mate is killed.
+On a 3–4 your mate leaves you. On a 5–6 you leave your mate.
+New Relationship: You become romantically involved with an existing Ally, Contact, another Traveller or
+pack member.
+Pack Event: Roll on the Pack Event table. Travellers not currently in a pack roll CHA 7+ to join a pack or
+gain a new Rival instead.
+New Contact: You gain a new Contact.
+Pack Event: Roll on the Pack Event table. Travellers not currently in a pack roll CHA 7+ to join a pack or
+gain a new Ally instead.
+Travel: You move to another world. You gain DM+2 to your next Qualification roll.
+Good Fortune: Something good happens to you; you come into money unexpectedly, have a lifelong dream
+come true or another stroke of good fortune. Gain a Benefit roll in your current career or gain CHA +1.
+Crime: You commit a crime or are accused of a crime. Lose CHA –1.
+Unusual Event: Something weird. Roll 1D:
+1. Psionics: You have an encounter with a psionic phenomenon, such as a human psionic institute,
+Zhodani agent or alien entity. You may immediately test your Psionic Strength and, if you qualify, take
+the Psion career in your next term.
+2. Aliens: You spent a long time amongst an alien race. Gain Language or Science 1 and a Contact from
+that race.
+3. Alien artefact: You come into possession of a curious piece of alien technology or an archaeological
+relic.
+4. Amnesia: There is a hole in your mind.
+5. Contact with government: Your pack became well known and had dealings with a government leader.
+Gain CHA +1.
+6. Ancient technology: You have an item believed to be left behind by the Ancients when they first
+brought the Vargr to Lair.
+
+

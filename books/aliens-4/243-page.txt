@@ -1,0 +1,217 @@
+TORPEDO BOAT
+
+CLASS: VATHA
+altered armament, the Vatha has proven to be very
+popular despite it not being as useful in performing
+customs or pirate patrols. Instead, it is an effective
+combatant used against larger craft.
+
+Built on the same hull as the Grathriss-class
+gunboat, the Vatha replaces the particle barbette
+with a torpedo barbette and appropriated some of
+the cargo space for a torpedo magazine. A slightly
+cheaper vessel than its sister ship due to the
+
+TL12
+
+Tons Cost (MCr)
+
+Crew
+Pilot, Gunner
+
+100 tons, Streamlined
+
+—
+
+6
+
+Reinforced Hull
+
+—
+
+3
+
+Aerofins
+
+5
+
+0.5
+
+Armour
+
+Titanium Steel, Armour: 9
+
+22.5
+
+1.125
+
+Thrust 6
+
+6
+
+Running Costs
+
+M-Drive
+
+12
+
+Fusion (TL12), Power 90
+
+6
+
+6
+
+MAINTENANCE COST
+
+Power Plant
+Fuel Tanks
+
+12 weeks of operation
+
+3
+
+—
+
+10
+
+0.5
+
+Hull
+
+Bridge
+Computer
+
+Computer/20fib
+
+—
+
+7.5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Torpedo Barbette
+
+5
+
+3
+
+Ammunition Torpedo Storage (21 torpedoes)
+
+7
+
+—
+
+Systems
+
+Armoured Bulkheads (bridge)
+
+1
+
+0.2
+
+Armoured Bulkheads(manoeuvre drive)
+
+0.6
+
+0.12
+
+Armoured Bulkheads (powerplant)
+
+0.6
+
+0.12
+
+Armoured Bulkheads (sensors)
+
+0.3
+
+0.06
+
+Fuel Scoop
+
+—
+
+—
+
+Staterooms
+
+Standard x2
+
+8
+
+1
+
+Software
+
+Evade/1
+
+—
+
+1
+
+Fire Control/1
+
+—
+
+2
+
+Intellect
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+Common
+Areas
+
+2
+
+0.2
+
+Cargo
+
+20
+
+—
+
+Hull: 44
+
+Cr4052/month
+PURCHASE COST
+MCr48.625
+
+Power Requirements
+Basic Ship Systems
+20
+Manoeuvre Drive
+60
+Sensors
+4
+Weapons
+2
+
+Total: MCr48.625
+
+243
+
+

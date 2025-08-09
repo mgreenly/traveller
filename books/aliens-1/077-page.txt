@@ -1,0 +1,15 @@
+1
+
+DECK 2
+
+2
+
+DECK 1
+
+LEGEND
+1. Cargo hold
+2. Docking space
+
+77
+
+

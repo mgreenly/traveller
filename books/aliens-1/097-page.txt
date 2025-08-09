@@ -1,0 +1,68 @@
+880
+HULL POINTS
+
+CREW
+CAPTAIN, PILOT, ASTROGATOR,
+PURSER, EXECUTIVE OFFICER, OFFICERS
+X 18, PILOTS X 2, ENGINEERS X 5,
+MAINTENANCE X 4, GUNNERS X 18,
+MARINES X 160
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr71,429/month
+
+PURCHASE COST
+MCr857.15
+
+Power Requirements
+600
+
+400
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+600
+
+4
+
+JUMP DRIVE
+
+SENSORS
+
+218
+
+6
+
+WEAPONS
+
+FUEL PROCESSOR
+
+These heavy carriers are designed for
+invasions and open wars. If a Sakhai
+appears in the skies over a world, then it
+will be under the claw in a matter of days.
+The Sakhai’s distinctive ‘horseshoe’ profile
+allows its batteries of beam lasers and
+missile racks to rake targets on either side,
+while protecting the mighty fusion bay
+mounted in the centre. It can carry 160
+marines in addition to its normal 40-person
+crew; there are another 200 low berths for
+frozen troops or captives.
+While the Sakhai is capable of landing
+on a planet, it takes a skilled hand at the
+controls and a dedicated team of engineers
+to keep the ship spaceworthy after
+touching down. A bad landing can warp the
+ship’s dorsal struts, effectively crippling
+it. Many far flung Aslan outposts have a
+downed Sakhai at their hearts.
+
+97
+
+

@@ -1,0 +1,304 @@
+TL15
+Hull
+
+TONS COST (MCr)
+3,000 tons, Close Structure
+
+—
+
+60
+
+Reinforced Hull
+
+Captain, Pilots x3,
+Astrogator,
+Engineers x23,
+Maintenance x6,
+Medic, Gunners x16,
+Administration x3,
+Officers x5,
+Marines x35
+
+Armour
+
+Bonded Superdense, Armour: 4
+
+144
+
+72
+
+M-Drive
+
+Thrust 7 (size reduction x2)
+
+168
+
+525
+
+J-Drive
+
+Jump 4 (size reduction x2)
+
+244
+
+571.88
+
+Power Plant
+
+Fusion (TL15), Power 4,020
+
+201
+
+402
+
+Fuel Tanks
+
+J-4, 8 weeks operation
+
+1,242
+
+—
+
+Bridge
+
+Holographic Controls
+
+60
+
+18.75
+
+Computer
+
+Computer 35/fib
+
+—
+
+45
+
+Sensors
+
+Advanced
+
+5
+
+5.3
+
+Enhanced Signal Processing
+
+2
+
+8
+
+Running Costs
+
+Military Countermeasures Suite
+
+15
+
+28
+
+MAINTENANCE COST
+
+Sensor Stations x4
+
+4
+
+2
+
+Cr159867.75/month
+
+Medium Missile Bay
+
+100
+
+25
+
+PURCHASE COST
+
+Triple Turrets (accurate, high
+yield beam lasers) x7
+
+7
+
+22.75
+
+MCr1918.413
+
+Ammunition
+
+Missile Storage (4322 Missiles)
+
+36
+
+—
+
+Armoured
+Bulkheads
+
+Jump Drive, Manoeuvre Drive,
+Power Plant, Bridge
+
+86.8
+
+17.36
+
+Systems
+
+Armoury
+
+10
+
+2.5
+
+Weapons
+
+Staterooms
+
+Briefing Room x2
+
+8
+
+1
+
+Brig
+
+12
+
+0.75
+
+Docking Space (85 tons)
+
+94
+
+23.5
+
+Pinnace
+
+—
+
+8.712
+
+Boarding Pods x3
+
+—
+
+83.943
+
+Repair Drones
+
+30
+
+6
+
+Fuel Processor (2,520 tons/day) 126
+
+6.3
+
+Fuel Scoop
+
+—
+
+1
+
+Medical Bay
+
+12
+
+6
+
+Standard x38
+
+152
+
+19
+
+Barracks x35
+
+70
+
+1.75
+
+55
+
+5.5
+
+Auto-Repair/2
+
+—
+
+10
+
+Electronic Warfare/2
+
+—
+
+18
+
+Evade/2
+
+—
+
+2
+
+Jump Control/4
+
+—
+
+0.4
+
+Launch Solution/3
+
+—
+
+16
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+12.2
+
+—
+
+Common Areas
+Software
+
+Cargo
+
+152
+
+120
+
+Crew
+
+Hull: 1,452
+
+Power Requirements
+Basic Ship Systems
+600
+Manoeuvre Drive
+2,100
+Jump Drive
+1,200
+Sensors
+10
+Weapons
+101
+Fuel Processor
+126
+
+

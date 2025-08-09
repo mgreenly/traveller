@@ -1,0 +1,127 @@
+VEHICLES OF THE DARRIANS
+Before the Maghiz, most Darrian transport was via grav
+vehicle. After the disaster, cruder forms of transport were
+briefly utilised. With their recovery, Darrians have once
+again embraced gravitics, this time incorporating wings and
+lifting surfaces to provide gliding capability in case of failure.
+Ground vehicles are nearly unheard of – there being
+little or no surface infrastructure for them to run
+on. A few exceptions do exist but they are mainly
+recreational vehicles.
+
+NEW GRAV VEHICLE OPTIONS
+The following new options are available for grav vehicles.
+
+LIFTING SURFACE
+
+Grav vehicles can be built with lifting surfaces that, in
+the event of a power failure, allow the vehicle to glide to
+the ground in the hopes of finding a safe landing area.
+Tech Level: 8
+Cost per Space: +Cr3000
+Shipping: +25%
+
+VARIABLE LIFTING SURFACE
+
+Using a variety of high-tech options, the variable lifting
+surface not only deploys during a power failure to
+improve the chances of a safe landing but is able to
+reconfigure during flight to improve the aerodynamics
+of the grav vehicle, improving agility and speed.
+Tech Level: 9
+Agility: +1
+Cost per Space: +Cr40000
+Speed: +1 Speed Band
+Shipping: +10%
+
+MONOCYCLE
+This odd-looking form of transport resembles a circular
+disk standing on its edge, about two and half metres in
+diameter with a central faring bubble where the driver
+sits. The outer edge is a tire about 30 centimetres wide,
+formed from dozens of compartmental sections and
+rotated by hidden drive wheels around the circumference.
+The monocycle maintains upright stability with
+gyroscopes, which also allow it to lean into tight corners.
+Designed as an off-road vehicle, the size of the wheel
+combined with a suspension system which reactively
+increases or lowers the pressure of each tire segment,
+grants a smooth ride except over the most rugged terrain.
+TL
+
+10
+
+SKILL
+
+Drive (wheel)
+
+AGILITY
+
++4
+
+SPEED (CRUISE)
+
+Fast (High)
+
+RANGE (CRUISE) 500 (750)
+CREW
+
+1
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+2
+
+SHIPPING
+
+0.5 tons
+
+COST
+
+Cr27000
+
+ARMOUR
+FRONT 2
+Traits
+Equipment
+
+REAR
+
+2
+
+SIDES
+
+2
+
+Off-roader
+Control System (basic),
+Communications System (basic),
+Monowheel, Sensor System (basic),
+Smart Wheels
+
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+—
+50km
++1
++1
+—
+—
+
+71
+
+

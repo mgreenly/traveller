@@ -1,0 +1,22 @@
+3
+
+4
+DECK 4
+
+6
+
+5
+
+7
+DECK 3
+
+78
+
+LEGEND
+3. Low berths
+4. Staterooms
+5. Power plant
+6. M-drive
+7. J-drive
+
+

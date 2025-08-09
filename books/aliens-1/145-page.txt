@@ -1,0 +1,87 @@
+A11/58231
+
+WEAPONS CARRIER INTERFACE
+
+An interface unit can be worn separately or built into a
+standard battle helmet or other headgear, providing a headsup display that overlays data from the unit’s weapons carriers.
+The interface unit does not allow control of the carriers.
+Unit
+Weapons Carrier
+Interface
+
+A11/58231
+
+TL
+10
+
+Kg
+—
+
+Cost
+Cr100
+
+WEAPONS CARRIER
+COMMAND UNIT
+
+The command unit allows control of a group of weapons
+carriers tied into its net and dissemination of data from their
+sensors. A command unit also includes pre-set commands,
+including orders to rally at a pre-arranged point, to defend
+a position until destroyed or go head-on at the enemy and
+cause as much damage as possible before being destroyed.
+Some nobles pre-set their carriers to make a final stand over
+their body if they fall in combat. A noble’s unit will override
+commands from a mere Merchant caste handler.
+Unit
+Weapons Carrier
+Command Unit
+
+A11/58231
+
+TL
+10
+
+Kg
+1
+
+Cost
+Cr1000
+
+FRIEND-OF-THE-LOWLY
+
+The Friend is the most basic of standard K’kree weapons
+carriers, using the same ovoid body shape as most others,
+with a laser rifle along the main axis. The unit is neither agile
+nor quick and cannot keep up with a band of charging K’kree
+if firing at the same time but does provide accurate light fire
+support on the move. Internal fuel cells provide an effectively
+infinite number of shots but movement rate is halved while
+the weapon is fired. The Friend has only basic visual and
+thermal sensors.
+
+ROBOT
+Friend-of-theLowly
+
+HITS
+20
+
+SPEED
+12m
+
+TL
+10
+
+COST
+Cr25000
+
+SKILLS
+Gun Combat 0, Recon 0
+ATTACKS
+Laser Rifle (5D)
+TRAITS
+Armour (+12)
+PROGRAMMING Hunter/Killer
+
+145
+
+

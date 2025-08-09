@@ -1,0 +1,167 @@
+ASLAN ASSAULT GRAV TANK
+120
+
+SI DE S
+
+110
+
+RE AR
+
+60
+
+TOP/BOTTOM
+
+100/ 100
+
+YS T
+ST
+
+EM
+
+FU
+
+Autopilot (skill level) 1
+Communications 1,0000
+(range) km
+Navigation
+(Navigation DM) +4
+Sensors (Electronics
+(sensors) DM) +4
+Camouflage (Recon
+DM) –4
+Stealth (Electronics
+(sensors) DM) –
+
+AUTOCANN
+
+G U N- Y
+
+M
+U
+
+MED
+I
+
+ANTI-MI
+
+E
+
+F RON T
+
+ON
+SI
+
+SS
+IL
+
+ARMOUR
+
+WEAPONS
+
+TL
+SKILL
+AGILITY
+SPEED (CRUISE)
+
+14
+FLYER (GRAV)
+–1
+HIGH
+
+RANGE (CRUISE)
+CREW
+PASSENGERS
+CARGO
+HULL
+SHIPPING
+COST
+
+100 YEARS
+3
+—
+—
+
+165
+30 TONS
+MCR31.8
+
+ON
+
+Large Turret (fusion gun-y x 2, advanced fire control)
+Small Turret (medium autocannon, enhanced fire control)
+Anti-missile System (advanced laser)
+
+EQUIPMENT
+
+TRAITS
+
+Airlock, Autopilot (advanced), Camouflage (advanced), Communications (advanced,
+encryption, meson communicator, satellite uplink, tightbeam), Computer /5, Control System
+(advanced), Electronic Countermeasures (advanced), Electrostatic Armour, Fire Extinguishers,
+Fusion Plant (advanced), Life Support (short term), Navigation System (advanced), Sensor
+System (advanced, hardened, sensor mast), Vacuum Protection
+
+WEAPON
+
+RANGE DAMAGE MAGAZINE
+
+MAGAZINE COST TRAITS
+
+FIRE CONTROL
+
+Fusion Gun-Y
+
+5
+
+3DD+3
+
+—
+
+—
+
+AP20, Blast 20, Radiation
+
+DM+4
+
+Medium Autocannon 1
+
+8D
+
+100
+
+Cr1500
+
+Auto 3
+
+DM+3
+
+Anti-missile System
+
+2D
+
+—
+
+—
+
+Auto 4
+
+—
+
+1
+
+DESCRIPTION
+The Khtachwel assault grav tank exemplifies
+Aslan fighting techniques. The tank is larger
+and heavier than comparable human designs
+and has a crew of three – a male commander/
+gunner, a male driver and a female engineer/
+comms officer. The main armament is a heavy
+turret containing a dual fusion gun system and
+the tank also mounts a medium autocannon to
+deal with infantry and light vehicles.
+
+66
+
+AFV
+
+

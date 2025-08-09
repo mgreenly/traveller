@@ -1,0 +1,169 @@
+CARAPACE SKIN
+
+Through a short series of genetic treatments, the
+epidermal layer of the recipient hardens and knits
+together tightly, forming a protective layer which
+acts as a form of light armour. Once the process
+is complete, the Traveller’s skin provides similar
+protection to jack armour. Additional armour can
+be worn over the carapace skin, adding together
+their protection values. The process comes with the
+disadvantage of reducing the recipient’s sense of
+touch, resulting in DM-1 to any checks involving tactile
+senses. The skin of those who undertake the process
+feels stiff and tough to the touch, making it detectable
+to those with knowledge of the augment.
+
+Carapace
+Skin
+
+The protection afforded by carapace skin increases at
+higher Tech Levels. Multiple treatments supersede the
+previous protection value with the new one.
+ARMOUR TYPE
+
+PROTECTION
+
+TL
+
+RAD
+
+KG
+
+COST
+
+REQUIRED SKILL
+
+Carapace Skin
+
++1
+
+9
+
+0
+
+—
+
+Cr75000
+
+—
+
+Carapace Skin
+
++2
+
+10
+
+0
+
+—
+
+Cr150000
+
+—
+
+Carapace Skin
+
++3
+
+12
+
+0
+
+—
+
+Cr375000
+
+—
+
+Carapace Skin
+
++5
+
+14
+
+0
+
+—
+
+Cr750000
+
+—
+
+Carapace Skin
+
++7
+
+15
+
+0
+
+—
+
+MCr1.875
+
+—
+
+LIGHT FILTER SYMBIONT
+
+Light filter symbionts look like clear contact lenses
+which when applied to the eyes automatically polarise,
+thus acting like sunglasses. They remove any penalties
+gained from being exposed to bright light by one. The
+symbiont gains nutrition directly from the fluid in the
+eye. Light filter symbionts have a life span of 10 years,
+after which they die and drop out of the eyes. Only one
+pair of light filter symbionts can be worn at a time.
+
+At TL13, the symbiont reduces penalties gained
+from bright lights by three and low light by two. For a
+small additional charge, light filter symbionts can also
+change the wearer’s iris colour.
+
+TL
+
+Kg
+
+Cost
+
+Light Filter Symbiont
+
+9
+
+—
+
+Cr3000
+
+Light Filter Symbiont
+
+11
+
+—
+
+Cr6000
+
+Light Filter Symbiont
+
+13
+
+—
+
+Cr120000
+
+Light Filter
+Symbiont
+
+CSC: SueRrat
+
+At TL11, the light filter symbiont reduces penalties
+gained from bright light by two and operate as light
+intensifiers, reducing all penalty DMs from low
+light by one if there is some light present. When
+operating in this fashion, the host’s eyes glow
+yellow-green or yellow-orange.
+
+Item
+
+55
+
+

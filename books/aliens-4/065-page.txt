@@ -1,0 +1,284 @@
+SRSF PATROL CORVETTE
+Built on a 500-ton hull, the SRSF patrol corvette
+resembles a broad Type-T patrol corvette. The
+extra displacement allows the addition of a missile
+barbette which significantly increases the vessel’s
+threat potential. Used to patrol Suerrat Cultural
+
+TL15
+
+Region space, the patrol corvette serves as an
+excellent deterrent to pirates and contraband
+smugglers alike. The additional gig auxiliary
+craft gives the vessel additional versatility in
+performing its assignments.
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+500 tons, Streamlined
+
+—
+
+30
+
+Reinforced Hull
+
+—
+
+15
+
+Armour
+
+Bonded Superdense, Armour: 8
+
+32
+
+16
+
+M-Drive
+
+Thrust 5
+
+25
+
+50
+
+J-Drive
+
+Jump 3
+
+42.5
+
+63.75
+
+Power Plant
+
+Fusion (TL15), Power 580
+
+29
+
+58
+
+Fuel Tanks
+
+J-3, 8 weeks operation
+
+156
+
+—
+
+Bridge
+
+Holographic Controls
+
+20
+
+3.125
+
+Computer
+
+Computer/15fib
+
+—
+
+3
+
+MAINTENANCE COST
+
+Sensors
+
+Advanced
+
+5
+
+5.3
+
+Cr24731/month
+
+Enhanced Signal Processing
+
+2
+
+8
+
+PURCHASE COST
+
+Double Turret (beam lasers) x2
+
+2
+
+3
+
+MCr296.775
+
+Double Turret (pulse lasers) x2
+
+2
+
+5
+
+Missile Barbette
+
+5
+
+4
+
+Ammunition Missile Storage (100 missiles)
+
+8.3
+
+Power Requirements
+
+—
+
+Basic Ship Systems
+
+Craft
+
+Docking Space (20 tons)
+
+22
+
+5.5
+
+100
+
+Military Gig
+
+—
+
+15.187
+
+Manoeuvre Drive
+
+Armoury
+
+3
+
+0.75
+
+250
+
+Breaching Tube
+
+3
+
+3
+
+Brig
+
+4
+
+0.25
+
+Jump Drive
+
+Deep Penetration Scanners (200
+tons/hr)
+
+10
+
+10
+
+Fuel Scoop
+
+—
+
+—
+
+Fuel Processor (320 tons/day)
+
+16
+
+0.8
+
+Staterooms
+
+Standard x15
+
+60
+
+7.5
+
+Software
+
+Evade/1
+
+—
+
+1
+
+Fire Control/1
+
+—
+
+2
+
+Intellect
+
+—
+
+—
+
+Jump Control/3
+
+—
+
+0.3
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+15
+
+1.5
+
+31.8
+
+—
+
+Hull
+
+Weapons
+
+Systems
+
+Common
+Areas
+Cargo
+
+Captain, Pilots x3,
+Small Craft Pilot,
+Astrogator, Engineers
+x2, Maintenance,
+Gunners x10, Officer
+
+Hull: 220
+Running Costs
+
+150
+Sensors
+18
+Weapons
+36
+Fuel Processor
+16
+
+Total: MCr296.775
+
+65
+
+

@@ -1,0 +1,119 @@
+Systems
+
+Staterooms
+
+Medical Bay x2
+
+8
+
+4
+
+Training Facilities
+
+20
+
+4
+
+Workshop x5
+
+30
+
+4.5
+
+Standard x40
+
+160
+
+20
+
+Barracks (20 passengers)
+
+40
+
+2
+
+43
+
+4.3
+
+Mud Bath
+
+16
+
+2
+
+Advanced Fire Control/2
+
+—
+
+15
+
+Anti-Hijack/3
+
+—
+
+10
+
+Auto-Repair/2
+
+—
+
+10
+
+Broad Spectrum EW
+
+—
+
+14
+
+Electronic Warfare/2
+
+—
+
+18
+
+Evade/1
+
+—
+
+1
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Point Defence/2
+
+—
+
+12
+
+Intellect
+
+—
+
+—
+
+121.9
+
+—
+
+Common Area
+Software
+
+Cargo
+
+Eaaetatka-Ka
+Class Monitor
+
+282
+
+

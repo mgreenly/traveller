@@ -1,0 +1,147 @@
+DROYNE BENEFITS
+
+Droyne do not leave their career in the normal manner
+of Travellers. Typically, a Droyne Traveller will have left
+their Oytrip – essentially their whole life and culture –
+behind to become an adventurer. Their end of service
+‘benefits’ represent what the Droyne Traveller took with
+them rather than anything given to them. The luckiest
+might happen to be in possession of a starship when
+events cause them to part ways with the Oytrip. Others
+have little more than the tools of their caste with which
+to make their way in the wider universe.
+Coyns: The Droyne is in possession of a set of 36 coyns
+suitable for use in a variety of rituals and predictions.
+These are likely to be stamped discs of industrial or
+precious metal – copper, steel or gold – with the set
+having a value of Cr2Dx200 to a collector. However, A
+Droyne will not willingly part with their coyns for any
+amount of money. If the Droyne succeeds at a Difficult
+(10+) PSI check, their coyns are more significant. They
+may not be made from any more precious material
+but have been associated with an important ritual or
+individual. Collectors might pay tens of thousands
+of Credits for such a set if only the Droyne could be
+convinced to part with them. Since that is impossible,
+the coyns may make the Droyne a target and lead
+to adventures. If so, a successful Prediction check,
+accompanied by a suitable ritual, might reveal the fate
+of the coyn set.
+Ship: The Droyne Traveller is in possession of a small
+starship. The type is up to the Referee but it is likely
+to be a personal transport or similar vessel unless the
+Droyne was in command of a larger ship at the time they
+left the Oytrip. The status of this vessel is nebulous; it
+was never formally given to the departing Droyne but an
+attempt to repossess it through outsider authorities is
+highly unlikely. Most starport officials have no idea what
+Droyne ship’s papers are supposed to look like, so even
+if they are requested it is probable they will be taken at
+face value.
+
+The Oytrip, if it still exists, may attempt to get its ship
+back but this is by no means certain. Depending on the
+events that led to the ship’s operator leaving the Oytrip,
+the vessel may be effectively written off along with
+anyone aboard it. The Oytrip would probably attempt to
+repossess the vessel if the operator were foolish enough
+to land in their territory.
+Tool Kit: A Droyne may be able to take the tools of their
+caste with them. For example, Technicians might have
+electronics or engineering tool kits (see page 113 of the
+Traveller Core Rulebook).
+Wings: The Droyne has a mechanical wing set.
+Subsequent receipt of this benefit can be taken as levels
+in the Flight skill. Droyne with wings large enough to fly
+without mechanical assistance can take all receipts of
+this benefit as levels in the Flight skill.
+Vacc Suit: The Droyne is in possession of a high-quality
+vacc suit tailored to their specifications. A Warrior or
+Leader-of-Warriors may have combat armour instead.
+Subsequent receipts of this benefit can be taken as
+levels of the Vacc Suit skill.
+
+USING THE COYNS
+
+The coyns feature prominently in Droyne society. They
+are often used in making decisions of great and small
+importance. Outsiders wonder if the selection process
+is truly random, guided by some mystical force or the
+result of subconscious psionic influence. Whatever the
+truth, the coyns are used with great solemnity and their
+predictions are highly respected. Coyns can be used ingame by a Traveller using the Prediction skill (see page
+190), although their interpretation and the accuracy of
+any prediction is for the Referee and Travellers to decide.
+The process of selecting coyns can be simulated by
+using 1D for the row and another for the column on
+the Droyne Coyns table. Thus a roll of 3 and 5 would
+represent drawing the Heat Coyn. Interpretation depends
+on context but some coyns are considered ‘positive’ and
+others ‘negative’. The remainder are neutral.
+
+Droyne Coyns
+Row
+Row-1
+Row-2
+Row-3
+Row-4
+Row-5
+Row-6
+
+206
+
+Column-1
+Worker
+(Aydih)
+Void
+Darkness
+Humaniti
+Genesis
+Beast
+
+Column-2
+Warrior
+(Aydin)
+Soil
+Cold
+Vargr
+Aspiration
+Mercenary
+
+Column-3
+Drone
+(Aydirsoth)
+Air
+Noise
+Aslan
+Sacrifice
+Voyages
+
+Column-4
+Technician
+(Ayssath)
+Gas
+Signal
+Droyne
+Defeat
+Justice
+
+Column-5
+Sport
+(Praytsirv)
+Water
+Heat
+Hiver
+Death
+Chance
+
+Column-6
+Leader
+(Aykrusk)
+Fire
+Light
+K’kree
+Achievement
+Phoenix
+
+

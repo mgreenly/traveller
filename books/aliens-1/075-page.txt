@@ -1,0 +1,35 @@
+DECK 5
+
+2
+5
+
+3
+2
+
+1
+
+DECK 4
+
+6
+DECK 3
+
+4
+
+DECK 2
+
+LEGEND
+
+DECK 1
+
+4
+
+1. Shrine
+2. Re-entry capsules
+3. Low berths
+4. Cargo hold
+5. Bridge
+6. Fuel
+
+75
+
+

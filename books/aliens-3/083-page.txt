@@ -1,0 +1,224 @@
+LEHND COVERT ESPIONAGE SCOUT
+While the Darrians have no dedicated scout service,
+they still utilise scout vessels, primarily used by
+the military to keep tabs on neighbouring fleet
+movement. The Lehnd scout is designed to be
+hidden and quiet, jumping into a system far beyond
+the normally patrolled routes and drift through using
+a black globe generator to hide its presence. The
+
+globe is briefly lowered for a few seconds several
+times during its parabolic trip so sensors can take
+a snapshot of traffic. The objective is less about
+getting information but to retreat without being
+detected. The Lehnd uses drop tanks to jump into
+a system, leaving it enough fuel for another jump-3
+without need to refuel.
+
+TL15
+
+TONS COST (MCr)
+
+Hull
+
+200 Tons, Sphere
+
+—
+
+11
+
+Armour
+
+Bonded Superdense, Armour: 6
+
+8.64
+
+4.32
+
+Stealth (advanced)
+
+—
+
+200
+
+M-Drive
+
+Thrust 2 (Thrust 1 with drop tanks)
+
+4
+
+8
+
+J-Drive
+
+Jump 3 (TL14), Stealth Jump
+
+20
+
+37.5
+
+Power Plant
+
+Fusion (TL15), Power 180
+
+9
+
+18
+
+J-3, 12 weeks operation
+
+63
+
+—
+
+10
+
+1
+
+Fuel Tanks
+Bridge
+
+Pilot, Astrogator,
+Engineer
+
+Hull: 80
+Running Costs
+MAINTENANCE COST
+Cr30739.5/month
+PURCHASE COST
+
+Computer
+
+Computer/10bis/fib
+
+—
+
+0.32
+
+Sensors
+
+Advanced
+
+5
+
+5.3
+
+Rapid Deployed Extended Arrays
+
+10
+
+21.2
+
+Sensor Station
+
+1
+
+0.5
+
+Power Requirements
+
+Armoured
+Bulkheads
+
+Bridge
+
+1
+
+0.2
+
+Basic Ship Systems
+
+Systems
+
+Black Globe Generator
+
+50
+
+100
+
+Manoeuvre Drive
+
+Drop Tank Mount (60 ton drop
+tank)
+
+0.24
+
+0.12
+
+40
+
+Workshop
+
+6
+
+0.9
+
+60
+
+Standard x2
+
+8
+
+1
+
+Sensors
+
+2
+
+0.2
+
+18
+
+Intellect
+
+—
+
+—
+
+Black Globe
+
+Jump Control/3
+
+—
+
+0.3
+
+30
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+2.12
+
+—
+
+Common Areas
+Software
+
+MCr368.874
+
+40
+
+Staterooms
+
+Cargo
+
+Lehnd Covert
+Espionage Scout
+
+84
+
+Crew
+
+Jump Drive
+
+

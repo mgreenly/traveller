@@ -1,0 +1,23 @@
+To D e c k 2
+
+2
+
+3
+4
+
+3
+
+2
+
+1
+DECK 1
+
+LEGEND
+1. Cargo hold
+2. Steerage blocks
+3. Secure accommodation
+4. Staterooms
+
+110
+
+

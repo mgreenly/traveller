@@ -1,0 +1,172 @@
+ARMY
+
+2
+
+Members of the Consulate’s ground-based armed
+fighting forces or the ground forces of individual
+worlds. Zhodani soldiers fight in planetary
+surface actions, battles, and campaigns.
+Enlistment: End 5+
+If aged 30 or more, DM-2
+
+CAREER PROGRESS
+Cavalry
+Infantry
+Support
+
+Commission: Automatic (except draftees) if SOC
+10+
+
+ASSIGNMENTS
+Choose one of the following.
+Cavalry: You serve in a tank or other ground
+vehicle.
+Infantry: You serve as a fighting man on the
+ground or with shipboard troops.
+Support: You serve in one of the many Army
+support roles.
+
+SURVIVAL
+DEX 7+
+STR 6+
+END 5+
+
+ADVANCEMENT
+INT 5+
+EDU 6+
+EDU 7+
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+2000
+5000
+10000
+10000
+10000
+20000
+30000
+
+BENEFITS
+Weapon
+Armour
+EDU +1
+END +1
+INT +1
+Nenj
+SOC +1
+
+SKILLS AND TRAINING
+1D
+
+PERSONAL DEVELOPMENT SERVICE SKILLS
+
+ADVANCED EDUCATION
+(MIN. EDU 8)
+Electronics
+Electronics
+Gun Combat
+Engineer
+Heavy Weapons
+Explosives
+Medic
+Navigation
+Melee
+Talent
+Vacc Suit
+Survival
+SPECIALIST: INFANTRY SPECIALIST: SUPPORT
+Athletics
+Electronics
+Gun Combat
+Drive
+Heavy Weapons
+Explosives
+Melee
+Flyer
+Recon
+Mechanic
+Stealth
+Medic
+
+OFFICER SKILLS (COMMISSIONED ONLY)
+
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+STR +1
+DEX +1
+END +1
+Athletics
+Carouse
+Melee
+SPECIALIST: CAVALRY
+Drive
+Flyer
+Gunner
+Mechanic
+Recon
+Electronics
+
+Admin
+Advocate
+Diplomat
+Leadership
+Electronics
+Tactics (military)
+PSIONIC SKILLS (MIN. SOC 10)
+PSI +1
+Awareness
+Persuade
+Science (psychology)
+Talent
+Telekinesis
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ENLISTED/NCO
+Trooper
+Follower
+Leader of 10
+Leader of 20
+Leader of 50
+Leader of 100
+Leader of 1,000
+
+SKILL OR BENEFIT
+Gun Combat 1
+Recon 1
+—
+Leadership 1
+—
+—
+—
+
+

@@ -1,0 +1,138 @@
+INSIGHT SCOUT SLED
+
+ARMOUR
+FRONT
+
+60
+
+RE A R
+
+20
+
+SID E S
+
+40
+
+GAU
+S
+
+S
+
+Autopilot (skill level) 3
+Communications 10000
+(range) km
+Navigation
+(Navigation DM) +2
+Sensors (Electronics
+(sensors) DM) +2
+Camouflage (Recon
+DM) –4
+Stealth (Electronics
+(sensors) DM) -2
+
+C
+
+N
+AN
+
+ON
+
+AUNCHER
+CL
+TA
+
+WEAPONS
+
+TL
+SKILL
+AGILITY
+SPEED (CRUISE)
+RANGE (CRUISE)
+CREW
+PASSENGERS
+CARGO
+HULL
+SHIPPING
+COST
+
+Small Turret (gauss cannon, enhanced fire control)
+Fixed Mount (tac launcher – AP, forward, improved fire control)
+
+EQUIPMENT
+
+TRAITS
+
+Autopilot (advanced), Bunks, Camouflage (advanced), Communication System
+(advanced, encrypted, increased range, tightbeam), Computer/3, Control System
+(advanced), Ejection Seats x 2, Fire Extinguisher, Life Support (short term),
+Navigation System (improved), Sensor System (improved, high fidelity), Stealth
+(improved), Vacuum Protection
+
+—
+
+WEAPON
+
+RANGE
+
+DAMAGE
+
+MAGAZINE
+
+MAGAZINE COST
+
+TRAITS
+
+FIRE CONTROL
+
+Gauss Cannon
+
+2
+
+1DD
+
+200
+
+Cr1000
+
+AP 10, Auto 3
+
++3
+
+Tac Launcher (AP) 6
+
+8D
+
+4
+
+Cr6000
+
+AP 10, Smart
+
++2
+
+DESCRIPTION
+This is a small, lightly armoured, high-speed
+military grav vehicle is employed in scouting and
+armed reconnaissance. Although smaller than
+the Unity AFV, it mounts the same weaponry of
+gauss cannon supplemented with a tac missile
+to engage other light vehicles, combined with
+a manoeuvrability that has been described as
+‘fighter-like’.
+
+288
+
+12
+FLYER (GRAV)
++5
+SUBSONIC (VERY
+FAST)
+3000 (4500)
+2
+0
+0.5 TONS
+30
+7.5 TONS
+MCR2.85
+
+

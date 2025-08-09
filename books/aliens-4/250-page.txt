@@ -1,0 +1,78 @@
+1 square = 5 Tons
+
+LEGEND
+1. Manoeuvre Drive
+2. Jump Drive
+3. Power Plant
+4. Bridge
+5. Sensors
+6. Particle Beam Bay
+7. Particle Beam Barbettes
+8. Missile Bay
+9. Triple Turrets
+10. Missile Storage
+11. Nuclear Damper
+12. Docking Space
+13. Armoury
+14. Fuel Processor
+15. Medical Bay
+16. Shaper Shrine
+17. Staterooms
+18. Common Area
+19. Cargo Hold
+
+11
+
+6
+
+6
+
+12
+8
+19
+
+13
+
+3
+
+14
+
+17
+9
+
+18
+
+17
+
+9
+
+8
+2
+
+DECK 4
+
+1
+
+5
+
+15
+
+DECK 3
+
+4
+9
+
+9
+17
+
+18
+
+16
+
+DECK 5
+
+250
+
+17
+
+

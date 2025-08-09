@@ -1,0 +1,48 @@
+13
+
+11
+
+13
+
+1
+10
+
+10
+
+13
+11
+
+14
+
+1
+
+11
+9
+
+12
+
+14
+
+12
+15
+
+1
+
+To D e c k 2
+
+11
+
+DECK 3
+
+LEGEND
+9. Bridge
+10. Sensors
+11. Fusion gun barbettes
+12. Nuclear dampers
+1 3 . Tr i p l e t u r r e t s
+14. Med bay
+15. Airlocks
+
+179
+
+

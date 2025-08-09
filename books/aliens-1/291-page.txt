@@ -1,0 +1,145 @@
+QIKNAVRA GRAV TANK
+FLYER (GRAV)
+
+AGILITY
+
++1
+
+SPEED (CRUISE)
+
+FAST (HIGH)
+
+RANGE (CRUISE)
+
+3000 (4500)
+
+CREW
+
+2
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+80
+
+SHIPPING
+
+20 TONS
+
+COST
+
+MCR10.8
+
+F RONT
+
+130 ( +42)
+
+REAR
+
+70 ( +42)
+
+SIDES
+
+100 ( +42)
+
+HEAVY
+GA
+U
+
+S
+
+ON
+
+SKILL
+
+ARMOUR
+
+Autopilot (skill level) 2
+Communications 1000
+(range) km
+Navigation
+(Navigation DM) +2
+Sensors (Electronics
+(sensors) DM) +1
+Camouflage (Recon
+DM) –4
+Stealth (Electronics
+(sensors) DM) –4
+
+NN
+CA
+
+14
+
+S
+
+TL
+
+WEAPONS
+
+Large Turret (heavy gauss cannon, twin-linked, enhanced fire control)
+
+EQUIPMENT
+
+TRAITS
+
+Anti-missile System (laser), Autopilot (enhanced), Bunks, Camouflage
+(advanced), Communication System (advanced, encrypted, tightbeam),
+Computer/4, Control System (enhanced), ECM (improved), Ejection Seats
+x 2, Electrostatic Armour, Fire Extinguisher, Life Support (short term),
+Navigation System (improved), Prismatic Aerosol Discharger, Sensor System
+(improved, sensor mast), Stealth (improved), Vacuum Protection
+
+AFV
+
+WEAPON
+
+RANGE
+
+DAMAGE
+
+MAGAZINE
+
+MAGAZINE COST
+
+TRAITS
+
+FIRE CONTROL
+
+Heavy Gauss Cannon
+
+3
+
+2DD
+
+60
+
+Cr1600
+
+AP 15, Auto 2
+
++3
+
+DESCRIPTION
+The Qiknavra (named after the smaller
+of Zhdant’s continents) is one of the
+Consulate’s latest grav tank designs. The
+craft is intended to be a small, relatively
+inexpensive, yet highly survivable vehicle
+on the battlefield. To date, the Imperium
+has been unable to determine the precise
+capabilities of the Qiknavra and, given
+its apparent ease of construction, its
+appearance has reignited fears of a new
+Frontier War.
+
+291
+
+

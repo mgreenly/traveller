@@ -1,0 +1,34 @@
+2
+
+1
+
+6
+3
+5
+
+6
+
+4
+
+DECK 2
+
+7
+
+DECK 1
+
+8
+
+LEGEND
+1. Bridge
+2. Sensors
+3. Power plant
+4. M-drive
+5. J-drive
+6. Air/raft
+7. Staterooms
+8. High stateroom
+9 . Tr i p l e t u r r e t
+
+297
+
+

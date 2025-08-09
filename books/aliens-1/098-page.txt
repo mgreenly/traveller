@@ -1,0 +1,28 @@
+4
+2
+4
+
+DECK 3
+
+3
+
+DECK 2
+
+2
+5
+
+3
+1
+
+DECK 1
+
+LENGEND
+1. Low berths
+2. Fusion gun bay
+3. Sandcaster barrels
+4. Missile bay
+5. Fuel processors
+
+98
+
+

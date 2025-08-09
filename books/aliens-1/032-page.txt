@@ -1,0 +1,138 @@
+6
+
+SCIENTIST
+
+Science is an almost exclusively female occupation
+among the Aslan. The exception is that of doctor
+as, by ancient tradition, males are allowed to
+practice the art of the physician. This custom is
+believed to date back to days when males fought
+on the battlefield and so had need of healers –
+and had plenty of practical anatomy lessons. This
+tradition is rarely observed these days.
+
+CAREER PROGRESS
+Survival
+Advancement
+
+HEALER
+END 6+
+SOC 8+
+
+RESEARCHER
+EDU 7+
+INT 7+
+
+EXPLORER
+END 8+
+INT 6+
+
+Qualification: Rite of Passage 7+ (males 10+)
+
+MUSTERING OUT BENEFITS
+ASSIGNMENTS
+Choose one of the following.
+Healer: You tend the sick and wounded.
+Researcher: You develop new inventions and
+technologies for your clan.
+Explorer: You explore new worlds and
+catalogue useful resources.
+Gender: Males may only enter Healer.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+8
+•
+•
+
+CASH
+Cr1000
+Cr5000
+Cr5000
+Cr10000
+Cr20000
+Cr40000
+Cr70000
+Cr100000
+
+BENEFITS
+Scientific Equipment
+EDU +1
+INT +1
+Weapon or 1 Clan Share
+Science Kinship
+SOC +1 and 1 Clan Share
+Scientific Equipment and 2 Clan Shares
+3 Clan Shares
+
+DM+1 if SOC 9+
+DM+1 when rolling on Benefits if Male
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+INT +1
+EDU +1
+SOC +1
+Diplomat
+Tolerance
+Independence or Tolerance
+SPECIALIST: HEALER
+Medic
+Science
+Persuade
+Medic
+Electronics (sensors)
+Admin
+
+SERVICE SKILLS
+Electronics
+Science
+Science
+Science
+Investigate
+Admin
+SPECIALIST: RESEARCHER
+Science
+Electronics
+Engineer
+Investigate
+Admin
+Recon
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Astrogation
+Engineer
+Electronics
+Advocate
+Medic
+SPECIALIST: EXPLORER
+Navigation
+Pilot
+Science
+Recon
+Survival
+Drive or Flyer
+
+

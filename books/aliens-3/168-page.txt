@@ -1,0 +1,73 @@
+Athletics: Dolphins use Athletics (dexterity) only for
+high jumping or long jumping if it begins in the water.
+Sprinting means fast swimming. Use the normal rules
+except that a sprinting Dolphin can cover 72 + twice their
+Effect metres with every check. A Dolphin may not climb.
+Athletics (dexterity) is also used for catching things with
+a Dolphin’s teeth or rostum. Use Athletics (endurance)
+for long distance swimming and Athletics (strength) for
+tasks such as swatting with a tail or ramming with a
+rostrum, although actual attacks use Melee (natural).
+Vacc Suit: This is a very common skill among civilised
+Dolphins even if they do not serve in space. Dolphins may
+use their Vacc Suit skill to offset any negative DM inflicted
+by waldos but may not increase the DM above +0.
+
+UNAVAILABLE SKILLS
+Dolphin Travellers have some limitations on the skills
+they receive during their careers and may not gain the
+Broker or Gambler skills. If one of these skills is rolled,
+roll for another. If the second result is the same, the roll
+is lost and the career process continues as normal.
+
+MUSTERING OUT
+
+When rolling on the Benefits table, Referees must
+keep in mind that items received do not belong to
+the specific Traveller but rather are considered to
+be in their possession. Although the difference may
+seem trivial, it is actually very important. Consider the
+following: A Dolphin Traveller receives a starship as a
+mustering out benefit and, after using it for some time,
+the Traveller encounters a pod of Dolphins, which have
+been stranded on a world and now lack the resources
+to return to their home. It would not be out of character
+for the Dolphin Traveller to turn the ship over to them if
+the pods’ need for it seems greater than their own.
+Any Benefit rolls from careers other than Dolphin
+Citizen or Dolphin Military that result in Armour or
+Weapon may instead be taken as a travel suit (without
+waldo). Additional results of the same type can be
+taken as a waldo or additional travel suits. If a Dolphin
+already possessing a travel suit and waldo receives an
+Armour or Weapon result, they may instead raise their
+Vacc Suit skill by one level.
+When rolling on a Cash Benefits table from careers
+other than Dolphin Citizen or Dolphin Military, all results
+are reduced to 10% of their Credit value to represent
+the total lack of interest in, or understanding of, money
+on the part of Dolphin Travellers.
+Benefit rolls resulting in a Waldo, Walker Suit or Travel
+Suit grant these items to a maximum of TL12.
+
+SOLOMANI CAREERS
+
+When in careers other than Dolphin Civilian
+and Dolphin Military, within the Solomani
+Confederation Dolphins suffer the same penalties
+as non-Solomani humans (see page 125 of Aliens
+of Charted Space Volume 2).
+
+Dolphin Travellers
+
+A Solomani Dolphin can join the Home Guard
+or become a SolSec Monitor. One of the more
+confusing jobs in Solomani Security is making
+sense of reports provided to the agency by
+Dolphin monitors watching other Dolphins but
+SolSec finds them useful for keeping track of
+human maritime activities.
+
+169
+
+

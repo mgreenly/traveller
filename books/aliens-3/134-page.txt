@@ -1,0 +1,97 @@
+PROJECTILE WEAPONS
+Magrail Carbine: A smaller and lighter version of the
+magrail rifle, the carbine version has the same fire
+output as the pistol (see page 110 of the Central Supply
+Catalogue) but with a greater range.
+
+Weapon
+
+TL Range Damage Kg Cost
+
+Magrail Carbine
+
+14
+
+150
+
+3D+3
+
+2
+
+Cr2000
+
+Magazine
+
+Magazine Cost
+
+Traits
+
+20
+
+Cr80
+
+Auto 4
+
+Magazine
+
+Magazine Cost Traits
+
+Magrail Support Weapon: Sometimes referred to as
+a ‘magrail minigun’, this weapon uses electromagnetic
+induction to launch clouds of ovoid projectiles from its
+multiple bores. Range is relatively short for a support
+weapon but the projectiles hit hard.
+
+Weapon
+
+TL Range Damage Kg Cost
+
+Magrail Support Weapon 15 250
+
+5D+4
+
+25
+
+Cr250000 500
+
+Cr5000
+
+Auto 12, Bulky
+
+ENERGY RIFLES
+
+CSC: Geonee
+
+Convergence Beam Rifle: The CBR is an advanced
+laser weapon, which uses four beam emitters configured
+to strike a single point on a target. The four beams are
+calibrated to strike in the same square centimetre of the
+target, each beam a nanosecond after the last.
+
+Weapon
+
+TL Range Damage Kg Cost
+
+Magazine
+
+Magazine Cost Traits
+
+CBR
+
+14 500
+
+15
+
+Cr2500
+
+5D+4
+
+5
+
+Cr10000
+
+AP 8, Zero-G
+
+135
+
+

@@ -1,0 +1,153 @@
+1
+
+ARMY
+
+The army includes all members of a
+government’s planetary armed fighting
+forces. Soldiers deal with planetary
+surface actions, battles and campaigns.
+Such individuals may also be mercenaries
+for hire.
+Qualification: CHA 6+
+
+CAREER PROGRESS
+SURVIVAL
+STR 6+
+DEX 7+
+END 5+
+
+Infantry
+Cavalry
+Support
+
+ASSIGNMENTS
+
+ADVANCEMENT
+CHA 5+
+CHA 6+
+CHA 5+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Infantry: You are one of the frontline soldiers
+in the army.
+Cavalry: You are a driver or gunner for a
+combat vehicle.
+Support: You are a medic, technician or
+other supporting role behind the frontlines.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr2000
+Cr5000
+Cr10000
+Cr15000
+Cr20000
+Cr25000
+
+BENEFITS
+STR +1
+DEX +1
+Combat Implant or END +1
+Armour
+Weapon
+CHA +1
+Ally
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Gun Combat
+Melee
+CHA +1
+INFANTRY
+Athletics
+Stealth
+Recon
+Gun Combat
+Melee
+Heavy Weapons
+
+SERVICE SKILLS
+Athletics
+Drive
+Recon
+Gun Combat
+Melee
+Heavy Weapon
+CAVALRY
+Drive
+Mechanic
+Electronics (sensors)
+Gunner
+Flyer
+Drive
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Electronics
+Navigation
+Tactics (military)
+Engineer
+Medic
+Survival
+SUPPORT
+Electronics (comms)
+Drive
+Engineer
+Mechanic
+Medic
+Explosives
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+INFANTRY/CAVALRY SKILL OR BENEFIT
+Melee 1
+—
+Recon 1
+Leadership 1
+—
+CHA +1
+
+SUPPORT SKILL OR BENEFIT
+Mechanic 1 or Medic 1
+—
+Engineer 1 or Science 1
+EDU +1
+—
+Leadership 1
+
+

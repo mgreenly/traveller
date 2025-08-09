@@ -1,0 +1,72 @@
+A11/58231
+
+GUARDS COMBAT ARMOUR
+
+Guards combat armour is based on the earlier officer model
+(including the Computer/3) but has been further improved
+to enhance the psionic activity of the wearer. It combines a
+teleportation suit with special wiring patterns that provide
+psionic shielding for non-telepaths. Its glove palms can be
+removed to expose bare hands for psionic activity requiring
+physical contact.
+Armour Type
+Guards
+Combat
+Armour
+
+A11/58231
+
+Protection
++19
+
+TL
+13
+
+Rad
+160
+
+Kg
+12
+
+Cost
+Cr180000
+
+Required Skill
+Vacc Suit 0
+
+NOBLE COMBAT ARMOUR
+
+Nobles in the Army and Guards wear this style of combat
+armour; based on the combat armour of the Guards, it
+offers improved protection without impairing movement.
+Noble combat armour is most distinguished by its broad
+cloak, made from deep black smart fabric. The armour also
+incorporates vislight chameleon technology, blending it into
+background scenery and making it extremely difficult to
+detect with the naked eye or optical instruments, granting
+the wearer DM+4 to Stealth checks. The workmanship on
+Noble combat armour is of very high quality, with special
+attention to finish and comfort.
+Armour Type
+Noble Combat
+Armour
+
+280
+
+Protection
++20
+
+TL
+14
+
+Rad
+200
+
+Kg
+10
+
+Cost
+Required Skill
+Cr200000 Vacc Suit 0
+
+

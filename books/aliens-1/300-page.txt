@@ -1,0 +1,200 @@
+SHIANJO-CLASS LINER
+TL13
+
+TONS COST (MCR)
+
+Hull
+
+900 tons, Standard
+
+—
+
+45
+
+Armour
+
+Crystaliron, Armour 4
+
+45
+
+9
+
+M-Drive
+
+Thrust 1
+
+9
+
+18
+
+J-Drive
+
+Jump 4
+
+95
+
+142.5
+
+Power Plant
+
+Fusion (TL12), Power
+540
+
+36
+
+36
+
+Fuel Tanks
+
+J-4, 4 weeks of
+operation, plus Pinnace
+
+365
+
+—
+
+20
+
+4.5
+
+Bridge
+Computer
+
+Computer/20
+
+—
+
+5
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Systems
+
+Docking Space (40 tons)
+
+44
+
+11
+
+Pinnace
+
+—
+
+8.712
+
+Luxury x 2
+
+20
+
+3
+
+High x 8
+
+48
+
+6.4
+
+Standard x 37
+
+148
+
+18.5
+
+Low Berths x 34
+
+17
+
+1.7
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/4
+
+—
+
+0.4
+
+Library
+
+—
+
+—
+
+Common
+Areas
+
+46
+
+Cargo
+
+6
+
+Staterooms
+
+Software
+
+CREW
+PILOT, ASTROGATOR, MEDIC,
+ENGINEERS X 4, STEWARDS X 2
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr26443/month
+
+PURCHASE COST
+MCr317.312
+
+Power Requirements
+90
+
+180
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+4.6
+
+360
+
+1
+
+—
+
+JUMP DRIVE
+
+SENSORS
+
+TOTAL: MCR 317.312
+
+360
+HULL POINTS
+300
+
+A passenger liner used in the core regions
+of the Consulate and along most of its main
+trade routes, the Shianjo (‘Good Journey’)
+has a reputation for its stylish interior
+design and high jump range. Nobles and
+Intendants typically occupy staterooms,
+while Proles travel in low passage unless
+they are servants or retainers. Commercial
+vessels are normally unarmed in peaceful
+Consulate space but in wartime this
+makes them easy targets for privateers and
+commerce raiders, forcing the Zhodani
+navy to provide escorts.
+
+

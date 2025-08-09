@@ -1,0 +1,240 @@
+MILITARY EXPEDITION VESSEL
+YUBOTSIO-TYPE
+TL13
+
+TONS COST (MCR)
+
+Hull
+
+1,200 tons, Droyne Hull
+
+—
+
+120
+
+Armour
+
+Crystaliron, Armour: 6
+
+90
+
+57.6
+
+M-Drive
+
+Thrust 6 (energy efficient)
+
+72
+
+158.4
+
+Jump Drive
+
+Jump 2 (energy efficient x2)
+
+65
+
+121.875
+
+Power Plant
+
+Fusion (TL12), Power 1200
+
+80
+
+80
+
+Fuel Tanks
+
+J-2, 8 weeks of operation
+
+256
+
+—
+
+Bridge
+
+Ship-Heart Citadel
+
+52
+
+15
+
+Computer
+
+Core/40
+
+—
+
+45
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Medium Particle Bays x2
+
+200
+
+80
+
+Fusion Gun Barbettes x4
+
+20
+
+16
+
+Triple Turrets (pulse lasers) x6
+
+6
+
+24
+
+Nuclear Dampers x2
+
+20
+
+20
+
+Repair Drones
+
+12
+
+2.4
+
+Medical Bays x2
+
+8
+
+4
+
+Pod-Clusters x12
+
+240
+
+80
+
+Ceremonial Citadel, Capacity
+12
+
+24
+
+18
+
+Low Berths x36
+
+18
+
+0.9
+
+30
+
+0.3
+
+Systems
+Accommodation
+
+Common Areas
+Software
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Anti-Hijack/3
+
+—
+
+10
+
+Advanced Fire Control/2
+
+—
+
+15
+
+Virtual Crew/1
+
+—
+
+5
+
+Virtual Gunner/1
+
+—
+
+5
+
+Library
+
+—
+
+—
+
+5
+
+—
+
+Cargo
+
+TOTAL: MCR 533
+
+176
+
+CREW
+CAPTAIN, PILOT, ASTROGATOR,
+ENGINEERS X7, MAINTENANCE X2,
+GUNNERS X14, OFFICER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr73564.58/month
+
+PURCHASE COST
+MCr882.775
+
+Power RequirEments
+540
+
+240
+
+6
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+SYSTEMS
+
+120
+
+2
+
+288
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+480
+HULL POINTS
+
+

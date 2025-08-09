@@ -1,0 +1,91 @@
+A11/58231
+
+CLAW IMPLANT
+
+Human Travellers living in Aslan space are at a disadvantage
+as they lack dewclaws. They can carry hi’a’soi blades or,
+alternatively, can go all the way and have an artificial dewclaw
+implanted into the forearm. The human claw is embedded into
+the forearm; when unsheathed, it slides forward and projects
+under the palm. A human with a claw implant may make claw
+attacks dealing 1D damage.
+Item
+Claw Implant
+
+A11/58231
+
+TL
+
+Cost
+
+10
+
+Cr5000
+
+PREDATOR SUITE
+
+This enhancement was developed by the Awyraolr clan
+during the Kinstrife and is banned throughout Aslan space.
+Nonetheless, some clans have kept the technology and even
+refined it. The predator suite sharpens the recipient’s senses
+and tweaks the endocrine system, enhancing the predator
+instincts of the Aslan. This augmentation increases the
+recipient’s STR, DEX and END by +2 permanently, although
+INT and EDU are both reduced by –2, and DM-4 is applied to
+all Tolerance checks.
+Item
+Predator Suite
+
+A11/58231
+
+TL
+
+Cost
+
+12
+
+Cr100000
+
+PREHENSILE TAIL
+
+This modification implants artificial nerve and muscle cells
+into the tail, strengthening it and increasing its fine motor
+control, allowing the Aslan to effectively use the tail as a third
+limb. A Traveller with a prehensile tail may take an extra minor
+action in any combat round, so long as this minor action can
+be accomplished with the tail.
+Item
+Prehensile Tail
+
+A11/58231
+
+TL
+
+Cost
+
+11
+
+Cr12000
+
+TAIL IMPLANT
+
+This modification implants artificial nerve and muscle cells
+into the tail, strengthening it and increasing its fine motor
+control, allowing the Aslan to effectively use the tail as a third
+limb. A Traveller with a prehensile tail may take an extra minor
+action in any combat round, so long as this minor action can
+be accomplished with the tail.
+Item
+Tail Implant
+
+TL
+
+Cost
+
+9
+
+Cr4000
+
+59
+
+

@@ -1,0 +1,174 @@
+GUARD
+
+5
+
+CAREER PROGRESS
+
+Members of the elite Consular Guard, a psionic-only
+military formation representing the best armed forces
+chosen from throughout the Consulate.
+Qualification: : END 6+
+You must have SOC 10+ to enlist
+You must have PSI 9+ to be assigned to the Commandos
+If aged 30 or more, DM-2
+
+Commandos
+Ground Assault
+Support
+
+Commission: All Guards are automatically
+commissioned.
+
+ASSIGNMENTS
+Choose one of the following.
+Commandos: You serve in the famed Zhodani psionic
+commando units.
+Ground Assault: You are dropped out of a craft in high
+orbit to capture planets.
+Support: You serve in one of many ground support roles.
+
+SURVIVAL
+END 7+
+END 6+
+END 5+
+
+ADVANCEMENT
+EDU 5+
+EDU 6+
+EDU 7+
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+2000
+5000
+5000
+10000
+20000
+30000
+40000
+
+BENEFITS
+Weapon
+Armour
+EDU +1
+END +1
+INT +1
+Nenj
+SOC +1
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Athletics
+Carouse
+Melee
+SPECIALIST: COMMANDOS
+
+1
+2
+3
+4
+5
+6
+
+Vacc Suit
+Gun Combat
+Heavy Weapons
+Melee
+Medic
+Talent
+
+SERVICE SKILLS
+Athletics
+Gun Combat
+Heavy Weapons
+Tactics
+Vacc Suit
+Recon
+SPECIALIST: GROUND
+ASSAULT
+Vacc Suit
+Flyer
+Gun Combat
+Gunner
+Heavy Weapons
+Athletics
+
+ADVANCED EDUCATION (MIN. EDU 8) OFFICER SKILLS
+Electronics
+Admin
+Engineer
+Advocate
+Explosives
+Talent
+Medic
+Leadership
+Pilot
+Navigation
+Survival
+Tactics
+SPECIALIST: SUPPORT
+PSIONIC SKILLS (MIN. SOC
+10)
+Electronics
+PSI +1
+Flyer
+Awareness
+Gun Combat
+Persuade
+Heavy Weapons
+Science (psychology)
+Mechanic
+Talent
+Medic
+Teleport
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+GUARD
+Waiting Officer/Specialist
+Specialist/Officer of 20
+Specialist/Officer of 50
+Specialist/Officer of 100
+Specialist/Officer of 500
+Officer of 1,000
+Officer of 5,000
+
+SKILL OR BENEFIT
+Vacc Suit 1
+Leadership 1
+—
+Tactics (military) 1
+—
+—
+SOC +1
+
+

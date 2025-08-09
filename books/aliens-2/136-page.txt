@@ -1,0 +1,103 @@
+Solomani Life Events
+2D
+
+Event
+
+Details
+
+2
+
+Illness or Accident
+
+You suffer a serious injury or sickness. Roll on the Injury Chart.
+
+3
+
+Sleeper Agent
+
+Someone you know turns out to be a SolSec agent. This might be useful or
+detrimental to you, or just something you know that other people do not. Any one of
+your Contacts, Allies, Rivals or Enemies can be the agent. If you have none, gain a
+Contact who is an undercover SolSec agent. They may or may not be aware you know
+of their status.
+
+4
+
+Disastrous
+Relationship
+
+A friendship, professional relationship or romance comes to an abrupt and
+unpleasant end. Gain a Rival or an Enemy.
+
+5
+
+Improved Relationship Your relationship with a Contact becomes closer or more permanent. Any of your
+Contacts can be upgraded to Ally. If you have no Contacts, you gain one
+
+6
+
+New Relationship
+
+You begin a romantic relationship or friendship. If it works out (your choice) you are
+still in the relationship and you have an Ally. If not, you are still in touch. You have a
+Contact with some complicated emotional baggage.
+
+7
+
+New Contact
+
+You gain a new Contact
+
+8
+
+Informed On
+
+Someone reported you to SolSec for something you may or may not have done or
+said. One of your Friends or Contacts becomes an Enemy
+
+9
+
+The Party Approves!
+
+Your actions have pleased the local Solomani Party officials. You may gain DM+2 on
+your next Qualification roll, or gain a Contact who is a mid-level Party official.
+
+10
+
+Fortunate Citizen
+
+You have a run of good luck, allowing you to gain DM+2 on any one Benefit roll.
+
+11
+
+Investigated
+
+SolSec arrests you on charges of sedition and anti-Solomani activities. If you are
+guilty, spend your next term as a Prisoner. If you are not, lose D3 Benefit rolls due to
+the expense of proving it.
+
+12
+
+The Party Needs You
+
+You are asked by SolSec or a Party official to undertake a special task. If you agree
+to make the Confederation that little bit safer you gain an Ally high up in SolSec
+or the Party and are automatically promoted next term, though that is obviously
+not connected to this matter. If you decline, you are grudgingly paid hush money
+equivalent to one extra Benefit roll and gain a Rival in the form of a SolSec agent
+tasked with watching for further disloyalty on your part.
+
+MUSTERING OUT BENEFITS
+
+The following changes and special notes apply to Solomani Confederation Travellers.
+
+Retirement Pay
+
+Retirement Pay in the Confederation is only half what is in the Imperium. The exception is service in the Solomani Party
+or in SolSec, which provides the full pension. Pensions may be collected at Class A or B starports within the Solomani
+Confederation. SolSec may also collect pensions at Class C starports; their offices are everywhere. Individuals caught
+passing as racial Solomani during a career lose this pension.
+
+136
+
+

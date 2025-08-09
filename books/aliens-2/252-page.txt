@@ -1,0 +1,59 @@
+WEAPONS
+
+Wherever possible, Hivers avoid personal combat. There are many races in the Hive Federation better suited to it,
+and some even like fighting. If a Hiver has to engage in combat it will either be desperate self-defence or in order to
+secure some hugely important item or goal. Fighting is unpleasant, frightening and at best a means to an end. Hiver
+weaponry reflects this philosophy.
+
+A03/48956
+
+PERSONAL WEAPONS
+
+The two commonest Hiver personal weapons are a gauss pistol and a slightly larger gauss personal defence weapon. The pistol
+is essentially the working parts of the weapon issued to Ithklur and other Hive Federation ground troops, fitted with a bulb-like
+grip. Using this weapon makes the Hiver look like it is squirting condiments out of a squeezy bottle but the weapon itself is
+quite effective. The personal defence weapon is a little larger and more bulky and custom-designed for Hivers. Its magazine
+takes the form of a ring running around the outside of the receiver, creating a more or less symmetrical shape. Rate of fire is
+very high, even for a gauss weapon.
+When using either of these weapons in its primary limb, a Hiver gains DM+2 to hit targets within 25 metres. This is due to the
+fact that its eyes are located in a ring around the weapon, taking point-and-shoot to a whole new level. A Hiver in combat at
+this distance may be more interested in running for cover but when the circumstances are right (such as shooting an unaware
+enemy in the back), great accuracy is possible.
+
+Weapon
+Hiver Gauss Pistol
+Hiver Gauss PDW
+
+252
+
+TL
+13
+13
+
+Range
+20
+30
+
+Damage
+3D
+3D+1
+
+Kg
+1
+2
+
+Cost
+Cr600
+Cr1100
+
+Magazine Magazine Cost
+40
+Cr20
+75
+Cr45
+
+Traits
+AP3, Auto 2
+AP3, Auto 4
+
+

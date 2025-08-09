@@ -1,0 +1,35 @@
+4,000
+HULL POINTS
+
+The Credibility is named for its connotations of persuasiveness and effectiveness as a diplomatic
+platform, military intervention vessel and economic warfare participant, although most examples
+serve in relatively mundane roles such as cargo transports and liners.
+Hull form is typically ‘Hive Federation’, utilitarian and rather ugly. The main hull is constructed in
+the form of a lightly armoured box, with a sloped frontal surface. There are three decks running the
+length of the ship, each with a general function. The lowest deck is double-height and given over
+almost entirely to modular space and fuel. This may be used for cargo or fitted out as the operator
+requires. On vessels operating in the commercial sector this area may be fitted out for passenger
+transport, sometimes in great luxury. A rapid transfer to military operations can result in these
+expensive fittings being wrecked by ground troops using them as barracks.
+The uppermost deck contains part of the drive and power system, fuel and hangars for up to six 50ton small craft. The middle deck centres on a command suite plus a library/briefing room/conference
+hall suitable for most missions the vessel may undertake. The remainder of the drives and fuel are
+aft of this command complex, with crew accommodation forward.
+As with many Hiver vessels, defences are good. The hull is lightly armoured and protected by an
+extensive point-defence fit. Electronic warfare, sandcasters and nuclear dampers provide additional
+defence. The laser turrets are grouped in pairs all over the hull, with all primary weapons located
+on the sloping forward face of the vessel. Three particle accelerator bays and three missile bays are
+grouped in a rosette arrangement reminiscent of the six eyes of a Hiver, alternating weapon types
+around the ring.
+The Credibility is not heavily automated, although general functions are normally run by automatic
+systems. Since it is intended to function as a warship at times, this class tends to run with a full
+crew in case of damage. The cargo area can be used to carry a significant force of ground troops,
+allowing a single Credibility to deal with most minor trouble. Typically the possibility that the ship
+might be full of bloodthirsty Ithklur warriors is the ‘presumed stick’ that accompanies whatever
+carrots the Hiver in charge of the vessel feels like offering in negotiation. Indeed, much of the
+credibility of this class (and its negotiator-operator) comes from the possibility that it might be
+equipped for planetside intervention. Exactly what any given ship is set up to do is rarely obvious
+and often deliberately misrepresented.
+
+247
+
+

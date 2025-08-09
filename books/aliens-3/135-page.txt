@@ -1,0 +1,110 @@
+T
+
+VEHICLE WEAPONS
+Gravitic Cannon: This cannon uses gravitics to launch
+non-ferromagnetic ammunition at targets, creating an
+unparalleled delivery system. The magazine is actually
+a ‘smart-matter bank’, which contains a dense and
+malleable polymer that forms ammunition of various
+masses on the fly. This allows the damage of the
+weapon to be finely adjusted from a minimum of 1D to
+the maximum of 2DD. The AP trait can also be adjusted
+downwards by altering the shape and mass distribution
+of the projectile.
+
+Weapon
+
+TL
+
+Range
+
+Damage Tons
+
+Gravitic Cannon
+
+14
+
+5
+
+1D-2DD
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Gravitic weapons have never gained traction in the
+Imperial armed forces but the Geonee have taken a
+particular shine to them and favour their use.
+
+5
+
+Cost
+
+Magazine
+
+Cr550000 50
+
+Magazine Cost
+
+Traits
+
+Cr2000
+
+AP 15
+
+CSC: Geonee
+
+Heavy Gravitic Cannon: The heavy gravitic canon has
+the same advantages as the gravitic cannon but is built
+to a larger scale and able to deliver greater damaging
+potential at a longer range.
+
+136
+
+Weapon
+
+TL
+
+Range
+
+Damage Tons
+
+Heavy Gravitic Cannon
+
+14
+
+10
+
+1D-4DD
+
+15
+
+Cost
+
+Magazine
+
+Magazine Cost
+
+Traits
+
+MCr5
+
+80
+
+Cr6000
+
+AP 20
+
+R
+
+

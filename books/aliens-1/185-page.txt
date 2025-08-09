@@ -1,0 +1,86 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured. Roll on the Injury table.
+
+2
+
+You make a terrible mistake in your job causing a halt in production or the loss of a client. Lose CHA –1 and
+suffer DM-2 to your next Advancement roll.
+
+3
+
+Hard times caused by a poor economic climate puts you out of a job. You must change your career.
+
+4
+
+The company you work for is suspected of illegal activities. You can aid in the investigations and gain DM+2 to
+the Qualification check for your next career or refuse and gain an Ally.
+
+5
+
+A revolution, attack or other unusual event forces you to leave the planet. Roll CHA 7+ to find a new pack or
+receive DM-2 to your next Qualification roll.
+
+6
+
+A power struggle in your pack ends badly for you. Lose CHA –1 and gain a Rival.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+A power struggle in your pack forces you to choose sides. Roll CHA 8+ to support the winning side and gain
+DM+2 to your next Advancement roll. If you fail, suffer DM-2 to your next Survival roll.
+
+4
+
+You enrol for further education. Roll on the Advanced Education skills table whether you qualify or not.
+
+5
+
+Your corporation or organisation grows. Gain DM+1 to one Benefit roll.
+
+6
+
+You receive advanced training. Roll EDU 8+ to increase one skill you already have by one level.
+
+7
+
+Life Event. Roll on the Vargr Life Events table (page 204).
+
+8
+
+You learn a corporate secret or political scandal. If you choose to profit by this, gain DM+2 to your next
+Advancement roll, DM+1 to one Benefits roll from this career, lose CHA –1, and gain one of Streetwise 1,
+Deception 1 or a criminal Contact.
+
+9
+
+Your pack leader praises you on your excellent work. Gain DM+2 to your next Advancement roll.
+
+10
+
+Your leader is losing the respect of the pack. Roll CHA 10+ to become the new pack leader and gain an
+automatic promotion.
+
+11
+
+You support a pack member who becomes the new leader. Gain an Ally and DM+4 to your next Advancement roll.
+
+12
+
+You are well respected by your pack and superiors. Gain CHA+1 or an automatic promotion.
+
+

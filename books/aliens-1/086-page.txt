@@ -1,0 +1,21 @@
+DECK 3
+
+1
+4
+DECK 2
+
+3
+
+DECK 1
+
+86
+
+2
+
+LENGEND
+1. Shrine
+2. Docking space
+3. Air/rafts
+4. Missiles racks
+
+

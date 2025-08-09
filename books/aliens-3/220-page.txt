@@ -1,0 +1,87 @@
+Events
+
+2D
+2
+
+7
+
+Rivalries between another race and Orca on your world’s ocean resources lead to conflict. Do you
+choose violence or diplomacy? If you choose diplomacy roll Advocate or Diplomat 8+. Success
+means your faction was vindicated and you gain DM+2 on your next advancement roll; failure
+means a loss of one Benefit roll. If you chose violence roll Explosives, Gun Combat or Tactics
+8+. Failure results in DM-2 on your next advancement roll and you must roll on the Injury table.
+Whichever path you choose, raise your Leadership or the skill you rolled on by +1.
+You volunteer for a research project to test new waldo equipment or cybernetics to improve the lives
+of Orca. Gain a Contact in the research field and roll EDU 7+ to gain Science (cybernetics) 1.
+You have a chance to travel offworld and spend a long period of time in space. Increase your choice
+of either Athletics (dexterity), Electronics (comms) or Electronics (sensors) by +1 or gain Pilot 1.
+You rescue a high-status swimmer who was lost at sea. Roll STR 7+; if successful gain a SOC
+10+ sophont as an Ally.
+Life Event. Roll on the Life Events table.
+
+8
+
+Spend an extensive period living out of water among humans. Raise Vacc Suit or Diplomat by +1.
+
+9
+
+11
+
+Your companions are attached by fierce sea creatures! Do you fight or flee? If you flee gain one
+of survivors as an Enemy. If you stay and fight, roll Melee (natural) or Gun Combat 7+ to rescue
+them; if successful, gain one of them as an Ally. If you fail roll on the Injury table.
+You are asked to volunteer for a dangerous mission to rescue people in a sinking vessel or
+underwater city. Roll Survival or END 8+. If successful gain DM+2 on your next advancement roll
+and gain an extra Benefit roll. If you fail, roll on the Injury table.
+You discover a sunken vessel that contains valuable salvage. Gain one Benefit roll.
+
+12
+
+Rise to a position of responsibility. Your next advancement roll automatically succeeds.
+
+1D
+
+MISHAP
+Injured. Roll on the Injury table.
+
+3
+
+4
+5
+6
+
+10
+
+Mishaps
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+1
+2
+3
+
+5
+6
+
+Orca Travellers
+
+4
+
+One of your friends becomes involved with a revolutionary political faction advocating Orca rights.
+You are caught up in the investigation and lose your job.
+A war or insurgency erupts on your world. Roll Gun Combat or Melee 8+; if you succeed you are
+automatically drafted into the Dolphin Military. If you fail your home is destroyed, forcing you into exile.
+A purist political party comes to power on your world making trouble for uplifted Orca and costing
+you your job. Lose SOC-1 and gain a purist political militant as an Enemy.
+An accident leaves you caught on land without a Travel Suit. You suffer serious dehydration and
+require lengthy hospitalisation. Lose END-2.
+You are accidently trapped or shot by fishermen. Roll on the Injury table. In addition, also roll SOC
+8+ or Advocate 8+; if successful you sue and instead of losing a Benefit roll you gain an extra roll
+on the Cash table during the settlement.
+
+1
+
+221
+
+

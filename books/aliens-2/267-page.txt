@@ -1,0 +1,98 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+You are seriously injured, equivalent to a roll of 2 on the Hiver Injury table.
+
+2
+
+Repeated failures have disheartened you. Make a RES check. If you fail, you conclude that you are not fit to
+be a Manipulator. Lose a number of points from RES equal to the negative Effect. If you succeed, you realise
+someone is working against you. Gain an Enemy but you do not have to leave the career.
+
+3
+
+A series of disasters befalls you and your reputation as a manipulator is in tatters. You must leave the career but
+are determined to prove you are in fact the best at what you do. Gain RES +1 but also D3 Rivals.
+
+4
+
+You needed help and had to beg another Manipulator to assist you. This did not sit well but at least the rival
+demanded an extortionate price in money and deeds. As a result you feel a bit better than if they had simply
+assisted you gratis. You now have a Rival to whom you owe an enormous favour. If you do not repay your
+benefactor when the time comes you will gain a powerful Enemy.
+
+5
+
+You were ejected from your home nest for taking your manipulations too far on a constant basis. The inferior
+nest-citizens were just too susceptible and that is not your fault.
+
+6
+
+Your nest suffered a disaster and broke up, with most citizens finding new nests quickly. There are rumours you
+caused the problem – which may or may not be true. You are out on your own and have gained D3 Rivals who
+resent what you may or may not have done.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+You inveigle your way into taking part in a major project outside your normal field of endeavour. You may roll on
+any Service Skills table for any career and gain the indicated skill.
+
+4
+
+You work towards advancement and of course you succeed! Gain DM+4 on your next advancement check.
+
+5
+
+You are determined to achieve Manipulator status and become a legend among your people. Gain DM+1 to all
+future advancement checks. You may receive this bonus in future terms.
+
+6
+
+You decide you need to develop a particular skill. Make a RES check. If successful you may gain a level in any
+skill you possess.
+
+7
+
+A Life Event occurs.
+
+8
+
+You travel aboard starships. Take one level in Pilot, Astrogation or Engineer.
+
+9
+
+You become involved with the embassy and visit many other nests. Gain an Ally and a Contact.
+
+10
+
+You spend considerable time outside the Hive Federation, practicing your manipulation skills on aliens with a
+very different culture. Gain a level of Streetwise and a non-Hiver Contact.
+
+11
+
+You act as a facilitator for a major endeavour – a diplomatic mission, a trade treaty of something similar. Gain
+RES +1 and an Ally.
+
+12
+
+Your home region suffers a disaster and naturally you are tasked with resolving it. Make a RES check. If
+successful you may make an immediate additional advancement check with DM+4. If this results in higher
+status than you already hold, you are advanced to this status. In addition, gain one level in any skill of your
+choice and a Contact outside Hiver society.
+
+267
+
+

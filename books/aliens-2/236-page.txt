@@ -1,0 +1,106 @@
+Automated systems do not require a Virtual Crewmember
+suite; suitable software is already installed. There are
+two standard modes of operation.
+Semi-Automated Mode requires some input from the
+command and control centre. The ship’s operator can
+highlight a target and clear the weapon to engage,
+after which it will do so until told to stop or pre-set
+parameters are met. The weapon will make its own
+decisions about when to fire but is essentially carrying
+out a limited set of instructions and requires some
+supervision. Similarly, the piloting system will fly the
+ship between two points set by the operator, according
+to whatever parameters have been pre-set. This might be
+least-time, fuel efficiency or a set of waypoints, which
+must be passed with a given speed and heading.
+Semi-automated mode requires a fair amount of
+oversight from the ship’s operator. A semi-automated
+weapon will engage the target it is given but ignore
+everything else, unless it has been placed in pointdefence mode in which case it will engage missiles and
+torpedoes automatically but according to a simplistic
+and possibly ineffective nearest-first fire plan. Semiautomated mode allows a small number of operators
+to run quite a large ship but is most effective when
+selecting pre-set routines. Going off-script can result in
+chaos unless the operator is experienced.
+Fully-Automated Mode is intended for the use of
+untrained personnel. The ship’s operator simply selects
+from a set of options and the vessel’s automated
+systems do the rest. Options are simple but can be
+amended by the user. This will end in disaster unless
+the operator is skilled in the relevant field. For example,
+the default option for ‘fly from this point to that point’
+is a least-time course with a margin of error built in,
+creating a transit that is predictable and around 20%
+less than optimal in terms of time taken. A skilled pilot
+can amend this to reduce the margin of error or build
+in a dogleg to get out of the common shipping lanes
+but someone who does not understand these concepts
+is unlikely to get exactly the result they want and may
+select options that result in a greatly slowed transit time
+or arriving quickly but too fast to enter orbit. There are
+warnings to prevent this but an unskilled person might
+think they are cleverly wringing the most out of the
+system by means of disabling them.
+A ship in fully-automated mode can be sent off as a
+drone to operate independently, although this can go
+badly wrong if the user gives poor instructions. One
+other problem is that automated ships do not have
+enough crew to deal with crises or replace casualties,
+so full automation is normally reserved for personal
+
+236
+
+transports and small craft. Larger vessels may use
+some automation to reduce crew requirements,
+especially in the case of vessels intended for freighting
+and the like but retain the capability to run with a full
+crew when necessary.
+
+Operating an Automated Ship
+
+Anyone who has completed the tutorials can operate
+an automated ship, after a fashion. The vessel can
+undertake only the simplest versions of common tasks
+– it can take off from a planet, jump to another then
+land at the starport but will do so in a relatively slow
+and entirely predictable manner, with large margins for
+safety and strict compliance with all procedures.
+To be used by an unskilled person, a vessel must be
+operating in fully-automated mode and suffers DM-4
+on all skill checks. However, it does not need to make
+checks for standard procedures such as docking or even
+plotting a jump. Instead it does everything about 20%
+slower than a standard crew would. Jump direction is
+not affected but setup times and safety margins are.
+A fully-automated ship that must use its weapons or
+attempt to evade incoming fire still suffers this DM4, as its combat manoeuvres and firing patterns are
+predictable and often inefficient.
+Someone with Tactics (naval) or Electronics (remote ops)
+can make use of semi-automated mode even if they do
+not understand the principals involved. For example, a
+pilot would understand the interplay of forces needed to
+get the ship into orbit with a particular velocity, whereas
+someone using a point-and-click interface can achieve
+the same result without really knowing how it happens.
+The pilot would be in a position to deal with anomalies
+and emergencies, whereas the point-and-click user has
+to hope the automatics can cope. Semi-automatic mode
+imposes DM-2 on all actions but the user can apply
+their Electronics (remote ops) or Tactics (naval) skill if
+they have one.
+Software intended to assist crewmembers does not affect
+either mode, although it will apply if the automation is
+turned off and crewmembers take full control.
+
+Auto-Plotted Jumps
+
+For unknown reasons, automated jumps are prone
+to an increased risk of misjump. A jump plotted by
+the automatic systems without the involvement of a
+sentient astrogator is subject to the same DM-4 as all
+other fully automated actions. For this reason, if just
+one skilled crewmembers is carried it is usually an
+astrogator. A jump plotted in semi-automatic mode by
+someone without the Astrogator skill but with a basic
+
+

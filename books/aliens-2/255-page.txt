@@ -1,0 +1,139 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+T
+
+H
+
+I
+
+R
+
+T
+
+Y
+
+F
+
+O
+
+U
+
+HIVER TRAVELLERS
+
+Creating a Hiver Traveller is generally similar to other
+races, though physical differences and the unusual
+nature of Hiver society may produce some divergence
+from the norm. There is no reason why a Hiver might not
+wander off on its own to travel and indulge its curiosity,
+but most Hivers would not call this ‘adventuring’ – that
+sounds a bit dangerous. A Hiver Traveller is likely to want
+to travel in comfort and to take safe options unless the
+more hazardous approach is highly interesting. It will also
+prefer to find at least a couple of companions who can
+take risks for it, and may go to considerable lengths to
+cultivate a relationship with someone who can be used as
+a bodyguard, distraction and/or catspaw.
+
+R
+
+a Hiver is in a civilised environment with a wide range
+of foodstuffs available it will be able to obtain what it
+needs for a proper diet, even if the people selling it do
+not imagine anyone would eat that stuff. However, when
+a Hiver is operating in the wilds or on a backwater planet
+– or in a closed environment like a starship where care
+has not been taken to ensure correct food is available, an
+imbalance or shortage may become serious.
+
+The following modifiers apply to all Hivers: STR -2
+
+Every 2D days without a guaranteed correct diet, a
+Hiver must make an Average (8+) END check. If this
+is unsuccessful, negative Effect must be subtracted
+from one of the Hiver’s six characteristics, selected at
+random. A deficiency disease can affect cognitive ability
+or physical capabilities, or both. Once deterioration has
+begun it continues until the disease is treated. Every 2D
+days, the Hiver loses 1D from one of its characteristics
+chosen at random. Treatment requires restoring a proper
+balance of nutrients and some supportive medical care.
+Every 1D days with a proper diet the Hiver regains the
+Effect of an Average (8+) Medic check or a minimum of 1
+point from the worst affected of its characteristics. If any
+characteristic reaches zero as a result of deficiency disease
+the Hiver is incapacitated. It loses 1 point from each
+characteristic until all are at zero, at which point it dies.
+
+Resolve (RES)
+
+Hiver Traits
+
+CREATING A HIVER
+
+TRAVELLER
+
+Creating a Hiver Traveller is generally similar to other
+races, except that there is no formal rank structure in
+Hiver society. Hivers have no equivalent of SOC, but
+instead use a characteristic named Resolve (RES). Most
+characteristics are rolled on 2D, but Hiver Travellers roll
+Resolve on 1D+6.
+
+The Resolve characteristic is a measure of the Hiver’s
+will, intellect and desire to get its own way. It is linked
+to curiosity in some ways, and might be considered
+an enabler. That is, a Hiver who is highly curious but
+timid will not learn much; one who has big plans and
+good manipulation skills but lacks conviction will never
+achieve much. A Hiver with a low Resolve tends to be a
+conformist, a good and dependable member of society
+who will cooperate with others for the common good
+and does not try to use others as pawns all that much
+– in other words the sort of person manipulators like to
+make use of. A Resolve score of 7+ indicates that the
+Hiver has sufficient conviction to undertake significant
+manipulations – though whether it has the finesse to
+carry them off is another matter.
+
+Deficiency Diseases
+
+Whilst being debilitated by disease is not the epitome of
+free-wheeling interstellar adventure, it is a factor in the
+lives of Hiver Travellers. It can be assumed that when
+
+Hiver Travellers all have the following Traits.
+Hiver Physiology: Hivers gain a +2 DM on all checks to
+resist disease or chemical toxins, and have a natural
+2 points of armour from their leathery skin. Hivers can
+regrow small parts of their body - fingers, sections of skin
+or even organs, but not eyes or ears – even if completely
+severed. If a Hiver takes enough damage to kill it – STR,
+DEX and END all reduced to zero, it becomes dormant
+rather than dying. The Hiver can take additional damage
+up to its END before actually dying. If it is not killed, it
+begins to regenerate negative END at the rate of 1D3
+points per hour. When END reaches 0, STR, DEX and END
+are reset to 1 and the Hiver can begin to function again. If
+a Hiver’s END is reduced to a level worse than its negative
+END, it dies. Hivers are prone to deficiency diseases
+and must maintain a correct diet. If the proper balance
+of nutrients is not available for 2D days, the Hiver may
+become ill. See Deficiency Diseases, above.
+
+255
+
+

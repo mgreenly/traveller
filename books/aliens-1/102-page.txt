@@ -1,0 +1,245 @@
+AOA’IW-CLASS LIGHT TRADER
+TL11
+
+TONS COST (MCR)
+
+Hull
+
+300 tons, Streamlined
+
+—
+
+18
+
+Armour
+
+Crystaliron, Armour 4
+
+15
+
+3.6
+
+M-Drive
+
+Thrust 1
+
+3
+
+6
+
+J-Drive
+
+Jump 2
+
+20
+
+30
+
+Power Plant
+
+Fusion (TL8), Power 130
+
+13
+
+6.5
+
+Fuel Tanks
+
+J-2, 4 weeks of operation
+
+62
+
+—
+
+Bridge
+
+20
+
+1.5
+
+Computer
+
+Computer/10
+
+—
+
+0.16
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Weapons
+
+Double Turrets (beam lasers) x 2 2
+
+3
+
+Double Turrets (missile rack,
+sandcaster)
+
+1
+
+1.5
+
+Ammunition
+
+Missiles x 12
+
+1
+
+—
+
+Sandcaster Barrels x 20
+
+1
+
+—
+
+Systems
+
+Shrine
+
+4
+
+0.5
+
+Fuel Scoops
+
+—
+
+—
+
+Docking Space (4 tons)
+
+5
+
+1.25
+
+Air/Raft
+
+—
+
+0.26
+
+Docking Space (20 tons)
+
+22
+
+5.5
+
+Launch
+
+—
+
+5.607
+
+Standard x 8
+
+32
+
+4
+
+Low Berths x 12
+
+6
+
+0.6
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Common
+Areas
+
+6
+
+0.6
+
+Cargo
+
+86
+
+—
+
+Staterooms
+Software
+
+CREW
+PILOT, ASTROGATOR, PURSER,
+ENGINEER, GUNNERS X 2
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr7,648/month
+
+PURCHASE COST
+Mcr91.777
+
+Power Requirements
+30
+
+60
+
+3
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+60
+
+1
+
+19
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 91.777
+A popular design inside the Hierate,
+especially within the Trojan Reach, the
+little Aoa’iw is a 300-ton trader that
+combines a sizable cargo bay with space
+for passengers, enough firepower to serve
+as a raider or defend itself from piracy
+and vehicles to support a flexible mission
+profile. Aoa’iws are often owned by clans,
+as they are capable of performing a wide
+variety of tasks. On the border worlds, the
+Aoa’iw is nicknamed the ‘pouncer’, as it
+does resemble a crouching animal from
+certain angles.
+
+120
+HULL POINTS
+102
+
+

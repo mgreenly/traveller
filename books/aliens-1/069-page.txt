@@ -1,0 +1,192 @@
+Aslan Crew Requirements
+Position
+Captain
+
+Gender
+Male
+
+Skills
+
+Pilot
+Purser
+
+Male
+Female
+
+Cr6000
+Cr5000
+
+Commercial
+Usually the leading
+officer
+1
+1
+
+Cr5000
+
+—
+
+1
+
+Cr5000
+
+1 if jump drive
+installed
+1 per 35 tons of drives
+and power plant
+1 per 1000 tons of
+ship
+1 per turret, bay or
+screen
+
+1 if jump drive installed
+
+—
+
+Salary
+Cr10000
+
+Astrogator
+
+Female
+
+Pilot
+Admin or
+Broker
+Leadership or
+Tactics
+Astrogation
+
+Engineer
+
+Female
+
+Engineer
+
+Cr4000
+
+Maintenance
+
+Female
+
+Mechanic
+
+Cr1000
+
+Gunner
+
+Male
+
+Gunner
+
+Cr2000
+
+Steward
+Administrator
+
+Female
+Female
+
+Steward
+Admin
+
+Cr2000
+Cr1500
+
+Officer
+
+Either
+
+Leadership or
+Tactics
+
+Cr5000 *
+
+Executive Officer Male
+
+* This can be presumed to be an average taken across
+all officer positions on a ship. In practice, it will vary a
+great deal between junior and senior officers.
+Note that any smaller craft carried by a ship will have
+their own crew in addition to those necessary for the
+mother vessel.
+Societal Standards: Because of expectations within Aslan
+society, all but pirate ships will restrict crew positions
+to the proper gender. Only males may be gunners
+and pilots. Only females will be astrogators, pursers,
+engineers, medics and stewards. Otherwise undefined
+crew positions (security personnel, mechanics,
+technicians, small craft pilots, and clerks) are open to
+any properly skilled individuals, although noble males
+will refuse most positions other than gunner or pilot.
+
+ASLAN CONTROL
+
+SYSTEMS
+
+Aslan controls fall into four categories – male, female,
+dual and reconfigurable. Male controls are deliberately
+simplified and abstracted, displaying only the most
+vital information. Female control displays are overly
+complex, giving a bewildering array of options to the
+user and requiring great skill to master. Dual controls
+include both male and female control systems in the
+one system; either the male controls are a clearly
+demarcated subset of the female controls or the control
+system is compact enough to have two entirely separate
+interfaces. Finally, reconfigurable controls are the most
+advanced and can dynamically change themselves to
+present the appropriate interface.
+
+1 per 4 noble males
+1 per 2000 tons of
+ship
+1 per full 20 crew
+
+Military
+1
+3
+—
+
+1 per 35 tons of drives
+and power plant
+1 per 500 tons of ship
+2 per turret, bay or
+screen, 1 per 100 tons of
+spinal mount weaponry
+1 per 4 noble males
+1 per 1000 tons of ship
+1 per full 10 crew
+
+On most large spacecraft, the piloting and gunnery
+interfaces are male, while all other control systems are
+female. Dual controls are more common on smaller
+ships, where a smaller crew makes it more likely that an
+Aslan will have to perform duties commonly associated
+with the opposite gender. Ships built at TL13 or higher
+always have reconfigurable controls throughout.
+A female Aslan will never suffer penalties for using maleconfigured controls (although she will likely become
+frustrated at their simplicity), but male Aslan using femaleconfigured controls suffer DM-2 to all relevant checks.
+Aslan dislike automated systems, so few Aslan ships
+come equipped with Evade programs and Fire Control
+software only offers DMs to attack rolls – it cannot make
+automated attacks by itself.
+
+SHRINES
+
+All Aslan ships carry a Shrine to Heroes, where Aslan go
+to meditate on (and gain confidence from) the thoughts,
+deeds and philosophies of their ancestors. This is
+typically a small, private room, draped in tapestries and
+decorated with scenes of conquest.
+An Aslan ship of more than 100 tons must have at least
+one Shrine to Heroes (smaller ships may have them at
+the option of their owners) and larger ships must have
+at least one per 10,000 tons. A Shrine is treated as if it
+were a normal stateroom (consumes four tons and costs
+MCr0.5) but it cannot be used for occupancy and does
+not incur any life support costs.
+
+69
+
+

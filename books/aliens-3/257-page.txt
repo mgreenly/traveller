@@ -1,0 +1,158 @@
+T
+
+ROBOTS AND DRONES
+
+Bwaps rarely have a use for robots and drones, seeing
+them as usurping their place in the universe. They do
+however, frequently design and build robots for other
+races. Like their computing technology, Bwap robot
+design is advanced and they lead other Imperial races
+in robotic research.
+Interaction Bot: These Bwapoid robots were designed
+specifically to ease the interaction between human and
+Bwap. Similar to the protocol droid in nature, they are
+programmed with advanced administration data as well
+as the relevant aspects of the Wapawab philosophy and
+Bwap ritual to ensure that misunderstandings are kept
+to a minimum. Bwaps do not enjoy interacting with these
+robots but grudgingly understand the need for them.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Robot
+
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Interaction Bot
+
+20
+
+5m
+
+14
+
+MCr2
+
+Locomotion
+
+Walker
+
+Skills
+
+Admin 3, Advocate 2, Diplomat 2,
+Language (Bwap) 3, Persuade 1
+
+Attacks
+
+None
+
+Manipulators
+
+2 X (STR 9 DEX 8)
+
+Endurance
+
+216 hours
+
+Traits
+
+Armour (+3), ATV, (idle),
+Heightened Senses
+
+Programming
+
+Very Advanced (INT 11)
+
+Options
+
+Android (enhanced), Auditory
+Sensor (broad spectrum), Drone
+Interface, Quick Charger, SelfRepairing Chassis, Transceiver 500
+km (advanced), Visual Spectrum
+Sensor, Voder Speaker (broad
+spectrum), Wireless Data Link,
+spare slot x4
+
+MEDICAL SUPPLIES
+Bwap medical supplies run the gamut from herbal
+remedies to advanced bio-chemical and genetic
+modification. Medical supplies are used to augment
+short fallings in Bwap physiology or assist survival in
+extreme circumstances.
+
+CSC: Bwaps
+
+Amino Acid Supplements: Bwaps can find it difficult
+obtaining all the amino acids they require when
+consuming food not native to Marhaban. These amino
+acid supplement pills are designed to be taken once
+daily to circumvent malnutrition acquired from consuming
+a diet not completely suited to their nutritional needs.
+Cr20 will buy enough pills to last a Bwap for one month.
+
+258
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Amino Acid Supplements
+
+8
+
+—
+
+Cr20
+
+Hydronol 9: Hydronol 9 pills are a drug designed to limit
+the amount of moisture a Bwap loses in a dry environment.
+The drug seals pores in the skin, keeping the Bwap
+hydrated for 24 hours as long as normal fluid intake is
+maintained. Hydronol 9 does not come without risks
+however. Continued usage in excess of a week can cause
+permanent damage to the skin and kidneys, causing the
+loss of END-1 permanently. If a Bwap is reduced to END 0
+through the use of Hydronol 9, they have suffered kidney
+failure and will require immediate medical attention. Cr100
+will buy enough pills to last a Bwap a week.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Hydronol 9
+
+11
+
+—
+
+Cr100
+
+R
+
+

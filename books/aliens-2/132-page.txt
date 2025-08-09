@@ -1,0 +1,205 @@
+2
+
+NAVY
+
+The Confederation Navy patrol Solomani space
+and stand ready to resist Imperial, Aslan and Hiver
+aggression. They also perform exploration missions on
+the rimward frontiers and engage in routine survey and
+message transmission activities.
+Qualification: INT 5+
+If you are aged 34 or more: DM-2
+Per previous career: DM-1
+
+CAREER PROGRESS
+SURVIVAL
+Line/Crew
+INT 5+
+Technical
+INT 6+
+Flight
+DEX 7+
+Commission: SOC 8+
+
+ADVANCEMENT
+EDU 7+
+EDU 6+
+EDU 5+
+
+MUSTERING OUT BENEFITS
+
+ASSIGNMENTS
+Choose one of the following:
+Crew: You served as a general crewman, officer or
+political officer aboard a Solomani warship.
+Technical: You served as a specialist technician,
+gunner, scientific or engineering officer on a Solomani
+warship. This will provide you with good technical
+skills but fewer opportunities for advancement.
+Flight: You served as the pilot of a fighter, assault
+shuttle, system defence boat or other small vessel.
+This gives you excellent piloting skills and is a fast
+track to promotion but is also the most dangerous.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr4000
+Cr8000
+Cr10000
+Cr10000
+Cr20000
+Cr40000
+Cr50000
+
+BENEFITS
+Air/Raft or Ship Share
+INT +1
+EDU +2 or two Ship Shares
+Weapon
+SOC + 1
+Terran Adventurers Society
+SOC +2
+
+SKILLS AND TRAINING
+1D
+
+PERSONAL DEVELOPMENT SERVICE SKILLS
+
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+Language
+DEX +1
+END +1
+INT +1
+EDU +1
+Carouse
+CREW
+Electronics (comms)
+Gun Combat
+Mechanic
+Melee
+Electronics (sensors)
+Vacc Suit
+
+Electronics (comms)
+Gun Combat
+Gunner
+Mechanic
+Vacc Suit
+Pilot
+TECHNICAL
+Engineer
+Engineer
+Gunner
+Mechanic
+Electronics (remote ops)
+Electronics (sensors)
+
+ADVANCED EDUCATION
+(MINIMUM EDU 8)
+Admin
+Electronics
+Engineer
+Medic
+Pilot
+Navigation
+FLIGHT
+Pilot
+Flyer
+Gunner
+Pilot (small craft)
+Astrogation
+Electronics
+
+OFFICER SKILLS
+(COMMISSIONED ONLY)
+Admin
+Astrogation
+Diplomat
+Leadership
+Science
+Tactics (naval)
+—
+—
+—
+—
+—
+—
+
+RANKS AND BENEFITS
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+132
+
+NCO RANK
+Starman
+Alternate
+Delegate
+Deputy
+Commissioner
+Chairman
+Minister
+
+SKILL OR BENEFIT
+—
+Admin 1
+—
+Advocate 1
+—
+Leadership 1
+—
+
+RANK OFFICER RANK
+—
+0
+1
+Ensign
+2
+Lieutenant Junior Grade
+3
+Lieutenant
+4
+Commander
+5
+Captain
+6
+Admiral
+
+SKILL OR BENEFIT
+—
+
+SOC +1
+Leadership 1
+—
+Tactics (naval) 1
+SOC 10 or SOC +1, whichever is higher
+SOC 12 or SOC +1, whichever is higher
+
+

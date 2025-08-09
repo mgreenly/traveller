@@ -1,0 +1,65 @@
+Tezcat Travellers
+
+Mishaps
+
+T
+
+230
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+1D
+
+MISHAP
+
+1
+
+You are severely injured in action (this is the same as a result of 2 on the Injury table).
+Alternatively, roll twice on the Injury table and take the lower result.
+
+2
+
+A mission goes horribly wrong. You and several others are captured and mistreated by the enemy.
+Due to your injuries, you are discharged early. Gain your gaoler as an Enemy and reduce your
+STR and DEX by one because of your injuries.
+
+3
+
+During a battle, defeat or victory depends on your actions. You must make an 8+ check using a
+skill which depends on your branch. Electronics (sensors) or Pilot if you are flight, Mechanic or
+Vacc Suit if you are support and Gun Combat or Stealth if you are commando. If you fail, the ship
+suffers severe damage and you are blamed for the disaster, court-martialled and discharged. If you
+succeed, your efforts ensure you are honourably discharged. You still leave the career but keep
+your Benefit roll for this term.
+
+4
+
+You are blamed for an accident which causes the death of several crew members. If you were
+responsible, reduce your SOC by one, before being ejected from this career as your guilt drives
+you to exile. If you were not, then gain the officer who blamed you as an Enemy but keep your
+Benefit roll from this term.
+
+5
+
+You are tormented by or quarrel with an officer or fellow commando. Gain the character as a Rival
+as they drive you out of the service.
+
+6
+
+Injured. Roll on the Injury table.
+
+R
+
+

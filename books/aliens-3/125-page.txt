@@ -1,0 +1,153 @@
+C
+
+ENTRAL SUPPLY CATALOGUE: GEONEE
+
+Geonee goods are well known throughout the Imperium
+for their use of the best technology available.
+
+PERSONAL PROTECTION
+Geonee rarely wear armour unless necessary for
+their occupation. Within the armed forces, personal
+protection is, by necessity, commonly worn in both
+functional and ceremonial capacities. Due to their
+smaller size Geonee armour must be made specifically
+for them, although it generally costs no more than
+standard. Armour designed for Geonee will not fit the
+average Imperial citizen.
+A special note should be made regarding the Llyrnians
+and their armour. Llyrnians must also have their armour
+made specifically for them and, due to their differing
+anatomy, will cost 150% more than similar protection
+designed with a human in mind.
+
+highly and on special occasions it is expected nobles
+and warriors wear traditional ceremonial armour to
+add a touch of flare and create a sense of cultural
+and social presence. While the armour imparts an air
+of importance, it provides little in the way of actual
+protection. Ceremonial armour is made of lightweight
+textiles and light armour padding to provide a flexible
+frame for comfort during social occasions.
+
+Llyrnian Battle Dress: Battle dress designed
+
+RAD
+
+KG
+
+—
+
+8
+
+Cr2500
+
++5
+
+2
+
+—
+
+15
+
+Cr1750
+
+None
+
++17
++19
+
+12
+15
+
+145
+180
+
+20
+16
+
+Cr132000
+Cr240000
+
+Vacc Suit 0
+Vacc Suit 0
+
+Llyrnian Traditional Armour
+Llyrnian Combat Armour
+
+PROTECTION TL
++22
++25
+
+armour is similar to human combat armour – a
+complete array of metal and synthetic armour,
+strictly confined to the military and not available
+on the open market. It contains oxygen tanks for
+12 hours and a recycling unit that can more than
+double this endurance if the user is not unduly
+exerting themselves.
+
+3
+
++2
+
+Llyrnian Battle Dress
+
+Llyrnian Combat Armour: Llyrnian combat
+
+TL
+
+Ceremonial Armour
+
+ARMOUR TYPE
+
+126
+
+PROTECTION
+
+well protected by their armoured hide but gain
+advantage when further armoured. Traditional
+Llyrnian armour is largely superseded by more
+advanced protection but can still be found in use
+within some communities.
+
+specifically with the anatomy of the Llyrnian in
+mind. When so outfitted, a Llyrnian presents a
+formidable opponent. All standard battle dress
+modifications can be attached to these suits and
+they possess an electronics suite based on their
+Tech Level as detailed on page 30 of the Central
+Supply Catalogue.
+
+Ceremonial Armour: Geonee value their history
+
+ARMOUR TYPE
+
+Llyrnian Traditional Armour: Llrynians are
+
+13
+14
+
+COST
+
+RAD STR DEX SLOTS KG COST
+245
+290
+
++4
++6
+
++4
++4
+
+16
+16
+
+REQUIRED SKILL
+None
+
+REQUIRED SKILL
+
+125 Cr300000 Vacc Suit 2
+120 Cr300000 Vacc Suit 1
+
+

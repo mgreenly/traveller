@@ -1,0 +1,155 @@
+UNITY GRAV AFV
+FLYER (GRAV)
+
+AGILITY
+
++2
+
+SPEED (CRUISE)
+
+FAST (HIGH)
+
+RANGE (CRUISE)
+
+3000 (4500)
+
+CREW
+
+2
+
+PASSENGERS
+
+9
+
+CARGO
+
+0.5 TONS
+
+HULL
+
+60
+
+SHIPPING
+
+15 TONS
+
+COST
+
+MCR10.3
+
+F RONT
+
+70
+
+REAR
+
+30
+
+SIDES
+
+50
+
+GAUS
+SC
+A
+T
+L AU
+
+NCHER
+
+WEAPONS
+
+ON
+
+SKILL
+
+ARMOUR
+
+Autopilot (skill level) 3
+Communications 10000
+(range) km
+Navigation
+(Navigation DM) +2
+Sensors (Electronics
+(sensors) DM) +1
+Camouflage (Recon
+DM) -4
+Stealth (Electronics
+(sensors) DM) –2
+
+NN
+
+12
+
+AC
+
+TL
+
+Small Turret (gauss cannon, advanced fire control)
+Fixed Mount (tac launcher – AP, forward, enhanced fire control) x 2
+
+EQUIPMENT
+Autopilot (advanced), Camouflage (advanced), Communication System
+(advanced, encrypted, increased range, tightbeam), Computer/3, Control System
+(advanced), ECM (advanced), Fire Extinguisher, Life Support (short term),
+Navigation System (improved), Prismatic Aerosol Discharger, Sensor System
+(improved), Stealth (improved), Vacuum Protection
+
+TRAITS
+AFV
+
+WEAPON
+
+RANGE
+
+DAMAGE
+
+MAGAZINE
+
+MAGAZINE COST
+
+TRAITS
+
+FIRE CONTROL
+
+Gauss Cannon
+
+2
+
+1DD
+
+200
+
+Cr1000
+
+AP 10, Auto 3
+
++4
+
+Tac Launcher (AP)
+
+6
+
+8D
+
+4
+
+Cr6000
+
+AP 10, Smart
+
++3
+
+DESCRIPTION
+The standard Zhodani Army and Consular
+Guard infantry fighting vehicle, this is a
+sleek, turreted grav sled armed with a gauss
+cannon. Inside, it carries a pilot, commander/
+gunner and a nine-man infantry squad. Fast
+and stealthy, the Unity is capable getting its
+squad into position before proper opposition
+can be mounted.
+
+287
+
+

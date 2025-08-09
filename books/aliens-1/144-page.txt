@@ -1,0 +1,119 @@
+A11/58231
+
+WEAPON-OF-LENGTH
+
+Incorporating the same highly robust laser system as the
+lance-of-length, the weapon-of-length is a conventional laser
+rifle. It has a vastly better effective range than the lance
+version since it is designed to be held in both hands and
+braced against the shoulder. Rifles of this sort are favoured
+by sharpshooters whereas those preferring to get stuck in use
+the lance-of-length. Most fighting-bands contain members
+equipped with a mix of both, though specialist bands do exist.
+
+Weapon
+Weapon-of-Length
+
+A11/58231
+
+TL
+10
+
+Range
+300
+
+Damage
+5D
+
+Kg
+9
+
+Cost
+Cr4000
+
+Magazine
+200
+
+Power Pack Cost
+Cr2000
+
+Traits
+Zero-G
+
+Kg
+14
+
+Cost
+Cr22000
+
+Magazine
+40
+
+Power Pack Cost
+Cr5000
+
+Traits
+Very Bulky
+
+WEAPON-OF-DESTRUCTION
+
+The standard heavy squad support weapon in most
+K’kree forces is equivalent to a PGMP-12. The K’kree
+version is just as bulky as human TL12 plasma weapons
+but the mass is distributed such that it can be used by
+a K’kree without the need for battle dress, providing
+the gunner adopts a braced stance. The weapon-ofdestruction uses a backpack power supply good for 40
+shots and is only considered Very Bulky if the user is
+trying to fire on the move.
+
+Weapon
+Weapon-ofDestruction
+
+TL
+12
+
+Range
+250
+
+Damage
+1DD
+
+WEAPONS
+
+CARRIERS
+
+K’kree forces make extensive use of grav-powered
+weapon platforms, which operate semi-autonomously
+under the direction of a handler. Usually a handler
+operates a single platform but at need a skilled handler
+can control more than one. A number of additional
+platforms equal to the handler’s Electronics (remote
+ops) skill can be run without penalty. Any more imposes
+DM-2 on all actions per additional platform due to the
+possibility of confused or sub-optimal directions.
+Weapons carriers are designated by names generally
+derived from something that happened during their
+introduction to service. All have a semi-autonomous
+movement and fire control system. If not under
+active command they will loosely follow their handler,
+weaving around in an automatic pseudorandom evasion
+
+144
+
+pattern. Commands are selected from a menu and/or
+designation system, enabling the unit to be directed
+to attack the nearest target, the last target to fire on
+the handler’s band, the heaviest weapon the enemy is
+using and so forth.
+All weapons carriers have an effective skill that is used
+when operating in semi-autonomous mode. The handler
+can directly control one of his weapons carriers, using
+his Electronics (remote ops) skill instead of the unit’s
+own programming, although this can only be done
+when stationary and carrying out no other actions. The
+standard sensor package includes radar, low-light and
+thermal sensors, all of which feed to the handler’s
+heads-up display. Data can then be pushed to other
+band members.
+
+

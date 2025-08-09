@@ -1,0 +1,181 @@
+KHTUKHAO-CLASS CLAN TRANSPORT
+TL13
+
+TONS
+
+COST (MCR)
+
+Hull
+
+600 tons, Standard
+
+—
+
+30
+
+M-Drive
+
+Thrust 2
+
+12
+
+24
+
+J-Drive
+
+Jump 2
+
+35
+
+52.5
+
+Power Plant
+
+Fusion (TL12), Power
+255
+
+17
+
+17
+
+Fuel Tanks
+
+J-2, 4 weeks of operation 122
+
+—
+
+20
+
+3
+
+Bridge
+Computer
+
+Computer/5 bis
+
+—
+
+0.045
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Systems
+
+Shrine
+
+4
+
+0.5
+
+Docking Space (95 tons)
+
+105
+
+26.25
+
+Shuttle
+
+—
+
+15.167
+
+Standard x 25
+
+100
+
+12.5
+
+Low Berths x 30
+
+15
+
+1.5
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Common
+Areas
+
+20
+
+2
+
+Cargo
+
+149
+
+—
+
+Staterooms
+Software
+
+TOTAL: MCR 187.662
+
+CREW
+PILOT, ASTROGATOR,
+PURSER, ENGINEERS X 2
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr15639/month
+
+PURCHASE COST
+MCr187.662
+
+Power Requirements
+120
+
+120
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+120
+
+1
+
+JUMP DRIVE
+
+SENSORS
+
+Using a 600-ton hull, this clan transport
+is a large freight and passenger vessel
+used by clans and companies upon major
+trade routes. A 95-ton shuttle is carried
+as ship’s vehicle which, with a generous
+passenger or cargo capacity means the
+transport does not require a streamlined
+hull itself and the shuttle’s cargo bay is
+often utilised to increase the total tonnage
+this ship can carry.
+
+240
+HULL POINTS
+76
+
+

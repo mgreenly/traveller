@@ -1,0 +1,147 @@
+RAPID HEAL SYMBIONT
+
+SIGHT ENHANCEMENT SYMBIONT
+
+A microscopic genetically matched organism living
+in the host’s blood, the rapid heal symbiont remains
+inactive until the host is injured, at which point it rushes
+to the site and assists the local cells in making repairs.
+The microbe can stem blood loss and assist in replacing
+lost tissue. The scars produced by the organism are
+quite thick and puckered. Any Medic check made by or
+for the host of this symbiont receives a bonus DM+1.
+The symbiont reproduces naturally within the body of
+the host but dies if transplanted to another.
+
+At TL9 they only correct vision impairments, returning
+short or long sightedness to 20/20 vision. At TL10, they
+give their host the abilities of a set of binoculars.
+
+At TL11 the bonus increases to DM+2 and at TL14
+to DM+3.
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Sight Enhancement
+Symbiont
+
+9
+
+—
+
+Cr5000
+
+Sight Enhancement
+Symbiont
+
+10
+
+Sight Enhancement
+Symbiont
+
+12
+
+—
+—
+
+Cr12000
+Cr15000
+
+Similar to cybernetic eyes but without surgery, the
+sight enhancement symbiont looks like a pair of
+contact lenses.
+
+At TL12 they also give the abilities of IR/Light intensifier
+goggles. Sight enhancement symbionts give their host
+an eerie metallic sheen to the iris which cannot be
+hidden. They cannot be used with any other symbionts
+which live on the eye. Sight enhancement symbionts
+have a life span of approximately eight years.
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Rapid Heal Symbiont
+
+9
+
+—
+
+Cr40000
+
+Rapid Heal Symbiont
+
+12
+
+—
+
+Cr80000
+
+Rapid Heal Symbiont
+
+14
+
+—
+
+Cr200000
+
+HOME COMFORTS
+Rapid Heal
+Symbiont
+
+Suerrat have extended their genetic engineering skills
+to provide home comforts through biological means.
+
+AIR CLEANSER
+This is a genetically engineered plant which can
+subsist on artificial light and draw nutrients from the
+atmosphere. The air cleanser removes offensive
+odours from the air and replaces them with a pleasant
+scent specified on purchase. A single plant, provided
+in its own container, can cleanse the air in a standard
+stateroom within an hour and maintain a pleasant
+aroma for the extent of its life.
+More plants are required for larger areas. The air
+cleanser produces small attractive flowers but cannot
+produce viable seeds, nor do cuttings or splitting
+the plant take. The air cleanser has a life span of
+approximately five years. Scents include but are
+not limited to vanilla, citrus, sandalwood, freshly cut
+grass and other pleasant aromas.
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Air Cleaner
+
+9
+
+3kg
+
+Cr500
+
+CSC: SueRrat
+
+Sight
+Enhancement
+Symbiont
+
+57
+
+

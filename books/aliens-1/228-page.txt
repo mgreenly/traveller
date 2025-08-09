@@ -1,0 +1,198 @@
+KOERAE TRADER
+TL14
+
+TONS COST (MCR)
+
+Hull
+
+200 tons, Streamlined
+
+—
+
+12
+
+Armour
+
+Crystaliron, Armour 2
+
+5
+
+1.2
+
+M-Drive
+
+Thrust 2
+
+4
+
+8
+
+J-Drive
+
+Jump 2
+
+15
+
+22.5
+
+Power Plant
+
+Fusion (TL8), Power 100
+
+10
+
+5
+
+Fuel Tanks
+
+J-2, 4 weeks of operation 41
+
+—
+
+10
+
+1
+
+Bridge
+Computer
+
+Computer/5 bis
+
+—
+
+0.045
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Weapons
+
+Single Turrets x 2
+
+2
+
+0.4
+
+Systems
+
+Fuel Processor (40 tons/
+day)
+
+2
+
+0.1
+
+Fuel Scoops
+
+—
+
+—
+
+Loading Belt
+
+1
+
+0.003
+
+Staterooms
+
+Standard x 5
+
+20
+
+2.5
+
+Software
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Common
+Areas
+
+8
+
+Cargo
+
+81
+
+TOTAL: MCR 56.748
+
+CREW
+PILOT, ASTROGATOR, ENGINEER, MEDIC
+AND GUNNER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr4682/month
+
+PURCHASE COST
+MCr4729
+
+Power Requirements
+40
+
+40
+
+2
+
+0.8
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+—
+
+40
+
+1
+
+2
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+This interstellar trading vessel is built on a
+200-ton hull and is used extensively in the
+Vargr Extents. Like most Vargr ships, the
+Koerae is armoured to provide protection
+against the many corsair bands that prowl
+the trade lanes. While not sufficient to
+keep the Koerae safe in pitched battle, the
+thin armour is deemed enough to buy time
+to escape an attacker.
+
+80
+HULL POINTS
+228
+
+

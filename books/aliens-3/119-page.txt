@@ -1,0 +1,181 @@
+T
+
+1
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+ADRAT
+Career progress
+
+This career embraces your Ancients heritage by training upcoming
+youth, trading Geonee technology to others or looking for artefacts
+left by your ancestors.
+Qualification: INT 8+
+DM-1 for every previous career
+
+Choose one of the following:
+
+Technical School and Academy: You are a teacher,
+
+Geonee Travellers
+
+Mishaps
+
+Skills and training
+
+instructing others in advanced technical subjects.
+Commercial Service: You are a trader taking advanced
+Geonee goods to be sold elsewhere.
+Retrieval Service: You are an explorer seeking advanced
+technology and Ancients artefacts.
+
+CASH
+Cr20000
+Cr20000
+Cr30000
+Cr30000
+Cr50000
+Cr50000
+Cr75000
+
+BENEFITS
+INT +1
+EDU +1
+Weapon
+Two Ship Shares
+SOC +1
+Two Ship Shares
+Free Trader
+
+PERSONAL DEVELOPMENT
+INT +1
+EDU +1
+Jack-of-all-Trades
+Language
+Diplomat
+Carouse
+
+1D
+1
+2
+3
+4
+5
+6
+
+TECHNICAL SCHOOL AND ACADEMY COMMERCIAL SERVICE
+Science
+Pilot (spacecraft)
+Engineer
+Vacc Suit
+Electronics
+Deception
+Profession (teacher)
+Streetwise
+Drive
+Broker
+Mechanic
+Steward
+
+1D
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury table and take the lower result.
+You find an Ancients artefact but a disaster in recovering it leaves several injured and others
+blame you, forcing you to leave this career. Roll on the Injury table twice, taking the highest result
+and gain an Enemy.
+An expedition goes wrong, leaving you stranded on a low-tech planet. Gain Streetwise 1 or
+Persuasion 1. By the time you find your way home, your career has ended.
+You find yourself involved in a cover-up involving the Imperial Scouts and ADRAT, and you are
+made the scapegoat. You salvage what you can of reputation (leave the career but retain this term’s
+Benefit roll) or start from scratch (lose all Benefit rolls from this career but you do not have to leave).
+Your ship is damaged and you have to make your way home as best you can. Gain 1D Contacts
+and D3 Enemies.
+Injured. Roll on the Injury table.
+
+1
+2
+
+3
+4
+
+6
+
+SERVICE SKILLS
+Electronics
+Engineer
+Mechanics
+Science
+Investigate
+Science
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+1D
+1
+2
+3
+4
+5
+6
+
+5
+
+120
+
+ADVANCEMENT
+INT 7+
+INT 6+
+EDU 7+
+
+Mustering out benefits
+
+ASSIGNMENTS
+
+1
+
+SURVIVAL
+Technical
+EDU 6+
+Commercial EDU 6+
+Retrieval
+END 6+
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Art
+Electronics
+Engineer
+Science
+Admin
+Advocate
+RETRIEVAL SERVICE
+Pilot
+Engineer
+Electronics
+Persuade
+Streetwise
+Vacc Suit
+
+R
+
+

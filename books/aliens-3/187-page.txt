@@ -1,0 +1,177 @@
+DEEP DIVE SCOUT/COURIER
+Crew
+
+The deep dive scout is a standard Type S scout
+courier modified for Dolphin use. While the exterior
+is very similar to the original design, the internal
+layout and fittings have been altered with the Dolphin
+psychology and comfort in mind.
+
+TL12
+
+Hull: 40
+TONS COST (MCr)
+
+Running Costs
+
+Hull
+
+100 tons, Streamlined
+
+—
+
+6
+
+Crystaliron, Armour: 4
+
+6
+
+MAINTENANCE COST
+
+Armour
+
+1.2
+
+Cr3044.625/month
+
+M-Drive
+
+Thrust 2
+
+2
+
+4
+
+Jump 2
+
+10
+
+15
+
+PURCHASE COST
+
+J-Drive
+Power Plant
+
+Fusion (TL12), Power 60
+
+4
+
+4
+
+Fuel Tanks
+
+J-2, 12 weeks of operation
+
+23
+
+—
+
+10
+
+0.5
+
+Bridge
+Computer
+
+Computer/5bis
+
+—
+
+0.045
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Double Turret
+
+1
+
+0.5
+
+Systems
+
+Fuel Processor (20 tons/day)
+
+1
+
+0.05
+
+Fuel Scoops
+
+—
+
+—
+
+Probe Drones (10)
+
+2
+
+1
+
+Staterooms
+
+Dolphin Standard x4
+
+32
+
+4
+
+Software
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+7
+
+—
+
+Cargo
+
+Deep Dive
+Scout/Courier
+
+188
+
+Pilot, Astrogator,
+Engineer
+
+MCr36.5355
+
+Power Requirements
+Basic Ship Systems
+20
+Manoeuvre Drive
+20
+Jump Drive
+20
+Sensors
+2
+Weapons
+1
+Fuel Processor
+1
+
+

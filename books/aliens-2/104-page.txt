@@ -1,0 +1,139 @@
+UB-75 LARGE UTILITY BOAT
+TL14
+Hull
+M-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+
+Staterooms
+
+Software
+Cargo
+
+75 tons,
+Streamlined
+Thrust 4
+Fusion (TL12),
+Power 45
+4 weeks of
+operation
+Computer/10
+Civilian
+Single Turret
+(pulse laser)
+Firmpoint Dual
+Container/
+Launchers x2
+Acceleration
+Benches x2
+Cabin Space
+Manoeuvre/0
+
+TONS
+
+COST (MCR)
+
+—
+
+4.5
+
+CREW
+
+3
+3
+
+6
+3
+
+PILOT
+
+0.3
+
+—
+
+RUNNING COSTS
+
+6
+—
+1
+1
+
+0.5
+0.16
+3
+1.2
+
+0
+
+1.7
+
+2
+
+0.02
+
+30
+
+15
+
+—
+
+6
+—
+52.7
+
+0.3
+—
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+—
+
+1
+
+4
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 20.38
+
+MAINTENANCE COST
+Cr1698/month
+
+PURCHASE COST
+MCr20.38
+
+Power Requirements
+
+The UB-75 is built on the same flattenedcylinder hull design as its smaller cousin
+and is similar in performance. It is
+normally set up as a cargo shuttle with
+space for a handful or rather cramped
+passengers. The vessel can be run by
+a single pilot but normally carries a
+technician/co-pilot for shuttle duty.
+When running other errands, the UB-75
+may gain additional personnel. In this
+configuration the cabin space is used by
+the crew as a working area.
+
+30
+HULL POINTS
+104
+
+

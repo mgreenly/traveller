@@ -1,0 +1,161 @@
+T
+
+ULMINIXON LIGHT AIRBORNE
+ATTACK DRONE
+The Ulminixon light airborne attack drone is the ariel
+superiority vehicle of choice among Za’tachk armed
+forces. The vehicle is lightly armed but, in the hands
+of a competent operator, is manoeuvrable enough to
+avoid enemy fire. Armed with a gatling laser to two
+linked hardpoints, the Ulminixon can be equipped
+for many mission types. The drone is customarily
+deployed in threes.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Traits
+
+—
+
+Equipment
+
+Actuator Controls, Anti-Missile
+System (advanced laser), Autopilot
+(advanced), Communications
+System (advanced, encrypted,
+meson communicator, satellite
+uplink), Control Interface
+(advanced), Control System
+(advanced), Decoy Dispenser,
+Drone, Navigation System
+(advanced), Sensors (advanced,
+hardened, increased range)
+
+Weapons
+
+Fixed Mount (gatling laser, front)
+Hardpoints (2 Spaces) x2
+
+TL
+
+14
+
+SKILL
+
+Electronics (remote ops)
+
+Equipment
+
+AGILITY
+
++5
+
+Autopilot (skill level)
+
++3
+
+SPEED (CRUISE)
+
+Very Fast (fast)
+
+Communications (range)
+
+1,000km
+
+RANGE (CRUISE) 5,000 (7,500)
+
+Navigation (Navigation DM)
+
++4
+
+CREW
+
+—
+
+Sensors (Electronics (sensors) DM)
+
++2
+
+PASSENGERS
+
+—
+
+Camouflage (Recon DM)
+
+—
+
+CARGO
+
+0.25 tons
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+HULL
+
+22
+
+SHIPPING
+
+5.5 tons
+
+ARMOUR
+
+COST
+
+MCr1.68
+
+Weapon
+
+Range
+
+Damage
+
+Magazine
+
+Magazine Cost Traits
+
+Gatling Laser
+
+4
+
+6D
+
+—
+
+—
+
+REAR
+
+10
+
+SIDES
+
+10
+
+CSC: Za’tachk
+
+FRONT 10
+
+122
+
+Fire Control
+
+AP 5, Auto 4 +4
+
+R
+
+

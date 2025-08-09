@@ -1,0 +1,196 @@
+OFF-ROADER LABORATORY CARRIAGE OFF-ROADER HABITAT CARRIAGE
+The off-roader laboratory carriage provides scientists
+and researchers a mobile base to undertake their
+studies and experiments. The example given here
+is designed for biology but the carriage can be
+designed to focus on any science speciality or multiple
+specialities, if desired. Room has been left available for
+further customisation as required.
+
+The habitat carriage is able to support seven people
+comfortably and up to 14 people in somewhat cramped
+conditions. The carriage has galley and fresher facilities
+and enough spare room to add other customisations,
+which may be needed for differing environments or the
+addition of further luxuries.
+TL
+
+9
+
+TL
+
+9
+
+SKILL
+
+Drive (wheel)
+
+SKILL
+
+Drive (wheel)
++0
+
+AGILITY
+
++0
+
+AGILITY
+
+SPEED (CRUISE)
+
+—
+
+SPEED (CRUISE)
+
+—
+
+RANGE (CRUISE) —
+
+RANGE (CRUISE) —
+CREW
+
+CREW
+
+—
+
+—
+
+PASSENGERS
+
+14
+
+PASSENGERS
+
+10
+5 tons
+
+CARGO
+
+1.25 tons
+
+CARGO
+
+HULL
+
+240
+
+HULL
+
+240
+60
+
+SHIPPING
+
+60
+
+SHIPPING
+
+COST
+
+MCr1.63
+
+COST
+
+MCr1.09
+
+Traits
+Off-roader
+Equipment Bunks x5, Communications System
+(improved, satellite uplink), Computer/1,
+Control system (improved), Full Galley
+(10 passengers), Laboratory (biology
++3), Large Fresher, Sensors (improved,
+high fidelity +2), Smart Wheels
+
+Traits
+Off-roader
+Equipment Communications systems (improved,
+satellite uplink), Control System
+(improved), Entertainment System, Large
+Fresher, Full Galley (14 passengers),
+Smart Wheels, Staterooms x7
+
+—
+
+—
+
+Communications (range)
+
+500km
+
+500km
+
+Communications (range)
+
+Navigation (Navigation DM)
+
+—
+
+Navigation (Navigation DM)
+
+—
+
+Sensors (Electronics (sensors) DM)
+
++3
+
+—
+
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+
+Camouflage (Recon DM)
+
+—
+
+—
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+ARMOUR
+
+ARMOUR
+
+FRONT 10
+
+FRONT 10
+
+REAR
+
+10
+
+Freight Carriage
+
+SIDES
+
+REAR
+
+10
+
+SIDES
+
+10
+
+10
+
+Laboratory Carriage
+
+Vehicles of the Bwaps
+
+Equipment
+Autopilot (skill level)
+
+Equipment
+Autopilot (skill level)
+
+Habitat Carriage
+
+265
+
+

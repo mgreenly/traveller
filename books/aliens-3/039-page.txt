@@ -1,0 +1,184 @@
+T
+
+1
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Agent
+
+This career embraces all forms of law enforcement, espionage
+and counter espionage.
+
+Career progress
+
+Qualification: INT 7+
+DM-1 for every previous career
+
+Police
+Intelligence
+Analyst
+
+SURVIVAL
+END 6+
+INT 7+
+INT 5+
+
+ADVANCEMENT
+INT 6+
+INT 5+
+INT 5+
+
+ASSIGNMENTS
+
+Darrian Travellers
+
+1
+
+Mishaps
+
+Skills and training
+
+Choose one of the following:
+Police: You are a well-respected member of the community, using
+your skills to act as intermediary in civil disturbances, investigate
+crimes and control rare outbreaks of violence.
+Intelligence: You are a government sponsored spy who keeps
+foreign agents under close observation or frequently journeys outside
+the Confederation to track the activities of dangerous powers.
+Analyst: You study collected population, trade and financial data to
+discover patterns indicating corruption or outright criminal activity, which
+are given to sociologists to correct or intelligence agencies to terminate.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr2000
+Cr4000
+Cr6000
+Cr10000
+Cr15000
+Cr25000
+Cr50000
+
+BENEFITS
+Contact
+INT +1
+EDU +1
+Law Enforcement Gear
+Weapon and Armour
+SOC +1
+Weapon
+
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+DEX +1
+INT +1
+EDU +1
+SOC +1
+Jack-of-all-Trades
+Gun Combat (any)
+
+SERVICE SKILLS
+Electronics (computers)
+Investigate
+Gun Combat
+Stealth
+Persuade
+Streetwise
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Electronics (comms)
+Electronics (computers)
+Language
+Science
+Electronics (sensors)
+
+1D
+1
+2
+3
+4
+5
+6
+
+POLICE
+Drive
+Melee
+Athletics
+Recon
+Stealth
+Streetwise
+
+INTELLIGENCE
+Electronics (computers)
+Deception
+Deception
+Investigate
+Stealth
+Streetwise
+
+ANALYST
+Admin
+Advocate
+Electronics (computers)
+Electronics (computers)
+Investigate
+Science (archaeology, economics,
+history, linguistics, philosophy,
+psychology or sophontology)
+
+1D
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury table and take the lower result
+A superior officer has you drummed out of service. Gain a Rival.
+
+1
+2
+3
+4
+5
+6
+
+40
+
+Mustering out benefits
+
+Your face is posted by accident whilst undercover and you are forced to retire. Gain SOC +1 for
+the notoriety and gain an Enemy.
+You are accused of tampering with evidence. Lose SOC -2.
+You are blamed for a massive loss of funds in the local branch. You are allowed to continue as an
+Agent but add Cr10000 to your debts.
+You are wounded in the line of duty. Roll on the Injury table.
+
+R
+
+

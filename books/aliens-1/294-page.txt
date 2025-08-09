@@ -1,0 +1,212 @@
+NINZ-CLASS SCOUT
+TL12
+
+TONS
+
+COST (MCR)
+
+Hull
+
+100 tons, Streamlined
+
+—
+
+6
+
+Armour
+
+Crystaliron, Armour 4
+
+5
+
+1.2
+
+M-Drive
+
+Thrust 2
+
+2
+
+4
+
+J-Drive
+
+Jump 2
+
+10
+
+15
+
+Power Plant Fusion (TL12), Power 105
+
+7
+
+7
+
+Fuel Tanks
+
+24
+
+—
+
+10
+
+0.5
+
+J-2, 20 weeks of operation
+
+Bridge
+Computer
+
+Computer/5bis
+
+—
+
+0.045
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Life Scanner
+
+1
+
+2
+
+Improved Signal Processing
+
+1
+
+4
+
+Weapons
+
+Double Turret (beam lasers)
+
+1
+
+1.5
+
+Systems
+
+Fuel Processor (20 tons/day)
+
+1
+
+0.05
+
+Fuel Scoops
+
+—
+
+—
+
+Probe Drones (10)
+
+2
+
+1
+
+Staterooms
+
+Standard x 4
+
+16
+
+2
+
+Software
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Common
+Areas
+
+12
+
+1.2
+
+Cargo
+
+6
+
+—
+
+TOTAL: MCR 49.795
+
+CREW
+PILOT, ASTROGATOR, ENGINEER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr3735/month
+
+PURCHASE COST
+MCr49.795
+
+Power Requirements
+20
+
+20
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+20
+
+4
+
+9
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+A standard civilian exploratory vessel used
+by both commercial concerns and the
+Consulate Navy for frontier exploration and
+reconnaissance. An old and reliable design,
+this scout is oriented more towards survey
+and scientific missions and less to couriertype duties than its Imperial counterpart
+is. Ninz-class scouts see extensive use for
+supplemental surveys off the main axis of
+exploration within the Core Expeditions.
+Ships in naval service are named after
+former naval officers.
+
+40
+HULL POINTS
+294
+
+

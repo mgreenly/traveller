@@ -1,0 +1,157 @@
+4
+
+DRONE
+CAREER PROGRESS
+
+Drones are vital to Droyne reproduction and raising
+young. They are also important to ritual, social and
+managerial functions.
+Qualification: Automatic for Drones. Prohibited for all
+others.
+
+ASSIGNMENTS
+
+SURVIVAL
+INT 4+
+PSI 4+
+EDU 5+
+
+Family
+Priestly
+Social
+
+ADVANCEMENT*
+PSI 9+
+EDU 8+
+INT 9+
+
+* Advancement is subject to a negative DM equal to the highest skill
+level the Droyne has in a Black Skill.
+
+Choose one of the following:
+Family: Your role is to care for and educate the young.
+Priestly: You perform the many rituals required to
+maintain the Oytrip and to caste the young.
+Social: You are an administrator or middle-manager.
+
+END OF SERVICE
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr500
+Cr1000
+Cr1500
+Cr2500
+Cr5000
+Cr7500
+Cr10000
+
+BENEFIT
+INT +1
+EDU +1
+PSI +1
+Coyns
+Vacc Suit
+Wings
+Coyns
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+INT+1
+EDU +1
+PSI +1
+Appeal
+Flight
+Prediction
+FAMILY DRONE
+Steward
+Art (Droyne)
+Appeal
+Medic
+Profession
+Steward
+
+SERVICE SKILLS
+Admin
+Appeal
+Profession
+Art (Droyne)
+Medic
+Caste
+PRIESTLY DRONE
+PSI +1
+Prediction
+Art (Droyne)
+Ancients Tech
+Appeal
+Prediction
+
+USEFUL DRONE (MIN INT 6+)
+Any psionic skill
+Appeal
+Science
+Outsider
+PSI +1
+Caste
+SOCIAL DRONE
+Art (Droyne)
+Prediction
+Admin
+Appeal
+Leadership
+Outsider
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+200
+
+TITLE
+Excess to Requirements
+Expendable Drone
+Satisfactory Drone
+Valued Drone
+Highly Valued Drone
+Exemplary Drone
+Eminent Drone
+
+SKILL OR BONUS
+—
+—
+
+Caste (drone)
+PSI +1
+Appeal
+Prediction
+Leadership
+
+

@@ -1,0 +1,25 @@
+4
+7
+6
+
+2
+
+5
+1
+
+3
+
+DECK 1
+
+LEGEND
+1. Fuel tanks
+2. Cargo hold
+3. M-drive
+4. Dual turret (beam lasers)
+5. Sensors
+6. Power plant
+7. Enviroment protection suite
+
+167
+
+

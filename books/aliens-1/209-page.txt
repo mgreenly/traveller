@@ -1,0 +1,142 @@
+Chest Guard (Dhinourraksa): The traditional chest guard
+is favoured by those who need to move fast or engage
+in complex tasks – it is popular with pilots and vehicle
+crewmembers. It takes the form of an upper-torso and
+shoulder guard, sometimes with a loose fringe covering
+part of the abdomen.
+Breastplate (Dhinou): A breastplate covers the whole
+frontal torso with lightweight metal/ceramic armour but
+offers no protection from the rear. There is a subtext
+to someone wearing a Dhinou in combat; they trust
+those behind them and are not inclined to turn their
+unprotected backs to the enemy.
+
+blows. A heavy version, with thicker armour over the
+vital organs and enhanced shoulder protection, as well
+as a short ‘skirt’ of linked plates to protect the upper
+legs, is available for those wanting additional protection.
+Cloaks: Some torso protection (typically shoulder
+guards but sometimes other items) incorporate a
+cloak that is usually a waist-length decorative item.
+However, a floor-length detachable cloak of fireproof
+material can be added instead. This will absorb 20
+points of fire or energy damage if the wearer wraps it
+around themselves. After 20 points are taken the cloak
+disintegrates and must be replaced.
+
+Vest (Dhoukha): The standard Vargr full-torso protection
+consists of a back-and-breastplate unit. Each face
+is usually a single unit shaped to deflect bullets and
+
+TORSO ARMOUR
+
+PROTECTION
+
+TL
+
+RAD
+
+KG
+
+COST
+
+REQUIRED SKILL
+
+Shoulder Guards
+Heavy Shoulder Guards
+Breastplate
+Vest
+Heavy Vest
+Fireproof Cape
+
++2
++3
++4
++6
++8
++20 (ablative)
+against fire and
+energy only
+
+6
+8
+8
+7
+9
+8
+
+—
+—
+—
+—
+—
+—
+
+2
+3
+4
+6
+8
+1
+
+Cr50
+Cr125
+Cr250
+Cr500
+Cr750
+Cr250
+
+None
+None
+None
+None
+None
+None
+
+LIMB ARMOUR
+
+Limb armour is usually light, to facilitate fast and agile
+movement in combat. There are exceptions, however,
+notably among Vargr who favour a head-on close combat
+approach or those worried about floor-level threats. The
+ability to crash right through a set of spiked foot traps
+or even anti-personnel mines is useful when leading a
+charge on foot – despite Vargr not feeling comfortable
+with rigid footwear, they will tolerate it in combat if it
+keeps their feet on the end of their legs.
+Bracers (Negdhazuk): The commonest form of arm
+protection is a set of lightweight polymer vambraces
+covering the lower arm, with an elbow cup and a
+flexible but lightly armoured gauntlet. A heavier version
+is available, offering greater protection at the cost of
+additional weight. This variant is equivalent to the arm
+guards found in riot armour.
+Arm Guards (Dzuesgogne): A heavier full-arm guard is
+available, consisting of metal/ceramic upper and lower
+arm protectors linked by lighter flexible sections, with
+
+an elbow cup and heavy gauntlets. Links to attach to
+shoulder guards or a breastplate are normally included
+when bought new. Arm guards are a bit clumsy and
+impose DM-1 to all DEX-based checks when not fighting
+or shooting.
+Arm Shield: An arm shield, sometimes called an assault
+shield, is a lightweight oval of polymer designed to
+crumble and ablate rather than pass impact to the
+user. An arm shield clips to an attachment on bracers
+or arm guards and provides additional protection from
+incoming fire for a short time. It provides Protection +6,
+reduced by one for each damage dice rolled against the
+user that comes up a 5 or 6. Eventually the shield will
+be shot away or its remains can be discarded by the
+user. The shield is big enough to cover the whole of the
+wearer’s front but makes it impossible to carry out tasks
+requiring both hands.
+Fighting Boots (Ogzkua): Fighting boots are the standard
+light leg protection used by many Vargr. They cover the
+foot and ankle, with rigid sections of hard polymer over
+softer material.
+
+209
+
+

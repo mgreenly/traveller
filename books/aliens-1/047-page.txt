@@ -1,0 +1,81 @@
+A03/48956
+
+AUA-LEATHER
+
+Aua-hide clothing is the traditional garb of most Aslan warriors and the
+heavy, musky stench of the leather is part of the bouquet of every Aslan
+world and starship. The Aslan produce so much aua-hide that it is used for
+everything from armour to cargo restraints to children’s toys.
+
+Armour Type Protection TL Rad
+
+Kg
+
+Cost
+
+Required Skill
+
+Aua-leather
+
+2
+
+Cr40
+
+None
+
+A03/75674
+
++1
+
+2
+
+—
+
+ASLAN
+BATTLE DRESS
+
+Aslan battle dress is bulkier and less advanced
+than human designs. It lacks the built-in computer
+of human suits (and so does not come with the
+electronics suite described in the Central Supply
+Catalogue) but offers six hours of life support and
+protection from environmental hazards. An Aslan
+may not use a dewclaw while wearing this armour.
+
+Armour Type
+Aslan Battle Dress
+
+Protection
+
+TL
+
+Rad
+
+STR DEX
+
+Slots
+
++19
+
+14
+
+265
+
++6
+
+20
+
++3
+
+Kg
+105
+
+Cost
+MCr1
+
+Required Skill
+Vacc Suit 2
+
+47
+
+

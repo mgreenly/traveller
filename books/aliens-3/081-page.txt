@@ -1,0 +1,248 @@
+YEHNG RAPID RESPONSE RESCUE VESSEL
+Rapid response ships possess very fast manoeuvre
+drives. Onboard are emergency teams capable
+of compartmentalising damaged sections of a
+ship, extracting trapped passengers and providing
+top quality medical care. Each ship has two fully
+equipped surgical bays. Also carried is a ship’s boat,
+which fits in the Yehng’s spine for remote offloading
+of injured survivors. Four oversized repair drones
+are also standard equipment, able to patch damage
+
+on vessels up to 800 tons. The ample cargo bay
+is normally packed with rescue equipment ranging
+from portable airlocks and thruster packs, to
+cutting torches and fire extinguishers. Anything an
+emergency crew could possibly need is included,
+be it hand tools, reinforcing girders, arc lights,
+rope, demolition explosives, rescue bubbles, NAS
+scanners or the eternally useful duct tape.
+
+TL13
+
+TONS COST (MCr)
+
+Hull
+
+200 tons, Streamlined
+
+—
+
+12
+
+Armour
+
+Crystaliron, Armour: 4
+
+12
+
+2.4
+
+M-Drive
+
+Thrust 6
+
+12
+
+24
+
+J-Drive
+
+Jump 1
+
+10
+
+15
+
+Power Plant
+
+Fusion (TL12), Power 210
+
+14
+
+14
+
+Fuel Tanks
+
+J-1, 8 weeks operation
+
+24
+
+—
+
+Bridge
+
+Pilot, Astrogator,
+Engineer, Medics x2,
+Boarding Team x6,
+Small Craft Pilot
+
+Hull: 80
+Running Costs
+
+10
+
+1
+
+Computer
+
+Computer/10fib
+
+—
+
+0.24
+
+Sensors
+
+Military
+
+2
+
+4.1
+
+Armoured
+Bulkheads
+
+Bridge
+
+1
+
+0.2
+
+Systems
+
+Docking Space (30 tons)
+
+33
+
+8.25
+
+MCr93.9888
+
+Ship’s Boat
+
+—
+
+7.272
+
+Repair Drones
+
+8
+
+1.6
+
+Power Requirements
+
+Fuel Processor (20 tons/day)
+
+1
+
+0.05
+
+Basic Ship Systems
+
+Fuel Scoops
+
+—
+
+—
+
+40
+
+Staterooms
+
+Software
+
+MAINTENANCE COST
+Cr7832.4/month
+PURCHASE COST
+
+Medical Bays x2
+
+8
+
+4
+
+Manoeuvre Drive
+
+Standard x6
+
+24
+
+3
+
+120
+
+Acceleration Benches x12
+
+12
+
+0.12
+
+Jump Drive
+
+Low Berths x20
+
+10
+
+1
+
+20
+
+6
+
+0.6
+
+Sensors
+
+—
+
+5
+
+2
+
+Common Areas
+Auto-repair/1
+Intellect
+
+—
+
+—
+
+Fuel Processor
+
+Library
+
+—
+
+—
+
+1
+
+Jump Control/1
+
+—
+
+0.1
+
+Manoeuvre/0
+
+—
+
+—
+
+12
+
+—
+
+Cargo
+
+Yehng
+Rapid Response
+Rescue Vessel
+
+82
+
+Crew
+
+

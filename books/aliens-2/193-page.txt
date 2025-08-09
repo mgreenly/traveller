@@ -1,0 +1,23 @@
+DROYNE LIFE
+
+EVENTS
+
+Droyne do not use the standard Life Events system.
+Instead, a Droyne Traveller rolls 2D, with their caste
+number as a positive DM, at the end of every term.
+On a result of 10+, roll on the Droyne Life Events
+table. Unusual events are the only way most Droyne
+can develop Contacts, Rivals, Allies or Enemies
+outside the Oytrip.
+
+AGING
+
+Droyne become adults soon after casting, which
+occurs at age 12, and begin aging at age 24. Aging is
+handled the same as for humans; roll 2D at the end
+of the fourth term and every term thereafter, with a
+negative DM equal to the number of terms served.
+
+193
+
+

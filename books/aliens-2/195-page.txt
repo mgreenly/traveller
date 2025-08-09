@@ -1,0 +1,106 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Your Oytrip comes under attack. In desperation the Leaders order your fellow Workers to shield the remaining
+Warriors with your bodies. Many die but the Oytrip is saved. Gain your choice of Gun Combat, Melee or Medic
+but suffer –D3 to STR, DEX or END due to your wounds. Make a continuation check.
+
+2
+
+A junior Leader challenges the seniors in your Oytrip. The situation is confusing and you try to ignore it but
+eventually you are forced to choose between them. If you side with the junior Leader you are driven from the
+Oytrip and join their Kroyloss, which breaks up soon afterward. Muster out and begin your adventuring now. If
+you did not side with them, nothing happens to you. These things are above mere Workers. You must still make
+a continuation check.
+
+3
+
+A dangerous situation arises and the workers are ordered to make great sacrifices to save the Oytrip. If you behave
+correctly, you suffer injuries and lose –1 in each of STR, DEX and END, and must make a continuation check. If
+you do not behave correctly, you betray your role in the Oytrip and are rightly driven from it. You may continue to
+betray your Oytrip by mustering out and beginning your adventuring now or may commit ritual suicide as is correct
+in these situations.
+
+4
+
+Bad things occur. The Leaders do not confide in you because you are a lowly Worker. You thus have no idea
+what happened but the Oytrip endures. Make a continuation check but suffer no other ill-effects.
+
+5
+
+Your Leader undertakes an expedition that goes badly wrong. You are forced to survive outside Droyne society
+for several months. You gain an immediate level in Outsider (any) and may choose to take one level of
+Streetwise. However, this is a Black Skill and will diminish you as a Droyne. Make a continuation check with
+the negative DM for any Black Skills you may have.
+
+6
+
+You behave incorrectly. Your rank is reduced by –1. If this takes it below zero you are ejected from the Oytrip.
+Make a continuation check.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+You accompany an eminent Leader and gain their respect for your diligence. Your rank is increased by +1.
+
+4
+
+Your fellow Workers ask you to raise concerns with your Leader. Make an Appeal check. If successful, you are
+heard and the situation is positively resolved. Your rank increases by +1. Whether you succeed or fail, gain one
+level of Appeal.
+
+5
+
+Your Leader asks much of you. If you follow their directions, gain one level in any of: Carouse, Deception,
+Gambler, Persuade or Streetwise. These are Black Skills and you are diminished by knowing them. If you refuse
+to obey, you are ejected from the Oytrip. It is not the place of Workers to challenge their Leaders.
+
+6
+
+You do good work and your Leader is pleased. Gain one level in Profession, Drive, Flyer or Appeal.
+
+7
+
+You work every day. The Oytrip prospers.
+
+8
+
+Your Leader takes you on an expedition into the wilds. Gain one level of Recon or Survival.
+
+9
+
+You have an idea. If you dare suggest it to the Leader, make an immediate Appeal check. If successful, your
+rank is increased by +1. If you fail, your rank is reduced by –1 and you are given onerous tasks to perform. If
+you keep quiet, this is good because Workers should not be bothering their Leaders with trivialities. Gain one
+level of skill in an appropriate Profession or in Caste.
+
+10
+
+You are involved with outsiders and find them less confusing than most others of your Caste. Gain one level in
+Outsider skill and a Contact outside the Oytrip.
+
+11
+
+You are involved in the creation of a starship and you learn a little about how it works. Gain one level in any
+Electronics, Engineer, Gunner or Vacc Suit.
+
+12
+
+Your Leader is honoured with possession or guardianship of an Ancients artefact. You tend and sometimes carry
+it for him. Gain 1 level in Ancients Tech.
+
+195
+
+

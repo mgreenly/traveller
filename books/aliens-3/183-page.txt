@@ -1,0 +1,104 @@
+T
+
+SAIL FISH SEA SCOOTER
+The sea scooter is a single-sophont craft is used by
+Dolphins who wish to undertake submerged longdistance travel quickly. A waterjet drive makes the
+vehicle almost silent, which allows a Dolphin pilot to
+use their sonar without interference.
+TL
+
+12
+
+SKILL
+
+Seafarer (submarine)
+
+AGILITY
+
++0
+
+SPEED (CRUISE)
+
+Medium (Slow)
+
+Vehicles of the Dolphins
+
+RANGE (CRUISE) 300 (450)
+
+184
+
+CREW
+
+1
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+9
+
+SHIPPING
+
+1.5 tons
+
+COST
+
+Cr118000
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+E
+
+2
+500km
++2
++1
+—
+—
+
+Traits
+—
+Equipment Autopilot (enhanced), Communication
+System (improved), Control System
+(enhanced), Entertainment System, Life
+Support (short term), Navigation System
+(Improved), Sensor (improved, underwater)
+
+ARMOUR
+FRONT 4
+
+REAR
+
+4
+
+SIDES
+
+4
+
+R
+
+

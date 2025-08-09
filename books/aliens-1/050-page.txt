@@ -1,0 +1,66 @@
+A03/48956
+
+COMBAT FLEX
+
+Combat flex armour is made up of interlocking plastic plates,
+designed to resemble khirshukaya. These suits are worn by clan
+agents, mercenaries and even some Aslan traders and explorers.
+
+Armour Type Protection TL Rad
+
+Kg
+
+Cost
+
+Required Skill
+
+Combat Flex
+
+4
+
+Cr300
+
+None
+
+A03/75674
+
++4
+
+6
+
+—
+
+COMBAT ARMOUR
+
+Su’yerl armour is a common sight on the battlefields of the
+Hierate. It uses a sandwich of composite materials over a 0.5cm
+layer of bonded superdense plating and is then coated in a
+reflec lacquer. The armour is too heavy for most humans to wear
+and even Aslan warriors find long fights in su’yerl to be difficult
+propositions. Travellers with STR 8- suffer DM-2 to all checks
+involving physical actions while wearing su’yerl.
+
+Armour Type
+Combat Armour
+
+50
+
+Protection
++15
+
+TL
+12
+
+Rad
+120
+
+Kg
+14
+
+Cost
+Cr180000
+
+Required Skill
+Vacc Suit 1
+
+

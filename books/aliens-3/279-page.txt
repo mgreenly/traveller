@@ -1,0 +1,43 @@
+1. Bridge
+2. Mud Bath
+3. Armoury
+4. Briefing Room
+5. Brig
+
+6. Repair Drones
+7. Workshop
+8. Fuel Processing
+9. Docking Space
+10. Cargo Bay
+
+1
+
+DECK 1
+
+2
+
+3
+
+4
+
+5
+
+4
+
+7
+
+7
+
+6
+
+8
+
+10
+
+9
+
+DECK 2
+
+280
+
+

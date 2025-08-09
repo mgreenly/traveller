@@ -1,0 +1,104 @@
+Keshim
+
+Shudu
+
+Keshim are large solo apex predators who prowl the
+forested savannahs. A true vertebrate, the keshim
+is one of the few Ilelish predators which is bipedal.
+These massive animals can grow up to six metres in
+length – including a two-metre tail – standing over four
+metres tall at the shoulder and weighing in excess
+of four tons. Their strong legs end in three wickedly
+clawed toes which can propel them at a maximum
+of 32 kilometres per hour for short bursts covering
+500 metres. A thick tail helps to counterbalance their
+heavy head which is armed with a wide beak full of
+10-centimetre-long serrated teeth.
+Keshim bodies are covered by short thick fur, which
+is coloured deep purple to aid it in sneaking up close
+enough to prey to run it down. On the sides of their necks
+they sport long tufts of thick fleshy bristles. During the
+mating season or as threat displays, the bristles become
+engorged with blood and flush bright blue and red.
+Young are born live and relatively helpless, requiring
+close care from their parents before they can fend for
+themselves. Keshim normally mate for life and rarely
+take another partner if one is killed.
+Animal
+
+Hits
+
+Speed
+
+Keshim
+
+45
+
+9m
+
+Skills
+
+Melee (natural) 2, Recon 3,
+Stealth 1
+
+Attacks
+
+Bite (4D), Claws (4D+3)
+
+Traits
+
+Heightened Senses, Large (+3)
+
+Behaviour
+
+Carnivore, Hijacker
+
+Shudu, a smaller species of nishma, are found in
+semi-tropical rivers and wetlands. A pseudo-vertebrate,
+shudu stand 2.5 metres tall at the shoulder and weigh
+in excess of 900 kilograms. Their eight legs are
+jointless but enable them to be surprisingly agile for
+such large animals. Their back and top of the head are
+protected by an articulated shell and their jaws have
+elongated into a shovel-like structure used to collect the
+floating plants they feed on. Short tusks grow from their
+shell alongside their jaws used to defend themselves.
+Shudu lay eggs which they guard until the young
+hatch. Young remain with their parent until they reach
+maturity. Shudu move in herds, relying on numbers as
+a protective measure against predators, although they
+become aggressive when protecting young.
+Animal
+
+Hits
+
+Speed
+
+Shudu
+
+45
+
+6m
+
+Skills
+
+Athletics (endurance) 3, Recon 0,
+Survival 1
+
+Attacks
+
+Tusks 3D, Trample 4D
+
+Traits
+
+Armour (+5), Heightened Senses,
+Large (+3), Slow Metabolism (-1)
+
+Behaviour
+
+Herbivore, Grazer
+
+The Suerrat Homeworld
+37
+
+

@@ -1,0 +1,113 @@
+WEAPONS
+Dolphins have a small collection of weapons that have
+been designed specifically for use without waldos. A
+Dolphin with waldos is able to use any ranged weapon
+a human can.
+Battering Ram: This weapon functions almost like
+brass knuckles. The Dolphin variety is held in the
+mouth, clenched between the teeth.
+
+Weapon
+
+TL Range Damage Kg Cost
+
+Battering Ram
+
+2
+
+Melee
+
+1D+3
+
+—
+
+Cr50
+
+Magazine
+
+Magazine Cost
+
+Traits
+
+—
+
+Cr80
+
+Auto 4
+
+Sonic Amplifier: The sonic amplifier increases the
+decibels of a Dolphin’s ultrasonic click, turning it
+into a ranged sonic weapon that can render targets
+unconscious. The weapon is normally strapped to the
+front of the melon, with the amplifier magnifying the
+sound and focusing it into a tight beam.
+
+Weapon
+
+TL Range Damage Kg Cost
+
+Sonic Amplifier
+
+9
+
+5
+
+2D
+
+1
+
+Cr800
+
+Magazine
+
+Magazine Cost
+
+Traits
+
+10
+
+Cr150
+
+Burst 2, Sonic (-2),
+Stun, Zero-G
+
+Magazine
+
+Magazine Cost
+
+Traits
+
+30
+
+Cr1000
+
+Burst 3, Sonic (-4),
+Stun, Zero-G
+
+Weapon
+
+TL Range Damage Kg Cost
+
+Sonic Booster
+
+9
+
+25
+
+2D
+
+6
+
+Cr1200
+
+CSC: Dolphins
+
+Sonic Booster: The sonic booster is similar to the
+shorter ranged sonic amplifier, increasing the decibels
+of the clicks a Dolphin makes for echolocation. With
+a longer range and a greater effective radius, this
+weapon sees common usage in Dolphin military units.
+
+181
+
+

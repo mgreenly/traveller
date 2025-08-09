@@ -1,0 +1,141 @@
+Events
+
+2D
+2
+
+7
+
+You perform well during a black ops commando mission. Gain DM+2 on your next advancement
+roll and a Contact in an elite military unit.
+Receive special training in underwater mine disposal. Roll Vacc Suit 4+ to avoid injury; if
+successful increase Explosives by 1. If you fail roll on the Injury table.
+Spend a lengthy period serving as an auxiliary aboard a spacecraft operating underwater, such
+as a system defence boat. Roll EDU 7+ to gain your choice of Pilot (small craft or spacecraft) 1 or
+Electronics (sensors) 1.
+A brutal amphibious warfare campaign forces you to spend as much time fighting out of water as in.
+Roll Vacc Suit 7+; if successful, gain one level in Gun Combat, Leadership or Tactics (military).
+Life Event! Roll on the Life Event table.
+
+8
+
+Participate in a major sea battle. Raise Vacc Suit, Melee or Gun Combat by 1 or gain Tactics (military) 1.
+
+9
+
+You are assigned to a joint mission with an intelligence agency to catch spies or insurgents
+operating near underwater base facilities. Gain an intelligence agent as a Contact and roll 7+ to
+gain 1 level in Recon or Stealth.
+A mission goes badly wrong when a human leader disregards your advice because you are ‘just
+a Dolphin’ and then blames you for their mistake. If you accept this suffer DM-1 on your next
+advancement roll. If you protest, roll Advocate or SOC 8+; success means they are dismissed and
+you gain DM+1 to your next Advancement roll and gain 1 level in Leadership or Advocate. Failure
+results in DM-2 on your next advancement roll.
+A senior officer takes an interest in your career. Either gain DM+2 on your next advancement roll
+and Admin 1 or Tactics (military) 1.
+Display heroism in battle. Your next advancement roll is automatically successful.
+
+3
+4
+5
+6
+
+10
+
+11
+12
+
+Mishaps
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+1D
+
+MISHAP
+Injured. Roll on the Injury table.
+
+2
+
+You encounter anti-Dolphin prejudice from the force you are working with. You resign in disgust.
+
+3
+
+Your unit is involved in a savage campaign against primitive indigenous aquatic aliens that troubles
+your conscience. If you refuse to participate you are ejected from this career. If you participate in the
+massacre you may ignore the Mishap and remain in the career but instead you gain an Enemy. They
+may be one of the few survivors or an embittered Dolphin ex-member of your unit who chose to leave.
+An ambitious planetary operation goes badly wrong leaving you beached ashore without functional
+protective gear. Dehydration and skin damage requires lengthy recovery and loses END -2.
+An investigation uncovers links between your unit’s commander and a radical faction. You are
+given a chance to denounce your commander. If you do so, remain in the career but instead gain
+one of his allies as an Enemy.
+Injured. Roll on the Injury table.
+
+4
+5
+6
+
+Ranks and Bonuses ( Continued )
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ENLISTED GUARDIAN
+—
+—
+—
+—
+—
+—
+—
+
+SKILL OR BONUS
+Melee (natural) 1
+—
+END +1
+—
+STR +1
+—
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+OFFICER
+—
+Lieutenant
+Captain
+Major
+Lt. Colonel
+Colonel
+General
+
+SKILL OR BONUS
+—
+Leadership 1
+—
+—
+Tactics 1
+—
+SOC 10 or SOC +1
+
+2
+
+Dolphin Travellers
+
+1
+
+173
+
+

@@ -1,0 +1,163 @@
+T
+
+R
+
+A
+
+Tzasai: A traditional ceremonial duelling knife, the
+tzasai is carried by Shaper Partisans as a symbol
+of their position. The knife is wickedly curved and
+barbed, causing additional damage when it is pulled
+from a wound. The blade also carries a groove through
+it which can be loaded with a single dose of Tezcat
+venom, making them even more dangerous in combat.
+
+V
+
+E
+
+L
+
+L
+
+Tzraa
+
+Tzraa: Attached at the wrist and worn over the
+hand, tzraa have three long, sharp blades which
+can be used in close combat instead of a Tezcat’s
+natural claws. Tzraa also double as useful climbing
+tools, giving those using them to climb rough or soft
+surfaces DM+2 to Athletics checks.
+Tzreera: A saw-edged knife quite commonly used in
+the past but now primarily used in various martial art
+styles. The sharp tooth-like sawed edge cuts and tears
+both ways when it lands a wound.
+Tzuaarra: Ancient sickle-shaped, sword-like weapons,
+tzuaarra were once used commonly by Tezcat warriors
+but are now mainly practiced in some martial art forms.
+The inside curve of the blade is sharply honed to inflict
+wicked wounds. The blades can also be used to deflect
+weapons or disarm a foe. When used for blocking or
+disarming, the tzuaarra provides DM+2.
+
+Tzreera
+
+When attempting to disarm an opponent, a Traveller
+must declare their intent and attempt a block
+manoeuvre. If successful the Traveller can make
+an opposed Melee (blades, STR or DEX) check. If
+successful, they have disarmed their foe and flung
+the weapon several metres away equal to half the
+Effect of the disarm check.
+
+Tzuaarra
+
+CSC: Tezcat
+
+Tzuaarra are always sold in pairs.
+
+232
+
+Weapon
+
+TL
+
+Range
+
+Damage
+
+Kg
+
+Cost
+
+Traits
+
+Tzuaarra
+
+3
+
+Melee
+
+2D
+
+1
+
+Cr600
+
+—
+
+Thuugra
+
+1
+
+Melee
+
+2D+1
+
+3
+
+Cr50
+
+—
+
+Tzasai
+
+1
+
+Melee
+
+2D+3
+
+0.5
+
+Cr300
+
+—
+
+Tzraa
+
+2
+
+Melee
+
+2D+3
+
+1
+
+Cr50
+
+—
+
+Tzreera
+
+3
+
+Melee
+
+3D+2
+
+2
+
+Cr250
+
+—
+
+Tzuaarra
+
+3
+
+Melee
+
+2D
+
+1
+
+Cr600
+
+—
+
+E
+
+R
+
+

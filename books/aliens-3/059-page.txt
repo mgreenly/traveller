@@ -1,0 +1,151 @@
+T
+
+11
+
+E
+
+L
+
+Career progress
+
+Qualification: Automatic for Drifter and Nomad. One does
+not ‘qualify’ for Exile; you got exiled as a sentence for a crime
+you may or may not have committed. Travellers entering the
+Exile assignment lose SOC -2.
+
+Drifter
+Exile
+Nomad
+
+LEAVING THE EXILE ASSIGNMENT
+
+Mustering out benefits
+
+ASSIGNMENTS
+
+Darrian Travellers
+
+V
+
+Individuals in this career wander from place-to-place and jobto-job, never quite putting down roots anywhere.
+
+A Traveller’s Parole Threshold starts at 1D+4. A Traveller’s
+Parole Threshold can never go above 12. For each term
+a Traveller spends as an Exile, their Parole Threshold is
+reduced by -1.
+
+60
+
+A
+
+L
+
+E
+
+Wanderer
+
+A Traveller may not normally leave or be ejected from the
+Exile assignment – not even Mishaps will force them to
+leave. Instead, they have a value called a Parole Threshold.
+At the end of each term in the Exile assignment, if the
+Traveller’s advancement roll is greater than their Parole
+Threshold, it means their Exile has come to an end and
+they may leave this career to return to normal Darrian
+society. Otherwise, they may not leave this career and
+must either continue in it for another term, take a career in
+another area of space (such as the Imperium) or muster out
+and begin adventuring.
+
+11
+
+R
+
+Choose one of the following:
+Drifter: You travel from system-to-system picking up
+temporary work such as asteroid mining, salvaging,
+engineering and so on. Your wanderlust prevents you from
+settling down in one specific job, despite the high level of
+diverse skills you have picked up.
+Exile: Thrown out of the world you were born on, by all
+rights you should be beyond the borders of the Confederation
+or lying dead from exposure and starvation somewhere.
+Yet there are some refuges in Darrian space and not all are
+heartless enough to allow an exile to die, granting you brief
+shelter in exchange for work before ushering you onwards.
+Nomad: You journey between the worlds of the
+Confederation, trying to absorb the many varied and
+wonderful cultures each colony has developed. Whether you
+are collecting material for a scholarly work or simply love
+meeting new people is up to you.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+SURVIVAL
+INT 7+
+END 8+
+INT 6+
+
+CASH
+Cr0
+Cr0
+Cr0
+Cr1000
+Cr2000
+Cr5000
+Cr7500
+
+ADVANCEMENT
+EDU 7+
+INT 6+
+SOC 8+
+
+BENEFITS
+Contact
+Weapon
+Ally
+Weapon
+STR +1
+DEX +1
+END +1
+
+Ranks and Bonuses
+RANK
+0
+
+SKILL OR BONUS
+—
+
+1
+
+Mechanic
+
+2
+
+—
+
+3
+
+Engineer
+
+4
+
+—
+
+5
+
+—
+
+6
+
+Contact
+
+R
+
+

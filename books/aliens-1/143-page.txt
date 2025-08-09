@@ -1,0 +1,129 @@
+PERSONAL WEAPONS
+
+Although laser weapons are favoured by most K’kree troops, some use is made of slugthrowers, especially in regions
+where high-tech weaponry is hard to maintain or even obtain. Many designs resemble traditional close combat
+weapons, which is in general less efficient but pleases the K’kree sense of aesthetics. Weapon names are also less
+pragmatic than those used by other species.
+A11/58231
+
+LANCE-OF-LENGTH
+
+The lance-of-length resembles a traditional lance and can be
+used as one but it incorporates a laser rifle barrel as the core
+of the shaft. Power is fed by means of a cord from a small
+backpack that will supply sufficient energy for 200 shots.
+A lance-of-length that has been plunged into the body of
+an enemy will be coated in blood, which will prevent proper
+firing, and to counter this a low-powered ‘cleaning pulse’
+can be triggered with a minor action. The resulting cloud of
+vapourised body fluids and small pieces of tissue is known as
+a ‘flower of battle’, giving rise to the term ‘raisers-of-flowers’
+for those with a reputation for hard fighting.
+
+Weapon
+Lance-of-Length
+
+A11/58231
+
+TL
+10
+
+Range
+50
+
+Damage
+5D
+
+Kg
+9
+
+Cost
+Cr4500
+
+Magazine
+200
+
+Power Pack Cost
+Cr1500
+
+Traits
+Zero-G
+
+Cost
+Cr2000
+
+Magazine
+100
+
+Power Pack Cost
+Cr1500
+
+Traits
+Zero-G
+
+Cost
+Cr2800
+
+Magazine
+200
+
+Power Pack Cost
+Cr2000
+
+Traits
+Zero-G, Auto 4
+
+SHORT-HAND
+
+The short-hand is essentially a compact laser pistol intended
+for use by nobles and those unable to carry a full-sized battle
+weapon. It has belt-mounted power supply good for a 100
+shots. To ‘strike with the short hand’ is a euphemism for both
+exerting authority in a graphic manner and getting involved in
+a close-range firefight.
+
+Weapon
+Short-Hand
+
+A11/58231
+
+TL
+10
+
+Range
+20
+
+Damage
+3D
+
+Kg
+3
+
+HAND-OF-LENGTH
+
+The hand-of-length is a rapid-fire laser carbine designed to
+be used in one hand by a charging K’kree. Its internal power
+supply will deliver 20 bursts when fully charged but the
+weapon is normally powered by a small backpack unit with a
+capacity of 200 bursts. A short-hand powerpack can also be
+used, but each burst from the hand-of-length drains six shots’
+worth of power.
+
+Weapon
+Hand-of-Length
+
+TL
+10
+
+Range
+80
+
+Damage
+4D
+
+Kg
+3.5
+
+143
+
+

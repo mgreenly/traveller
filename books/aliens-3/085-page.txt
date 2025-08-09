@@ -1,0 +1,262 @@
+THENGG PIONEER SCOUT
+The most common type of military scout, the Thengg
+is designed for sensor saturation, rather than stealth.
+Their tactical purpose is to jump into a system ahead
+of a fleet and either actively or passively scan for
+all possible threats. After collecting and processing
+the data, it tight beams this toward the pre-planned
+fleet arrival point or points, which are usually far
+from where the scout jumped in. The collated and
+
+pre-analysed data gives arriving ships a head
+start in responding to the tactical situation. The
+Thengg is built for speed and survivability, lightly
+armed for situations where it is unable to escape
+engagement. To add mission flexibility, the scout
+can start a mission using drop tanks, allowing it to
+make rapid surveys in enemy strongholds before
+skipping home quickly with its internal fuel.
+
+TL15
+
+TONS COST (MCr)
+
+Pilot, Astrogator,
+Engineer
+
+Hull
+
+200 Tons, Streamlined
+
+—
+
+12
+
+Armour
+
+Bonded Superdense, Armour: 9
+
+17.28
+
+8.64
+
+Radiation Shielding
+
+—
+
+5
+
+Stealth (improved)
+
+—
+
+20
+
+M-Drive
+
+Thrust 6 (Thrust 5 with Drop Tanks) 12
+
+24
+
+J-Drive
+
+Jump 3
+
+20
+
+30
+
+Power Plant
+
+Fusion (TL15), Power 260
+
+13
+
+26
+
+Fuel Tanks
+
+J-3, 12 weeks operation
+
+66
+
+—
+
+Bridge
+
+Holographic Controls
+
+10
+
+1.25
+
+Computer
+
+Computer/25fib
+
+—
+
+15
+
+Sensors
+
+Advanced
+
+5
+
+5.3
+
+Extended Array
+
+10
+
+10.6
+
+Power Requirements
+
+Enhanced Signal Processing
+
+2
+
+8
+
+Basic Ship Systems
+
+Sensor Station
+
+1
+
+0.5
+
+40
+
+Triple Turret (long range, very high
+yield beam laser)
+
+1
+
+3.25
+
+Manoeuvre Drive
+
+Triple Turret (accurate, high yield
+missile rack)
+
+1
+
+4.375
+
+Armoured
+Bulkheads
+
+Bridge
+
+1
+
+0.2
+
+Systems
+
+Drop Tank Mount (60 ton drop tank)
+
+0.24
+
+0.12
+
+Fuel Processor (240 tons/day)
+
+12
+
+0.6
+
+Fuel Scoops
+
+—
+
+—
+
+Workshop
+
+6
+
+0.9
+
+Standard x2
+
+8
+
+1
+
+10
+
+1
+
+Evade/3
+
+—
+
+3
+
+Fire Control/3
+
+—
+
+6
+
+Intellect
+
+—
+
+—
+
+Jump Control/3
+
+—
+
+0.3
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+4.48
+
+—
+
+Weapons
+
+Staterooms
+Common Areas
+Software
+
+Cargo
+
+86
+
+Crew
+Hull: 80
+Running Costs
+MAINTENANCE COST
+Cr14027.625/month
+PURCHASE COST
+MCr168.3315
+
+120
+Jump Drive
+60
+Sensors
+20
+Weapons
+14
+Fuel Processor
+12
+
+

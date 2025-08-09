@@ -1,0 +1,112 @@
+MUSTERING OUT
+
+Aslan receive mustering out Benefits when they leave
+the service as normal.
+
+•
+•
+
+Kinships
+
+Kinships are secret societies and trade guilds within
+Aslan society. A Traveller given membership in a kinship
+may ask other members of the kinship for aid, learn
+skills or obtain funding for further studies related to
+the kinship’s purpose. There are scientific kinships,
+engineering kinships, warrior secret schools and so forth.
+
+Pensions
+
+•
+
+•
+
+There is no pension system for Aslan. An old Aslan
+should have accumulated Clan Shares to have enough
+money to live on.
+
+Cash Benefits
+
+Females, being more skilled in handling financial
+matters, may consult the Cash column any number
+of times. Males are restricted to consulting the Cash
+column no more times than they have levels of the
+Independence skill; in addition, males receive only half
+the amount rolled for.
+
+Other Benefits
+
+Some Benefits are unique to Aslan.
+Brotherhood of Stars: This grand kinship of starfarers
+grants the Traveller one free Low Passage per month and
+one free High Passage per year.
+Ceremonial Kinship: A Traveller who is a member of a
+ceremonial kinship gains D3 Allies within the
+Aslan hierarchy.
+Clan Shares: Aslan Travellers do not receive Ship Shares.
+Instead, they receive Clan Shares, which represent
+the clan placing an increasing amount of trust in the
+Traveller’s abilities and the Traveller gaining more
+control over the assets of the clan.
+A Traveller may trade Clan Shares for any of the
+following benefits. Travellers from the same clan may
+combine Clan Shares.
+
+•
+
+Scientific Kinship: A scientific kinship is a school of
+experts on a topic. A Traveller who is a member of a
+scientific kinship may make a Difficult (10+) SOC check
+once per year; if successful, they obtain the use of a
+kinship laboratory ship for six months.
+Scout Ship: This is as detailed on page 45 of the
+Traveller Core Rulebook, but will instead be an Ihateisho
+scout ship, as detailed on page 72.
+Secret School: A secret warrior school teaches secret
+combat techniques. In addition to being part of this
+brotherhood of warriors, the Traveller may obtain DM+1
+to attack rolls in any one of the following situations:
+•
+•
+•
+•
+•
+
+44
+
+Cash: A Traveller may trade Clan Shares for simple
+cash. Each Clan Share gives the Traveller Cr10000.
+Corporation: The Traveller owns an operating
+corporation. It has MCr500000 in assets per Clan
+Share spent and produces gross profits equal to
+1D-5% of its assets per year. The Traveller need not
+do anything to administer the corporation but may
+become involved if desired.
+Favours: Clan Shares can be kept in reserve, and
+used to apply political pressure to the clan in the
+future. A Clan Share can be spent to acquire a
+Contact in the clan’s upper echelons, or turn such a
+Contact into an Ally.
+Land: This option can only be taken by a male Aslan
+with SOC 9+. The Traveller receives a landhold.
+Owning lands is the dream of all Aslan males, the
+chief ambition which drives them. To determine
+the landholding’s quality and size, first select or
+generate the world where the landhold is located.
+The size of the holding on that world is then
+determined based on the number of Clan Shares
+invested in the holding. Three Clan Shares grants
+TER +1.
+Ship Shares: Clan Shares may be converted to Ship
+Shares directly on a one-for-one basis.
+
+Melee (natural): When duelling
+Gun Combat (energy): After having aimed for at least
+two rounds
+Gun Combat (slug): After having aimed for at least
+two rounds
+Heavy Weapons (any): After having aimed for at least
+two rounds
+Gunner: When engaging a target at Adjacent range
+
+

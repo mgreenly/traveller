@@ -1,0 +1,86 @@
+2
+
+GENERALIST
+
+Most Hivers are generalists, typically living a normal life as a citizen of any type of nest. The average generalist
+works at a steady job and indulges their interests in a variety of fields without going very far into any of them. Such
+individuals are generalists by default but there are others who choose not to specialise or are unable to do so for
+other reasons.
+Open To: Any nest.
+Qualification: Determined by nest.
+
+ASSIGNMENTS
+Choose one of the following:
+Nest-Citizen: You are an ordinary (perhaps outstanding) citizen of a nest, working to nurture the young and to support the work of the
+nest as a whole. You are aware you are often manipulated by more determined nest-mates but there is little you can do about it.
+Dedicated Generalist: You believe that generalism is the way forward. You will delve into a subject as far as necessary before turning
+aside for something else. Rather than knowing everything about something, you believe your path to success is to know enough
+about everything. You are likely a wanderer, going wherever the next topic takes you.
+Drifter: You seem to have no purpose – although this may be a deception of course – and simply wander aimlessly from placeto-place and field to field. Your wanderings might take you far beyond the Hive Federation. At some point something is sure to
+pique your interest or seem worth getting involved in. On that day you will no longer be a drifter but until you find that purpose
+you will continue.
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+264
+
+PERSONAL DEVELOPMENT
+RES +1
+STR +1
+DEX +1
+END +1
+INT +1
+Jack-of-all-Trades
+NEST-CITIZEN
+Animals
+Survival
+Drive or Flyer
+Admin
+Profession
+Steward
+
+SERVICE SKILLS
+Survival
+Steward
+Profession
+Admin
+Animals
+Drive or Flyer
+GENERALIST
+Streetwise
+Investigate
+Recon
+Persuade
+Electronics
+Science
+
+ACTIVE CITIZEN (MIN. RES 7+)
+RES +1
+Deception
+Diplomat
+Persuade
+Language
+Science (sociology)
+HIVER DRIFTER
+Streetwise
+Survival
+Recon
+Deception
+Gun Combat
+RES +1
+
+

@@ -1,0 +1,201 @@
+RCPO COURIER
+Based on the tried and proven design of the
+Suleiman class scout/courier, the RCPO upgraded
+the manoeuvre and jump drives at the expense
+of cargo capacity and crew space. It has the
+deserved reputation of being a swift but cramped
+vessel to serve on.
+
+available data is as up-to-date as possible. Couriers
+will occasionally carry cargo other than data, such
+as items used for evidence or RCPO agents.
+Ideally, the RCPO courier has a crew complement
+of four but is routinely operated with two or even
+one multi-skilled crew member.
+
+The RCPO courier is primarily used to courier
+information to the widely dispersed RCPO offices
+throughout the Suerrat Cultural Region, ensuring
+
+TL13
+
+TONS
+
+COST (MCr)
+
+Hull
+
+100 tons, Streamlined
+
+—
+
+6
+
+Armour
+
+Crystaliron, Armour: 4
+
+5
+
+1
+
+M-Drive
+
+Thrust 4 (reduced size x2)
+
+3.2
+
+10
+
+J-Drive
+
+Jump 4
+
+15
+
+22.5
+
+Power Plant
+
+Fusion (TL12, reduced size),
+Power 105
+
+6.3
+
+7.7
+
+Fuel Tanks
+
+J-4, four weeks operation
+
+41
+
+—
+
+Bridge
+
+Holographic Controls
+
+10
+
+0.625
+
+Computer
+
+Computer/15bis
+
+—
+
+3
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Double Turret (beam lasers)
+
+1
+
+1.5
+
+Craft
+
+Docking Space (4 tons)
+
+5
+
+1.25
+
+Systems
+
+Fuel Scoops
+
+—
+
+—
+
+Fuel Processors (40 tons/day)
+
+2
+
+0.1
+
+Staterooms
+
+Standard x2
+
+8
+
+1
+
+Software
+
+Intellect
+
+—
+
+—
+
+Jump Control/4
+
+—
+
+0.4
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+0.5
+
+—
+
+Cargo
+
+Crew
+Pilot, Astrogator,
+Engineer, Gunner
+
+Hull: 40
+Running Costs
+MAINTENANCE COST
+Cr4931/month
+PURCHASE COST
+MCr59.175
+
+Power Requirements
+Basic Ship Systems
+20
+Manoeuvre Drive
+40
+Jump Drive
+40
+Sensors
+2
+Weapons
+
+Total: MCr59.175
+
+9
+Fuel Processor
+2
+
+RCPO Courier
+
+61
+
+

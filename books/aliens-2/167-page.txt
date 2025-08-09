@@ -1,0 +1,113 @@
+become overloaded when carrying around thousands of
+years of memories or huge volumes of complex data.
+The ideal candidates usually come from the Drone
+caste, combining a relatively low INT with high PSI.
+Apparently, not thinking too much is the best way to
+keep everything straight, although even so these living
+memory-repositories are often distracted to the point of
+barely being able to function. They will pass on some
+or all of their memories upon command, but only at the
+direction of Leaders.
+Whichever way it is used, the Transfer ability requires
+PSI 10+ and normally requires drugs, Boosting by
+other Droyne or certain closely-guarded transferfacilitation rituals.
+Check: Average (8+) Telepathy (1 day per skill level, PSI)
+Reach: Medium
+PSI Cost: 20
+
+CLAIRVOYANCE
+
+Droyne clairvoyance includes all standard abilities
+plus unique ones arising from the intensely strong link
+between a Droyne and their home Oytrip.
+
+Homing
+
+All Droyne, Chirpers and related races have an innate
+ability to know how far they are from their home Oytrip
+and in what direction. This is permanently active and
+functions whether or not the Droyne has received any
+psionic training. It may be that this ability is connected
+with the distress most Droyne suffer when they are away
+from their Oytrip. If so, the Homing ability still functions
+in Sports but may not cause as much distress so long as
+they have a home to return to. If an Oytrip is destroyed
+or a Droyne is ejected from it for whatever reason, the
+Homing ability will cease to function and the Droyne
+may well lose the will to live. The role of the Oytrip can
+be temporarily and partially replaced by the creation of
+a Kroyloss, or fraternity, but the need to belong to an
+Oytrip is such that sooner or later a wandering Droyne
+will leave the Kroyloss for an Oytrip or will work towards
+changing the fraternity into a proper community.
+Check: Routine (6+) Clairvoyance (1D seconds, PSI)
+Reach: Personal
+PSI Cost: 0
+
+Link
+
+All members of a Droyne family (Dreskay) have a psionic
+Link, whether they are trained in Clairvoyance or not,
+allowing them to locate any other member of their
+Oytrip. For the 15 seconds the Droyne can see and hear
+everything their Linked family member can and will
+know exactly where they are.
+
+Check: Easy (4+) Clairvoyance (1D seconds, PSI)
+Reach: Medium
+PSI Cost: 1
+
+AWARENESS
+
+Droyne have access to all the usual Awareness abilities
+plus two unique ones.
+
+Inner Eye
+
+The Inner Eye ability may be connected to the casting
+abilities of Droyne. It allows control of metabolism and
+organ function and can be used to temporarily offset the
+effects of injury. When this ability is activated, damage
+is applied to the Droyne’s PSI characteristic before END,
+then STR, then DEX as normal. If the Droyne does not
+run out of PSI, the natural regeneration of PSI points
+will remove this ‘stored’ damage without physical harm
+to the Droyne.
+Check: Easy (4+) Awareness (1D seconds, PSI)
+Reach: Personal
+PSI Cost: 0
+
+Rejuvenation
+
+The Rejuvenation ability is used to avoid the effects
+of aging. Any time a Droyne with this ability suffers
+a reduction of any characteristic due to age, chronic
+illness or similar causes (not physical injury, poisoning
+and the like), the loss may be taken on PSI instead.
+Once the Droyne’s PSI reaches zero they can no
+longer avoid the effects of aging. It is believed that an
+advanced version of this ability may exist, useable only
+with PSI 15+ and it was by this means that Yaskoydray
+achieved immortality. There is no way to prove this, and
+no other immortal Droyne are known to have existed.
+Check: Routine (6+) Awareness (PSI)
+Reach: Personal
+PSI Cost: 0
+
+DROYNE PSIONICS AND
+
+OTHER SPECIES
+
+When using psionic abilities against non-Droyne, PSI
+point costs for all abilities are doubled. This is due to
+differences in brain structure, ways of thinking and
+other factors not well understood by non-Droyne. It is
+rumoured that specially trained Droyne psi-warriors may
+exist who are able to use their powers at normal cost
+against specific species or even all species but this may
+be an artefact of Sixday-evening action-adventure shows
+rather than any form of formal research.
+
+167
+
+

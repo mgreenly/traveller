@@ -1,0 +1,139 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+S
+
+I
+
+X
+
+T
+
+E
+
+E
+
+HIGH GUARD: VARGR
+
+There are several customs and important facts to
+consider when travelling onboard Vargr ships and within
+the Vargr Extents.
+
+Passage Types
+
+Passage on Vargr ships has the same three categories
+as on human vessels: low, basic, middle and high
+passage. Travellers can be ‘bumped’ from a berth by
+another passenger with higher CHA, regardless of the
+class of ticket they have. This often has a chain effect of
+bumped passengers consequently bumping others else
+with lower CHA.
+The Low Lottery: This custom is practiced by some Vargr
+captains but not by others. To determine if a ship’s
+captain runs a lottery, roll 1D; on a 1–4 they not, a roll
+of 5–6 they do.
+The Traveller’s Aid Society: There is no Vargr institution
+comparable to the TAS that covers the Vargr Extents in
+its entirety but smaller organisations do exist that offer
+similar services on a smaller scale. They vary in size,
+standards and services on offer.
+Borders: Vargr do not recognise borders and territories.
+Established borders are an abstract concept to most
+Vargr, especially corsair raiders who will think nothing
+of crossing borders to raid a ship, whether it is a border
+between Vargr governments or alien worlds.
+Piracy: Piracy, hijacking, raiding and similar crimes are
+more frequent in Vargr space than in the Imperium. Roll
+on the Corsair Encounters table once per trip using the
+Encounter Modifiers table (modifiers are cumulative
+and applied to the ‘tens’ dice only) to determine
+what vessels are encountered. If a corsair band is
+encountered, use the Encounter Distance table on page
+79 of the Traveller Core Rulebook to determine the
+range of the vessels.
+
+Encounter Modifiers
+Highport
+Patrolled Region
+Major Trade Route
+Minor Trade Route
+Border System
+Settled Space
+Empty Space
+
+N
+
+Corsair Encounters
+D66
+36 or less
+41–46
+51–56
+61–66
+71–76
+81–86
+91–93
+94–96
+101–103
+104–106
+
+Encounter
+Uneventful
+Vargr Scout
+Two Vargr Scouts
+Vargr Corsair
+Vargr Corsair and Scout
+Vargr Corsair and two Scouts
+Two Corsairs
+Two Corsairs and two Scouts
+Two Corsairs and 1D Scouts
+1D Corsairs and 1D Scouts
+
+CREWS
+
+The Vargr pack mentality onboard a spacecraft is more
+significant than any other environment. The long periods
+of time spent in a confined space rely on pack dynamics
+for Vargr to function effectively as a crew. Although the
+typical infighting and power struggles are as prominent
+here as anywhere else, the camaraderie of the crew is
+essential to its success – mutinies are rare unless the
+leader constantly fails in his duties.
+The hierarchies and dynamics of the pack are also more
+varied onboard starships. As with all packs, there is
+always a leader but an individual’s CHA rises and falls
+depend on how important their role is perceived by
+the rest of the crew. Priorities can change according to
+events; for example, medics might not be considered
+particularly important until the crew become dependent
+on them for survival.
+Large crews are often made up of several packs divided
+by roles such as flight crew, engineers and gunners.
+Marines and other fighting crewmen are also grouped
+into their own packs. Corsair crews differ slightly in that
+the captain usually leads the boarding unit in addition
+to commanding the ship.
+
+–3
+–2
++2
++1
++1
++1
++0
+
+223
+
+

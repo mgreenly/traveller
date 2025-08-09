@@ -1,0 +1,222 @@
+RRADHI SEEKER
+TL14
+
+TONS
+
+Hull
+
+200 tons, Streamlined
+
+—
+
+12
+
+Armour
+
+Crystaliron, Armour 2
+
+5
+
+1.2
+
+M-Drive
+
+Thrust 1
+
+2
+
+4
+
+J-Drive
+
+Jump 1
+
+10
+
+15
+
+Power Plant
+
+Fusion (TL8), Power 70
+
+7
+
+3.5
+
+Fuel Tanks
+
+J-1, 12 weeks of operation
+
+23
+
+—
+
+Bridge
+
+10
+
+1
+
+Computer
+
+Computer/5
+
+—
+
+0.03
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Weapons
+
+Single Turrets (laser drill) x 2 2
+
+0.7
+
+Systems
+
+Fuel Processor (20 tons/day)
+
+1
+
+0.05
+
+Fuel Scoops
+
+—
+
+—
+
+Docking Space (30 tons)
+
+33
+
+8.25
+
+Ship’s Boat
+
+—
+
+7.272
+
+Mining Drones (10)
+
+20
+
+2
+
+Standard x 4
+
+16
+
+2
+
+Emergency Low Berth x 1
+
+1
+
+1
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.1
+
+Library
+
+—
+
+—
+
+Fire Control/1
+
+—
+
+2
+
+Common
+Areas
+
+12
+
+1.2
+
+Cargo
+
+57
+
+—
+
+Staterooms
+Software
+
+CREW
+
+COST (MCR)
+
+PILOT, ASTROGATOR, ENGINEER, AND
+MEDIC
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr5359/month
+
+PURCHASE COST
+MCr64.302
+
+Power Requirements
+20
+
+40
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+20
+
+1
+
+10
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 64.302
+The Rradhi seeker is a versatile ship
+designed for mining and prospecting. The
+normal crew consists of a pilot, navigator,
+engineer and medic, although some multiskilled prospectors will attempt to fly the
+ship on their own. Up to four additional
+workers can join the crew with double
+occupancy if required, although care has to
+be taken that this does not reduce profits.
+
+80
+HULL POINTS
+232
+
+

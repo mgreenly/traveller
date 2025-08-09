@@ -1,0 +1,62 @@
+A11/58231
+
+TAIL ARMOUR
+
+An Aslan with a full tail can only wear armour that includes
+this modification.
+Modification
+Tail Armour
+
+TL Kg
+2 —
+
+Cost
++2.5% (min. Cr50)
+
+COMMUNICATIONS AND COMPUTING
+A11/58231
+
+BOUNDARY BOX
+
+A necessity for any Traveller on an Aslan world, the boundary
+box contains maps of the planet’s surface as well as a
+database demonstrating which territory is owned by which
+Aslan noble. The box signals the Traveller when he is about
+to cross into an Aslan’s territory, ensuring he does not
+inadvertently cause offence. Additional maps for a boundary
+box cost Cr25.
+Modification
+Boundary Box
+
+A11/58231
+
+TL Kg
+
+7
+
+Cost
+—
+
+Cr150
+
+CLAN COMM
+
+The standard Aslan personal communicator has dedicated
+channels for the owner’s family, pride and clan in addition to
+normal comm features. The gift of a clan comm to an outsider
+is an expression of trust and honour; illegal possession of
+another clan’s comm is an insult.
+Modification
+Clan Comm
+
+TL Kg
+—
+7
+
+Cost
+
+Cr150
+
+55
+
+

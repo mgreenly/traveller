@@ -1,0 +1,112 @@
+Forgetfulness
+
+Forgetfulness may be a more powerful version of the
+Invisibility ability. It causes the target to suffer amnesia,
+covering a period equal in hours to the PSI of the
+attacker, up to the moment of the attack and perhaps
+for a few moments after. These memories are not
+eradicated, merely suppressed, and can be recovered by
+medical or psionic means. If the target fails a Difficult
+(10+) INT check, the amnesia is total and they do not
+realise anything is wrong. If the check is made or the
+target is presented with evidence they have forgotten
+the past few hours, they may begin to realise something
+is wrong. All they can recall is a confused jumble but
+this may give some clues or put them on the path to
+recovering their memories.
+Check: Difficult (10+) Telepathy (1D seconds, PSI)
+Reach: Close
+PSI Cost: 6
+
+Invisibility
+
+Invisibility falls within the Telepathy talent since it
+acts upon the minds of others but it is believed to be
+available to most Droyne and Chirpers as an instinctive
+ability. The user is not actually invisible; they can be
+seen as normal by cameras, motion detectors and other
+devices, or by psionically shielded individuals. What
+happens is that the target fails to notice the ‘invisible’
+Droyne due to distractions, something more interesting
+or some other circumstance.
+The Invisibility ability is activated instinctively by
+untrained individuals but can be selected by anyone who
+has the Telepathy ability. If uncontrolled, it activates
+whenever an individual feels threatened. If active, it
+affects all unshielded minds within 400 metres. This
+can be awkward if the sudden disappearance was
+unintentional. To be affected, a being must possess at
+least rudimentary intelligence. A Droyne or Chirper could
+thus become undetectable to a snake or a shark but very
+primitive creatures (and plants) will not be affected.
+Those affected by the Invisibility ability will be quite
+unable to spot the Droyne and will temporarily forget
+about them. Even attempts to draw attention to the
+‘invisible’ Droyne will fail. A shielded individual may
+be amused to see their companions fiddling with
+equipment, gazing intently at a discarded pizza box
+or updating their social media status whilst a party of
+Droyne wanders by but will find they also fail to notice
+attempts to point the Droyne out.
+There are limitations to this ability. People under threat
+will snap back to focus and be able to perceive the
+‘invisible’ Droyne providing they realise the threat is
+coming from them. A shielded Traveller who strikes
+
+166
+
+their companion to try to alert them will more than
+likely find themselves the target of annoyance or even
+retaliation, even as Droyne Warriors are levelling fusion
+guns. However, the Invisibility ability is relatively subtle
+and the target’s subconscious can break through with
+a warning. Essentially the target’s conscious mind is
+directed to other things but their eyes still see and their
+brain still processes the information. A gun pointed
+at the Traveller will usually be enough of a threat to
+make them take notice. There are innumerable tales of
+ambushes by Droyne along the lines of ‘they were right
+on top of us before we saw them’ or ‘we had no idea
+they were there until they opened fire’.
+Ordinarily, spotting a Droyne using Invisibility requires
+a Difficult (10+) Recon or INT check. In a situation
+where an ‘invisible’ Droyne presents a clear threat to
+someone, such as aiming a weapon, or causes such
+a disturbance that a Traveller cannot fail to notice it,
+the Traveller may make an Average (8+) Recon or INT
+check to realise what is happening. The difficulty falls to
+Routine (6+) if the Droyne causes harm to the Traveller.
+It is still possible that the Traveller might get hurt yet
+fail to perceive the Droyne who just shot them. In this
+case the Traveller will misinterpret the situation and
+believe the attack came from some other source but can
+make another check each round until the reality of the
+situation finally intrudes.
+A Droyne who is spotted can disappear again once the
+target loses track of them, either during a chaotic fight
+or due to losing line of sight.
+Check: None
+Reach: Very Long
+PSI Cost: 0
+
+Transfer
+
+The Transfer ability allows a Droyne to transfer anything
+they know to someone else and is often used to train
+young Droyne to perform various tasks. If used in this
+manner, a Droyne can teach another to perform any skill
+they know, up to their own level of skill. For this reason,
+large Oytrips often have specialist master-mentors in
+important skill areas, ensuring the Oytrip has plenty of
+personnel capable of performing in key areas. Training
+someone requires one whole day (including some time
+to rest, eat and perform the appropriate rituals) per skill
+level and skill levels must be taught one at a time.
+It is also possible to transfer memories or vast amounts
+of information to a recipient in this manner. There may
+once have been an idiot-savant caste, which could
+have acted as a repository for all this information but
+it apparently became extinct. Any modern Droyne can
+absorb a great deal of information but it is possible to
+
+

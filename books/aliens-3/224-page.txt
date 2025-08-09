@@ -1,0 +1,19 @@
+Type O Battle Dress: This battle dress includes all the facilities of the travel suit. However, it is extremely well
+
+armoured and adds waldos, the full electronics suite for battle dress found on page 30 of the Central Supply
+Catalogue, and a sonar-based system with a range of 1 kilometre which grants DM+2 to Electronic (sensors) checks.
+Orca battle dress can be equipped with vehicle weapons using the integrated weapon mount (page 37 of the
+Central Supply Catalogue) consuming a number of slots equal to 10 plus the tonnage of the weapon. For
+example, if an Orca wanted to mount a screamer cannon on their battle dress, it would take up 10+1 or 11 slots.
+Orca battle dress is equipped with waldos at the same TL. Any STR enhancements provided by the battle dress is
+also afforded to the waldos.
+
+Travel Suit
+
+CSC: Orca
+
+Type O Battle Dress
+
+225
+
+

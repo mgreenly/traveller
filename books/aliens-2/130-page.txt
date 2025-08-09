@@ -1,0 +1,237 @@
+1
+
+PARTY
+
+These are influential members of the Solomani Movement and
+its ruling Party.
+Qualification: SOC 6+. SOC 6+. Must be of pure Solomani race
+(or pass as one) with SOC 7+. If you are aged 34 or more: DM1. Per previous career: DM-1. You qualify automatically if your
+SOC is 10+.
+
+ASSIGNMENTS
+
+CAREER PROGRESS
+Administrator
+Intellectual
+Militant
+
+Choose one of the following:
+Official: You served in the ruling Solomani Party organisation,
+making you eligible for a government or civil service
+position or appointment to one of the many corporations or
+nongovernmental organisations run by the Party.
+Intellectual: You were a philosopher or spokesperson for the
+Solomani Cause, working to promote and develop the views
+of your particular Party faction. You could be a rabble-rousing
+activist or work for Party-affiliated mass media, a think tank or
+an academic institution.
+Militant: You were a front-line fighter for the Solomani Cause.
+You may have been a rebel waging a guerrilla war to topple
+non-Solomani governments or a tough Party street fighter who
+can turn a noisy demonstration into a bloody riot. Many militant
+groups are not officially recognised by the Confederation and
+might actually be condemned for their actions.
+
+SURVIVAL
+INT 5+
+EDU 6+
+END 7+
+
+ADVANCEMENT
+SOC 7+
+INT 6+
+INT 6+
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr5000
+Cr15000
+Cr30000
+Cr40000
+Cr50000
+Cr60000
+Cr70000
+
+BENEFITS
+Weapon and a Contact
+INT +1
+EDU +1
+Weapon
+Ship Share and an Ally
+Terran Adventurers Society
+SC Courier
+
+SKILLS AND TRAINING
+1D
+
+PERSONAL DEVELOPMENT
+
+SERVICE SKILLS
+
+ADVANCED EDUCATION (MIN. EDU 8)
+
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+Carouse
+END +1
+Persuade
+INT +1
+EDU +1
+SOC +1
+ADMINISTRATOR
+Admin
+Advocate
+Electronics
+Diplomat
+Persuade
+Admin
+
+Advocate
+Electronics (comms)
+Deception
+Drive
+Flyer
+Leadership
+INTELLECTUAL
+Investigate
+Advocate
+Science (genetics)
+Persuade
+Art (holography or writing)
+Science (history, philosophy or psychology)
+
+Admin
+Advocate
+Electronics (computers)
+Language
+Pilot
+Any Science
+MILITANT
+Deception
+Explosives
+Gun Combat
+Melee
+Electronics
+Streetwise
+
+RANKS AND BENEFITS
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+OFFICIAL
+Cadre
+Alternate
+Delegate
+Deputy
+Commissioner
+Chairman
+Minister
+
+SKILL OR BENEFIT
+—
+Admin 1 and SOC 10
+SOC 11
+Advocate 1 and SOC 12
+Leadership 1 and SOC 13
+SOC 14
+SOC 15
+
+Advancement in Party Official rank automatically
+grants SOC. If a Traveller already has that level of
+SOC or greater, SOC is unchanged.
+
+130
+
+RANK INTELLECTUAL
+
+SKILL OR BENEFIT MILITANT
+
+0
+1
+
+—
+Pundit
+
+2
+3
+
+—
+Philosopher
+
+4
+5
+
+—
+Leader
+
+6
+
+—
+
+—
+Advocate 1 or
+Science 1
+—
++1 Social
+Standing
+—
+SOC 10 or SOC
++1, whichever
+is higher
+—
+
+Follower
+Soldier
+
+SKILL OR
+BENEFIT
+
+—
+Brigade
+Commander
+
+—
+Gun Combat 1
+or Melee 1
+—
+Advocate 1 or
+Leadership 1
+—
+Tactics
+(military) 1
+
+—
+
+—
+
+—
+Cell Leader
+
+

@@ -1,0 +1,161 @@
+REFUELLING SHUTTLE
+
+CLASS: KILRASHTA
+itself, so is usually accompanied by several
+fighters while it skims for fuel. Normally, the
+Kilrashta requires a crew of five but under normal
+operations it performs adequately with only a pilot
+and engineer aboard. Other functions requiring
+maintenance crew are normally performed while
+the shuttle is docked with its mothership.
+
+The Kilrashta-class refuelling shuttle is a common
+boat assigned to carriers and broodships. Its
+sleek triangular design allows it to smoothly dip
+into the atmospheres of gas giants to scoop for
+fuel, although it has no capacity to process it. An
+UNREP system allows for easy refuelling in space.
+The refuelling shuttle has no capacity to defend
+
+TL12
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+1,000 tons, Streamlined
+
+—
+
+60
+
+Aerofins
+
+50
+
+5
+
+M-Drive
+
+Thrust 1
+
+10
+
+20
+
+Power Plant
+
+Fusion (TL12), Power 315
+
+21
+
+21
+
+Fuel Tanks
+
+4 weeks operation
+
+3
+
+—
+
+Additional Fuel
+
+886
+
+—
+
+20
+
+5
+
+MAINTENANCE COST
+
+Hull
+
+Bridge
+
+Pilot, Engineer,
+Maintenance x2,
+Administrator
+
+Hull: 400
+Running Costs
+
+Computer
+
+Computer/5
+
+—
+
+0.03
+
+Cr9669/month
+
+Sensors
+
+Basic
+
+—
+
+—
+
+PURCHASE COST
+
+Systems
+
+Fuel Scoop
+
+—
+
+—
+
+MCr116.03
+
+UNREP System (200 tons/hour)
+
+10
+
+5
+
+Intellect
+
+—
+
+—
+
+Power Requirements
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+Basic Ship Systems
+
+—
+
+—
+
+200
+
+Software
+
+Total: MCr116.03
+
+Manoeuvre Drive
+100
+UNREP
+10
+
+Kilrashta-class
+Refuelling Shuttle
+
+245
+
+

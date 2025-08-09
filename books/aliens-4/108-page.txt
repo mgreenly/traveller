@@ -1,0 +1,228 @@
+T
+
+1
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Za’tachk Interstellar Ground Force
+
+Members of the Za’tachk army. These soldiers deal with
+planetary surface actions, battles and campaigns.
+
+CAREER PROGRESS
+
+Qualification: END 5+
+Commission: SOC 5+ and BOL 6-
+
+Support
+
+END 3+
+
+EDU 7+
+
+Light Drone Jockey
+
+DEX 6+
+
+EDU 6+
+
+Heavy Drone Jockey
+
+DEX 7+
+
+EDU 5+
+
+SURVIVAL ADVANCEMENT
+
+ASSIGNMENTS
+
+Choose one of the following:
+
+Za’tachk Travellers
+
+1
+
+108
+
+Skills and Training
+
+Support: You are an engineer, cook or in some other role
+behind the front lines.
+Light Jockey: You are trained in controlling the light
+drones of the ground force.
+Heavy Jockey: You are trained in controlling the heavy
+drones of the ground force.
+
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL
+DEVELOPMENT
+DEX +1
+DEX +1
+EDU +1
+Carouse
+Electronics
+BOL +1
+
+1D
+1
+2
+3
+4
+5
+6
+
+SUPPORT
+Drive
+Flyer
+Electronics
+Mechanic
+Medic
+Steward
+
+SERVICE SKILLS
+Drive
+Electronics
+Mechanic
+Recon
+Gun Combat
+Flyer
+
+Mustering Out Benefits
+1D
+
+CASH
+
+BENEFITS
+
+1
+
+Cr2000
+
+INT +1
+
+2
+
+Cr5000
+
+EDU +1
+
+3
+
+Cr10000
+
+DEX +1
+
+4
+
+Cr10000
+
+STR +1
+
+5
+
+Cr15000
+
+BOL +1
+
+6
+
+Cr20000
+
+BOL +1
+
+7
+
+Cr25000
+
+SOC +1
+
+ADVANCED EDUCATION
+(MIN. EDU 8+)
+Electronics (comms)
+Electronics (comms)
+Electronics (sensors)
+Navigation
+Leadership
+Tactics
+
+LIGHT JOCKEY
+Drive
+Flyer
+Electronics (remote ops)
+Electronics (remote ops)
+Recon
+Recon
+
+HEAVY JOCKEY
+Drive
+Flyer
+Electronics (remote ops)
+Electronics (remote ops)
+Pilot (small craft)
+Recon
+
+Ranks and BONUSES
+RANK
+0
+1
+2
+
+ENLISTED
+Yruck
+Yruckan
+Wena
+
+SKILL OR BONUS
+Mechanic
+—
+—
+
+RANK
+3
+4
+5
+6
+
+ENLISTED
+Danwen
+Wenxoo
+Xoo
+Garxoo
+
+OFFICER
+(COMMISSIONED ONLY)
+Tactics (military)
+Leadership
+Admin
+Advocate
+Pilot (small craft)
+Tactics (military)
+
+SKILL OR BONUS
+Gun Combat 1
+Leadership 1
+—
+Tactics (military) 1
+
+R
+
+

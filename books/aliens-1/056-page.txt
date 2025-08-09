@@ -1,0 +1,72 @@
+ROBOTS
+A11/58231
+
+MOUSEBOT
+
+These little drones are mobile food carriers, designed to
+remind Aslan of natural prey on Kusyu. They are used where
+live food would be impractical. Freshly heated meat is
+attached to the khyeseir’s spikes and the drone is released to
+run around the dining area.
+
+Skills
+Attacks
+Traits
+Programming
+
+A11/58231
+
+Hits
+
+Speed
+
+TL
+
+3
+Athletics (dexterity) 1, Recon 1, Stealth 2
+None
+Armour (+2), Small (-3)
+Basic (scurry and hide)
+
+10m
+
+7
+
+SLAVE MACHINE
+
+These are humanoid robots, mass-produced and used as
+labourers. The Aslan could perhaps have developed more
+efficient non-humanoid designs but the arerl appeals to some
+atavistic instinct in the Aslan.
+
+Skills
+Attacks
+Traits
+Programming
+
+56
+
+Hits
+
+Speed
+
+TL
+
+36
+Athletics (strength) 3,
+Profession (labourer) 1
+None
+Armour (+6)
+Basic (labourer)
+
+4m
+
+12
+
+Cost
+Cr120000
+
+Cost
+Cr125
+
+

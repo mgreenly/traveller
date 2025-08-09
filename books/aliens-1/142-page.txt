@@ -1,0 +1,154 @@
+A03/48956
+
+BATTLE DRESS
+
+K’kree suffer the same problems using battle dress as
+unpowered combat armour, only more so. The Vacc Suit
+check to avoid panic when wearing battle dress is Difficult
+(10+). Battle dress is uncommon and generally used only
+by special-purpose units. These tend to be small and are
+attached to other forces as a spearhead or assault force.
+K’kree battle dress tends to be clumsy compared to that of
+other species and imposes DM-1 on all actions that require
+movement or agility.
+
+Armour Type
+Battle Dress (standard)
+
++20
+
+12
+
+200
+
+220
+
++3
+
++3
+
+Battle Dress (heavy
+assault)
+Battle Dress (noble/
+command)
+
++26
+
+12
+
+250
+
+280
+
++3
+
++3
+
+Slots
+12
+12
+
++22
+
+12
+
+220
+
+210
+
++3
+
++3
+
+12
+
+A03/75674
+
+Protection
+
+TL
+
+Rad
+
+Kg
+
+STR
+
+DEX
+
+TRADITIONAL
+WEAPONRY
+
+The traditional weaponry of the K’kree warrior consists of a lance, a
+small shield and a weapon known as a hand-blade that resembles a
+curved and deeply bellied machete. The hand-blade is almost useless
+for thrusting but delivers a devastating cut optimised for the ‘running
+pass’ style of attack. Nobles sometimes carry a smaller variant of the
+hand-blade, which is still a useful weapon but generally considered an
+item of dress. A noble’s hand-blade is by tradition exempt from weapon
+restrictions – a fact that has caused a great deal of friction on nonK’kree worlds where laws are strict.
+The K’kree shield is a little larger than a human buckler but covers only
+about half the forearm when held in the hand. It is otherwise treated as
+a standard shield.
+Both the lance and hand-blade require the Melee (blade) skill for use.
+The shield requires Melee (bludgeon) if used as a weapon.
+
+Weapon
+Lance
+
+Shield
+Hand-Blade
+Ceremonial
+Hand-Blade
+
+142
+
+TL
+1
+1
+2
+2
+
+Range
+Melee
+Melee
+Melee
+Melee
+
+Damage
+2D
+1D
+2D+2
+1D+1
+
+Kg
+2
+2
+1.5
+0.6
+
+Cost
+Cr15
+Cr20
+Cr120
+Cr250
+
+Traits
+—
+—
+—
+—
+
+Cost
+Cr500000
+Cr900000
+
+Required Skill
+Vacc Suit 2
+Vacc Suit 2
+
+MCr2
+
+Vacc Suit 1
+
+

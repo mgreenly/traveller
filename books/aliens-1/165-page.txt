@@ -1,0 +1,21 @@
+4
+6
+1
+2
+3
+
+5
+
+DECK 1
+
+LEGEND
+1. Fuel tanks
+2. Cargo hold
+3. M-drive
+4. Fusion barbette
+5. Sensors
+6. Power plant
+
+165
+
+

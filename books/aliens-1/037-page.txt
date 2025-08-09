@@ -1,0 +1,141 @@
+RANKS AND BONUSES CONT...
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+SHIPMASTER
+Probationary Lieutenant
+Intendant
+Lieutenant
+Senior Lieutenant
+Executive Lieutenant
+Executive
+Chief of Staff
+
+SKILL OR BENEFIT
+—
+Admin 1
+—
+Advocate 1
+—
+—
+2 Clan Shares
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+NAVIGATOR
+Trainee Navigator
+Junior Navigator
+—
+Navigator
+—
+—
+—
+
+SKILL OR BENEFIT
+—
+Astrogation 1
+—
+Computers 1
+—
+—
+2 Clan Shares
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured. Roll twice on the Injury table and take the lower result.
+
+2
+
+A disaster cripples your ship and you are blamed for this failing. Roll Advocate 8+ or Melee 8+ to challenge this
+decision. If you succeed, you may keep any Benefit rolls from this term.
+
+3
+
+A shift in clan politics ruins your career. Lose SOC –2.
+
+4
+
+Your vessel is destroyed in battle. Gain the foe who defeated you as a Rival.
+
+5
+
+You are captured by a rival clan and ransomed back but the disgrace ends your career. Gain a Contact in the
+rival clan.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+Your ship is attacked by pirates. Roll Tactics 8+ or Engineer 8+. If you succeed, you drive off the attackers and
+gain DM+2 to your next advancement roll. If you fail, the pirates steal your cargo. Lose all Benefit rolls from
+this term and gain the pirate captain as an Enemy.
+
+4
+
+You have the opportunity to smuggle illegal goods. If you accept, roll Deception 8+. Succeed and gain 6
+Benefit rolls. Fail and you are ejected from this career and drop to SOC 2.
+
+5
+
+You spend time in alien space. Gain one level of Tolerance, Diplomat, Language or Science.
+
+6
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain any skill.
+
+7
+
+Life Event. Roll on the Aslan Life Events table.
+
+8
+
+You have the opportunity to establish a landhold in your name. Gain TER +2.
+
+9
+
+Your clan goes to war with another clan and your vessel attacks one of their worlds. If you drive the colonists
+offworld with vicious tactics, gain TER +2 but lose SOC –2.
+
+10
+
+You are challenged to a duel by a rival. If you refuse, you lose SOC –1D. Accept, and roll Melee 8+. If you fail,
+you lose all Benefits from this term. Succeed and gain DM+2 to your next advancement roll.
+
+11
+
+You befriend an old Aslan admiral. Either gain Tactics (naval) or DM+4 to any advancement roll thanks to his aid.
+
+12
+
+Your efforts strike a great blow for your clan. You are automatically promoted.
+
+

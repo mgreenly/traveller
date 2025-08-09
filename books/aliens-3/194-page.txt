@@ -1,0 +1,24 @@
+DECK 3
+
+DECK 4
+
+6
+
+6
+
+7
+
+8
+
+1. Cargo Bay
+2. Bridge
+3. Fuel Processing
+4. Barracks
+5. Docking Space
+6. Living Space
+7. Breifing Room
+8. Armoury
+
+195
+
+

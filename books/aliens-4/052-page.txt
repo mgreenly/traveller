@@ -1,0 +1,231 @@
+T
+
+2
+
+Qualification: INT 6+
+DM-1 for every previous career.
+DM-2 if you are aged over 30.
+
+ASSIGNMENTS
+
+Skills and Training
+
+Investigations: You investigate interstellar criminal activities.
+Field: You are a field agent on a starship.
+Special Operations: You are a member of the RSF
+combat forces.
+
+Suerrat Travellers
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Career Progress
+SURVIVAL
+
+ADVANCEMENT
+
+Investigator
+
+INT 7+
+
+INT 5+
+
+Field
+
+END 6+
+
+INT 6+
+
+Special Operations STR 6+
+
+EDU 6+
+
+Mustering Out Benefits
+
+Choose one of the following:
+
+52
+
+A
+
+Regional Security Force
+
+This career protects the borders of the Suerrat Republic
+from the predations of pirates, smugglers and the
+transport of undocumented immigrants.
+
+2
+
+R
+
+1D
+
+CASH
+
+BENEFITS
+
+1
+
+Cr3000
+
+INT+1
+
+2
+
+Cr5000
+
+D3 Contacts
+
+3
+
+Cr12000
+
+Weapon
+
+4
+
+Cr18000
+
+Law Enforcement Gear
+
+5
+
+Cr24000
+
+2 Ship Shares
+
+6
+
+Cr55000
+
+TAS Membership
+
+7
+
+Cr85000
+
+D3 Allies
+
+1D
+
+PERSONAL DEVELOPMENT
+
+SERVICE SKILLS
+
+ADVANCED EDUCATION (MIN. EDU 8+)
+
+1
+
+Gun Combat
+
+Advocate
+
+Advocate
+
+2
+
+DEX +1
+
+Vacc Suit
+
+Language
+
+3
+
+END +1
+
+Admin
+
+Explosives
+
+4
+
+Melee
+
+Gun Combat
+
+Medic
+
+5
+
+INT +1
+
+Athletics
+
+Vacc Suit
+
+6
+
+Athletics
+
+Pilot
+
+Electronics
+
+1D
+
+INVESTIGATOR
+
+FIELD
+
+SPECIAL OPERATIONS
+
+1
+
+Admin
+
+Pilot
+
+Gun Combat
+
+2
+
+Investigate
+
+Engineer
+
+Tactics (military)
+
+3
+
+Streetwise
+
+Mechanic
+
+Recon
+
+4
+
+Persuade
+
+Gunner
+
+Heavy Weapons
+
+5
+
+Electronics (computers)
+
+Electronics
+
+Vacc Suit
+
+6
+
+Advocate
+
+Gun Combat
+
+Melee
+
+R
+
+

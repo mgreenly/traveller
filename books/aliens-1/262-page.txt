@@ -1,0 +1,154 @@
+GOVERNMENT
+
+4
+
+Members of the Zhodani government at a
+wide variety of levels, involved in making
+the government councils across the
+Consulate operate smoothly.
+Qualification: INT 8+
+
+CAREER PROGRESS
+SURVIVAL
+INT 7+
+END 6+
+
+Administrator
+Diplomat
+
+ADVANCEMENT
+EDU 8+
+EDU 6+
+
+ASSIGNMENTS
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Administrator: : You serve one of the
+many council governments, governing
+continents, worlds, subsectors, sectors,
+provinces or perhaps even with the
+Supreme Council itself.
+Diplomat: You serve as a member of the
+Consulate diplomatic staff, either to
+unabsorbed worlds within the Consulate,
+client and neutral states around the
+Consulate, or even to Imperial worlds.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+10000
+10000
+50000
+50000
+100000
+100000
+200000
+
+BENEFITS
+Weapon
+Ship Share
+Two Ship Shares
+SOC +1
+Nenj
+Courier
+SOC +1 Courier
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+DEX +1
+EDU +1
+INT +1
+Athletics
+Carouse
+Melee
+SPECIALIST: ADMINISTRATOR
+Admin
+Advocate
+Broker
+Diplomat
+Leadership
+Persuade
+
+SERVICE SKILLS
+Admin
+Broker
+Electronics
+Diplomat
+Investigate
+Persuade
+SPECIALIST: DIPLOMAT
+Advocate
+Broker
+Diplomat
+Language
+Science
+Steward
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Advocate
+Electronics
+Diplomat
+Language
+Leadership
+Science
+PSIONIC SKILLS (MIN. SOC 10)
+PSI +1
+Admin
+Clairvoyance
+Persuade
+Science (psychology)
+Talent
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ADMINISTRATION
+Assistant
+Second Secretary
+First Secretary
+Executive
+Consul
+World Consul
+High Consul
+
+SKILL OR BENEFIT
+—
+Admin 1
+—
+Advocate 1
+—
+Leadership 1
+SOC +1
+
+

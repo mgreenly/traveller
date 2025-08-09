@@ -1,0 +1,67 @@
+1 square = 0.5 Ton
+
+13
+6
+
+6
+
+11
+
+7
+11
+
+12
+9
+
+11
+11
+
+11
+
+13
+
+11
+
+8
+
+5
+
+3
+4
+
+DECK 3
+1
+
+2
+
+DECK 1
+
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Manoeuvre Drive
+Jump Drive
+Power Plant
+Bridge
+Sensors
+Double Turret
+Docking Space
+
+DECK 2
+
+8. Fuel Processor
+9. Loading Belt
+10. Airlock
+11. Stateroom
+12. Common Area
+13. Cargo Hold
+
+173
+
+

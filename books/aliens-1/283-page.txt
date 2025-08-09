@@ -1,0 +1,63 @@
+ZHODANI WARBOTS
+
+The Zhodani traditionally use mobile robots as part
+of their armed forces. These robots are not sapient
+and form a cheap substitute for ordinary soldiers.
+Imperial propaganda paints the Zhodani use of ‘death
+machines’ as one more example of their soulless
+culture. The Zhodani have a different view; war is
+necessary but not glamorous and their soldiers’ lives
+are too valuable to waste.
+Warbots are normal parts of many Zhodani units
+and attached to others for special operations on a
+mission-by-mission basis. They are used in various
+ways, ranging from mass assault to mobile fire support
+
+A11/58231
+
+platforms to providing security perimeters or postbattle pursuit. They are vital for clearing built-up areas,
+where casualties may be unacceptably high for troops.
+In such missions, they are normally sent to locations
+where clairvoyance-using psionic detachments have
+pinpointed enemy resistance. Against lower-tech forces,
+use is often made of their flight capabilities for surprise
+vertical envelopments.
+Warbots are programmed to recognise and ignore friendly
+troops and are programmed with terrain maps, battle
+plans and threat criteria. They are all installed with
+transponders for battlefield ‘friend or foe’ recognition.
+
+LIGHT WARBOT
+
+This warbot is light enough to be carried as equipment by a
+Zhodani commando team – massing a total of 9kg, a skilled
+teleporter can even carry one with him when he teleports. A
+favourite tactic of Zhodani commandos is to teleport deep into
+enemy territory, leave several light warbots behind and then
+teleport back to safety while the warbots wreak havoc on an
+unsuspecting enemy encampment, thoroughly demoralising
+the enemy.
+
+ROBOT
+
+HITS
+SPEED
+TL
+COST
+12
+—
+11
+Cr45000
+SKILLS
+Gun Combat (slug) 1, Melee 0, Recon 2,
+Stealth 1
+ATTACKS
+Submachine Gun (4D, Auto 3)
+TRAITS
+Armour (+3), Flyer (high), Small (-1)
+PROGRAMMING Advanced
+Light Warbot
+
+283
+
+

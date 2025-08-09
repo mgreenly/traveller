@@ -1,0 +1,215 @@
+COMMUNICATIONS VESSEL
+SIYOPARTTWI-TYPE
+TL11
+
+TONS
+
+COST (MCR)
+
+Hull
+
+200 tons, Droyne Hull
+
+—
+
+20
+
+M-Drive
+
+Thrust 3 (energy
+efficient)
+
+6
+
+13.2
+
+Jump Drive
+
+Jump 2
+
+15
+
+22.5
+
+Power Plant
+
+Fusion (TL8), Power
+180
+
+18
+
+9
+
+Fuel Tanks
+
+J-2, 8 weeks of
+operation
+
+43.6
+
+—
+
+Bridge
+
+Holographic Controls
+
+20
+
+1.25
+
+Computer
+
+Computer/15
+
+—
+
+2
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Particle Barbettes x2
+
+10
+
+16
+
+Systems
+
+Probe Drones (20
+probes)
+
+4
+
+2
+
+Repair Drones
+
+2
+
+0.4
+
+Pod-Clusters x2
+
+40
+
+10
+
+Ceremonial Space,
+Minor (capacity 12)
+
+18
+
+4.5
+
+12
+
+1.2
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Virtual Crew/0
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+9
+
+—
+
+Accommodation
+
+Common Areas
+Software
+
+Cargo
+
+CREW
+CAPTAIN, PILOT, ASTROGATOR,
+ENGINEERS X2, GUNNERS X2
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr8946/month
+
+PURCHASE COST
+MCr107.35
+
+Power Requirements
+45
+
+40
+
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+40
+
+2
+
+30
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 107.35
+The Siyoparttwi-type, as non-Droyne
+observers designate vessels of this sort, is
+named after the first example encountered.
+It is more commonly referred to as a ‘Droyne
+Scout’, although there are several vessels
+that fit this rather loose designation.
+
+80
+170
+
+HULL POINTS
+
+The Siyoparttwi is a utilitarian craft
+normally employed by Sports or
+small groups of Droyne to carry out
+communications, diplomatic and
+reconnaissance missions. Examples
+have also been sighted in the hands of
+a Kroyloss and even orphaned Droyne,
+making this one of the most common
+Droyne vessels encountered by outsiders
+and also possibly creating a false
+impression of Droyne culture.
+
+

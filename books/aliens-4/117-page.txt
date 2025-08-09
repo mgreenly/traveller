@@ -1,0 +1,144 @@
+GRENADE WEAPONS
+
+If thrown by hand, the following weapon uses the
+Athletics (dexterity) skill or the Gun Combat (slug) skill
+if fired from a launcher.
+Kaath Grenade: The kaath grenade operates similarly
+to the kaath pistol and like other kaath weapons is
+largely illegal outside of the Za’tachk Alignment. Kaath
+grenades are available as both hand-thrown and
+grenade launcher versions. Kaath grenades will always
+affect a target for a minimum of one round.
+
+Kaath Grenade
+
+Weapon
+
+TL
+
+Range
+
+Damage
+
+Kg
+
+Cost
+
+Traits
+
+Kaath Grenade
+
+10
+
+20
+
+1D
+
+0.5
+
+Cr500
+
+Stun, Blast 3
+
+Kaath Grenade
+
+12
+
+20
+
+1D+2
+
+0.5
+
+Cr850
+
+Stun, Blast 5
+
+VEHICLE WEAPONS
+The following new weapons are designed to be
+mounted on vehicles. All ranges are in kilometres.
+Razor Missile: Razor missiles are air-to-ground missiles
+explicitly designed to take out individuals without causing
+large amounts of collateral damage. They are warheadless missiles equipped with six long pop-up razor-like
+blades deployed a few seconds before the impact. The
+missile does not explode but shreds anything in its path.
+
+Razor Missile
+
+TL
+
+Range
+
+Damage Tons Spaces
+
+Cost
+
+Magazine Magazine Cost Traits
+
+Razor
+Missile
+
+7
+
+11
+
+5D
+
+0.25
+
+1
+
+Cr150000 1
+
+—
+
+AP 4, Blast 1,
+One Use, Smart
+
+Razor
+Missile
+
+9
+
+15
+
+7D
+
+0.25
+
+1
+
+Cr190000 1
+
+—
+
+AP 6, Blast 1,
+One Use, Smart
+
+Razor
+Missile
+
+12
+
+18
+
+9D
+
+0.25
+
+1
+
+Cr230000 1
+
+—
+
+AP 8, Blast 1 One
+Use, Smart
+
+CSC: Za’tachk
+
+Weapon
+
+117
+
+

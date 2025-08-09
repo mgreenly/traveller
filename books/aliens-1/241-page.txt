@@ -1,0 +1,47 @@
+7
+6
+13
+
+DECK 2
+
+7
+2
+1
+8
+9
+5
+
+14
+
+12
+10
+
+11
+6
+
+4
+3
+DECK 1
+
+LEGEND
+1. Bridge
+2. Sensors
+3. M-drive
+4. J-Drive
+5. Power plant
+6 . Tr i p l e t u r r e t
+(beam lasers)
+7 . Tr i p l e t u r r e t
+(missile racks)
+
+8. Missile storage
+9. Low Berth
+10. Medical bay
+11. Staterooms
+12. Barracks
+13. Docking space
+14. Cargo hold
+
+241
+
+

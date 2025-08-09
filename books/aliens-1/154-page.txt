@@ -1,0 +1,109 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+T
+
+E
+
+N
+
+HIGH GUARD: K’KREE
+Most starships operating within K’kree space are built
+to TL9–11 standards. More advanced craft are available
+to those with money and connections but for interstellar
+commerce and routine travel a sedate pace is the norm.
+The unique characteristics of the K’kree – their size
+and need for the company of others – mean that their
+vessels are built differently to those used by humans
+and other small creatures. A K’kree engineer literally
+cannot crawl into a narrow space to find a problem and
+if they can physically fit into a tight space, being alone
+and confined would make carrying out complex tasks
+impossible even if it did not cause a mental breakdown.
+Much use is made of remotely-controlled maintenance
+units, which can be operated from an engineering
+console, and wherever possible an open-plan mode of
+construction is used. This means that pipes and wiring
+conduits are highly exposed compared to human ships.
+Spacecraft crews are still exposed to considerable stress
+by the nature of their environment and many K’kree
+simply cannot handle the pressure. Some are unable to
+even travel as passengers and must remain confined to a
+single world or be transported in low berths.
+Accommodation is the most obvious area where designs
+differ from other species. K’kree need a communal
+living area but it must be properly delineated – it
+would not do for a mere Merchant-caste family to
+wander amongst a Noble’s entourage! Thus rather than
+staterooms, K’kree vessels use enclosures. These are
+not normally fully enclosed, although some have the
+capability to be sealed off in an emergency. Enclosures
+are rated by their quality, which determines which caste
+will deign to travel in them, as well as capacity. As a
+general rule, K’kree need at least three to four times as
+much living and working space as a human, although a
+family or fighting-band can occupy a smaller space on a
+communal basis.
+
+DESIGN FEATURES
+
+The lack of internal compartmentalisation within K’kree
+ships weakens their structure. To reflect this, reduce
+Hull points by 25% for any craft or vessel that carries
+
+live crew or passengers. Robotic craft are not affected.
+There is no cost saving for this; it is merely the way
+K’kree build their ships. This feature should be borne
+in mind when designing deck plans; K’kree ships are
+frighteningly open-plan by human standards – but then
+human ships are claustrophobic nightmare spaces fit
+only for G’naak.
+
+Enclosures
+
+At their most basic, enclosures provide sleeping,
+hygiene and minimal recreation facilities for a group of
+K’kree of the appropriate social caste, as shown on the
+Enclosure table. K’kree have little concept of privacy
+but need space apart from other families to maintain
+their own bonds. An enclosure will be one of two basic
+types; minimal or secure. Minimal enclosures have no
+protection against depressurisation or physical threats,
+whereas a secure enclosure will have partial walls
+(which may be transparent) and the ability to create a
+sealed environment with emergency shutters, drop-down
+partitions and local life support equipment.
+If an enclosure is not big enough to hold a whole family
+or fighting-band then it is not big enough. Groups
+cannot be split up, except where adjoining enclosures
+permit a group to use both.
+For small craft intended only for short hops between
+ships, installations and planets, enclosures are not
+needed. Instead, the K’kree equivalent of cabin space
+is used. Acceleration benches for K’kree cost the same
+as for humans (Cr10000 per ton) but each ton only
+provides accommodation for one K’kree. In addition,
+cabin space is required at the rate of four tons per
+K’kree. This includes basic sanitary and hospitality
+facilities but most importantly just enough space to turn
+around, take a couple of steps and ‘be a K’kree rather
+than a lump of cargo strapped to a bench’. Cabin space
+costs the same as for humans (Cr50000 per ton). At a
+minimum, a K’kree small craft must allocate five tons
+per passenger at a cost of Cr210000. If comfort and
+prestige are desired, this increases considerably.
+
+

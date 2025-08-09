@@ -1,0 +1,244 @@
+FLEET CARRIER
+
+CLASS: BHANTHARI
+
+The second largest class in Tezcat fleets, gigantic
+Bhanthari-class fleet carriers come in at 250,000tons. Like broodships, they are only lightly armed
+and not suitable in an offensive capacity. Each
+ship carries an impressive standard complement
+of 648 subcraft of various classes and four launch
+tubes capable of servicing vessels up to 100-tons
+each. Two large recovery decks enable the rapid
+landing of returning fighters and a fully outfitted
+hanger bay allows fighters to be repaired and
+maintained in safety.
+
+Bhanthari are cigar shaped with a large bulge
+in the centre. The thrusters are located at the
+rounded ends of the ship, allowing it to thrust
+forwards, backward and to the sides with equal
+efficiency. The launch tubes and hanger decks
+are spread across the bow of the ship while the
+recovery decks are located in the stern.
+A standard complement of fighters includes 100
+Hrisshtou, 300 Kalahk, 50 Asjrou, 100 Yarlasth,
+100 Grathriss, 20 Vatha, 20 Kilrashta, six
+Rashkaaht and two Gshahk.
+
+In addition, the Bhanthari can carry an enormous
+amount of cargo. Cargo bays are divided equally
+between carrying extra fuel, ship stores and spare
+parts for repairs and maintenance when the ship
+is away from port.
+
+TL12
+
+The construction and maintenance of the
+Bhanthari requires a huge number of resources.
+There are only a few in active service and great
+care is taken to ensure they are kept safe from
+danger. They are always accompanied by three
+guardships, even when in a safe berth.
+
+Tons
+
+Cost (MCr)
+
+250,000 tons, Standard
+
+—
+
+12500
+
+Reinforced Hull
+
+—
+
+6250
+
+Crew
+
+Stealth TL 8
+
+5,000
+
+10000
+
+M-Drive
+
+Thrust 3
+
+7,500
+
+15000
+
+J-Drive
+
+Jump 3
+
+18,755
+
+28132.5
+
+Power Plant
+
+Fusion TL12, Power 211,515
+
+14,101
+
+14101
+
+Fuel Tanks
+
+J-3, 8 weeks of operation
+
+77,822
+
+—
+
+Bridge
+
+Command Bridge
+
+140
+
+1280
+
+Computer
+
+Core/70fib
+
+—
+
+120
+
+Backup
+Computer
+
+Core/40fib
+
+—
+
+67.5
+
+Captain, Pilots x3,
+Astrogator, Engineers
+x380, Maintenance
+x165, Gunners
+x73, Stewards x4,
+Administrators x83,
+Sensor Ops x33,
+Medics x15, Officers
+x160, Small Craft
+Crew x846, Marines
+x200, Shaper Priest
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Hull: 183,333
+
+Distributed Array
+
+6
+
+8.6
+
+Improved Signal Processing TL11
+
+1
+
+4
+
+Running Costs
+
+Weapons
+
+Triple Turrets (beam laser) x100
+
+100
+
+250
+
+MAINTENANCE COST
+
+Screens
+
+Nuclear Dampers x10
+
+100
+
+100
+
+MCr11.397/month
+
+Craft
+
+Docking Space (9 tons) x100
+
+990
+
+247.5
+
+PURCHASE COST
+
+Hrisshtou Light Fighter x100
+
+—
+
+3194.5
+
+Docking Space (20 tons) x2
+
+44
+
+11
+
+Gshahk Gigs x2
+
+—
+
+13.66
+
+Docking Space (35 tons) x350
+
+13,475
+
+3368.75
+
+Kalahk Medium Fighters x300
+
+—
+
+10026.75
+
+Asjrou Stealth Fighters x50
+
+—
+
+2728.625
+
+Docking Space (50 tons) x6
+
+330
+
+82.5
+
+Rashkaaht Boarding Skiff x6
+
+—
+
+174.9
+
+Hull
+
+MCr136762.61
+
+255
+
+

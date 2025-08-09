@@ -1,0 +1,61 @@
+13
+2
+
+DECK 2
+
+14
+
+1
+8
+5
+
+6
+
+3
+10
+
+4
+5
+
+11
+12
+
+DECK 1
+
+7
+LEGEND
+1. Bridge
+2. Sensors
+3. Power plant
+4. M-drive
+5. J-Drive
+6. Common areas
+7. Cargo hold
+8. Ceremonial space
+10. Pod-clusters
+11. Probe drones
+12. Repair drones
+13. Particle barbettes
+14. Airlock
+
+Hull form is a utilitarian rounded wedge, although the hull itself it usually decorated in a style
+pleasing to the owning Oytrip. The bridge is a typical control space, unlike the ship-hearts of larger
+vessels, located slightly forward of the centre of the vessel, with the ceremonial space immediately
+aft of it. This is the crossroads of the ship, with accommodation areas to the flanks and engineering
+spaces aft. The small cargo area lies at the front of the wedge and can be used as an accessway
+into the ship.
+Performance is not outstanding but the Siyoparttwi-type can make a two-parsec jump and is
+relatively quick in-system. It is better armed than many vessels of a similar size, with two dorsally
+mounted particle accelerator barbettes, reflecting the Droyne preference for energy weapons and
+long-range combat. The vessel can accommodate up to 12 Droyne but would normally operate with
+a crew of eight. Some or even most of these can be replaced by a Virtual Crew software suite if the
+ship is to be operated by a lone Sport.
+Standard complement is a Leader who functions as captain and astrogator, a pilot who would
+usually be a Warrior, and two Technicians who maintain the ship and operate its complex systems.
+Two additional Warriors are required if the weapons are to be manned. These crewmembers would
+normally be supported by a Drone and a Worker. The ship may carry one or more Sports and perhaps
+additional Workers or Drones, depending on the mission and the importance of its Leader.
+
+171
+
+

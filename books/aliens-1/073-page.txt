@@ -1,0 +1,21 @@
+DECK 2
+
+5
+1
+
+4
+
+3
+2
+
+DECK 1
+
+1. Shrine
+2. Air/raft
+3. Low berth
+4. Fuel processors
+5. Bridge
+
+73
+
+

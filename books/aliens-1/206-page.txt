@@ -1,0 +1,43 @@
+Gaining and Losing Charisma
+
+A Vargr’s CHA can change many times during the course of an adventure, as long as they are responsible for the
+success or failure of any given task; if a Traveller is using their initiative and making choices, the outcome of
+those decisions can raise or lower their CHA.
+For example, a pilot who misjumps due to a damaged jump drive would not be responsible for the failure,
+whereas a pilot who destroys a superior vessel due to clever thinking and good piloting would be responsible for
+the success and therefore have a chance to increase their CHA.
+Charisma Gain: Providing the Traveller is responsible for a noteworthy success where they have shown initiative
+or completed a task against difficult odds, roll 2D and add their CHA DM. If the total equals or exceeds their
+current CHA, they gain CHA +1.
+Charisma Loss: If the Traveller is responsible for a significant failure, roll 2D and add their CHA DM. If the total is
+less than their current CHA, they lose CHA –1.
+When making these checks, it is important that the Traveller has earned the gain or deserved the loss either
+through their actions or decisions. Referees may also alter the task difficulty of these checks as appropriate to
+the significance of the outcome. For example, a Traveller who saves the pack by spotting an ambush and taking
+out the enemy might have an Average CHA check. A Traveller who causes their ship to collide with a mountain
+through complete inattention might face a Formidable CHA check.
+Travellers making CHA checks of this kind can opt to use Leadership instead if the Referee deems it appropriate
+to the situation.
+The pack mentality of the Vargr means they require leadership in order to function effectively, so anytime a pack
+leader loses CHA or if the leader is injured or killed, the pack will look for new leadership. The new leader will
+usually be the most charismatic member of the pack but individuals might join the struggle for power. If the new
+leadership is contested, everyone vying for the position makes an opposed CHA or Leadership check and the
+Traveller with the highest check wins the battle for leadership and instantly gains CHA +1.
+A pack leader who is stripped of their position loses CHA –1. This reduction is in addition to the CHA loss caused
+by the failure itself.
+
+CHA and SOC
+
+When travelling to other worlds, it will be likely
+that Travellers with SOC will need to make CHA
+checks and vice versa.
+Whenever this is required, simply increase the
+difficulty of the check by one level and use the
+characteristic possessed by the Traveller. So, a
+Traveller with the SOC characteristics called upon
+to make an Average (8+) CHA check, will actually
+make a Difficult (10+) SOC check.
+
+206
+
+

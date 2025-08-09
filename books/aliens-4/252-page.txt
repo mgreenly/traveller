@@ -1,0 +1,75 @@
+Advanced Fire Control/2
+
+—
+
+15
+
+Anti-Hijack/2
+
+—
+
+8
+
+Battle System/1
+
+—
+
+6
+
+Electronic Warfare/1
+
+—
+
+2
+
+Evade/2
+
+—
+
+15
+
+Intellect
+
+—
+
+—
+
+Jump Control/3
+
+—
+
+0.3
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+Common
+Areas
+
+58
+
+5.8
+
+Cargo
+
+129
+
+Software
+
+Total: MCr12743.23
+
+Fralthaki-class
+Light Cruiser
+
+252
+
+

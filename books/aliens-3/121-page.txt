@@ -1,0 +1,187 @@
+T
+
+2
+
+R
+
+A
+
+Qualification: END 6+
+DM-1 for every previous career
+Commission: EDU 8+
+
+Mishaps
+
+Skills and training
+
+Choose one of the following:
+Support: You are an engineer, cook or in some other role behind
+the front lines.
+Space Assault: You are trained in boarding actions and
+capturing enemy vessels.
+Ground Assault: You are one of the ground pounding grunts
+putting their life on the line for the Geonee Cultural Region.
+
+Geonee Travellers
+
+L
+
+L
+
+E
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Athletics
+Melee
+Carouse
+
+1D
+1
+2
+3
+4
+5
+6
+
+SUPPORT
+SPACE ASSAULT
+Mechanic
+Vacc Suit
+Drive or Flyer
+Drive or Flyer
+Explosives
+Explosives
+Electronics (comms or sensors) Gun Combat
+Medic
+Heavy Weapons or Gunner
+Engineer
+Pilot (small craft)
+
+1
+2
+3
+4
+5
+
+6
+
+SURVIVAL
+Support
+END 5+
+Space Assault END 7+
+Ground Assault STR 6+
+
+SERVICE SKILLS
+Drive or Vacc Suit
+Athletics
+Gun Combat
+Melee
+Recon
+Heavy Weapons
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr2000
+Cr5000
+Cr10000
+Cr10000
+Cr20000
+Cr25000
+Cr30000
+
+ADVANCED EDUCATION
+(MIN. EDU 8)
+Electronics
+Leadership
+Navigation
+Explosives
+Engineer
+Survival
+
+1D
+1
+2
+3
+4
+5
+6
+
+1D
+
+Career progress
+ADVANCEMENT
+EDU 6+
+EDU 6+
+EDU 6+
+
+Mustering out benefits
+
+ASSIGNMENTS
+
+122
+
+E
+
+GEOnee Self Defence Army
+
+Members of the elite Geonee armed fighting forces. Soldiers who
+deal with planetary surface actions, battles and campaigns, or act
+as ship’s troops in the Geonee Self Defence Navy.
+
+2
+
+V
+
+BENEFITS
+INT +1
+EDU +1
+Weapon
+Armour
+END +1
+STR +1
+SOC +1
+OFFICER
+(COMMISSIONED ONLY)
+Tactics (military)
+Tactics (navy)
+Leadership
+Admin
+Advocate
+Pilot (small craft)
+
+GROUND ASSAULT
+Gun Combat
+Heavy Weapons
+Recon
+Stealth
+Drive or Flyer
+Athletics
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on
+the Injury table and take the lower result.
+Your unit is slaughtered in a disastrous battle, for which you blame your commanding officer. Gain
+them as an Enemy as they have you removed from the service.
+You are ordered to take part in a black ops mission that goes against your conscience. You refuse
+and are ejected from the service.
+You quarrel with a superior officer. Gain the officer as a Rival as they drive you out of the service.
+You accidently kill a fellow soldier in a friendly fire situation. Roll Advocate 8+. If you succeed you
+are not charged but forced out of the service. If you fail, you are charged and forced from the
+service. If you roll a 2, you must take the Prisoner career for your next term. Regardless of the
+result, gain one of the dead soldier’s relatives as an enemy.
+You are wounded in the line of duty. Roll on the Injury table.
+
+R
+
+

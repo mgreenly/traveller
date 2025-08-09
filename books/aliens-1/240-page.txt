@@ -1,0 +1,251 @@
+LEKLUN CORVETTE
+TL14
+Hull
+
+800 tons, Streamlined
+
+—
+
+48
+
+Armour
+
+Bonded Superdense, Armour 8
+
+51.2
+
+30.72
+
+M-Drive
+
+Thrust 4
+
+32
+
+64
+
+J-Drive
+
+Jump 4
+
+85
+
+127.5
+
+Power Plant
+
+Fusion (TL12), Power 900
+
+60
+
+60
+
+Fuel Tanks
+
+J-4, 4 weeks of operation plus
+Heavy Fighters
+
+328
+
+—
+
+Bridge
+
+Holographic Controls
+
+20
+
+5
+
+Computer
+
+Computer/20fib
+
+—
+
+7.5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Enhanced Signal Processing
+
+2
+
+8
+
+Countermeasures Suite
+
+2
+
+4
+
+Triple Turrets (pulse lasers) x 6
+
+6
+
+24
+
+Triple Turrets (missile racks) x 2
+
+2
+
+6.5
+
+Weapons
+Ammunition
+
+Missile Storage (60 missiles)
+
+5
+
+—
+
+Systems
+
+Fuel Processor (80 tons/day)
+
+4
+
+0.2
+
+Fuel Scoops
+
+—
+
+Docking Space (40 tons) x 2
+
+88
+
+—
+22
+
+Aakum Heavy Fighters x 2
+
+—
+
+81.212
+
+Medical Bay
+
+4
+
+2
+
+Standard x 12
+
+48
+
+6
+
+Barracks (12 passengers)
+
+24
+
+10.6
+
+Emergency Low Berths x 3
+
+3
+
+3
+
+Manoeuvre/0
+
+—
+—
+—
+—
+—
+
+—
+
+Staterooms
+
+Software
+
+CREW
+
+TONS COST (MCR)
+
+Jump Control/4
+Library
+Fire Control/3
+Evade/2
+
+0.4
+
+—
+
+CAPTAIN, PILOTS X 3, ASTROGATOR,
+MEDIC, ENGINEERS X 5, GUNNERS X 8,
+AND MARINES X 12
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr42911/month
+
+PURCHASE COST
+MCr514.932
+
+Power Requirements
+320
+
+160
+
+80
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+WEAPONS
+
+320
+
+2
+
+JUMP DRIVE
+
+SENSORS
+
+6
+2
+
+Common Areas
+
+20
+
+2
+
+Cargo
+
+12
+
+—
+
+TOTAL: MCR 514.932
+Using an 800-ton hull, the Leklun is
+commonly used by Vargr military forces
+for patrols and fighting corsair raiders.
+Some variants sacrifice the fighters for a
+G/Carrier, allowing a larger complement of
+troops to be deployed in a single action.
+While the smallest of true warships, the
+Leklun is nonetheless potent enough
+against raider vessels and when combined
+into squadrons, the corvette can cause
+problems for larger ships.
+
+320
+HULL POINTS
+240
+
+

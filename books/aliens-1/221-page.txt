@@ -1,0 +1,197 @@
+CLAWTIP PLASMA TANK
+
+180
+
+REAR
+
+100
+
+SIDES
+
+140
+
+MA
+
+P
+GM
+
+Y S TE M
+S
+LE
+
+R
+
+ANTI-MIS
+SI
+
+Anti-Missile System (gauss), Autopilot (advanced), Communications System
+(advanced, encrypted, satellite uplink, tightbeam), Computer/3, Control System
+(enhanced), ECM (advanced), Fire Extinguisher, Fusion Plant (advanced), Hostile
+Environment, Life Support (short term), Navigation System (improved), Nuclear
+Damper, Prismatic Aerosol Discharger, Sensor System (improved, hardened,
+increased range), Stealth (improved)
+
+SE
+
+EQUIPMENT
+
+VANCED LA
+
+Large Turret (plasma gun-c, advanced fire control)
+Fixed Mount (plasma missile rack, forward, enhanced fire control) x 2
+Small Turret (PGMP-12, basic fire control)
+
+G
+
+AD
+
+P
+
+PLAS
+
+WEAPONS
+
+MCR33.3
+
+F RONT
+
+UN
+
+RANGE (CRUISE)
+CREW
+PASSENGERS
+CARGO
+HULL
+SHIPPING
+COST
+
+ARMOUR
+
+Autopilot (skill level) 3
+Communications 1000
+(range) km
+Navigation
+(Navigation DM) +2
+Sensors (Electronics
+(sensors) DM) +1
+Camouflage (Recon
+DM) —
+Stealth (Electronics
+(sensors) DM) –2
+
+12
+FLYER (GRAV)
++1
+HIGH
+(MEDIUM)
+100 YEARS
+4
+—
+—
+240
+60 TONS
+
+TL
+SKILL
+AGILITY
+SPEED (CRUISE)
+
+TRAITS
+AFV
+
+WEAPON
+
+RANGE
+
+DAMAGE
+
+MAGAZINE
+
+MAGAZINE COST
+
+TRAITS
+
+FIRE CONTROL
+
+Plasma Gun-C
+
+10
+
+2DD
+
+—
+
+—
+
+AP 30
+
++4
+
+Advanced Laser
+
+1
+
+2D
+
+—
+
+—
+
+Auto 4
+
+—
+
+Plasma Missile
+Rack
+
+50
+
+1DD
+
+12
+
+Cr400000
+
+AP 20, Auto 3, Blast
+15, One Use, Smart
+
++3
+
+PGMP-12
+
+0.25
+
+1DD
+
+—
+
+—
+
+—
+
++1
+
+3D
+
+300
+
+Cr2000
+
+Auto 6
+
+—
+
+Gauss Anti-Missile
+System
+1
+
+DESCRIPTION
+The Clawtip is an over-sized gravitic tank that
+has become the standard fighting vehicle
+of many Vargr army divisions. Armed with a
+variety of plasma-based weaponry the Clawtip
+is effective against a wide range of enemies.
+
+221
+
+

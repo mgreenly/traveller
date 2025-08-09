@@ -1,0 +1,261 @@
+VOID JUMPER TRANSPORT
+Built on a 2,000 ton frame, the Void Jumper is
+commonly used to transport Dolphin military units.
+The vessel is well-armed but primarily intended
+for defensive purposes only and is unable to
+
+protect itself in protracted battles. This ship can
+also be used in a civilian capacity once weapons
+have been removed, often transporting Dolphin
+colonists to new worlds.
+
+TL15
+
+TONS COST (MCr)
+
+Hull
+
+2,000 tons, Streamlined
+
+—
+
+100
+
+Reinforced Hull
+
+—
+
+50
+
+Armour
+
+Crystaliron, Armour: 3
+
+90
+
+18
+
+M-Drive
+
+Thrust 2
+
+40
+
+80
+
+J-Drive
+
+Jump 4
+
+205
+
+307.5
+
+Power Plant
+
+Fusion (TL12), Power 1,650
+
+110
+
+110
+
+Fuel Tanks
+
+J-4, 4 weeks of operation
+
+800
+
+—
+
+Bridge
+
+40
+
+10
+
+Computer
+
+Computer/5fib
+
+—
+
+0.045
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Triple Turrets (beam lasers) x3
+
+3
+
+7.5
+
+Triple Turrets (sandcasters) x3
+
+3
+
+5.25
+
+Armoury
+
+11
+
+2.75
+
+Briefing Room
+
+16
+
+2
+
+Docking Space (50 ton)
+
+55
+
+13.75
+
+Modular Cutter
+
+—
+
+10.737
+
+Docking Space (50 ton)
+
+55
+
+13.75
+
+Modular Cutter
+
+—
+
+10.737
+
+Fuel Processor (600 ton/day)
+
+30
+
+1.5
+
+Fuel Scoop
+
+—
+
+—
+
+Dolphin Standard x35
+
+280
+
+35
+
+Dolphin Barracks x40
+
+160
+
+16
+
+Common Area
+
+30
+
+3
+
+Electronic Warfare/2
+
+—
+
+18
+
+Evade/2
+
+—
+
+2
+
+Fire Control/2
+
+—
+
+4
+
+Intellect
+
+—
+
+—
+
+Jump Control/4
+
+—
+
+0.4
+
+Library
+
+—
+
+0
+
+Manoeuvre/0
+
+—
+
+0
+
+54
+
+—
+
+Systems
+
+Staterooms
+
+Software
+
+Cargo
+
+Void Jumper
+Transport
+
+192
+
+Crew
+Captain, Pilots x3,
+Astrogator, Engineers
+x10, Maintenance x4,
+Medic, Gunners x12,
+Administrators x2,
+Officers x4, Marines
+x40
+
+Hull: 880
+Running Costs
+MAINTENANCE COST
+Cr64358.925/month
+PURCHASE COST
+MCr772.3071
+
+Power Requirements
+Basic Ship Systems
+400
+Manoeuvre Drive
+400
+Jump Drive
+800
+Sensors
+2
+Weapons
+42
+Fuel Processor
+30
+
+

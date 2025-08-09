@@ -1,0 +1,56 @@
+1 square = 100 Tons
+
+5
+
+5
+
+DECK 1
+
+5
+
+5
+
+DECK 2
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+
+Manoeuvre Drive
+Jump Drive
+Power Plant
+Bridge
+Triple Turrets
+Docking Space (Kilrashta
+Refuelling Shuttles)
+7. Docking Space
+(Passenger Shuttles)
+8. Fuel Processor
+9. Workshops
+10. Shaper Shrine
+11. Staterooms
+12. Common Areas
+13. Cargo Hold
+
+1
+
+2
+
+5
+
+2
+
+5
+
+3
+8
+
+DECK 3
+13
+
+261
+
+

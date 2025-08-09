@@ -1,0 +1,123 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+N
+
+I
+
+N
+
+E
+
+T
+
+E
+
+E
+
+N
+
+ZHODANI PSIONICS
+
+The Zhodani have devoted millennia of study to psionic
+talents and the finest minds of the Consulate have
+examined the common psionic talents and discovered
+others. While these other talents are rare, they provide
+Zhodani Travellers with interesting ways to expand their
+psionic abilities.
+
+functions changed, as long as the device is capable
+of performing the instruction the psion gives to it.
+The Effect of the Zhodani check indicates the degree
+of success; lower Effects reflect a partial control over
+function, whilst higher effects reflect total control. Only
+one instruction at a time can be given to a machine.
+
+ZHODANI
+
+Zhodani Travellers have access to the Zhodani talent and
+its abilities.
+
+Check: Average (8+) Zhodani check (1D x 10 minutes,
+PSI)
+Reach: Medium
+PSI Cost: 3
+
+Awareness of Others
+
+Empathic Healing
+
+The psion may perform any Awareness ability but only
+upon others and then only if the target is not wearing, or
+within, a psionic shield.
+Check: As ability
+Reach: As ability
+PSI Cost: As ability +2
+
+Blocking
+
+Psions with this talent are capable of broadcasting
+psionic ‘static’ over some considerable distance,
+which effectively blocks the use of telepathic abilities,
+rendering weak telepaths powerless. While a psion
+maintains blocking, all psions within range (not
+including himself) suffer a penalty to Telepathy skill
+checks equal to half the blocking psion’s current PSI
+(rounding down).
+A psion entering an area being blocked in this way may
+make a PSI check to realise they are being blocked. The
+referee may make this check in secret.
+Check: Average (8+) Zhodani check (1D minutes, PSI)
+Reach: Long
+PSI Cost: 4
+
+Control
+
+The psion is able to control a machine’s functions,
+overriding fixed settings, programming routines and
+so forth. Machines can be switched on or off and their
+
+The psion may transfer wounds from others to himself.
+The PSI cost is equal to the points of damage being
+transferred. The physical effects of the damage take
+immediate effect.
+Check: Average (8+) Zhodani check (1D minutes, PSI)
+Reach: Personal
+PSI Cost: Amount of damage transferred
+
+Interact
+
+The psion can sense the flow of data within a machine.
+This allows the psion to react more quickly and smoothly
+to changes in the data flow, lowering the difficulty of all
+Computer checks the psion attempts, making them one
+level easier.
+Check: Average (8+) Zhodani check (1D minutes, PSI)
+Reach: Close
+PSI Cost: 1
+
+Interrogate
+
+The psion can ‘communicate’ psychically with a
+machine, determining its physical state of repair,
+properties, age, programming and so forth. The
+psion effectively reads the psychometric aura that
+accompanies every device in much the same way an
+organic aura can be read. The Effect of the Zhodani
+check determines the depth and extent of the
+information but does not provide any measure of control.
+
+

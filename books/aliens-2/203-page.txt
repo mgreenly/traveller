@@ -1,0 +1,109 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Your Oytrip comes under attack. You are one of the emissaries sent to negotiate an end to the conflict. Make an
+Appeal check. If successful, the fighting is ended quickly although you lose –1 to STR, DEX or END due to a stray
+shot or blow. If you fail, the damage is increased to –1 on each of these characteristics. Make a continuation check.
+
+2
+
+A junior Leader challenges the seniors in your Oytrip. They are ejected from the Oytrip for their temerity and
+chooses to form a Kroyloss with their immediate followers. You are sent to monitor this group and follow it very
+far from home before it meets a sad end. Realising you may never get back to the Oytrip, you have the option
+of beginning your adventuring now – or committing ritual suicide. If you choose to try to get home, make an
+END check. If successful, you made it and are welcomed back. If you fail, you eventually arrived half-starved
+and in a near-deranged state from loneliness. Reduce INT, EDU and PSI by –1 each. You must also make a
+continuation check.
+
+3
+
+A dangerous situation arises and you have a chance to stop it getting worse. Make an Appeal check. If
+successful, you bring to the attention of the Oytrip’s highest Leader a series of incorrect actions by another
+Leader, which results in them being ejected from the Oytrip. You gain this Leader and their Kroyloss as an
+Enemy. If you fail, you do not deliver the news in time and the situation goes out of control. Reduce rank by –1
+and make a continuation check.
+
+4
+
+Bad things occur. You are instructed to go to another Oytrip and ask for assistance but not to reveal what has
+happened. Make an Appeal check. If successful, your request is granted and the situation is salvaged. If you
+fail, desperate measures have to be taken. The Leaders arrange a Ritual of Cleansing whereby those involved
+commit suicide to carry away the stigma of the deeds done. You have been selected to take part. You may do
+so if you wish. If not, you must betray your Oytrip and flee, living in disgrace among outsiders. Muster out and
+begin adventuring now.
+
+5
+
+Your Leader undertakes an expedition which goes badly wrong. Those involved are forced to survive outside Droyne
+society for several months. You are sent to find them and get them home. Make an Outsider check. If successful,
+you suffer no ill effects. If you fail, reduce rank by –1. Either way, you gain a Contact outside the Oytrip.
+
+6
+
+You behave incorrectly. Your rank is reduced by –1. If this takes it below zero you are ejected from the Oytrip.
+Make a continuation check.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+You accompany an eminent Leader and gain their respect for your diligence. Your rank is increased by +1.
+
+4
+
+The Workers of your Oytrip ask you to raise concerns with the senior Leaders. Make an Appeal check. If
+successful, you are heard and the situation is positively resolved. Your rank increases by +1. Whether you
+succeed or fail, gain one level of Appeal.
+
+5
+
+You are sent to live among non-Droyne and learn about them. Gain one level of Carouse, Deception, Gambler,
+Persuade or Streetwise. These are Black Skills and you are diminished by knowing them.
+
+6
+
+You have to work outside your normal area of expertise. Gain one level in any skill from any table available to
+your caste.
+
+7
+
+The Oytrip prospers. All is well.
+
+8
+
+Your Leader takes you on an expedition into the wilds. Gain one level of Recon or Survival.
+
+9
+
+You interact with non-Droyne. Gain one level in Outsider or any Black Skill.
+
+10
+
+You travel aboard starships for much of this term. Gain one level in any of Astrogation, Electronics, Engineer,
+Gunner, Pilot, Vacc Suit.
+
+11
+
+It is necessary to approach and investigate a piece of Ancients technology. You are sent to undertake a
+preliminary investigation. Make an Ancients Tech or Art (Droyne) check. If successful, you gain PSI +1 and a
+level in Ancients Tech. If you fail, you may choose one or the other.
+
+12
+
+Your Leader is honoured with possession or guardianship of an Ancients artefact. You tend and sometimes carry
+it for him. Gain 1 level in Ancients Tech.
+
+203
+
+

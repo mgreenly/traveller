@@ -1,0 +1,128 @@
+3
+
+MANAGEMENT
+CAREER PROGRESS
+
+You manage an Aslan corporation or serve in
+another bureaucracy.
+Qualification: Rite of Passage 8+
+
+Survival
+Advancement
+
+CORPORATE
+INT 7+
+INT 7+
+
+AIDE
+EDU 8+
+SOC 6+
+
+GOVERNESS
+SOC 6+
+EDU 8+
+
+ASSIGNMENTS
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Corporate: You work as an administrator or
+trader in one of the great Aslan corporations.
+Clan Aide: You serve in the bureaucracy of
+your clan.
+Governess: You are the protector and teacher
+of a rich Aslan prince.
+Gender: Female only.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+•
+
+CASH
+Cr0
+Cr0
+Cr0
+Cr5000
+Cr5000
+Cr10000
+Cr20000
+
+BENEFITS
+1 Clan Share
+Contact or 1 Clan Share
+Ceremonial Kinships
+EDU +1
+SOC +1
+TER +2 or 4 Clan Shares
+SOC +2 or 4 Clan Shares
+
+DM+1 if SOC 9+
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+INT +1
+STR +1
+DEX +1
+END +1
+Tolerance
+Broker
+SPECIALIST: CORPORATE
+Admin
+Broker
+Profession
+Deception
+Streetwise
+Electronics
+
+SERVICE SKILLS
+Advocate
+Broker
+Admin
+Gun Combat
+Tolerance
+Admin
+SPECIALIST: AIDE
+Admin
+Advocate
+Melee (natural)
+Medic
+Steward
+Tolerance
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Advocate
+Electronics
+Language
+Science
+Tolerance
+Diplomat
+SPECIALIST: GOVERNESS
+Admin
+Persuade
+Streetwise
+Broker
+Steward
+Steward
+
+

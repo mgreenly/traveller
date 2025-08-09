@@ -1,0 +1,99 @@
+Reaction
+2D
+2–
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 +
+
+Reaction
+Hostile. Roll 2D and challenge on 8+
+Hostile. Roll 2D and discourteous on 5+
+Hostile. Roll 2D and discourteous on 8+
+Hostile. May be discourteous
+Unreceptive (Impolite)
+Uninterested
+Noncommittal (Curt)
+Noncommittal (Polite)
+Interested
+Responsive
+Enthusiastic
+
+Reaction DMs: Traveller is the individual consulting the table; Encounter is the Aslan reacting using the table.
+Traveller
+is non-Aslan
+is impolite
+is discourteous
+has Tolerance,
+per level
+is Outcast
+
+DM
++1
+–1
+-2
++1
+
+Encounter
+is SOC inferior by 3+
+is SOC superior by 3is member of same clan
+is member of same pride
+
+DM
++1
+–1
++1
++1
+
+–2
+
+is friend or comrade
+is impolite male
+is impolite female
+is discourteous male
+is discourteous female
+is noble patron
+has Tolerance, per level
+is Outcast
+
++1
+–2
+–1
+–3
+-2
++2
++1
+–2
+
+Other
+Both from same career
+Local world Population 9+
+Local government balkanized
+
+DM
++1
+–1
+–1
+
+Reaction Table Results
+
+Hostile reactions usually lead to ‘discourtesy’ rather than violence. In such an instance, the response
+given by that reaction would be one that normally would provoke hostility in return. Treat discourtesy as
+grounds for a formal challenge (but Travellers need not issue such a challenge – although this would take an
+enormous amount of restraint on the part of Aslan Travellers).
+An Aslan who receives discourteous treatment may easily be provoked into an attack. Such an attack may
+be immediate (which is a violation of ritual and protocol) or may take the form of a challenge to a duel,
+with the time and place specified. Duels are not (usually) lethal; they are fought to first blood only. The
+embarrassment and loss of honour one suffers in declining a challenge or refusing a duel is far worse. In
+addition, for humans, the respect gained by engaging in a duel to defend one's honour can be beneficial in a
+struggle to fit into Aslan society.
+
+9
+
+

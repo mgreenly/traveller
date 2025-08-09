@@ -1,0 +1,92 @@
+WEAPONS OF THE HUNT
+
+When it comes to firearms, Aslan have many equivalents with slug weapons of the Imperium and other races,
+with Hierate-manufactured autopistols, autorifles and submachine guns commonly found throughout Aslan space.
+However, the Aslan have developed some weapons that have arisen directly from their culture and history.
+The trakhtyaua (laser pistol), triluealikhe (laser carbine) and trolitakheal (laser rifle) are functionally identical to
+human models and, indeed, were originally based on borrowed human technology. Only ergonomics to accommodate
+differing physiology and cultural bias were changed.
+Unless otherwise stated, all the weapons here use the Gun Combat (slug) skill.
+
+A11/58231
+
+YEHEAL AUTORIFLE
+
+This automatic rifle functions much like the human model
+and can be equipped with shoulder sling, sights, bipod and
+muzzle brake, and may be switched from semi-automatic to
+full automatic fire as needed. The yeheal is magazine fed; it
+uses a dual magazine feed with an internal mechanism that
+strips cartridges from one magazine until it is empty and
+then proceeds to strip cartridges from the other. As a result,
+the total magazine capacity is a massive 64 rounds and the
+weapon can be reloaded with a single new magazine whenever
+the remaining rounds are less than 32.
+
+Weapon
+Yeheal Autorifle
+
+TL Range
+6 275
+
+Damage
+3D
+
+Kg
+7
+
+Cost
+Cr850
+
+Magazine
+64
+
+Magazine Cost
+Cr40
+
+Traits
+Auto 2
+
+Heavy Weapons
+
+Unless otherwise stated, all the weapons here use the Heavy Weapons (man portable) skill.
+A11/58231
+
+GRAVITY SPEAR
+
+This weapon is a recent breakthrough by the Aslan and still largely
+experimental. It works on the same principle as a gravity plate or repulsor,
+projecting a ‘lance’ of gravitational force forward. Anything within the path
+of the beam is subjected to a 10G force, pulling it towards or away from the
+hlaulrakh. The hlaulrakh’s beam flickers on and off a dozen times a second
+and circles around a small area, causing thousands of tears and fractures in
+the internal organs of the target. Armour is never counted against the damage
+caused by the gravity spear.
+
+Weapon
+Gravity Spear
+
+62
+
+TL Range
+14 250
+
+Damage
+2D
+
+Kg
+10
+
+Cost
+Cr200000
+
+Magazine
+10
+
+Power Pack Cost
+Cr2000
+
+Traits
+AP Special
+
+

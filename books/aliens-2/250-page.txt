@@ -1,0 +1,86 @@
+C E N T R A L
+
+X
+
+S U P P L Y
+
+C A T A L O G U E
+
+HIVE FEDERATION
+
+The majority of Hiver equipment is broadly similar to
+that used by other races, although with handles and
+grips suitable for Hiver ‘fingers’. The unusual body
+structure of Hivers means that devices intended to be
+held in two hands by a humanoid are extremely awkward
+for a Hiver to use and are often completely redesigned
+in terms of ergonomics. Function tends to be more or
+less the same as elsewhere, however, and in many cases
+there are Hiver and non-Hiver variants of common items
+with the same internal components.
+A common solution to the ‘two hands’ problem is for
+items to be carried on a harness strapped to the Hiver’s
+body or sometimes slung around the ‘neck’ formed by
+the primary appendage when elevated for vision. It is
+not uncommon to see a Hiver walking on four limbs with
+the ‘head’ elevated, reaching over its own back with the
+sixth (reproductive) limb to operate a device strapped to
+its torso. For the most part, however, Hivers prefer to get
+others to do the work and may carry nothing more than
+a Voder.
+Voder (TL12): Manufactured with varying degrees of
+sophistication, the Voder is often assumed to be nothing
+more than a translation device from ‘Hiver’ (more
+commonly Gurvin) to Anglic or whatever other language
+is desired. This is its main function, translating the
+movements of the Hiver’s body and limbs into audible
+sounds, but a Voder does more than this.
+
+The translation function alone is impressive, since it
+relies on the detection of movements by contact with
+the Hiver’s body rather than visual cues. A sign-to-audio
+translation is not all that difficult if the device is held
+by someone else and pointed at the Hiver but Hivers
+are not keen on the idea that they can be silenced by
+their Voder-holder wandering off or foolishly (perhaps
+deliberately) allowing an obstruction to come between
+the Hiver and its subject mid-manipulation.
+A Voder also functions as a portable computer suite
+and electronic communications device. Most Voders
+are heavily encrypted and secured, and capable of
+interfacing with almost any device in use throughout
+the Hive Federation. It is widely suspected that
+electronic equipment exported by the Federation
+contains ‘backdoors’ that can be exploited by any
+Hiver with a Voder. Whether or not this is true, a Voder
+is powerful enough to support a potent electronics
+intrusion software system and has a transmitter
+capable of broadcasting a jamming signal if the device
+is suitably configured.
+Some Voders also carry sensor packages. Most of these
+are simple medical monitoring suites, which help the
+Hiver spot deficiencies early and analyse potential food
+in great detail. Some have more specialist systems
+such as atmosphere and water analysis devices, radar
+mapping of the surrounding terrain and so forth.
+A standard Voder capable of translating most known
+languages costs Cr150. One capable of running a
+medical monitoring and food-analysis package typically
+costs Cr250. For Cr500 a Hiver can obtain a Voder
+capable of running any one of the following packages,
+one of which is pre-installed. Of course, a Hiver may
+have a Voder for every occasion.
+Medical Package: A medical package monitors the
+Hiver’s general health and condition, and allows early
+detection of deficiency diseases. It will advise on
+treatments and remedies, and can administer dietary
+supplements or mild pharmaceuticals to assist in
+healing. A Hiver with a medical package in place
+regenerates damage 25% more quickly and can survive
+more serious injuries. The Hiver can take additional
+damage up to its twice starting END before actually
+dying (see Hiver Physiology on page 211).
+
+250
+
+

@@ -1,0 +1,164 @@
+MERCHANT
+
+8
+
+CAREER PROGRESS
+
+Vargr merchants are the leaders of their
+own commercial enterprises or employees
+of larger corporations. The most common
+merchant professions are junk dealers,
+scroungers and contingency experts.
+
+SURVIVAL
+EDU 5+
+INT 6+
+INT 5+
+
+Junk Dealer
+Scrounger
+Free Trader
+
+Qualification: CHA 6+
+
+ASSIGNMENTS
+
+ADVANCEMENT
+CHA 6+
+CHA 7+
+CHA 5+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Junk Dealer: You are a second-hand
+equipment merchant who buys unwanted
+equipment from failed businesses or
+acquires it through salvage.
+Scrounger: You are a broker or contingency
+expert able to find the best goods at the
+cheapest prices.
+Free Trader: You are an independent trader.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr2000
+Cr5000
+Cr10000
+Cr20000
+Cr30000
+Cr50000
+
+BENEFITS
+Scientific Equipment
+Contact
+INT +1
+Ship Shares
+Two Contacts
+CHA +1
+Trader
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+INT +1
+EDU +1
+Melee
+Streetwise
+Contact
+CHA +1
+JUNK DEALER
+Persuade
+Admin
+Broker
+Electronics
+Investigate
+Mechanic
+
+SERVICE SKILLS
+Admin
+Streetwise
+Electronics (computers)
+Investigate
+Broker
+Persuade
+SCROUNGER
+Broker
+Admin
+Streetwise
+Deception
+Persuade
+Mechanic
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Advocate
+Admin
+Astrogation
+Electronics
+Language
+Science
+FREE TRADER
+Persuade
+Broker
+Vacc Suit
+Gunner
+Electronics
+Pilot (spacecraft)
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+MARINE SKILL OR BENEFIT
+Persuade 1
+—
+Broker 1
+—
+—
+—
+
+SPECIAL OPS SKILL OR BENEFIT
+Electronics (computers) 1
+—
+Broker 1
+—
+—
+—
+
+SUPPORT SKILL OR BENEFIT
+Persuade 1
+—
+Pilot 1
+—
+—
+—
+
+

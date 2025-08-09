@@ -1,0 +1,200 @@
+RUGUELKA CORSAIR
+TL12
+
+TONS
+
+COST (MCR)
+
+Hull
+
+400 tons, Streamlined
+
+—
+
+24
+
+Armour
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+
+Crystaliron, Armour 6
+Thrust 5
+Jump 2
+Fusion (TL12), Power 390
+J-2, 4 weeks of operation plus
+Modular Cutter
+
+30
+20
+25
+26
+84
+
+7.2
+40
+37.5
+26
+
+20
+
+2
+2
+
+Bridge
+Computer
+Sensors
+Weapons
+Ammunition
+Systems
+
+Computer/10
+
+4.1
+8
+6.5
+
+Fuel Processor (40 tons/day)
+Fuel Scoops
+
+0.1
+
+Software
+
+Cargo Scoop
+Breaching Tubes
+Forced Linkage Apparatus
+Standard x 10
+Low x 6
+Manoeuvre/0
+Jump Control/2
+Library
+Fire Control/2
+
+2
+
+CAPTAIN, PILOT, ASTROGATOR, ENGINEER,
+MEDIC, GUNNERS X 4, AND BOARDERS
+X 10
+
+RUNNING COSTS
+
+—
+
+Military Grade
+2
+Triple Turrets (pulse lasers) x 2 2
+Triple Turrets (missile racks) x 2 2
+Missile Storage (48 missiles)
+4
+
+Docking Space (50 tons)
+Modular Cutter
+
+Staterooms
+
+—
+
+CREW
+
+MAINTENANCE COST
+Cr15783/month
+
+PURCHASE COST
+MCr189.4
+
+—
+
+—
+
+—
+
+55
+
+—
+
+13.75
+10.287
+
+2
+3
+2
+40
+3
+
+0.5
+3
+0.1
+5
+0.3
+
+—
+—
+—
+—
+
+—
+0.2
+
+—
+
+Power Requirements
+200
+
+80
+
+2
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+80
+
+2
+
+28
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+4
+
+Common
+Areas
+
+9
+
+0.9
+
+Cargo
+
+72
+
+—
+
+TOTAL: MCR 189.4
+Using a small but potent 400-ton hull, the
+Ruguelka is the raiding vessel of choice
+for most corsair bands. It is a common
+sight in Vargr space and one feared by
+many Travellers. Extremely fast, it is hard
+to escape from once an intercept course
+has been set and it can carry a substantial
+boarding party.
+
+160
+236
+
+HULL POINTS
+
+

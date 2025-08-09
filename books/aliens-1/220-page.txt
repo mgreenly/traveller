@@ -1,0 +1,180 @@
+WULFENITE G/CARRIER
+
+ARMOUR
+F RON T
+
+90
+
+RE A R
+
+60
+
+SI DE S
+
+75
+
+M
+A
+GU
+
+P
+
+WEAPONS
+
+AN
+
+TI
+
+EM
+
+N
+
+PG M
+
+PLA
+S
+
+Autopilot (skill level) 3
+Communications 1000
+(range) km
+Navigation
+(Navigation DM) +2
+Sensors (Electronics
+(sensors) DM) +1
+Camouflage (Recon
+DM) —
+Stealth (Electronics
+(sensors) DM) –1
+
+TL
+
+12
+
+SKILL
+
+FLYER (GRAV)
+
+AGILITY
+
++1
+
+SPEED (CRUISE)
+
+HIGH (MEDIUM)
+
+RANGE (CRUISE)
+
+3000 (4500)
+
+CREW
+
+4
+
+PASSENGERS
+
+—
+
+CARGO
+
+4 TONS
+
+HULL
+
+240
+
+SHIPPING
+
+60 TONS
+
+COST
+
+MCR19.9
+
+Large Turret (plasma gun-c, enhanced fire control)
+Small Turret (PGMP-12,basic fire control)
+
+IS
+-M
+
+SILE SY
+
+ST
+
+EQUIPMENT
+
+TRAITS
+
+Anti-Missile System (laser), Autopilot (advanced), Communications
+System (advanced, encrypted, satellite uplink, tightbeam), Computer/3,
+Control System (enhanced), ECM (advanced), Fire Extinguisher, Hostile
+Environment, Life Support (short term), Navigation System (improved),
+Prismatic Aerosol Discharger, Sensor System (improved, hardened,
+increased range), Stealth (basic)
+WEAPON
+
+RANGE
+
+DAMAGE
+
+MAGAZINE
+
+MAGAZINE COST
+
+TRAITS
+
+FIRE CONTROL
+
+Plasma Gun-A
+
+6
+
+2DD
+
+—
+
+—
+
+AP 10
+
++3
+
+PGMP-12
+
+0.25
+
+1DD
+
+—
+
+—
+
+—
+
++1
+
+Laser Anti-Missile System
+
+0.5
+
+1D
+
+—
+
+—
+
+Auto 3
+
+—
+
+DESCRIPTION
+A favourite of both the military and corsair
+raiders, the Wulfenite is a personnel carrier
+designed for stealth and speed. The G-Carrier
+is perfect for swift planetary assaults and
+ground support missions.
+
+220
+
+AFV
+
+

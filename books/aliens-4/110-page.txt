@@ -1,0 +1,254 @@
+T
+
+2
+
+R
+
+Qualification: INT 6+
+Commission: EDU 8+ and BOL 5-
+
+Crew/Gunner: You are one of the crew with basic duties
+required for the smooth operation of a vessel.
+Engineer/Flight: You operate the engines or control
+the flight of a vessel.
+STOG: You are part of the Special Tactical Operations
+Group who remotely operate drones from the safety
+of your vessel.
+
+Skills and Training
+
+L
+
+L
+
+E
+
+SURVIVAL
+
+ADVANCEMENT
+
+Crew/Gunner
+
+INT 6+
+
+EDU 8+
+
+Engineer/Flight
+
+INT 5+
+
+EDU 6+
+
+STOG
+
+DEX 7+
+
+EDU 7+
+
+Mustering Out Benefits
+
+Choose one of the following:
+
+Za’tachk Travellers
+
+E
+
+CAREER PROGRESS
+
+ASSIGNMENTS
+
+110
+
+V
+
+Za’tachk Interstellar Space Force
+
+This interstellar navy patrols the space between the stars.
+The Za’tachk Interstellar Space Force’s responsibilities
+primarily involve defending the polity’s borders from enemy
+powers and showing the population they are protected.
+
+2
+
+A
+
+1D
+
+CASH
+
+BENEFITS
+
+1
+
+Cr1000
+
+Personal Vehicle or Ship Share
+
+2
+
+Cr3000
+
+INT +1
+
+3
+
+Cr5000
+
+EDU +1
+
+4
+
+Cr10000
+
+Ship Share
+
+5
+
+Cr20000
+
+Drone or Weapon
+
+6
+
+Cr25000
+
+Two Ship Shares
+
+7
+
+Cr50000
+
+SOC +1 and BOL +1
+
+1D
+
+PERSONAL
+DEVELOPMENT
+
+SERVICE SKILLS
+
+ADVANCED EDUCATION
+(MIN. EDU 8+)
+
+OFFICER
+(COMMISSIONED ONLY)
+
+1
+
+INT +1
+
+Pilot
+
+Electronics
+
+Leadership
+
+2
+
+EDU +1
+
+Mechanic
+
+Astrogation
+
+Electronics
+
+3
+
+SOC +1
+
+Electronics
+
+Engineer
+
+Pilot
+
+4
+
+Carouse
+
+Gunner
+
+Mechanics
+
+Admin
+
+5
+
+Electronics
+
+Vacc Suit
+
+Admin
+
+Tactics
+
+6
+
+BOL +1
+
+Gun Combat
+
+Advocate
+
+Engineer
+
+1D
+
+CREW/GUNNER
+
+ENGINEER/FLIGHT
+
+STOG
+
+1
+
+Electronics
+
+Engineer
+
+Drive
+
+2
+
+Mechanic
+
+Mechanic
+
+Flyer
+
+3
+
+Gunner
+
+Electronics
+
+Electronics (remote ops)
+
+4
+
+Flyer
+
+Astrogation
+
+Electronics (remote ops)
+
+5
+
+Vacc Suit
+
+Pilot
+
+Recon
+
+6
+
+Steward
+
+Flyer
+
+Recon
+
+R
+
+

@@ -1,0 +1,73 @@
+GURVIN TRAVELLERS
+Gurvin Travellers follow the same procedures and
+concepts as human Travellers, as detailed in the
+Traveller Core Rulebook.
+
+GURVIN
+
+Female Gurvin Travellers have the following modifiers
+to their characteristics: INT+1, EDU+1.
+
+Heightened Senses: Gurvin have a better sense
+of smell than humans. All Gurvin receive DM+1 to
+any Recon and Survival checks they have to make
+based on scent. Gurvin eyes are accustomed to
+brighter light than humans but their eyesight is worse
+in darkness and they suffer DM-1 to any check
+requiring sight in dark conditions.
+
+Male Gurvin Travellers have the following modifiers to
+the characteristics: STR -1, DEX+1. They also only roll
+1D+1 for their INT and EDU characteristics.
+
+Extra Limbs: Gurvin have a pair of intermediary
+limbs which can be used equally well as additional
+arms or legs. When used as legs, Gurvin movement
+increases to eight metres.
+
+GURVIN TRAITS
+
+TITLES
+
+Gurvin Travellers all possess the following traits:
+Arm-Antlers: Male Gurvin possess seasonal sharp
+antler-like growths on their arms and intermediary limbs,
+which make nasty, close combat weapons. The antlers
+use the Melee (natural) skill and do 1D+2 damage.
+Males who regularly mingle outside Gurvin society trim
+their arm-antlers so they cannot be used as weapons.
+
+Gurvin do not have a system of hereditary nobility
+or anything remotely resembling it. They do not use
+noble titles within their own society, nor within the
+greater Hive Federation. If a Gurvin is ever awarded a
+title from a species or world which uses them, they will
+adopt the title in situations which warrant it but the title
+itself will mean nothing to them.
+
+STARTING AGE
+
+Gurvin Travellers being their careers at 16 years of age.
+
+BACKGROUND SKILLS
+
+Female Gurvin gain background skills at level 0 like
+other sophonts, receiving a number of skills equal to
+their EDU DM+1. These skills may be chosen from
+those listed in the Traveller Core Rulebook, page 8. In
+addition, all female Gurvin gain the Broker skill.
+Male Gurvin gain background skills at level 0 like other
+sophonts, receiving a number of skills equal to their
+EDU DM+3. These skills may be chosen from those
+listed in the Traveller Core Rulebook, page 8.
+
+PRE-CAREER EDUCATION
+
+Gurvin Travellers may use the Pre-Career Education
+options in the Traveller Core Rulebook, page 14,
+choosing university or military academy. Female Gurvin
+rarely attend Military Academy.
+
+167
+
+

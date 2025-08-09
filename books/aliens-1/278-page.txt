@@ -1,0 +1,127 @@
+C E N T R A L
+
+X
+
+S U P P L Y
+
+ZHODANI
+
+Zhodani equipment across Tech Levels is functionally
+equivalent to that available in the Imperium. Most
+equipment is designed at up to TL14 (with an average
+of TL13); some TL15 items are manufactured on
+Zhdant and other advanced worlds but these are
+generally restricted to a few elite government agencies
+or military units.
+Zhodani can use equipment and facilities designed for
+other human races with little difficulty. One exception
+comes from Zhodani height; as they average two
+metres tall, low doors and ceilings can occasionally
+be awkward, and clothes or armour designed for other
+humans may require re-tailoring (add +5% to cost) in
+order to fit properly. Aside from trousers possibly too
+long in the leg, other races using Zhodani equipment
+may have a different; equipment intended strictly for
+use by Nobles or Intendants (such as Guard combat
+armour or a personal vehicle) may only have psisensitive switches, safeties or triggers.
+Firearms, other than semi-automatic slug weapons and
+shotguns, are generally unavailable for sale on Zhodani
+worlds, regardless of local Law Level, as no local
+market exists.
+
+PSIONICS AND
+
+TECHNOLOGY
+
+278
+
+C A T A L O G U E
+
+‘flicking’; telekinetic psions can double this distance.
+These switches are elementary on-off devices used to
+respond to a command by shifting from one state to the
+other and can be tripped by anyone psionically trained
+who has learned the technique. Most Zhodani starships
+are equipped with such switches, allowing Nobles
+and Intendants to operate equipment without being in
+physical contact with it. The cost of such a switch built
+into a device is negligible.
+Modification
+Psi-sensitive Switch
+
+TL
+7
+
+Kg
+—
+
+Cost
+—
+
+Psionic Interface: Any weapon or technological device can
+be outfitted with a psionic interface. This allows a Traveller
+using the device or weapon to use their PSI modifier
+instead of their DEX modifier; this requires physical
+contact. A Traveller without psionic ability gains no benefit
+from the interface. Adding a psionic interface increases
+the cost of the device by 20%.
+Modification
+Psionic Interface
+
+TL
+14
+
+Kg
+—
+
+Cost
++20%
+
+Symbiosis Shielding: Devices can be shielded from the
+psionic control many Zhodani are capable of. Each level
+of shielding applies DM-1 to any Zhodani check made
+to assert control over the device and increases its cost
+by +10%.
+
+As a psionic culture, the Zhodani look to technology to
+enhance or improve their talents and abilities. While
+not all research has been successful, there have been
+two noteworthy developments. The psi-sensitive switch
+has been available in Zhodani space for millennia and
+such switches are built into all technological devices
+within the Consulate. The psionic interface, on the
+other hand, is a very recent development and remains
+uncommon. Because of their nature, Imperial law
+makes items with either modification illegal to produce
+or import into the Imperium.
+
+ARMOUR
+
+Psi-sensitive Switch: Technological devices produced in
+Zhodani territory contain integral psi-sensitive controls
+(in addition to regular controls), which allow operation
+from a distance of up to 50 metres by mentally
+
+Trooper model combat armour is identical in function
+to the TL12 combat armour found on page 98 of the
+Traveller Core Rulebook.
+
+Modification
+Symbiosis Shielding
+
+TL
+13
+
+Kg
+—
+
+Cost
++10% per DM-1
+
+Most armour is restricted to military units, or used by
+Thought Police personnel, and is unavailable for sale on
+Zhodani worlds. Protective gear for hostile environments
+is widely available, although most likely owned by
+corporations, Intendants or Nobles, rather than Proles.
+
+

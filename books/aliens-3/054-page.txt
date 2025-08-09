@@ -1,0 +1,111 @@
+Events
+
+2D
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+
+11
+
+You decide to take a sabbatical from study, to recharge your flagging mind. Gain one of Carouse
+1, Streetwise, 1, Survival 1 or a Contact.
+You are assigned to work on weapons technology for the Confederation. Gain one of Engineer 1,
+Gun Combat 1, Gunner 1 or Science (astronomy, cosmology or planetology) 1.
+You work closely with a scientist from another species. Gain a Contact.
+The university head or department decides you should be given advanced training in a specialist
+field. Roll EDU 8+ to gain any skill.
+Life Event; Roll on the Life Event table.
+You teach young students at your university or local school. Gain Admin 1, Persuade 1, Science 1
+or a Contact.
+A researcher working for another university is close to making a breakthrough you covet. You
+can try to complete your research first, attempt to sabotage their work or do nothing. If you try
+to complete your work first, roll Science 10+. Fail and you lose any Benefit rolls from this term.
+Succeed and you gain a DM+2 to your next advancement roll and gain the researcher as a Rival.
+If you try to sabotage their work, roll Stealth or Deception 8+. Fail and you lose SOC -2. Succeed
+and you gain DM+2 to your next advancement roll, in addition to gaining the researcher as your
+Enemy. If you roll a 2, you must take the Wanderer (exile) career in your next term.
+You obtain a rare pre-Maghiz artefact to study. Roll Science 8+. If you succeed, you uncover the
+artefact’s secrets and the Special Arm arrives to remove the object and offer you a job, allowing
+you to transfer to the Special Arm (scientist) career with equivalent rank next term. If you fail, the
+agents still turn up but simply take the artefact and disappear. Your protests avail you nothing.
+You are invited to study at one of the great universities or research facilities on Daryen. With
+the research facilities available, you may either gain a level of Science or DM+4 to your next
+advancement roll.
+You make a scientific breakthrough. In addition to being automatically promoted, your best
+Science, Engineer or Medic skill improves by one level.
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+RESEARCHER/ TECHNICIAN
+Aid
+Scholar
+—
+Respected Scholar
+—
+—
+Revered Scholar
+
+SKILL OR BONUS
+Science (computers) 1
+—
+—
+Admin 1
+—
+—
+SOC +1
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+PHYSICIAN
+Intern
+—
+—
+Doctor
+—
+Specialist
+—
+
+SKILL OR BONUS
+Medic 1
+—
+—
+Admin 1
+—
+SOC +1
+—
+
+8
+
+Darrian Travellers
+
+Ranks and bonuses
+
+12
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+55
+
+

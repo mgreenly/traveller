@@ -1,0 +1,87 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured. Roll on the Injury table.
+
+2
+
+A lab accident exposes you to a dangerous substance. Lose END –1.
+
+3
+
+An experiment goes critically wrong and causes the death of several pack members. You are forced to leave this
+career and lose CHA –1.
+
+4
+
+You are assigned to an off-world laboratory but your ship crashes en route. Gain Survival 1 and roll END 8+. If
+you fail, roll on the Injury table.
+
+5
+
+Your employers cancel your research. You may continue this career but you gain no Benefit rolls this term.
+Alternatively, you can roll CHA 8+. If successful, you continue your work with another pack and can stay in this
+career but gain an Enemy of your previous employer. If you fail, you are forced to leave this career.
+
+6
+
+A rival scientist discredits you or steals your research. Gain a Rival, lose CHA –1 and suffer DM-2 to your next
+Survival roll.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career.
+
+3
+
+You are assigned to a military project. Gain a contact and one of Gun Combat, Engineer, Heavy Weapons or Science.
+
+4
+
+You are singled out and assigned to work on a secret project and forbidden to discuss this with anyone, even
+members of your pack. Gain Deception 1.
+
+5
+
+You are assigned to an orbiting laboratory or lab ship. Gain one level in Vacc Suit or Athletics (dexterity).
+
+6
+
+You are given advanced training. Roll EDU 8+ to gain one level in any skill you are eligible for in this career.
+
+7
+
+Life Event. Roll on the Vargr Life Events table (see page 204).
+
+8
+
+You work with several institutes and research facilities. Gain a number of Contacts equal to your CHA modifier
+(minimum of 1).
+
+9
+
+You become friends with a brilliant but eccentric mentor. Gain an Ally and one level in any Science skill.
+
+10
+
+You make a minor scientific discovery. Gain CHA +1 and DM+1 to a Benefit roll from this career.
+
+11
+
+You work for a prestigious organisation. Gain DM+1 to a Benefit roll from this career and DM+4 to your next
+Advancement roll.
+
+12
+
+You make a scientific breakthrough. You are automatically promoted and gain CHA +1.
+
+

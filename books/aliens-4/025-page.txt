@@ -1,0 +1,171 @@
+THE ILELISH SYSTEM
+The inner system consists of a single hot gas
+giant in orbit zero and the outer system includes
+gas giants in orbits two, three and four. Five
+rocky worlds comprise the remainder of the
+outer system in orbits five to nine. There are no
+planetoid belts in the system.
+From the surface of Ilelish, the sun appears
+slightly larger than the star Sol from the surface
+of Terra. The three closest gas giants can also
+be visible to the naked eye depending on where
+they are in their orbits.
+The gas giant closest to the sun, Bakap,
+has no moons. It is a Class III gas giant with
+clouds consisting of water vapour. It is largely
+white in colour with a pale blue tint. Unlike the
+other planets in the system, Bakap rotates
+counterclockwise. The second, third and fourth
+gas giants are Class I gas giants with clouds
+made up primarily of ammonia. They are dirty
+brown with alternating bands of tan and muddy
+yellow. Katlek, the second and largest gas giant
+
+has five large moons and 47 moonlets. Maklob,
+the third gas giant, has one large moon and 39
+moonlets. It is also orbited by a series of 19 rings
+consisting primarily of ice. Navop, the system’s
+fourth and outermost gas giant has four large
+moons and 27 moonlets. Many of the moons
+and moonlets support large colonies. All the gas
+giants have significant asteroids in their L4 and
+L5 trojan points which are heavily mined.
+Of the five rocky outer worlds, only Zaklotak and
+Watok are within the manoeuvre drive limit of
+the system primary, making the remaining outer
+planets difficult to reach without using a jump
+drive or specialised m-drives. Zaklotak, Watok
+and Patlobat are all small planets. Nakanto is a
+big world, which is unusual to be found beyond
+the frost line of a planetary system and it may
+be a failed gas giant. The outermost planet,
+Mavoto, is a small world and despite its size
+possesses a narrow ring comprising primarily of
+ice as well as two moonlets.
+All five outer rocky planets support colonies.
+
+Distance (AU)
+
+Type
+
+Name
+
+Notes
+
+Primary
+
+—
+
+M0 V
+
+Vogut
+
+—
+
+0
+
+0.157
+
+Large Gas Giant
+
+Bakap
+
+Diameter: 131,857km
+
+1
+
+0.4
+
+Macro World
+
+Ilelish
+
+E674A83-A
+
+2
+
+0.651
+
+Large Gas Giant
+
+Katlek
+
+Diameter: 141,981km
+
+3
+
+1.03
+
+Large Gas Giant
+
+Maklob
+
+Diameter: 90,176km
+
+4
+
+1.61
+
+Large Gas Giant
+
+Navop
+
+Diameter: 121,845km
+
+5
+
+2.68
+
+Meso World 8754
+
+Zaklotak
+
+Y526001-7
+
+6
+
+4.06
+
+Tiny World 403
+
+Watok
+
+Y000210-9
+
+7
+
+6.58
+
+Tiny World 513
+
+Patlobat
+
+H000401-B
+
+8
+
+10.3
+
+Big World 21270
+
+Nakanto
+
+YDC8030-5
+
+9
+
+16.9
+
+Small World 1823
+
+Mavoto
+
+Y110011-7
+
+The Suerrat Homeworld
+
+Orbit
+
+25
+
+

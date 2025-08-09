@@ -1,0 +1,143 @@
+4
+
+MILITARY
+
+You serve in the military forces of your clan.
+Males in the Military service are fighters or
+combatants; females are support personnel.
+Qualification: Rite of Passage 7+
+
+CAREER PROGRESS
+WARRIOR
+Survival
+END 8+
+Advancement STR 6+
+
+ASSIGNMENTS
+
+CAVALRY
+DEX 7+
+DEX 7+
+
+FLYER
+DEX 8+
+INT 6+
+
+SUPPORT
+END 6+
+SOC 8+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Warrior: You are a front-line warrior in the
+Clan forces.
+Cavalry: You drive a grav tank or other
+combat vehicle.
+Flyer: You pilot an atmospheric fighter.
+Support: You are a mechanic, medic,
+commtech or other support engineer.
+Gender: Only males can enter Warrior, Cavalry
+or Flyer. Only females can enter Support.
+
+1D
+CASH
+BENEFITS
+1
+Cr500
+1 Clan Share
+2
+Cr500
+END +1
+3
+Cr1000
+EDU +1
+4
+Cr1000
+Weapon
+5
+Cr5000
+Secret School
+6
+Cr5000
+2 Clan Shares
+7
+Cr10000
+SOC +1
+8
+Cr10000
+3 Clan Shares
+• DM+1 if SOC 9+
+• DM+1 when rolling on Benefits if Male
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+w
+
+PERSONAL DEVELOPMENT
+Independence
+STR +1
+DEX +1
+END +1
+Melee (natural)
+Athletics
+SPECIALIST: WARRIOR
+Vacc Suit
+Gun Combat
+Heavy Weapons
+Recon
+Stealth
+Athletics
+
+SERVICE SKILLS
+Gun Combat
+Drive
+Survival
+Melee (natural)
+Athletics
+Recon
+SPECIALIST: CAVALRY
+Drive
+Gunner (turret)
+Heavy Weapons
+Mechanic
+Gun Combat
+Drive
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Navigation
+Electronics
+Melee
+Engineer
+Tactics (military)
+Admin
+SPECIALIST: FLYER
+SPECIALIST: SUWPPORT
+Flyer
+Medic
+Gunner (turret)
+Mechanic
+Electronics
+Electronics
+Pilot (small craft)
+Navigation
+Gun Combat
+Admin
+Flyer
+Gun Combat
+
+

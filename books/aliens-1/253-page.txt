@@ -1,0 +1,158 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+E
+
+I
+
+G
+
+H
+
+T
+
+E
+
+E
+
+N
+
+ZHODANI TRAVELLERS
+Zhodani Travellers follow the same procedures and
+concepts as human Travellers, as detailed in the
+Traveller Core Rulebook. However, several changes take
+into account the cultural differences between Zhodani
+characters and other humans. Unless otherwise stated
+in this chapter, use all the creation and career rules
+described in the Traveller Core Rulebook.
+
+INITIAL TRAVELLER
+
+GENERATION
+
+Use the characteristics and traits for Zhodani Travellers
+shown below:
+Characteristics: Zhodani roll 2D for the PSI
+characteristic at the start of Traveller generation. Note
+that there is no reduction in PSI by terms of service (as
+indicated in the Traveller Core Rulebook) for Zhodani, as
+they are tested before they enter a career.
+Optionally, the Referee may allow PSI to be rolled
+using 1D+6 in order to create a greater proportion of
+Intendants and Nobles.
+Characteristic Adjustments: In the Consulate, all children
+are tested for psionic potential, while children of Nobles
+and Intendants receive better educations than Proles.
+•
+•
+•
+
+If a Traveller rolls PSI 9+ and SOC 9-, raise their
+SOC to 10.
+EDU cannot be higher than SOC, and should be
+lowered to the SOC value if it is greater.
+If a Traveller rolls EDU 7- and SOC 10+, increase
+EDU to 8.
+
+These adjustments apply only at the start of Traveller
+generation. They do not apply if a Traveller’s SOC
+changes because of career events or if PSI changes due
+to aging effects.
+
+STARTING AGE
+
+Zhodani characters begin their careers at 18 years of
+age. Untrained and inexperienced, they embark on a
+career to gain new skills and experience. Each career
+term lasts for four Imperial years.
+
+Social Classification
+
+Zhodani society has three broad social classes and SOC
+determines to which a Traveller belongs.
+
+Noble: SOC 11+
+Intendant: SOC 10
+Prole: SOC 9-
+
+Noble Titles
+
+Zhodani Intendants and Nobles are identified by a suffix
+to their names. A new name suffix replaces the previous
+one when an individual rises in SOC.
+SOC
+10
+11
+12
+13
+14
+15
+
+Title Suffix
+-iepr
+-atl
+-stebr
+-tlas
+-tlasche’
+-iashav
+
+Translation
+Intendant
+Aspirant
+Wellborn
+Highborn
+Noble Born
+Princely Lord
+
+While these do not directly correlate to Imperial
+noble titles, Zhodani Travellers visiting the Imperium
+are generally accorded status and honours based on
+their SOC.
+
+Psionic Training
+
+Nobles and Intendants (not Proles) undergo
+standardised psionic training at an early age. As part
+of training, the Traveller attempts to learn the common
+psionic talents on the Psionic Training table by making
+a PSI check. The Traveller may attempt to learn the
+talents in any order but suffers a cumulative DM-1 per
+check attempted. If a Traveller learns a talent, they gain
+that talent at level 0.
+
+Psionic Training
+Talent
+Awareness
+Clairvoyance
+Telekinesis
+Telepathy
+Teleportation
+Zhodani*
+
+Learning DM
++1
++3
++2
++4
++0
+–3
+
+* New psionic talent detailed on page 277.
+If a Prole gains PSI 9+ during a career, they are
+elevated to Intendant (increasing their SOC to 10) and
+immediately undergo this same training.
+
+

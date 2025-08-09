@@ -1,0 +1,167 @@
+CITIZEN
+
+2
+
+This career covers a wide range of professions
+that are the foundation of Vargr civilisations.
+Citizens work in all industries and are employed
+by a range of organisations from independent
+companies to large corporations.
+
+Qualification: CHA 5+
+
+CAREER PROGRESS
+SURVIVAL
+EDU 6+
+INT 5+
+END 4+
+
+Corporate
+Aide
+Worker
+
+ASSIGNMENTS
+
+ADVANCEMENT
+CHA 6+
+CHA 5+
+CHA 4+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Corporate: You are a white-collar worker or
+senior management working for a corporation or
+alternatively you are a government bureaucrat or
+functionary.
+Aide: You serve as an assistant to your pack
+leader.
+Worker: You are a blue-collar labourer in the
+industrial sector.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr5000
+Cr10000
+Cr10000
+Cr25000
+Cr50000
+Cr75000
+
+BENEFITS
+Contact
+Ship Share
+INT +1
+EDU +1
+Ally
+CHA +1
+Two Ship Shares
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+EDU +1
+INT +1
+Melee
+Drive
+Electronics
+Jack-of-all-Trades
+CORPORATE
+Admin
+Broker
+Electronics (computers)
+Diplomat
+Leadership
+Advocate
+
+SERVICE SKILLS
+Streetwise
+Drive
+Admin
+Flyer
+Steward
+Profession
+AIDE
+Steward
+Admin
+Advocate
+Electronics (computers)
+Drive
+Steward
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Art
+Language
+Advocate
+Diplomat
+Electronics (computers)
+Science
+WORKER
+Profession
+Drive
+Engineer
+Mechanic
+Science
+Electronics
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+CORPORATE SKILL OR BENEFIT
+—
+Admin 1
+—
+Advocate 1
+—
+CHA +1
+—
+
+AIDE SKILL OR BENEFIT
+Steward 1
+—
+—
+Admin 1
+—
+Diplomat 1
+—
+
+WORKER SKILL OR BENEFIT
+Profession 1
+—
+—
+Engineer 1 or Mechanic 1
+—
+Science 1
+—
+
+

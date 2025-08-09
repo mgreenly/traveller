@@ -1,0 +1,264 @@
+CARRIER
+
+CLASS: LOZA'TCH
+
+Built on a 10,000-ton hull, the Loza’tch-class
+carriers are the largest vessels in the Alignment
+fleet. Only five of these large vessels are currently in
+active service, each named after one of the planets
+in the Za’tachk Alignment. The Loza’tch is never
+fielded independently; three Blarwrir destroyers
+typically accompany it to provide protection. While
+an impressive vessel, the carrier is a little slow but
+
+TL14
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+10,000 tons, Streamlined
+
+—
+
+600
+
+Reinforced Hull
+
+—
+
+300
+
+Radiation Shielding
+
+—
+
+250
+
+Armour
+
+Bonded Superdense, Armour: 10
+
+800
+
+400
+
+M-Drive
+
+Thrust 4
+
+400
+
+800
+
+Backup M-Drive Thrust 1
+
+100
+
+200
+
+J-Drive
+
+Jump 3
+
+755
+
+1132.5
+
+Backup J-Drive
+
+Jump 1
+
+255
+
+382.5
+
+Power Plant
+
+Fusion (TL12), Power 9,555
+
+337
+
+337
+
+Backup Power
+Plant
+
+Fusion (TL12), Power 4,560
+
+304
+
+304
+
+Hull: 4,400
+
+Fuel Tanks
+
+J-4, 8 weeks operation
+
+3,128
+
+—
+
+Bridge
+
+Normal bridge
+Command Bridge
+Holographic Controls
+
+60
+80
+—
+
+60
+60
+31.25
+
+Running Costs
+MAINTENANCE COST
+
+Computer
+
+Core/70fib
+
+—
+
+120
+
+Backup
+Computer
+
+Computer/30fib
+
+—
+
+30
+
+MCr7779.4164
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Power Requirements
+
+Improved Signal Processing
+
+1
+
+4
+
+Basic Ship Systems
+
+Backup
+Sensors
+
+Improved
+
+34.3
+
+—
+
+Weapons
+
+Triple Turrets (beam lasers, high
+yield, intense focus) x10
+
+10
+
+32.5
+
+Point Defence Laser Batteries
+(Type III) x20
+
+400
+
+400
+
+Docking Spaces (50 tons) x9
+
+495
+
+123.75
+
+Iestynin Medium Fighter Drones x9 —
+
+383.94
+
+Docking Spaces (5 tons) x21
+
+126
+
+31.5
+
+UFT Lifeboats x21
+
+—
+
+36.75
+
+Docking Spaces (15 tons) x21
+
+357
+
+89.25
+
+Klaront Fighter Drones x21
+
+—
+
+565.7484
+
+Docking Spaces (50 tons) x3
+
+165
+
+41.25
+
+Hull
+
+Craft
+
+138
+
+its jump drive can keep up with other ships in the
+fleet when travelling from system-to-system. With
+the ability to field 31 fighting drones, the Loza’tch
+has enough resources to provide its own protection
+and initiate a credible threat towards enemy
+vessels. Despite its abilities, it is not well-liked by
+crews, who find the vessel’s tight quarters and lack
+of armour a concern.
+
+Captain x3, Pilots x3,
+Astrogator, Engineers
+x52, Maintenance
+x15, Gunners x15,
+Administrators x8,
+Sensor Operators x8,
+Medics x2, Officers
+x13, STOG x21,
+Drone Pilots x36
+
+Cr648285/month
+PURCHASE COST
+
+2,000
+Manoeuvre Drive
+4,000
+Jump Drive
+3,000
+Sensors
+5
+Weapons
+730
+Fuel Processor
+75
+
+

@@ -1,0 +1,130 @@
+T
+
+A small, agile craft, the Tiger Shark is often employed
+as backup to Mud Crab units, acting as reconnaissance
+and scouting vehicles. In combat they can prove highly
+effective but cannot stand up to heavy bombardment
+without support.
+15
+
+SKILL
+
+Seafarer (submarine)
+
+AGILITY
+
++1
+
+SPEED (CRUISE)
+
+Medium (Slow)
+
+Vehicles of the Dolphins
+186
+
+1
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+42
+
+SHIPPING
+
+7
+
+COST
+
+MCr2.02
+
+V
+
+E
+
+L
+
+L
+
+E
+
++3
+2,000km
++4
++2
+—
+-4
+
+Traits
+—
+Equipment Autopilot (advanced), Communications
+System (advanced, encrypted, increased
+range, satellite uplink), Computer/5,
+Control System (advanced), ECM
+(advanced), Fire Extinguisher, Life
+Support (short term), Navigation System
+(advanced), Sensor Systems (advanced,
+hardened, high fidelity, increased range,
+underwater), Stealth (advanced)
+Weapons
+Fixed Mount (blue/green light laser cannon)
+
+RANGE (CRUISE) 250 (375)
+CREW
+
+A
+
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+TIGER SHARK ATTACK SUBMARINE
+
+TL
+
+R
+
+ARMOUR
+FRONT 35
+
+REAR
+
+WEAPON
+
+RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS
+
+Blue/Green Light
+Laser Cannon
+
+1
+
+8D
+
+—
+
+—
+
+AP 5
+
+35
+
+SIDES
+
+20
+
+FIRE CONTROL
++4
+
+R
+
+

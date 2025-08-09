@@ -1,0 +1,132 @@
+C E N T R A L
+
+S U P P L Y
+
+K’KREE
+
+X
+
+The body form of K’kree imposes considerations upon
+equipment intended for their use. Consoles and controls
+are at a height suitable for use by a standing K’kree
+and controls are often dispersed. This is to ensure the
+operator has to move around whilst working; being
+entirely still is unnatural to a K’kree.
+
+spacefaring races. Their equipment is rarely of a
+multifunction nature; a starship control station will
+serve one function whereas most other species build
+controls that can be swapped from one task to another
+at need. Whereas a human might sit down at the
+nearest console and reconfigure it for astronavigation
+or gunnery, a K’kree would consider this unsettling.
+It is the nature of a tool to do a particular job, so if a
+different function is required then the K’kree must get a
+different tool and move to the correct workstation.
+
+K’kree devices are generally usable by other species
+unless intended to be worn. K’kree hands have a
+similar configuration and reach to those of most other
+
+A03/48956
+
+WARRIOR PANOPLY
+
+K’kree warriors wear a costume that is part armour and part
+statement of allegiance. The frontal torso is protected by a
+breastplate worn over a tunic in traditional colours, often with
+forearm guards. A helmet is worn by some but not all warriors and
+the rear torso is protected by a garment described as a panoplycape. The cape attaches to the rear of the tunic but can be
+removed. The standard version of the panoply is not really armour
+as such but made from sufficiently tough materials as to provide
+some protection.
+The traditional, now archaic, panoply consisted of cloth and metal
+and is still used for ceremonial purposes. A more modern version
+is constructed from ballistic cloth and composite rigid materials,
+providing good protection from most threats. All nobles are, by
+definition, warriors in the sense that they protect the herd and may
+wear a more ostentatious version. Alternatively, stylised variants
+may be worn, which have vestigial or ceremonial versions of the
+standard armour components. For example, the breastplate may be
+represented by a small metal gorget or even a medal-like miniature
+with no protective value whatsoever.
+
+Armour Type
+
+140
+
+C A T A L O G U E
+
+Protection TL Rad Kg Cost
+
+Warrior Panoply
+(standard)
+
++2
+
+8
+
+Warrior Panoply
+(archaic)
+Warrior Panoply
+(armoured)
+Warrior Panoply
+(heavy assault)
+Noble Panoply
+(standard)
+Noble Panoply
+(armoured)
+
++4
+
+0
+
+4
+
+Required Skill
+
+Cr200
+
+None
+
+2 0
+
+12 Cr300
+
+None
+
++6
+
+8 0
+
+8
+
+Cr500
+
+None
+
++9
+
+8 0
+
+12 Cr700
+
+None
+
++3
+
+9 0
+
+3
+
+Cr1200 None
+
++7
+
+9 0
+
+7
+
+Cr3000 None
+
+

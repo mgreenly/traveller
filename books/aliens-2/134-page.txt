@@ -1,0 +1,171 @@
+3
+
+SOLSEC
+
+Solomani Security is charged with ensuring the loyalty of
+the Confederation’s population and its adherence to the
+principles of the Solomani Cause.
+Qualification: INT 6+
+If you are aged 34 or more: DM-2
+Per previous career: DM-1
+
+ASSIGNMENTS
+Choose one of the following:
+SolSec Field Agent: You were an open agent of SolSec.
+Field agents arrest or follow suspects, protect SolSec
+offices and engage in paramilitary operations.
+SolSec Administrator: You were a desk officer, intelligence
+analyst, technician or administrator supporting SolSec’s
+field agents, monitors and secret agents.
+Secret Agent: You were a sleeper agent in deep cover,
+usually assigned wherever trouble is expected. Choose
+any career other than SolSec; you automatically qualify
+for it. Proceed normally through that career but with
+DM-1 on survival rolls and DM+1 on advancement rolls.
+You may also change careers voluntarily as usual. If you
+are ever forced to leave that career or if you attempt to
+change careers but fail to qualify, it means your cover
+was blown. Your next career assignment, if you continue,
+must be as a SolSec administrator or field agent. You
+automatically qualify. You start at a SolSec rank equal to
+your sum of career ranks or rank 4, whichever is lower.
+
+CAREER PROGRESS
+SURVIVAL
+Field Agent
+INT 7+
+Secret Agent Cover career
+DM-1
+Administrator EDU 5+
+
+ADVANCEMENT
+INT 5+
+Cover career DM+1
+INT 7+
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr2000
+Cr5000
+Cr7500
+Cr10000
+Cr25000
+Cr50000
+
+OTHER BENEFITS
+Scientific Equipment
+INT +1
+Terran Adventurer Society
+Weapon
+Combat Implant
+SOC +1 or Combat Implant
+SC Courier
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+Deception
+DEX +1
+END +1
+Persuade
+INT +1
+Gun Combat
+FIELD AGENT
+Vacc Suit
+Explosives
+Gun Combat
+Recon
+Stealth
+Athletics
+
+SERVICE SKILLS
+Electronics (comms)
+Drive
+Flyer
+Gun Combat
+Investigate
+Electronics (computers)
+ADMINISTRATION
+Admin
+Advocate
+Electronics (computers)
+Diplomat
+Investigate
+Science (psychology)
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Advocate
+Engineer
+Medic
+Electronics
+Pilot
+Science (psychology)
+—
+—
+—
+—
+—
+
+RANKS AND BENEFITS
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+134
+
+Rookie
+Lieutenant
+Captain
+Major
+Lieutenant Colonel
+Colonel
+Coordinator General
+
+SKILL OR BENEFIT
+—
+Electronics (computers) 1
+Leadership 1
+Deception 1
+SOC 9 or SOC +1, whichever is higher
+Admin 1
+SOC 11 or SOC +1, whichever is higher
+
+Term Limits: Regulations limit
+agents to no more than four
+terms as field or secret agents.
+After this, Travellers must
+either transfer to administration
+or leave SolSec. Agents who
+leave are encouraged to
+become monitors.
+
+

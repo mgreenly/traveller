@@ -1,0 +1,136 @@
+Events
+
+2D
+2
+3
+4
+
+A rival crew or group of executives ambush you in a bar. Roll Melee, Stealth or Persuade 8+. If
+you succeed, gain any skill. If you fail, roll on the Injury table.
+You pick up a useful skill. Gain Drive 1, Mechanic 1, Pilot 1 or Electronics (sensors) 1.
+
+7
+
+You have the opportunity to take a risk in business. Wager up to three Benefit rolls and roll Broker
+8+. If you succeed, gain an equal number of Benefit rolls to those you wagered. If you fail, lose
+any wagered Benefit rolls.
+You befriend an old spacer who decides to give you advanced training in a specialist field. Roll
+EDU 8+ to gain any skill.
+Live Event. Roll on the Life Event table.
+
+8
+
+You expand into new territories. Gain Broker 1, Streetwise 1, Profession 1 or a Contact.
+
+9
+
+You are embroiled in legal trouble. Gain one of Admin 1, Advocate 1, Diplomat 1 or Investigate 1.
+
+10
+
+Confederation trade restrictions force you out of business. Suffer DM-2 to your next
+advancement roll.
+You befriend a useful ally in one sphere. Gain an Ally and either a level of Carouse or DM+4 to
+your next advancement roll thanks to their aid.
+You appear to possess the Midas touch. Your ship or company thrives and prospers thanks to
+your efforts. You are automatically promoted.
+
+5
+6
+
+11
+12
+
+Ranks and bonuses
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+MERCHANT MARINE
+Crewman
+Able Crewman
+Senior Crewman
+Petty Officer
+Warrant Officer
+1st Officer
+Captain
+
+SKILL OR BONUS
+—
+Mechanic 1
+—
+Pilot (small craft) 1
+—
+Astrogation 1
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+FREE TRADER
+—
+—
+Free Trader
+—
+Merchant
+—
+Merchant Captain
+
+SKILL OR BONUS
+—
+Vacc Suit 1
+Melee 1
+—
+Profession 1
+—
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+BROKER
+—
+Dealer
+—
+Negotiator
+—
+Entrepreneur
+—
+
+SKILL OR BONUS
+—
+—
+Broker 1
+—
+Advocate 1
+—
+—
+
+5
+
+Darrian Travellers
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+49
+
+

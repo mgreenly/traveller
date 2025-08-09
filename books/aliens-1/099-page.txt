@@ -1,0 +1,31 @@
+8
+
+13
+
+9
+
+DECK 5
+
+11
+
+12
+11
+
+6
+7
+2
+
+DECK 4
+
+6. Shrine
+7. Barracks
+8. Staterooms
+9. Raised platform
+1 0 . Tr i p l e t u r r e n t ( b e a m l a s e r s )
+11. Briefing room
+12. Captain's office
+13. Bridge
+
+99
+
+

@@ -1,0 +1,55 @@
+Mishaps
+
+T
+
+1D
+1
+2
+3
+
+4
+
+5
+
+Za’tachk Travellers
+
+6
+
+112
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury Table and take the lower result.
+Placed in frozen watch (cryogenically stored on board ship) and revived improperly. Reduce STR,
+DEX or END by -1 due to muscle wastage. You are not ejected from this career.
+During a battle, defeat or victory depends on your actions. You must make an 8+ check using a skill
+which depends on your branch – Electronics (sensors) or Gunner if you are bridge crew, Mechanic
+or Vacc Suit if you are engineering crew, or Electronics (remote ops) if you are STOG. If you fail,
+the ship suffers severe damage and you are blamed for the disaster. You are court-martialled and
+discharged. If you succeed, your efforts ensure you are honourably discharged but keep your Benefit
+roll from this term. If you roll a 2, you must take the Prisoner career on your next term.
+You are blamed for an accident which causes the death of several crewmembers. If you were
+responsible, you gain one free roll on the Skills and Training tables before you are ejected from the
+career as your guilt drives you to excel. If you were not, then gain the officer who blamed you as an
+Enemy but you keep your Benefit roll from this term.
+A failing on your part causes a catastrophic loss in your ship or base. You lose BOL -1. In addition,
+the only other survivor becomes your Enemy.
+You are wounded in the line of duty. Roll on the Injury table.
+
+R
+
+

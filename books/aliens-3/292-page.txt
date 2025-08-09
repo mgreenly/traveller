@@ -1,0 +1,36 @@
+1 sq. = 50 tons
+DECKS 4-6
+
+4
+
+11. Fuel Processing
+12. Cargo Bay
+13. Fusion Barbettes
+14. J-Drive
+15. Power Plant
+16. M-Drive
+
+15
+
+4
+
+DECK 3
+
+16
+Command
+
+4
+
+Weaponry
+Engineering
+Accommodation
+
+DECK 2
+
+16
+
+DECK 1
+
+293
+
+

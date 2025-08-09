@@ -1,0 +1,212 @@
+MEDIUM FIGHTER DRONE
+
+CLASS: IESTYNIN
+
+The Iestynin-class medium fighter drone is designed
+to provide a secondary screen of defence for larger
+vessels, attacking any craft or missiles which evade
+the first screen provided by light fighter drones.
+Heavily armoured and equipped with two fixed
+
+TL14
+
+mount beam lasers, the craft is still intended as a
+disposable commodity for the craft they defend.
+With no cockpit or robot brain, the drone requires a
+remote operator to function and becomes useless if
+communications are jammed or cut.
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+50 tons, Streamlined
+
+—
+
+3
+
+Reinforced
+
+—
+
+1.5
+
+Armour
+
+Bonded Superdense, Armour: 14
+
+11.2
+
+5.6
+
+M-Drive
+
+Thrust 6
+
+3
+
+6
+
+Fusion (TL12), Power 60
+
+Running Costs
+
+Power Plant
+
+4
+
+4
+
+MAINTENANCE COST
+
+Fuel Tanks
+
+4 weeks of operation
+
+1
+
+—
+
+Computer/20fib
+
+—
+
+7.5
+
+Cr3555/month
+
+Computer
+
+PURCHASE COST
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Fixed Mounts (beam laser, high
+yield, intense focus) x2
+
+MCr42.66
+
+Weapons
+
+—
+
+1.7
+
+Systems
+
+Advanced Control System
+
+—
+
+0.05
+
+Actuation System
+
+2.5
+
+0.01
+
+Anti-Hijack/1
+
+—
+
+6
+
+Library
+
+—
+
+—
+
+Evade/1
+
+—
+
+1
+
+Fire Control/1
+
+—
+
+2
+
+Intellect
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+25.3
+
+—
+
+Hull
+
+Software
+
+Cargo
+
+None
+
+Hull: 22
+
+Power Requirements
+Basic Ship Systems
+10
+Manoeuvre Drive
+30
+Sensors
+4
+Weapons
+6
+
+Total: MCr42.66
+
+1 square = 0.5 Ton
+
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+
+Manoeuvre Drive
+Power Plant
+Sensors
+Fixed Mount Laser
+Actuation System
+Cargo Hold
+1
+
+4
+
+2
+
+6
+
+5
+
+3
+
+4
+
+127
+
+

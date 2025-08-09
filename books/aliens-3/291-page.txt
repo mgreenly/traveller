@@ -1,0 +1,41 @@
+1 sq. = 50 tons
+4
+
+DECKS 10-12
+
+1. Bridge, Improved Sensors,
+Distributed Arrays, Enhanced Signal
+Processing, Medical Bay, Meson
+Screens, Nuclear Dampers
+2. Armour, Brig, Training Facilities,
+Docking Space
+3. Workshops
+4. Meson Spinal Mount (TL14)
+5. Large Particle Beam Bays
+
+14
+
+4
+
+14
+4
+
+DECK 9
+
+6. Medium Torpedo Bays
+7. Barracks
+8. Staterooms
+9. Mud Baths
+10. Point Defence Laser
+Batteries (type III)
+
+DECK 8
+
+15
+4
+
+DECK 7
+
+292
+
+

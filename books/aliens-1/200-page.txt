@@ -1,0 +1,163 @@
+10
+
+PSION
+
+The nature of Vargr society means there are
+few psionic institutes. Most organisations
+exist on worlds bordering Zhodani space and
+psions from other regions are usually trained
+by a mentor or have developed their abilities
+by themselves
+
+CAREER PROGRESS
+SURVIVAL
+EDU 6+
+CHA 6+
+END 6+
+
+Wild Talent
+Mentored
+Institute
+
+ADVANCEMENT
+CHA 8+
+PSI 6+
+INT 8+
+
+Qualification: PSI 6+
+
+MUSTERING OUT BENEFITS
+
+ASSIGNMENTS
+Choose one of the following.
+Wild Talent: You developed your powers
+without formal training.
+Mentored: You are trained by a mentor.
+Institute: You are trained in a psionic
+institute.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr2000
+Cr5000
+Cr5000
+Cr10000
+Cr10000
+Cr15000
+
+BENEFITS
+Weapon
+Contact
+END+1
+INT +1
+Ally
+CHA +1
+PSI +1
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+Melee
+STR +1
+DEX +1
+END +1
+PSI +1
+CHA +1
+WILD TALENT
+Telepathy
+Telekinesis
+Deception
+Stealth
+Streetwise
+Survival
+
+SERVICE SKILLS
+Any Talent
+Telepathy
+Clairvoyance
+Telekinesis
+Awareness
+Teleportation
+MENTORED
+Telepathy
+Clairvoyance
+Admin
+Persuade
+Science (psionicology)
+Streetwise
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Electronics
+Language
+Science
+Art
+Medic
+INSTITUTE
+Telepathy
+Awareness
+Any Talent
+Electronics (computers)
+Investigate
+Science (psionicology)
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+WILD TALENT SKILL OR
+BENEFIT
+Survival 1
+Streetwise 1
+—
+Deception 1
+—
+—
+
+MENTORED SKILL OR BENEFIT
+
+INSTITUTE SKILL OR BENEFIT
+
+Streetwise 1
+—
+Telepathy 1 or Clairvoyance 1
+—
+—
+Any Talent 1
+
+Science (psionicology) 1
+—
+Any Talent 1
+—
+—
+Any Talent 1
+
+

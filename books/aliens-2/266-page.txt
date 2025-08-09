@@ -1,0 +1,88 @@
+3
+
+MANIPULATOR
+
+All Hivers use manipulation on a constant basis but for most it is a means to an end – and that end is usually
+minor in scope. Those with more vision or who simply enjoy manipulation for its own sake may sometimes make a
+career out of it.
+Open To: Social nests. Also, any Hiver who is currently a Senior or Manipulator may enter this profession at the
+beginning of their next term.
+Qualification: Determined by nest.
+
+ASSIGNMENTS
+Choose one of the following:
+Master Manipulator: You focus on manipulation for its own sake, although there is always a goal to any project you
+undertake.
+Starfaring Manipulator: You have travelled extensively and perhaps even learned how to operate a starship yourself.
+Of course, there will always be a reason why you do not get someone else to do the work for you.
+Military Leader: You assumed a command position in the ground or space forces. Most of your subordinates were
+from other races of the Hive Federation and naturally they are the ones doing any actual fighting.
+
+SKILLS AND TRAINING
+1D
+
+PERSONAL DEVELOPMENT
+
+SERVICE SKILLS
+
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+RES +1
+INT +1
+EDU +1
+Survival
+Language
+Persuade
+MASTER MANIPULATOR
+Gambler
+Diplomat
+Persuade
+Carouse
+Streetwise
+Science (sociology)
+
+Carouse
+Streetwise
+Persuade
+Deception
+Diplomat
+RES +1
+STARFARING MANIPULATOR
+Tactics (naval)
+Engineer
+Pilot
+Astrogation
+Electronics
+Vacc Suit
+
+266
+
+ADVANCED MANIPULATOR (MIN. RES
+10+)
+Tactics (economic)
+Tactics (military)
+Tactics (naval)
+Science (sociology)
+Advocate
+Broker
+MILITARY LEADER
+Tactics (military or naval)
+Gun Combat
+Gunner
+Astrogation
+Heavy Weapons
+Vacc Suit
+
+

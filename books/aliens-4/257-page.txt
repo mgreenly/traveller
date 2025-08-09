@@ -1,0 +1,84 @@
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+
+Manoeuvre Drive
+Jump Drive
+Power Plant
+Bridge
+Triple Turrets
+Docking Space (Hrisshtou
+Light Fighters)
+7. Docking Space (Gshahk Gigs)
+8. Docking Space (Kalahk
+Medium Fighters, Asjrou
+Stealth Fighters)
+
+15. Briefing Rooms
+16. Brigs
+17. Fuel Processor
+18. Launch Tubes
+19. Medical Bays
+20. Recovery Decks
+21. Workshops
+22. Shaper Shrine
+23. Staterooms
+24. Common Area
+25. Cargo Hold
+
+9. Docking Space (Rashkaaht
+Boarding Skiffs)
+10. Docking Space (Yarlasth
+Heavy Fighters)
+11. Docking Space (Grathriss
+Gunboats, Vatha Torpedo
+Boats)
+12. Docking Space (Kilrashta
+Refuelling Shuttles)
+13. Full Hangers
+14. Armoury
+
+DECK 1: FUEL, TRIPLE TURRETS ONLY
+
+1
+5
+
+5
+3
+
+10
+
+5
+
+5
+
+11
+
+5
+
+5
+
+17
+
+5
+
+5
+
+3
+
+2
+
+DECK 2
+1
+
+1 square = 50 Tons
+
+DECK 3
+
+257
+
+

@@ -1,0 +1,98 @@
+WEAPONS
+
+The Vargr have a wide variety of weapons and the most common are described here. Vargr versions of human
+weapons also exist, differing in form but not function; Vargr characters are free to use any of the standard weapons
+listed in the Traveller Core Rulebook.
+
+CLAW FIST
+
+A11/58231
+
+A spiked fist weapon that fits over the hand, is designed to
+look like claws and is a good example of the types of weapon
+favoured by corsairs for both practical and aesthetic purposes.
+It is a very effective close combat weapon but the claw fist
+must be strapped firmly to the hand and takes D3 rounds to
+attach or remove. The wearer also suffers DM-2 to any task
+that requires the use of their hand (not including combat).
+The claw fist can be used with the Melee (infighting) or Melee
+(unarmed) skill.
+
+Weapon
+Claw Fist
+
+TL
+
+Range Damage
+
+Kg
+
+Cost
+
+Traits
+
+3
+
+Melee
+
+3
+
+Cr250
+
+AP 5
+
+4D
+
+SONIC PISTOL
+
+A11/58231
+
+The sonic pistol emits focussed, directed sound waves at its
+targets. Although extremely painful, the effects are ultimately
+non-lethal and the sonic pistol has found its way into the
+arsenal of law enforcement on some worlds.
+
+Weapon
+
+TL
+
+Range Damage Kg
+
+Sonic Pistol
+
+9
+
+5
+
+2D
+
+1
+
+Cost
+
+Magazine Power Pack Cost
+Cr800 10
+Cr150
+
+New Weapon Trait: Sonic (–X)
+
+During the pre-stellar era on Lair, opposing Vargr
+factions began experimenting with sonic weaponry
+to both stun and disorient the enemy on the
+battlefield using ultra high frequency sounds.
+Anyone hit by a Sonic must make an END check
+with a DM equal to the Sonic score; if successful,
+the target is unaffected. However, if the target
+fails, for the next 1D rounds they will suffer a DM
+equal to the Effect of the END check to all actions.
+Sonic weapons can only work where there is
+atmosphere and are more effective on the acute
+hearing of the Vargr – the effect lasts for an
+additional two rounds when effecting a Vargr.
+
+216
+
+Traits
+Burst 2, Sonic (-2), Stun, Zero-G
+
+

@@ -1,0 +1,159 @@
+MARINES
+
+7
+
+Marines are members of fighting forces
+carried onboard starships. Marines deal
+with piracy and boarding actions in space,
+defend the starports and bases belonging to
+the navy, and supplement ground forces.
+Qualification: CHA 7+
+
+CAREER PROGRESS
+SURVIVAL
+END 6+
+DEX 7+
+END 5+
+
+Marine
+Special Ops
+Support
+
+ADVANCEMENT
+CHA 7+
+CHA 8+
+CHA 6+
+
+MUSTERING OUT BENEFITS
+
+ASSIGNMENTS
+Choose one of the following.
+Marine: You specialise in boarding actions
+and capturing enemy vessels.
+Special Ops: You have been trained for
+specialist and covert missions.
+Support: You are an engineer, battlefield
+medic or other supporting role.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr2000
+Cr5000
+Cr5000
+Cr10000
+Cr10000
+Cr25000
+Cr50000
+
+BENEFITS
+Blade
+DEX +1
+END +1
+Ally
+Armour
+CHA +1
+Weapon
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Melee
+Leadership
+CHA +1
+MARINE
+Athletics
+Vacc Suit
+Recon
+Gun Combat
+Melee
+Heavy Weapons
+
+SERVICE SKILLS
+Vacc Suit
+Athletics
+Recon
+Gun Combat
+Melee
+Tactics
+SPECIAL OPS
+Vacc Suit
+Recon
+Stealth
+Explosives
+Melee
+Gun Combat
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Survival
+Drive
+Pilot
+Medic
+Tactics
+Leadership
+SUPPORT
+Medic
+Engineer
+Mechanic
+Electronics
+Admin
+Drive or Flyer
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+MARINE SKILL OR BENEFIT
+Melee 1
+—
+Gun Combat 1
+Leadership 1
+—
+CHA +1
+
+SPECIAL OPS SKILL OR BENEFIT
+Stealth 1
+—
+Melee 1 or Gun Combat 1
+Recon 1
+Pilot 1
+—
+
+SUPPORT SKILL OR BENEFIT
+Mechanic 1or Medic 1
+—
+Engineer 1
+Science 1
+—
+Leadership 1
+
+

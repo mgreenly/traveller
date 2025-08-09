@@ -1,0 +1,84 @@
+A03/48956
+
+ASSASSIN’S GARB
+
+Assassin’s garb consists of a form-fitting body glove studded
+with small armour plates. It is designed for stealth rather
+than protection and granting the wearer DM+1 to Stealth
+checks. An Aslan may not use a dewclaw while wearing this
+armour. More advanced versions replace the armour plates
+with a reactive layer that becomes rigid when struck and also
+incorporates the Vislight Chameleon option (see Traveller Core
+Rulebook, page 96).
+
+Armour Type
+
+Protection
+
+Assassin’s Garb
+
++3
+
+Assassin’s Garb
+
++6
+
+A03/48956
+
+TL Rad
+
+Kg
+
+Cost
+
+Required Skill
+
+8
+
+1
+
+Cr10000
+
+None
+
+1
+
+Cr100000
+
+None
+
+—
+13 —
+
+CEREMONIAL
+BREASTPLATE
+
+These ornamental breastplates are designed to deflect the razorsharp dewclaws of an attacker, and are not strong enough to stand
+up to a bullet. Most Aslan nobles of SOC 9+ will wear one of
+these breastplates at all times – wearing such armour without the
+requisite SOC is considered discourteous.
+
+48
+
+Armour Type Protection TL Rad
+
+Kg Cost
+
+Required Skill
+
+Ceremonial
+Breastplate
+
+3
+
+None
+
++2
+
+3
+
+—
+
+Cr500
+
+

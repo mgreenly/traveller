@@ -1,0 +1,174 @@
+C
+
+ENTRAL SUPPLY CATALOGUE: DOLPHINS
+
+Due to their anatomy, Dolphins are unable to use many
+items designed for humans without penalty.
+Items which require hands or fingers cannot be used
+at all unless a Dolphin is equipped with waldos or
+cybernetic hands. Likewise, any equipment requiring
+legs or feet are impossible for Dolphins to use. A
+Dolphin may be able to use some equipment that
+requires fingers, like a keyboard, by holding a probe in
+its mouth or using its modified flippers, at the Referee’s
+discretion. This causes any check to go slower without
+decreasing the Difficulty (see page 60 of the Traveller
+Core Rulebook).
+In general, other equipment designed for humans
+may be found or modified for Dolphin use. Protective
+equipment such as vacc suits, combat armour,
+rebreathers and so on, must be specifically designed
+for an individual race and are not interchangeable
+between species. Such equipment for Dolphins will cost
+200% of the normal price.
+Electronic equipment must be specially sealed against
+water when being handled by a submerged Dolphin to
+avoid detrimental effects but this is a standard feature
+of all electrical equipment at TL10+.
+
+PERSONAL PROTECTION
+
+Dolphins use personal protection for a number or reasons,
+the most obvious being the ability to move and function
+safely out of water. Other types of protection in the
+Traveller Core Rulebook or Central Supply Catalogue are
+available to Dolphins but cost 200% the normal price.
+
+ARMOUR TYPE
+
+fabric, the sonar stealth suit renders a Dolphin almost
+invisible to sonar (DM+4 to Stealth checks made
+against sonar only).
+
+Travel Suit: Travel suits combine gravitic technology
+with a hostile environment suit and contains a superhumid atmosphere for the health and comfort of its
+Dolphin wearer.
+The travel suit provides its wearer with complete
+protection from temperatures ranging from -1000C to
++1000C and pressures of up to 56 atmospheres. They
+include a fully enclosed helmet including a visor with a
+heads up display that is tied to an on-board computer/
+communications array equal to a Computer/2 with a
+500km audio/visual transceiver capability.
+Travel suits can be fitted with a waldo for the
+manipulation of objects built for human hands. The
+cost and mass for such modification is simply added
+to that of the travel suit itself.
+At TL12, a travel suit has life support for 12 hours
+of use and weighs 12kg when the grav units are
+inactive. The travel suit is able to take to the air at up
+to Slow speed with an Agility equal to the Dolphin’s
+DEX DM. It has a maximum range of 25km.
+By TL15, the suit provides life support for 48 hours
+and weighs 7kg. The travel suit is able to take to the
+air at up to Medium speed with an Agility equal to the
+Dolphin’s DEX DM. It has a maximum range of 50km.
+
+TL
+
+RAD
+
+KG
+
+COST
+
+REQUIRED SKILL
+
+Sonar Stealth Suit
+
++1
+
+9
+
+—
+
+—
+
+Cr10000
+
+—
+
+Travel Suit
+
++5
++8
+
+12
+15
+
+—
+—
+
+12
+7
+
+Cr125000
+Cr150000
+
+Vacc Suit 1
+Vacc suit 0
+
+Walker Suit
+
++2
++4
++6
+
+9
+11
+14
+
+—
+—
+—
+
+35
+28
+20
+
+Cr80000
+Cr120000
+Cr100000
+
+Vacc Suit 2
+Vacc Suit 1
+Vacc suit 0
+
+ARMOUR TYPE
+Type D Battle Dress
+
+174
+
+PROTECTION
+
+Sonar Stealth Suit: Using a special sound absorbing
+
+PROTECTION TL
++22
++25
+
+13
+15
+
+RAD STR DEX SLOTS KG COST
+255
+300
+
++1
++2
+
++4
++6
+
+20
+20
+
+12
+12
+
+REQUIRED SKILL
+
+Cr280000 Vacc Suit 2
+Cr300000 Vacc Suit 1
+
+

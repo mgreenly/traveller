@@ -1,0 +1,318 @@
+PATROL CORVETTE
+TL12
+Hull
+
+Tons
+
+Cost (MCr)
+
+1,000 tons, Streamlined
+
+—
+
+60
+
+Reinforced Hull
+
+—
+
+30
+
+Crew
+Captains x3, Pilots x3,
+Astrogator, Engineers
+x7, Maintenance
+x2, Gunners x10,
+Administrator, Sensops
+x3, Officers x2, Drone
+Pilot, STOG x6
+
+Radiation Shielding
+
+—
+
+25
+
+Armour
+
+Crystaliron, Armour: 12
+
+150
+
+30
+
+M-Drive
+
+Thrust 5
+
+50
+
+100
+
+Backup M-Drive
+
+Thrust 1
+
+10
+
+20
+
+J-Drive
+
+Jump 2
+
+55
+
+82.5
+
+Backup J-Drive
+
+Jump 1
+
+30
+
+45
+
+Power Plant
+
+Fusion (TL12), Power 1,095
+
+73
+
+73
+
+Backup Power
+Plant
+
+Fusion (TL12), Power 480
+
+32
+
+32
+
+Fuel Tanks
+
+J-2, 8 weeks operation
+
+216
+
+—
+
+Bridge
+
+Holographic Controls
+
+20
+
+6.25
+
+Computer
+
+Computer/20fib
+
+—
+
+7.5
+
+Backup
+Computer
+
+Computer/15fib
+
+—
+
+3
+
+Sensors
+
+Improved
+Improved Signal Processing
+
+3
+1
+
+4.3
+4
+
+3
+
+4.3
+
+200
+
+Triple Turrets (missile racks) x5
+
+5
+
+16.25
+
+Manoeuvre Drive
+
+Point Defence Laser Batteries
+(Type II) x5
+
+100
+
+50
+
+Ammunition
+
+Missile Storage (90 missiles)
+
+7.5
+
+—
+
+200
+
+Craft
+
+Docking Spaces (5 tons) x3
+
+18
+
+4.5
+
+Sensors
+
+UFT Lifeboats x3
+
+—
+
+5.25
+
+5
+
+Docking Space (40 tons)
+
+44
+
+11
+
+Weapons
+
+Agupon Pinnace Drone
+
+—
+
+20.803
+
+105
+
+Armoury
+
+1
+
+0.25
+
+Fuel Processor
+
+Briefing Room
+
+4
+
+0.5
+
+32
+
+Fuel Processor (640 tons/day)
+
+32
+
+1.6
+
+Fuel Scoops
+
+—
+
+—
+
+Sensor Station
+
+1
+
+0.5
+
+Staterooms
+
+Standard x21
+
+84
+
+10.5
+
+Software
+
+Anti-Hijack/1
+
+—
+
+6
+
+Fire Control/1
+
+—
+
+2
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+Common Areas
+
+10
+
+1
+
+Cargo
+
+20.5
+
+—
+
+Backup Sensors Improved
+Weapons
+
+Systems
+
+Total: MCr657.2030
+
+132
+
+CLASS: BLODRA
+
+Hull: 440
+Running Costs
+MAINTENANCE COST
+Cr54767/month
+PURCHASE COST
+MCr657.2030
+
+Power Requirements
+Basic Ship Systems
+
+500
+Jump Drive
+
+

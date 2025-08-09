@@ -1,0 +1,101 @@
+understanding of the concepts involved suffers DM2. It is thought that a machine will produce several
+apparently equal solutions to the same jump plot and
+cannot distinguish between them but a sentient mind
+somehow ‘feels’ which one is slightly better than the
+others. Even someone who is not a trained astrogator
+can do this to some extent and if one is available they
+can oversee the plot. Their Astrogator skill applies in
+this case and the DM-2 is not suffered.
+Attempting to send a ship through jumpspace without
+people on board enormously increases the risk of
+misjump, for reasons unknown. In addition to the
+DM-4 for the autoplot, a vessel suffers an additional
+DM-4 if there are no conscious minds aboard. Lowberth passengers are by definition not conscious and
+experiments with highly intelligent but non-sentient
+minds have produced wildly differing results.
+
+AUTOMATION
+
+PACKAGES
+
+Automation packages come in two types; small-ship and
+component. An automation package normally controls
+one function, such as a single battery of laser turrets
+or the main power plant but applies to all supporting
+functions. Thus a piloting package will also operate
+the ship’s in-system navigational sensors but not a
+long-range sensor package intended for astronomical
+observations of other star systems.
+Full Automation: This package controls all functions
+of a non-starship (any vessel lacking a jump drive),
+including weapons if fitted. Full automation for a nonstarship consumes 15% of the vessel’s tonnage at a
+cost of MCr10 per 100 tons of hull. For a starship, full
+automation includes control of the jump drive and the
+ability to plot jumps. Full automation for a starship
+consumes 20% of the ship’s tonnage at a cost of
+MCr12.5 per 100 tons of hull.
+Critical Systems Automation: This package controls
+critical functions of the ship: piloting, astrogation,
+communications, life support, manoeuvre, power plant
+and jump drive for those vessels that have one. It
+communicates with port authorities and other vessels
+automatically in line with the operator’s wishes and
+takes passengers where they want to go. It does not
+operate internal systems such as food preparation
+and general machinery. Critical Systems Automation
+consumes 12% of a ship’s tonnage at a cost pf MCr8
+per 100 tons of hull for non-starships and 15% of a
+ship’s tonnage at a cost of MCr10 per 100 tons of hull
+for any vessel capable of jump.
+
+General Systems Automation: This package controls noncritical systems for any starship or non-starship. These
+include communications and life support – overlapping
+with a critical systems package if one is fitted – along
+with general internal systems such as workshops,
+galleys and medical bays. For most users this package
+is all about comfort and convenience, enabling them to
+auto-fabricate components for a project when needed
+but for the most part just ensuring the galley produces
+the desired meal at the correct time. General Systems
+Automation consumes 5% of a ship’s tonnage at a cost
+of MCr2 per 100 tons of hull.
+Automated Piloting: An Automated Piloting system
+conducts basic flight operations and can attempt to
+evade fire in an emergency. It will also deal with routine
+matters like liaising with port authority traffic controllers
+without having to bother the operator. Automated
+Piloting consumes 1% of a ship’s tonnage at a cost of
+MCr5 per 100 tons of hull.
+Automated Piloting and Astrogation: An Automated
+Piloting and Astrogation system can use any sensors
+fitted to a ship over interstellar distances if which they
+are capable. It can search for nearby stars and gas
+giants in a system but is unlikely to be able to gather
+much data without a high-capability sensor system. The
+automation package consumes 1% of the ship’s tonnage
+and costs MCr8 per 100 tons of hull.
+Automated Power Plant Operation: An Automated Power
+Plant Operation system replaces all crewmembers
+required to run the plant and can conduct very basic
+self-maintenance. This is limited to line flushing, selfcleaning and automated removal, and replacement of
+worn components from dedicated stocks. The system
+consumes 2.5% of the ship’s tonnage and costs MCr5
+per 100 tons of hull.
+Automated Manoeuvre Drive Operation: An Automated
+Manoeuvre Drive Operation system replaces all
+crewmembers needed to run the drive, but does not
+provide a means to pilot the ship. As with the power
+plant system it is capable of limited self-maintenance.
+The system consumes 2% of the ship’s tonnage and
+costs MCr5 per 100 tons of hull.
+Automated Jump Drive Operation: An Automated Jump
+Drive Operation system replaces all crewmembers
+needed to run the drive but does not provide a means
+to plot a jump. As with the power plant system it
+is capable of limited self-maintenance. The system
+consumes 2% of the ship’s tonnage and costs MCr8 per
+100 tons of hull.
+
+237
+
+

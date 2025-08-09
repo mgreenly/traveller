@@ -1,0 +1,178 @@
+PROLE
+
+8
+
+CAREER PROGRESS
+
+The lower classes or ‘commoners’ in Zhodani society,
+performing ordinary but satisfying jobs in the service
+of the Consulate.
+Qualification: INT 4+
+You must have SOC 9- to qualify
+
+SURVIVAL
+INT 7+
+SOC 6+
+END 4+
+
+Colonist
+Corporate
+Worker
+
+ASSIGNMENTS
+
+ADVANCEMENT
+END 5+
+INT 6+
+EDU 8+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Colonist: You are building a new life on a recently
+settled world that still needs taming.
+Corporate: You are a clerk or functionary in some
+government or civil institution.
+Worker: You are a blue-collar worker on an industrial
+world.
+Basic Training: Unlike other careers, Proles gain level
+0 skills from the appropriate Specialist table instead
+of the Service Skills table in basic training.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+1000
+5000
+10000
+20000
+30000
+50000
+100000
+
+BENEFITS
+Weapon
+Ship Share
+Two Ship Shares
+EDU +1
+INT +1
+Nenj
+SOC +1 (max. 9)
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+INT +1
+EDU +1
+Athletics
+Carouse
+Jack-of-All-Trades
+Persuade
+SPECIALIST: COLONIST
+Electronics
+Broker
+Engineer
+Gun Combat
+Leadership
+Melee
+
+SERVICE SKILLS
+Drive
+Electronics
+Flyer
+Melee
+Steward
+Profession
+SPECIALIST: CORPORATE
+Admin
+Diplomat
+Engineer
+Mechanic
+Science
+Profession
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Art
+Broker
+Electronics
+Diplomat
+Medic
+SPECIALIST:WORKER
+Animals
+Mechanic
+Navigation
+Recon
+Survival
+Profession
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+COLONIST/CORPORATE/
+WORKER
+Worker
+Assistant Supervisor
+Supervisor
+Manager
+Executive
+Senior Executive
+Director
+
+COLONIST
+CORPORATE
+SKILL OR BENEFIT SKILL OR BENEFIT
+—
+—
+Survival 1
+Admin 1
+—
+—
+Navigation 1
+Advocate 1
+—
+—
+—
+—
+Gun Combat 1
+SOC +1 (max. 9)
+
+WORKER
+SKILL OR BENEFIT
+—
+Profession 1
+—
+Mechanic 1
+—
+—
+Engineer 1
+
+

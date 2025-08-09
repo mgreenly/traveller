@@ -1,0 +1,245 @@
+T
+
+2
+
+Qualification: END 6+
+DM-1 for every previous career.
+DM-2 if you are aged 30 or more.
+Commission: INT 8+
+
+Choose one of the following:
+
+Skills and Training
+
+Commando: You are trained to fight both boarding and
+ground actions.
+Flight: You pilot one of the many vessels of the Solar
+Hegemony fleet.
+Support: You are a specialist technician, engineer or
+battlefield support in the Solar Hegemony fleet.
+
+Tezcat Travellers
+
+V
+
+E
+
+L
+
+L
+
+E
+
+CAREER PROGRESS
+SURVIVAL
+
+ADVANCEMENT
+
+Commando
+
+END 6+
+
+EDU 6+
+
+Flight
+
+INT 5+
+
+EDU 7+
+
+Support
+
+END 5+
+
+EDU 7+
+
+Mustering Out Benefits
+
+ASSIGNMENTS
+
+228
+
+A
+
+Soulhunter
+
+An elite military force of the Solar Hegemony, soulhunters
+are a combined naval and marine force charged with
+invasions and strike missions into enemy territory.
+
+2
+
+R
+
+1D
+
+CASH
+
+OTHER BENEFITS
+
+1
+
+Cr1000
+
+Personal Vehicle or Ship Share
+
+2
+
+Cr5000
+
+INT +1
+
+3
+
+Cr5000
+
+EDU +1 or Two Ship Shares
+
+4
+
+Cr10000 Weapon
+
+5
+
+Cr20000 Armour
+
+6
+
+Cr50000 Ship’s boat or Two Ship Shares
+
+7
+
+Cr50000 SOC +2
+
+1D
+
+PERSONAL
+DEVELOPMENT
+
+SERVICE SKILLS
+
+ADVANCED EDUCATION
+(MIN. EDU 8+)
+
+OFFICER
+(COMMISSIONED ONLY)
+
+1
+
+STR +1
+
+Pilot
+
+Medic
+
+Leadership
+
+2
+
+DEX +1
+
+Vacc Suit
+
+Survival
+
+Electronics
+
+3
+
+END +1
+
+Athletics
+
+Explosives
+
+Pilot
+
+4
+
+INT +1
+
+Gunner
+
+Navigation
+
+Melee (natural)
+
+5
+
+EDU +1
+
+Mechanic
+
+Admin
+
+Admin
+
+6
+
+SOC +1
+
+Gun Combat
+
+Engineer
+
+Tactics
+
+1D
+
+COMMANDO
+
+FLIGHT
+
+SUPPORT
+
+1
+
+Vacc Suit
+
+Pilot
+
+Electronics
+
+2
+
+Stealth
+
+Astrogation
+
+Mechanic
+
+3
+
+Gunner
+
+Gunner
+
+Engineer
+
+4
+
+Melee
+
+Electronics
+
+Medic
+
+5
+
+Electronics
+
+Flyer
+
+Vacc Suit
+
+6
+
+Gun Combat
+
+Vacc Suit
+
+Explosives
+
+R
+
+

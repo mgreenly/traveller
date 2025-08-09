@@ -1,0 +1,65 @@
+A11/58231
+
+TELEPORTATION SUIT
+
+This device can be worn as a form-hugging body-suit
+integrated or into a suit of armour. It rapidly cools or warms
+the body after teleportation, minimising damage from sudden
+energy gains or losses. The suit allows a Traveller to jump up
+to 600 metres up or down in a single teleport or up to 10
+kilometres in a single hour when using successive jumps.
+Armour Type
+Teleportation
+Suit
+
+A11/58231
+
+Protection
++1
+
+TL
+12
+
+Rad
+
+—
+
+Kg
+1
+
+Cost
+Cr50000
+
+Required Skill
+None
+
+OFFICER COMBAT ARMOUR
+
+This is much like combat armour Zhodani troopers use but
+considerably lighter, substituting carbon-tube weave for the
+smart plastic of the Trooper armour. This is further enhanced
+with a specialised computer weave and communications
+system, with an installed Computer/3. This runs Intellect/1
+and Expert (electronics (comms)) 2 software, assisting officers
+with unit coordination and control on the battlefield.
+Armour Type
+Officer Combat
+Armour
+
+Protection TL
++18
+12
+
+Rad
+150
+
+Kg
+14
+
+Cost
+Required Skill
+Cr95000 Vacc Suit 0
+
+279
+
+

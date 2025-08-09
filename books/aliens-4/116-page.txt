@@ -1,0 +1,199 @@
+T
+
+R
+
+A
+
+V
+
+WEAPONS
+
+E
+
+L
+
+L
+
+E
+
+Kaath Pistol
+
+Za’tachk are opposed to using weapons but also
+understand that firearms are sometimes needed as
+a balancing force or deterrent. Za’tachk prefer to
+use weapons which will not cause permanent injury,
+especially amongst themselves. When facing other
+opponents although, Za’tachk are more likely to
+use overwhelming firepower to eradicate a danger
+before it becomes a threat.
+
+ENERGY WEAPONS
+All the weapons in this section use the Gun Combat
+(energy) skill.
+
+KAATH PISTOL
+
+The kaath pistol is a short, ranged weapon that
+causes the pleasure centre in the target’s brain
+to fire uncontrollably, resulting in them becoming
+incapacitated as paroxysms of pleasure wrack their
+bodies. Despite being a non-lethal weapon, the
+kaath pistol is outlawed on many worlds outside
+the Za’tachk Alignment due to the addictive effects
+repeated use can cause.
+
+Kaath Rifle
+
+KAATH RIFLE
+
+The kaath rifle first appears at TL9 and has the same
+effects as a kaath pistol except for a greater range.
+At TL11, the kaath rifle is more effective and has a
+longer range. At TL12, the range is increased, as is
+the energy efficiency.
+
+Pocket Kaath
+
+POCKET KAATH
+
+CSC: Za’tachk
+
+At TL11, a miniaturised version of the kaath appears,
+able to be hidden effectively in the palm. It suffers from
+a short range and its energy cartridge is also smaller,
+reducing the number of shots available, but is as
+effective as the pistol and rifle versions.
+
+116
+
+At TL13, the pocket kaath is now small enough to be
+surgically implanted into the body. It has a slightly
+greater range and its energy efficiency is increased.
+
+Weapon
+
+TL
+
+Range
+
+Damage
+
+Kg
+
+Cost
+
+Magazine
+
+Magazine Cost Traits
+
+Kaath Pistol
+
+10
+
+10
+
+1D
+
+3
+
+Cr650
+
+5
+
+Cr50
+
+Stun
+
+Kaath Pistol
+
+12
+
+15
+
+1D+2
+
+2
+
+Cr850
+
+10
+
+Cr50
+
+Stun
+
+Kaath Rifle
+
+9
+
+20
+
+2D
+
+8
+
+Cr825
+
+10
+
+Cr50
+
+Stun
+
+Kaath Rifle
+
+11
+
+30
+
+2D+2
+
+5
+
+Cr1050
+
+15
+
+Cr50
+
+Stun
+
+Pocket Kaath
+
+11
+
+3
+
+1D-1
+
+0.5
+
+Cr1000
+
+3
+
+Cr75
+
+Stun
+
+Pocket Kaath
+
+13
+
+5
+
+1D
+
+—
+
+Cr1500
+
+8
+
+Cr75
+
+Stun
+
+R
+
+

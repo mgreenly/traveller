@@ -1,0 +1,292 @@
+LIGHT CRUISER
+
+CLASS: FRALTHAKI
+and missile bays, laser and sand turrets, they can
+give as good as they get. Capable of 3G of thrust
+and jump-3, they are swift as well as dangerous.
+
+The Fralthaki-class is probably the most traditionallooking large ship in the Tezcat navy. Built on a
+20,000-ton frame, they are roughly a flattened
+cone-shape which flares slightly at the stern. Despite
+being designated a light cruiser, the Fralthaki is
+equipped with significant armour, allowing them to
+withstand some punishment. Armed with a particle
+beam meson spinal mount, multiple particle, torpedo
+
+TL12
+
+The Fralthaki is a much sought after berth for
+Tezcat spacers. Their proven combat performance
+and impressive lines make them a source of great
+pride for those who serve upon them.
+
+Tons
+
+Cost (MCr)
+
+20,000 tons, Standard
+
+—
+
+1000
+
+Reinforced Hull
+
+—
+
+500
+
+Armour
+
+Titanium Steel, Armour: 9
+
+4,500
+
+225
+
+M-Drive
+
+Thrust 3
+
+600
+
+1200
+
+J-Drive
+
+Jump 3
+
+1,505
+
+2257.5
+
+Power Plant
+
+Fusion (TL12), Power 18,615
+
+1,241
+
+1241
+
+Fuel Tanks
+
+J-4, 8 weeks operation
+
+6,250
+
+—
+
+60
+
+100
+
+Hull
+
+Bridge
+
+Crew
+Captain, Pilots x3,
+Small Craft Pilots x3,
+Astrogator, Engineers
+x64, Maintenance
+x27, Gunners x148,
+Administrators x14,
+Medics x3, Officers
+x25, Shaper Priest
+
+Hull: 8,800
+
+Computer
+
+Core/70fib
+
+1
+
+—
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Distributed Array
+
+6
+
+8.6
+
+Running Costs
+
+Particle Spinal Mount
+
+3,500
+
+1000
+
+MAINTENANCE COST
+
+Medium Particle Beam Bays x4
+
+400
+
+160
+
+Cr1061936/month
+
+Medium Torpedo Bays x4
+
+400
+
+24
+
+PURCHASE COST
+
+Particle Barbettes x10
+
+50
+
+80
+
+MCr12743.23
+
+Triple Turrets (beam lasers) x50
+
+50
+
+125
+
+Triple Turrets (sandcasters) x25
+
+25
+
+43.75
+
+33.334
+
+—
+
+Basic Ship Systems
+
+Sand Canister Storage (400
+canisters)
+
+20
+
+—
+
+4,000
+
+Screens
+
+Nuclear Dampers x10
+
+100
+
+100
+
+Craft
+
+Docking Space (100 tons)
+
+110
+
+27.5
+
+Rashkaaht Boarding Skiffs x2
+
+—
+
+58.3
+
+Docking Space (20 tons)
+
+22
+
+5.5
+
+Gshahk Gig
+
+—
+
+6.83
+
+Armoury
+
+19
+
+4.75
+
+Briefing Room x2
+
+8
+
+Weapons
+
+1
+
+8
+
+0.5
+
+2,045
+
+Brig
+Fuel Processor (6,240 tons/day)
+
+312
+
+15.6
+
+Fuel Scoops
+
+—
+
+1
+
+Medical Bay
+
+12
+
+6
+
+Shaper Shrine
+
+23
+
+1.534
+
+Standard x137
+
+548
+
+68.5
+
+Weapons
+
+Ammunition Torpedo Storage (100 torpedoes)
+
+Systems
+
+Staterooms
+
+Power Requirements
+Manoeuvre Drive
+6,000
+Jump Drive
+6,000
+Sensors
+12
+
+Screens
+200
+Fuel Processor
+312
+Medical Bays
+3
+
+251
+
+

@@ -1,0 +1,107 @@
+Events
+
+2D
+2
+3
+4
+
+5
+6
+7
+8
+9
+
+10
+11
+
+Mishaps
+
+12
+
+1D
+1
+2
+3
+
+6
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury Table and take the lower result
+Your unit’s drones are demolished in a disastrous battle, for which you blame your commanding
+officer. Gain them as an Enemy as they have you removed from the service.
+You were ordered to participate in a black ops mission that goes against your conscience. You
+refused and were ejected from the service.
+You quarrel with a superior officer. Gain the officer as a Rival as they drive you out of the service.
+You accidentally destroy a fellow soldier’s drone in a friendly fire situation. Roll Advocate 8+. If you
+succeed you are not charged but forced out of the service. If you fail, you are charged and forced
+from the service. If you roll a 2, you must take the Prisoner career for your next term. Regardless of
+the result, gain the fellow as an enemy.
+You are wounded in the line of duty. Roll on the Injury table.
+
+Ranks and BONUSES (CONT.)
+RANK
+1
+2
+3
+
+OFFICER
+Sper
+Goc
+Van Goc
+
+SKILL OR BONUS
+Leadership 1
+—
+Tactics (military) 1
+
+RANK
+4
+5
+6
+
+OFFICER
+Disa
+Tarn
+Xok
+
+SKILL OR BONUS
+—
+BOL +1
+SOC 10 or SOC +1, whichever is higher
+
+1
+
+Za’tachk Travellers
+
+4
+5
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+You garrison on a major military base with access to a wide range of recreational facilities. Gain one
+of Carouse, Gambling, Streetwise or Survival.
+You are stationed at a boring billet and take up gambling to pass the time. Roll BOL 8+. If you
+succeed, gain D3 additional Benefit rolls this term. If you fail, lose your Benefit for this term. In either
+case, gain one level in Gambler.
+Your drone is caught between two fighting units. If you stand your ground and fight your way out,
+make an Electronics (remote ops) roll 8+. If you succeed, Gain one of Drive (any), Electronics (any)
+or Flyer (any). If you fail, lose your Benefit for this term.
+Your commanding officer selects you for advanced training. Roll BOL 8+ to gain one of Admin 1,
+Advocate 1, Electronics 1, Engineer 1 or Mechanic 1.
+Life Event. Roll on the Life Event table.
+You lead a surgical strike of great importance and your judgement is commended. Gain one of
+Leadership, Tactics (military) or take DM+4 on your next advancement roll.
+You discover your superior officer is involved in criminal activities. If you cover for them, gain them as
+an Ally. If you wish to turn them in, roll BOL 8+. If you succeed you are commended for your actions
+and are automatically advanced or gain a commission. If you fail, you cannot roll for advancement or
+commission this term. In either case, you gain the officer as an Enemy.
+You spend time acting as your commanding officer’s executive assistant. Roll EDU 6+ to gain Admin 1.
+You are challenged to a test of skill by a rival. If you refuse, lose SOC -1. Accept and roll your highest skill
+8+. If you fail, lose all benefits from this term. If you succeed, gain DM+2 to your next advancement roll.
+You come up with an innovative tactic during an exercise which proves to be exceptionally effective.
+You are either promoted or automatically commissioned to officer rank.
+
+109
+
+

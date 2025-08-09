@@ -1,0 +1,121 @@
+4
+
+NOBLE
+
+The Noble caste lead the key endeavours
+of the K’kree, whether those be military,
+spacegoing, economic, scientific or
+technical. Some noble K’kree conduct
+diplomacy on behalf of their people –
+internally and with outsiders – whilst the
+greatest of all lead the K’kree as a whole.
+Noble K’kree families may specialise
+in mercantile, spacegoing, scientific,
+technical, diplomatic or military areas
+(choosing to use only one of the Warrior,
+Mercantile/Economic, Technical/Scientific
+or Naval skill tables) but they are leaders in
+their field, not doers. Nobles may also be
+generalist leaders (choosing from any skill
+tables of this career) who rely on others to
+handle the details whilst they deal with the
+big picture.
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+
+CASH
+Cr25000
+Cr50000
+Cr100000
+Cr200000
+
+5
+6
+7
+
+Cr500000
+MCr1
+MCr5
+
+BENEFITS
+Ship Share
+D3 Ship Shares
+1D Ship Shares
+Gain one level in Advocate, Broker,
+Science or Profession
+EDU+1
+INT+1
+SOC+1
+
+Qualification: SOC 11+
+
+ASSIGNMENTS
+Entry: Automatic
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+SOC +1
+INT +1
+EDU +1
+Patriarchy
+Profession (K’kree ritual)
+K’kree Life Event
+MERCANTILE/ECONOMIC
+Profession
+Patriarchy
+Advocate
+Broker
+Persuade
+Broker
+
+K’KREE SKILLS
+Patriarchy
+Profession
+Melee or Gun Combat
+Admin or Steward
+Carouse
+Athletics (endurance)
+TECHNICAL/SCIENTIFIC
+Science
+Patriarchy
+Engineer
+Science
+Electronics
+Medic
+
+WARRIOR
+Melee or Gun Combat
+Tactics
+Patriarchy
+Carouse
+END +1
+Vacc Suit
+NAVAL
+Pilot
+Astrogator
+Engineer
+Gunner
+Gun Combat
+Vacc Suit
+
+

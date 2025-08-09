@@ -1,0 +1,60 @@
+Examples of information available with Interrogate:
+•
+•
+•
+•
+•
+•
+•
+
+Effect 0: Who made the machine, when and where.
+Effect 1: Amount of power available in batteries.
+Effect 1: State of repair/damage.
+Effect 2: Access to stored data.
+Effect 2: Specific functions.
+Effect 3: Specific hidden instructions or
+programming.
+Effect 4: Hidden functions.
+
+Check: Average (8+) Zhodani check (1D minutes, PSI)
+Reach: Close
+PSI Cost: 2
+
+Mimic
+
+A psion with this ability has a mental shield, much like
+any skilled telepath. However, other psions attempting
+to probe or use other psionic abilities against the mimic
+must make opposed PSI checks to succeed. If this
+check is failed, a telepath perceives an unshielded
+mind having a personality fabricated by the mimic.
+Clairvoyants will see and/or hear images appropriate
+to the mimic’s fabricated personality, instead of the
+mimic’s true personality.
+
+Psychic Transfer
+
+The psion may transfer some or all of his PSI to another.
+This PSI is recovered normally.
+Psychic Transfer, Psionic Strength, 1–6 seconds,
+Average (+0).
+Costs: 1+Range (Telepathy), +1 per Psionic Strength
+point being transferred.
+Check: Routine (6+) Zhodani check (1D seconds, PSI)
+Reach: Medium
+PSI Cost: Amount of PSI transferred +1
+
+Teleprojection
+
+The psion can perform any Teleportation abilities but
+only on others and then only if the target is not wearing,
+or within, a psionic shield. The teleported individual
+suffers the effects of relative motion or altitude as
+detailed on page 202 of the Traveller Core Rulebook.
+Check: As ability
+Reach: As ability
+PSI Cost: As ability +2
+
+277
+
+

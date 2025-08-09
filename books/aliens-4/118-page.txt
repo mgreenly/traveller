@@ -1,0 +1,113 @@
+VEHICLES OF THE ZA'TACHK
+ANTHA RECON DRONE
+The Antha Recon Drone is most often used as a
+surveillance device. With its stealth technology and
+long-range sensors, the drone can observe an area
+from some distance without being spotted. The
+drone is equipped with two hardpoints but is rarely
+armed. The Za’tachk armed forces are not above
+using Antha drones armed with razor missiles as a
+tool for assassination.
+
+—
+
+Equipment
+
+Actuator controls, Autopilot
+(advanced), Communications
+System (advanced, encrypted,
+meson communicator, satellite
+uplink), Control Interface (advanced),
+Control System (advanced), Drone,
+Navigation System (advanced),
+Sensors (advanced, hardened,
+increased range), Stealth
+
+Weapons
+
+Hardpoint (1 space) x2
+
+TL
+
+14
+
+SKILL
+
+Electronics (remote ops)
+
+Equipment
+
+AGILITY
+
++5
+
+Autopilot (skill level)
+
++3
+
+SPEED (CRUISE)
+
+Very Fast (fast)
+
+Communications (range)
+
+1,000km
+
+Navigation (Navigation DM)
+
++4
+
+Sensors (Electronics (sensors) DM)
+
++2
+
+Camouflage (Recon DM)
+
+—
+-4
+
+RANGE (CRUISE) 5,000 (7,500)
+
+118
+
+Traits
+
+CREW
+
+—
+
+PASSENGERS
+
+—
+
+CARGO
+
+0.25 tons
+
+Stealth (Electronics (sensors) DM)
+
+HULL
+
+16
+
+SHIPPING
+
+ARMOUR
+
+4 tons
+
+FRONT 4
+
+COST
+
+Cr921200
+
+REAR
+
+4
+
+SIDES
+
+4
+
+

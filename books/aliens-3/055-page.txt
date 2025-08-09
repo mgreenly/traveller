@@ -1,0 +1,215 @@
+T
+
+9
+
+R
+
+Special Arm
+
+Qualification: INT 9+, PSI 9+ for psion assignment
+DM-1 for every previous career
+
+ASSIGNMENTS
+
+Skills and training
+
+Choose one of the following:
+Commando: You are an elite soldier of the Confederation, equipped
+with technology well beyond that of the Zhodani or Imperium. Your task is
+to protect the Confederation and prevent restricted knowledge or devices
+from falling into enemy hands. You are the watchers of the watchmen.
+Psion: You are a specially trained counter espionage agent skilled
+in locating Zhodani spies and interrogating those who would cause
+harm to the Confederation.
+Scientist: You are a cutting-edge researcher of the Confederation, head
+hunted for your innovative concepts and genius abilities. You study preMaghiz artefacts and extract secrets for replication and development.
+
+Darrian Travellers
+56
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Career progress
+
+Members of the mysterious third branch of the Darrian military, charged
+with defending the Confederation with the most terrifying weapon of
+mass destruction known in Charted Space – the Star Trigger.
+
+9
+
+A
+
+Commando
+Psion
+Scientist
+
+SURVIVAL
+DEX 8+
+INT 7+
+INT 6+
+
+ADVANCEMENT
+INT 6+
+PSI 7+
+EDU 8+
+
+Mustering out benefits
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr5000
+Cr5000
+Cr10000
+Cr20000
+Cr50000
+Cr50000
+
+BENEFITS
+Contact
+INT +1
+EDU +1
+Weapon
+Armour
+Vehicle
+5 Ship Shares
+
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+INT +1
+EDU +1
+Jack-of-all-Trades
+
+SERVICE SKILLS
+Deception
+Gun Combat
+Investigate
+Melee
+Recon
+Stealth
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Astrogation
+Electronics (computers)
+Electronics (comms)
+Engineer
+Pilot
+Electronics (sensors)
+
+1D
+1
+2
+3
+4
+
+COMMANDO
+Athletics
+Vacc Suit
+Heavy Weapons (man portable)
+Streetwise
+
+SCIENTIST
+Electronics (computers)
+Engineer
+Engineer
+Science
+
+5
+6
+
+Survival
+Tactics (military)
+
+PSION
+Clairvoyance
+Persuade
+Streetwise
+Science (archaeology,
+economics, history,
+linguistics, philosophy,
+psychology or sophontology)
+Telepathy
+Telepathy
+
+Science
+Electronics (sensors)
+
+Ranks and Bonuses
+RANK COMMANDO/ PSION
+0
+Sub-Lieutenant
+1
+Lieutenant
+2
+Captain
+3
+Major
+4
+Lieutenant Colonel
+5
+Colonel
+6
+Major
+
+SKILL OR BONUS
+Melee (blade) 1
+—
+Leadership 1
+—
+—
+Tactics (military) 1
+—
+
+RANK SCIENTIST
+0
+Assistant
+1
+Researcher
+2
+Analyst
+3
+—
+4
+Specialist
+5
+—
+6
+Faculty Head
+
+SKILL OR BONUS
+—
+Jack-of-all-Trades 1
+Admin 1
+—
+—
+SOC +1
+—
+
+R
+
+

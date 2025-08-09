@@ -1,0 +1,71 @@
+A03/75674
+
+CLAW PORT
+
+A claw port allows an Aslan to use his dewclaws in combat while
+wearing armour. Basic claw ports are flexible orifices that are
+hooked onto the muscles at the base of the claw. When the Aslan
+unsheathes his claw, the movement pulls the claw port open. More
+advanced claw ports, designed for use in hostile environments,
+allow the claw to be extruded without damaging the suit. Aslan
+planning to use their claws in such environments should invest in
+Claw Coating (see page 58). A claw port must be of at least the
+same TL as the armour it is fitted to.
+
+Modification
+Claw Port
+Claw Port
+
+A11/58231
+
+TL
+5
+8
+
+Kg
+—
+—
+
+Cost
+Cr75
+Cr500
+
+COMMAND SUITE
+
+This upgrade adds a specialised computer weave and
+communications system to any armour. This computer runs
+Intellect/1 and Expert (Electronics – comms) 2, handling
+unit co-ordination and control, allowing a male to command
+his troops using modern telepresence and communications
+without having to deal with technical issues.
+Modification
+Command Suite
+
+A11/58231
+
+TL
+12
+
+Kg
+—
+
+Cost
+Cr12500
+
+ORNAMENTATION
+
+Even basic items are decorated by Aslan craftsmen but a fine
+suit of armour deserves much more.
+Modification
+Ornamentation
+
+54
+
+TL Kg
+2
+—
+
+Cost
+SOC x Cr100
+
+

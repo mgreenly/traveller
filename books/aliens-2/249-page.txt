@@ -1,0 +1,38 @@
+7
+DECK 3
+
+13
+
+17
+
+21
+
+18 9
+
+1
+
+2
+
+19
+20
+
+15
+
+13
+
+14
+16
+
+LEGEND
+14. Power plant
+15. M-drive
+16. J-drive
+17. Repair drones
+18. Workshop
+19. Armouries
+20. Nuclear Damper
+21. Airlocks
+
+249
+
+

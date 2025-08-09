@@ -1,0 +1,72 @@
+LLYRNIANS
+The Llyrian are a Minor Race native to the subterranean
+environment of a cold satellite orbiting a gas giant in
+the Shokee subsector. They play an important role
+throughout Massilia. Their homeworld, Llyrn, is a
+member of the Duchy of Shiwonee. By tradition, the
+Llynians serve as security troops on many Geonee
+ships and in return, the Geonee do much of the work of
+maintaining a high technology civilisation on Llyrn.
+Llyrnians are tunnel dwellers. Their cylindrical bodies are
+trilaterally symmetrical, with three locomotive limbs on
+the bottom and three manipulative limbs spreading from
+the top. The arms contain hearing organs, which are the
+Llyrnians’ primary sense. They are able to sense both
+vibrations in rock and the faintest sounds transmitted
+through thin atmosphere. Three mouths open under the
+arms that are used for nutrient consumption. The body
+is covered with a tough external coat of organic silicates
+and the arms end in tough claws, with three vibratory
+membranes positioned on the upper body permitting
+a limited sonar capability. The body ends in a structure
+that contains three breathing orifices, which also act as
+olfactory senses, and a visual band which encircles the
+entire structure. Llyrnian vision centres on the infrared
+portion of the spectrum.
+
+Claws: Llyrnians have three arms, which end
+with heavily clawed three-digit hands. When used
+offensively, Lyrian claws deal 3D damage. Furthermore,
+unless a device is specifically designed for Llyrians,
+they suffer a DM-2 for any checks related to using it.
+Echolocation (25m): Llyrnians rudimentary echolocation
+sense permits them to navigate their environment,
+effectively allowing them to ‘see’ in complete darkness or
+through soil to a range of 25 metres.
+Enhanced Senses: Llyrnian hearing is acute and
+they are able to detect vibrations. Llyrians gain
+DM+2 when making Recon checks to hear or sense
+vibrations. Llyrnian vision is based on the infrared
+spectrum, allowing them to see objects by the heat
+emitted. Their optical organs gives 360o vision,
+making any attempt to sneak up on them suffer DM-4.
+
+Lyrnians are trisexual, with Delver, Feeder and Warrior
+genders. Delvers build and maintain tunnels, Warriors
+defend the community and Feeders bear and care for
+offspring. Adult Llyrnians vary in size by gender but
+most Delvers and Warriors are approximately 1.67
+metres long and weigh about 63.5 kilograms.
+
+CREATING LLYRNIAN TRAVELLERS
+
+Llyrnian Travellers have the following modifiers
+applied to their characteristics: END+2, INT-2, EDU-2
+
+Armour: Llyrnian all possess a strong outer
+carapace made of organic silicates. This gives all
+Llyrnians natural Protection +6.
+Burrowing: Llyrnian are able to burrow through earth
+and rock by rapidly vibrating their arms and claws.
+Llyrnians may burrow through earth at a speed of three
+metres and through stone at a speed of one metre.
+They are unable to burrow through metal ores.
+
+Geonee History
+
+Traits
+Llyrnian Travellers all possess the following traits.
+
+113
+
+

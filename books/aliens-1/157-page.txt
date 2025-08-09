@@ -1,0 +1,205 @@
+Operations Packages
+Crew
+Package
+Replaced
+Basic Standard
+5
+Operations
+Improved
+5
+Standard
+Operations
+Advanced
+5
+Standard
+Operations
+Basic Full
+10
+Operations
+Improved Full
+10
+Operations
+Advanced Full
+10
+Operations
+Military
+5
+Operations
+Package
+Improved Military 10
+Operations
+Package
+Advanced
+20
+Military
+Operations
+Package
+Optimised
+Military
+Operations
+Package (fighter)
+Optimised
+Military
+Operations
+Package (escort)
+Optimised
+Military
+Operations
+Package (recon)
+Optimised
+Military
+Operations
+Package (assault)
+
+% of
+Hull
+0.5
+
+DM
+–1
+
+TL
+9
+
+Cost
+MCr1.5
+
+Bandwidth
+2
+
+0.5
+
+0
+
+11
+
+MCr6
+
+4
+
+0.5
+
++1
+
+13
+
+MCr12
+
+6
+
+1
+
+0
+
+10
+
+MCr3
+
+1
+
++1
+
+12
+
+MCr8
+
+1
+
++2
+
+14
+
+MCr14
+
+2
+
+–1
+
+11
+
+MCr10
+
+8+1 per 3 additional The minimum acceptable for
+crewmembers
+a Noble’s personal shuttle
+8+1 per 3 additional
+crewmembers
+8+1 per 3 additional
+crewmembers
+10
+
+2
+
+0
+
+13
+
+MCr16
+
+15
+
+2
+
++1
+
+15
+
+MCr24
+
+20
+
++1
+
+12
+
+MCr+6
+
++5
+
+DM+2 on Pilot and Gunner
+checks at Short range or less
+
++1
+
+13
+
+MCr+8
+
++5
+
+DM+2 on Electronic Warfare
+and Point-Defence checks
+
++1
+
+13
+
+MCr+10
+
++5
+
+DM+2 on Sensor and
+Electronic Warfare checks
+
++1
+
+12
+
+MCr+6
+
++5
+
+DM+2 on Pilot checks
+
+Notes
+
+DMs for all packages apply to remote operations as well as autonomous control.
+
+Remote Operations Station
+
+A remote operations station is essentially a miniature bridge designed to control a single robotic craft. A remote
+operations station costs MCr4 and consumes 2 tons and 1 Power.
+
+157
+
+

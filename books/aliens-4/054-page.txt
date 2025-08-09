@@ -1,0 +1,130 @@
+ENTRAL SUPPLY
+
+C CATALOGUE: SUERRAT
+Suerrat goods can be obtained all over the Third
+Imperium but are most commonly and easily found
+in Ilelish and the surrounding subsectors where they
+cost the amounts shown in the catalogue. Suerrat
+goods become harder to find the further one looks
+beyond the subsectors immediately surrounding
+Ilelish, with a commensurate increase in expense.
+The price will often double or even triple for each full
+sector away the Traveller is from Ilelish.
+
+AUGMENTS
+Suerrat are well known for their advanced genetic
+engineering capabilities and they have used their skill
+in producing many biological augments. Biological
+augments are often living creatures which require
+sustenance and care. If neglected they can become
+ill, reducing their effectiveness or even die. As these
+are biological, they are not affected by electromagnetic
+attacks or detected by electronic means.
+
+ANTIBODY SYMBIONT
+
+A microscopic organism, the antibody symbiont
+is introduced into the host’s bloodstream where it
+migrates to the lymph nodes to hibernate until needed.
+When the host is exposed to disease or infection, the
+symbiont activates and produces its own dendritic
+cells, B cells and macrophages to aid the host’s body in
+combatting the invader. The host receives DM+1 to any
+checks made to resist the disease or infection. Antibody
+symbionts continue to reproduce in the host’s body but
+die if transplanted into another person.
+At TL12, the symbiont provides DM+2 and at
+TL14 DM+3.
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Antibody Symbiont
+
+11
+
+—
+
+Cr20000
+
+Antibody Symbiont
+
+12
+
+—
+
+Cr30000
+
+Antibody Symbiont
+
+14
+
+—
+
+Cr45000
+
+AIR FILTER SYMBIONT
+An organism which is only one centimetre thick but
+large enough to coat the inside of the mouth, nasal
+cavities and down into the trachea. It creates a
+biological filter to remove atmospheric taints found in
+Atmospheres 4, 7 and 9 before they affect its host. Air
+filter symbionts have a lifespan of 20 years and must
+be engineered for a specific taint.
+
+Air Filter
+Symbiont
+
+Only one air filter symbiont can be used at a time.
+Introducing a new symbiont will automatically result
+in the old one being killed as the new one takes
+its place. At TL10, the symbiont can remove one
+specific type of taint.
+At TL12, it can remove three specific taints and at TL15
+is able to remove five specific taints. The downside of
+this symbiont is its host suffers a penalty of DM-1 to
+any skill roll requiring the use of smell or taste.
+
+54
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Air Filter Symbiont
+
+10
+
+—
+
+Cr500
+
+Air Filter Symbiont
+
+12
+
+—
+
+Cr1500
+
+Air Filter Symbiont
+
+15
+
+—
+
+Cr3000
+
+Antibody
+Symbiont
+
+

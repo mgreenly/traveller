@@ -1,0 +1,112 @@
+Events
+
+2D
+2
+3
+4
+5
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain any skill.
+
+7
+
+Life Event. Roll on the Life Events table.
+
+8
+
+You spend time in diplomatic circles. Roll Carouse or Persuade 8+ to gain an Ally. If you fail, gain
+a Rival instead.
+You become deeply involved in politics on your world of residence, becoming a player in the
+political intrigues of government. Gain one level of Admin, Advocate, Diplomat or Persuade +1 but
+also gain a Rival.
+Your reign is acclaimed by all as being fair and wise. Gain either a jealous relative or an unhappy
+envoy as an Enemy. In addition, gain DM+2 to your next advancement roll.
+You are approached by a member of the Special Arm who wishes to recruit you for a mission
+that would involve permanently leaving this career. When you refuse without knowing further
+information, the operative vanishes. You utilise your contacts to try and locate the individual but it
+appears they do not exist. Gain Investigate and a healthy suspicion of the Special Arm.
+You excel in your role. You are automatically promoted.
+
+10
+11
+
+12
+
+Mishaps
+
+Your time as an envoy gives you a wide range of experiences. Gain one of Animals (riding) 1, Art
+1, Carouse 1 or Streetwise 1.
+A negotiation goes dreadfully wrong and you are forced to go into hiding for a while. Gain one of
+Deception 1, Stealth 1, Streetwise 1 or Survival 1.
+You inherit a gift from a grateful client. Gain DM+1 to any one Benefit roll.
+
+6
+
+9
+
+1D
+1
+
+MISHAP
+Injured. Roll on the Injury table.
+
+2
+
+A blunder in a negotiation embarrasses you. Lose SOC -1.
+
+3
+
+You fail in a difficult assignment because of the manipulations of another Envoy. Gain them as a Rival.
+
+4
+
+Someone attempts to murder you. Roll Melee or Recon 8+ to avoid the attempt. If you fail, roll on
+the Injury table. If you succeed, you may continue in this career.
+You are dispatched to another world for a long period. By the time you return, your position has been
+taken by a younger and more ambitious envoy. Gain one of Broker 1, Carouse 1 or Diplomat 1.
+A foreign ambassador insults you. Roll Diplomat 8+ to avoid assaulting them. If you succeed, you
+decide it is time to leave this career. If you fail, you lose one Benefit roll and gain the ambassador
+as an Enemy. If you roll a 2, you must take the Wanderer (exile) career in your next term.
+
+5
+6
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ARTIST/AUTHOR/PERFORMER
+Assistant
+Junior Envoy
+Envoy
+Senior Envoy
+Respected Envoy
+Honoured Envoy
+Voice of Taledh
+
+SKILL OR BONUS
+—
+Persuade 1
+—
+Diplomat 1
+—
+Carouse 1
+SOC +1
+
+3
+
+Darrian Travellers
+
+Ranks and bonuses
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+45
+
+

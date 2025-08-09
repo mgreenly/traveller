@@ -1,0 +1,83 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Parawba
+
+Wabwe-ebta-paseb
+WABWE-EBTA-PASEB
+
+The Bwap Homeworld
+
+The wabwe-ebta-paseb is a large predatory
+molluscoid that dwells in the shallow waters found
+around the mangrove-like trees that grow in the
+swamps of Marhaban. The creature is sessile as
+an adult, unable to move once it has grown out of its
+motile juvenile stage.
+
+252
+
+To the casual observer, a wabwe-ebta-paseb
+resembles nothing more than the roots of a rotted
+wabwebaba tree, jutting out of the water. In reality, the
+roots are the camouflaged extension of the wabweebta-paseb's shell, composed of calcium carbonate
+and silicates. The majority of the creature resides
+below the surface of the water with only its open mouth
+exposed but hidden within the root-like structures of
+its shell. The heavily toothed maw is surrounded by a
+dozen eyes. The rest of its body is held secure in the
+mud by deeply entrenched tentacles.
+The wabwe-ebta-paseb is an ambush hunter,
+waiting for prey to enter the confines of its disguised
+shell before snapping shut its jaws and most often
+swallowing prey whole. Once a wabwe-ebta-paseb has
+bitten prey it will not let go, requiring the creature to be
+killed to release its grip. Wabwe-ebta-paseb show no
+fear and will attack anything that stumbles within reach.
+
+Animal
+
+Hits
+
+Speed
+
+Wabwe-ebta-paseb
+
+30
+
+0m
+
+Skills
+
+Athletics (strength) 2,
+Deception 4, Melee (bite) 2
+
+Attacks
+
+Bite (3D)
+
+Traits
+
+Armour (+12), Aquatic,
+Camouflaged, Large (+1)
+
+Behaviour
+
+Carnivore, Trapper
+
+R
+
+

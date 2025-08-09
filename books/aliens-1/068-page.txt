@@ -1,0 +1,125 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+F
+
+I
+
+V
+
+E
+
+HIGH GUARD: ASLAN
+Despite outward appearances, Aslan ships use much
+the same technology as human vessels and either race
+can readily utilise ships belonging to the other with
+a minimum of difficulty. However, Aslan do display a
+slightly different approach towards ships and this is
+reflected in their design.
+Aslan have no special regard for luxury and the Hierate
+does not have separate High Passage tickets. All paid
+passages are Middle, Basic or Low. However, any
+Aslan of SOC 9+ will receive the services of the ship’s
+steward automatically and the Middle Passage baggage
+allowance increases to 500 kilograms. Aslan nobles
+always have precedence and usually bump passengers
+of lesser standing. Working Passage is common within a
+clan but rarely available to non-clan members.
+The following are customs within Aslan space.
+Space is not Territory: No Aslan male may claim a
+region of space. A Traveller need not ask permission to
+enter any region of space – but before he puts a single
+foot on the ground, he must give all traditional honours
+to the landowner.
+Clan Hospitality: There is a strong tradition that ‘the
+clan takes care of its own’. If members of a Traveller’s
+clan live on a particular world, they will offer free
+food and lodging and provide a Middle Passage ticket
+upon a Difficult (10+) Persuade check. Outcasts or
+Travellers who have been Outcasts are not extended
+this hospitality.
+Referees can determine the presence of an Aslan’s
+clan on a world through materials they have previously
+prepared; alternatively, roll 10+ on 2D, modified by the
+Clan Presence table.
+
+Clan Presence
+Condition
+Local Population 9+
+Local Government type H
+Aslan is member of one of the Tlaukhu clans
+Per sector distant from the clan homeworld
+
+DM
++1
++1
++2
+–1
+
+Swapping Stories: Aslan with time on their dewclaws
+enjoy telling stories of their exploits and adventures.
+During the long days of a space journey, the passengers
+(and crew with no immediate jobs to perform) meet in
+the galley or central lounge and take turns telling stories
+of what they have seen, what they have done and what
+they plan to do.
+
+Participants in these story-swapping sessions gain
+acceptance into the group as well as diversion from the
+boredom of a long journey. In addition, the stories told
+are often the source of further adventures or expeditions.
+Decoration: Aslan ships are invariably heavily decorated
+with inscriptions and clan heraldry; even control
+systems can be decorated with gold, jewels or other
+art. Even on military vessels, the Aslan like to decorate
+their surroundings.
+
+CREWS
+
+Aslan crew standards vary since there is no central
+authority to prescribe the number and type of crew
+required. The fundamentals of ship operation mean the
+requirements for pilot, astrogator and engineer are the
+same as for human ships. Pilots are almost always male;
+astrogators and engineers are almost always female.
+Stewards are not required. Most properly staffed ships will
+include at least one because noble males taking passage
+on any ship require the services of one steward per four
+nobles and if no proper steward is provided, another crew
+member will be co-opted for the position. A well-prepared
+ship thus provides a steward in order to avoid losing an
+engineer or astrogator at the wrong moment.
+Medics are not required either; the position of medic is
+filled when the ship’s owner feels it necessary or when
+the crew demands it forcefully enough.
+Because of the nature of Aslan society and upbringing,
+most ships have a male in formal command of the ship
+and a female who deals with many details (specifically
+finances) that are beneath the male’s dignity. The male
+captain is almost always the pilot. On military ships,
+the female is the captain’s executive officer, while on
+commercial ships, she will be the purser. In both cases,
+she may also be the astrogator.
+Purser: A merchant ship engaged in commercial activity,
+trade, commerce, cargo transport, passenger transport
+or charter activity must have a purser. Invariably, the
+purser will be female and must have a minimum of
+either Admin 1 or Broker 1. The purser is paid a salary
+of Cr5000 per month.
+The Aslan Crew Requirements table replaces that on
+page 29 of High Guard.
+
+

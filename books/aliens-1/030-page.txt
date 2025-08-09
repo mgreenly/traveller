@@ -1,0 +1,166 @@
+5
+
+MILITARY OFFICER
+
+The Aslan military officer caste is
+notoriously aggressive, pushing for
+a military solution to every problem.
+The strict rules of conduct limit the
+destructive effects of warfare, so the Aslan
+are more willing to use force to resolve
+disputes. The Assassin path is also part
+of this career. Assassins are highly trained
+Aslan warriors, who fight the shadowy wars
+of assassins.
+Qualification: Rite of Passage 10+
+
+ASSIGNMENTS
+Choose one of the following.
+Leader: You command a host of Aslan warriors.
+Executive Officer: You advise male generals on
+technical and administrative matters.
+Assassin: You are the unseen claw of your clan.
+Gender: Only males can enter Leader or Assassin.
+Only females can enter Executive Officer.
+
+CAREER PROGRESS
+LEADER
+Survival
+END 7+
+Advancement INT 7+
+
+EXECUTIVE OFFICER ASSASSIN
+END 6+
+END 8+
+EDU 8+
+DEX 6+
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+5
+6
+7
+8
+•
+•
+
+CASH
+Cr1000
+Cr5000
+Cr5000
+Cr10000
+Cr20000
+Cr50000
+Cr50000
+Cr50000
+
+BENEFITS
+2 Clan Shares
+INT +1
+EDU +2
+Secret School
+3 Clan Shares or Secret School
+Armour
+SOC +2
+5 Clan Shares
+
+DM+1 if SOC 9+
+DM+1 when rolling on Benefits if Male
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+Independence (if male) or Admin (if female)
+STR +1
+DEX +1
+END +1
+INT +1
+Jack-of-All-Trades
+
+1D
+1
+2
+3
+4
+5
+6
+
+SPECIALIST: LEADER
+Tactics (military)
+Recon
+Melee (natural)
+Heavy Weapons
+Gun Combat
+Electronics
+
+SERVICE SKILLS
+Tactics (military)
+Drive
+Gun Combat
+Melee (natural)
+Leadership
+Tolerance
+SPECIALIST:
+EXECUTIVE OFFICER
+Admin
+Medic
+Electronics
+Electronics
+Advocate
+Navigation
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Navigation
+Electronics
+Melee
+Science
+Engineer
+Diplomat
+SPECIALIST: ASSASSIN
+Melee
+Stealth
+Streetwise
+Recon
+Deception
+Athletics
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+LEADER
+Probationary Lieutenant
+Junior Lieutenant
+Lieutenant
+Captain
+Commandant
+Division General
+General
+
+SKILL OR BENEFIT
+—
+Vacc Suit 1
+—
+Leadership 1
+—
+—
+TER +2
+
+

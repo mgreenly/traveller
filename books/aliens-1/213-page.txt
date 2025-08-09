@@ -1,0 +1,57 @@
+A11/58231
+
+VARGR COMBAT ARMOUR
+
+Vargr combat armour is a complete armour suit primarily
+used by military divisions but obtained with relative ease by
+civilians. This combat armour offers the same functionality as
+the Vargr combat vacc suit but is significantly lighter and has
+greater protection. It comes with the TL12 electronics suite
+detailed on page 19 of the Central Supply Catalogue.
+
+Armour Type
+Protection
+Vargr Combat Armour +15
+
+A11/58231
+
+TL
+12
+
+Rad Kg
+160 10
+
+Cost
+Cr90000
+
+Required Skill
+Vacc Suit 0
+
+VARGR BATTLE DRESS
+
+This military issue powered suit is the ultimate in Vargr combat protection and
+functionality. It works much like human battle dress but provides more protection at
+the expense of the enhancements it grants to the wearer – this battle suit provides
+impressive protection but fewer enhancements for its wearer. It comes with the
+electronics suite detailed on page 30 of the Central Supply Catalogue.
+Armour Type Protection TL Rad
+Vargr Battle +23
+13 250
+Dress
++27
+14 300
+
+STR DEX
++3 +3
++4 +4
+
+Slots Kg Cost
+Required Skill
+14
+110 Cr220000 Vacc Suit 2
+16
+140 Cr250000 Vacc Suit 1
+
+213
+
+

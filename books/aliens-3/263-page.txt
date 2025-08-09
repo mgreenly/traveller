@@ -1,0 +1,193 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+OFF-ROADER FREIGHT CARRIAGE
+
+FASTAS-EWAWAB
+OFF-ROADER ENGINE
+
+The huge Bwap designed off-roader engine has
+a reputation for reliable performance, able to tow
+significant loads and handle rough terrain. Off-road
+engines do not use tracks like ordinary trains and
+therefore have greater versatility. They have found a
+use on new colonies as well as established worlds and
+are able to be modified for almost any environment and
+circumstance, having enough space within to install
+airlocks, life support systems and even weapons.
+
+The off-roader freight carriage is intended to
+transport bulk cargo. It is unable to operate as an
+individual vehicle, as it has no engine or control
+system except what is needed for stability and relies
+solely on the off-roader engine.
+TL
+
+9
+
+SKILL
+
+Drive (wheel)
+
+AGILITY
+
++0
+
+SPEED (CRUISE)
+
+—
+
+RANGE (CRUISE) —
+CREW
+
+—
+
+Off-roader engines are able to pull seven carriages in
+total. Carriages can be outfitted for a variety of tasks
+from cargo hauling to passenger transport, mobile
+laboratories to mobile living quarters.
+
+PASSENGERS
+
+—
+
+CARGO
+
+27.5 tons
+
+HULL
+
+240
+
+SHIPPING
+
+60
+
+Equipment
+Autopilot (skill level)
+
+COST
+
+Cr722000
+
+0
+
+Communications (range)
+
+5,000km
+
+Navigation (Navigation DM)
+
++2
+
+Sensors (Electronics (sensors) DM)
+
++1
+
+Camouflage (Recon DM)
+
+—
+
+ARMOUR
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+FRONT 10
+
+Traits
+Off-roader
+Equipment Control System (improved), Smart
+Wheels
+
+REAR
+
+10
+
+SIDES
+
+10
+
+Vehicles of the Bwaps
+
+Traits
+Off-roader
+Equipment Autopilot (basic), Communications
+(encrypted, increased range, satellite
+link), Control System (improved),
+Fresher, Fusion Plant (basic), Minigalley, Sensor System (improved),
+Smart Wheels, Staterooms x3
+
+264
+
+ARMOUR
+FRONT 11
+
+REAR
+
+11
+
+SIDES
+
+TL
+
+9
+
+SKILL
+
+Drive (wheel)
+
+AGILITY
+
++0
+
+SPEED (CRUISE)
+
+Medium (Medium)
+
+11
+
+RANGE (CRUISE) 50 years
+CREW
+
+2
+
+PASSENGERS
+
+1
+
+CARGO
+
+—
+
+HULL
+
+200
+
+SHIPPING
+
+60
+
+COST
+
+Cr982200
+
+Off-Roader Engine
+
+R
+
+

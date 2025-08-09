@@ -1,0 +1,183 @@
+BOARDING POD
+
+SMALL CRAFT
+or Llrynians in full battle dress. While capable of
+operating for four weeks with a full tank of fuel,
+boarding pods are rarely used for more than several
+hours at a time. They are launched at enemy
+vessels during boarding actions, land on the target
+vessel and secured with forced linkage apparatus.
+The breaching tube creates an entry through the
+hull, providing access for the boarding party.
+
+Boarding pods are a popular feature on Geonee
+military ships. They consist of a small hull with
+powerful manoeuvre drives to deliver a payload of
+up to 12 marines as quickly as possible. Neither
+armed nor armoured, Imperial marines have taken
+to calling boarding pods ‘fish barrels’, in reference to
+a Solomani saying regarding easy targets. Outfitted
+with acceleration couches, seating can be folded
+away to provide enough room to carry 10 Geonee
+
+TL15
+
+TONS COST (MCr)
+
+Crew
+
+Hull
+
+15 tons, Standard
+
+—
+
+0.75
+
+Pilot
+
+M-Drive
+
+Thrust 9
+
+1.35
+
+2.7
+
+Power Plant
+
+Fusion (TL15), Power 20
+
+1
+
+2
+
+Hull: 6
+
+Fuel Tanks
+
+4 weeks operation
+
+1
+
+—
+
+Bridge
+
+Cockpit
+
+1.5
+
+0.01
+
+Computer
+
+Computer 25/fib
+
+—
+
+15
+
+Sensors
+
+Military
+
+2
+
+4.1
+
+Cr2331.75/month
+
+Systems
+
+Breaching Tube
+
+3
+
+3
+
+PURCHASE COST
+
+Forced Linkage Apparatus
+(TL15)
+
+2
+
+0.5
+
+MCr27.981
+
+Staterooms
+
+Acceleration Benches x3
+
+3
+
+0.03
+
+Power Requirements
+
+Software
+
+Evade/3
+
+—
+
+3
+
+Basic Ship Systems
+
+Manoeuvre/0
+
+—
+
+—
+
+3
+
+Library
+
+—
+
+—
+
+Manoeuvre Drive
+
+Intellect
+
+—
+
+—
+
+13.5
+
+0.15
+
+—
+
+Sensors
+
+Cargo
+
+Running Costs
+MAINTENANCE COST
+
+2
+
+1
+
+1
+2
+
+3
+4
+5
+
+1. Forced Linkage Apparatus
+2. Breaching Tube
+3. Acceleration Benches
+4. Cargo Bay
+5. Cockpit
+141
+
+

@@ -1,0 +1,138 @@
+RANKS AND BONUSES CONT...
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+EXECUTIVE OFFICER
+SKILL OR BENEFIT
+Probationary
+—
+Lieutenant
+Junior Lieutenant
+Electronics 1
+Lieutenant
+—
+Captain
+Admin 1
+Executive
+—
+Division Chief of Staff —
+Chief of Staff
+2 Clan Shares
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ASSASSIN
+—
+Hunter
+—
+—
+Veteran Hunter
+—
+Claw of the Clan
+
+SKILL OR BENEFIT
+—
+Stealth 1
+—
+Melee (natural) 1
+—
+—
+2 Clan Shares
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured. Roll twice on the Injury table and take the lower result.
+
+2
+
+A failing on your part causes a catastrophic loss for your clan. You are Outcast, and drop to SOC 2.
+
+3
+
+A shift in clan politics ruins your career. Lose SOC-2.
+
+4
+
+You are defeated in battle. Gain the foe who defeated you as a Rival.
+
+5
+
+You are captured by a rival clan and ransomed back but the disgrace ends your career. Gain a Contact in the
+rival clan.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+You fight a brutal ground war. Gain Stealth, Heavy Weapons, Vacc Suit or Drive.
+
+4
+
+You must discipline a disobedient junior officer. Roll Persuade or Melee (natural) 8+. If you succeed, gain him
+as an Ally. If you fail, lose SOC-1 and he becomes a Rival.
+
+5
+
+You garrison one of the richest Aslan worlds. Gain one of Carouse, Streetwise, Independence or Survival.
+
+6
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain any skill.
+
+7
+
+Life Event. Roll on the Aslan Life Events table.
+
+8
+
+You have the opportunity to establish a landhold in your name. Gain TER +2.
+
+9
+
+After a battle, you capture an enemy commander. You may ransom him back, and gain TER +2, or free him and
+gain him as a trusted Ally.
+
+10
+
+You are challenged to a duel by a rival. If you refuse, you lose 1D SOC. Accept and roll Melee 8+. If you fail,
+you lose all Benefits from this term. Succeed, and gain DM+2 to your next advancement roll.
+
+11
+
+Your deeds are legend among the cubs of your clan. Either gain Tactics (military), or DM+4 to your next
+advancement roll.
+
+12
+
+Your efforts strike a great blow for your clan. You are automatically promoted.
+
+

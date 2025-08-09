@@ -1,0 +1,157 @@
+PERSONAL AUGMENTATION
+Dolphins generally do not favour personal
+augmentation unless required to overcome a handicap.
+Even so, some augmentations have been created that
+assist Dolphins in their careers – such as waldos – and
+they tend to look upon those devices more favourably.
+
+Prosthetic Flukes: Artificial flukes replace those lost
+to accident or birth defect. This augmentation is not
+affected by electromagnetic pulse attack.
+Item
+
+TL
+
+Cost
+
+Prosthetic Fluke
+
+7
+
+Cr250
+
+Deep Dive Augmentation: Dolphins who have
+undergone this procedure have had their airways
+reinforced, lungs modified to collapse to prevent
+rupture, air cavities lined with additional blood vessels,
+which expand under pressure and obliterate airspace,
+and nanites added which store additional oxygen. With
+this extensive modification, a Dolphin is able to dive up
+to 1,000 metres and able to hold its breath for an hour.
+Item
+
+TL
+
+Cost
+
+Deep Dive Augmentation
+
+12
+
+Cr500000
+
+Oxygen Reserve: An oxygen reserve is an implant
+which diverts some of the oxygen a Dolphin breathes
+into an internal tank, allowing them to dive for 30 minutes
+longer. At TL12, the modification no longer uses a tank
+but introduces the use of oxygen storing nanites and
+allows them to dive for up to an hour longer.
+Item
+
+TL
+
+Cost
+
+Oxygen Reserve
+
+10
+
+Cr10000
+
+Oxygen Reserve
+
+12
+
+Cr25000
+Sonar Enhancement: This modification reinforces the
+larynx, airways and melon, allowing the Dolphin to emit
+powerful ultrasonic clicks, doubling the range of its sonar.
+
+At TL12 this prosthetic inflicts DM-2 to all checks
+involving their use. At TL13 this prosthetic inflicts a
+DM-1 to all checks involving their use and increasing
+STR +2. At TL15 there is no penalty involved in their
+use and STR is increased by +4.
+
+Swift Fluke Augmentation: This modification
+reinforces the spine, musculature and nervous
+system in a Dolphin’s tail, increasing swimming speed
+significantly. The augmentation adds three metres to a
+Dolphin’s speed and increases sprinting to 90 + twice
+their Effect of an Athletics (dexterity) check in metres.
+
+This augmentation is not affected by electromagnetic
+pulse attacks.
+
+Item
+
+TL
+
+Cost
+
+Sonar Enhancement
+
+9
+
+Cr500
+
+At TL12, this augment is made from superior materials
+designed to maximise efficiency. This augment adds six
+metres to a Dolphin’s speed and increases sprinting to
+108 + twice their Effect of an Athletics (dexterity) check
+
+Item
+
+TL
+
+Cost
+
+Prosthetic Arms
+
+12
+
+Cr300000
+
+Prosthetic Arms
+
+13
+
+Cr285000
+
+Item
+
+TL
+
+Cost
+
+Prosthetic Arms
+
+15
+
+Cr270000
+
+Swift Fluke Augmentation
+
+10
+
+Cr20000
+
+Swift Fluke Augmentation
+
+12
+
+Cr35000
+
+CSC: Dolphins
+
+Prosthetic Arms: Arms are a permanent artificial
+prosthetic, which are attached in front of and just below
+the flippers of a Dolphin. Even when held against
+the body when swimming to improve streamlining,
+prosthetic arms produce some drag, reducing a
+Dolphin’s movement to 10 metres and their sprint to 60
++ twice their Effect metres with every check.
+
+179
+
+

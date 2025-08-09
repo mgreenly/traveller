@@ -1,0 +1,192 @@
+NALUMB FAR TRADER
+The Nalumb far trader is designed to bridge
+the gap between Darrian Group worlds and the
+outlying systems beyond the Confederation. Akin
+to the Gagh, this ship is armoured and captains
+
+planning on trade in the Reidan or Sword Worlds
+subsectors are recommended to purchase
+weaponry for self-defence.
+
+TL13
+
+TONS COST (MCr)
+
+Crew
+Pilot, Astrogator,
+Engineers x2, Broker,
+Steward
+
+Hull
+
+400 tons, Streamlined
+
+—
+
+24
+
+Armour
+
+Crystaliron, Armour: 6
+
+36
+
+7.2
+
+M-Drive
+
+Thrust 1
+
+4
+
+8
+
+J-Drive
+
+Jump 3
+
+35
+
+52.5
+
+Power Plant
+
+Fusion (TL12), Power 255
+
+16
+
+16
+
+Fuel Tanks
+
+J-3, 4 weeks operation
+
+122
+
+—
+
+Running Costs
+
+20
+
+2
+
+MAINTENANCE COST
+
+Bridge
+
+Hull: 160
+
+Computer
+
+Computer/20bis/fib
+
+—
+
+10
+
+Cr8577.75/month
+
+Sensors
+
+Basic
+
+—
+
+—
+
+PURCHASE COST
+
+Armoured
+Bulkheads
+
+Bridge
+
+2
+
+0.4
+
+MCr102.933
+
+Systems
+
+Fuel Processor (20 tons/day)
+
+1
+
+0.05
+
+Fuel Scoops
+
+—
+
+1
+
+Power Requirements
+
+Standard x6
+
+24
+
+3
+
+Basic Ship Systems
+
+6
+
+0.6
+
+Intellect
+
+—
+
+1
+
+Manoeuvre Drive
+
+Library
+
+—
+
+—
+
+40
+
+Jump Control/3
+
+—
+
+0.3
+
+Jump Drive
+
+Manoeuvre/0
+
+—
+
+—
+
+120
+
+134
+
+—
+
+Fuel Processor
+
+Staterooms
+Common Areas
+Software
+
+Cargo
+
+80
+
+1
+
+Nalumb
+Far Trader
+
+80
+
+

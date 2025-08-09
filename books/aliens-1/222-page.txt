@@ -1,0 +1,75 @@
+ARMOUR
+F RONT
+
+40
+
+RE AR
+
+40
+
+SI DE S
+
+40
+
+LOPER GROUND CARRIER
+Autopilot (skill level) 1
+Communications
+(range) 50 km
+Navigation
+(Navigation DM) +1
+Sensors (Electronics
+(sensors) DM) +0
+Camouflage (Recon
+DM) —
+Stealth (Electronics
+(sensors) DM) —
+
+WEAPONS
+
+TL
+SKILL
+AGILITY
+SPEED (CRUISE)
+RANGE (CRUISE)
+CREW
+PASSENGERS
+CARGO
+HULL
+SHIPPING
+COST
+
+7
+DRIVE (WHEEL)
+–1
+MEDIUM
+(SLOW)
+500 (750)
+1
+7
+1 TON
+120
+20 TONS
+CR900000
+
+None
+
+EQUIPMENT
+Airlock, Autopilot (improved), Bunk, Communications System (basic), Control
+System (improved), Fire Extinguisher, Fresher, Hostile Environment, Life
+Support (short term), Navigation System (basic), Sensor System (basic), Smoke
+Dischargery)
+
+DESCRIPTION
+The Loper is a large but reasonably priced
+vehicle suitable for both Travellers and
+explorers, that is both sturdy and reliable. It is
+large enough to carry a small Vargr pack, with
+cargo, to and from their destination in hostile
+environments and relative safety.
+
+222
+
+TRAITS
+ATV
+
+

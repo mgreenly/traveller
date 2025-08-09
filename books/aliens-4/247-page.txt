@@ -1,0 +1,239 @@
+GUARDSHIP
+
+CLASS: RALAMEKH
+
+The Ralamekh-class guardship most closely
+resembles a destroyer from the Third Imperium
+Navy in functionality. Built on a 5,000-ton close
+hull, the class has been described as shaped like
+a shoe, with a rounded keel and a central spine
+which flares outwards at the stern. Regardless of its
+appearance, the Ralamekh performs as well as can
+be expected for a TL12 destroyer.
+
+Moderately armoured and armed with several
+particle and missile bays, particle barbettes and
+laser turrets, the Ralamekh is a prickly fighter
+well suited to its purview of secondary protection
+of the fleet’s valuable broodships and as attack
+ships in their own right.
+Ralamekh serve a secondary function as refuelling
+vessels. Complemented with fuel scoops, they
+can skim gas giants for fuel and transfer it to other
+vessels in their taskforce.
+
+The ship’s versatility is extended using drop tanks,
+increasing the range at which it is able to operate.
+
+TL12
+
+Tons
+
+Cost (MCr)
+
+5,000 tons, Close Structure
+
+—
+
+200
+
+Reinforced Hull
+
+—
+
+112
+
+Stealth (basic)
+
+100
+
+200
+
+Armour
+
+Titanium Steel, Armour: 5
+
+938
+
+46.875
+
+M-Drive
+
+Thrust 2
+
+100
+
+200
+
+J-Drive
+
+Jump 3
+
+380
+
+570
+
+Power Plant
+
+Fusion (TL12), Power 4,980
+
+332
+
+332
+
+Fuel Tanks
+
+J-3, 4 weeks operation
+
+1,534
+
+—
+
+60
+
+25
+
+Hull
+
+Bridge
+
+Crew
+Captain, Pilots x3,
+Small Craft Pilot,
+Astrogator, Engineers
+x23, Maintenance
+x10, Gunners x106,
+Administrators x5,
+Medic, Officers x15,
+Marines x20,
+Shaper Priest
+
+Hull: 2,200
+
+Computer
+
+Core/70fib
+
+—
+
+120
+
+Sensors
+
+Improved
+
+3
+
+3.3
+
+Sensor Stations x3
+
+3
+
+1.5
+
+Running Costs
+
+Medium Particle Beam Bays x3
+
+300
+
+120
+
+MAINTENANCE COST
+
+Particle Beam Barbettes x10
+
+50
+
+80
+
+Cr282592/month
+
+Small Missile Bays x6
+
+300
+
+72
+
+PURCHASE COST
+
+Triple Turrets (beam lasers) x30
+
+30
+
+75
+
+MCr3391.1
+
+Ammunition Missile Storage (864 missiles)
+
+72
+
+—
+
+Screens
+
+Nuclear Dampers x4
+
+40
+
+40
+
+Craft
+
+Docking Space (50 tons)
+
+55
+
+13.75
+
+Rashkaaht Boarding Skiff
+
+—
+
+29.15
+
+Armoury
+
+14
+
+3.5
+
+Drop Tank Mount
+
+7.8
+
+975
+
+Fuel Processor (3120 tons/day)
+
+156
+
+7.8
+
+Fuel Scoops
+
+—
+
+1
+
+Medical Bay
+
+8
+
+4
+
+Shaper Shrine
+
+13
+
+0.8667
+
+Weapons
+
+Systems
+
+247
+
+

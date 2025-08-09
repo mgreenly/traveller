@@ -1,0 +1,111 @@
+T
+
+The muulag is a large herbivore found both in the
+twilight and night zones of Loza’tch. They have
+evolved to live in cold climates. They have a thick
+layer of blubber under their skin, which keeps them
+warm in the harsh frozen nightside of Loza’tch. The
+blubber is highly nutritious, making the muulag a
+common prey animal. They travel in large herds,
+sometimes up to several hundred in number, to help
+protect them from predators. Despite their size, they
+are a docile species and the only danger they present
+is inadvertent trampling when spooked.
+
+The Za’tachk Homeworld
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Shemgikim
+
+Muulag
+
+94
+
+R
+
+Animal
+
+Hits
+
+Speed
+
+Muulag
+
+82
+
+8m
+
+Skills
+
+Athletics (endurance) 1, Recon 1,
+Survival 1
+
+Attacks
+
+Trample (5D)
+
+Traits
+
+Armour (+4), Heightened Senses,
+Large (+4), Slow Metabolism (-2)
+
+Behaviour
+
+Herbivore, Grazer
+
+A relative of the muulag, the shemgikim is a long-legged
+herbivore long domesticated by the Za’tachk, with few
+close species still in the wild. Shemgikim were originally
+adapted to migrate from the twilight zone to the day
+zone to give birth and then travel back to the twilight
+zone again. Used in the past as both a riding animal
+and beast of burden, they are mainly kept as pets on
+more technologically advanced worlds but can still
+be found being put to good use on the less advanced
+worlds of the Za’tachk Alignment. While known as being
+exceedingly docile, a surprised shemgikim can give a
+kick powerful enough to shatter bones. Domesticated
+shemgikim have their legs tethered by a hobble to
+prevent accidents from occurring.
+Animal
+
+Hits
+
+Speed
+
+Shemgikim
+
+38
+
+9m
+
+Skills
+
+Recon 0, Survival 1
+
+Attacks
+
+Kick (3D)
+
+Traits
+
+Heightened Senses, Large (+3)
+
+Behaviour
+
+Herbivore, Grazer
+
+R
+
+

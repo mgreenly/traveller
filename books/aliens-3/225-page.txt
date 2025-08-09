@@ -1,0 +1,114 @@
+T
+
+WEAPONS
+Orca are big enough to use heavy and vehicle
+weapons without difficulty or incurring any penalties
+and they ignore the Bulky trait. Several weapons have
+been designed specifically for Orca with this advantage
+in mind and, unlike Dolphins, Orca have no compulsion
+against carrying a heavy weapon on a harness mount.
+Utility Harness: The utility harness is used by Orca to
+carry tools, equipment and ammunition. It fits snugly
+against the body and is supported by the fins. An Orca
+with waldos can easily add or remove items from a
+worn harness and can just as easily don or remove it
+as necessary.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Utility Harness
+
+7
+
+25
+
+Cr500
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Weapon Harness: A weapon harness is similar to
+the utility harness in fit but has special mounts for
+weapons to be attached. In early versions of the
+weapon harness, sensor pads are placed against the
+Orca’s skin to detect minute muscle twitches to fire the
+weapons but at higher TL these may be replaced with
+a neural jack. Weapon harnesses are able to mount
+heavy weaponry; two heavy weapons or up to four riflesized weapons are able to be attached to the harness
+with a combined weight of no more than 100 kilograms.
+All weapons of the same type fitted to a weapon
+harness may be fired simultaneously.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Weapon Harness
+
+7
+
+40
+
+Cr1000
+
+Sonic Screamer: The sonic screamer is a large
+and devastating weapon that has been designed
+specifically for underwater use. The screamer
+generates a tightly focused powerful sonic pulse,
+using an enormous amount of power and requiring
+frequent magazine changes.
+
+CSC: Orca
+
+Utility Harness/
+Weapon Harness
+
+Vehicle Weapon Harness
+
+Weapon
+
+TL Range Damage Kg
+
+Sonic Screamer 9
+
+226
+
+250
+
+5D
+
+25
+
+Cost
+
+Magazine Power Pack Cost Traits
+
+Cr5700 5
+
+Cr4000
+
+Bulky, Burst 3, Sonic
+(-6), Stun, Zero-G
+
+R
+
+

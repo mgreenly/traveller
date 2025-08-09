@@ -1,0 +1,52 @@
+6
+
+1 square = 1 Ton
+
+6
+
+6
+
+7
+8
+
+12
+6
+
+6
+
+12
+
+DECK 4
+
+5
+
+DECK 3
+
+4
+
+LEGEND
+1. Manoeuvre Drive
+2. Jump Drive
+3. Power Plant
+4. Bridge
+5. Sensors
+6. Double Turret
+7. Docking Space
+8. Cargo Crane
+9. Fuel Processor
+10. Staterooms
+11. Common Area
+12. Cargo Hold
+
+178
+
+10
+
+10
+
+10 11 10
+12
+
+DECK 5
+
+

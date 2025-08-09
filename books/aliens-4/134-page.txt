@@ -1,0 +1,54 @@
+Blodra-class
+Patrol Corvette
+
+11
+
+1 square = 0.5 Ton
+
+12
+
+LEGEND
+1. Manoeuvre Drive
+2. Backup Manoeuvre Drive
+3. Jump Drive
+4. Backup Jump Drive
+5. Power Plant
+6. Backup Power Plant
+7. Bridge
+8. Sensors
+9. Improved Signal Processing
+10. Backup Sensors
+11. Triple Turret
+12. Point Defence Battery
+13. Missile Storage
+14. Docking Space (Lifeboats)
+15. Docking Space (Pinnace Drone)
+16. Armoury
+17. Briefing Room
+18. Fuel Processor
+19. Airlock
+20. Sensor Station
+21. Staterooms
+22. Common Area
+23. Cargo Hold
+
+15
+
+10
+
+13
+
+6
+11
+
+11
+
+4
+
+2
+
+DECK 3
+
+134
+
+

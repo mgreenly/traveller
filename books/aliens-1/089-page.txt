@@ -1,0 +1,31 @@
+3
+4
+
+DECK 5
+
+5
+
+DECK 4
+
+2
+1
+DECK 3
+
+2
+
+DECK 2
+
+2
+
+LEGEND
+1. Shrine
+2. Docking space
+3. Bridge
+4. Missiles
+5. Sandcaster barrels
+
+DECK 1
+
+89
+
+

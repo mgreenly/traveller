@@ -1,0 +1,47 @@
+Vatha-class
+Torpedo Boat
+
+1 square = 0.5 Ton
+
+LEGEND
+1. Manoeuvre Drive
+2. Power Plant
+3. Bridge
+4. Sensors
+5. Torpedo Barbette
+6. Torpedo Storage
+7. Airlock
+8. Stateroom
+9. Common Area
+10. Cargo Hold
+
+3
+
+4
+
+4
+8
+
+8
+
+7
+
+9
+
+10
+
+5
+
+DECK 2
+
+6
+
+2
+
+1
+
+DECK 1
+
+244
+
+

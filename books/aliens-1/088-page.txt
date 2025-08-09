@@ -1,0 +1,228 @@
+EKAWSIYKUA-CLASS ESCORT
+TL13
+Hull
+
+800 tons, Dispersed
+
+—
+
+20
+
+M-Drive
+
+Thrust 4
+
+32
+
+64
+
+J-Drive
+
+Jump 4
+
+85
+
+127.5
+
+Power Plant
+
+Fusion (TL12), Power 540
+
+36
+
+36
+
+Fuel Tanks
+
+J-4, 4 weeks of operation
+
+324
+
+—
+
+Bridge
+
+20
+
+4
+
+Computer
+
+Computer/20
+
+—
+
+5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Triple Turrets (pulse lasers) x 3
+
+3
+
+12
+
+Triple Turrets (missile racks) x 3 3
+
+9.75
+
+Triple Turret (sandcasters) x 2
+
+2
+
+3.5
+
+Missiles x 240
+
+20
+
+—
+
+Sandcaster Barrels x 240
+
+12
+
+—
+
+Shrine
+
+4
+
+0.5
+
+Docking Space (40 tons) x 2
+
+88
+
+22
+
+Pinnace with pulse laser x 2
+
+—
+
+19.664
+
+Docking Space (10 tons) x 5
+
+55
+
+13.75
+
+Light Fighters x 5
+
+—
+
+39
+
+Staterooms
+
+Standard x 20
+
+80
+
+10
+
+Software
+
+Jump Control/4
+
+—
+
+0.4
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Fire Control/4
+
+—
+
+8
+
+Common Areas
+
+14
+
+1.4
+
+Cargo
+
+19
+
+—
+
+Ammunition
+Systems
+
+CREW
+
+TONS COST (MCR)
+
+TOTAL: MCR 400.464
+
+CAPTAIN/PILOT, ASTROGATOR, PURSER/
+EXECUTIVE OFFICER, OFFICERS X 3, PILOTS
+X 7, MEDIC, ENGINEERS X 5, MAINTENANCE,
+GUNNERS X 10, MARINES X 10
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr33372/month
+
+PURCHASE COST
+MCr400.464
+
+Power Requirements
+320
+
+160
+
+44
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+WEAPONS
+
+320
+
+4
+
+JUMP DRIVE
+
+SENSORS
+
+Using an 800-ton hull, the Ekawisykuaclass escort is a military vessel employed
+by clans for space patrol and combat
+duties and are often encountered alongside
+Aslan freighters. Eight triple turrets mount
+three triple lasers, three triple missile racks
+and two triple sandcasters, while inside the
+ship carries two armed pinnaces and five
+fighters for scouting and patrol duties.
+
+288
+HULL POINTS
+88
+
+

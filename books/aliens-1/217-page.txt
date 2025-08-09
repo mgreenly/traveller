@@ -1,0 +1,80 @@
+SONIC RIFLE
+
+A11/58231
+
+More powerful than the pistol, the sonic rifle can easily affect
+two or more targets in close proximity and unleashes far more
+powerful sound waves. In assaults, the rifle is often used to
+supress enemies while other units move in to engage them in
+close combat.
+
+Weapon
+
+TL
+
+Range Damage
+
+Kg
+
+Cost
+
+Magazine
+
+Sonic Rifle
+
+9
+
+25
+
+6
+
+Cr1200
+
+30
+
+2D
+
+Power Pack Cost
+Cr1000
+
+Traits
+Burst 3, Sonic (-4), Stun, Zero-G
+
+SONIC GRENADE
+
+A11/58231
+
+Although much weaker than the rifle or equivalent stun
+grenades, the sonic grenade casts its effects over a much
+wider area, making it perfect to disrupt rioting crowds or entire
+units with one throw.
+
+Weapon
+
+TL
+
+Range Damage
+
+Kg
+
+Cost
+
+Traits
+
+Sonic Grenade
+
+9
+
+20
+
+0.5
+
+Cr50
+
+Burst 12, Sonic (–0), Stun
+
+2D
+
+217
+
+

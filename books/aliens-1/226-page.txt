@@ -1,0 +1,226 @@
+AETIN SCOUT
+TL10
+
+TONS
+
+COST (MCR)
+
+Hull
+
+100 tons, Streamlined
+
+—
+
+6
+
+Armour
+
+Crystaliron, Armour 4
+
+5
+
+1.2
+
+CREW
+
+M-Drive
+
+Thrust 2
+
+2
+
+4
+
+PILOT
+
+J-Drive
+
+Jump 2
+
+10
+
+15
+
+Power Plant
+
+Fusion (TL8), Power 70
+
+7
+
+3.5
+
+Fuel Tanks
+
+J-2, 4 weeks of operation
+
+21
+
+—
+
+10
+
+0.5
+
+Bridge
+Computer
+
+Computer/10
+
+-
+
+0.16
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Double Turret
+
+1
+
+0.5
+
+Systems
+
+Fuel Processor (20 tons/
+day)
+
+1
+
+0.05
+
+Fuel Scoops
+
+—
+
+—
+
+Cargo Scoop
+
+2
+
+0.5
+
+Probe Drones (10)
+
+2
+
+1
+
+Docking Space (3 tons)
+
+4
+
+1
+
+Gravitic Speeder
+
+—
+
+0.4
+
+Staterooms
+
+Standard x 2
+
+8
+
+1
+
+Software
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Common
+Areas
+
+5
+
+0.5
+
+Cargo
+
+20
+
+—
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr3309/month
+
+PURCHASE COST
+MCr40.11
+
+Power Requirements
+20
+
+20
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+20
+
+2
+
+1
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 40.11
+Using a 100-ton hull, the Aetin scout is
+primarily used by the navy and corsair
+bands for reconnaissance and ground
+support duties but also lone prospectors
+and explorers. Much like its Imperial
+counterpart, the Aetin scout is a common
+sight in the Extents and therefore easy to
+maintain and repair.
+
+40
+226
+
+HULL POINTS
+
+The Aetin scout only requires a crew of
+one pilot but a gunner is carried as well
+if weapons are mounted in the standard
+double turret. Two additional crew or
+personnel can be carried with double
+occupancy if required.
+
+

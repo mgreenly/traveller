@@ -1,0 +1,68 @@
+Military Issue Weapons
+
+The Confederation Navy uses a standard semi-automatic pistol as a sidearm for its personnel when on security duty
+or whenever a weapon of self-defence might be needed. Snub pistols and carbines are issued for most shipboard
+situations – again, these are conventional. For security and combat operations in situations where low gravity is not a
+factor, a combat shotgun is favoured.
+
+A03/48956
+
+NAVY COMBAT SHOTGUN
+
+The navy-issue combat shotgun is a bullpup design, fed by a seven-round magazine inserted through the stock. An extended
+18-round drum is also available but this makes the weapon extremely clumsy. It is thus poorly suited to fluid combat through
+a boarded ship’s corridors, although on the defensive it can be effective. The standard configuration weapon has a short
+barrel, laser aiming aid and a vertical foregrip.
+SolSec uses the same gun for close-quarters combat, sometimes with the drum magazine as a very obvious hint not to start
+anything. Heavy buckshot is normally used but stun rounds are available. These detonate with an incredibly loud noise and
+scatter small soft plastic pellets which, in theory at least, will not kill. Stun rounds are normally used by SolSec – an entire
+drum of them blasted into a room generally makes the following arrest procedure much easier.
+
+118
+
+Weapon
+Navy Combat
+Shotgun
+
+TL
+
+Range
+
+Damage Kg
+
+Cost
+
+12
+
+50
+
+4D+2
+
+5 (6.8 with
+drum)
+
+Cr1500
+
+Stun Round
+
+—
+
+50
+
+2D+1
+
+—
+
+Magazine Magazine Cost
+7 or 18
+Cr10 or Cr24
+
+Cr1500 7 or 18
+
+Cr10 or Cr24
+
+Traits
+Bulky
+Bulky, Stun
+
+

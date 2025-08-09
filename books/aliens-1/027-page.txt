@@ -1,0 +1,131 @@
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+POET OR PRIEST
+Supplicant
+Acolyte
+Initiate
+Sojourner
+Practitioner
+Master
+Grand Master
+
+SKILL OR BENEFIT
+—
+—
+SOC +1
+—
+SOC +1
+—
+EDU +1
+
+CLAN AGENT
+Probationary
+Agent
+—
+—
+Field Agent
+—
+Master Agent
+
+SKILL OR BENEFIT
+—
+Investigate
+—
+—
+Streetwise
+—
+Admin
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured. Roll on the Injury table.
+
+2
+
+You are accused of stealing from your employer. If this is true, gain 3 Benefit rolls and become Outcast,
+dropping your SOC to 2. If it is false, roll Advocate 8+ to defend yourself. If you fail, you leave this career; if
+you succeed, you may remain in this career.
+
+3
+
+A shift in clan politics leaves you shut out in the cold. Gain a Contact who stays in touch despite your new status.
+
+4
+
+Your clan’s fortunes decline. You may continue in this career if you wish but you will gain no Benefit rolls this
+term or the next.
+
+5
+
+You are sent to a border world, where your career stagnates. Gain Survival 1, Flyer 1, Profession 1 or Navi-gate 1.
+
+6
+
+A clan elder takes a dislike to you. Gain her as a Rival.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+A rival clan attacks and your place of work is targeted by an assault force. Roll Melee (natural), Stealth or Gun
+Combat 8+. If you succeed, gain any skill. If you fail, roll on the Injury table.
+
+4
+
+You pick up some useful skills. Gain Pilot 1, Mechanic 1, Electronics 1 or Drive 1.
+
+5
+
+You have the opportunity to take a risk in business. Wager up to three Benefit rolls and roll Broker 8+. If you
+succeed, gain an equal number of Benefit rolls to those you wagered. If you fail, lose any wagered Benefits.
+
+6
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain any skill.
+
+7
+
+Life Event. Roll on the Aslan Life Events table.
+
+8
+
+You expand into new territories. Gain Broker 1, Profession 1, Streetwise or a Contact.
+
+9
+
+A foolish decision by a clan member threatens your business. Roll Diplomat or Admin 8+ to fix the damage. If
+you succeed, gain that clan member as a Rival. If you fail, you suffer DM-2 to your next Advancement roll.
+
+10
+
+Your clan thrives and prospers. Gain DM+2 to your next advancement roll.
+
+11
+
+You trade with aliens and barbarians. Gain Tolerance, or gain DM+4 to your next advancement roll.
+
+12
+
+You excel in your role. You are automatically promoted.
+
+

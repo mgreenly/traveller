@@ -1,0 +1,69 @@
+1 square = 25 Tons
+
+LEGEND
+1. Manoeuvre Drive
+2. Jump Drive
+3. Power Plant
+4. Bridge
+5. Particle Spinal Mount
+6. Particle Beam Bay
+7. Torpedo Bay
+8. Particle Barbettes
+9. Triple Turrets
+10. Nuclear Dampers
+
+10
+
+8
+
+8
+
+7
+
+7
+
+6
+
+6
+
+11. Docking Space (Rashkaaht
+Boarding Skiffs)
+12. Docking Space (Gshashk Gig)
+13. Armoury, Briefing Room,
+Medical Bay, Shaper Shrine
+14. Fuel Processor
+15. Staterooms
+16. Common Area
+17. Cargo Hold
+
+12
+11
+
+17
+
+15
+16
+4
+
+13
+
+9
+
+9
+
+14
+
+3
+
+5
+1
+
+DECK 3
+
+254
+
+10
+
+DECK 4
+
+

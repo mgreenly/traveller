@@ -1,0 +1,40 @@
+DECK 3
+
+13
+2
+
+2
+14
+
+13
+
+13
+
+1. Medium Torpedo Bays
+2. Point Defence
+3. Improved Sensors, Improved Signal
+Processing, Countermeasures Suite
+4. Briefing Rooms
+5. ParticleSpinal Mount
+6. Armoury, Brig
+7. Docking Space
+8. Workshops, Barracks
+9. Mud Baths
+10. Power Plant
+11. J-Drive
+12. M-Drive
+13. Fusion Barbettes
+14. Fuel Processing
+
+Command
+Weaponry
+Engineering
+Accommodation
+
+11
+
+1 sq. = 5 tons
+
+288
+
+

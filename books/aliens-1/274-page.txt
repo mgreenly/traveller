@@ -1,0 +1,97 @@
+Zhodani Life Events
+1D
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+11
+12
+
+Event
+Sickness or Injury: You are injured or contract a serious illness. Roll on the Injury table.
+Birth or Death: Someone close to you dies, such as a friend or family member. Alternatively, someone close
+to you gives birth (or is born!). You are involved in some fashion (father or mother, relative, godparent, etc).
+End of Relationship: A romantic relationship involving you ends. Roll 1D: On a 1–2 your partner is killed. On
+a 3-4 your partner leaves. On a 5–6 you leaves your partner.
+Improved Relationship: A romantic relationship involving you deepens, possibly leading to marriage or some
+other emotional commitment.
+New Relationship: You become romantically involved with an existing Ally or Contact. If you have no Contacts
+or Allies, gain an Ally.
+New Contact: You gain a new Contact.
+Betrayal: You are betrayed in some fashion by a friend or colleague. If you have any Contacts or Allies,
+convert one into a Rival or Enemy. Otherwise, gain a Rival or an Enemy.
+Travel: You move to another world and gains DM+2 to your next Qualification roll.
+Good Fortune: Something good happens to you; you come into money unexpectedly, have a lifelong dream
+come true, get a book published or have some other stroke of good fortune. Gain a Benefit roll in your
+current career.
+Crime: You commit or is accused of a crime; roll SOC 8+. If failed, lose one Benefit roll and roll on the Reeducation Events table below.
+Unusual Event: Something unusual occurs. Roll 1D:
+1
+Psionics: An event affects you, granting PSI +2. If you are a Prole and this increases PSI
+above 8, you are elevated to the Intendant class (raising your SOC to 10) and sent to psionic
+training.
+2
+Aliens: You spend time among an alien race. Gain Language and a Contact with a member of
+that alien race.
+3
+Alien artefact: You come into possession of a curious piece of alien technology or an
+archaeological relic.
+4
+Amnesia: Something happened to you but you do not know what it was. Regardless of SOC,
+roll on the Re-education Events table (see table below).
+5
+Contact with Government: You have brief contact with the highest echelons of Consulate
+government. Gain one Benefit roll in your current career.
+6
+Ancient Technology: You have an item believed to be left behind by the Ancients. Because it
+interacts with you in a unique fashion, you have been allowed to keep it but both the item
+and you remain objects of occasional study by Consulate scientists and researchers.
+
+RE-EDUCATION
+
+EVENTS
+
+For Proles, re-education is an important part of proper
+mental health. Intendants and Nobles are only sent to
+re-education in more serious circumstances. There is no
+social stigma for re-education; it is viewed as being as
+necessary as surgery is for physical health. Time spent
+in re-education does not count as time in a career for
+Benefit rolls, Advancement or gaining skills; it does
+count for aging.
+
+Re-education Events
+1D
+1
+
+2
+
+3
+4
+5
+6
+
+274
+
+Event
+Re-education requires two terms. You must enter
+a new career and reduce END by –1. If SOC
+11+, reduce SOC by –1, to a minimum of 11.
+Re-education requires one term. You must enter
+a new career and reduce END by –1. If SOC
+11+, reduce SOC by –1, to a minimum of 11.
+Re-education requires one term but you can
+continue this career.
+Re-education requires less than a year and your
+career is not affected.
+Fine of Cr1000 x 1D; you do not require reeducation.
+Exonerated! Receive an additional Benefit roll in
+your current career.
+
+

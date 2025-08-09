@@ -1,0 +1,139 @@
+BEARER-OF-CARGOES SHUTTLE
+TL9
+
+TONS
+
+COST (MCR)
+
+CREW
+NONE
+
+Hull
+
+100 tons, Standard,
+Non-Gravity
+
+—
+
+2.5
+
+M-Drive
+
+Thrust 1
+
+1
+
+2
+
+Power Plant
+
+Fusion (TL8), Power
+40
+
+4
+
+2
+
+Fuel Tanks
+
+20 weeks of operation
+
+2
+
+—
+
+Computer
+
+Computer/5
+
+—
+
+0.03
+
+Sensors
+
+Basic
+
+—
+
+—
+
+Systems
+
+Basic Standard
+Operations
+
+0.5
+
+1.5
+
+MCr11.03
+
+Cargo Crane
+
+3
+
+3
+
+91
+
+—
+
+Power Requirements
+
+Cargo
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr919/month
+
+PURCHASE COST
+
+10
+
+20
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+TOTAL: MCR 11.03
+0
+
+0
+
+0
+
+SYSTEMS
+
+SENSORS
+
+WEAPONS
+
+One of the most common small craft in K’kree
+space, the Bearer-of-Cargoes is designed to
+carry out basic interface work between orbital
+installations and starships or planetside facilities.
+It is entirely robotic, with no provision for manual
+control aboard the craft; like most K’kree vessels
+it can be remotely operated from another craft or
+an installation.
+As a freight-only craft, the Bearer-of-Cargoes
+has no provision for passengers and no need
+for life support or other amenities. It is built on
+a standard 100-ton hull, with a robotic crew
+facility and a very basic sensor package to allow
+autonomous operation. More commonly the shuttle
+relies on sensor data fed to it by parent vessels
+or installations. It can make long-haul transits
+across a star system only with the assistance of
+outside course corrections and is thus normally
+encountered on routine interface work.
+
+40
+HULL POINTS
+158
+
+

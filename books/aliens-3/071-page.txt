@@ -1,0 +1,116 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Grav Bike
+
+Monocycle
+
+Vehicles of the Darrians
+
+GRAV BIKE
+
+72
+
+A common form of transport on Darrian worlds, grav
+bikes are fast and manoeuvrable. Fairings dynamically
+reshape to control aerodynamic flow and act as
+spoilers for slowing or rapid changes of direction. If a
+power failure occurs, the fairings return to a default
+wing configuration, allowing the grav bike to glide
+safely to the ground. Ejector seats are included for
+circumstances where no safe landing is possible. Grav
+bikes include life support for high altitude flying and are
+capable of reaching orbit.
+
+ARMOUR
+FRONT 4
+Traits
+Equipment
+
+REAR
+
+4
+
+SIDES
+
+4
+
+—
+Communications (basic), Control
+System (basic), Ejection Seat, Life
+Support (short term), Navigation System
+(basic), Sensor System (basic), Vacuum
+Support, Variable Lifting Surface
+
+TL
+
+11
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
++3
+
+SPEED (CRUISE)
+
+Very Fast (Fast)
+
+RANGE (CRUISE) 5,000 (7,500)
+CREW
+
+1
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+6
+
+SHIPPING
+
+1.5 tons
+
+COST
+
+Cr393000
+
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+—
+50km
++1
+—
+—
+—
+
+R
+
+

@@ -1,0 +1,112 @@
+RANKS AND BONUSES CONT...
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+THOUGHT POLICE
+Observer
+Guardian of 20
+Guardian of 50
+Guardian of 100
+Guardian of 500
+Guardian of 1,000
+Guardian of 5,000
+
+SKILL OR BENEFIT
+—
+Persuade 1
+—
+—
+Investigate 1
+Admin 1
+SOC +1
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured in action. Roll twice on the Injury table and take the lower result.
+
+2
+
+An investigation goes critically wrong or leads to the top, ruining your career. Roll Advocate 8+. If successful,
+you may keep the Benefit roll from this term. If failed, roll on the Re-education Events table (page 274).
+
+3
+
+A mission goes wrong and you are held responsible for it. You may accept your fate and leave this career with an
+extra Benefit roll as compensation or may contest the accusation. If contested, roll Advocate 8+. If successful,
+you may stay in this career. If failed, roll on the Re-education Events table (page 274).
+
+4
+
+You suffer psychological stress and must leave this career. Roll on the Re-education Events table (page 274).
+
+5
+
+You are injured in an act of sabotage. Roll on the Injury table but gain a Contact in the medical field.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career, even from a Re-education Event.
+
+3
+
+You are given specialist training in vehicles. Gain one level of Drive, Flyer, Pilot or Seafarer.
+
+4
+
+A natural disaster strikes. Roll 1D; on a 1, roll on the Injury table. Otherwise, gain one level of Survival or Medic.
+
+5
+
+You complete a mission for your superiors and are suitably rewarded. Gain DM+1 to one Benefit roll.
+
+6
+
+You establish a network of contacts. Gain D3 Contacts.
+
+7
+
+Life Event. Roll on the Zhodani Life Events table (page 274).
+
+8
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain one level in any skill already possessed.
+
+9
+
+You go undercover to investigate an enemy. Roll Investigate 8+. If successful, roll immediately on the Prole
+Events table (page 270) and make one roll on any Proles Specialist skills table. If failed, roll immediately on
+the Proles Mishaps table but you are not ejected from this career.
+
+10
+
+You are re-assigned to a desk job. Gain one level of Admin, Electronics (computers) or Electronics (comms).
+
+11
+
+Your superiors take an interest in your career. Gain an Ally and take DM+2 to your next Advancement roll.
+
+12
+
+Your efforts uncover a major conspiracy. Your next Advancement roll is automatically successful.
+
+

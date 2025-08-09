@@ -1,0 +1,181 @@
+AAKUM HEAVY FIGHTER
+TL14
+
+TONS
+
+COST (MCR)
+
+40 tons, Streamlined
+
+—
+
+2.4
+
+CREW
+
+Aerofins
+
+2
+
+0.2
+
+PILOT
+
+Armour
+
+Bonded Superdense,
+Armour 12
+
+3.84
+
+2.304
+
+M-Drive
+
+Thrust 9
+
+3.6
+
+7.2
+
+High Burn Thruster
+(thrust 6)
+
+4.8
+
+0.96
+
+Power Plant
+
+Fusion (TL12), Power
+60
+
+4
+
+4
+
+Fuel Tanks
+
+1 week of operation, 2
+hours high burn
+
+1
+
+—
+
+3
+
+0.5
+
+Hull
+
+Bridge
+Computer
+
+Computer/20fib
+
+—
+
+7.5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Improved Signal
+Processing
+
+1
+
+4
+
+Fixed Mount (pulse
+laser) x 2
+
+1
+
+2.2
+
+Weapons
+
+Software
+
+Cargo
+
+Fixed Mount (PGMP-12 1
+x 2)
+
+0.042
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Fire Control/2
+
+—
+
+4
+
+Evade/1
+
+—
+
+1
+
+1
+
+—
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr3366/month
+
+PURCHASE COST
+MCr40.806
+
+Power Requirements
+36
+
+8
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+6
+
+5
+
+WEAPONS
+
+SENSORS
+
+TOTAL: MCR 40.806
+The Aakum is the most common fighter
+craft used by Vargr military organisations
+and it appears in many corsair bands. It
+is fast enough and tough enough to battle
+other fighters, while carrying enough
+firepower to assault larger vessels with
+some effectiveness.
+
+16
+HULL POINTS
+224
+
+

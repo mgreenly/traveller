@@ -1,0 +1,157 @@
+FAITHFUL SHIELD ROBOTIC ESCORT FIGHTER
+TL12
+
+CREW
+
+TONS COST (MCR)
+
+Hull
+
+40 tons, Reinforced, —
+Non-Gravity
+
+1.5
+
+Armour
+
+Crystalliron, Armour: 10
+8
+
+0.6
+
+M-Drive
+
+Thrust 6
+
+14.4
+
+28.8
+
+Power Plant
+
+Fusion (TL12),
+Power 60
+
+4
+
+4
+
+Fuel Tanks
+
+13.3 weeks of
+operation
+
+1
+
+—
+
+Cr 4221.67/month
+
+Computer
+
+Computer/10
+
+—
+
+0.16
+
+PURCHASE COST
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Dual Turret (beam
+lasers)
+
+1
+
+1.5
+
+Systems
+
+Military Operations
+Package
+
+0.04
+
+10
+
+Basic
+ElectromagneticEnvironment
+Protection Suite
+
+6
+
+—
+
+Cargo
+
+1
+
+TOTAL: MCR 53.16
+
+3
+
+NONE
+
+RUNNING COSTS
+MAINTENANCE COST
+MCr50.66
+
+Power Requirements
+24
+
+8
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+3
+
+2
+
+7
+
+SYSTEMS
+
+SENSORS
+
+WEAPONS
+
+The Faithful Shield is a counterpart of the Quickening
+Thunder, built on the same rugged 40-ton hull. It also
+uses the same power plant and drives, which leaves
+space for later upgrade or modification. Whereas
+the Quickening Thunder is designed to deliver heavy
+firepower against enemy vessels, the Faithful Shield
+is intended to keep enemy fighters and missiles
+away from the vessels it is protecting. This is usually
+a parent starship or installation but escort fighters
+are sometimes mixed into an offensive formation to
+improve penetration of an enemy fighter screen.
+
+18
+HULL POINTS
+
+166
+
+The Faithful Shield escort fighter takes advantage of
+the space feed up by using a dual turret instead of a
+barbette to fit an electromagnetic warfare suite. This
+relies on brute-force jamming and a steady stream
+of decoy launches but can be sufficient to protect a
+parent vessel from incoming missiles. The twin beam
+laser armament is of little use against most starships
+but effective against fighters.
+
+

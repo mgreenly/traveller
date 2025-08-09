@@ -1,0 +1,53 @@
+16
+
+DECK 2
+
+1
+
+2
+
+15
+13
+
+8
+14
+
+10
+
+5
+9
+
+3
+4
+
+11
+6
+
+LEGEND
+1. Bridge
+2. Sensors
+3. Power plant
+4. M-drive
+5. J-drive
+6. Repair drones
+7. Briefing room
+8. Med bay
+
+304
+
+7
+
+12
+
+DECK 1
+
+9. Missile storage
+10. Docking space
+11. Cargo hold
+12. Fuel processor
+13. Staterooms
+14. High staterooms
+15. Luxury staterooms
+1 6 . Tr i p l e t u r r e t s
+
+

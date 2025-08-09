@@ -1,0 +1,85 @@
+Events
+
+2D
+2
+3
+4
+5
+
+6
+7
+8
+9
+10
+
+11
+
+1D
+1
+2
+3
+
+4
+5
+6
+
+A misjump leaves you stranded in hostile foreign space. When ‘rescued’ you are forced to escape
+before your identity is discovered. Gain Deception 1, Pilot 1 or Stealth 1.
+You must discipline a disobedient junior officer. Roll Leadership or Melee 8+. If you succeed, gain
+them as an Ally. If you fail, lose SOC -1 and they become a Rival.
+You are caught by your superiors doing private research into restricted files. You are forced
+to quickly bury your stolen data in a computer system – roll Electronics (computers) 8+. If you
+succeed, you have hidden the information so you may recover it properly, using the information to
+gain DM+2 on your next advancement roll. If you fail, the data is found and you are retired unless
+you lie your way out of the situation with a Deception or Persuade 8+ roll. If you roll a 2, you must
+take the Wanderer (exile) career in your next term.
+Your senior officer or department head wishes to fast track your development. You are given
+advanced training in a specialist field. Roll EDU 8+ to increase any one skill for your career.
+Life Event. Roll on the Life Event table.
+Your absolute loyalty being proven time and again, you are assigned duty aboard one of the Star
+Trigger ships. You may roll once on the Advanced Education table.
+You are volunteered to test a new piece of experimental equipment. Gain either a device up to
+TL16 or the skill to operate it at level 1.
+You are sent on a black ops mission to recover a pre-Maghiz artefact from a Sword Worlds or
+Zhodani military base. The intrusion goes wrong and you are forced to fight your way free. Roll
+Stealth or Gun Combat 8+. If you succeed you achieve your objective and gain DM+2 to your next
+advancement roll. If you fail, you were wounded in action – roll on the Injury table. Either way, you
+learn from the experience and may increase two of your skills by one level each.
+You learn of an ethically questionable secret concerning the Special Arm, something you are
+opposed to, that could harm its reputation or significantly hamper its operations and you must
+choose whether to covertly release it. Withhold the information and you find yourself automatically
+promoted. Attempt to release the information and you discover it was a trap laid by your superior.
+Suffer DM-4 on your next advancement roll and gain the superior as an Enemy.
+Your exemplary discipline and fervour make you a natural leader amongst your peers. You are
+automatically promoted and gain one level of Leadership.
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury Table and take the lower result
+You learn something that you should not have and now you are on the run from the Special Arm.
+Gain a senior officer as an Enemy.
+A mission or research project goes wrong and you are held responsible for it. You may accept
+your fate and be voluntarily retired. If you argue, roll Persuade 8+. If you succeed, you may stay in
+this career. If you fail you are expelled from this career. If you roll a 2 you must take the Wanderer
+(exile) as your next term.
+An enemy agent targets you. Roll Gun Combat, Melee or Stealth 8+. If you fail, roll on the
+Injury table. Either way, concern is raised regarding how or why the agent was after you,
+forcing you into retirement.
+The other side attempts to turn you. If you accept, gain three extra Benefit rolls as you fake your
+own death and flee the Confederation.
+Injured. Roll on the Injury table.
+
+9
+
+Darrian Travellers
+
+Mishaps
+
+12
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+57
+
+

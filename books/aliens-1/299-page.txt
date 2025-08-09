@@ -1,0 +1,38 @@
+10
+
+11
+2
+1
+
+6
+
+5
+
+3
+
+6
+
+4
+DECK 2
+
+7
+8
+DECK 1
+
+LEGEND
+1. Bridge
+2. Sensors
+3. Power plant
+4. M-drive
+5. J-drive
+6. Low berths
+
+7. Staterooms
+8. Docking space
+9. Cargo hold
+10. Single turret (pulse laser)
+11. Single turret (sandcaster)
+
+299
+
+

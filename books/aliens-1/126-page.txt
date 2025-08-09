@@ -1,0 +1,111 @@
+A K’kree suddenly deprived of company must make
+an Average (8+) END check to cope in the short term,
+with a DM of anything up to –6 if the incident is very
+violent. For example, a K’kree who sees his family hit by
+a speeding truck is likely to flee in panic immediately
+and suffer long-term effects when he realises he will be
+forever without them. A Effect of –6 or worse indicates
+permanent madness that may or may not be treatable.
+
+A K’kree who is kin-to-the-sky needs no herd around
+him because his ancestors walk beside him. They also
+convey their wisdom, which may or may not make sense
+to anyone but the holy K’kree. Most kin-to-the-sky are
+unable to function as more than wandering oracular
+prophets speaking in riddles but some emerge with a
+vision and give out chillingly precise advice on matters
+they could not possibly know anything about.
+
+In the longer term, a K’kree who is alone, whether as
+an outcast or having become lost, may be able to cope
+if there is some hope of a return to the herd – even as a
+casteless hanger-on at the fringes. Each day, a Difficult
+(10+) END check is required. Success indicates the
+K’kree can act rationally and productively that day
+without penalty. A DM equal to any negative Effect is
+applied to all tasks on days the K’kree fails the check,
+and the K’kree will be nervous, irritable and likely to
+rage-quit on any task that seems remotely difficult.
+An Effect of –6 or worse results in a collapse into
+despair for D3 days, during which the K’kree will just
+wander aimlessly, destroy things he has created and
+contemplate suicide.
+
+K’kree who work in an environment where confinement
+is inevitable eventually become used to it or seek some
+less upsetting line of work. A K’kree who lives and works
+aboard a starship can use his highest shipboard skill
+(such as Pilot, Astrogation or Engineer) as a DM when
+determining if he panics upon being confined. Even the
+most hardened K’kree spacer can suffer a panic attack
+when boarding his ship and may have to choose between
+forcing himself to enter or being left behind.
+
+Speed of Hoof: If a K’kree performs three minor actions
+in a round and all three are used for movement (as
+described on page 72 of the Traveller Core Rulebook),
+then it gains a bonus minor action, which can also be
+used for movement.
+
+SURVIVING
+
+LONELINESS
+
+There are ways a K’kree can survive the loneliness of
+isolation. One is to enter a state of temporary madness
+known as ‘kin-to-the-grass’. A K’kree in this state ceases
+to be rational and will do no more than wander around,
+nibbling listlessly at vegetation. In effect, he will revert
+to the non-sentient state of his distant ancestors.
+Revival from a kin-to-the-grass state is not certain even
+if the K’kree is rescued but it is possible that once
+surrounded by a friendly herd he will slowly regain his
+senses over a period of days, weeks or even months. In
+some cases the state is permanent.
+In a few rare cases, isolated K’kree are struck with what
+can seem to others as divine inspiration. Rather than
+becoming kin-to-the-grass they become ‘kin-to-the-sky’,
+a rapturous state in which the K’kree can see and hear
+his ancestors – both direct kin and cultural heroes.
+Only an already unhinged or desperate K’kree would
+deliberately isolate himself and try to become kin-to-thesky but there have been those who made the attempt.
+Most ended their days in gibbering madness but a few
+achieved the holy state with enough of their faculties
+remaining to cope with daily life.
+
+126
+
+NON-K’KREE K’KREE
+
+Very occasionally, a K’kree will, for whatever reason,
+be brought up outside a traditional K’kree family. This
+results in a status called Aux!Rraak G’naak or ‘probably
+just vermin’ among ‘real’ K’kree. Species is irrelevant
+here; what is important is whether the Traveller knows
+how to act like a ‘proper’ K’kree, which is unlikely. Even
+then, the outsider is unlikely to be fully accepted and at
+best live at the fringes of a herd.
+An outsider K’kree of this kind still has the Gregarious
+and Claustrophobic traits, which are instinctive rather
+than learned. However, the not-K’kree gains a special
+skill called Outsider at level 0 in addition to other
+background skills. The Outsider skill can be increased
+instead of any event that increases a characteristic
+during their careers. Thus if an outsider known
+affectionately as ‘Little Jim Horsey’ to his friends gains
+INT+1 during his career in the Imperial Bureaucracy, he
+may swap this for a level of Outsider.
+The Outsider skill is used in checks to overcome
+claustrophobia and loneliness but becomes a negative
+DM on interactions with ‘real’ K’kree. Thus Jim Horsey,
+with Outsider 3 suffers DM-3 on all checks when trying
+to get along with ‘real’ K’kree.
+A K’kree with Outsider 0 or better makes checks to deal
+with loneliness less often than an isolated ‘real’ K’kree.
+At skill level 0 the check is made every D3 days. Skill
+level 1 raises this to 1D days; level 2 to 2D days level 3
+to 3D days and so forth. In addition, if a check is failed,
+the K’kree Traveller can try to pull himself together the
+next day with a new check.
+
+

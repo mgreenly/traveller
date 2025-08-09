@@ -1,0 +1,245 @@
+DREAMSONG LABORATORY SHIP
+Built on a 600 ton hull, the Dreamsong laboratory
+ship is ovoid in shape, with decks laid out like a
+skyscraper. A large open gallery extends the length
+of ship, giving the crew access to every deck easily.
+Four heavy landing legs support the ship when
+landing. The ship can also float in water.
+
+The ship fitout described here is a basic one for
+the Dreamsong and it is not unusual for additional
+modifications to be made to the ship after
+construction. The addition of another computer is
+quite common, as is upgrading the software suite to
+more specific applications.
+
+TL12
+
+TONS COST (MCr)
+
+Hull
+
+600 tons, Sphere
+
+—
+
+33
+
+M-Drive
+
+Thrust 1
+
+6
+
+12
+
+J-Drive
+
+Jump 2
+
+35
+
+52.5
+
+Power Plant
+
+Fusion, Power 300
+
+20
+
+20
+
+Fuel Tanks
+
+J-2, 12 weeks of operation
+
+126
+
+—
+
+20
+
+3
+
+Bridge
+
+Pilot, Astrogator,
+Engineer, Medic,
+Scientists x10
+
+Hull: 240
+Running Costs
+
+Computer
+
+Computer/15
+
+—
+
+2
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Extended Array
+
+6
+
+8.6
+
+Probe Drones (advanced) x15
+
+3
+
+2.4
+
+Docking Space (55 tons)
+
+61
+
+15.25
+
+Ocean Quest Submersible
+Laboratory
+
+—
+
+37.5
+
+Power Requirements
+
+Docking Space (4 tons)
+
+5
+
+1.25
+
+Basic Ship Systems
+
+Air/Raft
+
+—
+
+0.25
+
+120
+
+Fuel Processor (100 tons/day)
+
+5
+
+0.25
+
+Manoeuvre Drive
+
+Fuel Scoop
+
+—
+
+—
+
+60
+
+Laboratory (10 Dolphin
+researchers)
+
+80
+
+20
+
+Jump Drive
+
+Medical Bay (5 Dolphin patients)
+
+4
+
+2
+
+Sensors
+
+Dolphin Standard x15
+
+120
+
+15
+
+12
+
+Common Area
+
+30
+
+3
+
+Fuel Processor
+
+Flight Operations/2
+
+—
+
+10
+
+5
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Research Assistant/2
+
+—
+
+3
+
+Science (general)
+
+—
+
+25
+
+Jump Control/2
+
+—
+
+0.2
+
+76
+
+—
+
+Systems
+
+Staterooms
+Software
+
+Cargo
+
+Dreamsong
+Laboratory
+Ship
+
+190
+
+Crew
+
+MAINTENANCE COST
+Cr20362.5/month
+PURCHASE COST
+MCr244.35
+
+120
+
+

@@ -1,0 +1,56 @@
+PSIONICS
+Orca are as capable as humans in psychic potential but it
+is something which is rarely tested for. An Orca that does
+prove positive for psionic potential is able to pursue the
+Psion career (page 204 of the Traveller Core Rulebook).
+
+ORCA SKILLS
+
+Orca with a waldo set can perform just about any
+skill a human can. Those without are limited to skills
+which do not require hands or legs. A few other special
+considerations apply to Orca.
+Athletics: Orca use Athletics (dexterity) only for
+high jumping or long jumping if it begins in the water.
+Sprinting means fast swimming. Use the normal rules
+except that a sprinting Orca can cover 96 + twice their
+Effect metres with every check. An Orca may not climb.
+Athletics (dexterity) is also used for catching things with
+an Orca’s teeth or rostum. Use Athletics (endurance)
+for long distance swimming and Athletics (strength) for
+tasks such as swatting with a tail or ramming with a
+rostrum, although actual attacks use Melee (natural).
+Vacc Suit: This is a very common skill among Orca
+even if they do not serve in space. Orca may use their
+Vacc Suit skill to offset any negative DM inflicted by
+waldos but may not increase the DM above +0.
+
+UNAVAILABLE SKILLS
+Orca Travellers have some limitations on the skills
+they receive during their careers and may not gain the
+Broker or Gambler skills. If one of these skills is rolled,
+roll for another. If the second result is the same, the roll
+is lost and the career process continues as normal.
+
+MUSTERING OUT
+
+Any Benefit rolls from careers an Orca takes terms
+in, including Dolphin Citizen or Dolphin Military, which
+result in Armour or Weapon may instead be taken as
+a travel suit (without waldo). Additional results of the
+same type can be taken as a waldo or additional travel
+suits. If an Orca already possessing a travel suit and
+waldo receives an Armour or Weapon result, they may
+instead raise their Vacc Suit skill by one level.
+When rolling on a Cash Benefits table from careers other
+than Philosopher-elder, Spirit Singer, Dolphin Citizen and
+Dolphin Military, all results are reduced to 10% of their
+Credit value to represent the total lack of interest in or
+understanding of money on the part of Orca Travellers.
+Benefit rolls resulting in a Waldo or Travel Suit grant
+these items to a maximum of TL12.
+
+Orca Travellers
+219
+
+

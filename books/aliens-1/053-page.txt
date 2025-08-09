@@ -1,0 +1,41 @@
+A03/75674
+
+HEAVY VACC SUIT
+
+Heavy vacc suits are designed for use in hostile environments,
+much like the human HEV suit. The suya’uiyekhva includes powered
+actuators to aid the wearer’s movements, as well as a limited builtin artificial intelligence to advise male wearers on correct operation.
+It offers 12 hours of life support, although an Aslan may not use a
+dewclaw while wearing this armour.
+
+Armour Type
+
+Protection
+
+TL
+
+Rad
+
+Kg
+
+Cost
+
+Required Skill
+
+Heavy Vacc Suit
+
++8
+
+10
+
+75
+
+32
+
+Cr15000
+
+Vacc Suit 1
+
+53
+
+

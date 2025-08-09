@@ -1,0 +1,55 @@
+A03/48956
+
+PROTECTIVE EQUIPMENT
+
+Hivers do not wear clothing as such, although they may use clothing-like items for practical purposes. Most Hivers wear a
+utility harness which allows tools and other items to be carried, and those likely to be operating outside may attach pouches
+containing rainproof sheets if desired. If a filter mask or similar device is required, it must be of a design that attaches to the
+harness and fits over the Hiver’s blowhole. Face-type masks are useless, though a transparent cover for the primary limb is
+sometimes used to prevent dust and other irritants affecting the eyes.
+Hivers, rather obviously, cannot wear protective equipment manufactured for other races. Their vacc suits have similar
+operating parameters to those meant for humans, and cost the same, but are of an entirely different shape. Equipment
+intended to protect against damage is often made from the same materials as human gear but shaped to Hiver requirements.
+Ballistic cloth body armour is available for Hivers. Body protection can take the form of a ‘vest’ covering only the torso or a
+‘jacket’ covering all limbs but the primary one. A separate ‘helmet’ protecting this limb but leaving the sensory organs free is
+available for use with either. In addition, a psionic shield device is available which can be worn on a harness or incorporated
+into a vacc suit or body armour. This costs Cr4000 and must be built into a suit at the time of manufacture.
+
+Armour Type
+Hiver Ballistic Vest
+Hiver Ballistic Jacket
+Hiver Ballistic Helmet
+
+254
+
+Protection
++4
++6
++2
+
+TL
+10
+10
+10
+
+Rad
+—
+—
+—
+
+Kg
+7
+10
+2
+
+Cost
+Cr500
+Cr650
+Cr250
+
+Required Skill
+None
+None
+None
+
+

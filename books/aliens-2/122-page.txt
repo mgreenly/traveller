@@ -1,0 +1,34 @@
+COMPANION ANIMALS
+The Solomani culture generally involves a love of
+animals. It is not uncommon to encounter people
+keeping animals in conditions that require them to go
+to a lot of trouble, such as aboard starships and space
+stations or on inhospitable worlds.
+
+Cat: Cats are typically kept as pets or for vermin
+control. Prices vary depending on breed, ranging from
+Cr1 to Cr600.
+Dog: Working and pet dogs are common on many
+worlds, even where robotic systems would be far more
+efficient. Fighting or guard dogs and similar animals
+start at five times the listed price. Similarly, pedigree
+dogs are something of an obsession on some worlds and
+can command enormous prices depending upon their
+bloodline and performance in shows, ranging from Cr10
+to Cr2000.
+
+122
+
+Riding/Working Horse: Horses are popular for recreational
+riding among the better-off echelons of society on
+many worlds. On some backwater planets they can be
+encountered as working animals. For example, it is not
+uncommon to see farm hands riding horses guiding
+huge agricultural robots. Specialist animals such as
+cavalry mounts or racehorses start at five times the
+normal price and high-quality animals can cost 1,000
+times as much again (or more!). Typical mounts can
+walk at Idle speed or running at Very Slow speed and
+cost Cr1200.
+
+

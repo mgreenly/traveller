@@ -1,0 +1,191 @@
+T
+
+6
+
+R
+
+Militia
+
+ASSIGNMENTS
+
+Darrian Travellers
+
+Mishaps
+
+Skills and training
+
+Choose one of the following:
+Flyer: You pilot an atmospheric fighter, grav bike or grav tank. Life
+expectancy is projected to be low in real conflict but you live for the
+speed, skill and daring.
+Infantry: You are a foot soldier trained in mobile, irregular
+combat. You are a versatile fighter in both urban and wilderness
+settings, using tricks and traps to overcome superior firepower.
+Support: You are a mechanic, medic, commtech, or other support
+engineer, patching up militia or equipment damaged in conflict.
+
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Athletics
+Gun Combat
+Melee
+
+SERVICE SKILLS
+Athletics
+Gun Combat
+Melee
+Recon
+Stealth
+Survival
+
+1D
+1
+2
+3
+4
+5
+6
+
+FLYER
+Electronics (comm)
+Flyer
+Flyer
+Heavy Weapons (vehicle)
+Mechanic
+Electronics (sensors)
+
+INFANTRY
+Deception
+Gun Combat
+Heavy Weapons
+Melee
+Recon
+Stealth
+
+1
+2
+3
+4
+5
+6
+
+50
+
+E
+
+Flyer
+Infantry
+Support
+
+Qualification: END 5+
+DM-1 for every previous career
+Commission: INT 8+
+
+1D
+
+V
+
+L
+
+L
+
+E
+
+Career progress
+
+Members of a planetary armed force, militia serve to defend their
+homeworld using guerrilla warfare.
+
+6
+
+A
+
+SURVIVAL
+DEX 7+
+STR 6+
+END 5+
+
+ADVANCEMENT
+INT 5+
+EDU 6+
+EDU 7+
+
+Mustering out benefits
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr500
+Cr1000
+Cr2000
+Cr5000
+Cr10000
+Cr20000
+Cr50000
+
+ADVANCED EDUCATION
+(MIN. EDU 8)
+Tactics (military)
+Electronics
+Navigation
+Explosives
+Engineer
+Survival
+
+BENEFITS
+INT +1
+END +1
+EDU +1
+Weapon
+Armour
+Vehicle
+Weapon
+
+OFFICER
+(COMMISSIONED ONLY)
+Electronics (comms)
+Electronics (computers)
+Leadership
+Navigation
+Electronics (sensors)
+Tactics (military)
+
+SUPPORT
+Electronics (comms)
+Engineer
+Explosives
+Mechanic
+Medic
+Electronics (sensors)
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury Table and take the lower result.
+A superior officer has you drummed out of the service. Gain a Rival.
+During an exercise you become lost behind ‘enemy’ lines. Gain Gun Combat, Stealth, Streetwise
+or Survival.
+Whilst training you shoot a superior officer and are exiled from your unit. Lose SOC -1.
+You risk severe injury in a dangerous live fire skirmish. If you fight bravely, roll Gun Combat or
+Athletics 8+. If you fail, roll on the Injury table and leave this career. If you succeed, you may
+remain in this career. If you refuse to fight bravely, you must leave this career.
+Injured. Roll on the Injury table.
+
+R
+
+

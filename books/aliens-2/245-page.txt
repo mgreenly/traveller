@@ -1,0 +1,42 @@
+13
+
+12
+
+11
+
+DECK 3
+
+5
+
+10
+
+9
+
+14
+
+6
+
+4
+To D e c k 1
+
+8
+7
+
+DECK 2
+
+LEGEND
+4. Bridge
+5. Sensors
+6. Power plant
+7. M-drive
+8. J-drive
+9. Repair drones
+10. Laboratory
+11. Workshop
+12. Library
+13. Missile barbettes
+14. Airlocks
+
+245
+
+

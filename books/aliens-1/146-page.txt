@@ -1,0 +1,111 @@
+A11/58231
+
+DISTANT LANCE
+
+The Distant Lance is an inexpensive fire support unit,
+physically little different from the Friend but much more richly
+decorated. It carries a laser rifle like that of the Friend but
+has much better sensors and targeting equipment and is often
+programmed to move slowly behind a band, acting as a sniper
+to take out enemy heavy weapons emplacements.
+
+ROBOT
+
+HITS
+SPEED
+TL
+COST
+30
+12m
+10
+Cr45000
+SKILLS
+Gun Combat (energy) 2, Recon 1
+ATTACKS
+Laser Rifle (5D)
+TRAITS
+Armour (+16)
+PROGRAMMING Hunter/Killer
+Distant Lance
+
+A11/58231
+
+OPENER-OF-THE-WAY
+
+The Opener is a specialist unit without offensive weaponry. It
+can be run into a target to deliver obstacle-clearing explosives.
+These include small charges dropped onto obstacles and
+spools of explosive wire, which are then detonated to clear a
+path through a minefield, barbed wire or similar obstacles.
+A path 2m wide by 100m long can be cleared, or multiple
+shorter sections, and there are enough charges aboard to clear
+twelve light obstructions such as barricades or metal fences.
+
+ROBOT
+Opener-of-theWay
+
+HITS
+30
+
+SPEED
+12m
+
+TL
+10
+
+COST
+Cr35000
+
+SKILLS
+Explosives 1, Recon 0
+ATTACKS
+Explosive Charges (2D, Burst 2)
+TRAITS
+Armour (+18)
+PROGRAMMING Hunter/Killer
+
+A11/58231
+
+GUARDIAN-OF-GLORY
+
+The Guardian has a set of armoured shields flaring out from
+its frontal section, creating a mobile position of cover for an
+advancing warrior band. It is armed with a laser rifle along its
+main axis and a rapid-fire stagger laser weapon in an ovoid
+turret well forward on the torso. The effect is intentionally
+to create the impression of a noble K’kree, cloak flying out
+to the sides. The turret has all-round firepower; the heavy
+laser requires pivoting the whole unit and can deprive those
+behind it of cover when engaging targets to the side. Under
+normal circumstances the Guardian is set to weave among and
+ahead of an advancing warrior band, although it can also be
+commanded to provide cover for a specified individual.
+
+ROBOT
+Guardian-ofGlory
+
+SKILLS
+ATTACKS
+
+HITS
+35
+
+SPEED
+10m
+
+TL
+12
+
+COST
+Cr75000
+
+Gun Combat (energy) 1, Recon 0
+Laser Rifle (5D), Stagger Laser Rifle (5D,
+Auto 2)
+TRAITS
+Armour (+22)
+PROGRAMMING Hunter/Killer
+
+146
+
+

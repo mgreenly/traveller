@@ -1,0 +1,39 @@
+Yarlasth-class
+Heavy Fighter
+
+1 square = 0.5 Ton
+
+LEGEND
+1. Manoeuvre Drive
+2. Power Plant
+3. Bridge
+4. Sensors
+5. Single Turret
+6. Fixed Mount Particle Beam
+7. Fixed Mount Missile Rack
+8. Missile Storage
+9. Airlock
+10. Cargo Hold
+
+6
+
+7
+
+4
+
+3
+
+9
+8
+
+5
+
+10
+
+2
+
+1
+
+240
+
+

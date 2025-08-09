@@ -1,0 +1,106 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured in action (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury table and take the lower result.
+
+2
+
+You spend the entire term in the Frozen Watch, in cold sleep within a cryoberth. You are not ejected from the
+career but do not make either an advancement or skill rolls this term. You may automatically reenlist if you
+wish. This term is not counted toward your physical age (for the purposes of aging rolls); that is, your physical
+age will be four years younger than your chronological age.
+
+3
+
+In a moment of anger, you criticise the incompetence of an officer who you believe was promoted due to their
+Solomani Party connections. They discover or trump up evidence questioning your loyalty to the Solomani Cause,
+triggering a SolSec investigation that forces you out of the Navy. Exception: If you are a secret SolSec agent, you
+expose their activities. Your cover is blown and you must leave the service but you do not lose a Benefit roll.
+
+4
+
+During a crisis or battle, the ship’s safety hinges on your actions. You must make a check using a skill that
+depends on your branch: Electronics (sensors) or Gunner if you are crew, Mechanic, Engineer or Vacc Suit if you
+are technical and Pilot or Tactics (naval) if you are flight. If you fail, the ship suffers severe damage and you are
+blamed for the disaster. You are court-martialled and discharged. If you succeed, your efforts ensure that you
+are honourably discharged. You still leave the career but may keep your Benefit roll from this term.
+
+5
+
+In a three-way political conflict between the Party, the Navy and SolSec, the Navy loses. You are among
+many personnel who are purged, ending your career. Exception: If you are a secret SolSec agent, you were
+instrumental in the purge. Your cover is blown, ending your career and you gain a former Navy officer as an
+Enemy, but do not lose a Benefit roll.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+Your starship explores an alien world. Gain one of Animals (riding or training) 1, Survival 1, Recon 1 or
+Science 1.
+
+4
+
+Your warship is assigned to a lengthy patrol. In your off-duty time, you have a choice between recreation and
+joining a Party-sponsored political study group. If you choose recreation, gain either Carouse 1 or Gambler 1. If
+you attend a political study group, gain a DM+2 on your next advancement roll in the Navy and roll INT 8+ to
+gain one of Advocate 1 or Science (history or philosophy) 1.
+
+5
+
+You are assigned to test a new starship or weapon system, which is a prestige project of the Solomani Party.
+Roll EDU 8+ to gain one level in either Admin or Engineer (any). Gain one Contact at a Party-run corporation or
+in the Ministry of Science and Technology.
+
+6
+
+Your vessel fights in a notable space engagement. Gain one of Electronics (sensors) 1, Engineer 1, Gunner 1,
+Pilot 1 or Tactics (naval) 1.
+
+7
+
+Life Event. Roll on the Solomani Life Events table on page 136.
+
+8
+
+Your vessel participates in a diplomatic mission. Gain one of Language 1, Recon 1, Diplomacy 1, Steward 1 or
+a Contact.
+
+9
+
+Your vessel is assigned to a deep space survey mission. Gain Astrogation 1 or Science (any) 1.
+
+10
+
+Your starship is sent on a covert mission into the Imperial space to provide support for Solomani guerrillas.
+Gain one of Comms 1, Deception 1 or Remote Operations 1.
+
+11
+
+Your commanding officer takes an interest in your career. Either gain Tactics (naval) 1 or take a +4 DM on your
+next Advancement roll thanks to his aid.
+
+12
+
+You display uncommon valour in a crisis, saving the entire ship. You gain a promotion or commission
+automatically.
+
+133
+
+

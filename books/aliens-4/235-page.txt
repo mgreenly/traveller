@@ -1,0 +1,191 @@
+GIG
+
+CLASS: GSHAHK
+
+Built on a 20-ton frame, the Gshahk is a swift
+vessel used to quickly transport crew to larger
+vessels. Commonly carried by spacecraft without
+the ability to land in an atmosphere, the Gshahk
+
+TL12
+
+can see a lot of use. They can also be used as a
+small troop transport if necessary. Armed with a
+beam laser, the gig is able to defend itself to an
+extent but is not a fighting vessel.
+
+Tons
+
+Cost (MCr)
+
+Hull
+
+20 Tons, Streamlined
+
+—
+
+1.2
+
+M-Drive
+
+Thrust 6
+
+1.2
+
+2.4
+
+Power Plant
+
+Fusion (TL12), Power 21
+
+1.4
+
+1.4
+
+Fuel Tanks
+
+4 weeks operation
+
+1
+
+—
+
+3
+
+0.5
+
+Bridge
+
+Crew
+Pilot, Gunner
+
+Hull: 8
+Running Costs
+MAINTENANCE COST
+
+Computer
+
+Computer/5
+
+—
+
+0.03
+
+Cr569/month
+
+Sensors
+
+Basic
+
+—
+
+—
+
+Weapons
+
+Fixed Mount (beam laser)
+
+—
+
+0.6
+
+PURCHASE COST
+
+Systems
+
+Acceleration Seats x10
+
+5
+
+0.3
+
+Airlock
+
+4
+
+0.4
+
+Fuel Scoops
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+4.4
+
+—
+
+Software
+
+Cargo
+
+MCr6.83
+
+Power Requirements
+Basic Ship Systems
+4
+Manoeuvre Drive
+12
+Sensors
+
+Total: MCr6.83
+
+0
+Weapons
+3
+
+1 square = 0.5 Ton
+
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Manoeuvre Drive
+Power Plant
+Bridge
+Fixed Mount Particle Beam
+Acceleration Seats
+Airlock
+Cargo Hold
+
+2
+
+7
+
+6
+
+1
+
+4
+3
+
+5
+
+6
+
+235
+
+

@@ -1,0 +1,152 @@
+LIMB ARMOUR
+
+PROTECTION
+
+TL
+
+RAD
+
+KG
+
+COST
+
+REQUIRED SKILL
+
+Bracers
+Heavy Bracers
+Arm Guards
+Arm Shield
+Fighting Boot
+Charging Boot
+Stomping Boot
+
++1
++2
++3
++6 (special)
++1
++2
++3
+
+7
+8
+8
+9
+6
+7
+8
+
+—
+—
+—
+—
+—
+—
+—
+
+1.5
+2.5
+4
+3
+1.5
+2
+4
+
+Cr50
+Cr100
+Cr200
+Cr100
+Cr100
+Cr150
+Cr250
+
+None
+None
+None
+None
+None
+None
+None
+
+Charging Boot (Dzouegon): Charging boots are designed
+to protect the whole lower leg and have additional
+protection for the foot and ankle. Although heavier,
+they are not significantly more encumbering than
+fighting boots.
+Stomping Boot (Gvoderrsku): Stomping boots are
+designed for heavy assault work through obstacles or
+anti-personnel minefields. A very heavy armoured boot
+covers the lower leg, with a flexible section above the
+knee augmented by light plates on the front of the
+thigh. Stomping boots reduce movement speed by one
+metre and impose DM-1 on checks requiring delicate
+placement of the feet.
+
+ARMOUR SETS
+
+Although the exact design and composition of Vargr
+armour tends to vary considerably, it is possible to buy a
+complete set of armour that fits a general specification.
+Parts may or may not match one another, depending
+on their origin, and prices can also vary depending
+upon the quality of the equipment, its age and who it
+belonged to in the past. A beat-up piece of armour can
+sometimes have quite a history to it and be worn with
+pride by its owner.
+
+Warrior Set (Zurrku-Ekdho): Consisting of a heavy vest
+and bracers, this warrior set is favoured by those who
+move in and out of vehicles on a frequent basis and by
+urban combat specialists.
+Warrior Set (Zurrku-Oengga): Adding a set of fighting
+boots and an arm shield to the Zurrku-Ekdho, this set
+is favoured by lightly equipped assault troops or whose
+who prefer highly mobile hand-to hand combat.
+Warrior-Leader Set (Vhezk-Zurrku): A heavy vest and
+bracers attached to a suitably ostentatious lightly
+armoured jacket, this loadout is favoured by those who
+hope to lead others in the thickest of the fight
+Assault Set (Kungedz-Udhvarr): Although intended for
+the assault role, the Kungedz-Udhvarr is very light and
+has no chest protection. It consists of separate pieces:
+shoulder guards, charging boots, a light bracer on the
+primary hand and a heavy arm guard on the secondary,
+with an attached arm shield.
+
+Fighter Set (Kforzhazuk): The lightest fighter set is
+favoured by warriors who need to move fast but want
+some protection. It consists of a set of shoulder guards
+and light bracers, used by those who expect hand-tohand combat.
+
+Assault Set (Kungedz-Dhagu): A breastplate attached to a
+heavy ballistic cloth coverall, with bracers and charging
+boots, this is a standard loadout for combat troops
+expecting to fight in a linear environment, such as a
+starship or spaceport.
+
+Fighter Set (Kforzgong): A variant on the fighter set, this
+kit consists of a set of charging boots and light bracers,
+is favoured by scouts or those expecting to encounter
+ground-level hazards.
+
+Heavy Assault Set (Kungedz-Verz): A heavy armoured
+vest, stomping boots and arm guards all permanently
+attached to a fireproof heavy ballistic coverall, this
+assault set is used by many Vargr combat troops who
+cannot get away with swapping components to create
+something a bit more dashing.
+
+Leader-Fighter Set (Vhezkforz): Consisting of a set of
+shoulder guards fitted to a light ballistic cloth jacket,
+with an additional fireproof cloak for gravitas and
+protection, the fighter-leader set is favoured by many
+Vargr officers. Bracers or boots may be easily added.
+
+210
+
+Warrior Set (Zuurku-Azuk): The lightest of the warrior
+sets, this loadout consists of an armoured vest and
+bracers. It is used, for the most part, by pilots and
+vehicle crew.
+
+

@@ -1,0 +1,74 @@
+Software
+
+Cargo
+
+Anti-Hijack/2
+
+—
+
+8
+
+Auto-Repair/1
+
+—
+
+5
+
+Broad Spectrum EW
+
+—
+
+14
+
+Electronic Warfare/2
+
+—
+
+18
+
+Evade/1
+
+—
+
+1
+
+Fire Control/2
+
+—
+
+4
+
+Jump Control/4
+
+—
+
+0.4
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+100.8
+
+—
+
+Pese-Teko-We Class
+Destroyer
+
+279
+
+

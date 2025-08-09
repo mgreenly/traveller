@@ -1,0 +1,131 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+T
+
+W
+
+E
+
+N
+
+T
+
+Y
+
+O
+
+N
+
+E
+
+VEHICLES OF THE ZHODANI
+UTILITY GRAV SLED
+TL
+
+12
+
+SKILL
+
+FLYER (GRAV)
+
+AGILITY
+
++2
+
+SPEED (CRUISE)
+
+HIGH (MEDIUM)
+
+RANGE (CRUISE)
+
+3000 (4500)
+
+CREW
+
+1
+
+PASSENGERS
+
+1
+
+CARGO
+
+5 TONS
+
+HULL
+
+40
+
+SHIPPING
+
+10 TONS
+
+COST
+
+CR980000
+
+Autopilot (skill level) 2
+Communications 1000
+(range) km
+Navigation
+(Navigation DM) +2
+Sensors (Electronics
+(sensors) DM) +1
+Camouflage (Recon
+DM) —
+Stealth (Electronics
+(sensors) DM) —
+
+ARMOUR
+F RONT
+
+4
+
+REAR
+
+4
+
+SIDES
+
+4
+
+WEAPONS
+None
+
+EQUIPMENT
+
+TRAITS
+
+Autopilot (enhanced), Communication System (advanced),
+Computer/1, Control System (improved), Entertainment System,
+Fire Extinguisher, Life Support (short term), Navigation System
+(improved), Sensor System (improved), Vacuum Protection
+
+—
+
+DESCRIPTION
+This is a medium-weight grav truck used by
+many civilian concerns within Zhodani space,
+as well as the military. The grav sled is noted
+for its ruggedness and safety in a wide range
+of planetary environments. It is sealed against
+water and vacuum, and durable enough to
+withstand collisions and incidental impacts.
+
+285
+
+

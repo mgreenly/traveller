@@ -1,0 +1,85 @@
+1
+
+ACADEMIC
+
+All Hivers are curious about pretty much everything but few devote themselves full-time to study and research.
+Those who do may be experimenters or researchers, or may specialise in the fields necessary to support a nest and
+ensure the well-being of its young.
+Open To: Academic Nests. Hivers from Generalist nests may take the Physician Assignment only.
+Qualification: Determined by nest.
+
+ASSIGNMENTS
+Choose one of the following:
+Experimenter: You believe in direct observation of phenomena and conducting experiments yourself – although
+usually in a supervisory role with someone else taking any risks.
+Researcher: You collect information and lore. This may be on scientific or non-scientific subjects such as the history
+of a particular alien race. You may also research fields not normally considered academic subjects such as trying to
+cross-reference the folk tales of different species. It is your approach that defines you as a Researcher; you like to
+work from existing sources rather than going out in the field.
+Physician: You are an expert in the arts and sciences that support a nest, from food preparation and medical
+procedures to teaching the young through tales of past manipulations.
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+262
+
+PERSONAL DEVELOPMENT
+RES +1
+INT +1
+EDU +1
+Survival
+Language
+Science
+EXPERIMENTER
+Mechanic
+Electronics
+Science
+Vacc Suit
+Investigate
+Science
+
+SERVICE SKILLS
+Drive or Flyer
+Admin
+Persuade
+Investigate
+Science
+Electronics
+RESEARCHER
+Electronics
+Science
+Investigate
+Language
+Persuade
+Medic
+
+ACTIVE ACADEMIC (MIN. RES 7+)
+RES +1
+Deception
+Diplomat
+Persuade
+Language
+Science (sociology)
+PHYSICIAN
+Medic
+Survival
+Science
+Electronics
+Persuade
+Medic
+
+

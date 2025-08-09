@@ -1,0 +1,141 @@
+Career Summary
+Career
+Agent
+
+Specialisation
+
+Qualification
+INT 6+
+
+Tozjabr
+Thought Police
+Army
+
+Survival
+
+Advancement
+
+INT 7+
+END 6+
+
+INT 5+
+INT 6+
+
+DEX 7+
+STR 6+
+END 5+
+
+INT 5+
+EDU 6+
+EDU 7+
+
+SOC 6+
+EDU 7+
+INT 5+
+
+INT 6+
+INT 5+
+DEX 7+
+
+INT 7+
+END 6+
+
+EDU 8+
+EDU 6+
+
+END 7+
+END 6+
+END 5+
+
+EDU 5+
+EDU 6+
+EDU 7+
+
+EDU 5+
+EDU 5+
+DEX 6+
+
+INT 7+
+INT 7+
+INT 6+
+
+INT 5+
+DEX 7+
+INT 6+
+
+EDU 7+
+EDU 5+
+EDU 6+
+
+INT 7+
+SOC 6+
+END 4+
+
+END 5+
+INT 6+
+EDU 8+
+
+END 6+
+EDU 4+
+EDU 4+
+
+INT 6+
+INT 6+
+INT 8+
+
+END 5+
+Cavalry
+Infantry
+Support
+
+Entertainer
+
+INT 5+
+Artist
+Author
+Performer
+
+Government
+
+INT 8+
+Administration
+Diplomat
+
+Guard
+
+END 6+
+Commandos
+Ground Assault
+Support
+
+Merchant
+
+INT 4+
+Broker
+Corporate
+Free Trader
+
+Navy
+
+INT 6+
+Crew
+Flight
+Technical
+
+Prole
+
+INT 4+
+Colonist
+Corporate
+Worker
+
+Scholar
+
+INT 6+
+Field Researcher
+Lab Scientist
+Physician
+
+255
+
+

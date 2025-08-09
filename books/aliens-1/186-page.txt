@@ -1,0 +1,163 @@
+CORSAIR
+
+3
+
+Corsair bands are independent groups of pirates
+and mercenaries who are not constrained by laws
+and borders. They prey on merchant shipping
+throughout Vargr space and beyond, into the
+Consulate and Imperium, a scourge for traders
+throughout civilised systems.
+
+Qualification: CHA 7+
+
+CAREER PROGRESS
+SURVIVAL
+END 7+
+END 6+
+END 6+
+
+Raider
+Pilot
+Reaver
+
+ASSIGNMENTS
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Raider: You are part of the main attacking force
+in your band, specialising in boarding and looting
+ships.
+Pilot: You are one of the pilots or navigators in
+your corsair band.
+Reaver: You are part of the ship’s crew and
+function as an engineer, gunner or other
+supporting role.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr5000
+Cr10000
+Cr25000
+Cr50000
+Cr75000
+Cr100000
+
+BENEFITS
+Ship Share
+DEX +1
+Weapon
+Armour
+Two Ship Shares
+CHA +1
+Corsair
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+Gambler
+Gun Combat
+Melee
+CHA +1
+RAIDER
+Stealth
+Recon
+Melee
+Gun Combat
+Athletics
+Explosives
+
+SERVICE SKILLS
+Vacc Suit
+Athletics (dexterity)
+Stealth
+Recon
+Melee
+Gun Combat
+PILOT
+Pilot
+Astrogation
+Electronics
+Gunner
+Athletics (dexterity)
+Flyer
+
+—
+—
+—
+—
+—
+—
+REAVER
+Engineer
+Electronics
+Gunner
+Mechanic
+Athletics
+Leadership
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+RAIDER SKILL OR BENEFIT
+Melee 1
+Gun Combat 1
+—
+Leadership 1
+—
+Tactics 1
+
+PILOT SKILL OR BENEFIT
+Electronics (sensors) 1
+Astrogation 1
+—
+Pilot 1
+—
+—
+
+REAVER SKILL OR BENEFIT
+Engineer 1
+—
+—
+Leadership 1
+—
+—
+
+ADVANCEMENT
+CHA 7+
+CHA 6+
+CHA 6+
+
+

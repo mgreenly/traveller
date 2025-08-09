@@ -1,0 +1,97 @@
+OCEAN QUEST SUBMERSIBLE
+LABORATORY
+
+Traits
+Equipment
+
+A large submarine used by Dolphins to perform
+undersea research and experimentation. These
+vehicles use a waterjet drive to cut down on the noise
+more conventional drives produce, which Dolphins
+find irritating. Facilities within the vehicle are normally
+designed for Dolphin passengers but some vehicles are
+built for multi-species crews.
+TL
+
+10
+
+SKILL
+
+Seafarer (submarine)
+
+AGILITY
+
+-2
+
+SPEED (CRUISE)
+
+Slow (Very Slow)
+
+RANGE (CRUISE) 100 years
+CREW
+
+2
+
+PASSENGERS
+
+8
+
+CARGO
+
+4 tons
+
+HULL
+
+660
+
+SHIPPING
+
+55 tons
+
+COST
+
+MCr37.5
+
+Increased Dive
+Airlock, Autopilot (enhanced), Bunks,
+Computer/4, Communications
+System (improved, satellite uplink),
+Control System (enhanced), Cutting
+Tool, Fresher, Fusion Plant, Galley,
+General Purpose, Geological Sampler,
+Holding Tank, Hydrographic Sampler,
+Laboratories, Life Support (long term),
+Manipulator Arms x2, Navigation
+System (improved), Sensor System
+(improved, underwater)
+
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+2
+500km
++2
++1
+-4
+—
+
+ARMOUR
+FRONT 6
+
+REAR
+
+6
+
+SIDES
+
+6
+
+Vehicles of the Dolphins
+183
+
+

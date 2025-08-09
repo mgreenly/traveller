@@ -1,0 +1,212 @@
+HKIYRERAO-CLASS RESEARCHER
+TL14
+
+TONS
+
+COST (MCR)
+
+Hull
+
+400 tons, Streamlined
+
+—
+
+24
+
+M-Drive
+
+Thrust 1
+
+4
+
+8
+
+J-Drive
+
+Jump 3
+
+35
+
+52.5
+
+Power Plant
+
+Fusion (TL12), Power
+240
+
+16
+
+16
+
+Fuel Tanks
+
+J-3, 16 weeks of
+operation
+
+128
+
+—
+
+Bridge
+
+20
+
+2
+
+Computer
+
+Computer/25
+
+—
+
+10
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Systems
+
+Fuel Scoops
+
+—
+
+—
+
+Fuel Processor (60 tons/
+day)
+
+3
+
+0.15
+
+Shrine
+
+4
+
+0.5
+
+Laboratories
+
+40
+
+10
+
+Docking Space (40 tons)
+
+44
+
+11
+
+Pinnace
+
+-
+
+8.732
+
+Standard x 15
+
+60
+
+7.5
+
+Low Berths x 10
+
+5
+
+0.5
+
+Jump Control/3
+
+—
+
+0.3
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Intellect
+
+—
+
+1
+
+Common Areas
+
+10
+
+0.4
+
+Cargo
+
+28
+
+—
+
+Staterooms
+Software
+
+CREW
+CAPTAIN/PILOT, EXECUTIVE
+OFFICER/HEAD SCIENTIST,
+ASTROGATOR, ENGINEERS X 2
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr13153/month
+
+PURCHASE COST
+MCr157.832
+
+Power Requirements
+40
+
+80
+
+3
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+120
+
+4
+
+JUMP DRIVE
+
+SENSORS
+
+TOTAL: MCR 157.832
+Using a 400-ton hull, the Hkiyrerao-class
+researcher was designed to investigate
+scientific phenomena and conduct tests
+around newly discovered worlds. The ship
+carries one pinnace and one GCarrier
+as vehicles, along with a fully-equipped
+scientific laboratory that can cater to the
+needs of up to 10 scientists.
+
+160
+HULL POINTS
+94
+
+

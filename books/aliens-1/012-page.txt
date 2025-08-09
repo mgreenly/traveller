@@ -1,0 +1,195 @@
+Initial Consonants (87)
+Sound
+Freq
+F
+5
+FT
+4
+H
+7
+HF
+2
+HK
+5
+HL
+3
+HR
+3
+HT
+5
+HW
+2
+K
+7
+KH
+6
+KHT
+4
+KT
+4
+L
+2
+R
+3
+S
+4
+ST
+3
+T
+8
+TL
+2
+TR
+2
+W
+6
+Vowels (52)
+A
+10
+AI
+3
+AO
+2
+AU
+1
+E
+6
+EA
+6
+EI
+2
+I
+4
+IY
+3
+O
+2
+OA
+1
+OI
+2
+OU
+1
+U
+1
+UA
+1
+UI
+1
+YA
+2
+YU
+1
+
+12
+
+Pronunciation
+like whew
+rift
+hit
+like hfang
+like hkang
+like hlang
+like hrang
+height
+what
+kite
+loch Scottish
+Nachte German
+backed
+like
+run
+sun
+stop
+ton
+Tlaloc Aztec
+trip
+win
+lock
+kite
+Mao Chinese
+house
+get
+separately*
+bay
+kit
+feet
+gone
+separately*
+noise
+separately*
+lute
+separately*
+separately*
+yard
+feud
+
+Final Consonants (47)
+KH
+10
+L
+4
+LR
+7
+R
+3
+RL
+5
+S
+4
+W
+5
+`
+6
+
+loch Scottish
+all
+all right
+far
+earl
+hiss
+like wow
+glottal stop
+
+Generating Aslan Words
+
+Words in Aslan, like English, have definite letter
+frequencies and syllable patterns that are independent
+of information content; it is possible to randomly
+generate words that look and sound Aslan. Aslan
+syllables are composed of up to three elements; an
+initial consonant, a vowel and a final consonant.
+The Aslan sound frequency table shows the relative
+frequencies to be expected for various sounds in the
+Aslan language. For example, the relative frequency of
+‘f’ as an initial consonant is 5:87 and that of ‘h’ as a
+final consonant is 10:47.
+Pronunciations: This table is a guide to Aslan speech
+but many Aslan sounds are not reproducible by human
+vocal cords.
+*Separately means that the two letters are pronounced
+separately but very close together.
+Aslan has four syllable types; those consisting of just a
+vowel (V), those beginning with a consonant (CV), those
+ending with a consonant (VC) and those both beginning
+and ending with a consonant (CVC). In Aslan words,
+their relative frequency of occurrence is about 3:3:2:2.
+Out of 10 syllables, three will be V, three will be CV, two
+will be VC and two will be CVC.
+A few rules govern how sounds are grouped together.
+No syllable ending with a consonant can be followed by
+a syllable beginning with a consonant. A single letter
+vowel can never be followed directly by the same single
+letter vowel; for example, aa should not occur but aeae,
+or even aeei, could.
+
+ASLAN ANIMALS
+
+The Aslan regularly import creatures from their
+homeworld of Kusyu to their new colonies. Most imported
+creatures are livestock, brought to supply the race’s
+ceaseless hunger for fresh meat. A few are predators
+hunted by the Aslan for sport or creatures useful for other
+products or their place in the ecosystem.
+
+

@@ -1,0 +1,170 @@
+MERCHANT
+
+6
+
+Members of commercial enterprises within
+the Consulate. Merchants carry cargo and
+passengers between the worlds of the
+Consulate and beyond.
+Qualification: INT 4+
+
+ASSIGNMENTS
+
+CAREER PROGRESS
+SURVIVAL
+EDU 5+
+EDU 5+
+DEX 6+
+
+Broker
+Corporate
+Free Trader
+
+ADVANCEMENT
+INT 7+
+INT 7+
+INT 6+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Broker: You work in a starport brokerage
+helping corporations and traders find,
+purchase and sell goods.
+Corporate: You work on a massive cargo
+hauler or passenger liner owned by a
+corporation or megacorporation.
+Free Trader: You work on one of the many
+independent trade ships plying the worlds of
+the Consulate.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+1000
+5000
+10000
+20000
+20000
+40000
+40000
+
+BENEFITS
+Weapon
+Ship Share
+Two Ship Shares
+EDU +1
+INT +1
+Trader
+SOC +1 Trader
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+END +1
+INT +1
+Carouse
+Gun Combat
+Melee
+
+SERVICE SKILLS
+Broker
+Electronics
+Drive
+Persuade
+Steward
+Vacc Suit
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Advocate
+Astrogation
+Electronics
+Language
+Medic
+
+1D
+1
+2
+3
+4
+5
+6
+
+SPECIALIST: BROKER
+Admin
+Advocate
+Broker
+Diplomat
+Investigate
+Persuade
+
+SPECIALIST: CORPORATE
+Engineer
+Gunner
+Mechanic
+Pilot
+Vacc Suit
+Athletics
+
+SPECIALIST: FREE TRADER
+Engineer
+Mechanic
+Pilot
+Electronics
+Vacc Suit
+Athletics
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+BROKER
+Assistant
+Broker
+—
+Experienced Broker
+—
+Senior Broker
+—
+
+SKILL OR BENEFIT
+—
+Investigate 1
+—
+Broker 1
+—
+Admin 1
+—
+
+PSIONIC SKILLS (MIN.
+SOC 10)
+PSI +1
+Admin
+Persuade
+Clairvoyance
+Science (psychology)
+Talent
+
+

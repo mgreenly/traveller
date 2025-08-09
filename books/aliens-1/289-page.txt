@@ -1,0 +1,165 @@
+PRINCELY LORD ATTACK SPEEDER
+AGILITY
+
++2
+
+SPEED (CRUISE)
+
+FAST (HIGH)
+
+RANGE (CRUISE)
+
+3000 (4500)
+
+CREW
+
+3
+
+PASSENGERS
+
+—
+
+CARGO
+
+1 TON
+
+HULL
+
+150
+
+SHIPPING
+
+37.5 TONS
+
+COST
+
+MCR29.75
+
+F RONT
+
+110
+
+REAR
+
+50
+
+SIDES
+
+80
+
+DE FE
+
+NC
+
+AD
+
+WEAPONS
+
+ER
+
+FLYER (GRAV)
+
+ARMOUR
+
+E
+
+R
+SE
+
+SKILL
+
+Autopilot (skill level) 3
+Communications 10000
+(range) km
+Navigation
+(Navigation DM) +4
+Sensors (Electronics
+(sensors) DM) +2
+Camouflage (Recon
+DM) -4
+Stealth (Electronics
+(sensors) DM) –4
+
+N CED L A
+VA
+S
+
+14
+
+LA
+
+TL
+
+Fixed Mount (aerospace defence laser, forward, advanced fire control)
+
+EQUIPMENT
+TRAITS
+
+Anti-missile System (advanced laser), Autopilot (advanced), Camouflage
+(advanced), Communication System (advanced, encrypted, increased range,
+tightbeam), Computer/5, Control System (advanced), ECM (advanced),
+Ejection Seats x 3, Fire Extinguisher, Life Support (short term), Navigation
+System (advanced), Prismatic Aerosol Discharger, Sensor System
+(advanced), Stealth (advanced), Vacuum Protection
+
+AFV
+
+WEAPON
+
+RANGE
+
+DAMAGE
+
+MAGAZINE
+
+MAGAZINE COST
+
+TRAITS
+
+FIRE CONTROL
+
+Aerospace Defence Laser
+
+120
+
+8D
+
+—
+
+—
+
+Track
+
++4
+
+Advanced Laser
+
+1
+
+2D
+
+—
+
+—
+
+Auto 4
+
+—
+
+DESCRIPTION
+The Princely Lord Attack Speeder made
+its debut during the Fourth Frontier War.
+Despite its size, the speeder is a good
+example of the Zhodani military design
+philosophy of fast and deadly. However, the
+Princely Lord also has exceptionally good
+armour. This vehicle and its nearly identical
+cousin, the Silent Grasp, were responsible
+for more fear and panic among the Imperial
+populace in the Tloql sector than any other
+Zhodani fighting vehicle during the Fourth
+Frontier War.
+
+289
+
+

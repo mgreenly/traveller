@@ -1,0 +1,127 @@
+HIVER LIFE EVENTS
+
+Hivers have life events like other races, differing mainly in details. Whenever a Life Event is rolled on the Events
+Table, determine what has happened by rolling 2D on the table below.
+
+Hiver Benefits
+2D
+2
+
+Event
+You were injured in an accident or perhaps
+even by violence. Roll on the Hiver Injury
+Table, below.
+
+3
+
+You suffered a deficiency disease which took
+its toll on your health. Lose 1 point from any
+characteristic, determined randomly
+
+4
+
+5
+
+Your previously good relationship with someone
+– this may be another Hiver or someone from
+outside the Hive Federation – collapses. It was
+probably your fault for manipulating them too
+hard but you will not admit that. Gain an Enemy.
+Your work clashes with that of another
+individual, leading to friction. Despite your
+attempts to resolve the situation or modify their
+thinking they remain unreasonably opposed to
+you. Gain a Rival..
+
+6
+
+You meet someone useful and manipulate them
+into thinking they owe you their loyalty. Gain
+an Ally.
+
+7
+
+You make some useful connections. Gain a
+Contact.
+
+8
+
+Someone was plotting behind your back! You
+discovered their intentions to make you their
+puppet and are now wary of them. Convert one
+Ally or Contact into a Rival. If you have no Allies or
+Contacts, gain an Enemy
+
+9
+
+You travel and gain new knowledge, which can
+be used to your advantage. Gain +2 on your next
+advancement check.
+
+10
+
+You change nests. This is a golden opportunity to
+shed some of your previous negative credit. Gain
+one additional Benefits cash roll.
+
+11
+
+You are fortunate to meet a great Manipulator, who
+shares some secrets with you. You gain a level of
+Deception, Diplomat or Persuade.
+
+12
+
+You are fortunate to meet a great Manipulator,
+who shares some secrets with you. You realise it
+would not do such a thing without a goal in mind.
+Perhaps the Manipulator recognised your potential
+and wanted to help but more likely it has a plan
+for you. Either way, you gain RES +1 and a general
+feeling of paranoia.
+
+HIVER INJURIES
+
+Many minor injuries can be regenerated but major damage requires medical intervention.
+
+Hiver Injuries
+1D
+1
+
+Result
+You were severely injured. Reduce one physical characteristic by 1D and the other two by 2 points each.
+
+2
+
+You were severely injured, losing an entire limb in a manner that cannot be regrown. Either reduce
+all physical characteristics by 3 and live with a missing limb or use a robotic one, in which case
+reduction is 1 point per physical characteristic and you sign with a weird accent.
+
+3
+
+You lost some of your eyes in a manner that cannot be regrown. You can still see but the image is
+imperfect. You suffer a -1DM on all tasks requiring visual acuity.
+
+4
+
+You were severely scarred in a manner which horrifies other Hivers. Not for your appearance, but
+because it reminds them that physical violence could happen to their bodies. You suffer a -2DM on all
+direct interactions with other Hivers.
+
+5
+
+You got badly hurt and it shook your confidence even though you recovered. Reduce Resolve by 1.
+
+6
+
+You made a full recovery from your injuries. It was an interesting experience, but not one to be repeated.
+
+AGING
+
+Hivers become adults at around age 14. Their first term begins at this age. Aging proceeds at almost the same
+rate as humans, but begins at age 38. This will be the end of the sixth career term. Anagathic drugs do not work
+on Hivers.
+
+261
+
+

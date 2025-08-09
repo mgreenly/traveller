@@ -1,0 +1,82 @@
+A03/48956
+
+VACC SUIT
+
+The Aslan vacc suit is similar to human models. The Aslan find the open
+vistas of space to be highly disconcerting and so most have narrower
+viewports than human models to compensate. A standard vacc suit provides
+life support for six hours. An Aslan may not use a dewclaw while wearing this
+armour. More advanced models are self-sealing and considerably lighter.
+
+Armour Type Protection TL Rad
+
+Kg
+
+Cost
+
+Required Skill
+
+Vacc Suit
+
++4
+
+9
+
+10
+
+26
+
+Cr8000
+
+Vacc Suit 1
+
+Vacc Suit
+
++6
+
+10 50
+
+6
+
+Cr16000 Vacc Suit 0
+
+Modifications
+
+All standard modifications listed in the Traveller Core Rulebook (page 96)
+or Central Supply Catalogue (page 27) may be used with Aslan armour. In
+addition, some are unique to the Hierate.
+
+A03/75674
+
+COMBAT VACC SUIT
+
+The suya’uiyekhyerl is a combat variant of the standard heavy
+vacc suit, incorporating extra armour plating and weapon mounts.
+Aslan fighters and dropships are all designed with the bulky
+suya’uiyekhyerl in mind. It has life support for six hours, although
+an Aslan may not use a dewclaw while wearing this armour.
+
+Armour Type
+Combat Vacc
+Suit
+
+52
+
+Protection TL Rad
++9
+
+12 120
+
+Kg
+
+Cost
+
+Required Skill
+
+36
+
+Cr22000
+
+Vacc Suit 2
+
+

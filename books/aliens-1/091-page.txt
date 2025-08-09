@@ -1,0 +1,30 @@
+DECK 5
+
+3
+2
+
+DECK 4
+
+1
+
+4
+
+DECK 3
+
+4
+
+DECK 2
+
+DECK 1
+
+4
+
+LEGEND
+1. Shrine
+2. Sandcaster barrels
+3. Bridge
+4. Cargo hold
+
+91
+
+

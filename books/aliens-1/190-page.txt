@@ -1,0 +1,158 @@
+LAW ENFORCEMENT
+
+5
+
+Law enforcement agents typically work for
+government authorities to uphold the law
+and prevent crime but many find work as
+security guards working for corporations.
+Qualification: CHA 6+
+
+CAREER PROGRESS
+SURVIVAL
+END 6+
+INT 7+
+INT 5+
+
+Enforcer
+Investigator
+Security
+
+ASSIGNMENTS
+
+ADVANCEMENT
+CHA 5+
+CHA 6+
+CHA 7+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Enforcer: You are a police officer.
+Investigator: You are a detective or private
+investigator.
+Security: You are part of a private security
+force.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr2000
+Cr5000
+Cr7500
+Cr10000
+Cr25000
+Cr50000
+
+BENEFITS
+Scientific Equipment
+INT +1
+Blade
+Contact
+Armour
+CHA +1
+Weapon
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+Gun Combat
+DEX +1
+END +1
+Melee
+INT +1
+Athletics
+LAW ENFORCEMENT
+Investigate
+Recon
+Streetwise
+Stealth
+Melee
+Advocate
+
+SERVICE SKILLS
+Streetwise
+Drive
+Investigate
+Flyer
+Recon
+Gun Combat
+INTELLIGENCE
+Investigate
+Recon
+Electronics (comms)
+Stealth
+Persuade
+Deception
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Advocate
+Language
+Explosives
+Medic
+Vacc Suit
+Electronics
+CORPORATE
+Investigate
+Electronics (computers)
+Stealth
+Carouse
+Deception
+Streetwise
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+ENFORCER SKILL OR BENEFIT
+Melee 1
+Streetwise 1
+—
+Advocate 1
+—
+CHA +1
+
+INVESTIGATOR SKILL OR BENEFIT
+Investigate 1
+—
+Streetwise
+—
+Stealth 1
+—
+
+SECURITY SKILL OR BENEFIT
+Melee 1
+—
+Recon 1
+—
+—
+—
+
+

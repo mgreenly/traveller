@@ -1,0 +1,83 @@
+4
+
+MERCHANT
+
+Some Hivers specialise in various aspects of mercantile activity. This can mean acting as a deal-maker such as a
+starport broker, taking a more behind-the scenes role as an economic analyst or accountant, or obtaining money
+through what others might call questionable means as a con-person.
+Open To: Economic nests. Hivers from Generalist nests may take the Con-Person Assignment only.
+Qualification: Determined by nest.
+
+ASSIGNMENTS
+Choose one of the following:
+Negotiator: You buy and sell cargo, starships, planets or anything else really, on your own behalf or for others.
+Administrator: You might do some direct dealing but your main field of interest is spotting trends and the factors
+that affect them… and figuring out how to nudge the flow in the right direction. Whether you are a starship’s purser
+or an economic fixer who manipulates planetary economies, the principles are the same.
+Con-Person: You manipulate people in ways that cause you to become richer. Some of them seem to dislike this and
+call your profession by unpleasant names.
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+268
+
+PERSONAL DEVELOPMENT
+RES +1
+INT +1
+EDU +1
+Survival
+Language
+Persuade
+NEGOTIATOR
+Broker
+Persuade
+Diplomat
+Science (economics)
+Streetwise
+Carouse
+
+SERVICE SKILLS
+Drive or Flyer
+Streetwise
+Persuade
+Broker
+Tactics (economic)
+Advocate
+ADMINISTRATOR
+Admin
+Science (economics)
+Broker
+Science (sociology)
+Tactics (economic)
+Diplomat
+
+ACTIVE MERCHANT (MIN. RES 7+)
+RES +1
+Deception
+Diplomat
+Persuade
+Carouse
+Broker
+CON-PERSON
+Streetwise
+Persuade
+Broker
+Electronics
+Carouse
+Gambler
+
+

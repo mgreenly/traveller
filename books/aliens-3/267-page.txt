@@ -1,0 +1,244 @@
+APA-PAKWA CLASS MEDIUM FIGHTER
+
+The fighter is normally operated in squads of six
+vessels, which patrol Bwap holdings and protect space
+lanes from the 100-diameter jump point up to docking
+at a highport or landing on the surface of a planet. The
+ship operates very well in an atmosphere, serving as
+both a COACC asset and space superiority fighter.
+
+The Apa-pakwa is a common sight around Bwap
+dominated worlds. A fast fighter with 7G of thrust
+makes this ship agile and swift. The fighter is normally
+crewed by two; a pilot/gunner and a sensor operator.
+Heavily armoured, the fighter also provides significant
+protection for its crew, although realistically it is no
+threat to larger military starships or monitors. The dual
+cockpit can also double as a re-entry pod, allowing the
+crew to escape from a damaged vessel and either land
+safely on a planet’s surface if combat occurs in the
+atmosphere or orbit, or await rescue if in deep space.
+
+TL15
+
+While the ship has enough fuel for four weeks of
+operation, creature comforts are at a minimum
+with no stateroom or other facilities. Most
+missions on the Apa-pakwa would be no longer
+than four to six hours at most.
+
+Crew
+
+TONS
+
+COST (MCr)
+
+35 tons, Sphere
+
+—
+
+1.925
+
+Reinforced
+
+—
+
+0.9625
+
+Armour
+
+Crystaliron, Armour: 9
+
+7.0875 1.4175
+
+M-Drive
+
+Thrust 7
+
+2.45
+
+4.9
+
+Power Plant
+
+Fusion (TL12), Power: 45
+
+3
+
+3
+
+Fuel Tanks
+
+4 weeks of operation
+
+1
+
+—
+
+Bridge
+
+Dual Cockpit
+
+3
+
+0.015
+
+Computer
+
+Computer/20 fib
+
+—
+
+7.5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Improved Signal Processing
+
+1
+
+4
+
+Fixed Mount (pulse laser)
+
+—
+
+1.1
+
+Fixed Mount (missile rack)
+
+—
+
+0.85
+
+Power Requirements
+
+Ammunition
+
+Missile Storage (48 missiles)
+
+4
+
+—
+
+Basic Ship Systems
+
+Armoured
+
+Bridge
+
+0.25
+
+0.05
+
+7
+
+Bulkheads
+
+Engineering
+
+0.245
+
+0.049
+
+Manoeuvre Drive
+
+Fuel Tanks
+
+0.1
+
+0.2
+
+24.5
+
+Power Plant
+
+0.3
+
+0.06
+
+Sensors
+
+Systems
+
+Re-entry Pod
+
+1
+
+0.15
+
+Software
+
+Broad Spectrum EW
+
+—
+
+14
+
+Weapons
+
+Evade/2
+
+—
+
+2
+
+3
+
+Fire Control/2
+
+—
+
+4
+
+Manoeuvre/0
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+7.32
+
+—
+
+Hull
+
+Weapons
+
+Cargo
+
+268
+
+SMALL CRAFT
+
+Pilot/Gunner, Sensor
+Operator
+
+Hull: 14
+Running Costs
+MAINTENANCE COST
+Cr4206.16/month
+PURCHASE COST
+MCr50.474
+
+5
+
+

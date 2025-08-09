@@ -1,0 +1,119 @@
+Ship-Heart Chamber
+
+Droyne vessels sometimes follow the practice of other
+races, with a pragmatic control centre similar to a
+standard cockpit or bridge. This is not to the liking
+of many Oytripin, however. It is preferred, where
+possible, to use a ship-heart chamber. This is more
+grandiose and ornamental than a mere bridge and
+fulfils slightly more functions. A ship-heart chamber
+will typically have a domed ceiling, with a dais for the
+ship’s Leader. The command chair is reminiscent of a
+throne and it is here the Leader will receive visitors,
+petitioners and emissaries.
+The ship-heart chamber is gorgeously decorated with
+iridescent patterns depicting the vessel’s history
+and Oytrip affiliation, and serves as a briefing room
+(giving DM+1 to Tactics checks for any pre-planned
+operation), commercial activity centre (giving DM+1
+to Broker checks) and coordination chamber for other
+activities such as surveys, groundside exploration
+or a construction project undertaken planetside but
+commanded from the ship. On ships over 5,000 tons
+the ship-heart chamber also acts as a flag bridge. Its
+size is proportional to the displacement of the vessel,
+with additional crew positions added as size increases.
+A very large ship-heart may have small antechambers,
+tables for refreshments and positions for supporting
+personnel such as the ship’s most important Social and
+Priestly Drones.
+A ship-heart chamber consumes 30 tons plus one ton
+per 100 tons displacement of the ship. It costs MCr1
+per 100 tons of ship. A Ship-Heart Citadel can also be
+fitted. This consumes an additional 10 tons and raises
+the cost to MCr1.25 per 100 tons of ship. A Ship-Heart
+Citadel is surrounded by heavy bulkheads (and gains the
+benefit of that modification) as well as having its own
+life support system. It can be ejected from the ship but
+this act must be accompanied by funeral rites for the
+vessel – it will self-destruct as soon as its heart is no
+longer present.
+
+Droyne Accommodation
+
+The standard system of accommodation aboard a
+vessel or starship, using cabins and common areas,
+is nonsensical to Droyne. Instead accommodation is
+arranged in groups of six sleeping pods surrounded by a
+working and living area. Droyne accommodated in podclusters are assumed to have all necessary supporting
+facilities within their cluster, including everything from
+
+armouries to a galley. Additional space can be provided
+if desired, making the vessel more suitable for highranking Droyne. A pod-cluster can be set up as an
+emergency shelter for crew, allowing them to remain
+safe if the ship is depressurised. This version of the
+pod-cluster can be jettisoned from the ship when critical
+damage is taken.
+Additional spaces can be simple common areas, paid for
+at the normal cost, but may be configured as ceremonial
+spaces at additional cost. Ceremonial spaces are
+beautifully decorated and contain statues, raised seating
+for important officials and everything necessary for inflight ritual observances. A minor ceremonial space is
+sufficient for routine rituals, whereas a major ceremonial
+space can be used for almost any ritual. Cost and
+tonnage depend on how many Droyne are expected to be
+able to attend, subject to a minimum size.
+A ceremonial space can be configured as a shelter in
+case the ship takes heavy damage. Such a space has
+its own life support equipment and discreet lockers
+for vacc suits in an antechamber and is protected by
+heavy bulkheads. A ceremonial citadel of this sort will
+usually survive even if the ship is blasted apart and
+is in some ways equivalent to a vault (see page 47 of
+High Guard). It is not uncommon for the ceremonial
+space to be located close to the ship-heart chamber,
+in which case the access corridor between the two
+will also be heavily protected. Both can remain linked
+together in the event that a ship is destroyed around
+them or can be ejected separately.
+
+Component
+Pod-Cluster (capacity
+6 Droyne)
+Ejectable Pod-Cluster
+Ceremonial Space,
+Minor
+Ceremonial Space,
+Major
+Ceremonial Citadel,
+Minor
+Ceremonial Citadel,
+Major
+
+Tons
+20
+
+Cost
+MCr5
+
+24
+6 + 1 per
+attendee
+20 + 2 per
+attendee
+12 + 1 per
+attendee
+40+2 per
+attendee
+
+MCr6
+MCr0.25 per
+ton
+MCr1 per ton
+MCr0.75 per
+ton
+MCr1.5 per ton
+
+169
+
+

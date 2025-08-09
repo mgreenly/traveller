@@ -1,0 +1,29 @@
+3
+
+DECK 3
+
+5
+
+6
+
+1
+
+DECK 2
+
+4
+6
+
+LEGEND
+1. Shrine
+2. Docking space
+3. Bridge
+4. Cargo hold
+5. Fuel processors
+6. Laboratories
+
+2
+DECK 1
+
+95
+
+

@@ -1,0 +1,209 @@
+HRAYE-CLASS SCOUT
+TL13
+
+TONS
+
+COST (MCR)
+
+Hull
+
+100 tons, Streamlined
+
+—
+
+6
+
+Armour
+
+Crystaliron, Armour 4
+
+5
+
+1.2
+
+M-Drive
+
+Thrust 2
+
+2
+
+4
+
+J-Drive
+
+Jump 2
+
+10
+
+15
+
+Power Plant
+
+Fusion (TL12), Power 45 3
+
+3
+
+Fuel Tanks
+
+J-2, 12 weeks of
+operation
+
+23
+
+—
+
+10
+
+0.5
+
+Bridge
+Computer
+
+Computer/5 bis
+
+—
+
+0.045
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Weapons
+
+Double Turret (pulse
+laser/missile rack)
+
+1
+
+2.25
+
+Systems
+
+Fuel Processor (20 tons/ 1
+day)
+
+0.05
+
+Fuel Scoops
+
+—
+
+—
+
+Shrine
+
+4
+
+0.5
+
+Probe Drones x 5
+
+1
+
+0.5
+
+Staterooms
+
+Standard x 4
+
+16
+
+2
+
+Software
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Common
+Areas
+
+8
+
+0.8
+
+Cargo
+
+15
+
+—
+
+TOTAL: MCR 39.045
+
+(Type-s)
+CREW
+PILOT, ASTROGATOR,
+ENGINEER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr3253/month
+
+PURCHASE COST
+MCr39.045
+
+Power Requirements
+20
+
+20
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+20
+
+1
+
+5
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+Using a 100-ton hull, the Hraye scout
+is intended primarily for exploration
+duties (the variant Ihateisho-class scout
+is a more common sight outside Hierate
+space). This ship requires a crew of two,
+pilot and engineer/astrogator (although
+one individual with pilot, engineer and
+astrogator skills can handle the ship alone).
+The Hraye’s cheap running cost means
+these vessels are often found serving as
+couriers or transports in small colonies.
+
+40
+HULL POINTS
+70
+
+

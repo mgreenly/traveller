@@ -1,0 +1,67 @@
+KHEKHA
+These predators are hunted by the Aslan for sport. They
+are highly aggressive and have been known to attack
+lone travellers.
+ANIMAL
+Khekha
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+HITS
+SPEED
+24
+6m
+Melee (natural) 1, Recon 1, Survival 2
+Bite (2D)
+Armour (+1)
+Carnivore, Chaser
+
+KHTA
+Khta are fast-moving predators that the Aslan have
+domesticated and trained to use as mounts. Khta resemble
+horses but they are primarily carnivorous. They are foultempered beasts and have a taste for human flesh.
+ANIMAL
+Khta
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+HITS
+SPEED
+28
+10m
+Athletics (dexterity) 2, Melee
+(natural) 1, Survival 1
+Bite (2D), Hooves (1D+2)
+None
+Carnivore, Chaser
+
+STII (MONKEYMEAT)
+Stii are small furry simian-like creatures about the size of
+a human child. They are omnivorous scavengers, eating
+almost anything from fruit and nuts to fabric and bark. The
+Aslan consider them a tasty snack and also keep them as
+living garbage disposals in small communities. Humans look
+like overgrown shaven stii to Aslan, a fact that never ceases
+to amuse them.
+ANIMAL
+Stii (Monkeymeat)
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+HITS
+SPEED
+10
+8m
+Recon 1, Stealth 2, Survival 1
+Teeth (1D)
+Fast Metabolism (+2), Heightened
+Senses
+Omnivore, Gatherer
+
+

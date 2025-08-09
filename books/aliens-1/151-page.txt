@@ -1,0 +1,102 @@
+FAMILY TRANSPORT VEHICLE
+TL
+
+13
+
+SKILL
+
+FLYER (GRAV)
+
+AGILITY
+
++3
+
+SPEED (CRUISE)
+
+MEDIUM (SLOW)
+
+RANGE (CRUISE)
+
+100 YEARS
+
+CREW
+
+1
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+120
+
+SHIPPING
+
+30 TONS
+
+COST
+
+MCR10.8
+
+Autopilot (skill level) 0
+Communications
+(range) 50km
+Navigation
+(Navigation DM) +1
+Sensors (Electronics
+(sensors) DM) —
+Camouflage (Recon
+DM) —
+Stealth (Electronics
+(sensors) DM) —
+
+ARMOUR
+F RONT
+
+3
+
+REAR
+
+3
+
+SIDES
+
+3
+
+WEAPONS
+None
+
+EQUIPMENT
+Actuation System, Autopilot (basic), Control Systems (basic),
+Communications System (basic), Computer/1, Control Interface (improved),
+Navigation System (basic), Sensors (basic)
+
+TRAITS
+Open
+
+DESCRIPTION
+This standard transport vehicle, used
+throughout K’kree space, is designed to ferry
+10 K’kree. It follows the same general design
+as the individual skimmer, with a curved
+frontal windshield and low safety barrier
+topped by rails or a clear screen. Weather
+cover is provided by a retractable tent-like
+‘roof’. Almost all vehicles of this sort are
+designed for autonomous select-and-go
+operations but can be driven manually. They
+are often used for cargo delivery, without
+passengers aboard, increasing cargo capacity
+to 15 tons. Like the skimmer, the FTV can
+be operated as a drone controlled by its own
+onboard base station, or the controls can be
+directly operated if this is desirable.
+
+151
+
+

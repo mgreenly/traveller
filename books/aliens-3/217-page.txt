@@ -1,0 +1,91 @@
+ORCA TRAVELLERS
+Orca Travellers follow the same procedures and
+concepts as human Travellers. Unless otherwise stated
+in this chapter, use all the creation and career rules
+described in the Traveller Core Rulebook.
+
+ORCA
+
+Orca Travellers have the following modifiers to their
+characteristics: STR+8, END+4, SOC-4
+
+ORCA TRAITS
+Orca Travellers all possess the following traits.
+Big and Tough: Orca are much larger than humans
+and can soak up a lot more damage unless a vulnerable
+location such as the head is struck. Whenever an Orca is
+subject to an effect that reduces END, whether through
+physical damage or exertion, END reduction is halved,
+dropping any fractions. For example, an Orca who is
+hit for seven points of damage reduces END 3 points.
+END is also treated as being doubled for the purposes
+of determining the duration (but not the effectiveness)
+of physical activity. Lastly, due to their size, Orca take
+up 12 times as much room on spacecraft and vehicles
+as humans do. For example, a stateroom on a starship
+designed for Orca use takes up 48 tons.
+Cold Resistance: Orca possess a thick covering of
+blubber that keeps them warm, providing DM+4 to all
+checks made to resist the effects of low temperatures.
+Deep Diver (260m): Orca can dive deep underwater,
+to a depth of 260 metres without risk and can hold their
+breath for up to 15 minutes.
+Echolocation (100m): Orca use a highly sensitive
+echolocation sense to navigate their environment,
+effectively allowing them to ‘see’ underwater or in complete
+darkness to a range of 100 metres.
+Succour Syndrome: When Orca hear the distress calls
+of other Orca they risk suffering from succour syndrome. If
+they fail a Very Difficult (12+) Gun Combat or Melee check
+(1D seconds, INT) both their INT and EDU temporarily
+drop to zero and they must immediately swim as fast as
+possible to the side of the distressed cetacean.
+
+218
+
+Swimmer (16m): Orca are superb swimmers and can
+move through water at a speed of 16 metres.
+
+STARTING AGE
+Orca mature at almost the same speed as humans.
+Travellers begin their careers at 18 years of age and
+untrained and inexperienced, they embark on a career
+to gain new skills and experience. Orca begin aging
+at the end of their fourth term at 32. Each career term
+lasts for four Imperial years.
+
+TITLES
+
+Orca use titles just as humans and many other races
+do. They have a strict hierarchy within their society and
+understand the use of position and authority which is in
+use in many other cultures.
+
+CAREERS
+
+Orca who live closely with humans in societies at TL7+
+have the same access to university and academy
+pre-career options. Orca always apply DM-2 when
+attempting to enter university but gain DM+1 when
+attempting to enter a Military Academy.
+Orca careers, in general, are used as described in the
+Traveller Core Rulebook. However, there are exceptions:
+• Orca may attempt to qualify for the Dolphin
+Military career, the Spirit Singer career or the
+Dolphin Civilian career, except for the historianpoet assignment. Orca may attempt to qualify for
+careers described in the Traveller Core Rulebook
+but only after first acquiring the Vacc Suit skill.
+• It is unusual for Orca to pursue careers as
+bureaucrats or Rogues. Orca Rogues are usually
+the last survivors of a family that has been wiped
+out or an outcast.
+• Orca cannot become Drifters. The nomad
+assignment for the Dolphin Civilian replaces
+the Drifter for any Orca Traveller. An Orca may
+automatically enlist in this career.
+• Orca are unable to become Merchants since the
+concept of trade and commerce is unfathomable to
+them or Nobles since they believe in the absolute
+equality of all.
+
+

@@ -1,0 +1,113 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+CRESTED SNAGGLEPUSS
+BLACK REPTISHARK
+
+The Orca Homeworld
+
+The black reptishark is one of a large group of
+reptisharks native to Sufren. An apex predator, it is large
+enough to easily prey on Dolphins as well as prove a
+credible threat to a lone Orca. They use their tail for
+the majority of their motive force, relying on flippers to
+provide mobility. The black reptishark is highly territorial
+and hunts alone by swimming slowly until it spots
+potential prey. It will then dive deep, using lack of light
+in the depths to approach its prey from below before
+swimming up at incredible speeds to strike.
+
+216
+
+Animal
+
+Hits
+
+Black Reptishark 80
+
+The crested snagglepuss is a domestic feline-like
+predator, one of a small number of snagglepuss
+species found on the planet, the largest of which
+approaches the size of a Terran tiger. While very
+feline in appearance, snagglepi are more like canines
+in behaviour. They enjoy each other’s company and
+bond well with their owners. Snagglepi do not have
+retractable claws and capture prey primarily with their
+bite, gaining their name for their wide mouths, which
+extend back past their eyes, and by the way their
+needle-like teeth extend from their lips. The crested
+snagglepuss has a mohawk growth of hair starting
+from its head, extending along its back and terminating
+at the base of its tail. The wild crested snagglepus
+has a brown and black mottled short coat but the
+domesticated variety has been bred into a large variety
+of colours and patterns.
+
+Animal
+
+Hits
+
+Speed
+
+Speed
+
+Crested
+Snagglepuss
+
+6
+
+9m
+
+10m
+
+Skills
+
+Athletics (dexterity) 3, Melee
+(natural) 2, Recon 2, Stealth 2,
+Survival 3
+
+Skills
+
+Athletics (dexterity) 1, Melee
+(natural) 2, Stealth 2, Survival 3
+
+Attacks
+
+Bite (5D)
+
+Attacks
+
+—
+
+Traits
+
+Aquatic, Large (+5)
+
+Traits
+
+Small (-2)
+
+Behaviour
+
+Carnivore, Killer
+
+Behaviour
+
+Carnivore, Killer
+
+R
+
+

@@ -1,0 +1,21 @@
+2
+
+1
+5
+
+3
+
+4
+
+DECK 1
+
+LEGEND
+1. Cargo hold
+2. Cargo crane
+3. Acceleration bench
+4. M-drive
+5. Fuel tanks
+
+161
+
+

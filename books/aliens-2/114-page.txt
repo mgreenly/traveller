@@ -1,0 +1,37 @@
+To D e c k 2
+
+7
+
+To D e c k 2
+
+8
+
+2
+3
+
+4
+
+5
+
+6
+
+1
+DECK 1
+
+2
+
+LEGEND
+1. Cargo hold
+2. Hangers
+3. Med bay
+4. Countermeasures suites
+5. Nuclear dampers
+6. Common areas
+7. Missile launchers
+8. Repair drones
+
+114
+
+15
+
+

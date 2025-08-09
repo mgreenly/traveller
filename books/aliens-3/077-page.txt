@@ -1,0 +1,199 @@
+GAGH TRAMP TRADER
+The Gagh tramp trader is usually owned and
+cooperatively run by the entire crew, picking up and
+delivering opportunity cargoes with no fixed route or
+port of calls. These trampers tend to operate out to
+
+the coreward and rimward border regions of Darrian
+space, transporting goods to worlds outside the
+well-policed Confederation.
+
+TL13
+
+TONS COST (MCr)
+
+Crew
+Pilot/Astrogator,
+Engineer, Cargo
+Master, Steward
+
+Hull
+
+200 tons, Streamlined
+
+—
+
+12
+
+Armour
+
+Crystaliron, Armour: 4
+
+12
+
+2.4
+
+M-Drive
+
+Thrust 1
+
+2
+
+4
+
+J-Drive
+
+Jump 2
+
+15
+
+22.5
+
+Power Plant
+
+Fusion TL 12, Power 105
+
+7
+
+7
+
+Fuel Tanks
+
+J-2, 4 weeks operation
+
+41
+
+—
+
+Running Costs
+
+10
+
+1
+
+MAINTENANCE COST
+
+Bridge
+
+Hull: 80
+
+Computer
+
+Computer/5bis/fib
+
+—
+
+0.06
+
+Sensors
+
+Basic
+
+—
+
+—
+
+PURCHASE COST
+
+Weapons
+
+None
+
+—
+
+—
+
+MCr47.709
+
+Armoured
+Bulkheads
+
+Bridge
+
+1
+
+0.2
+
+Systems
+
+Fuel Processors (20 tons/day)
+
+1
+
+0.05
+
+Fuel Scoops
+
+—
+
+—
+
+Standard x6
+
+24
+
+3
+
+40
+Manoeuvre Drive
+
+Staterooms
+
+Cargo
+
+Power Requirements
+Basic Ship Systems
+
+6
+
+0.6
+
+Intellect
+
+—
+
+1
+
+20
+
+Jump Control/2
+
+—
+
+0.2
+
+Jump Drive
+
+Library
+
+—
+
+—
+
+40
+
+Manoeuvre/0
+
+—
+
+—
+
+Fuel Processor
+
+81
+
+—
+
+1
+
+Common Areas
+Software
+
+Cr3975.75/month
+
+Gagh
+Tramp Trader
+
+78
+
+

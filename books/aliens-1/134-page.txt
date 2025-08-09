@@ -1,0 +1,120 @@
+3
+
+MERCHANT
+
+The Merchant caste carry out most of the
+administrative, economic and technical
+work within K’kree society. They also provide
+junior leadership to the military and handle
+technical tasks in ground combat as well as
+aboard starships.
+Merchant caste K’kree may specialise
+in mercantile, spacegoing, scientific or
+technical areas, or may serve as warriors.
+Once a skill has been rolled on one of the
+Warrior, Mercantile/Economic, Technical/
+Scientific or Naval skill tables, only that
+table and the Personal Development and
+K’kree Skills tables may be used while the
+Traveller remains in this career. In all cases
+their role requires more learning than that of
+a servant caste worker.
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+
+CASH
+Cr5000
+Cr10000
+Cr20000
+Cr30000
+
+5
+6
+7
+
+Cr50000
+Cr75000
+Cr100000
+
+BENEFITS
+Vehicle
+Contact or Weapon
+Ally
+Gain one level in Advocate, Broker,
+Science or Profession
+EDU+1
+INT +1
+SOC +1
+
+Qualification: SOC 7–10
+
+ASSIGNMENTS
+Entry: Automatic
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+DEX +1
+INT +1
+EDU +1
+Patriarchy
+Profession (K’kree ritual)
+K’kree Life Event
+WARRIOR
+Melee
+Gun Combat
+Electronics
+Electronics (remote ops)
+Medic
+Vacc Suit
+
+K’KREE SKILLS
+Patriarchy
+Profession
+Melee or Gun Combat
+Admin or Steward
+Carouse
+Athletics (endurance)
+TECHNICAL/SCIENTIFIC
+Profession
+Electronics
+Engineer
+Investigate
+Science
+Medic
+
+MERCANTILE/ECONOMIC
+Profession
+Admin
+Advocate
+Broker
+Electronics (computer)
+Persuade
+NAVAL
+Pilot
+Astrogator
+Engineer
+Gunner
+Gun Combat
+Vacc Suit
+
+

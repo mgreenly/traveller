@@ -1,0 +1,62 @@
+10
+DECK 6
+
+8
+
+7
+
+5
+
+9
+DECK 3
+DECK 5
+
+8
+
+10
+4
+
+3
+
+DECK 2
+
+3
+
+1
+2
+
+2
+6
+
+9
+
+DECK 4
+
+3
+DECK 1
+
+Overcrowding Low Berths
+
+Only the most callous captain would intentionally
+set out to squeeze two bodies into one low berth, as
+this is highly dangerous and subjects are unlikely to
+survive without the best medical treatment available
+upon their awakening. A low berth subjected to
+double occupancy will inflict DM-4 to any Medic
+check used to revive its occupants.
+
+LEGEND
+1. Shrine
+2. Docking space
+3. Cargo hold
+4. Missile bay
+5. Bridge
+6 . AT V b a y
+7. Captain's office
+8. Cargo lift
+9. Staterooms
+10. Low berths
+
+101
+
+

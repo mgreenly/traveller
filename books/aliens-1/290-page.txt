@@ -1,0 +1,184 @@
+Sidereal Defence Laser
+
+The Zhodani Consulate deploys a vastly improved aerospace defence laser on its latest vehicles and
+fortifications. The Sidereal defence laser has an extended reach into orbit and, used en masse, can pose a
+serious threat even to warships.
+Weapon
+
+TL
+
+Range
+
+Damage
+
+Tons
+
+Cost
+
+Magazine
+
+Magazine Traits
+Cost
+
+Sidereal Defence Laser
+
+13
+
+180
+
+2DD
+
+12
+
+MCr8
+
+—
+
+—
+
+SILENT GRASP ATTACK SPEEDER
+
+ARMOUR
+F RON T
+
+110
+
+RE AR
+
+80
+
+SI DE S
+
+50
+DE FE
+
+NC
+
+Autopilot (skill level) 3
+Communications 10,000
+(range) km
+Navigation
+(Navigation DM) +4
+Sensors (Electronics
+(sensors) DM) +2
+Camouflage (Recon
+DM) –4
+Stealth (Electronics
+(sensors) DM) –4
+
+E
+
+LA
+
+N
+VA
+
+R
+SE
+
+AD
+
+Track
+
+CED L A
+SE
+
+WEAPONS
+
+TL
+SKILL
+AGILITY
+SPEED (CRUISE)
+RANGE (CRUISE)
+CREW
+PASSENGERS
+CARGO
+HULL
+SHIPPING
+COST
+
+14
+FLYER (GRAV)
++2
+FAST
+(HIGH)
+4000 (6000)
+3
+—
+—
+150
+37.5 TONS
+MCR28.55
+
+R
+
+Large Turret (fusion gun-y, twin-linked, advanced fire control)
+
+EQUIPMENT
+Anti-missile System (advanced laser), Autopilot (advanced), Camouflage (advanced),
+Communication System (advanced, encrypted, increased range, tightbeam), Computer/5,
+Control System (advanced), ECM (advanced), Ejection Seats x 3, Fire Extinguisher, Life
+Support (short term), Navigation System (advanced), Prismatic Aerosol Discharger, Sensor
+System (advanced), Stealth (advanced), Vacuum Protection
+
+AFV
+
+WEAPON
+
+RANGE
+
+DAMAGE
+
+MAGAZINE
+
+MAGAZINE COST
+
+TRAITS
+
+FIRE CONTROL
+
+Fusion Gun-Y
+
+5
+
+3DD+3
+
+—
+
+—
+
+AP 20, Blast 20,
+Radiation
+
++4
+
+Advanced Laser
+
+1
+
+2D
+
+—
+
+—
+
+Auto 4
+
+—
+
+The Silent Grasp Attack Speeder is visually
+similar to the Princely Lord but faster and has
+less armour. In addition, the Silent Grasp mounts
+twin fusion guns instead of an aerospace defence
+laser – a shorter ranged but more deadly weapon.
+The Silent Grasp looks so much like a Princely
+Lord that the two are often confused by civilians
+and military observers alike. Only with careful
+observation using dedicated sensors or close
+visual contact can the two craft be distinguished.
+
+290
+
+TRAITS
+
+

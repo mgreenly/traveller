@@ -1,0 +1,232 @@
+MERCHANTMAN
+
+CLASS: ETRUSKAUAE
+Four of the staterooms are combined into a
+communal room and a single stateroom is set aside
+for maternity use. The rest of the staterooms are
+designed for the use of individual passengers. Crew
+quarters are separate from passenger areas for
+increased ship security.
+
+The Etruskauae is either owned and operated by
+larger companies or subsidised by a corporation
+for the use of independent traders who ply their
+predetermined trade routes. The vessel has
+significant versatility and can be outfitted in various
+configurations to suit its intended purpose. The
+example provided here is standard, with the capacity
+to carry a significant amount of cargo and provide
+both low berths and staterooms for passengers.
+
+TL12
+
+Tons
+
+Cost (MCr)
+
+Crew
+Captain, Pilot,
+Astrogator, Engineers
+x2, Steward, Medic
+
+Hull
+
+600 tons, Streamlined
+
+—
+
+36
+
+M-Drive
+
+Thrust 2
+
+12
+
+24
+
+J-Drive
+
+Jump 2
+
+35
+
+52.5
+
+Power Plant
+
+Fusion (TL12), Power 390
+
+26
+
+26
+
+Fuel Tanks
+
+J-2, 4 weeks operation
+
+123
+
+—
+
+20
+
+3
+
+Running Costs
+
+Bridge
+
+Hull: 240
+
+Computer
+
+Computer/10
+
+—
+
+0.16
+
+MAINTENANCE COST
+
+Sensors
+
+Civilian
+
+1
+
+3
+
+Cr13813/month
+
+Weapons
+
+Double Turrets x3
+
+3
+
+1.5
+
+PURCHASE COST
+
+Craft
+
+Docking Space (4 tons) x2
+
+10
+
+2.5
+
+MCr165.76
+
+Air/Rafts x2
+
+—
+
+0.5
+
+Cargo Crane
+
+3.5
+
+3.5
+
+Power Requirements
+
+Fuel Scoops
+
+—
+
+—
+
+Basic Ship Systems
+
+Fuel Processor (120 tons/day)
+
+6
+
+0.3
+
+Medical Bay
+
+4
+
+2
+
+Standard x16
+
+64
+
+8
+
+Low Berths x20
+
+10
+
+1
+
+Intellect
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+Common Areas
+
+16
+
+1.6
+
+Cargo
+
+266.5
+
+—
+
+120
+Manoeuvre Drive
+120
+Jump Drive
+120
+Sensors
+1
+Fuel Processor
+6
+Low Berths
+2
+Medical Bay
+1
+Weapons
+3
+
+Systems
+
+Staterooms
+Software
+
+Total: MCr165.76
+
+Etruskauae-class
+Merchantman
+
+174
+
+

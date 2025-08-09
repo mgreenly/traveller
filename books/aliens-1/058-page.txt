@@ -1,0 +1,73 @@
+PERSONAL AUGMENTATION
+
+The Aslan of the Hierate frown on augmentation and genetic engineering. Cybernetics are a necessary evil, as
+many Aslan are maimed in duels or wars and need replacement limbs but attempts to improve the species through
+technology are against tradition. Other Aslan states such as the Glorious Empire are less conservative and permit
+limited augmentation.
+All the augmentations listed in the Traveller Core Rulebook will be available somewhere in Aslan space but often at
+a cost of at least 50% higher than normal.
+
+A11/58231
+
+CLAW COATING
+
+This augmentation covers the Aslan’s dewclaw in a polymer
+seal that protects it from environmental damage such as
+extremes of temperature and pressure.
+
+TL
+9
+
+Item
+Claw Coating
+
+A11/58231
+
+Cost
+Cr1500
+
+CLAW EDGING
+
+This augmentation sharpens a dewclaw and lines its cutting
+edge with a blade so sharp it approaches monofilament. It also
+includes all the benefits from Claw Hardening and increases
+the damage from a successful claw attack to 3D. At TL14, the
+Claw Edging is enhanced with an arc-field, increasing damage
+to 5D with AP30. Arc-field weapons cannot be parried by any
+weapon of a lower Tech Level.
+Item
+Claw Edging
+Arc-Field Claw Edging
+
+A11/58231
+
+TL
+11
+14
+
+Cost
+Cr6000
+Cr25000
+
+CLAW HARDENING
+
+Claw hardening weaves carbon nanotubes and bands of
+tough synthetics into a dewclaw, making it tougher than most
+armour. A Traveller with claw hardening can scratch a starship
+hull or parry an attack from a chainsaw without damage.
+A dewclaw that has been augmented with Claw Hardening
+inflicts 2D damage.
+Item
+Claw Hardening
+
+58
+
+TL
+
+Cost
+
+10
+
+Cr3000
+
+

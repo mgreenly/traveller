@@ -1,0 +1,76 @@
+Anagathics: Use the number of terms since you started
+taking anagathics as a negative DM to rolls on the Reeducation Events table.
+
+MUSTERING OUT
+
+Benefits are granted at the end of career service, as
+detailed on page 45 of the Traveller Core Rulebook.
+Zhodani have access to new mustering out benefits.
+Courier: You receive a Yetsasl courier with 25% of the
+mortgage paid off on it. This courier is identical to the
+one on page 296 but you must roll 1D times on the
+Outdated Ships Table on page 164 of the Traveller Core
+Rulebook. If you roll this benefit again, an additional
+25% of the mortgage has been paid off – if you roll this
+benefit four times, the courier will have no mortgage and
+it will be all yours!
+Nenj: The Nenjchinzhe’driante (the Consular Legion of
+Merit) is a post-career recognition of valuable service
+to all Zhodani. Membership in the Consular Legion of
+
+Merit is egalitarian – Nobles, Intendants and Proles are
+all eligible for the award. Those who have won enrolment
+are entitled to wear the distinctive gold sash of honour
+that marks them as recognised elite of the Consulate.
+Although it is largely honorary, members do receive
+concrete benefits. Zhodani citizens almost invariably
+grant members a 10% discount on just about
+everything, from meals to equipment purchases to
+starship passages. Sums of more than MCr1 are rarely
+so discounted but bank loans in these amounts are
+made without interest. Membership is for life and is not
+transferable but companions of a member may share in
+the benefits when they do the buying.
+Scout: You receive a Ninz scout with 25% of the mortgage
+paid off on it. This scout is identical to the one on page
+294 but you must roll 1D times on the Outdated Ships
+Table on page 165 of the Traveller Core Rulebook. If you
+roll this benefit again, an additional 25% of the mortgage
+has been paid off – if you roll this benefit four times, the
+scout will have no mortgage and it will be all yours!
+SOC: SOC may never be increased if it would raise
+a Prole character’s SOC above 9. An unusable SOC
+increase is taken as a bonus Ship Share.
+Trader: You receive a Zdebr trader with 25% of the
+mortgage paid off on it. This trader is identical to the
+one on page 298 but you must roll 1D times on the
+Outdated Ships Table on page 164 of the Traveller Core
+Rulebook. If you roll this benefit again, an additional
+25% of the mortgage has been paid off – if you roll this
+benefit four times, the trader will have no mortgage
+and it will be all yours!
+
+Pensions
+
+Zhodani Travellers can only receive pension payments
+within the Consulate. Nobles receive double the
+amount received.
+
+Aging Crisis
+
+If PSI is reduced to 0 through aging, it does not
+constitute an aging crisis but the Traveller loses all
+psionic abilities and can never regain them. Reduction
+of PSI through aging does not affect SOC.
+Anagathics: Within the Zhodani Consulate, use of
+anagathics is viewed as a symptom of mental illness.
+Use the number of terms since the Traveller started
+taking anagathics as a negative DM to rolls on the
+Re-education Events table. Additionally, the cost of
+anagathics in the Consulate is considerably higher than
+in Imperial space. They will cost Cr200000 x 2D for
+each term the Traveller uses the drugs.
+
+275
+
+

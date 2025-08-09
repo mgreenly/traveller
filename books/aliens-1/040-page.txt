@@ -1,0 +1,128 @@
+10
+
+OUTLAW
+CAREER PROGRESS
+
+You rejected – or were rejected by – Aslan
+society and forge your own path in the
+criminal sphere.
+Qualification: STR 6+
+
+Survival
+Advancement
+
+ASSIGNMENTS
+Choose one of the following.
+Pirate: You attack shipping and the colonies of
+other, lesser races.
+Raider: You attack outlying settlements and
+vulnerable lesser clans.
+Thief: You work alone and steal from the wealthy.
+
+PIRATE
+END 7+
+INT 7+
+
+RAIDER
+END 8+
+STR 6+
+
+THIEF
+DEX 7+
+INT 7+
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+5
+6
+7
+8
+•
+
+CASH
+Cr5000
+Cr10000
+Cr20000
+Cr20000
+Cr40000
+Cr70000
+Cr100000
+Cr50000
+
+BENEFITS
+Contact
+INT +1
+Independence or Streetwise
+Weapon
+INT +1, Independence or Streetwise
+EDU +1, Independence or Streetwise
+5 Ship Shares
+5 Clan Shares
+
+DM+1 if male and rolling on the Benefits column.
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+Independence (if male) or Melee (if female)
+INT +1
+EDU +1
+Gambler
+END +1
+Independence (if male) or Melee (if female)
+SPECIALIST: PIRATE
+Pilot
+Engineer
+Gunner
+Mechanic
+Athletics (dexterity)
+Vacc Suit
+
+SERVICE SKILLS
+Streetwise
+Gun Combat
+Melee (natural)
+Tactics (military)
+Persuade
+Stealth
+SPECIALIST: RAIDER
+Gun Combat
+Medic
+Streetwise
+Recon
+Stealth
+Melee
+
+—
+—
+—
+—
+—
+—
+SPECIALIST: THIEF
+Broker
+Stealth
+Streetwise
+Deception
+Electronics
+Mechanic
+
+

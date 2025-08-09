@@ -1,0 +1,145 @@
+RANKS AND BONUSES CONT...
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+LAB SCIENTIST
+—
+—
+—
+—
+—
+—
+—
+
+SKILL OR BENEFIT
+—
+Science 1
+—
+Investigate 1
+—
+Computers 1
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+PHYSICIAN
+—
+—
+—
+—
+—
+—
+—
+
+SKILL OR BENEFIT
+—
+Medic 1
+—
+Science 1
+—
+Science 1
+—
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured in action. Roll twice on the Injury table and take the lower result.
+
+2
+
+A disaster leaves several injured and others blame you, forcing you to leave the career. Roll on the Injury table
+twice, taking the higher result and roll on the Re-education table (page 274).
+
+3
+
+The planetary government interferes with your research for political reasons. If you continue with your work
+openly, increase any Science skill by one level. If you continue with this work secretly, increase any Science
+skill by one level but lose all Benefit rolls for this term. If SOC 9-, roll on the Re-education table (page 274).
+
+4
+
+An expedition or voyage goes wrong, leaving you stranded in the wilderness. Gain a level of Survival or Athletics.
+By the time you find your way home, your job is gone.
+
+5
+
+Your work is sabotaged by unknown parties. You may salvage what you can and give up (leave the career but
+retain this term’s Benefit roll) or start again from scratch (not leaving the career but losing all Benefit rolls for
+this term).
+
+6
+
+You are assigned to an off-world laboratory but your ship crashes en route. Gain one level of Survival and roll
+END 8+. If failed, roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career, even from a Re-education Event.
+
+3
+
+You are called upon to perform research that goes against your conscience. Accept and gain an extra Benefit
+roll, a level in each of any two Science skills and D3 Enemies or refuse and gain an Ally.
+
+4
+
+You are assigned to work on a secret project. Gain one level of Electronics, Engineer, Investigate, Medic or Science.
+
+5
+
+You win a prestigious prize for your work, garnering the praise of your peers. Gain DM+1 to any one Benefit roll.
+
+6
+
+You spend time on the fringes of known space. Roll Survival or Pilot 8+. If successful, gain a Contact with an
+an alien race and one level in any selected skill. If failed, roll on the Mishaps table.
+
+7
+
+Life Event. Roll on the Zhodani Life Events table (page 274).
+
+8
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain one level in any skill already possessed.
+
+9
+
+You make a breakthrough in his field. Gain DM+2 to your next Advancement roll.
+
+10
+
+You become entangled in a bureaucratic or legal distraction, keeping you from your work. Gain one level of
+Admin, Advocate, Diplomat or Persuade.
+
+11
+
+You work for an eccentric but brilliant Noble mentor, who becomes an Ally. Increase any one Science skill by
+one level and take DM+2 to your next Advancement roll thanks to his aid.
+
+12
+
+Your work leads to a considerable breakthrough. Your next Advancement roll is automatically successful.
+
+

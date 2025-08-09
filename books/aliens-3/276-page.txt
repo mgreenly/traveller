@@ -1,0 +1,57 @@
+Tabewarke Class
+System Defence Boat
+
+1. Mud Bath
+2. Docking Space
+3. Cargo Bay
+4. Briefing Room
+5. Workshop
+
+6. Brig
+7. Armoury
+8. Bridge
+9. Barracks
+
+DECK 5
+
+1
+2
+
+2
+
+2
+
+2
+
+3
+
+DECK 4
+
+4
+
+DECK 3
+
+5
+
+6
+
+7
+
+8
+2
+
+2
+
+2
+
+2
+
+9
+
+DECK 2
+
+DECK 1
+
+277
+
+

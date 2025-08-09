@@ -1,0 +1,164 @@
+TL14
+
+Tons
+
+Cost (MCr)
+
+Medical Bay
+
+4
+
+2
+
+Fuel Scoops
+
+—
+
+—
+
+Staterooms
+
+Standard x66
+
+264
+
+33
+
+Software
+
+Anti-Hijack/1
+
+—
+
+6
+
+Electronic Warfare/1
+
+—
+
+15
+
+Fire Control/1
+
+—
+
+2
+
+Jump Control/3
+
+—
+
+0.3
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+Point Defence/2
+
+—
+
+12
+
+Common Areas
+
+30
+
+3
+
+Cargo
+
+28.4
+
+—
+
+Total: MCr3440.053
+
+1 square = 5 Tons
+
+LEGEND
+
+11
+
+11
+
+12
+
+11
+
+11
+
+10
+
+10
+
+10
+
+12
+
+12
+
+10
+18
+
+12
+
+12
+
+6
+
+11
+
+2
+
+DECK 1
+
+136
+
+12
+
+3
+
+4
+
+DECK 2
+
+11
+
+1. Manoeuvre Drive
+2. Backup Manoeuvre
+Drive
+3. Jump Drive
+4. Backup Jump Drive
+5. Power Plant
+6. Backup Power Plant
+7. Bridge
+8. Sensors, Sensor
+Stations
+9. Medium Torpedo Bays
+10. Small Missile Bays
+11. Triple Turret
+12. Point Defence Battery
+13. Torpedo Storage
+14. Docking Spaces
+(Lifeboats)
+15. Docking Space
+(Pinnace Drone)
+16. Armoury
+17. Briefing Room
+18. Fuel Processor
+19. Airlock
+20. Medical Bay
+21. Staterooms
+22. Common Area
+23. Cargo Hold
+
+

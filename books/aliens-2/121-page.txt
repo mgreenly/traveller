@@ -1,0 +1,71 @@
+A11/58231
+
+CONFEDERATION ARMY MORTARBOT
+
+Built on a larger chassis than the ammobot but still capable of fitting inside a grav APC or assault shuttle, the mortarbot is
+armed with a three-barrel breech-loaded smoothbore mortar on a limited-traverse mount. Elevation is more free but the weapon
+has to return to the vertical for reloading. The three barrels are arranged in a triangular configuration, which rotates to align
+the breech with the loading mechanism. One barrel can be fired at a time or all three in rapid succession.
+Accuracy with standard munitions is unimpressive but the weapon’s limited range ensures that deviation is not excessive.
+Designated and guided payloads are available but for the most part the mortarbot is used to deliver a hail of rapid fire on
+enemy positions or break up an attack on friendly units. Eighteen bombs are carried in the rear of the robot’s chassis, with
+three more in ready-to-fire positions in the breech.
+Mortarbots are sometimes used in non-military applications. Foliage clearance is one common application, on worlds where
+the local vegetation is hazardous to humans. Firefighting bots can lob chemical warheads into a fire, scattering either foam or
+particles with a huge heat capacity, effectively drawing the heat out of the fire. A reconnaissance and surveillance variant is
+also sometimes used, which lobs camera-equipped drones high into the air for local-area mapping. This is rather inefficient
+but sometimes useful in areas of heavy vegetation or cluttered rocky overhangs.
+
+ROBOT
+
+HITS
+SPEED
+TL
+COST
+34
+6m
+12
+Cr114000
+SKILLS
+None
+ATTACKS
+Mortar Bomb (9D, Artillery, Auto 3, Blast 6)
+TRAITS
+Armour (+6)
+PROGRAMMING Basic
+Mortarbot
+
+Weapon
+Three-barrel
+Mortar
+
+TL
+
+Range
+
+Damage Kg
+
+Cost
+
+12
+
+600
+
+9D
+
+Cr16000
+
+14
+
+Magazine Magazine Cost
+Cr275
+
+3
+
+Traits
+Artillery, Auto 3,
+Blast 6
+
+121
+
+

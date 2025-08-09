@@ -1,0 +1,47 @@
+8
+
+7
+
+1
+5
+
+4
+
+DECK 3
+
+6
+13
+
+2
+3
+
+10
+11
+LEGEND
+1. Bridge
+2. Sensors
+3. Fuel processor
+4. M-drive
+5. J-Drive
+6. Power plant
+7. Double turret
+(beam lasers)
+8. Double turret
+(sandcaster)
+9. Staterooms
+10. High stateroom
+11. Luxury stateroom
+12. Cargo hold
+13. Sandcaster
+barrels storage
+14. Docking space
+
+12
+DECK 2
+
+14
+DECK 1
+
+235
+
+

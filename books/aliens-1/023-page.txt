@@ -1,0 +1,104 @@
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+SKILL OR BENEFIT
+—
+Admin 1
+—
+Tolerance 1
+—
+—
+SOC +1
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured. Roll on the Injury table.
+
+2
+
+You commit a grievous breach of protocol and are Outcast. Drop your SOC to 2 and you must take the Outcast
+or Outlaw career next term.
+
+3
+
+You are exiled because of some political scandal. Gain one of Survival 1, Pilot 1, Independence 1 or Streetwise 1.
+
+4
+
+You are wounded in a duel. Roll Melee 8+; if you succeed, you won the duel and gain SOC +1.
+
+5
+
+You are accused of a crime you did not commit. Roll Advocate 8+ to stay in the career.
+
+6
+
+You are embroiled in a rivalry with another official, who ends your career. Gain him as a Rival.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+You uncover an embarrassing secret related to your clan or family. Either trade it for 1D Clan Shares or you
+keep it in reserve. Whenever you use this secret, gain a clan elder as an Enemy.
+
+4
+
+You witnessed one of the great duellists in action. Gain Melee (natural) 1, Athletics (strength) 1, Carouse 1 or
+Medic 1.
+
+5
+
+You are assigned a challenging task. Roll Art, Investigate or Persuade 8+. If you succeed, gain DM+2 to your
+next advancement roll. If you fail, you suffer DM-2 to your next advancement roll.
+
+6
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain any skill.
+
+7
+
+Life Event. Roll on the Aslan Life Events table.
+
+8
+
+Your clan prospers and so do you. Gain Carouse 1, Survival 1, Admin 1 or Independence 1.
+
+9
+
+You rise in influence in your clan. Gain TER +1 and any one skill.
+
+10
+
+You discover that one of your kinfolk has acted dishonourably. If you cover up his failing, gain him as an Ally. If
+you expose him, he challenges you. Roll Melee 8+ to defeat him. If he wins, gain him as a Rival and SOC -2. If
+you win, gain him as an Enemy, but also gain TER +2.
+
+11
+
+You are trusted by the great lords of your clan. Gain TER +2, or gain DM+4 to your next advancement roll.
+
+12
+
+You excel in your role. You are automatically promoted.
+
+

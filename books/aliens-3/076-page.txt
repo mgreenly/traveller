@@ -1,0 +1,21 @@
+DECK 2: FUEL DECK
+1. Enhanced Signal Processing
+2. Bridge
+3. Cargo Bay
+4. Mail Distribution Array
+5. Fuel Processing
+
+1
+
+2
+
+3
+4
+
+DECK 1
+
+5
+
+77
+
+

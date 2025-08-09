@@ -1,0 +1,179 @@
+INT 6+
+
+Merchant
+Merchant Marine
+
+EDU 5+
+
+INT 7+
+
+Free Trader
+
+DEX 6+
+
+INT 6+
+
+EDU 7+
+
+INT 5+
+
+Flyer
+
+DEX 7+
+
+INT 5+
+
+Infantry
+
+STR 6+
+
+EDU 6+
+
+Support
+
+END 5+
+
+EDU 7+
+
+Engineering
+
+INT 6+
+
+EDU 6+
+
+Bridge
+
+EDU 5+
+
+INT 7+
+
+Marine
+
+DEX 7+
+
+EDU 6+
+
+Physician
+
+EDU 5+
+
+SOC 7+
+
+Researcher
+
+EDU 7+
+
+INT 5+
+
+Technician
+
+INT 6+
+
+EDU 6+
+
+Commando
+
+DEX 8+
+
+INT 6+
+
+Psion
+
+INT 7+
+
+PSI 7+
+
+INT 6+
+
+EDU 8+
+
+Bureaucrat
+
+INT 5+
+
+SOC 7+
+
+Corporate
+
+SOC 6+
+
+INT 6+
+
+Industrial
+
+End 7+
+
+EDU 5+
+
+Drifter
+
+INT 7+
+
+EDU 7+
+
+Exile
+
+End 8+
+
+INT 6+
+
+Nomad
+
+INT 6+
+
+SOC 8+
+
+Broker
+End 5+
+
+Militia
+
+EDU 6+
+
+Navy
+
+EDU 7+
+
+Scholar
+
+INT 9+
+
+Special Arm
+
+Scientist
+Worker
+
+EDU 5+
+
+Wanderer
+
+Auto
+
+Darrians living in the Imperium or other humandominated societies may use careers in the
+Traveller Core Rulebook instead. Most such
+individuals are exiles or children of exiles.
+However, many Darrians decide to leave the
+safety of the Confederation and seek their
+fortunes elsewhere. For example, while rare,
+it is not unknown for individual Darrians to
+join a branch of the Imperial military or civil
+administrations. This service is accepted by the
+Confederation, because of the experiences and
+different viewpoints that are brought back when
+they eventually return.
+
+DARRIAN LIFE EVENTS
+The Life Events of a Darrian are simar to those of humans.
+Use the Life Events table in the Traveller Core rulebook.
+
+MUSTERING OUT
+Passage to other worlds are always at the equivalent of
+middle passage.
+
+Darrian Travellers
+
+OTHER CAREERS
+
+39
+
+

@@ -1,0 +1,156 @@
+IYELIY-CLASS MESSENGER
+TL14
+Hull
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+Systems
+
+Staterooms
+Software
+
+200 tons
+Thrust 1
+Jump 5
+Fusion (TL12), Power
+150
+J-5, 4 weeks of
+operation
+Computer/20 bis
+Military Grade
+Triple Turret (pulse
+lasers)
+Shrine
+Mail Distribution Array
+(TL13)
+Standard x 2
+Jump Control/5
+Library
+Manoeuvre/0
+Intellect
+
+Common
+Areas
+Cargo
+
+TONS
+
+COST (MCR)
+
+—
+
+2
+30
+10
+
+10
+4
+45
+10
+
+101
+
+—
+
+10
+2
+1
+
+1
+7.5
+4.1
+4
+
+4
+20
+
+0.5
+10
+
+8
+—
+
+1
+0.5
+
+—
+
+—
+
+—
+
+—
+
+—
+
+4
+
+1
+0.4
+
+8
+
+—
+
+—
+
+CREW
+PILOT, PURSER/ENGINEER,
+GUNNER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr8238/month
+
+PURCHASE COST
+MCr98.85
+
+Power Requirements
+20
+
+40
+
+13
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+WEAPONS
+
+100
+
+2
+
+JUMP DRIVE
+
+SENSORS
+
+TOTAL: MCR 99
+
+The Iyeliy-class is the Aslan equivalent of
+the Imperial X-boat. Larger clans have a
+network of these vessels and some Aslan
+news corporations have their own fleets
+to relay information across the Hierate.
+The Aslan network is much less extensive
+than the Imperial X-boat system but the
+Iyeliy are capable of five-parsec jumps
+and so information moves faster within the
+Hierate. Due to the limited crew positions
+on the messenger ship, astrogation is often
+relegated to Intellect software, unless the
+female purser/engineer is unusually skilled.
+
+80
+HULL POINTS
+82
+
+

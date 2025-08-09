@@ -1,0 +1,148 @@
+Events
+
+2D
+2
+
+6
+
+A patron offers you a chance at a job. If you accept, gain DM+4 to your next qualification roll but
+you owe the patron a favour.
+You pick up a few useful skills here and there. Gain one level in Jack-of-all-Trades, Melee,
+Streetwise or Survival.
+A wandering Darrian of suspicious demeanour admires your fortitude and grants you a gift. You
+gain an extra Benefit roll.
+You make a Contact in a distant spaceport.
+
+7
+
+Life Event; Roll on the Life Events table.
+
+8
+
+You pick up some useful skills. Gain an extra roll on any skill table available to your career path.
+
+9
+
+Whilst visiting an Imperial starport you are forcibly drafted. Roll on the Draft table in the Traveller
+Core Rulebook next term. Surviving the term clears any previous record, including exile.
+You spend time employed in Aslan territory. Roll Survival or END 8+. If you fail, roll on the Mishap
+table. If you succeed, gain a Contact and a level in any skill.
+You are offered the opportunity to smuggle illegal items onto a planet. If you accept, roll Deception
+or Persuade 8+ to gain Streetwise 1 and an extra Benefit roll. If you refuse, you gain an Enemy in
+the underworld.
+A member of your family tracks you down with news that whatever caused you to start life as a
+wanderer has been cleared up (excluding exile). If desired, you may join a new career next term.
+
+3
+4
+5
+
+10
+11
+
+Skills and training
+
+12
+
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Carouse
+Streetwise
+Jack-of-all-Trades
+
+SERVICE SKILLS
+Athletics
+Melee (unarmed)
+Recon
+Streetwise
+Stealth
+Survival
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Astrogation
+Electronics (computers)
+Electronics (comms)
+Engineer
+Pilot
+Electronics (sensors)
+
+1D
+1
+2
+3
+4
+5
+6
+
+DRIFTER
+Engineer
+Flyer
+Jack-of-all-Trades
+Mechanics
+Electronics (remote ops)
+Vacc Suit
+
+EXILE
+Deception
+Jack-of-all-Trades
+Melee
+Recon
+Stealth
+Streetwise
+
+NOMAD
+Jack-of-all-Trades
+Language
+Persuade
+Science
+Steward
+Streetwise
+
+1D
+
+3
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury Table and take the lower result.
+The ship you are on makes an emergency landing on an uninhabited world. Gain one of Animals
+1, Mechanic 1, Recon 1 or Survival 1.
+You fail to find work. Starvation causes you to lose END -1.
+
+4
+
+Believed to be an exile, you are attacked. Roll Melee or END 8+ to avoid injury.
+
+5
+
+You run afoul of a criminal gang, corrupt bureaucrat or other foe. Gain an Enemy.
+
+1
+2
+
+6
+
+Injured. Roll on the Injury table.
+
+11
+
+Darrian Travellers
+
+Mishaps
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+61
+
+

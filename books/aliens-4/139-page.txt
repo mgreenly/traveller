@@ -1,0 +1,137 @@
+TL14
+
+Systems
+
+Tons
+
+Cost (MCr)
+
+Slaixut Torpedo Drones x3
+
+—
+
+161.28
+
+Docking Space (40 tons)
+
+44
+
+11
+
+Agupon Pinnace Drone
+
+—
+
+20.803
+
+Armoury
+
+5
+
+1.25
+
+Briefing Room x2
+
+8
+
+1
+
+Fuel Processor (1,500 tons/day)
+
+75
+
+3.75
+
+Launch Tube (50 ton) x2
+
+1,000
+
+500
+
+Sensor Stations x8
+
+8
+
+4
+
+Fuel Scoops
+
+—
+
+—
+
+Staterooms
+
+Standard x104
+
+416
+
+52
+
+Software
+
+Anti-Hijack/1
+
+—
+
+6
+
+Battle System/2
+
+—
+
+24
+
+Electronic Warfare/2
+
+—
+
+18
+
+Evade/2
+
+—
+
+2
+
+Fire Control/1
+
+—
+
+2
+
+Intellect
+
+—
+
+—
+
+Jump Control/3
+
+—
+
+0.3
+
+Library/0
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Cargo
+
+331
+Total: MCr7779.4164
+
+Loza’tch-class
+Carrier
+
+139
+
+

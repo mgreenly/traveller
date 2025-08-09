@@ -1,0 +1,105 @@
+Events
+
+2D
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+
+You garrison one of the major military bases that has access to a wide range of recreational
+facilities. Gain one of Carouse, Gambler, Streetwise or Survival.
+You are stationed at a boring billet and take up gambling to pass the time. Roll Gamble 8+. If you
+succeed, gain D3 additional Benefit rolls this term. If you fail, lose your Benefit roll for this term. In
+either case, gain one level in Gambler.
+You are caught between two fighting units. If you choose to stand your ground and fight your way
+roll Gun Combat 8+. If you succeed, gain one of Drive, Gun Combat or Heavy Weapons. If you
+fail, roll on the Injury table.
+Your commanding officer selects you for advanced training. Roll EDU 8+ to gain one of Admin 1,
+Advocate 1, Electronics 1, Engineer 1 or Mechanic 1.
+Life Event. Roll on the Life Events table.
+You lead a surgical strike of great importance and your judgement is commended. Gain one level
+of Leadership, Tactics (military) or DM+4 on your next advancement roll.
+You discover your superior officer is involved in criminal activities. If you choose to cover for
+them, gain them as an Ally. If you wish to turn them in, roll Advocate 8+. If you succeed you are
+commended for you actions and automatically advance or gain a commission. If you fail, you cannot
+roll for advancement or commission this term. In either case, you gain the officer as an Enemy.
+You spend time acting as your commanding officer’s executive assistant. Roll EDU 6+ to gain
+Admin 1.
+You are challenged to a test of skill by a rival. If you refuse, lose SOC -1. Accept and roll your best
+skill 8+. If you fail, lose all Benefit rolls from this term. If you succeed, gain DM+2 to your next
+advancement roll.
+You come up with an innovative tactic during an exercise that proves to be exceptionally effective.
+You are either promoted or automatically commissioned to officer rank.
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ENLISTED
+Tan
+Pantan
+Wartan
+Oan
+Panoan
+Waroan
+Jaroan
+
+SKILL OR BONUS
+Gun Combat 1
+—
+—
+Leadership 1
+—
+—
+Tactics 1
+
+RANK
+1
+2
+3
+4
+5
+6
+
+OFFICER
+Ban
+Panban
+Kor
+Pankor
+Raltar
+Jeetar
+
+SKILL OR BONUS
+Leadership 1
+—
+Tactics 1
+—
+—
+SOC 10 or SOC +1, whichever is higher
+
+2
+
+Geonee Travellers
+
+Ranks and bonuses
+
+12
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+123
+
+

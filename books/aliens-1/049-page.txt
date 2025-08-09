@@ -1,0 +1,24 @@
+A03/75674
+
+CEREMONIAL ARMOUR
+
+A full suit of khirshukaya is a rare sight these days; only the oldest
+clans have preserved these suits. They are worn by ceremonial honour
+guards and nobles, and is roughly comparable to human plate armour.
+It is reserved for those of SOC 9+ and their guards; wearing ceremonial
+armour without the necessary standing is insulting.
+
+Armour Type
+Ceremonial Armour
+
+Protection TL Rad Kg
++4
+3 — 6
+
+Cost
+Required Skill
+Cr2000 None
+
+49
+
+

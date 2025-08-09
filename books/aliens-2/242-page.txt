@@ -1,0 +1,247 @@
+PRACTICALITY GENERAL- PURPOSE STARSHIP
+TL15
+
+TONS COST (MCR)
+
+Hull
+
+1,000 tons, Streamlined
+
+—
+
+50
+
+Armour
+
+Bonded Superdense, Armour:
+6
+
+48
+
+24
+
+M-Drive
+
+Thrust 2 (energy efficient x3)
+
+20
+
+60
+
+Jump Drive
+
+Jump 2 (energy efficient x3)
+
+55
+
+123.75
+
+Power Plant
+
+Fusion (TL15), Power 360
+
+22
+
+44
+
+Fuel Tanks
+
+J-2, 8 weeks of operation
+
+205
+
+—
+
+Bridge
+
+Command Centre
+
+64
+
+3
+
+Automation
+
+Integrated Engineering
+Automation System
+
+50
+
+100
+
+Automated Weapon Systems x2 20
+
+20
+
+General Systems Automation
+
+10
+
+20
+
+Computer
+
+Computer/35
+
+—
+
+30
+
+Sensors
+
+Advanced
+
+5
+
+5.3
+
+Military Countermeasures Suite 15
+
+28
+
+Particle Barbettes x4
+
+20
+
+32
+
+Missile Barbettes x4
+
+20
+
+16
+
+Nuclear Damper
+
+10
+
+10
+
+Repair Drones
+
+10
+
+2
+
+Probe Drones x20
+
+4
+
+2
+
+Laboratory
+
+16
+
+4
+
+Library
+
+4
+
+4
+
+Medical Bay
+
+4
+
+2
+
+Workshop
+
+6
+
+0.9
+
+Full Hangar (50 tons)
+
+100
+
+20
+
+Standard x9
+
+36
+
+4.5
+
+Weapons
+
+Systems
+
+Staterooms
+Common Areas
+Software
+
+36
+
+3.6
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+220
+
+—
+
+Cargo/Modular Space
+
+TOTAL: MCR 609.25
+
+400
+HULL POINTS
+242
+
+CREW
+CAPTAIN, PILOT, ASTROGATOR
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr50708.33/month
+
+PURCHASE COST
+MCr609.5
+
+Power Requirements
+50
+
+200
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+1
+
+50
+
+SYSTEMS
+
+JUMP DRIVE
+
+8
+
+80
+
+SENSORS
+
+WEAPONS
+
+

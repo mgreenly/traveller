@@ -1,0 +1,149 @@
+Ranks and BONUSES
+ENLISTED
+
+SKILL OR BONUS
+
+RANK
+
+OFFICER
+
+SKILL OR BONUS
+
+0
+
+Qiar
+
+Vacc Suit 1
+
+1
+
+Rey
+
+Leadership 1
+
+1
+
+Ark
+
+—
+
+2
+
+Xlux
+
+—
+
+2
+
+Arkao
+
+Mechanic 1
+
+3
+
+Xluxon
+
+—
+
+3
+
+Avain
+
+Gun Combat (any) 1
+
+4
+
+Xluxonas
+
+Tactics (naval)1
+
+4
+
+Avainup
+
+—
+
+5
+
+Zaq
+
+BOL +1
+
+5
+
+Hal
+
+Leadership 1
+
+6
+
+Zaqaoq
+
+SOC +1
+
+6
+
+Haknux
+
+—
+
+—
+
+—
+
+SOC 10 or SOC +1, whichever is higher
+
+Events
+
+RANK
+
+2D
+2
+3
+
+4
+5
+6
+7
+8
+9
+
+10
+11
+
+2
+
+Za’tachk Travellers
+
+12
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+You embarrass your commanding officer at an important social event. Roll Diplomat 8+, if you
+succeed you manage to smooth things over but gain the officer as a Rival. If you fail you cannot roll
+for promotion or commission this term and gain the officer as an Enemy.
+You are given advanced training in a specialist field. Roll BOL 8+ to gain one level in any skill
+you already have.
+You are given a special assignment or duty on board ship. Gain DM+1 to any one Benefit roll.
+You help out a superior officer in an area where their skills are lacking. Gain them as an Ally.
+Life Event. Toll on the Life Event table.
+Your direct competition in the agency has left themselves open for a career crippling move on your
+part. Do it and ruin their life, gaining DM+4 on your next advancement roll and gain them as an Enemy.
+You stumble across a crime on board ship. If you choose to cover up the crime, roll Deception
+8+. If you succeed, gain an additional Benefit roll for this term. If you fail, you are also thought to
+be involved in the crime and lose your Benefit roll for this term. If you choose to come clean, roll
+BOL 8+. If you succeed you gain the perpetrator of the crime as an Enemy and DM+4 to your next
+advancement roll. If you fail, the criminal gets away and you gain an Enemy. If you roll a 2 on either
+check, you must take the Prisoner career for your next term.
+Your commanding officer takes an interest in your career. Either gain Tactics (naval) 1 or DM+4 to
+your next Advancement roll thanks to their aid.
+Through your inaction you cause a collision between two spacecraft. Your next advancement or
+commission roll suffers DM-4.
+You display great self-preservation in battle saving the whole ship. You automatically pass your next
+promotion or commission roll and gain BOL+1.
+
+Continue
+
+111
+
+

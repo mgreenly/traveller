@@ -1,0 +1,281 @@
+PESE-TEKO-WE CLASS DESTROYER
+The Pese-teko-we class destroyer is based on the
+Kargash Class light cruiser used by the Vilani during
+the Interstellar War period against the Solomani.
+The 2,000 ton hull is armed with two small missile
+bays, two fusion barbettes and four double plasma
+turrets. Point defence is provided by five triple
+
+TL15
+Hull
+
+TONS
+
+COST (MCr)
+
+2,000 tons, Standard
+
+—
+
+100
+
+Reinforced
+
+—
+
+50
+
+Armour
+
+Crystaliron, Armour: 7
+
+175
+
+35
+
+M-Drive
+
+Thrust 4
+
+80
+
+160
+
+J-Drive
+
+Jump 4
+
+205
+
+307.5
+
+Power Plant
+
+Fusion (TL12), Power: 2,055
+
+137
+
+137
+
+Fuel Tanks
+
+J-4, 8 weeks of operation
+
+828
+
+—
+
+Bridge
+
+Crew
+Captain, Pilots x3,
+Astrogator, Engineers
+x12, Maintenance x4,
+Medic, Gunners x24,
+Administration x2,
+Officers x4, Marines x15
+
+Hull: 880
+
+40
+
+10
+
+Computer/25 fib
+
+—
+
+15
+
+Running Costs
+
+Computer/15 bis
+
+—
+
+3
+
+MAINTENANCE COST
+
+Improved
+
+3
+
+4.3
+
+Cr74573.4/month
+
+Countermeasures Suite
+
+2
+
+4
+
+PURCHASE COST
+
+Small Missile Bays x2
+
+100
+
+24
+
+MCr894.8808
+
+Fusion Barbettes x2
+
+10
+
+8
+
+Double Turrets (plasma-pulse
+cannons) x4
+
+4
+
+22
+
+Triple Turrets (sandcasters) x5
+
+5
+
+8.75
+
+Ammunition
+
+Missile Storage (288 missiles)
+
+24
+
+—
+
+Armoured
+
+Bridge
+
+4
+
+0.8
+
+Bulkheads
+
+Engineering
+
+28.5
+
+5.7
+
+Power Plant
+
+13.7
+
+2.74
+
+Docking Space (30 tons)
+
+33
+
+8.25
+
+Ship’s Boat
+
+—
+
+6.822
+
+Armoury
+
+5
+
+1.25
+
+Briefing Room x2
+
+8
+
+1
+
+Brig
+
+4
+
+0.25
+
+Repair Drones
+
+20
+
+4
+
+Fuel Processor (800 tons/day)
+
+40
+
+2
+
+Fuel Scoop
+
+—
+
+1
+
+Workshop x2
+
+12
+
+1.8
+
+Standard x30
+
+120
+
+15
+
+Barracks (15 passengers)
+
+30
+
+3
+
+30
+
+3
+
+8
+
+1
+
+Computer
+Sensors
+Weapons
+
+Systems
+
+Staterooms
+Common Area
+
+Mud Baths
+
+278
+
+sandcaster turrets. A marine contingent supports
+boarding actions as well as piloting the ship’s boat
+and acting as backup gunners. This well-armed and
+well defended destroyer normally acts in squadrons
+of up to 10 vessels, which have been given the
+deceptively comical name of Bwap Packs.
+
+Power Requirements
+Basic Ship Systems
+400
+Manoeuvre Drive
+800
+Jump Drive
+800
+Sensors
+5
+Weapons
+79
+Fuel Processor
+40
+
+

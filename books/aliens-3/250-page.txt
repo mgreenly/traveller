@@ -1,0 +1,133 @@
+REEPA-REEP
+
+PARAWBA
+
+The reepa-reep is a small winged carnivorous reptilianoid
+that has become popular in the wider stellar community.
+Their scaled bodies exhibit a variety of shimmering
+colours, with males more brilliant than the female.
+They have two large eyes and a short snout filled with
+needle-sharp teeth. Their two front limbs are prehensile,
+which they use to assist with perching or manipulating
+food, while the back legs have evolved into long narrow
+wings much like those of a prehistoric pterodactyl. A thin
+membrane of skin between their forelimbs and ribcage
+act as stabilisers during flight along with a long rudder tail
+and brightly coloured head crest. Reepa-reep do not have
+the same stringent humidity requirements that Bwaps do,
+allowing them to live in drier climates.
+Reepa-reep are gifted mimics and known for their
+boisterous and mischievous personalities. They bond
+easily with their owner, especially if hand-reared, and are
+inquisitive intelligent creatures easily-trained to perform a
+number of tricks. Keeping a reepa-reep entertained can be
+a challenge however, and when bored they can become
+quite destructive. When startled or threatened, Reepa-reep
+give a raucous alarm call heard for a significant distance.
+
+The parawba (known as a ‘swamp-donkey’ by
+humans) is a primitive amphibianoid used as a riding
+animal and beast of burden. It has a long three metre
+body with a four metre tail. The head is boomerang
+shaped with its eyes located at the sides of the head,
+giving it excellent peripheral vision but poor forward
+vision. The head sports two frills starting at the top of
+the nostrils at the front of the head and progressing
+down to the thick neck where they join and then
+end just over the shoulder blades. The tail is also
+broadly frilled on both the dorsal and ventral sides.
+Males have an additional frill that begins just after
+the shoulder blades and extends to the end of the
+tail. Males have larger frills than females, which are
+brightly coloured to attract mates and act as threat
+displays and also possess a throat pouch, which they
+can expand to produce calls to attract mates and for
+courtship displays. The legs are slightly splayed out
+from the body and end in broad, webbed, three-toed
+feet. The skin is smooth and soft. Female parawba
+are drably coloured with a splotched pattern to aid in
+camouflage in the swamps on Marhaban, while males
+are brightly coloured in reds, blues and yellows.
+The parawba is a strong swimmer, equally capable
+on land and water. They are most comfortable living
+along the fringes of swamps where they feed on
+copious amounts of vegetation. Parawba will flee
+into deeper water when frightened and can remain
+submerged for extended periods of time until danger
+has passed. If they are unable to flee, Parawba
+will kick their attackers or use their tail to deliver a
+surprisingly accurate and damaging swipe.
+
+Animal
+
+Hits
+
+Speed
+
+Parawba
+
+42
+
+7m
+
+Skills
+
+Athletics (strength) 1, Melee
+(natural) 3, Survival 1
+
+Attacks
+
+Bite (1D), Kick (2D), Tail Swipe
+(3D)
+
+Alarm, Flyer (slow), Small (-3)
+
+Traits
+
+Amphibious, Large (+2)
+
+Carnivore, Chaser
+
+Behaviour
+
+Herbivore, Grazer
+
+Animal
+
+Hits
+
+Speed
+
+Reepa-reep
+
+3
+
+5m
+
+Skills
+
+Athletics (dexterity) 2, Melee
+(natural) 1, Recon 2, Survival 1
+
+Attacks
+
+Bite (D3)
+
+Traits
+Behaviour
+
+The Bwap Homeworld
+
+Parawba were first domesticated as riding and
+draft animals in Bwap prehistory, becoming an
+important form of transport until the development of
+the internal combustion engine. The Bwap military,
+primarily a defensive force that evolved from
+warriors protecting their clans from predators, still
+ride parawba during important ritual events. These
+parawba are richly adorned and ridden by equally
+adorned soldiers in elaborate parades.
+
+251
+
+

@@ -1,0 +1,168 @@
+ENTERTAINER
+
+3
+
+Arts and entertainment are viewed as
+important for communicating, stabilising
+and reinforcing social structures across the
+Consulate.
+Qualification: INT 5+
+
+CAREER PROGRESS
+SURVIVAL
+SOC 6+
+EDU 7+
+INT 5+
+
+Artist
+Author
+Performer
+
+ASSIGNMENTS
+
+ADVANCEMENT
+INT 6+
+INT 5+
+DEX 7+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Artist: You are a sculptor, holographer or
+work in some other creative art.
+Author: You write for a living, whether it
+is novels, poetry, plays, speeches, news
+reports or games.
+Performer: You are an actor, athlete,
+musician or some other type of public
+performer.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+2000
+5000
+10000
+10000
+40000
+40000
+80000
+
+BENEFITS
+Contact
+Two Ship Shares
+Ally
+INT +1
+EDU +1
+Nenj
+SOC +1
+
+SKILLS AND TRAINING
+1D
+
+PERSONAL DEVELOPMENT SERVICE SKILLS
+
+ADVANCED EDUCATION (MIN. EDU
+8)
+Art
+Talent
+Carouse
+Advocate
+Diplomat
+Electronics
+Persuade
+Diplomat
+Science
+Language
+Steward
+Science
+SPECIALIST: AUTHOR SPECIALIST: PERFORMER
+PSIONIC SKILLS: (MIN. SOC 10)
+Art (writing)
+Art (acting, dance or
+PSI +1
+instrument)
+Electronics
+Athletics (dexterity
+Clairvoyance
+or endurance)
+Admin
+Carouse
+Persuade
+Investigate
+Leadership
+Science (psychology)
+Language
+Melee
+Talent
+Recon
+Stealth
+Telepathy
+
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+
+STR +1
+DEX +1
+INT +1
+EDU +1
+Carouse
+Stealth
+SPECIALIST: ARTIST
+Art (holography or
+sculpting)
+Carouse
+
+3
+4
+5
+6
+
+Electronics
+Persuade
+Science
+Profession
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ARTIST
+—
+Well-known
+—
+Renowned
+—
+Famous
+—
+
+SKILL OR BENEFIT
+—
+Art
+—
+Investigate
+—
+SOC +1
+—
+
+

@@ -1,0 +1,222 @@
+T
+
+Vehicles of the Bwaps
+
+E
+
+L
+
+L
+
+E
+
+TL
+
+10
+
+SKILL
+
+Flyer (grav), Seafarer
+(submarine)
+
+AGILITY
+
+-2
+
+SPEED (CRUISE)
+
+Medium (Slow)
+
+RANGE (CRUISE) 200 (300)
+
+TL
+
+8
+
+SKILL
+
+Drive (tracked)
+
+AGILITY
+
++2
+
+SPEED (CRUISE)
+
+Medium (Slow)
+
+RANGE (CRUISE) 400 (600)
+CREW
+
+1
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+2
+
+SHIPPING
+
+1 ton
+
+COST
+
+Cr8100
+
+1
+
+PASSENGERS
+
+1
+
+CARGO
+
+—
+
+HULL
+
+15
+
+SHIPPING
+
+2.5 tons
+
+COST
+
+MCr1.5 tons
+
+Equipment
+Autopilot (skill level)
+
+2
+
+Communications (range)
+
+500km
+
+Navigation (Navigation DM)
+
++2
+
+Sensors (Electronics (sensors) DM)
+
++1
+
+Camouflage (Recon DM)
+
+—
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+ARMOUR
+
+Equipment
+Autopilot (skill level)
+
+—
+
+Communications (range)
+
+—
+
+Navigation (Navigation DM)
+
+—
+
+Sensors (Electronics (sensors) DM)
+
+—
+
+Camouflage (Recon DM)
+
++2
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+FRONT 2
+
+Traits
+Open Vehicle, Tracked
+Equipment Camouflage (improved), Control
+System (improved)
+
+2
+
+CREW
+
+Traits
+AFV
+Equipment Autopilot (enhanced), Auxiliary Grav
+Drive, Communications (improved),
+Navigation Systems (improved), Sensors
+Systems (improved, underwater)
+
+ARMOUR
+
+266
+
+V
+
+Marsh hoppers are submersible vehicles that can also
+take to the air with grav lifters. Among Bwaps they are a
+common vehicle, especially for those who live in undersea archologies. These vehicles have also gained some
+popularity with sophonts living on water worlds.
+
+Tracked scooters
+look like a hybrid of a
+scooter, skateboard and
+small tank. They can
+handle difficult terrain
+with little difficulty. The
+tap-a-wewaka-atapas
+have a great fondness
+for them and they
+have gained popularity
+among human youths
+who seek a somewhat
+unusual sports vehicle.
+Tracked scooters are
+ridden like a skateboard
+using shifting body
+weight to steer and
+handlebars to provide
+support and stability.
+
+REAR
+
+A
+
+PESWAB MARSH HOPPER
+
+PABTA TRACKED SCOOTER
+
+FRONT 2
+
+R
+
+SIDES
+
+2
+
+REAR
+
+2
+
+SIDES
+
+2
+
+R
+
+

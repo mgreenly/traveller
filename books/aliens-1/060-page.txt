@@ -1,0 +1,112 @@
+WEAPONS OF HONOUR
+
+Unless otherwise stated, all the weapons here use the Melee (blade) skill.
+
+ASSASSIN’S BLADE
+
+A11/58231
+
+The traditional weapon of an assassin is a curved blade,
+often with funnels in the blade containing poison. The
+delivery of a soisu’soi is part of the ceremony that begins a
+War of Assassins. Modern blades are made of sensor-baffling
+materials, fold down to the size of a small coin and contain
+poison tailored to the metabolism and genetics of the
+intended family. An Aslan of the target genetic family who is
+struck by a modern assassin’s blade must make a Difficult
+(10+) END check or suffer another 1D damage every hour for
+the next 1D hours.
+Weapon
+Assassin’s Blade
+Assassin’s Blade
+
+TL
+3
+10
+
+Range
+Melee
+Melee
+
+Damage
+2D
+2D+3
+
+Kg
+0.5
+—
+
+Cost
+Cr500
+Cr5000
+
+CRESCENT BLADE
+
+A11/58231
+
+The taleryu is a symbol of a noble’s authority; it was
+traditionally used to execute trespassers but works well as a
+combat weapon. Taleryu are sometimes used in zero-gravity
+combat in the same way cutlasses are used by humans of
+the Imperium.
+
+Weapon
+Crescent Blade
+
+A11/58231
+
+TL Range
+3 Melee
+
+Damage
+2D+3
+
+Kg
+1.5
+
+Cost
+Cr100
+
+FIERAH
+
+The fierah is a strip of flexible material (originally hide,
+now frequently plastic) approximately 150cm in length
+and frequently worn like a sash or belt. It can be used in a
+variety of ways – looped, it can be used to snare or throttle an
+opponent using the Melee (unarmed) skill; it can also be used
+as a sling or the loose strands at each end can be tied around
+weights to form an improvised flail or bolo (taking two rounds),
+using the Gun Combat (archaic) skill. Highly decorated fierah
+are part of the traditional costume of a noble.
+
+Weapon
+Fierah
+
+60
+
+TL
+1
+
+Range
+10
+
+Damage
+1D
+
+Kg
+—
+
+Cost
+Cr10
+
+Traits
+—
+
+Traits
+—
+
+Traits
+—
+—
+
+

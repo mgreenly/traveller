@@ -1,0 +1,82 @@
+Hull form is a dome shape with projections fore and aft on the centreline. This does lead to
+the possibly unkind nickname of ‘Space Tortoises’, which also makes fun of the vessel’s low
+jump capability. However, the Thalassa is a very flexible design. Its dedicated fuel tankage
+is sufficient for one jump-1 and four weeks of operation but if it is necessary to cross to a
+different main or cluster – or just to have fuel in reserve for a quick getaway – the fuel/cargo
+module can be filled. This provides for another jump and around five weeks of additional
+operating time. The module can carry fuel or cargo; it must be used for one or the other
+although it can be only partially filled. In normal operation this module provides 42 tons of
+additional cargo space.
+The central ‘strip’ of the hull is two decks high. On the top deck are the bridge and drive
+spaces, with eight crew cabins and a four ton common area between. The lower deck of the
+central strip houses 12 passenger cabins plus 12 tons of common space towards its fore
+end. The twin steerage blocks lie aft and along the flanks of the passenger area, with access
+heavily restricted. The remainder of the domed part of the hull is given over to cargo space
+and the fuel/cargo module.
+The Thalassa-class is normally delivered with two standard defence turrets, mounting a pair of
+pulse lasers and a sandcaster, with all weapons mounted on the dorsal surface of the vessel.
+Thalassas can be fitted out in a variety of configurations. Some lack the fuel/cargo module,
+gaining 44 tons of dedicated cargo space and others delete the steerage blocks to gain 88
+tons of cargo capacity. The lower-deck passenger space can also be fitted out as cargo hold
+for an additional 60 tons. One or both steerage modules can also be replaced with a bulk
+low-berth chamber containing 72 low berths and a medical bay. Power for this facility is
+factored into the vessel’s power plant design.
+A Thalassa small transport that retains the fuel/cargo option and can therefore go almost
+anywhere in the Confederation – eventually – will thus typically be encountered in one of the
+following configurations:
+
+Configuration
+Bulk Passenger
+Freightliner
+Bulk Cargo
+Low Passenger
+Low/Bulk Passenger
+
+High/Mid
+Passenger Cabins
+12
+12
+0
+12
+12
+
+Steerage
+Passengers
+48
+0
+0
+0
+24
+
+Cargo with
+Jump-1
+106
+194
+254
+106
+106
+
+Cargo with
+Jump-1 x2
+64
+152
+212
+64
+64
+
+Low Berths
+0
+0
+0
+144
+72
+
+Other variants may have considerably different capabilities. The modular nature of the
+compartments allows one area to be repurposed without affecting others. Thus those travelling
+aboard on a supposed bulk passenger variant might be unaware that one of the steerage blocks
+in fact houses an intelligence-gathering team. One common aftermarket conversion is to
+remove the passenger accommodation and replace it with equipment for prospecting or smallscale mining. It is thus not wise to make assumptions about a Space Tortoise.
+
+109
+
+

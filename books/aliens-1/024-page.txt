@@ -1,0 +1,127 @@
+2
+
+ENVOY
+
+Interclan relations are often entrusted to
+Envoys empowered to arrive at agreements
+and commit clan resources. Many Envoys
+are also spies.
+Qualification: Rite of Passage 10+
+
+CAREER PROGRESS
+Survival
+Advancement
+
+ASSIGNMENTS
+
+NEGOTIATOR
+SOC 7+
+INT 7+
+
+SPY
+SOC 8+
+INT 6+
+
+DUELLIST
+END 8+
+DEX 6+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Negotiator: You are the voice of your clan in
+diplomatic or contract negotiations.
+Spy: You watch rival clans and analyse their
+activities.
+Duellist: You fight as a champion of your
+clan in ritual honour duels.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr0
+Cr0
+Cr0
+Cr5000
+Cr5000
+Cr10000
+Cr20000
+
+BENEFITS
+Contact
+Contact or 1 Clan Share
+INT +1
+EDU +2
+Independence or 2 Clan Shares
+Weapon
+3 Clan Shares
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Melee (natural)
+Independence
+Independence
+SPECIALIST: NEGOTIATOR
+Persuade
+Tolerance
+Diplomat
+Deception
+Diplomat
+Art
+
+SERVICE SKILLS
+INT +1
+Diplomat
+Tolerance
+Carouse
+Survival
+Leadership
+SPECIALIST: SPY
+Persuade
+Investigate
+Deception
+Stealth
+Electronics
+Diplomat
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Advocate
+Science
+Language
+Electronics
+Diplomat
+SPECIALIST: DUELLIST
+Tolerance
+Melee (natural)
+DEX +1
+STR +1
+END +1
+Melee
+
+

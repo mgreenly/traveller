@@ -1,0 +1,158 @@
+Ranks and Bonuses
+COMMANDO/FLIGHT SKILL OR BONUS
+
+RANK
+
+SUPPORT
+
+SKILL OR BONUS
+
+0
+
+Least Claw
+
+—
+
+0
+
+—
+
+—
+
+1
+
+Third Claw
+
+Mechanic 1 or Gun Combat 1 1
+
+Kaltrhar
+
+Melee (natural) 1
+
+2
+
+Second Claw
+
+—
+
+2
+
+Shin Kaltrhar
+
+Leadership 1
+
+3
+
+First Claw
+
+Leadership 1
+
+3
+
+Shilahn
+
+—
+
+4
+
+Third Fang
+
+—
+
+4
+
+Shiltrhar
+
+Tactics 1
+
+5
+
+Second Fang
+
+END +1
+
+5
+
+Shil Shintrah
+
+Admin 1
+
+6
+
+First Fang
+
+—
+
+6
+
+Shinalrhar
+
+SOC +1
+
+Events
+
+RANK
+
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+Trapped behind enemy lines, you have to survive on your own. Gain one of Survival 1, Stealth 1,
+Deception 1 or Streetwise 1.
+
+4
+
+You are assigned a special assignment or duty on board your ship. Gain DM+1 to any one
+Benefit roll.
+
+5
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain one skill of your
+choice at level 1.
+
+6
+
+Your vessel participates in a notable engagement. Gain one of Electronics 1, Engineer 1,
+Gunner 1 or Pilot 1.
+
+7
+
+Live Event. Roll on the Life Events table.
+
+8
+
+You are on the front line of an assault and occupation. Gain one of Recon 1, Gun Combat 1,
+Leadership 1 or Electronics (comms) 1.
+
+9
+
+You foil an attempted crime onboard your ship or in your unit, such as mutiny, sabotage, smuggling
+or conspiracy. Gain an Enemy but also receive DM+2 to your next advancement roll.
+
+10
+
+You are assigned a black ops mission. Gain DM+2 to your next advancement roll.
+
+11
+
+Your commanding officer takes an interest in your career. Either gain Tactics 1 or DM+4 to your
+next advancement roll thanks to their aid.
+
+12
+
+You display heroism in battle. You may gain a promotion or commission automatically.
+
+2
+
+Tezcat Travellers
+Continue
+
+229
+
+

@@ -1,0 +1,198 @@
+USC-3A SMALL PACKET BOAT (SOLOMANI COURIER)
+TL12
+
+TONS
+
+COST (MCR)
+
+100 tons, Standard
+
+—
+
+5
+
+Enhanced Security
+
+2
+
+0.4
+
+M-Drive
+
+Thrust 3 (energy
+efficient)
+
+3
+
+6.6
+
+Jump Drive
+
+Jump 3
+
+12.5
+
+18.75
+
+Power Plant
+
+Fusion (TL12),
+Power 90
+
+6
+
+6
+
+Fuel Tanks
+
+J-3, 4 weeks of
+operation
+
+30.6
+
+0
+
+Bridge
+
+Holographic
+Controls
+
+10
+
+0.625
+
+Computer
+
+Computer/20
+
+0
+
+5
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Dual Turret (pulse
+lasers)
+
+1
+
+2.5
+
+Staterooms
+
+Standard x3
+
+12
+
+1.5
+
+4
+
+0.8
+
+Manoeuvre/0
+
+0
+
+0
+
+Jump Control/3
+
+0
+
+0.3
+
+Library
+
+0
+
+0
+
+16
+
+0
+
+Hull
+
+Common
+Area
+Software
+
+Cargo
+
+CREW
+CAPTAIN, PILOT,
+ASTROGATOR, ENGINEER,
+GUNNER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr4297.92/month
+
+PURCHASE COST
+MCr51.575
+
+TOTAL: MCR 51.575
+
+Power Requirements
+23
+
+20
+
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+30
+
+2
+
+9
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+The SC series of small packet boats has its
+origins in a programme to replace both the
+x-boat system and the ubiquitous Type S
+scout/courier in the Solomani Autonomous
+Region. The ‘SC’ designation started out as
+a placeholder indicating the design’s name
+would be approved by the Solomani Party at
+an appropriate time in the future. To date this
+has not happened and variants are simply
+identified by a number/letter combination.
+
+40
+HULL POINTS
+106
+
+All variants of the SC-type use a similar hull
+form, an elegant rounded wedge reminiscent
+of but different from the angular Imperial
+equivalent. Most are built at TL12, allowing
+them to be produced at shipyards across the
+Confederation. Jump-3 capability is standard,
+although the basic design of the hull is
+sometimes used for different ships whose
+performance is usually lower.
+
+

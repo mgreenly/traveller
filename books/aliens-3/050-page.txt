@@ -1,0 +1,110 @@
+Events
+
+2D
+2
+3
+
+4
+5
+6
+7
+8
+9
+
+10
+
+11
+
+Your unit is temporarily assigned to an Imperium peace keeping force that sees conflict.
+Roll Recon or Gun Combat 8+ to avoid being injured and gain one level of Heavy Weapons,
+Leadership, Medic or Stealth.
+You are assigned garrison duty on an isolated Confederation outpost. Gain a Contact there or one
+level of Electronics (comms), Mechanic or Streetwise.
+You are involved in a skirmish when a pirate ship misjumps and mistakenly raids your world. Gain
+one level of Gun Combat, Melee, Recon or Survival, then roll that skill. If you get 8+, your unit was
+victorious, granting DM+2 to your next advancement roll.
+You are given advanced training in a specialist skill. Roll EDU 8+ to gain any one skill available to
+your career.
+Life Event. Roll on the Life Event table.
+You are sent to Cunnonic to help the Aslan garrison cull the hostile life forms. Increase a skill of
+your choice by one level but lose INT -1 from the repeated nightmares you have suffered since.
+A mission goes disastrously wrong due to your commander’s error or incompetence but
+you survive. If you report your commanding officer for their failure, gain DM+2 to your next
+advancement roll and gain them as an Enemy. If you say nothing and protect them, you gain them
+as an Ally.
+You are considered for promotion to the Confederation Guard. You may add the terms spent in
+this career as a DM if you attempt to qualify for that career next term and preserve your rank by
+transferring over to the Guard equivalent.
+You serve under an Aslan hero of the clan, who likes your attitude. Either gain Tactics (military) or
+DM+4 to your next advancement roll thanks to their aid.
+Your ceaseless high performance comes to the attention of the upper echelons. You are either
+promoted or automatically commissioned to officer rank.
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+NCO
+Private
+Lance Corporal
+Corporal
+Lance Sergeant
+Sergeant
+Staff Sergeant
+Sergeant Major
+
+SKILL OR BONUS
+Gun Combat 1
+—
+Leadership 1
+—
+—
+Tactics (military) 1
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+OFFICER
+Lieutenant
+Captain
+Major
+Colonel
+Brigadier
+General
+Director
+
+SKILL OR BONUS
+Leadership 1
+—
+Tactics (military) 1
+—
+Diplomat 1
+—
+Leadership 1
+
+6
+
+Darrian Travellers
+
+Ranks and bonuses
+
+12
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+51
+
+

@@ -1,0 +1,76 @@
+HIGH GUARD OF THE BWAPS
+Bwaps first developed their own fleet of ships during
+the Ziru Sirka to facilitate trade and colonisation, and
+continued during the fall of the Ramshackle Empire
+and into the Long Night as a measure to protect
+their worlds. At first they used ships provided by the
+Vilani but as these began to reach the end of their
+life, Bwaps began building their own vessels based
+on their own design principles, making them highly
+recognisable. Vowing never to forget the atrocities
+and injustices visited upon them by the Solomani
+and Vargr during the Long Night, Bwaps have
+continued to maintain their own fleets, recognised by
+the Third Imperium as colonial fleets. Bwap vessels
+are found primarily in Bwap controlled systems
+(especially military ships) in the Empty Quarter,
+although merchant and trader vessels can be found
+throughout the Third Imperium, particularly in core
+and trailing sectors.
+These ships are very much like human vessels and
+use the same technology, as would be expected from
+a race that gained spaceflight technology largely
+from humans. Both races can readily use vessels of
+the other with no difficulty.
+Their vessels tend to have no external sharp edges,
+favouring ovoids, spheres and other organic shapes.
+They also tend to paint hulls in blues and greens.
+Ships that belong to a particular crèche will often have
+the hull painted in the same colours and patterns that
+members of the crèche exhibit, identifying ownership
+of the vessel clearly to other Bwaps.
+
+Internally, Bwaps favour their vessels to emulate,
+where practical, the function if not necessarily the
+style of the ancient burrows that Bwaps originally
+inhabited. This is far more likely to be found in larger
+ships that have the space to accommodate Bwap
+aesthetics. Convoluted, winding passageways will
+lead to various rooms for both shared and private
+use. While this is seen by many other races as
+needlessly confusing and unnecessary, Bwaps find
+comfort in familiar surroundings.
+
+MUD BATHS
+Given the Bwap predilection to socialising in a mud
+bath, they have incorporated this ritual into life on
+board space faring vessels.
+A Bwap ship of 100 tons or more must have at
+least one area dedicated to mud bathing. Small
+ships tend to have a mud bath that can comfortably
+accommodate four Bwaps but larger vessels have
+mud baths that accommodate 40 or 50 Bwaps
+at a time. A mud bath is treated as a stateroom
+(consumes four tons and costs MCr0.5) and can
+handle four Bwaps comfortably. It cannot be used
+for accommodation and does not incur life support
+costs. Multiple mud baths can be combined to create
+a larger facility.
+
+Bwaps favour a modular design for their ships, a
+holdover from the original Vilani ships they first
+obtained and copied. Each ship system is installed
+as a module and, if damaged, is removed and
+replaced as a module. This is not to say that Bwaps
+will not repair their ships but the repaired module will
+be removed and replaced with a new module at the
+earliest convenience.
+This has no effect on the ship construction system as
+detailed in High Guard, nor does it affect the cost of
+Bwap ships. It does mean that the cost required for
+repairing a Bwap ship is inflated by +20% as entire
+modules must be replaced.
+
+267
+
+

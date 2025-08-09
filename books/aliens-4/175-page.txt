@@ -1,0 +1,80 @@
+LEGEND
+1. Manoeuvre Drive
+2. Jump Drive
+3. Power Plant
+4. Bridge
+5. Sensors
+6. Double Turret
+7. Docking Space
+8. Cargo Crane
+9. Fuel Processor
+10. Airlock
+11. Medical Bay
+12. Stateroom
+13. Low Berths
+14. Common Areas
+15. Cargo Hold
+
+6
+
+6
+
+15
+
+8
+
+15
+
+DECK 2
+6
+
+12
+12
+
+12
+
+12
+
+12
+
+12
+
+14
+
+12
+
+12
+
+12
+
+12
+
+12
+11
+
+3
+7
+
+13
+
+2
+
+DECK 1
+1 square = 0.5 Ton
+
+4
+
+5
+
+1
+
+14
+12
+
+12
+
+DECK 3
+
+175
+
+

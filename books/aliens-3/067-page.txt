@@ -1,0 +1,260 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+ROBOTS
+Neural Activity Detector: A large and bulky unit that
+detects brainwave activity within 500 metres. The NAS can
+indicate the order of the creature emitting the neural activity
+(human-equivalent might be Vargr, Aslan or Drone; dogequivalent might be a horse, poni or kian) and the number
+of emissions or individuals within the area. The unit is not
+very reliable or precise and can be fooled by large numbers
+of low-order brainwave emissions.
+At TL15, an improved hand-held version becomes
+available that is more reliable than the TL14 model.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Neural Activity Detector
+
+14
+
+10
+
+Cr55000
+
+Improved Neural Activity Detector 15
+
+1
+
+Cr85000
+
+Few automatous robots are found in Darrian Space.
+Not only are they considered a potential risk without
+true self-aware AI to control them but Darrians have an
+ethos that celebrates physical labour as part of keeping
+a healthy mind. Except for mass production, few robots
+are employed as workers.
+Sensor Drone: A floating platform that can hold a
+range of sensor equipment and is lightly armoured to
+survive hostile environments. It is normally operated
+as a remote drone but can be ordered to follow
+specific mission profiles or flight plans. More advanced
+models with better programming and skill software
+can be specially ordered. The platform does not come
+equipped with any sensor packages, which must be
+purchased separately.
+
+COMMUNICATIONS
+
+In addition to standard comms equipment, at TL14
+Darrians retro-engineer their existing artefacts and
+portable meson communication becomes available.
+Meson
+Transceivers Kg
+
+Range
+
+Cost
+
+TL14
+
+100
+
+Distant (50km)
+
+Cr100000
+
+TL15
+
+10
+
+Regional (500km)
+
+MCr1
+
+TL16
+
+1
+
+Continental
+(5,000km)
+
+Not
+Available
+
+COMPUTERS
+
+CSC: Darrian
+
+Darrian computer systems are equivalent to Imperial
+devices, save that they are more compact at higher
+Tech Levels and hardened against EMPs.
+
+68
+
+Robot
+
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Sensor Drone
+
+10
+
+9m+
+
+12
+
+Cr93000
+
+Locomotion
+
+Grav
+
+Skills
+
+Athletics (dexterity) 4, Recon 2
+
+Attacks
+
+None
+
+Manipulators
+
+None
+
+Endurance
+
+72 (18) hours
+
+Traits
+
+Armour (+8) , Flyer (high), hardened,
+Small (-2)
+
+Cr10000
+
+Programming
+
+Basic (recon) (INT 4)
+
+0.1
+
+Cr20000
+
+Options
+
+0.005
+
+Not Available
+
+Drone Interface, Transceiver
+500 km (enhanced), Vacuum
+Environment Protection, Wireless
+Data Link, Default suite spare slots
+x2, spare slot x1
+
+TL
+
+Processing
+
+Kg
+
+Cost
+
+TL7
+
+Computer/0
+
+3
+
+Cr2000
+
+TL8
+
+Computer/1
+
+2
+
+Cr1000
+
+TL9
+
+Computer/1
+
+1
+
+Cr400
+
+TL10
+
+Computer/2
+
+1
+
+Cr1000
+
+TL11
+
+Computer/2
+
+0.5
+
+Cr1200
+
+TL12
+
+Computer/3
+
+0.5
+
+Cr4000
+
+TL13
+
+Computer/4
+
+0.5
+
+Cr6000
+
+TL14
+
+Computer/5
+
+0.1
+
+TL15
+
+Computer/6
+
+TL16
+
+Computer/8
+
+R
+
+

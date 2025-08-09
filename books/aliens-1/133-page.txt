@@ -1,0 +1,95 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured in a predator or enemy attack; lose –D3 points from among STR, DEX and END but do not leave the
+career.
+
+2
+
+You anger your herdlord and are punished with a period of ostracism. Gain one level of Outsider. You do not
+leave the career.
+
+3
+
+One of your wives dies or is otherwise taken from you. In your grief you offend many other K’kree. Gain D3
+Rivals or one Enemy and lose a wife. You do not leave the career.
+
+4
+
+Your status in the herd is diminished. If you accept this, SOC is reduced by –1 and you gain an Ally who
+respects your correct attitude. If you think you did not deserve this, gain a level of Outsider and an Enemy. You
+do not leave the career.
+
+5
+
+D3 of your family members are killed or otherwise lost to the herd. Their sacrifice is compensated by an
+increase of SOC+1, which may elevate you into the next caste. You do not leave the career.
+
+6
+
+You were ejected from the herd. Gain 1 level of Outsider. You are no longer a K’kree; you are nothing. Survive as
+best you can, or die. Nobody cares either way.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+Your herd is involved in a vigorous or even violent dispute with another. You do your part with honour, earning
+deserved praise from your herdlord and an additional Benefits roll. You also gain D3 Enemies.
+
+4
+
+Your herd goes on a mission. You complete your tasks to the herdlord’s satisfaction. Gain 1 Contact or one level
+in any skill available on the tables of this caste.
+
+5
+
+You are given an onerous task you do not know how to complete. Make an INT check. On 10+ you gain 1 level
+of Jack-of-all-Trades and a Rival made to look stupid by your success. If not, you suffer humiliation and abuse.
+
+6
+
+Your herd needs to prepare for war. Gain 1 level in Melee or Gun Combat.
+
+7
+
+Life Event. Roll on the K’kree Life Events table on page 138.
+
+8
+
+Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K’kree ritual) and a Contact
+outside your herd.
+
+9
+
+You have to follow your herdlord on a space voyage. It is unpleasant, especially when they make you practice
+wearing a vacc suit. Gain 1 level of Vacc Suit.
+
+10
+
+You serve well and are personally commended by the Steppelord. Gain SOC+1 and a Contact at the
+Steppelord’s court (who may or may not be a K’kree).
+
+11
+
+An important Merchant caste leader offers you one of his daughters in marriage. Gain an extra wife, SOC 7,
+elevation to servant-of-rankholder in the Merchant caste and the admiration of your former peers.
+
+12
+
+A relative of yours was lost for a time, then came home as one-with-the-sky. You are not sure what to make of
+his ramblings but gain D3 Contacts among the dignitaries who have come to hear them and also SOC+1 for the
+association.
+
+

@@ -1,0 +1,140 @@
+Events
+
+2D
+2
+3
+4
+5
+6
+7
+8
+
+9
+
+10
+
+11
+
+The governmental officer you are employed by asks you to do something vicious and immoral on
+their behalf. Go through with it and gain an Ally, refuse and they become a Rival.
+You have an opportunity to smuggle illegal goods. If you accept, roll Deception 8+ and gain 3
+Benefit rolls. Fail and you suffer DM-6 to your next advancement roll. If you roll a 2, you must take
+the Wanderer (exile) career in your next term.
+The target of your next investigation is someone you know. Go through with the mission and
+gain DM+2 on your next advancement roll but lose one Ally or Contact. If you have no Allies or
+Contacts, gain an Enemy instead.
+Your most recent case required you to travel outside of the Confederation, exposing you to many
+different worlds and cultures. Gain either Science, Recon, Streetwise or Survival.
+Life Event. Roll on the Life Event table.
+Your direct competition in the agency has left themselves open for a career crippling move on
+your part. If you do it and ruin their life, gain DM+4 on your next advancement roll and gain them
+as an Enemy.
+You are targeted in a series of vicious assassination attempts by criminals or foreign agents. You
+may demonstrate heroism or prudence in battle. If you demonstrate heroism, roll END 8+ to avoid
+rolling on the Injury table and gain DM+2 on your next Advancement roll. If you cower, roll STR 8+
+to avoid losing SOC -1.
+You catch a foreign spy in the act of working mischief. Fight them with any combat-based skill 8+,
+rolling on the Injury table if unsuccessful. Success adds one level to whatever skill you used to
+defeat them. Alternatively, you may help them escape, gaining them as an Ally.
+Your exemplary service has earned you a special commendation. You may choose to leave the
+Agent career and join the Special Arm career without having to pass the Qualification roll.
+Your efforts strike a great blow for Darrian society. You are automatically promoted.
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+POLICE
+Recruit
+Officer
+Corporal
+Sergeant
+Lieutenant
+Detective
+Commissioner
+
+SKILL OR BONUS
+—
+—
+Streetwise 1
+Admin 1
+—
+Investigate 1
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+INTELLIGENCE
+Recruit
+Field Agent
+—
+Special Agent
+—
+Assistant Director
+Director
+
+SKILL OR BONUS
+—
+Deception 1
+—
+Investigate 1
+—
+—
+Leadership 1
+
+RANK
+0
+1
+2
+3
+4
+5
+
+INTELLIGENCE
+—
+Grip
+—
+Specialist
+Crew Leader
+—
+
+6
+
+Chief Analyst
+
+SKILL OR BONUS
+—
+Electronics (computers)1
+—
+Electronics (comms) 1
+—
+Science (archaeology, economics, history, linguistics,
+philosophy, psychology or sophontology) 1
+Leadership 1
+
+1
+
+Darrian Travellers
+
+Ranks and bonuses
+
+12
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+41
+
+

@@ -1,0 +1,102 @@
+GRAV BARGE
+TL
+
+12
+
+SKILL
+
+FLYER (GRAV)
+
+AGILITY
+
+–1
+
+SPEED (CRUISE)
+
+VERY SLOW (IDLE)
+
+RANGE (CRUISE)
+
+100 YEARS
+
+CREW
+
+1
+
+PASSENGERS
+
+30
+
+CARGO
+
+4.5 TONS
+
+HULL
+
+1,000
+
+SHIPPING
+
+125 TONS
+
+COST
+
+MCR47.4
+
+Autopilot (skill level) —
+Communications 10000
+(range) km
+Navigation
+(Navigation DM) +2
+Sensors (Electronics
+(sensors) DM) +3
+Camouflage (Recon
+DM) –2
+Stealth (Electronics
+(sensors) DM) —
+
+ARMOUR
+F RONT
+
+4
+
+REAR
+
+4
+
+SIDES
+
+4
+
+WEAPONS
+None
+
+EQUIPMENT
+Autopilot (advanced), Communications (advanced, meson communicator,
+satellite uplink), Computer /3, Control System (enhanced), Crane (heavy),
+Entertainment System (Cr25000), Fire Extinguishers, Freshers (large) x
+10, Fusion Plant (advanced), Galley (full, serves 20), Holding Tanks (25
+Spaces), Internal Bays (50 tons), Navigation System (improved), Sensor
+System (improved), Staterooms x 30
+
+TRAITS
+—
+
+DESCRIPTION
+A variation on grav platforms, grav barges
+are large, stately vehicles used by Aslan as
+semi-mobile bases when travelling through
+their territory. The barge hovers using antigravity suspensors but is propelled by sails or
+drawn by beasts of burden like a giant flying
+chariot. Most grav barges can actually move
+under their own power but it is considered
+gauche to actually fly a grav barge; the
+whole point of the vehicle is to slowly tour
+one’s territory in a traditional manner.
+Understandably, grav barges tend to undergo
+a great deal of customisation – fortunately,
+space is the one thing they do not lack.
+
+67
+
+

@@ -1,0 +1,35 @@
+DECK 6
+
+1
+
+Command
+Weaponry
+Engineering
+Accommodation
+
+DECK 5
+
+3
+
+2
+
+2
+4
+
+1. Improved Sensors, Sensor Stations,
+Countermeasures Suite
+2. Point Defence
+3. Cargo Bay
+4. Mud Baths
+
+2
+
+2
+
+DECK 4
+
+1 sq. = 5 tons
+
+283
+
+

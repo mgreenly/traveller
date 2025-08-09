@@ -1,0 +1,154 @@
+NAVY
+
+9
+
+This career includes all members of an
+interstellar navy that patrols space between
+the stars. The navy is responsible for
+protecting society from foreign powers
+and the lawless elements within their own
+territories.
+Qualification: CHA 8+
+
+CAREER PROGRESS
+SURVIVAL
+DEX 7+
+INT 5+
+INT 6+
+
+Pilot
+Crew
+Engineer
+
+ASSIGNMENTS
+
+ADVANCEMENT
+CHA 7+
+CHA 6+
+CHA 5+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Pilot: You serve as a pilot of a shuttle,
+fighter or other vessel.
+Crew: You serve as one of the crew
+specialising in communications, gunnery,
+navigation or sensors.
+Engineer: You serve as an engineer,
+mechanic or technician.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr2000
+Cr5000
+Cr7500
+Cr10000
+Cr25000
+Cr50000
+
+BENEFITS
+Blade
+Armour
+Air/Raft or one Ship Share
+Ally
+Weapon
+CHA +1
+Ship’s Boat or two Ship Shares
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+INT +1
+Melee
+CHA +1
+PILOT
+Pilot (small craft)
+Astrogation
+Flyer
+Gunner
+Electronics
+Pilot
+
+SERVICE SKILLS
+Gun Combat
+Gunner
+Mechanic
+Pilot
+Vacc Suit
+Athletics (dexterity)
+CREW
+Mechanic
+Flyer
+Electronics
+Gunner
+Vacc Suit
+Athletics
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Astrogation
+Advocate
+Medic
+Science
+Electronics
+ENGINEER
+Engineer
+Electronics
+Mechanic
+Science
+Athletics (dexterity)
+Engineer
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+PILOT/CREW SKILL OR BENEFIT
+Vacc Suit 1
+—
+Pilot 1
+Leadership 1
+—
+CHA +1
+
+ENGINEER SKILL OR BENEFIT
+Vacc Suit 1
+—
+Engineer 1
+Mechanic 1
+—
+Leadership 1
+
+

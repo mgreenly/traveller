@@ -1,0 +1,74 @@
+A11/58231
+
+GUARDS BATTLE DRESS
+
+Guards battle dress is used by commando units, as well
+as Nobles in lift mechanised infantry units. The battle
+dress electronics suite (see page 30 of the Central Supply
+Catalogue) is upgraded with a Computer/3 running
+available Intellect/1 and Expert (electronics (comms)) 2
+programs, assisting with unit coordination and control.
+Additionally, it incorporates a teleportation suit, as well as
+the psionic shielding found on Guards combat armour.
+
+Armour Type
+Guards Battle Dress
+
+Protection
++27
+
+TL
+14
+
+Rad
+300
+
+STR
++4
+
+DEX
++4
+
+AUGMENTS
+
+While augments are available in the Consulate, they are
+culturally frowned upon. Augments are seen as a sign
+of discomfort with how someone views themselves, a
+symptom of mental illness. However, recognising that
+some augments have value (particularly to compensate
+for injuries), they are allowed – but all augments for
+Proles have psi-sensitive switches built into them, so they
+can be shut off by Intendants or Nobles if necessary.
+
+Slots
+18
+
+Kg
+95
+
+Cost
+Cr325000
+
+Required Skill
+Vacc Suit 1
+
+MEDICAL SUPPLIES
+
+Most medicines in the Traveller Core Rulebook or Central
+Supply Catalogue up to TL14 are available in the
+Consulate. The possession or use of anagathics within
+the Consulate is viewed as a symptom of mental illness,
+even for Nobles and items like inhibitor drugs are very
+restricted, although the Thought Police quietly makes
+use of them. They are not available on the open market.
+However, psi-drugs are widely available in the Consulate.
+
+All augmentations listed in the Traveller Core Rulebook
+and Central Supply Catalogue up to TL14 are available
+in Zhodani space; however, requesting augmentations
+other than to replace lost limbs or injured functions will
+almost certainly result in re-education.
+
+281
+
+

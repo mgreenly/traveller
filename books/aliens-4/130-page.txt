@@ -1,0 +1,35 @@
+Nootrook-class
+Merchant
+1 square = 0.5 Ton
+
+LEGEND
+1. Manoeuvre Drive
+2. Backup Manoeuvre Drive
+3. Jump Drive
+4. Backup Jump Drive
+5. Power Plant
+6. Backup Power Plant
+7. Bridge
+8. Sensors
+9. Backup Sensors
+10. Double Turret
+11. Docking Space
+12. Cargo Crane
+13. Fuel Processor
+14. Airlock
+15. Medical Bay
+16. Staterooms
+17. Cargo Hold
+
+13
+
+6
+4
+
+2
+
+DECK 1
+
+130
+
+

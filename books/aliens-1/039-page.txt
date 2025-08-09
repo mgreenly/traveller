@@ -1,0 +1,114 @@
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+COMMANDER
+Outcast
+—
+—
+Survivor
+—
+—
+—
+
+SKILL OR BENEFIT
+—
+Independence 1
+—
+Streetwise 1
+—
+—
+—
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured. Roll twice on the Injury table and take the lower result.
+
+2
+
+Your friends desert you. Lose an Ally or Contact. If you have none, lose all Benefits from this term.
+
+3
+
+You are attacked by a band of young Aslan thugs. Roll on the Injury table and gain the leader of the thugs as
+an Enemy.
+
+4
+
+You suffer a life-threatening disease. Reduce your END –1.
+
+5
+
+You steal from a noble lord to survive. He orders you hunted down by clan agents, forcing you to flee his territory.
+Lose any Benefits from this term.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+A landowner offers you the opportunity to serve him. You gain DM+4 to your next qualification roll but you owe
+that Aslan a great debt.
+
+4
+
+You pick up a few handy skills. Gain Jack-of-All-Trades.
+
+5
+
+You find working passage on a starship. Gain a level in either Mechanic, Vacc Suit, Engineer or Tolerance.
+
+6
+
+You survive on the edge. Gain a Contact.
+
+7
+
+Life Event. Roll on the Life Events table on page 44 of the Traveller Core Rulebook.
+
+8
+
+You are attacked by thieves. Roll Melee 10+ to fight them off or Stealth 8+ to escape. If you fail either, lose all
+Benefit rolls this term. If you fight them off, gain an extra Benefit roll.
+
+9
+
+An ihatei heading for the frontier worlds offers you a place in his retinue. If you accept, gain the ihatei as an
+Ally and you must attempt to qualify for a career from the Traveller Core Rulebook next term.
+
+10
+
+You have the opportunity to join an outlaw band or serve on the crew of a wanderer ship. You can automatically
+qualify for the Outlaw or Wanderer career next term.
+
+11
+
+Your clan offers you a chance at redemption. You may restore your SOC to its original value and may attempt to
+qualify for another career next term but you owe a great debt to a clan elder.
+
+12
+
+You survive. You are automatically promoted.
+
+

@@ -1,0 +1,172 @@
+Events
+
+2D
+2
+3
+4
+5
+6
+7
+8
+
+9
+
+10
+
+11
+
+Mishaps
+
+12
+
+1D
+1
+2
+3
+4
+
+On a covert mission outside of the Confederation you participate in a surgical strike. Gain one
+level of Vacc Suit, Drive, Heavy Weapons or Stealth.
+You must discipline a disobedient junior NCO or officer. Roll Persuade or Melee 8+. If you
+succeed, gain them as an Ally. If you fail, lose SOC -1 and they become an Enemy.
+You garrison one of the major military bases, which has access to a wide range of recreational
+facilities. Gain one of Carouse, Gambler, Streetwise or Survival.
+Proving your dedication to duty, you are given advanced training in a specialist field. Roll EDU 8+
+to increase any one skill.
+Life Event. Roll on the Life Event table.
+You have the opportunity to volunteer for a deadly rescue mission. Roll Survival or END 8+. If you
+succeed, you are granted DM+2 to your next advancement roll and gain an extra Benefit roll. If
+you fail, roll on the Injury table.
+After suffering at their hands for an entire term, you catch your commanding officer in a
+compromising position. You may blackmail them and gain an extra two Benefit rolls, or let them off
+the hook and gain them as a trusted Ally.
+You are challenged to a test of skill by a rival. If you refuse, lose SOC -1. Accept and roll any
+skill 8+. If you fail, lose all benefits from this term. If you succeed, gain DM+2 to your next
+advancement roll.
+Your deeds are legend in your serving unit and your judgement unquestionably trusted. Gain one
+level of Leadership, Tactics or DM+4 on your next advancement roll thanks to commendations.
+Leading your unit during an exercise you come up with an innovative tactic, which takes the
+opposite team completely by surprise and your aptitude is reported to staff officers. You are either
+promoted or automatically commissioned to officer rank.
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
+Injury table and take the lower result
+Your armour or vehicle is trapped in mud and you sink beneath the surface. As a result of the
+experience you suffer claustrophobia and are forced to take a medical discharge.
+You are ordered to take part in a black ops mission that goes against your conscience. You refuse
+and are ejected from the service.
+You accidently crush a civilian whilst manoeuvring in your armour, causing a publicity incident.
+Lose SOC -1.
+A fellow soldier frames you for their misdeeds and you are booted out of the service. Gain an Enemy.
+
+6
+
+Injured. Roll on the Injury table.
+
+RANK
+
+SKILL OR BONUS
+Gun Combat (any)
+
+RANK
+
+0
+
+NCO
+Private
+
+1
+
+Lance Corporal
+
+2
+
+0
+
+OFFICER
+Lieutenant
+
+SKILL OR BONUS
+Leadership 1
+
+—
+
+1
+
+Captain
+
+—
+
+Corporal
+
+Leadership 1
+
+2
+
+Major
+
+Tactics (military) 1
+
+3
+
+Lance Corporal
+
+—
+
+3
+
+Colonel
+
+—
+
+4
+
+Sergeant
+
+—
+
+4
+
+Brigadier
+
+Diplomat
+
+5
+
+Staff Sergeant
+
+Tactics (military) 1
+
+General
+
+—
+
+Sergeant Major
+
+5
+
+—
+
+6
+
+Director
+
+SOC +1
+
+6
+
+4
+
+Darrian Travellers
+
+Ranks and bonuses
+
+5
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+47
+
+

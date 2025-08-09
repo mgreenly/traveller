@@ -1,0 +1,117 @@
+PERSONAL GRAV SKIMMER
+TL
+
+9
+
+SKILL
+
+FLYER (GRAV)
+
+AGILITY
+
++2
+
+SPEED (CRUISE)
+
+HIGH (MEDIUM)
+
+RANGE (CRUISE)
+
+2000 (3000)
+
+CREW
+
+1
+
+PASSENGERS
+
+0
+
+CARGO
+
+—
+
+HULL
+
+10
+
+SHIPPING
+
+5
+
+COST
+
+CR314700
+
+Autopilot (skill level) 0
+Communications
+(range) 50km
+Navigation
+(Navigation DM) +1
+Sensors (Electronics
+(sensors) DM) —
+Camouflage (Recon
+DM) —
+Stealth (Electronics
+(sensors) DM) —
+
+ARMOUR
+F RONT
+
+3
+
+REAR
+
+3
+
+SIDES
+
+3
+
+WEAPONS
+None
+
+EQUIPMENT
+Actuation System, Autopilot (basic), Communications System (basic), Control
+Interface (improved), Control System (basic), Navigation System (basic)
+
+TRAITS
+Open
+
+DESCRIPTION
+Always used in groups, skimmers are opentopped, open-sided vehicles consisting of an oval
+platform with a clear windshield and a safety rail
+extending around the rest of the vehicle. Most of
+those in use are constructed at TL9 and sold in
+bulk throughout the Two Thousand Worlds. They
+occasionally turn up in other hands, serving as
+reconnaissance platforms or weapon carriers.
+
+have the vehicle carry them there. So long as the
+skimmers remain close together, discomfort is
+kept to a minimum, although it is customary to
+tie the skimmers’ basic communication systems
+together so the family can chat or sing hymns to
+their ancestors to keep fear at bay. The skimmer
+provides enough room to move around or allow a
+juvenile to ride with a parent.
+
+The standard skimmer has only the most basic
+of controls and is designed to be slaved to a lead
+vehicle. A simple point-to-point navigation system
+is included, enabling an unskilled Traveller to
+indicate a destination (either on a map or chosen
+from a menu) and have the vehicle carry them
+there. So long as the skimmers remain close
+together, discomfort is kept to a minimum,
+although it is customary to tie the skimmers’
+basic communication systems together so the
+family can chat or sing hymns to their ancestors
+to keep fear at bay.
+There is no sensor package but a simple pointto-point navigation system is included, enabling
+an unskilled Traveller to indicate a destination
+(either on a map or chosen from a menu) and
+
+149
+
+

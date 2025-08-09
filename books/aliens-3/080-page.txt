@@ -1,0 +1,22 @@
+DECK 1: FUEL DECK
+1. Bridge
+2. Cargo Bay
+3. Fuel Processing
+
+1
+
+DECK 4
+
+2
+
+3
+
+2
+
+DECK 3
+
+DECK 2
+
+81
+
+

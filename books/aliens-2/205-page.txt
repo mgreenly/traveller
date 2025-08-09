@@ -1,0 +1,105 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Your Oytrip comes under attack. Desperate measures are required. Make a Leadership check. If you are
+successful, your response is correct – whether you won the fight or not. Gain your choice of Gun Combat, Melee
+or Tactics. If you fail, lose –D3 to STR, DEX or END due to your wounds. Make a continuation check.
+
+2
+
+You challenge the seniors in your Oytrip. Your challenge fails but you remain convinced you are right. You are
+driven from the Oytrip with some companions, who form a Kroyloss. This collapses after a time, leaving you
+alone in the universe. You are determined to prove you were right all along and this conviction overrides your
+urge to commit ritual suicide. Muster out, begin adventuring and gain an Enemy in your old Oytrip.
+
+3
+
+A dangerous situation arises and the Oytrip looks to you for leadership. You are able to rally the nearest Droyne
+and prevent things getting any worse but are injured in the process. You suffer injuries and lose –1 to each of
+STR, DEX and END and must make a continuation check. You gain an Ally within the Oytrip.
+
+4
+
+A band of non-Droyne enter the Oytrip and attempt to subvert your way of life. They cause utter mayhem and
+steal some items before being caught. If you take the stance that they did not know any better and should be
+educated rather than punished, you are ejected from the Oytrip and sent to carry out that education. Muster
+out and begin adventuring career with an Ally who is an outsider. If you choose to punish them, you gain three
+Enemies, all of them from outside your Oytrip.
+
+5
+
+You undertake an expedition which goes badly wrong. You are forced to survive outside Droyne society for several
+months. You gain an immediate level in Outsider (any) and may choose to take one level of Streetwise. However,
+this is a Black Skill and will diminish you as a Droyne. Make a continuation check with the negative DM for any
+Black Skills you may have.
+
+6
+
+You behave incorrectly. Your rank is reduced by –2, because this is particularly serious among Leaders. If this
+takes it below zero you are ejected from the Oytrip. Make a continuation check.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+You work closely with your Oytrip’s most senior Leaders and gain their respect. Your rank is increased by +1.
+
+4
+
+A Worker comes to you with serious concerns. If you support them, you gain one level of Leadership but also a
+Rival among your own Oytrip. If you put the uppity Worker in their place you gain a level of Caste (leader) and
+an Ally among your own Oytrip.
+
+5
+
+You are sent with a diplomatic party to a starport or installation run by non-Droyne. It is a cesspit of incorrect
+behaviour! If you choose to learn the ways of the outsiders, gain one level in any of Carouse, Deception,
+Gambler, Persuade or Streetwise. These are Black Skills and you are diminished by knowing them. If you prefer
+not to sully yourself, you gain nothing.
+
+6
+
+Your leadership keeps everything running smoothly. Gain one level in Appeal, Diplomat, or Leadership.
+
+7
+
+Everything is as it should be.
+
+8
+
+You leader an expedition into the wilds. Gain one level of Recon or Survival.
+
+9
+
+A non-Leader comes to you with an idea. It has merit but will upset the traditional order of things. If you
+supported the idea and took it to the Oytrip’s senior-most Leaders, gain a level of Appeal. If you put the
+underling in their place, gain a level of Caste (leader).
+
+10
+
+You are forced to interact with among outsiders. Gain one level in Outsider (any) and a Contact outside the
+Oytrip.
+
+11
+
+You are involved in the creation or operation of a starship. Gain one level in any of Astrogation, Tactics (any) or
+Vacc Suit.
+
+12
+
+You are honoured for a time with possession or guardianship of an Ancients artefact. Gain 1 level in Ancients Tech.
+
+205
+
+

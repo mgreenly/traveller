@@ -1,0 +1,83 @@
+ZA'TACHK TRAVELLERS
+Za’tachk Travellers follow the same procedures and
+concepts as human Travellers, as detailed in the
+Traveller Core Rulebook.
+
+ZA’TACHK
+
+Za’tachk Travellers have the following modifiers to their
+characteristics: STR+1
+Za’tachk Matriarch Travellers have the following
+additional modifiers to their characteristics: INT+1,
+EDU+1, BOL-1.
+Za’tachk Scout Travellers have the following additional
+modifiers to their characteristics: INT-1, EDU-1, BOL+1.
+
+BOLDNESS
+The Boldness (BOL) characteristic measures a
+Za’tachk’s will, courage and sense of self-preservation.
+A Za’tachk with a low BOL has a strong sense of selfpreservation and understands the need to protect itself
+from dangerous situations.
+A BOL of 7+ indicates the Za’tachk has an insufficient
+sense of self-preservation – in other words, is
+courageous and has the willpower to continue on in the
+face of danger – and is seen as somewhat mentally
+unstable in the eyes of other Za’tachk. Higher BOL
+indicates a greater sense of courage and willpower and
+therefore, less mental stability. A BOL of 10+ indicates
+a Za’tachk considered insane by their fellows. Traveller
+Za’tachk tend to have a higher BOL characteristic than
+their non-adventuring counterparts.
+BOL is calculated as 1D+1.
+Whenever Za’tachk are in a potential or actual
+physically dangerous situation, they must make an
+Average (8+) BOL check to continue acting normally.
+If they fail, they must retreat immediately to a place
+of safety. If unable to retreat, they will fall to the
+ground, tuck their head and legs under their body, and
+
+104
+
+remain that way until the danger has passed. If a BOL
+check is failed by an Effect -6 or worse, they will not
+retreat but drop immediately to the ground and enter
+a catatonic state for a number of rounds equal to the
+negative Effect of their failed check before being able
+to make another BOL check.
+The Referee may also require a BOL check if Za’tachk
+Travellers are involved in risky endeavours such
+as a chancy business deal, meeting an important
+official or breaking the law. In these instances, the
+Referee should allow a positive DM based on what the
+ramifications of failure would be, such as choosing a
+safer option or remaining indecisive.
+
+ZA’TACHK TRAITS
+
+Za’tachk Travellers all possess the following traits:
+Brachiator: Za’tachk are exemplary climbers and may
+use all their limbs as either locomotors or manipulators.
+They gain DM+2 when climbing or swinging. If they
+are on unstable or precarious flooring and there are
+handholds available, they gain DM+2 to any check
+used to stabilise themselves or maintain their footing.
+Coward: Za’tachk are psychologically timid and
+frightened of physical violence, aggression and
+conflict. If a Za’tachk is threatened or attacked at
+a range of 50 metres or less, they must make an
+immediate BOL check. This will usually be at Average
+(8+) difficulty but may be modified by circumstances.
+If the Za’tachk fails the check, they must immediately
+abandon what they are doing and make a defensive
+action. This may mean running away, seeking higher
+ground or hiding behind a crewmate. If the roll has
+an Effect of -6 or less, the Za’tachk will immediately
+drop to the ground, tuck their head and limbs under
+their body and enter a catatonic state for a number
+of rounds equal to the Effect of their failed roll before
+being able to make another BOL check. If the check
+is passed, the Za’tachk has overcome their instinctual
+fear and may act normally but will suffer DM-2 on all
+actions made whilst under such a threat.
+
+

@@ -1,0 +1,103 @@
+Zhaat
+
+Zhaat are large carnivores known for eating carrion,
+offal, filth and anything else they can find. They have
+a squat scaley body with legs which stick out from
+the sides. It moves by either slowly walking or by
+ponderous leaps. Zhaat skin is protected by thick
+armour and can blend into the background, making it
+virtually invisible to casual observation. The blunt snout
+is full of sharp pointed teeth, many extending up and
+beyond the edge of the lips. Zhaat produce a potent
+venom which they can spit up to three metres away. If
+the poison hits the eyes, the target will be permanently
+blinded. Zhaat are reptilian amphibians who lay their
+eggs in water and then abandon them to hatch without
+legs and breathe water. The children slowly develop
+their legs and lungs, eventually allowing them to live
+on land when fully grown. Colonies of zhaat have
+been known to infest Tezcat city sewers and, when
+discovered, are hunted down mercilessly.
+Animal
+
+Hits
+
+Speed
+
+Zhaat
+
+46
+
+5m
+
+Skills
+
+Gun Combat (natural) 3, Melee
+(natural) 0, Recon 4, Survival 2
+
+Attacks
+
+Bite (3D, poison), Claws (1D)
+
+Traits
+
+Armour (+7), Camouflage, Large
+(+2) Heightened Senses, Poison
+(Difficult, 1D+3, blindness, 1D
+minutes)
+
+Behaviour
+
+Carnivore, Carrion-Eater
+
+Zianki
+
+Large and heavy herbivores the size of Terran bison,
+zianki are a common Tezcat food animal. They have
+a tailless dinosaurian appearance, with a spiked
+armoured frill which protects the neck. The rear of
+the zianki is covered in long sharp spikes. When
+attacked, they turn away from their aggressor and
+expose their spiked back, making them a dangerous
+target for the unwary. Both males and females have
+horned heads – two sprouting from above their eyes
+and one from each side of their cheeks. Generally
+used by males in territorial fights during the mating
+season, the horns also make effective weapons in
+fending off attackers. Zianki travel in huge herds,
+migrating across a vast territory as they feed.
+Animal
+
+Hits
+
+Speed
+
+Zianki
+
+47
+
+7m
+
+Skills
+
+Melee (natural) 0, Recon 0,
+Survival 2
+
+Attacks
+
+Horns (2D), Quills (1D+3), Trample
+(3D)
+
+Traits
+
+Armoured (+5), Large (+2),
+Heightened Senses
+
+Behaviour
+
+Herbivore, Grazer
+
+The Tezcat Homeworld
+209
+
+

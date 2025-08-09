@@ -1,0 +1,33 @@
+DECKS 1 AND 6: FUEL DECKS
+DECK 2
+1
+
+3
+
+4
+
+4
+
+2
+
+5
+
+DECK 3
+
+5
+
+1. Bridge
+2. Docking Space
+3. Enhanced Signal Processing
+4. Military Countermeasures Suite
+5. Briefing Room
+6. Fuel Processing
+7. Barracks
+8. Armoury
+9. Medical Bay
+10. Cargo Bay
+11. Brig
+
+153
+
+

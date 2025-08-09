@@ -1,0 +1,164 @@
+5
+
+SPORT
+
+Sports are scouts and emissaries, and also carry out
+most trading functions on behalf of an Oytrip. They
+are the only caste likely to be encountered operating
+independently.
+Qualification: Automatic for Sports. Prohibited for all
+others.
+
+CAREER PROGRESS
+SURVIVAL
+INT 5+
+EDU 5+
+INT 6+
+
+Finding
+Speaker
+Seeking
+
+ADVANCEMENT*
+EDU 9+
+INT 9+
+EDU 8+
+
+* Advancement is subject to a negative DM equal to the highest skill
+level the Droyne has in a Black Skill.
+
+ASSIGNMENTS
+
+END OF SERVICE
+
+Choose one of the following:
+Finding: You locate and obtain what the Oytrip
+needs. This may be by prospecting, surveying an
+area or speculating on the stock exchange at a
+nearby starport.
+Speaker: You are an emissary, carrying messages
+within an Oytrip or to others. You may be sent to
+interact with non-Droyne.
+Seeking: You travel far from the Oytrip as an explorer,
+spy or scout.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr2000
+Cr3000
+Cr5000
+Cr7500
+Cr10000
+Cr15000
+
+BENEFIT
+INT +1
+DEX +1
+EDU +1
+Weapon
+Vacc Suit
+Wings
+Coyns
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+DEX +1
+END +1
+INT +1
+EDU +1
+PSI +1
+Jack-of-all-Trades
+FINDING SPORT
+Broker
+Diplomat
+Investigate
+Science
+Electronics
+Outsider
+
+SERVICE SKILLS
+Gun Combat
+Melee
+Drive
+Flight
+Appeal
+Caste
+SPEAKER SPORT
+Appeal
+Outsider
+Diplomat
+Advocate
+Caste
+Art (Droyne)
+
+USEFUL SPORT (MIN INT 6+)
+Any psionic skill
+Pilot
+Astrogation
+Engineer
+Vacc Suit
+Caste
+SEEKING SPORT
+Pilot
+Astrogation
+Recon
+Stealth
+Outsider
+Navigation
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+202
+
+TITLE
+Excess to Requirements
+Expendable Sport
+Satisfactory Sport
+Valued Sport
+Highly Valued Sport
+Exemplary Sport
+Eminent Sport
+
+SKILL OR BONUS
+—
+—
+
+Caste (sport)
+Appeal
+Outsider
+INT +1
+Leader
+
+

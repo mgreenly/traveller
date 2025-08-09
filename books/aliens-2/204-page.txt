@@ -1,0 +1,160 @@
+6
+
+LEADER
+CAREER PROGRESS
+
+Leaders are the top echelon of Droyne society. They
+make all policy decisions and determine the fate of their
+subordinates.
+Qualification: Automatic for Leaders. Prohibited for all
+others.
+
+ASSIGNMENTS
+
+SURVIVAL
+END 6+
+EDU 5+
+INT 6+
+
+Military
+Priestly
+Leader
+
+ADVANCEMENT*
+INT 8+
+INT 9+
+EDU 10+
+
+* Advancement is subject to a negative DM equal to the highest skill
+level the Droyne has in a Black Skill.
+
+Choose one of the following:
+Military: You command Warriors, either as ground
+forces or aboard a spacecraft.
+Priestly: You preside over important rituals an
+safeguard the society of the Oytrip. You may also act
+as a senior merchant or trader.
+Leader of Leaders: You lead and direct other Leaders,
+perhaps even the whole Oytrip.
+
+END OF SERVICE
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr2000
+Cr5000
+Cr7500
+Cr10000
+Cr15000
+Cr25000
+
+BENEFIT
+INT +1
+PSI +1
+Weapon
+Weapon
+Vacc Suit
+Wings
+Ship
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+INT +1
+EDU +1
+PSI +1
+Leadership
+Flight
+Ancients Tech
+MILITARY LEADER
+Gun Combat
+Tactics
+Leadership
+Vacc Suit
+Astrogation
+Any psionic skill
+
+SERVICE SKILLS
+Admin
+Leadership
+Outsider
+Appeal
+Gun Combat
+Caste
+PRIESTLY LEADER
+PSI +1
+Art (Droyne)
+Prediction
+Broker
+Leader
+Any psionic skill
+
+TRUSTED LEADER (MIN PSI 8+)
+Ancients Tech
+Any psionic skill
+Diplomat
+Astrogation
+Vacc Suit
+Any psionic skill
+LEADER OF LEADERS
+Leadership
+Diplomat
+Gun Combat
+Leadership
+Admin
+Any psionic skill
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+204
+
+TITLE
+Excess to Requirements
+Expendable Leader
+Satisfactory Leader
+Valued Leader
+Highly Valued Leader
+Exemplary Leader
+Eminent Leader
+
+SKILL OR BONUS
+—
+—
+
+Caste (leader)
+Art (Droyne)
+Leadership
+PSI +1
+Leadership
+
+

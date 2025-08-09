@@ -1,0 +1,140 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+DROYNE HULLS
+
+The hulls of Droyne ships are more expensive than those
+of other races, partly because almost all ships are more or
+less hand-built and partly due to the extensive decoration
+that covers their entire surface. Even at its most basic
+this is beautiful, with swirling patterns in which moving
+figures can be made out… or perhaps they are imagined.
+A basic Droyne hull costs Cr100000 per ton.
+
+N
+
+E
+
+T
+
+E
+
+E
+
+N
+
+Auspicious Hulls
+
+Some Oytripin have the ability to create auspicious hulls
+for their ships. This is a lengthy and complex process,
+with many rituals that must be carefully followed. An
+auspicious hull will impress anyone seeing it – especially
+other Droyne – and a ship that has one performs better
+than one without. The reasons are complex, mystical and
+incomprehensible to non-Droyne but perfectly obvious to
+those who know the secrets of building such vessels.
+A ship may only have one type of auspicious hull. Each
+requires different rituals and materials, and most Oytrips
+that can build vessels of this type only know how to make
+them auspicious in one or two fields. An auspicious hull
+consumes a varying amount of internal space, depending
+on its type.
+
+Cost Per Ton* Percentage of Hull Notes
+Cr100000
+0%
+Impressively decorated.
+
+Auspicious of Jump Cr250000
+
+4%
+
+The vessel’s crew receive DM+1 on all jump-related
+Engineer checks. The ship uses 10% less fuel per jump.
+
+Auspicious of
+Manoeuvre
+
+Cr150000
+
+1%
+
+The vessel’s crew receive DM+1 on all Pilot checks.
+
+Auspicious of
+Seeking
+
+Cr200000
+
+2%
+
+The vessel’s crew receive DM+1 on all Electronics
+(sensors) and Astrogation checks.
+
+Auspicious of
+Leading
+
+Cr200000
+
+1%
+
+The vessel’s crew gain DM+1 on all Appeal, Leadership
+and Tactics checks.
+
+Auspicious of
+Battling
+
+Cr300000
+
+3%
+
+The vessel’s crew gain DM+1 on all Gunner checks. In
+addition the ship gains Armour +2.
+
+Auspicious of
+Communicating
+
+Cr250000
+
+2%
+
+The vessel’s crew gain DM+1 on all Diplomat and Broker
+checks and any other checks connected with diplomacy or
+commerce.
+
+* Cost per ton of the entire hull, including any space
+used by the Auspicious hull.
+
+168
+
+I
+
+HIGH GUARD:
+DROYNE
+
+Most of the components used by Droyne starships are
+similar in function to their human equivalents but they are
+often of very different appearance. It is not uncommon for
+unrelated components to be melded together for aesthetic
+or traditional reasons. There are a few concepts that vary
+from standard, detailed in this chapter.
+
+Type
+Droyne Hull
+
+N
+
+

@@ -1,0 +1,54 @@
+2
+5
+1
+
+3
+
+6
+
+DECK 1
+
+4
+
+LEGEND
+1. Bridge
+2. Sensors
+3. Power plant
+4. M-drive
+5. Firmpoints (pulse laser)
+6. Fixed mounts (PGMP-12)
+
+ISOMETRIC DECKPLAN KEY
+BUNK
+
+HATCH
+
+FUEL PROCESSOR
+
+FRESHER
+
+IRIS VALVE (WALL)
+
+POWER PLANT
+
+WORKSTATION
+
+IRIS VALVE
+(FOOR/CEILING)
+
+JUMP DRIVE
+
+G-CHAIR
+
+INTERNAL WALL
+
+MANOEUVRE DRIVE
+
+LOW BERTH
+
+HULL
+
+CRATE
+225
+
+

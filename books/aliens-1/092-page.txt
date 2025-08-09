@@ -1,0 +1,150 @@
+KTEIROA-CLASS SEEKER
+TL11
+Hull
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Systems
+
+Staterooms
+Software
+
+Common
+Areas
+Cargo
+
+200 tons, Streamlined
+Thrust 2
+Jump 2
+Fusion (TL8), Power
+90
+J-2, 4 weeks of
+operation
+Small Bridge
+Computer/5 bis
+Civilian Grade
+Fuel Scoops
+Fuel Processor (20
+tons/day)
+Mining Drones x 20
+Shrine
+Standard x 4
+Jump Control/2
+Library
+Manoeuvre/0
+
+TONS
+
+COST (MCR)
+
+—
+
+4
+15
+9
+
+12
+8
+22.5
+4.5
+
+41
+
+—
+
+6
+1
+
+0.5
+0.045
+3
+
+—
+
+—
+
+1
+
+0.05
+
+40
+4
+16
+—
+
+4
+0.5
+2
+0.2
+
+—
+
+—
+
+—
+
+—
+
+2
+
+0.2
+
+61
+
+—
+
+—
+
+TOTAL: MCR 57.495
+
+CREW
+CAPTAIN/PILOT, ASTROGATOR/
+ENGINEER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr4791/month
+
+PURCHASE COST
+MCr57.495
+
+Power Requirements
+40
+
+40
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+WEAPONS
+
+40
+
+1
+
+JUMP DRIVE
+
+SENSORS
+
+Using a 200-ton hull, the Kteiroa-class
+seeker is a prospecting vessel adapted to
+explorations in asteroid belts. Unlike many
+similar ships, there are four staterooms
+– more than the crew needs but Kteriroa
+are commonly also used as transports in
+isolated systems.
+
+80
+HULL POINTS
+92
+
+

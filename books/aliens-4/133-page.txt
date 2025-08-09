@@ -1,0 +1,95 @@
+The Blodra-class patrol corvette is somewhat
+large for its designation by Imperial standards but
+it is the smallest displacement which Za’tachk will
+routinely crew. Built on a 1,000-ton hull, the Blodra
+is heavily armoured to protect those within. Armed
+with five triple missile turrets, the corvette is more
+than the equal of most pirates and smugglers it
+may face. Five Type II point defence batteries add
+to its ability to defend itself from incoming missiles.
+
+The low jump drive found on board does limit
+the Blodra’s range but the thrust-5 manoeuvre
+drive means it can get to where it is needed most
+quickly. When boarding other vessels, the Blodra
+will remain at a significant distance and send out
+a drone pinnace carrying combat drones. Both
+the pinnace and combat drones are remotely
+operated from the main craft.
+
+1 square = 0.5 Ton
+23
+14
+8
+17
+
+20
+
+11
+
+11
+
+7
+
+21
+
+LEGEND
+1. Manoeuvre Drive
+2. Backup Manoeuvre
+Drive
+3. Jump Drive
+4. Backup Jump Drive
+5. Power Plant
+6. Backup Power Plant
+7. Bridge
+8. Sensors
+9. Improved Signal
+Processing
+10. Backup Sensors
+11. Triple Turret
+12. Point Defence Battery
+13. Missile Storage
+14. Docking Space
+(Lifeboats)
+15. Docking Space
+(Pinnace Drone)
+16. Armoury
+17. Briefing Room
+18. Fuel Processor
+19. Airlock
+20. Sensor Station
+21. Staterooms
+22. Common Area
+23. Cargo Hold
+
+21
+
+22
+
+12
+
+12
+
+19
+9
+
+16
+
+5
+12
+
+12
+
+3
+
+1
+
+18
+
+DECK 1
+
+DECK 2
+
+133
+
+

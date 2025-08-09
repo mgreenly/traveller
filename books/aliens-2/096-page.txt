@@ -1,0 +1,45 @@
+Meson Guns and Planetary Defence
+
+The Terrans invented the meson gun late in the Interstellar Wars period and used it win decisive
+victories against the Vilani Empire. Although the Imperium itself is presently more advanced in meson
+gun technology than the Confederation, especially in the production of battlefield and turret-sized
+weapons, large meson accelerators are a major element of Solomani weaponry. Especially important
+are the deep meson gun installations that the Solomani Home Forces operate to protect crucial border
+worlds and major worlds. These are a central feature of many TL10+ planetary defences.
+Meson beams can pass through any form of matter so burying the weapon and its support facilities
+deep below a world’s surface creates a weapon system virtually immune to conventional attack. Only
+another meson accelerator can effectively engage such deep meson guns and planetary weapons
+can be built with greater size and range than shipboard installations. Since a meson gun has no
+firing signature, targeting it is impossible unless its coordinates are known. Discovering details of
+the existence, firepower and location of deep meson gun sites on border and strategic worlds in the
+Solomani Confederation is a primary goal of Imperial military espionage operations. Information
+relating to their construction is tightly controlled and carefully policed by SolSec.
+Deep site meson weapons have two weak points. Aiming a meson gun relies on a network of external
+sites. These will be scattered across the planet, in orbit and sometimes even on moons, so completely
+destroying these networks is nearly impossible. However, a sustained bombardment can eradicate the
+large antennae needed to target spacecraft in high orbit, dramatically reducing the mesons weapons’
+range. Since the mobile fire control equipment that is needed for hitting planetary targets can fit
+in a truck or APC, a deep meson gun will be a continuing threat to any planetary invasion until all
+opposition is neutralised.
+Meson guns require tremendous power, 500 to 1,000 gigawatts for a typical installation equivalent
+to a spinal mount. Standard imperial doctrine is to use neutrino sensors or intelligence information
+to locate and destroy the large fusion reactors that provide this power. While a meson gun site may
+draw power from multiple stations in a planetary grid as well specialised buried facilities, a sustained
+bombardment can cut it off from its energy source.
+To counter this, Solomani planetary defence installations built since the Solomani Rim War have
+begun to install deep underground geothermal core taps feeding high-energy capacitor arrays
+(similar to those used in jump drives). These power sources eliminate the neutrino signature of the
+emplacement but are less powerful and more expensive to construct than fusion reactors. The need to
+recharge the capacitors limits this emergency rate of fire to one shot every few hours or requires the
+use of smaller installation equivalent to bay-size weapons. This limits the ability of the meson gun as
+a factor in a fast-moving space battle but significantly complicates matters for planetary sieges and
+ongoing invasions.
+A related development used on a few TL13–14 worlds with deep oceans is the space defence
+submarine. This is a large nuclear submarine with a single bay weapon-sized meson gun installation,
+which patrols in the deep ocean or under a planetary ice cap. Although firepower is limited, mobile
+meson gun submarines are harder to track with neutrino sensors than static installations. Engaging
+them may require sending grav armour or starships to operate underwater.
+
+96
+
+

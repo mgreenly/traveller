@@ -1,0 +1,230 @@
+IHATEISHO-CLASS SCOUT
+TL13
+100 tons, Streamlined
+
+—
+
+6
+
+M-Drive
+
+Thrust 2
+
+2
+
+4
+
+J-Drive
+
+Jump 4
+
+15
+
+22.5
+
+4
+
+4
+
+Power Plant Fusion (TL12), Power 60
+J-4, 12 weeks of operation
+
+Bridge
+
+43
+
+—
+
+10
+
+0.5
+
+Computer
+
+Computer/15 bis
+
+—
+
+3
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Triple Turret (pulse lasers)
+
+1
+
+4
+
+Systems
+
+CREW
+
+TONS COST (MCR)
+
+Hull
+
+Fuel Tanks
+
+(Type-s)
+
+Fuel Processor (20 tons/day) 1
+
+0.05
+
+Fuel Scoops
+
+—
+
+—
+
+Shrine
+
+4
+
+0.5
+
+Docking Space (4 tons)
+
+5
+
+1.25
+
+Air/raft
+
+—
+
+0.26
+
+Staterooms
+
+Standard
+
+4
+
+0.5
+
+Low Berth
+
+0.5
+
+0.05
+
+Software
+
+Jump Control/4
+
+—
+
+0.4
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Fire Control/3
+
+—
+
+6
+
+Intellect
+
+—
+
+1
+
+Common
+Areas
+
+4
+
+0.4
+
+Cargo
+
+4.5
+
+—
+
+PILOT,
+ASTROGATOR,ENGINEER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr4876/month
+
+PURCHASE COST
+MC58.51
+
+Power Requirements
+20
+
+20
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+40
+
+2
+
+13
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 58.51
+This is one of the iconic Aslan vessels.
+Ships of this design are given to the ihatei
+of nobles, to roam the galaxy in search of
+territories to conquer. Contrary to most Aslan
+vessels, the controls of this ship have a high
+degree of automatation, to allow less than
+technically adept males operate it without
+female help.
+
+40
+HULL POINTS
+72
+
+The ihateisho is capable of making fourparsec jumps, allowing it to reach systems
+beyond the range of a standard scout. A
+typical ihateisho exploration lasts two to
+three years, at which point the wanderer
+returns to the nearest ihatei camp and
+gathers an army to conquer the most suitable
+territory found during his wandering. The
+ihateisho is then either returned to the clan
+or traded for a share in a larger vessel. An
+ihateisho is sometimes considered especially
+lucky if former owners have gone on to find
+good territories.
+
+

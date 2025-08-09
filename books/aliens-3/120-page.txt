@@ -1,0 +1,133 @@
+Events
+
+2D
+2
+3
+4
+5
+
+You are assigned to work on a secret project for ADRAT. Gain one of Science 1, Engineer 1,
+Electronics 1 or Mechanics 1.
+You are embroiled in legal trouble. Gain one of Advocate 1, Diplomat 1 or Investigate 1, then roll
+2D. If you roll 2, you must take the Prisoner career in your next term.
+You perform an exemplary service for ADRAT. Gain DM+1 to any one Benefit roll.
+
+7
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain any one skill of your
+choice at level 1.
+Life Event. Roll on the Life Events table.
+
+8
+
+You make an unexpected connection outside your normal circles. Gain a Contact.
+
+9
+
+You have the opportunity to smuggle an Ancients artefact into the Geonee Cultural Region. If you
+accept, roll Deception 8+ or Persuade 8+ to gain Streetwise 1 and an extra Benefit roll. If you
+refuse, you gain an Enemy in ADRAT.
+You befriend a useful Ally. Gain an Ally and either a level in Carouse or DM+4 to your next
+advancement roll thanks to their aid.
+You become entangled in a bureaucratic or legal morass that distracts you from your work. Gain
+one of Admin 1, Advocate 1, Persuade 1 or Diplomat 1.
+You discover an Ancients artefact of great worth to the Geonee and the Imperium. You are
+automatically promoted.
+
+6
+
+10
+11
+12
+
+Ranks and bonuses
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+TECHNICAL SCHOOL AND ACADEMY SKILL OR BONUS
+Teacher’s Aid
+—
+Teacher
+Science 1
+—
+Electronics (computers) 1
+Assistant Professor
+—
+Professor
+Science 2
+—
+—
+Fellow
+Admin 1
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+COMMERCIAL SERVICE
+Crewman
+Senior Crewman
+4th Officer
+3rd Officer
+2nd Officer
+1st Officer
+Captain
+
+SKILL OR BONUS
+—
+Mechanic 1
+—
+—
+Pilot 1
+SOC +1
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+RETRIEVAL SERVICE
+Crewman
+Senior Crewman
+4th Officer
+3rd Officer
+2nd Officer
+1st Officer
+Captain
+
+SKILL OR BONUS
+—
+Vacc Suit 1
+—
+Investigate 1
+Pilot 1
+—
+—
+
+1
+
+Geonee Travellers
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+121
+
+

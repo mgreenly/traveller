@@ -1,0 +1,60 @@
+8
+11
+
+7
+
+8
+
+2
+
+6
+
+4
+
+5
+
+10
+
+3
+1
+
+DECK 1
+
+9
+LEGEND
+1. Bridge
+2. Sensors
+3. Power plant
+4. M-drive
+5. J-drive
+6. Common areas
+7. Cargo hold
+8. Particle barbette
+9. Med bay
+10. Repair drones
+11. Airlock
+
+‘Whimsy’ is the nearest single-word approximation of a Gurvin sign code, which translates as ‘to be
+used as desired and to facilitate the user changing their mind for no apparent reason’. The Whimsy
+is intended as a personal transport for a Hiver whose business may be specialised or change focus
+regularly. As such it has to be large enough to fit a range of different equipment or carry all manner
+of cargo and necessities for the latest project.
+Hull form is typically Hiver; a boxy structure with a planeing front as a token concession to
+aerodynamics. The entire hull is well armoured for a civilian ship, with a pair of particle accelerator
+barbettes on the dorsal surface for deterrence. Internally, the ship seems smaller than it actually
+is, since most systems are ‘black boxed’ away from the operator’s sight. The drives and power plant
+are conventionally located aft, with only small crawlways for inspection and maintenance.
+Entry is by way of an airlock and ramp at the front of the vessel, giving access to the single
+occupied deck. This is located as centrally as possible with machinery spaces, fuel tanks and
+armour between the operator areas and any external threats. The forward airlock opens into a cargo
+area that has fittings for modular equipment, accommodation spaces or whatever else the user
+wants to carry. Aft of this is a tiny accommodation space with three multispecies cabins and a
+small common area. Immediately aft, through a heavy bulkhead, is the command centre.
+The command area can be crewed by almost any species but can operate solely on the instructions of
+an unskilled individual. Within the bulkheaded area is a space reserved for the Hiver operator, set up
+to its liking. This area can be reconfigured to suit another species if necessary but vessels of this kind
+are normally encountered carrying a single Hiver or one with a small entourage of other races.
+
+241
+
+

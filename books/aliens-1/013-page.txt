@@ -1,0 +1,74 @@
+ATEKTEIA (SCORPION)
+Atekteia are large poisonous insects who lay their eggs in
+aua dung. The vermin have spread along with the Aslan
+livestock herds and now infest worlds across the galaxy.
+They are disturbingly resilient; the Aslan have used various
+methods to wipe out the insects but nothing keeps the
+species down for long.
+ANIMAL
+Atekteia
+(scorpion)
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+HITS
+8
+
+SPEED
+6m
+
+Melee (natural) 1, Stealth 2
+Sting (1D)
+Poison (Difficult/1D/1D minutes)
+Carnivore, Scavenger
+
+AUA (HOOFMEAT)
+Aua are large herbivores that have been the Aslan’s main
+prey for millions of years. Modern Aua have been bred and
+genetically engineered to grow quickly, to thrive in a variety
+of environments and to consume a wide range of vegetable
+matter. Aua look like a cross between a rhinoceros and a
+cow. They are quite docile under most circumstances.
+ANIMAL
+Aua (Hoofmeat)
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+HITS
+SPEED
+30
+6m
+Melee 0, Survival 1
+Horns (2D)
+Armour (+1)
+Herbivore, Grazer
+
+AUA’KA
+These huge animals are rare on Kusyu outside reservations
+but have been successfully transplanted to numerous
+colony worlds. The aua’ka are titanic creatures, more like
+walking tanks than animals. Hunting an Aua’ka is a difficult
+prospect, and best accomplished with a rocket launcher, but
+they are part of many Aslan ceremonial feasts.
+ANIMAL
+Aua’ka
+SKILLS
+ATTACKS
+TRAITS
+BEHAVIOUR
+
+HITS
+SPEED
+64
+5m
+Athletics (strength) 3, Melee
+(natural) 2, Recon 1, Survival 3
+Horns (3D+3), Trample (6D)
+Armour (+6)
+Herbivore, Grazer
+
+

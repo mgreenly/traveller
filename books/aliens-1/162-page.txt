@@ -1,0 +1,194 @@
+TRADER OF THE OUTER STEPPE MERCHANT
+TL12
+
+TONS
+
+COST (MCR)
+
+Hull
+
+1,200 tons,
+Standard
+
+M-Drive
+
+Thrust 1
+
+12
+
+24
+
+J-Drive
+
+Jump-1
+
+35
+
+52.5
+
+Power Plant
+
+Fusion (TL12),
+Power 525
+
+35
+
+35
+
+Fuel Tanks
+
+J-1, 16 weeks of
+operation
+
+134
+
+—
+
+Bridge
+
+Standard Bridge
+
+40
+
+6
+
+Computer
+
+Computer/15
+
+—
+
+2
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Weapons
+
+Dual Turret (pulse
+lasers) x4
+
+4
+
+10
+
+Systems
+
+Cargo Crane
+
+5
+
+5
+
+Software
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Crew, Secure x8
+
+32
+
+2.1
+
+Merchant-Caste,
+Minimal x32
+
+104
+
+Common
+Areas
+Cargo
+
+Staterooms
+
+CREW
+
+60
+
+CAPTAIN, PILOT, ASTROGATOR, 2
+ENGINEERS, ADDITIONAL GUNNERS
+AND OTHER CREW AS NEEDED
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr748.83/month
+
+PURCHASE COST
+MCr214.6
+
+Power Requirements
+120
+
+240
+
+0
+
+6.8
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+SYSTEMS
+
+80
+
+8
+
+120
+
+1
+
+36
+
+733.5
+
+—
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 214.6
+Small by the standards of K’kree vessels,
+the Trader of the Outer Steppe can be
+encountered within and beyond K’kree
+space. Jump performance is very modest,
+since much of the Two Thousand Worlds
+region is accessible by jump-1 ships. The
+Trader of the Outer Steppe is hideously
+inefficient as a cargo carrier by human
+standards but it is one of the smallest
+ships a K’kree can stand being aboard on
+an extended basis.
+
+360
+HULL POINTS
+162
+
+

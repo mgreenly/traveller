@@ -1,0 +1,129 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+T
+
+W
+
+O
+
+ASLAN TRAVELLERS
+Traveller creation for Aslan follows the same procedures
+and concepts as described in the Traveller Core
+Rulebook. Although Aslan are covered on page 50 of the
+Traveller Core Rulebook, it is assumed Travellers created
+that way were born and raised within the Imperium or,
+at least, human-based society. The Traveller creation
+rules presented here are suitable for Aslan born and
+raised within the Hierate. Unless otherwise stated
+in this chapter, use all the creation and career rules
+described in the Traveller Core Rulebook.
+As you will discover, an Aslan’s gender and clan have
+far more bearing on the Traveller’s career choices than
+those of a human.
+
+INITIAL TRAVELLER
+
+GENERATION
+
+Use the characteristics and traits for Aslan Travellers
+shown on page 51 of the Traveller Core Rulebook.
+However, male Aslan Travellers have an additional
+characteristic, Territory (TER), which starts at 0, and
+SOC for all Aslan is determined by Ancestral Territory,
+described below.
+
+Gender
+
+Aslan may be either male or female. Aslan biology
+dictates there are approximately three females born
+for every male. As a result, males are in the distinct
+minority. Travellers may select their gender or it may be
+determined randomly on the Aslan Gender table.
+
+Aslan Gender
+2D
+2–5
+6–12
+
+Gender
+Male
+Female
+
+In Aslan society, males are permitted to be warriors,
+rulers and diplomats; females are the scientists,
+technicians, merchants and managers.
+
+CLAN, FAMILY
+
+AND PRIDE
+
+To determine if a Traveller comes from one of the 29
+Great Clans of the Tlaukhu or a minor clan, roll on the
+Clan table, or the Referee may choose to dictate which
+
+clan the Traveller comes from. Note that if any Travellers
+are kinfolk with one another, they will share a clan and
+possibly a family.
+
+Clan
+1D
+1–3
+4–6
+
+Clan
+Minor Clan
+Major Clan. DM +1 to Ancestral
+Deeds roll.
+
+There are hundreds or thousands of families in a clan.
+To determine the SOC of the Traveller, roll on the
+Ancestral Deeds table and twice on the Past Deeds
+table to work out what Territory his forebears acquired.
+Ancestral Territory starts at 0. The first Past Deeds roll
+is for the deeds of their grandfather and the second is
+for the deeds of their father.
+
+Territory
+
+The Territory (TER) characteristic is unique to the
+Aslan. TER measures the amount of land owned by
+that Aslan male. It is the foundation of Aslan SOC
+– for a landless male or female, his or her SOC is
+derived from the TER of his or her sire. A mated
+female’s SOC is based on her mate’s TER.
+TER can be used in place of SOC. For example,
+instead of rolling Diplomat using his SOC DM, an
+Aslan lord could use roll Diplomat and add his TER
+DM instead.
+In Aslan social contests between males, TER can
+be used to trump SOC – a male with TER may
+automatically win any social contests against
+a male who has less TER. Any amount of TER
+trumps any amount of SOC – the son of an Aslan
+clan head with TER 0 and SOC 15 will lose a
+contest to a penniless mercenary who has TER
+1 and SOC 2. That does not mean that the
+mercenary is more important in Aslan society
+than the clan heir but he has Territory and that is
+what counts, and he can overrule the clan heir (of
+course, doing so would be a greivous insult and
+would likely result in some ally of the clan heir
+overriding the mercenary soon after).
+
+15
+
+

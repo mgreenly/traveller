@@ -1,0 +1,48 @@
+LEGEND
+1. Bridge
+2. Sensors
+3. Fuel processor
+4. M-drive
+5. J-Drive
+6. Power plant
+7 . Tr i p l e t u r r e t
+(pulse lasers)
+
+8
+
+2
+
+7
+9
+
+6
+
+8 . Tr i p l e t u r r e t
+(missile racks)
+9. Staterooms
+10. Missile storage
+11. Cargo hold
+12. Forced linkage
+apparatus
+13. Docking space
+
+1
+
+5
+DECK 2
+
+10
+4
+
+12
+3
+
+13
+
+DECK 1
+
+11
+
+237
+
+

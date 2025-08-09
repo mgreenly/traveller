@@ -1,0 +1,155 @@
+ERUENOOPH SCOUT DRONE
+
+The naming of the Eruenooph is somewhat
+misleading. While the walker is used in scouting, it
+is also exceedingly effective in infantry support and
+anti-infantry operations. Relying on its advanced
+camouflage, the walker is frequently kept hidden on the
+battlefield while it provides covering fire for advancing
+infantry drones. The walker’s four legs provide a stable
+yet nimble platform, making it a reliable and favoured
+drone among Za’tachk jockeys.
+
+TL
+
+14
+
+SKILL
+
+Electronics (remote ops)
+
+AGILITY
+
++4
+
+SPEED (CRUISE)
+
+High (medium)
+
+Traits
+
+ATV
+
+Equipment
+
+Actuation System, Autopilot
+(advanced), Camouflage
+(advanced), Communications
+System (advanced, encrypted,
+meson communicator, satellite
+uplink), Control Interface (advanced),
+Control System (advanced), Decoy
+Dispenser, Drone, Navigation
+(advanced), Sensors (advanced,
+hardening, increased range)
+
+Weapons
+
+Fixed Mounts (gatling laser, front,
+linked) x2
+
+Equipment
+
+RANGE (CRUISE) 600 (900)
+
+Autopilot (skill level)
+
++3
+
+Communications (range)
+
+1,000km
+
+Navigation (Navigation DM)
+
++4
+
+Sensors (Electronics (sensors) DM)
+
++1
+
+Camouflage (Recon DM)
+
+-4
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+—
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+60
+
+SHIPPING
+
+10
+
+ARMOUR
+
+COST
+
+MCr1.9
+
+FRONT 40
+
+Weapon
+
+Range
+
+Damage
+
+Magazine
+
+Magazine Cost Traits
+
+Gatling Laser
+
+4
+
+6D+6
+
+—
+
+—
+
+AP 5, Auto 4 +4
+
+Gatling Laser
+
+4
+
+6D+6
+
+—
+
+—
+
+AP 5, Auto 4 +4
+
+REAR
+
+40
+
+SIDES
+
+40
+
+Fire Control
+
+Vehicles of the Za’tachk
+
+CREW
+
+119
+
+

@@ -1,0 +1,85 @@
+Emergency Responder: Emergency responders are
+used in areas during disasters, which would prove
+too hazardous for living responders. The robots are
+able to respond under their own initiative but normally
+overseen by a living supervisor to make important,
+lifesaving decisions. The robot is able to attend
+any number of emergencies ranging from fires to
+earthquakes to toxic material spills.
+Emergency responders routinely attend fires, both to fight
+them and save individuals trapped within. The robots
+can provide first aid on the spot once a victim has been
+rescued and is strong enough to move heavy debris
+or tear through doors or walls. They have proven so
+successful that similar robots have been manufactured by
+many companies in the Imperium and beyond.
+
+Robot
+
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Emergency
+Responder
+
+22
+
+7m
+
+12
+
+Cr3200000
+
+Locomotion
+
+Walker
+
+Skills
+
+Athletics (dexterity) 2, Athletics
+(strength) 3, Medic 2, Profession
+(emergency responder) 3
+
+Attacks
+
+None
+
+Manipulators
+
+2 X (STR 15 DEX 7)
+
+Endurance
+
+108 hours
+
+Traits
+
+Armour (+12), ATV (idle), Heightened
+Senses, IR/UV Vision
+
+Programming
+
+Advanced (INT 8)
+
+Options
+
+Auditory Sensor (broad spectrum),
+Cutting Torch (improved), Drone
+Interface, Fire Extinguisher, Injector
+Needle x2, Medikit (enhanced),
+Olfactory Sensor (advanced), PRIS
+Sensor, Storage Compartment
+(refrigerated) x2, Transceiver
+500 km (enhanced), Vacuum
+Environment Protection, Voder
+Speaker, Wireless Data Link
+
+CSC: Geonee
+131
+
+

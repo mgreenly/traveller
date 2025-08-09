@@ -1,0 +1,126 @@
+QUICKENING THUNDER ROBOTIC FIGHTER
+CREW
+TL12
+
+TONS COST (MCR)
+
+Hull
+
+—
+
+1.5
+
+4
+
+4
+
+2.4
+4
+
+4.8
+4
+
+MAINTENANCE COST
+
+1
+
+—
+
+PURCHASE COST
+
+—
+2
+5
+0.8
+
+0.16
+4.1
+4
+10
+
+24
+
+8
+
+—
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+0
+
+2
+
+15
+
+SYSTEMS
+
+SENSORS
+
+WEAPONS
+
+30 tons,
+Reinforced, NonGravity
+Armour
+Crystalliron,
+Armour: 8
+M-Drive
+Thrust 6
+Power Plant Fusion (TL12),
+Power 60
+Fuel Tanks 10 weeks of
+operation
+Computer
+Computer/10
+Sensors
+Military Grade
+Weapons
+Fusion Barbette
+Systems
+Military
+Operations
+Package
+Cargo
+
+3.5
+
+TOTAL: MCR 29.36
+
+NONE
+
+RUNNING COSTS
+Cr2447/month
+
+MCr29.36
+
+Power Requirements
+
+Quickening Thunder is a traditional name for
+space fighter craft and older designs using the
+same name are still in service in some areas.
+Built on a rugged 40-ton hull, the Quickening
+Thunder would be designated a medium
+fighter by most navies but K’kree refer to it as
+a ‘versatile-combat-craft-of-the-outer-steppe’
+without reference to size or role.
+
+18
+HULL POINTS
+
+164
+
+Fighters of this type are carried by warships
+and deployed to defend installations. Fittings
+and control systems are standardised, making
+replacement of losses or alteration of a vessel’s
+fighter complement a simple matter. The
+Quickening Thunder exists for the sole purpose
+of carrying a fusion gun barbette into action,and
+has been constructed in huge numbers;
+according to rumour there are thousands sitting
+in certain systems awaiting activation.
+
+

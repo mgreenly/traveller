@@ -1,0 +1,31 @@
+Thengg
+Pioneer Scout
+
+1
+4
+
+5
+
+2
+
+3
+
+1. Advanced Sensors
+2. Extended Array
+3. Cargo Bay
+4. Bridge
+5. Sensor Station
+6. Workshop
+7. Drop Tank Mount
+
+6
+
+DECK 1
+
+7
+
+DECK 2
+
+87
+
+

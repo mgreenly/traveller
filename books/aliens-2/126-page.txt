@@ -1,0 +1,127 @@
+Racial Solomani: The Traveller is of pure Solomani
+ancestry. They suffer no penalties in Solomani society.
+Due to the privileges offered to racial Solomani,
+it may be harder to adjust to life on the fringes of
+society. This results in DM-1 to advancement in the
+Drifter career.
+Passing: Since most mixed-race and some non-Solomani
+humans can physically pass themselves off as racial
+Solomani, people will sometimes risk criminal penalties
+to falsify their own or their children’s official racial
+status in order to avoid discrimination.
+
+The Home Forces Reserves is not a career, as reserve
+service requires only a few weeks commitment each
+year. A Traveller who joins the Reserves continues in
+their present assignment.
+
+Non-Solomani or mixed race Travellers may opt to
+determine if they or their forebears successfully hid their
+real ancestry. This is a SOC check; Very Difficult (12+)
+for non-Solomani and Average (8+) for mixed race.
+Success means bribery, forgery or human error result in
+the Traveller having official papers that falsely identify
+them as racial Solomani. Failure means no opportunity
+existed to alter apparent race.
+
+Training: Upon enlistment Home Forces Reserves
+members roll on the Reserves Training table and receive
+the skill at the level shown, unless they already have
+it. In addition, all groundside Home Forces Reserves
+personnel receive Gun Combat 0. All naval Home Forces
+Reserves personnel receive Vacc Suit 0.
+
+A Traveller passing for racial Solomani will be
+discovered if they try to enter SolSec, the Navy or the
+Marines as these services perform detailed medical tests
+on recruits during their induction process. The Traveller
+is otherwise treated as racial Solomani in all respects,
+with one exception:
+
+1D
+1
+
+If a passing Traveller throws a natural 2 on an
+advancement or survival roll, it means that in addition
+to the usual effects, the truth of their heritage is
+discovered. The ensuing scandal or criminal penalties
+halves SOC, rounding up. If the Traveller was in a
+Solomani Party career their rank in it drops to 0. If the
+Traveller continues the career process they do so using
+their real race.
+
+VOLUNTEERING
+
+The Solomani Confederation encourages patriotic citizens
+to volunteer to help protect the security of the state.
+Citizens may do so by choosing to become part of their
+world’s Home Forces reserves or a Monitor on a part-time
+basis even as they continue in full-time careers.
+
+Home Forces Reserves
+
+The Home Forces are the planetary defence forces of
+the Solomani Confederation. They include part-time
+and reserve units made up of citizen warriors and
+retired veterans.
+A Confederation citizen not in an active military
+assignment such as Army, Marine or Navy careers may
+enlist in the groundside component of their world’s
+Home Forces Reserves. Travellers that follow merchant
+
+126
+
+marine or free trader Merchant assignments, or were
+previously in a Navy career, may join the naval or
+groundside component of the Home Forces. Enlistment
+requires a commitment to report for periodic part-time
+training or duties. This means a Traveller that is in a
+Drifter or Rogue (pirate) career may not join the Home
+Guard. Otherwise, enlistment is automatic.
+
+Reserves Training
+
+2
+3
+4
+5
+6
+
+Groundside Reserves
+Naval Reserves
+Gun Combat (any) or Heavy Gunner 1 (any)
+Weapons 1 (any)
+Mechanic 1
+Engineer (any)
+1
+One of Drive (any) 1, Flyer Pilot (any) 1
+(any) 1 or Seafarer (any) 1
+Electronics (any) 1
+Electronics
+(any) 1
+Recon or Survival 1
+Vacc Suit 1
+Leadership or Tactics
+Leadership or
+(military) 1
+Tactics (naval)
+1
+
+Rank: Most Home Forces maintain a rank structure
+similar to the Confederation Armed Forces. Use Army
+ranks for the groundside Reserves and Confederation
+Navy ranks for the naval Reserves. Home Forces
+Reserves ranks are preceded by the word ‘reserve’ in
+situations when the Traveller is not on active duty.
+Army, Marine and Navy veterans who later join the
+Home Forces or Home Forces Reserves transfer their
+military rank over. Thus, a marine force commander
+with (rank 3) would become a reserve major (rank 3) in
+the Home Forces Reserves.
+A Traveller in the Reserves additionally rolls for
+commission and advancement within the Home Forces.
+Use the standard Army or Navy advancement tables
+each term, with DM-2 since senior officers tend to be
+full-time leaders of the reserves, with lower-ranked
+
+

@@ -1,0 +1,201 @@
+T
+
+The use of survival gear is common among Dolphins
+who spend a lot of their time out of water. Most other
+types of survival gear in the Traveller Core Rulebook or
+Central Supply Catalogue are available to Dolphins but
+cost 150% the normal price.
+Grav Belt: A standard issue TL12 grav belt resembles a
+parachute harness with support, which runs down the back
+and a series of artificial gravity modules around the waist.
+The grav belt masses 10 kilograms but once activated this
+weight is eliminated. A grav belt is able to take to the air at
+up to Slow speed with an Agility equal to the Dolphin’s DEX
+DM. It has a maximum range of 25 kilometres.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Grav Belt
+
+12
+
+10
+
+Cr100000
+
+Grav Couch: A grav couch is a contoured gravitic
+sled with padded gel lining providing a comfortable
+experience for a single Dolphin user. The couch provides
+no other protection to the Dolphin. Simple controls within
+flipper reach allow the Dolphin to steer the couch easily
+and a safety harness ensures the passenger does not
+come off the device. A grav couch weighs 10 kilograms
+when the grav units are inactive. It can take to the air at
+up to Slow speed with an Agility equal to the Dolphin’s
+DEX DM. It has a maximum range of 25 kilometres.
+
+CSC: Dolphins
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+ELECTRONICS
+
+SURVIVAL GEAR
+
+176
+
+R
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Grav Couch
+
+10
+
+15
+
+Cr50000
+
+Humidity Sleeve: A skin tight body suit with an
+opening for the head and vent, the humidity sleeve
+keeps moisture trapped between the skin of the Dolphin
+and the material of the sleeve, allowing them to operate
+safely out of water without the fear of dehydration. The
+suit has built in filters, which help purify the moisture
+between the suit and the skin, so it can potentially
+protect the Dolphin indefinitely, although most Dolphin
+would prefer to remove the suit for cleaning and the
+introduction of fresh moisture. Care must be taken that
+the head and vent do not dehydrate and most Humidity
+sleeves come complete with a soft helmet, which can
+be used to protect the head if the Dolphin is out of an
+aquatic environment for extended periods of time.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Humidity Sleeve
+
+6
+
+1
+
+Cr250
+
+Dolphins, like many other races with mid to high Tech
+Level societies love their electronics and a wellequipped Dolphin Traveller is no exception.
+Mouth Finger: This device is a simple mouthpiece
+clamped between the teeth. A probe extends out of
+the mouth and can be used to press buttons, type on a
+keyboard and so forth. Using a mouth finger will slow down
+a task however, moving the time required down one level
+on the time chart without granting any bonus to the check.
+Item
+
+TL
+
+Cost
+
+Mouth Finger
+
+2
+
+Cr10
+
+Water Proofing: Due to the wet environments that
+Dolphins live in, all of their electronics (including
+computers and other equipment) require waterproofing
+to protect them from water damage if they wish to use
+them while submerged. By TL10 all electronics are
+routinely waterproofed as part of their construction.
+Item
+
+TL Kg
+
+Cost
+
+Waterproofing 6
+
++200% of weight +250% of cost
+
+Waterproofing 7
+
++100% of weight +100% of cost
+
+Waterproofing 8
+
++25% of weight
+
++50 % of cost
+
+Waterproofing 9
+
++10% of weight
+
++25% of cost
+
+MEDICAL SUPPLIES
+Most medicines in the Traveller Core Rulebook or the
+Central Supply Catalogue can be modified specifically
+for Dolphin use. Such medicines have the same price
+but cannot be used by other races.
+Hydranoraquine: When Dolphins are out of water in a
+dry environment, their skin quickly dries out, becoming
+cracked and painful. Hydranoraquine makes a slight
+alteration to the structure of the skin, protecting the
+Dolphin from dehydration for up to 12 hours.
+Item
+
+TL
+
+Cost
+
+Hydranoraquine
+
+10
+
+Cr500
+
+Oxyplex: This drug artificially increases oxygen
+absorption in muscle cells and stored in the pancreas,
+enabling a Dolphin to hold its breath for up to 60 minutes.
+Item
+
+TL
+
+Cost
+
+Oxyplex
+
+10
+
+Cr550
+
+R
+
+

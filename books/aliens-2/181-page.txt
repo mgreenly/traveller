@@ -1,0 +1,74 @@
+A03/48956
+
+ECLIPSE SHIELD
+
+The eclipse shield is a large but lightweight shield carried
+by some Warriors. It is said to resemble a planet in partial
+eclipse, with a crescent shaped primary edge extending
+well beyond the user’s flank and a concave secondary
+edge. This permits a Warrior to use a firearm in the
+other hand, turning their body to receive protection then
+angling back to shoot. Eclipse shields are almost always
+near-transparent, giving observers the impression of a
+shimmering ‘force-field’ protecting their owners.
+Eclipse shields are not intended for close combat,
+although they will serve if necessary. Their role is to
+stop projectiles and energy weapon discharges. Most
+are produced in a right-handed design but a large
+complement of Warriors may have some left-handed
+shield users to cover the opposite flank. In melee
+combat, an eclipse shield functions as a normal shield
+but against firearms the user is treated as being in cover
+(Protection +8, as shown on page 74 of the Traveller
+Core Rulebook). A second Droyne can shelter behind
+the shield of another but cannot make attacks without
+moving out from its cover.
+In addition, an eclipse shield has a small power cell and
+a layer of microcircuitry set into its outer face. This is
+often used to project a bright light from the front face of
+the shield, which extends a little way above and below the
+normal visual spectrum. This has the effect of dazzling
+thermal and optical sensors, and providing illumination of
+a target. The light is unidirectional, so even if the shield is
+transparent the user is not dazzled. In low-light conditions
+this imposes DM-2 to attack rolls made against those
+behind the shield.
+Bright light drains the power cell in an hour or so but a
+comfortable level of illumination can be maintained for
+weeks. The circuitry can also act as a heat exchanger
+for a limited time. It can be expended in a single pulse,
+reducing the damage from an incoming energy or cold
+attack by 1D. Thereafter it is useful only as a physical
+shield. More commonly, the shield’s hot/cold capability
+is used to augment the comfort and gravitas of a Leader.
+A group of warriors standing around a Leader can modify
+local conditions to maintain a comfortable temperature
+within the ring of shields. This requires at least four
+shields forming a ring, with shields no more than two
+metres apart. Enough eclipse shields can protect a large
+group from a storm or freezing conditions for several hours.
+
+Weapon
+Eclipse-Shield
+
+TL
+12
+
+Range
+—
+
+Damage
+1D
+
+Kg
+2
+
+Cost
+Cr20000
+
+Traits
+—
+
+181
+
+

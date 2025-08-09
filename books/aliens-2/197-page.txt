@@ -1,0 +1,102 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Your Oytrip comes under attack. You defend it and are wounded to an acceptable level.
+Gain your choice of Gun Combat, Melee or Medic but lose –D3 on STR, DEX or END due to your wounds. Make
+a continuation check.
+
+2
+
+A junior Leader challenges the seniors in your Oytrip. You are placed on alert but there is no violence. The
+junior Leader is driven from the Oytrip. If they were your Leader and you go with them you are exiled from the
+Oytrip and joined their Kroyloss, which breaks up soon afterward. Muster out and begin adventuring now. If they
+were not your Leader, everything goes on as before but you must still make a continuation check.
+
+3
+
+A dangerous situation arises and the Warriors took heavy losses. If you behave correctly, you lose -1 in each of
+STR, DEX and END and must make a Continuation check. If you do not behave correctly, you betrayed your role
+in the Oytrip and are rightly driven from it. You may continue to betray your Oytrip by mustering out and beginning
+your adventuring now or may commit ritual suicide as is correct in these situations.
+
+4
+
+Bad things occur. The Leaders formulate a plan and corrected the situation. You do not know the details and you
+are not meant to for you are a Warrior, not a Leader. Make a continuation check but suffer no other ill-effects.
+
+5
+
+Your Leader undertakes an expedition that goes badly wrong. You are forced to survive outside Droyne society
+for several months. You gain an immediate level in Outsider (any) and may choose to take one level of
+Streetwise. However, this is a Black Skill and will diminish you as a Droyne. Make a continuation check with
+the negative DM for any Black Skills you may have.
+
+6
+
+You behave incorrectly. Your rank is reduced by –1. If this takes it below zero you are ejected from the Oytrip.
+Make a continuation check.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+You accompany an eminent Leader and gain their respect for your diligence. Your rank is increased by +1.
+
+4
+
+Your Leader honours you by recommending training in Ancients technology. Gain one level in Ancients Tech.
+
+5
+
+Your Leader orders you to defend a position to the last drop of blood. Make a Gun Combat check. If successful,
+it was the enemy’s blood and you gain one level of Gun Combat, Melee or Heavy Weapons. If you fail, it was
+your blood and you gain one level of Medic.
+
+6
+
+You do good work and your Leader is pleased. Gain one level in Gun Combat, Heavy Weapons, Vacc Suit or
+Leadership.
+
+7
+
+You guard the Oytrip. The Oytrip prospers.
+
+8
+
+Your Leader takes you on an expedition into the wilds. Gain one level of Recon or Survival.
+
+9
+
+You showed initiative and other Warriors followed you. Make a Tactics check. If successful, you were correct
+and your diligence is rewarded rank +1. If you failed, rank is reduced by –1 but you learned from your
+mistakes; gain one level of Tactics (any).
+
+10
+
+You were involved with outsiders. Some of them fought quite well, considering. Gain one level in Outsider (any)
+and a Contact outside the Oytrip.
+
+11
+
+You are honoured to serve aboard a starship. Gain one level in any of Electronics, Engineer, Gunner, Vacc Suit
+or Pilot.
+
+12
+
+Your Leader is honoured with possession or guardianship of an Ancients artefact. You guard it diligently. Gain 1
+level in Ancients Tech.
+
+197
+
+

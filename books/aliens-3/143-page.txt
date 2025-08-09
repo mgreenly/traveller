@@ -1,0 +1,303 @@
+BREKAT SYSTEM DEFENCE BOAT
+The Brekat SDB is a heavily armed and armoured
+fighting vessel used to patrol Geonee systems. The
+design has received favourable reviews by the Imperial
+Navy and can be found operating in planetary navies
+many subsectors away from the Geonee homeworld.
+
+Armed with a small missile bay and two fusion
+barbettes, the Brekat is offensively powerful, while
+heavy armour and triple beam laser turrets provide an
+adequate defensive screen. The SDB normally boasts
+a complement of 20 marines providing both internal
+security and boarding forces, and its modular cutter
+and two boarding pods are also piloted by marines.
+
+TL15
+
+TONS COST (MCr)
+
+Captain, Pilots x3,
+Astrogator, Engineers
+x3, Gunners x12,
+Administrator, Officers
+x2, Marines x20
+
+600 tons, Standard
+
+—
+
+30
+
+Reinforced
+
+—
+
+15
+
+Armour
+
+Bonded Superdense, Armour: 15
+
+72
+
+36
+
+M-Drive
+
+Thrust 9
+
+54
+
+108
+
+Power Plant
+
+Fusion (TL15), Power 700
+
+35
+
+70
+
+Fuel Tanks
+
+16 weeks operation
+
+16
+
+—
+
+Bridge
+
+Holographic Controls
+
+20
+
+3.75
+
+Computer
+
+Computer/35fib
+
+—
+
+45
+
+Sensors
+
+Advanced
+
+5
+
+5.3
+
+Enhanced Signal Processing
+
+2
+
+8
+
+Military Countermeasures Suite
+
+15
+
+28
+
+Sensor Stations x2
+
+2
+
+1
+
+Small Missile Bay
+
+50
+
+12
+
+Fusion Barbettes (accurate, high
+yield) x2
+
+10
+
+12
+
+Power Requirements
+
+Triple Turrets (accurate, high yield
+beam lasers) x3
+
+3
+
+9.75
+
+Basic Ship Systems
+
+Ammunition
+
+Missile Storage (288 missiles)
+
+24
+
+Armoured
+Bulkheads
+
+Manoeuvre Drive, Power Plant,
+Bridge
+
+9.1
+
+1.19
+
+Systems
+
+Armoury
+
+5
+
+1.25
+
+Brig
+
+4
+
+0.25
+
+Sensors
+
+Docking Space (80 tons)
+
+88
+
+22
+
+10
+
+Modular Cutter
+
+—
+
+11.93
+
+Boarding Pods x2
+
+—
+
+55.962
+
+Repair Drones
+
+6
+
+1.2
+
+Fuel Scoop
+
+—
+
+1
+
+Medical Bay
+
+8
+
+4
+
+Standard x17
+
+68
+
+8.5
+
+Barracks x20
+
+40
+
+2
+
+37
+
+3.7
+
+Auto-repair/2
+
+—
+
+10
+
+Evade/2
+
+—
+
+2
+
+Fire Control/2
+
+—
+
+4
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+25.2
+
+—
+
+Hull
+
+Weapons
+
+Staterooms
+Common Areas
+Software
+
+Cargo
+
+144
+
+Crew
+
+Hull: 264
+Running Costs
+MAINTENANCE COST
+Cr38547.9/month
+PURCHASE COST
+MCr462.5748
+
+120
+Manoeuvre Drive
+540
+Weapons
+84
+
+1. Military
+Countermeasures Suite
+2. Enhanced Signal
+Processing
+3. Bridge
+4. Sensor Stations
+5. Armoury
+6. Medical Bay
+7. Brig
+8. Barracks
+9. Small Missile Bay
+10. Cargo Bay
+11. Docking Space
+
+

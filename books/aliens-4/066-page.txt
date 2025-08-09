@@ -1,0 +1,72 @@
+SRSF Patrol
+Corvette
+1 square = 0.5 Ton
+
+LEGEND
+1. Manoeuvre Drive
+2. Jump Drive
+3. Power Plant
+4. Bridge
+5. Sensors
+6. Double Turret
+7. Missile Barbette
+8. Missile Storage
+9. Docking Space
+10. Armoury
+11. Breaching Tube
+12. Brig
+13. Deep Penetration Scanner
+14. Enhanced Signal Processing
+15. Fuel Processor
+16. Airlock
+17. Staterooms
+18. Common Area
+19. Cargo Hold
+
+5
+
+4
+14
+
+DECK 1
+17
+
+17
+18
+
+6
+
+7
+6
+12
+
+6
+
+10
+
+6
+19
+
+13
+8
+16
+
+2
+
+11
+9
+
+DECK 3
+15
+
+3
+
+1
+
+DECK 2
+
+66
+
+15
+
+

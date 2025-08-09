@@ -1,0 +1,272 @@
+PIHOLZ SYSTEM DEFENCE BOAT
+The Piholz SDB is a vicious ship and the backbone of
+many Darrian system defence squadrons. As it has no
+jump drive, the majority of its volume is dedicated to
+heavy armament and shielding, enabling it to pack a
+
+heavy punch while taking a serious beating. The ship
+has been over-engineered to allow it to lurk under water
+or deep in the atmosphere of gas giants, using the
+environment to shield it from sensors and weapons fire.
+
+TL15
+
+TONS COST (MCr)
+
+Captain, Pilots x3,
+Astrogator, Engineer,
+Officers x1, Gunners
+x4, Marines x12
+
+Hull
+
+400 tons, Streamlined, Reinforced
+Hull
+
+—
+
+36
+
+Armour
+
+Bonded Superdense, Armour: 12
+
+46.1
+
+23.04
+
+Radiation Shielding
+
+—
+
+10
+
+Stealth (improved)
+
+—
+
+40
+
+M-Drive
+
+Thrust 6
+
+24
+
+48
+
+Power Plant
+
+Fusion (TL12), Power 375
+
+25
+
+25
+
+Fuel Tanks
+
+52 weeks operation
+
+39
+
+—
+
+Bridge
+
+Holographic Controls
+
+20
+
+2.5
+
+Computer
+
+Computer/25fib
+
+—
+
+15
+
+Cr21055.275/month
+
+Sensors
+
+Advanced
+
+5
+
+5.3
+
+PURCHASE COST
+
+Enhanced Signal Processing
+
+2
+
+8
+
+Sensor Station
+
+1
+
+0.5
+
+Medium Torpedo Bay
+
+100
+
+6
+
+Power Requirements
+
+Particle Barbettes (accurate, high
+yield) x2
+
+10
+
+24
+
+Basic Ship Systems
+
+Triple Turret (accurate, high yield
+beam laser)
+
+1
+
+3.25
+
+Manoeuvre Drive
+
+Ammunition
+
+Torpedoes x27
+
+9
+
+—
+
+Armoured
+Bulkheads
+
+Bridge, Barbettes, Fuel Tanks,
+Manoeuvre Drive, Power Plant,
+Sensors, Small Torpedo Bay,
+Torpedo Stores
+
+23.4
+
+4.68
+
+Sensors
+
+Armoury
+
+4
+
+1
+
+Fuel Processor
+
+Brig
+
+4
+
+0.25
+
+5
+
+Docking Space (20 tons)
+
+22
+
+5.5
+
+Launch
+
+—
+
+2.367
+
+Fuel Processor (100 tons/day)
+
+5
+
+0.25
+
+Fuel Scoops
+
+—
+
+—
+
+Standard x12
+
+48
+
+6
+
+Weapons
+
+Systems
+
+Staterooms
+Common Areas
+Software
+
+Cargo
+
+88
+
+Crew
+
+Hull: 176
+Running Costs
+MAINTENANCE COST
+
+MCr252.6633
+
+80
+240
+8
+Weapons
+63
+
+11
+
+1.1
+
+Intellect
+
+—
+
+—
+
+Evade/3
+
+—
+
+3
+
+Fire Control/5
+
+—
+
+10
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+0.52
+
+—
+
+

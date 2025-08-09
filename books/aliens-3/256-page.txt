@@ -1,0 +1,189 @@
+Tail Mount: A tail mount is a bracket and brace that
+allows a specifically designed weapon to be attached to
+Bwap armour. The amour must be powered and allow
+the Bwap to use their tail to perform an unarmed strike.
+
+Polymer Gloves: These long, clear plastic gloves are
+worn by Bwaps to prevent the moisture that permeates
+their clothing and skin to damage electronic equipment
+or paper without interfering with the sense of touch. The
+gloves extend up past the elbow and are skin tight.
+
+Modification
+
+TL
+
+Kg
+
+Cost
+
+Tail Mount
+
+10
+
+2
+
+Cr50
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Tail Mount
+
+14
+
+1
+
+Cr75
+
+Polymer Gloves
+
+6
+
+1
+
+Cr50
+
+ELECTRONICS
+
+SURVIVAL GEAR
+Bwaps have a requirement to keep their skin moist in
+dry environments. This has driven the development of
+several devices that are nothing short of life-saving for
+Bwaps living away from their required level of humidity.
+
+Like fire, electronics came late to Bwap society due to
+the dampness of their environment but once discovered
+it was rapidly utilised. Electronics, particularly in higher
+Tech Level society, are ubiquitous with modern life.
+
+Equipment Webbing: In environments where
+Bwaps do not have to worry about humidity, they don
+equipment webbing instead of the familiar kaftan.
+The webbing comes in a variety of different styles
+and materials but is always comfortable with ample
+attachment points to attach equipment.
+
+Water Proofing: Due to the damp environments that
+Bwaps are forced to live in, all of their electronics
+(which includes computers and other equipment)
+require waterproofing to protect them from water
+damage. This technology was developed early in Bwap
+advancement and by TL10 all electronics are routinely
+waterproofed as part of their construction.
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Equipment Webbing
+
+2
+
+—
+
+Cr50
+
+Hydrosuit: A hydrosuit is a full body suit including a
+covering for the head that maintains the correct humidity
+for Bwap comfort. The suit is designed to recycle all the
+body’s fluids, which can then be reused in maintaining
+humidity and is able to maintain a suitable environment
+for a Bwap for up to 30 days without being replenished
+and having the internal scrubbers replaced.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Hydrosuit
+
+11
+
+4
+
+Cr12500
+
+Item
+
++200% of weight
+
++250% of cost
+
+Waterproofing 7
+
++100% of weight
+
++100% of cost
+
+Waterproofing 8
+
++25% of weight
+
++50 % of cost
+
+Waterproofing 9
+
++.10% of weight
+
++25% of cost
+
+TL
+
+Kg
+
+Cost
+
+Kaftan
+
+6
+
+1
+
+Cr75
+
+Kaftan
+
+9
+
+1
+
+Cr250
+
+Kaftan
+
+CSC: Bwaps
+
+Item
+
+Cost
+
+Waterproofing 6
+
+Kaftan: A loose-fitting garment, including head covering
+that is suffused with narrow tubing that delivers
+moisture directly to the skin of the wearer, keeping
+them moist in dry environments. Kaftans are patterned
+in the identifiable markings of the wearer’s crèche.
+At TL9 the kaftan is composed of two layers; an inner
+water absorbent layer and an outer water repellent
+layer. This keeps the outer surface of the garment dry,
+unlike earlier models.
+
+TL Kg
+
+257
+
+

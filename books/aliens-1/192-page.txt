@@ -1,0 +1,161 @@
+LONER
+
+6
+
+Although most Vargr are gregarious by
+nature, some prefer to be self-reliant or work
+alone. Such individuals choose a profession
+to suit their need for solitude. Some
+Vargr will also follow these careers out of
+necessity rather than the desire to be alone.
+Qualification: Automatic
+
+CAREER PROGRESS
+SURVIVAL
+DEX 5+
+END 7+
+END 6+
+
+Hunter
+Prospector
+Explorer
+
+ASSIGNMENTS
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Hunter: You track and hunt animals for your
+pack.
+Prospector: You look for new sources of raw
+materials on planets and asteroids.
+Explorer: You explore and map unknown
+systems or survey new worlds for
+colonisation.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr2000
+Cr5000
+Cr7500
+Cr10000
+Cr20000
+Cr30000
+
+BENEFITS
+Weapon
+END +1
+INT +1
+Ship Share
+Weapon
+CHA +1
+Two Ship Shares
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+DEX +1
+END +1
+INT +1
+Melee
+Jack-of-all-Trades
+CHA +1
+HUNTER
+Athletics
+Gun Combat
+Melee
+Recon
+Stealth
+Advocate
+
+SERVICE SKILLS
+Gun Combat
+Melee
+Drive
+Pilot
+Electronics
+Survival
+PROSPECTOR
+Astrogation
+Electronics
+Pilot
+Vacc Suit
+Mechanic
+Deception
+
+—
+—
+—
+—
+—
+—
+EXPLORER
+Navigation
+Science
+Electronics
+Recon
+Survival
+Streetwise
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+HUNTER SKILL OR BENEFIT
+Stealth 1
+—
+Survival 1
+—
+—
+—
+
+PROSPECTOR SKILL OR BENEFIT
+—
+—
+Pilot 1
+—
+—
+—
+
+EXPLORER SKILL OR BENEFIT
+Pilot 1
+—
+Survival 1
+—
+—
+—
+
+ADVANCEMENT
+DEX 6+
+INT 6+
+INT 8+
+
+

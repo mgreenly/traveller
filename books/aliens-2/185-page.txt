@@ -1,0 +1,67 @@
+FLIGHT AIDS
+
+Flight is unimportant in some Droyne Oytripin, whereas others have a culture where personal flight is part of daily
+life and may even be necessary to access some parts of the Oytrip. Those without the necessary attributes can obtain
+artificial assistance.
+
+A03/48956
+
+FLIGHT DRUG
+
+Flight drug doubles END and STR for the purposes of
+determine how long a Droyne can fly, if at all. It will be
+effective for around an hour. At the end of this time the
+Droyne must make an Average (8+) END check using its
+unenhanced END. If successful, the Droyne is tired but
+can continue to take normal actions, including continued
+flight with another dose of the drug. If the check is
+failed, the Droyne becomes exhausted; STR and END are
+reduced by 1D points each, which are recovered at the
+rate of one per hour of rest or light activity. DM-2 applies
+to the END check for every dose after the first and DM-4
+applies if flight drug was used before STR and END had
+recovered from a previous bout of exhaustion.
+
+Item
+Flight Drug
+
+A03/75674
+
+TL Kg
+
+Cost
+
+6
+
+Cr1500
+
+—
+
+MECHANICAL
+WINGS
+
+Droyne whose wings are too small to fly under their own
+power can use a set of mechanical wings. These become
+available at TL7 and remain similar in function at all
+Tech Levels. A wing set allows the user to glide from a
+high point to a lower one unless the Droyne has greater
+than STR 6 and Flying 2 or better. If these prerequisites
+are met, normal flight can be achieved. A set of wings
+must be tailored to a specific individual.
+
+Item
+Mechanical Wings
+
+TL Kg
+
+Cost
+
+7
+
+Cr100
+
+0.5
+
+185
+
+

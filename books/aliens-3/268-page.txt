@@ -1,0 +1,26 @@
+Awa-Pakwa Class
+Medium Fighter
+
+1. Re-entry Pod
+2. Dual Cockpit
+3. Improved Signal Processing
+4. Missile Storage
+5. Cargo Bay
+
+1
+
+2
+3
+
+4
+5
+
+LOWER FIN
+
+MAIN DECK
+
+UPPER FIN
+
+269
+
+

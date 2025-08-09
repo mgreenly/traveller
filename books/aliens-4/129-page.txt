@@ -1,0 +1,274 @@
+MERCHANT
+
+CLASS: NOOTROOK
+With thick armour, the merchant has a reputation
+as a safe, if not exactly comfortable vessel. Enough
+spare staterooms allow the Nootrook to carry
+passengers and cargo along its established trade
+routes. A modest weaponry complement of two
+double beam laser turrets gives the ship the ability
+to defend itself, although it is unlikely to find itself in
+a combat situation in the areas it travels.
+
+The Nootrook is a regular sight on the space lanes in
+and around the Za’tachk Alignment, although rarely
+seen beyond. Named after a heavy beast of burden
+from Loza’tch, the Nootrook is far too expensive to
+be operated by independent owners and is more
+often subsidised by larger companies. It has enough
+cargo space to carry a moderate load and can use
+jump mains to reach many isolated star clusters.
+
+TL12
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+1,000 tons, Streamlined
+
+—
+
+60
+
+Reinforced Hull
+
+—
+
+30
+
+Crystaliron, Armour: 12
+
+150
+
+30
+
+Radiation Shielding
+
+—
+
+25
+
+M-Drive
+
+Thrust 1
+
+10
+
+20
+
+Backup M-Drive
+
+Thrust 1
+
+10
+
+20
+
+J-Drive
+
+Jump 2
+
+55
+
+82.5
+
+Running Costs
+
+Backup J-Drive
+
+Jump 1
+
+30
+
+45
+
+MAINTENANCE COST
+
+Power Plant
+
+Fusion (TL12), Power 525
+
+35
+
+35
+
+Cr34104/month
+
+Backup Power
+Plant
+
+Backup Power Plant, Fusion
+(TL12), Power 420
+
+28
+
+28
+
+PURCHASE COST
+
+Fuel Tanks
+
+J-2, 4 weeks operation
+
+204
+
+—
+
+Hull
+Armour
+
+Pilot, Astrogator,
+Engineers x4,
+Maintenance, Gunners
+x2, Administrator
+
+Hull: 440
+
+MCr409.25
+
+Power Requirements
+
+20
+
+5
+
+Computer
+
+Computer/10fib
+
+—
+
+0.24
+
+Backup
+Computer
+
+Backup Computer/5fib,bis
+
+—
+
+0.06
+
+Sensors
+
+Civilian
+
+1
+
+3
+
+1
+
+3
+
+Weapons
+
+Double Turrets (beam lasers) x2 2
+
+3
+
+Craft
+
+Docking Space (5 tons)
+UFT Lifeboat
+
+6
+—
+
+1.5
+1.75
+
+Cargo Crane
+
+3.5
+
+3.5
+
+Fuel Processor (200 tons/day)
+
+10
+
+0.5
+
+Fuel Scoops
+
+—
+
+—
+
+18
+
+Medical Bay
+
+4
+
+2
+
+Fuel Processor
+
+Staterooms
+
+Standard x20
+
+80
+
+10
+
+10
+
+Software
+
+Intellect
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+320.5
+
+—
+
+Bridge
+
+Backup Sensors Backup Civilian
+
+Systems
+
+Cargo
+
+Basic Ship Systems
+200
+Manoeuvre Drive
+100
+Jump Drive
+200
+Sensors
+1
+Weapons
+
+Total: MCr409.25
+
+129
+
+

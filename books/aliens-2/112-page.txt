@@ -1,0 +1,249 @@
+SAXBY SYSTEM DEFENCE BOAT
+TL12
+
+TONS
+
+COST (MCR)
+
+Hull
+
+600 tons, Standard
+
+—
+
+30
+
+Armour
+
+Bonded Superdense,
+Armour: 6
+
+57.6
+
+28.8
+
+M-Drive
+
+Thrust 7 (energy
+efficient x2)
+
+42
+
+105
+
+Power Plant
+
+Fusion (TL12), Power
+1,125
+
+42
+
+42
+
+Fuel Tanks
+
+8 weeks of operation
+
+16.8
+
+—
+
+Bridge
+
+Holographic Controls
+
+20
+
+3.75
+
+Computer
+
+Computer/20
+
+—
+
+5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Countermeasures
+Suite
+
+2
+
+4
+
+Heavy Missile
+Container/Launchers
+x2
+
+10
+
+5.5
+
+Triple Turrets (pulse
+lasers, sandcaster) x2
+
+2
+
+6.5
+
+Screens
+
+Nuclear Dampers x2
+
+20
+
+20
+
+Craft
+
+Full Hangar (100
+tons)
+
+200
+
+40
+
+Armoured
+Bulkheads
+
+Power Plant,
+Manoeuvre Drive,
+Bridge
+
+13.7
+
+2.74
+
+Systems
+
+Medical Bay
+
+4
+
+2
+
+Countermeasures
+Suite
+
+2
+
+UNREP System (20
+tons/hour)
+
+Weapons
+
+Staterooms
+
+MAINTENANCE COST
+Cr28707.5/month
+
+PURCHASE COST
+MCr344.49
+
+Power Requirements
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+4
+
+—
+
+2
+
+1
+
+0.5
+
+FUEL
+PROCESSOR
+
+SYSTEMS
+
+Repair Drones
+
+6
+
+1.2
+
+Standard x 24
+
+96
+
+12
+
+32
+
+3.2
+
+4
+
+58
+
+—
+—
+
+—
+
+SENSORS
+
+WEAPONS
+
+Manoeuvre/0
+
+Anti-Hijack/1
+Virtual Gunner/1
+
+12
+
+—
+—
+
+6
+
+29.5
+
+—
+
+TOTAL: MCR 344.49
+
+112
+
+RUNNING COSTS
+
+120
+
+Advanced Fire
+Control/1
+
+Cargo
+
+CCAPTAIN, PILOT,
+ENGINEERS X4, MEDIC,
+GUNNERS X6 CRAFT PILOTS
+AS NEEDED
+
+420
+
+Common Area
+Software
+
+CREW
+
+10
+
+240
+HULL POINTS
+
+

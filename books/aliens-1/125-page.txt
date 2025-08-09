@@ -1,0 +1,120 @@
+There are three degrees within each social rank:
+Servant-of-Rankholder: This is the default level. Distant
+relatives and those bound by ties of loyalty rather than
+kin hold this rank.
+Kinsman-of-Rankholder: This represents close relatives or
+those who have served long and well, and are thought of
+as almost-kin.
+Rankholder: The K’kree actually holds this rank.
+When a K’kree achieves a new social level, he begins
+at servant-of-rankholder. Each term he may make a
+Patriarchy check at the difficulty level indicated on the
+SOC Rank table to be elevated one degree. Note that
+increases in SOC are rare for K’kree, so elevation within
+the Traveller’s starting social class is normally the only
+advancement possible. If a K’kree does rise in social
+class, he begins again at servant-of-rankholder level but
+gains DM+1 on Patriarchy checks for advancement if he
+was a kinsman, or DM+2 if he was a rankholder.
+The exception is the lowest end of the nobility spectrum;
+patriarch of a small family. A K’kree holding this rank is
+automatically the head of his household and therefore
+the rankholder. At all other levels, the assumption is
+that the rankholder is the head of the big family of
+which the K’kree’s small family is part. Thus a servantto-rankholder in a Merchant caste big-family heads one
+of the lowest-status small-families within the group
+and can aspire to being elevated to kin-to-rankholder
+someday. After that, he might even come to lead the
+whole big family, as head of his own household and lord
+over several others.
+
+SOC Rank
+SOC
+0
+1-3
+4-6
+7-10
+11
+
+13
+14
+
+Caste
+Outcast or casteless
+Lowest Value Servant
+Servant
+Merchant
+Noble (Small Family
+Patriarch)
+Noble (Big Family
+Patriarch)
+Herdlord
+Clanlord
+
+15
+
+Steppelord
+
+12
+
+Patriarchy
+Check Difficulty
+Simple (+2)
+Easy (+4)
+Routine (6+)
+Automatic
+Average (8+)
+Difficult (10+)
+Very Difficult
+(12+)
+Formidable
+(14+)
+
+K’KREE TRAITS
+K’kree make use of the following traits.
+
+Big and Tough: K’kree are much bigger than humans
+and can soak up a lot more damage unless a vulnerable
+location such as the head is struck. Whenever a K’kree
+is subject to an effect that reduces END, whether
+through physical damage or exertion, END reduction
+is halved, dropping any fractions. For example, a
+K’kree who is hit for seven points of damage reduces
+END 3 points. END is also treated as being doubled
+for the purposes of determining the duration (but not
+effectiveness) of physical activity.
+Claustrophobic: K’kree are intensely claustrophobic and
+will often refuse to enter fully enclosed spaces. If forced
+to do so, or upon discovering they are confined, a K’kree
+may panic or collapse. A Difficult (10+) END check is
+required to enter a confined space. Small spaces like a
+starship stateroom impose DM-2 and very tight spaces
+like a crawlway impose DM-4.
+A K’kree who fails the check will not enter, no matter
+what. If already in the confined space, they will wriggle
+out with no regard to whom they squash. If this is not
+possible, roll 1D . On a 4+ the K’kree will freeze in
+place and refuse to move, or else will begin to thrash
+about in a panic.
+New claustrophobia checks are made every time the
+K’kree encounters something unsettling or is hurt.
+Noises up ahead or something as minor as snagging a
+piece of clothing on a projection can trigger a psychotic
+episode – which in turn can make it very difficult to help
+a trapped K’kree.
+A K’kree leader may make a Difficult (10+) Patriarchy
+check to lead his family or warband into the space,
+provided he passes his own END check first.
+Gregarious: K’kree need others of their own kind
+around them at all times. A K’kree deprived of such
+companionship is likely to flee towards the nearest herd
+(or wherever he thinks a herd could be found) or become
+either violently agitated or all but catatonic. If a K’kree
+is cut off from others by a confined space the effect is
+intensified and checks for both claustrophobia and lack
+of contact must be made. Failing both will lead to a
+mental breakdown which may have long-term effects.
+
+125
+
+

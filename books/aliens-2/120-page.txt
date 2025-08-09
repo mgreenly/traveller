@@ -1,0 +1,76 @@
+ROBOTS
+
+The Solomani Confederation is generally more accepting of robotic technology than the Imperium. In Terran
+culture, semi-autonomous robots appeared at roughly the same time as interstellar travel, resulting in a wide
+divergence of attitude toward intelligent machines among different Terran-descended communities throughout the
+Solomani Sphere. On some worlds, robots are outlawed or distrusted, especially where the Society for Sovereignty
+of Man over Machine is active. The society vigorously opposes any advanced A.I. research that might lead to
+independent machine intelligence.
+Solomani have the same range of robots as the Imperium but tend to make more use of large vehicle-sized robotic
+machines such as robot construction equipment. The armed forces routinely deploy robotic ammunition carriers,
+which reload standard magazines passed to them and some robotic support platforms. These are not autonomous
+but will follow the directions of a designated soldier with limited initiative.
+
+A11/58231
+
+CONFEDERATION ARMY
+AMMOBOT
+
+An ammobot is built on a low tracked chassis, with an
+ammunition hopper on the back, reloading station in the
+centre and a magazine dispenser at the front and each
+side. The hopper holds a single ammunition type and
+a single magazine type can be accommodated. Usually
+this is to fit the standard 4mm gauss rifle used by most
+Confederation Army formations, although ammobots can be
+quickly reconfigured to operate with other weapons. Some
+variant types can dispense more than one ammunition type
+but these are more likely to be in use with SolSec or navy
+personnel than the army.
+The ammobot is lightly armoured and quite tough. It is
+capable of automatically moving from a unit’s position to
+a supply dump and back again without getting stuck or
+colliding with anything but that is about the limit of its
+capabilities. The reloading mechanism holds 20 magazines.
+As these are taken by soldiers, empty ones can be inserted
+through a slot in the top of the mechanism. Those too dented
+for safe use are spat out of another slot as they pass through
+the mechanism, generally eliciting jeers and humorous
+insults in non-critical situations. The ammunition hopper
+holds 24,000 rounds of gauss rifle ammunition, sufficient to
+reload 300 magazines and their internal batteries are also
+charged if they remain in the robot for any length of time.
+When using larger calibres, such as advanced combat rifle
+ammunition, capacity is greatly reduced.
+Ammobots are widely used in civilian life, repurposed as
+dispensers of all manner of useful items. A popular vid show of
+recent years has focussed on modifying robots and devices; its
+all-time highest rated episode featured the on-the-go barbecue
+devised by an independent survey and exploration crew,
+enabling them to feed samples of local plant and animal life
+into the ‘bot and enjoy a tasty chargrilled meal on the march.
+
+ROBOT
+
+HITS
+SPEED
+20
+6m
+SKILLS
+None
+ATTACKS
+None
+TRAITS
+Armour (+4)
+PROGRAMMING Basic
+Ammobot
+
+120
+
+TL
+12
+
+COST
+Cr62000
+
+

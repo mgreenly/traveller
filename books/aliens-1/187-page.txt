@@ -1,0 +1,87 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured in action. Roll twice on the Injury table and take the lower result.
+
+2
+
+You are arrested but are able to pay a fine to earn your freedom. Lose one Benefit roll from this career and lose
+CHA –1.
+
+3
+
+You are betrayed by a member of your band, ending your career as a Corsair. If you have an Ally or Contact in
+the band, they are now an Enemy, otherwise gain an Enemy.
+
+4
+
+A job goes wrong and the pack looks for new leadership. Roll CHA 8+ to support the winning side. If you fail,
+you are forced to leave the band and gain a Rival.
+
+5
+
+You make a mistake forcing your pack to flee from the local law enforcement. Lose CHA –1 and you are forced
+to leave your corsair band.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career.
+
+3
+
+You are arrested and hire a lawyer who gets the charges dropped. You lose one Benefit roll from this career but
+gain the lawyer as a Contact.
+
+4
+
+You are forced into hiding on a hostile world. Gain Survival 1.
+
+5
+
+You gain a Contact in the criminal underworld.
+
+6
+
+One of your raids is particularly successful. Gain a Benefit roll.
+
+7
+
+Life Event. Roll on the Vargr Life Events table (see page 204).
+
+8
+
+Your time spent in the criminal underworld gives you one of Streetwise 1, Stealth 1, Melee (any) 1 or Gun
+Combat (any) 1.
+
+9
+
+You become involved in a territorial war with a rival corsair band. Roll Gun Combat (any) or Melee (any) 8+ to
+help defeat them. Gain CHA +1 if you succeed or roll on the Injury table if you fail.
+
+10
+
+Your leader uses poor judgement and your band suffers heavy losses. Roll CHA 10+ to become the new pack
+leader and gain an automatic promotion.
+
+11
+
+You support a pack member who becomes the new leader. Gain an Ally and DM+4 to your next Advancement roll.
+
+12
+
+Your raiding skills have become legendary. You gain an automatic promotion and +CHA +1.
+
+

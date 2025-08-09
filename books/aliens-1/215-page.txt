@@ -1,0 +1,76 @@
+ROBOTS AND DRONES
+
+Robots and drones are not as popular among the Vargr as with most other races. This is mainly because of the
+importance of charisma in Vargr society; a robot has no place within a pack as it has no charisma. For this reason,
+someone in charge of robots does not gain the same charisma and respect as someone who commands other Vargr.
+Combat robots are also rare as sending machines to fight instead of Vargr shows weakness of not just the leader but
+the entire pack.
+However, robots are used in some commercial arenas such as factories, construction, hostile environments and as
+drivers or pilots for non-essential work. Robots are also used in an advisory capacity but Vargr will only consult such
+robots in private to avoid losing the respect of their subordinates.
+As a science, Vargr robotics is not particularly advanced due to the social implications of using robots or simply
+being involved in the robotics industry. As such, Vargr robots tend to be overpriced, badly engineered and with low
+intelligence. The poor quality of Vargr robotics has led to thriving criminal enterprises that steal robots from other
+races, particularly the Imperium.
+
+A11/58231
+
+TASKBOT
+
+This general purpose robot is one of the most advanced
+robots of Vargr design. A broad skill set is included with
+this robot allowing it to perform a wide range of tasks. The
+taskbot is humanoid in appearance with a head design based
+on Vargr physiology.
+
+ROBOT
+
+HITS
+SPEED
+TL
+COST
+26
+5m
+12
+Cr30000
+SKILLS
+Admin 0, Advocate 0, Art 0, Broker 0,
+Drive 0, Electronics 0, Mechanic 0,
+Medic 0, Navigation 0, Survival 0
+ATTACKS
+None
+TRAITS
+Armour (+4)
+PROGRAMMING Advanced
+Taskbot
+
+A11/58231
+
+ADVISOR ROBOT
+
+This small robot is primarily used in an advisory role by
+corporations and merchants; it can be consulted on all matters
+pertaining to bureaucracy, law and trade.
+
+ROBOT
+
+HITS
+SPEED
+TL
+COST
+8
+3m
+13
+Cr125000
+SKILLS
+Admin 2, Advocate 2, Broker 1
+ATTACKS
+None
+TRAITS
+Armour (+3), Small (-2)
+PROGRAMMING Advanced
+Advisor Robot
+
+215
+
+

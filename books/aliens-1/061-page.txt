@@ -1,0 +1,85 @@
+A11/58231
+
+MONKEY KNIFE
+
+Hi’asoi are ceremonial weapons used by humans who have
+integrated into Aslan society. The blade resembles a dewclaw,
+and is worn strapped to the wrist, allowing a human to fight in
+duels, using the blade as a proxy claw. The chances of survival
+against an Aslan male are, of course, minimal.
+
+Weapon
+Monkey Knife
+
+A11/58231
+
+TL Range
+3 Melee
+
+Damage
+1D
+
+Kg
+—
+
+Cost
+Cr150
+
+Traits
+—
+
+REAVER’S AXE
+
+An oversized great-axe, the yuhaih is a weapon of terror, as it makes a thunderous noise
+as it is whirled through the air. Dewclaws are needed to wield the yuhaih properly, as the
+wielder’s claws slot into a round hole in the shaft, allowing him to spin it at great speed
+before he drives it into a foe’s skull.
+Weapon
+Reaver’s Axe
+
+A11/58231
+
+TL Range
+4 Melee
+
+Damage
+4D
+
+Kg
+5
+
+Cost
+Cr500
+
+Traits
+—
+
+SPEAR-HOOK
+
+A combination of spear (at one end) and four-pronged grappling hook
+(at the other), the yurletya is 250cm in length and was a favourite
+duelling weapon of early Aslan cultures. It is still frequently used for
+ritual or ceremonial purposes. After any attack is made with the weapon,
+regardless of the result, a second attack may be made immediately after
+at DM-2.
+Weapon
+Spear-hook
+
+TL Range
+2 10
+
+Damage
+2D
+
+Kg
+2
+
+Cost
+Cr15
+
+Traits
+—
+
+61
+
+

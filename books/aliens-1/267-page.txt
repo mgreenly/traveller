@@ -1,0 +1,116 @@
+RANKS AND BONUSES CONT...
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+CORPORATE/FREE TRADER
+Deck Hand
+Senior Deckhand
+Fourth Officer
+Third Officer
+Second Officer
+First Officer
+Captain
+
+SKILL OR BENEFIT
+—
+Mechanic 1
+—
+Engineer 1
+Pilot 1
+—
+—
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+A war extends across your travel routes enough to disrupt shipping and you are severely injured in action. Roll
+twice on the Injury table and take the lower result.
+
+2
+
+A series of bad deals and decisions forces your employer into bankruptcy, which forces you to leave the career.
+By salvaging what you can, you may take a Benefit roll for this term as well as any others you are entitled to.
+
+3
+
+You are fined Cr1000 x 1D for poorly filed paperwork. Pay this immediately to stay in the career. If not paid,
+and your is SOC 9-, roll on the Re-education Events table (page 274).
+
+4
+
+Your ship or company faces declining fortunes. You may continue in this career but will gain no Benefit rolls for
+this term or the next.
+
+5
+
+You are asked to leave the career for business reasons and paid off with Cr1000 x 1D.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career, even from a Re-education Event.
+
+3
+
+The government drafts your ship for military use. You must leave this career (mustering out as normal) but may
+automatically qualify for the Navy (with the same rank) in the next career term.
+
+4
+
+From time spent dealing with suppliers and spacers, you gain a level in any one of Animals, Engineer, Science
+or Profession.
+
+5
+
+You are put in temporary charge of the paperwork for the crew. Gain one level of Admin, Broker or
+Electronics (computers).
+
+6
+
+You expand into new territories. Gain one level of Broker, Diplomat, Profession or a Contact.
+
+7
+
+Life Event. Roll on the Zhodani Life Events table (page 274).
+
+8
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain one level in any skill already possessed.
+
+9
+
+A good deal ensures you are living the high life for a few years. Gain DM+1 to any one Benefit roll.
+
+10
+
+Your ship is chosen for elite duty on a very selective route, making it famous in one subsector. Gain an extra
+Benefit roll.
+
+11
+
+Your superiors take an interest in your career. Gain an Ally and take DM+2 to your next Advancement roll
+thanks to their aid.
+
+12
+
+Your business or ship thrives. Your next Advancement roll is automatically successful.
+
+

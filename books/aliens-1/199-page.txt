@@ -1,0 +1,83 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured in action. Roll twice on the Injury table and take the lower result.
+
+2
+
+You compete with another pack member for power and respect. Gain a Rival.
+
+3
+
+Your pack fails to defeat an enemy or corsair band. Lose CHA –1 and gain the opponent as an Enemy.
+
+4
+
+You make a critical mistake in battle causing your ship to be disabled. You lose CHA –1 and are dismissed
+from service.
+
+5
+
+There is a power struggle in your pack and you support the losing side. Roll CHA 8+. If you fail, you suffer
+DM-2 to your next Advancement roll.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career.
+
+3
+
+You are given a special assignment onboard ship. Gain DM+1 to any Benefit roll for this career.
+
+4
+
+You help out a member of the crew. Gain a Contact.
+
+5
+
+Your time aboard spacecraft has made you proficient in the space environment. Gain one level in Vacc Suit or
+Athletics (dexterity).
+
+6
+
+You are given advanced training. Roll EDU 8+ to gain one level in any skill you are eligible for in this career.
+
+7
+
+Life Event. Roll on the Vargr Life Events table (see page 204).
+
+8
+
+You have become an experienced space hand. Gain one level in Astrogation, Electronics or Pilot.
+
+9
+
+You have learned to adapt to a variety of situations during your time in space. Gain Jack-of-all-Trades 1.
+
+10
+
+Your leader is killed and you attempt to take command of the unit. Roll CHA 8+. If you succeed, you become
+the pack leader and gain DM+2 to your next Advancement role.
+
+11
+
+Your exemplary performance earns respect from your leader. Gain DM+4 to your next Advancement roll.
+
+12
+
+Your quick thinking and actions save your ship from destruction. You are automatically promoted and gain CHA +1.
+
+

@@ -1,0 +1,95 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured in a predator or enemy attack, lose D3 points from among STR, DEX and END but do not leave the
+career.
+
+2
+
+You anger your herdlord and are punished with a period of ostracism. Gain one level of Outsider. You do not
+leave the career.
+
+3
+
+One of your wives dies or is otherwise taken from you. In your grief you offend many other K’kree. Gain D3
+Rivals or one Enemy and lose a wife. You do not leave the career.
+
+4
+
+After a dispute whose origins are way over your head, your herd now has powerful enemies. You gain an Enemy.
+You do not leave the career.
+
+5
+
+Your herd is involved in a dispute with another and you are used as cannon-fodder. Make a Melee check. On
+8+ you survive the fight but are not rewarded. Otherwise, lose –1 point from STR or END and still receive no
+reward. You do not leave the career.
+
+6
+
+You are ejected from the herd. Gain 1 level of Outsider. You are no longer a K’kree; you are nothing. Survive as
+best you can or die. Nobody cares either way.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+Your herd is involved in a vigorous or even violent dispute with another. You do your part with honour, earning
+deserved praise from your herdlord. You also gain D3 Enemies.
+
+4
+
+You are part of a diplomatic mission to a non-K’kree group. Gain 1 level of Diplomat or a non-K’kree Contact for
+this weird and unsettling experience.
+
+5
+
+You have to undertake tasks outside the normal pastoral existence and are very glad to get back to the correct
+and proper life you wanted. Gain 1 level in any skill.
+
+6
+
+Your herd undertakes a long trek for reasons that presumably makes sense to your leaders. Gain 1 level of
+Navigation or Survival kill.
+
+7
+
+Life Event. Roll on the K’kree Life Events table on page 138.
+
+8
+
+Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K’kree ritual) and a Contact
+outside your herd.
+
+9
+
+Defending your family and herd bravely, you suffer an injury that reduces END by -1, but you gain 1 level of
+Melee or Gun Combat.
+
+10
+
+You serve well and are personally commended by the Steppelord. Gain SOC+1 and a Contact at the
+Steppelord’s court (who may or may not be K’kree).
+
+11
+
+You are offered the chance to be adopted into the big family of a herdlord or clanlord, perhaps by marrying one
+of his female offspring. If you agree, your SOC jumps to 13 and you enter the Noble career as a servant-ofrankholder in your next term.
+
+12
+
+You got cut off from the herd. It was horrible but then the ancestors came and sang to you. They revealed great
+truths and led you home. You can still hear them sometimes and your herd-mates say you are becoming onewith-the-sky.
+
+

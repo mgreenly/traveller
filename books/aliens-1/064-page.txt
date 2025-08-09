@@ -1,0 +1,94 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+F
+
+O
+
+U
+
+R
+
+VEHICLES OF THE ASLAN
+
+Vehicles are a necessity on most Aslan worlds, as
+settlements are spread out across a wide area.
+
+CLAWBIKE
+TL
+SKILL
+AGILITY
+SPEED (CRUISE)
+RANGE (CRUISE)
+CREW
+PASSENGERS
+CARGO
+HULL
+SHIPPING
+COST
+
+7
+DRIVE (WHEEL)
++2
+MEDIUM (SLOW)
+300 (450)
+1
+1
+
+F RONT
+
+2
+
+REAR
+
+2
+
+SIDES
+
+2
+
+—
+
+4
+1 TON
+CR7800
+
+EQUIPMENT
+Control System (improved)
+No weapon
+
+DESCRIPTION
+The clawbike is an oversized four-wheeled
+dirt-bike, used for both civilian and military
+purposes by the Aslan. The wheels are equipped
+with long curved spikes that are normally held
+retracted inside the tire; these spikes can be
+extended like a dewclaw, allowing the bike
+to scramble over especially rough terrain and
+climb very steep surfaces. Considerable strength
+is preferable when driving a clawbike, as the
+vehicles are infamous for bucking or toppling if
+not properly controlled.
+
+64
+
+ARMOUR
+
+TRAITS
+ATV,
+Open Vehicler
+
+

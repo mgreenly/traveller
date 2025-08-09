@@ -1,0 +1,171 @@
+Options
+
+All standard options listed on page 96 of the Traveller
+Core Rulebook and page 27 of the Central Supply
+Catalogue can be used with Vargr armour. Modifications
+of Vargr origin are listed here and although other races
+can acquire them, some will grant only Vargr Travellers
+their full benefits.
+Audio Filter: Usually fitted into helmets, the filter also
+comes as a pair of earpieces. These devices filter all
+incoming audio to prevent very loud and high frequency
+sounds from damaging or disorienting the wearer. A
+Traveller wearing an audio filter gains DM+4 to their
+END check against sonic-based attacks.
+
+MODIFICATION
+
+TL
+
+KG
+
+COST
+
+Audio Filter
+
+8
+
+—
+
+Cr50
+
+Blade Enhancements: Small blades or spikes mounted
+into armour are popular with corsair raiders, usually
+mounted to bracers or shoulder guards but can be
+fitted anywhere the wearer requires. These weapons
+can be used with the Melee (infighting) skill and deal
+2D damage.
+
+MODIFICATION
+
+TL
+
+KG
+
+COST
+
+Blade Enhancements
+
+6
+
+1
+
+Cr75
+
+Retractable Blades: These function just like standard
+blade enhancements but a concealed controller allows
+the wearer to extend and retract the blades as required.
+
+MODIFICATION
+
+TL
+
+KG
+
+COST
+
+Retractable Blades
+
+8
+
+1
+
+Cr150
+
+AUGMENTS
+
+Vargr opinion on the use of augments varies
+considerably throughout the Extents. Those of a
+religious nature tend to frown on Vargr augmentation,
+firm in the belief that the Vargr have already attained
+perfection or that it is blasphemous to alter the physical
+form given to them by the Ancients.
+However, there are still many cultures that see the
+benefits of genetic and surgical alteration. The most
+notable applications are the physical and combat skill
+augments used by corsairs and the military. Intelligence
+and related augments see little use in Vargr society.
+
+214
+
+All augments listed in the Traveller Core Rulebook can be
+used by Vargr characters but availability depends on the
+type of augment required at the Referee’s discretion.
+Aural Filter: This works much like the audio filter
+option fitted to armour to prevent loud and high
+frequency sounds from harming the Traveller. A
+Traveller with an aural filter gains a DM+6 to END
+checks against sonic weaponry.
+
+MODIFICATION
+
+TL
+
+KG
+
+COST
+
+Aural Filter
+
+12
+
+—
+
+Cr15000
+
+Tail Enhancement: The bones and muscles of the tail are
+enhanced to increase its strength and dexterity, allowing
+it to make an unarmed attack for 1D damage. Attacking
+with the tail still uses a significant action but the rarity
+of this augment will surprise most opponents (especially
+non-Vargr), making them unable to dodge or parry the
+blow in the first round.
+
+MODIFICATION
+
+TL
+
+KG
+
+COST
+
+Tail Enhancement
+
+10
+
+—
+
+Cr3000
+
+Urzaeng Modification: This augment evolved in the
+Urzaeng region by Vargr with a desire to fit in and
+become more like their Urzaeng brethren, although
+other Vargr are attracted by this augment simply to be
+more of a physical match for Urzaeng in combat. Many
+worlds have outlawed this modification for a variety of
+reasons, usually on religious grounds.
+The procedure for Urzaeng modification is long (D3
+months) and painful, requiring a combination of
+genetic manipulation and surgery. Travellers with
+this augment gain the following modifications: STR
++1, END +1 and INT –1. The Traveller’s body also
+increases in size, gaining 2D+6 centimetres in height
+and 1D+4 kg in weight.
+
+MODIFICATION
+
+TL
+
+KG
+
+COST
+
+Urzaeng Modification
+
+13
+
+—
+
+Cr75000
+
+

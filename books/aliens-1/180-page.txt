@@ -1,0 +1,177 @@
+Career Summary
+Career
+Army
+
+Assignment
+
+Qualification
+CHA 6+
+
+Infantry
+Cavalry
+Support
+Citizen
+
+Advancement
+
+STR 6+
+DEX 7+
+END 5+
+
+CHA 5+
+CHA 6+
+CHA 5+
+
+EDU 6+
+INT 5+
+END 4+
+
+CHA 6+
+CHA 5+
+CHA 4+
+
+END 7+
+END 6+
+END 6+
+
+CHA 7+
+CHA 6+
+CHA 6+
+
+CHA 8+
+CHA 7+
+CHA 7+
+
+CHA 8+
+CHA 6+
+CHA 7+
+
+END 6+
+INT 7+
+INT 5+
+
+CHA 5+
+CHA 6+
+CHA 7+
+
+DEX 5+
+END 7+
+END 6+
+
+DEX 6+
+INT 6+
+INT 8+
+
+END 6+
+DEX 7+
+END 5+
+
+CHA 7+
+CHA 8+
+CHA 6+
+
+EDU 5+
+INT 6+
+INT 5+
+
+CHA 6+
+CHA 7+
+CHA 5+
+
+DEX 7+
+INT 5+
+INT 6+
+
+CHA 7+
+CHA 6+
+CHA 5+
+
+EDU 6+
+CHA 6+
+END 6+
+
+CHA 8+
+PSI 6+
+INT 8+
+
+EDU 6+
+EDU 7+
+EDU 5+
+
+INT 8+
+INT 7+
+INT 6+
+
+CHA 5+
+Corporate
+Aide
+Worker
+
+Corsair
+
+CHA 7+
+Raider
+Pilot
+Reaver
+
+Emissary
+
+CHA 10+
+Arbitrator
+Diplomat
+Negotiator
+
+Law Enforcement
+
+CHA 6+
+Enforcer
+Investigator
+Security
+
+Loner
+
+None
+Hunter
+Prospector
+Explorer
+
+Marines
+
+CHA 7+
+Marine
+Special Ops
+Support
+
+Merchant
+
+CHA 6+
+Junk Dealer
+Scrounger
+Free Trader
+
+Navy
+
+CHA 8+
+Pilot
+Crew
+Engineer
+
+Psion
+
+PSI 8+
+Institute
+Mentored
+Wild Talent
+
+Scientist
+
+INT 8+
+Doctor
+Researcher
+Technician
+
+180
+
+Survival
+
+

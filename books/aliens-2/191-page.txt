@@ -1,0 +1,109 @@
+days. The Leader can apply DM+2 on any two checks
+within that time and an additional DM+3, all at once or
+in parts, to any checks including one already benefiting
+from a positive coyn DM.
+
+Black Skills
+
+Black Skills include Carouse, Deception, Gambler,
+Persuade and Streetwise. All are connected with deceit
+or activity alien to the Oytrip-oriented lifestyle of the
+Droyne, such that learning these skills or engaging in
+these activities somehow diminishes the Droyne doing so.
+A Droyne with any levels in Black Skills suffers a negative
+DM equal to their highest Black Skill level on checks for
+advancement in their career and continuation.
+
+CREATING A DROYNE
+
+TRAVELLER
+
+Creating a Droyne Traveller is generally similar to other
+races but there are some significant differences. Droyne
+mature very suddenly as a result of casting and undergo
+significant changes. There is no formal rank and no
+equivalent to SOC; a Droyne’s position is rather more
+loosely defined. Within each caste there are rough levels
+of ‘value’ – how highly valued a given Droyne is by their
+Oytrip – but this is not a hard-and fast structure, and in
+any case a member of the Leader caste can command
+members of any other caste no matter what their relative
+value may be. This value is largely determined by the
+Droyne’s Caste skill.
+
+Characteristics
+
+At the beginning of Traveller creation, an immature
+Droyne’s six characteristics are determined. The first five
+(STR, DEX, END, INT, EDU) are rolled on 1D+1 rather
+than the usual 2D. These will be later modified when
+caste is determined. The sixth (PSI) is rolled on 2D as
+it does not depend upon caste. Droyne do not have SOC
+at all.
+
+Droyne Traits
+
+All casted Droyne gain the following Traits.
+Close Combat Aversion: Droyne dislike close combat,
+possibly due to their light bone structure which makes
+blows more damaging. Melee is not quite a Black Skill
+but few Droyne learn to fight without weapons or other
+mechanical aids. A Droyne struck with a weapon that
+relies on impact, such as a baseball bat or club, suffers
+an additional point of damage per 1D rolled. In addition,
+all Droyne suffer DM-2 when fighting unarmed as their
+natural reaction is to flinch away rather than taking
+decisive action.
+
+Droyne Claws: All Droyne have a sharp claw on their
+hands and feet, which can be used in combat if
+necessary. This is a last resort; Droyne dislike close
+combat and will avoid it if at all possible. Claws do
+1D+2 damage if employed as a weapon and use the
+Melee (natural) skill. They are more commonly used as
+a tool or an aid in gripping some surfaces. A Droyne that
+can dig their claws in gains DM+1 when trying to remain
+anchored or to keep hold of something.
+Wings: All Droyne have wings, although some are
+vestigial. Newly casted Droyne must determine wing size
+by rolling 1D. Wings are vestigial on a 1D roll of 1–3,
+small on 4–5 and large on 6. Droyne who have small or
+large wings automatically gain Flight 0.
+
+Careers
+
+A Droyne’s career begins at age 12 with the casting
+ceremony. It is not possible to create an uncasted
+Droyne as a Traveller, since they possess little more
+than animal intelligence. Chirpers and uncasted Droyne
+would normally be treated as animals, although enclaves
+may exist which are smarter and have their own career
+paths. Caste may be chosen for Travellers, or randomly
+determined by rolling 1D.
+1: Worker
+2: Warrior
+3: Drone
+4: Technician
+5: Sport
+6: Leader
+The score rolled is also the ‘caste number’ and may be
+relevant later in Traveller creation.
+Once caste is determined, the young Droyne will develop
+quickly into the adult form of their caste. All casted
+Droyne immediately gain +1 to STR, DEX, END, INT and
+EDU. Effectively, this is the same as rolling 1D+2 for
+those characteristics but the timing of this increase may
+be significant in some cases.
+The following modifiers are then applied to the
+characteristics of the Droyne at the beginning of their
+first term.
+Worker: STR +2, END +4
+Warrior: STR +3, DEX +1, END +2
+Drone: DEX +1, INT +3, EDU +2
+Technician: DEX +2, INT +3, EDU +1
+Sport: DEX +1, END +1, INT +2, EDU +2
+Leader: INT +4, EDU +2
+
+191
+
+

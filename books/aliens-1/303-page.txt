@@ -1,0 +1,54 @@
+800
+HULL POINTS
+
+CREW
+CAPTAIN, PILOTS X 3, ASTROGATOR, MEDIC,
+ENGINEERS X 12, MAINTENANCE X 2,
+STEWARDS X 2, GUNNERS X 20
+
+Supreme council members and their agents
+on Consular business use these fast, highly
+advanced ships. Interior fittings are notably
+luxurious, but they are unusual as they
+carry a second starship internally – a 200
+ton Yetsasl courier, used for side-trips or
+ensuring the safety of the Consul on board
+should the corvette come under attack.
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr86093/month
+
+PURCHASE COST
+MCr1033.112
+
+Power Requirements
+800
+
+400
+
+800
+
+2
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+JUMP DRIVE
+
+SENSORS
+
+16
+
+100
+
+FUEL PROCESSOR
+
+WEAPONS
+
+303
+
+

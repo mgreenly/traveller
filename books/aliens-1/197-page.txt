@@ -1,0 +1,87 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured. Roll on the Injury table.
+
+2
+
+A war or local hostilities block trade routes, putting you out of business. Roll END 8+. If you fail, roll on the
+Injury table.
+
+3
+
+You, or a member of your business pack, were involved in illegal activities. Your business is closed and you lose
+CHA –1.
+
+4
+
+A rival company puts you out of business. You keep your Benefit roll for this term but gain the merchant as a Rival.
+
+5
+
+One of your employees attempts to take leadership of the pack. Roll CHA 8+. If you fail, you lose your business
+and gain an Enemy. If you succeed, you may continue in this career and gain a Rival.
+
+6
+
+The economic climate hits you hard forcing you into bankruptcy. Your business fails and you lose all Benefit
+rolls for this term.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career.
+
+3
+
+You are approached by someone to buy or smuggle illegal goods for them. If you accept, roll Deception 8+ to gain
+a Benefit roll with DM+1. If you fail, you are arrested and lose CHA –1. If you refuse the deal, you gain an Enemy.
+
+4
+
+You find a bargain. Gain DM+1 to any Benefit roll for this career.
+
+5
+
+You enrol on a training course to further your knowledge. Roll EDU 8+ to gain any skill.
+
+6
+
+Your business is suspected of illegal activities but your own efforts prove your innocence. Gain one of Advocate,
+Admin, Diplomacy, Investigate or Persuade.
+
+7
+
+Life Event. Roll on the Vargr Life Events table (page 204)
+
+8
+
+You negotiate a lucrative business deal. Gain one Benefit roll.
+
+9
+
+You do a lot of business with one company, preventing them from going out of business. Gain an Ally.
+
+10
+
+You establish a network of business contacts. Gain a number of Contacts equal to your CHA modifier (minimum
+of 1).
+
+11
+
+You do business with an influential corporation or organisation. Gain CHA +1 and DM+2 to your next
+Advancement roll.
+
+12
+
+Your business thrives. You are automatically promoted and Gain CHA +1.
+
+

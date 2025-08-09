@@ -1,0 +1,42 @@
+9
+5
+2
+
+1
+
+8
+
+DECK 4
+
+7
+LEGEND
+1. Shrine
+2. Air/raft
+3. Cargo hold
+4. Docking space
+5. Bridge
+6. Low berth
+7. Missile storage
+8. Double turret
+(missile rack,
+sandcasters)
+9. Double turret
+(beam lasers)
+10. Staterooms
+
+10
+DECK 3
+
+3
+DECK 2
+
+6
+
+4
+9
+
+DECK 1
+
+103
+
+

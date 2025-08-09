@@ -1,0 +1,52 @@
+Pack Events
+
+These events affect the Traveller’s pack and
+their position.
+1D
+Event
+1
+Failure: Your failure causes a serious problem for your pack such as the loss of a well-paid job or the death
+of a pack member. Lose CHA –1. If you are the leader, your pack will look to new leadership until you can
+redeem yourself.
+2
+Leave Pack: A change of situation, disagreement or lack of leadership forces you to leave your pack and
+your job. Roll CHA 6+ to find another job in your current field or you are ejected from your career.
+3
+Join Pack: You join a new pack. This can be a change of job or employer within your career or you become
+involved with another group such as a religion or recreational group.
+4
+Power Struggle: The leader of your pack does not live up to the reputation their charisma suggested and
+you look to other members to replace them. Roll 1D. On a roll of 1–3 the current leader keeps their
+position; gain a Rival. On a roll of 4–6 a new leader takes charge of the pack; gain an Ally.
+5
+Success: You are successful at a particularly difficult task and exceed all expectations. Gain CHA +1.
+6
+Leadership Challenge: The leader of your pack fails in their role and the pack looks for a new leader. Roll
+Leadership or CHA 10+ to become the pack’s new leader. If you fail, another member is chosen and you
+gain a Rival.
+
+MUSTERING OUT
+
+Benefits are granted at the end of career service, as
+detailed on page 45 of the Traveller Core Rulebook.
+Vargr have access to two new mustering out benefits.
+Corsair: You receive a Ruguelka corsair with 25% of
+the mortgage paid off on it. This corsair is identical to
+the one on page 236 but you must roll 1D times on the
+Outdated Ships Table on page 164 of the Traveller Core
+Rulebook. If you roll this benefit again, an additional
+25% of the mortgage has been paid off – if you roll this
+benefit four times, the corsair will have no mortgage
+and it will be all yours!
+Trader: You receive a Koerae trader with 25% of the
+mortgage paid off on it. This trader is identical to the
+one on page 228 but you must roll 1D times on the
+Outdated Ships Table on page 164 of the Traveller Core
+Rulebook. If you roll this benefit again, an additional
+25% of the mortgage has been paid off – if you roll this
+benefit four times, the trader will have no mortgage
+and it will be all yours!
+
+205
+
+

@@ -1,0 +1,92 @@
+TEZCAT TRAVELLERS
+Tezcat Travellers follow the same procedures and
+concepts as human Travellers, as detailed in the
+Traveller Core Rulebook.
+
+TEZCAT
+
+Tezcat Travellers have the following modifiers to their
+characteristics: DEX +1, END -1.
+
+TEZCAT TRAITS
+
+Tezcat Travellers all possess the following traits:
+Chameleon: Tezcat skin can mimic the colours
+of their surroundings, providing a natural form of
+camouflage and allowing them to blend in with their
+environment. This ability is instinctive and operates
+automatically while the Tezcat is conscious. Tezcat
+gain DM+2 to all Stealth checks. As Tezcat also use
+their ability to shift colour as an unconscious form
+of body language, they find lying to each other very
+difficult. Tezcat attempting to lie to another Tezcat
+receive DM-2 to their Deception check.
+Fast Metabolism: Tezcat have a heightened
+metabolism and very fast reactions. They gain DM+1
+to all Initiative rolls.
+Heightened Senses: Tezcat eyes are adapted to low
+lighting but sensitive to bright light. They gain DM+1
+to all checks requiring sight in low-light, although not
+in total darkness. They receive DM-1 to all checks
+requiring sight when in light equivalent to a Terran
+sunny day unless they are wearing eye protection.
+Tezcat also have more sensitive smell, hearing and
+taste to humans, granting them DM+1 to any Recon or
+Survival checks which use one of those senses.
+Manual Dexterity: Tezcat have very fine motor
+control in their hands and fingers, enabling them to
+perform the most delicate operations without artificial
+aid. All Tezcat gain DM+2 to any check which
+requires the use of fine manipulation.
+Natural Weapons: All Tezcat have very sharp teeth
+and claws, which make for nasty close combat
+weapons. Their claws do 1D+1 damage while their
+bite does 1D+2 damage. Furthermore, Tezcat possess
+
+224
+
+venom glands in their mouth and can deliver the venom
+through a bite. If the Tezcat’s bite penetrates armour,
+the victim must succeed at an Average (8+) END check
+or take an additional D3 damage with intervals of 1D
+minutes. Tezcat are immune to their own venom if
+ingested but not if they suffer a bite.
+
+TITLES
+Tezcat do not use noble titles. Their SOC characteristic
+represents the respect their position in society affords
+as well as an indication of their relative wealth.
+
+BACKGROUND SKILLS
+
+Tezcat Travellers gain 3+ EDU DM in background skills.
+They may choose the background skills available in the
+Traveller Core Rulebook, page 9. Tezcat must choose
+the Gun Combat 0, Melee 0 and Stealth 0 background
+skills first and can use the remaining number of
+background skills to choose the other available options.
+
+PRE-CAREER EDUCATION
+
+Tezcat Travellers may use the Pre-Career Education
+options from the Traveller Core Rulebook, page 16,
+choosing university or military academy.
+
+THE DRAFT
+Most Tezcat Travellers enter the draft as soon as
+they become adults, as once they leave public
+service they are eligible to vote and hence have an
+impact on society.
+
+CAREERS
+Tezcat can enter any career in the Traveller Core
+Rulebook except for Noble, as their democratic society
+does not acknowledge any group of people as being
+better or more important than another.
+Tezcat who wish to join the armed forces may
+choose an Army, Marine or Navy career, or choose
+the Soulhunter career detailed in this chapter. Those
+interested in religious study may choose to enter the
+Shaper priest career, also detailed in this chapter.
+
+

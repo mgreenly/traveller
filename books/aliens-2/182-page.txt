@@ -1,0 +1,68 @@
+A11/58231
+
+LEADER-ROD
+
+Some Droyne Leaders carry a short rod, or baton, apparently as
+a badge of office. These leader-rods are beautifully decorated
+with patterns that indicate the Leader’s status and career
+history and in some cases serve other purposes too. A leaderrod is conferred rather than bought; the price indicated is
+what such a device might bring on the collector market.
+Mid-tech leader-rods are likely to be no more than what they
+seem but higher-tech Oytrips build multiple functions into
+their Leaders’ batons. All are psionically triggered, with no
+external controls. The rod will usually have a communications
+device built in and a holographic projector that can be
+used to display maps or other information. There is also a
+laser capable of being used as a designator or a weapon. In
+designator mode the internal power cell is good for days of
+use without recharging but the rod can only deliver 20 shots
+with the laser before being depleted. A Leader who fires
+their weapon is probably in desperate trouble anyway; any
+situation where they need more than a couple of shots means
+all their Warriors are down and they are almost certainly
+doomed.
+
+Weapon
+Leader-Rod
+
+TL
+12
+
+Range
+25
+
+Damage
+3D
+
+DROYNE ARMOUR
+
+Droyne use similar body armour to other races,
+although tailored rather differently. Most armour
+includes armoured wing cases, which preclude the
+use of wings even if the Droyne is strong enough
+to fly in heavy armour. Droyne use their wings to
+assist in balance, so basic armour that covers and
+protects them causes problems with mobility. A
+Droyne using basic combat armour or any sort of
+rigid torso protection suffers DM-1 on all checks
+that require movement or balance. More expensive
+body armour either allows the wings to move freely
+or encases them in a powered covering that mimics
+their movements.
+
+182
+
+Kg
+1
+
+Cost
+Cr150000
+
+Magazine Power Pack Cost
+20
+—
+
+Traits
+Zero-G
+
+

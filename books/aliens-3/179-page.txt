@@ -1,0 +1,111 @@
+T
+
+Waldo: A waldo is a mechanical manipulation device
+used by Dolphins as substitute hands and arms. They
+are typically worn as a harness but can be built into a
+travel suit. They consist of two robotic arms with three
+fingers and a thumb, worn as a harness just forward
+of the dorsal fin. Waldos first appear at TL9 and are
+controlled physically by the dolphin’s rudimentary
+thumb and forefinger. They are clumsy and lack
+strength (DM-2 to all checks involving their use).
+At TL12, a surgically implanted neural control plug is
+used, reducing the penalty in their use to DM-1 and
+increasing STR+2. At TL15 waldos inflict no penalty in
+their use and STR is increased by +4.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Waldo
+
+9
+
+20
+
+Cr150000
+
+Waldo
+
+12
+
+10
+
+Cr250000
+
+Waldo
+
+15
+
+8
+
+Cr350000
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+UNDERWATER COMBAT
+
+Weapons work quite differently under water. The
+following adjustments should be noted when using
+any weapons in an aquatic or fluidic environment.
+Melee Weapons: Only stabbing and thrust
+weapons work underwater.
+Ranged Weapons: Firearms that use gunpowder
+or similar propellants do not work unless otherwise
+specified in the weapon’s description.
+Laser Weapons: These weapons have 10% of
+their normal range underwater. Blue/green lasers
+are an exception. They cost 120% of the listed
+price and have 50% normal range under water and
+normal range in atmosphere. All laser weapons
+generate a cloud of steam bubbles, which makes
+the user easier to detect, giving DM+4 to anybody
+trying to spot the weapon’s user.
+Gauss Weapons: Do not work underwater unless
+specified in their description.
+Non-laser Energy Weapons: Do not operate
+underwater. Plasma and fusion weapons explode
+at the barrel with the effect of a plasma grenade.
+Sonic Weapons: More effective underwater than
+they are in atmosphere. Sonic weapons gain +1
+damage per dice.
+
+CSC: Dolphins
+
+NEW WEAPON TRAIT: SONIC (-X)
+
+180
+
+Anyone hit by a Sonic weapon must make an
+END check with a DM equal to the Sonic score;
+if successful, the target is unaffected. However,
+if the target fails, for the next 1D rounds they will
+suffer a DM equal to the Effect of the END check
+to all actions.
+
+Dolphin Waldo
+
+Sonic weapons can only work in atmosphere
+or underwater. Races with acute hearing are
+particularly vulnerable to Sonic weapons – the
+effect lasts an additional two rounds for them.
+
+R
+
+

@@ -1,0 +1,116 @@
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+SKILL OR BENEFIT
+Outlaw
+—
+—
+Feared Outlaw
+—
+—
+Outlaw Chief
+
+SKILL OR BENEFIT
+—
+Melee (natural) 1
+—
+Independence 1 or Streetwise 1
+—
+—
+Leadership 1
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured. Roll twice on the Injury table and take the lower result.
+
+2
+
+You are captured and punished by the clan you stole from. Reduce your END -2, and gain a member of that
+clan as an Enemy.
+
+3
+
+A rival outlaw band attacks. Roll on the Injury table and lose any Benefit rolls from this term.
+
+4
+
+You are forced to flee off-planet. Gain Deception 1, Pilot 1, Independence 1 or Streetwise 1 as you flee.
+
+5
+
+A friend betrays you. One Ally or Contact becomes a Rival (if you have no Contacts or Allies, then you never saw
+the betrayal coming; gain a Rival anyway).
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+You barely survive on the fringes of Aslan space. Lose END –1, but gain any one skill.
+
+4
+
+One of your crimes pays off. Gain a Benefit roll.
+
+5
+
+A clan puts a price on your head. Gain an Enemy and Stealth, Streetwise, Gun Combat or Survival.
+Alternatively, you can try to claim the reward yourself. If you do so, roll Deception 8+. Succeed and gain 3
+Benefit rolls. Fail and you are recognised – lose END –2 and you are ejected from this career.
+
+6
+
+You acquire a contact in the criminal sphere. Gain a Contact.
+
+7
+
+Life Event. Roll on the Aslan Life Events table.
+
+8
+
+You pick up some useful skills. Gain Electronics, Independence, Stealth or Gun Combat.
+
+9
+
+You attempt an audacious raid on a rival. Roll either Pilot, Stealth or Gun Combat 8+. Fail and you must roll on
+the Injury table. Succeed and you gain an extra Benefit roll or SOC +1.
+
+10
+
+You are offered employment by a clan to perform some deed that they want accomplished covertly. If you
+accept, roll Stealth 8+. Fail and you gain nothing. Succeed and you gain an extra Benefit roll. Alternatively, you
+can inform the clan’s enemies; gain a Benefit roll but also gain the clan as an Enemy.
+
+11
+
+If male, you have the opportunity to reclaim your standing in society. Gain TER +1 and restore your SOC but
+you must leave this career after this term. If female and unmarried, then you may marry a male of good family.
+If you accept, reroll your SOC and you leave this career after this term.
+
+12
+
+Your deeds are the stuff of legends and nightmares. You are automatically promoted.
+
+

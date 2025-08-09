@@ -1,0 +1,241 @@
+ADRAT SCOUT
+These scouts are the most common starship found
+within ADRAT, their main mission to search for lost
+advanced technology. Each ship has a fully equipped
+laboratory large enough for two researchers and the
+computer is programmed to assist in research. A
+detachable base module allows crew to establish a
+
+temporary research facility on the surface of a planet,
+freeing the scout for other duties and the vault is a
+security measure used to protect valuable finds. The
+scout has a nominal crew of three but has enough
+staterooms for a scientist and can accommodate a
+total of eight individuals if double bunking.
+
+TL15
+
+TONS COST (MCr)
+
+Crew
+Pilot, Astrogator,
+Engineer
+
+Hull
+
+200 tons, Standard
+
+—
+
+10
+
+Armour
+
+Bonded Superdense, Armour: 4
+
+6.4
+
+3.2
+
+M-Drive
+
+Thrust 2
+
+4
+
+8
+
+J-Drive
+
+Jump-2
+
+15
+
+22.5
+
+Power Plant
+
+Fusion (TL15), Power 140
+
+7
+
+14
+
+Fuel Tanks
+
+J-2, 16 weeks operation
+
+44
+
+—
+
+10
+
+1
+
+Computer/35bis/fib
+
+—
+
+60
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Double Turrets x2
+
+2
+
+1
+
+Systems
+
+Base Module
+
+20
+
+3
+
+Docking Space (8 tons)
+
+9
+
+2.25
+
+Power Requirements
+
+Air/rafts x2
+
+—
+
+0.5
+
+Basic Ship Systems
+
+Fuel Processor (40 tons/day)
+
+2
+
+0.1
+
+40
+
+Fuel Scoops
+
+—
+
+1
+
+Manoeuvre Drive
+
+Laboratory
+
+8
+
+2
+
+40
+
+Vault
+
+12
+
+6
+
+Jump Drive
+
+Workshop
+
+6
+
+0.9
+
+40
+
+Standard x4
+
+16
+
+2
+
+Sensors
+
+Common Area
+
+4
+
+0.4
+
+4
+
+Library
+
+—
+
+—
+
+Fuel Processor
+
+Manoeuvre
+
+—
+
+—
+
+2
+
+Jump Control/2
+
+—
+
+0.2
+
+Research Assistant/3
+
+—
+
+5
+
+Science (general)
+
+—
+
+25
+
+Intellect
+
+—
+
+—
+
+31.6
+
+—
+
+Bridge
+Computer
+
+Staterooms
+Software
+
+Cargo
+
+Hull: 80
+Running Costs
+MAINTENANCE COST
+Cr12926.25/month
+PURCHASE COST
+MCr155.115
+
+Adrat Scout
+
+142
+
+

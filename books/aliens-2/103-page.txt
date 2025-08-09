@@ -1,0 +1,47 @@
+2
+1
+
+5
+
+DECK 1
+
+8
+
+7
+
+6
+
+4
+
+3
+
+LEGEND
+1. Bridge
+2. Sensors
+3. Power plant
+4. M-drive
+5. Acceleration seats
+6. Cabin Space
+7. Firmpoint grapple
+8. Airlock
+
+The UB-25 is built on a flattened cylinder design, conventionally laid out with drives and power
+plant aft and the cockpit forward. The space in between is normally split between cargo and
+passenger spaces, with an emphasis on passengers. Typically, larger craft carry cargo to orbit
+whilst the small boats move a few incidentals along with anyone travelling between downport and
+highport. Boats that have cargo moving in and out on a constant basis tend to be more dinged
+and generally worn-looking than light-traffic craft, so segregating cargo and personnel movements
+allows the passenger transports to be more easily maintained in presentable condition. However,
+smaller installations cannot be so choosy.
+The Port Authority variant has the same general capabilities as most others. It is relatively quick
+and has an excess of power. This permits additional systems to be added in the cargo space,
+creating sub-variants within the type. Twelve passengers can be accommodated in reasonable
+comfort, although seats are often removed on ‘working’ boats to make room for tools, rescue
+equipment or whatever else the craft is required to carry. A torpedo grapple is often fitted,
+although weapons are not usually shipped during routine operations. At need, however, a utility
+boat can serve as a security vessel or a group of them might make a last-ditch attempt to stop an
+attack on the port.
+
+103
+
+

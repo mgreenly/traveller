@@ -1,0 +1,70 @@
+A11/58231
+
+FIGHTING-ARMOUR
+
+Fighting-armour is the Droyne equivalent of combat
+armour but incorporates a mechanism for mimicking
+the movement of wings. It thus does not impose a
+penalty on checks requiring balance. In addition,
+a Droyne equipped with fighting-armour can unfurl
+their wings to slow a descent. It is not possible to fly
+wearing this armour without additional thrust but a
+gliding airborne assault can be made from a starship or
+suitably high position.
+The armour itself is very similar to standard combat
+armour. It has a flexible base layer with rigid armour plates
+over it, life support and cooling systems, and tactical
+displays. Power cells are good for 24 hours of operation.
+This is longer than most races could stand being encased
+in armour but if the suit is donned with the right ceremony
+a Warrior’s mental resilience is boosted sufficiently to
+make long-duration operations tolerable.
+Standard fighting-armour can be augmented with one
+or both of two accessories. The first is a short-duration
+thrust pack. This is a cheap chemical-based device
+held in a canister with a protector plate to prevent the
+exhaust gases from burning the user. It gives a total
+of one minute of thrust sufficient to allow a running
+take-off from level ground. There is no throttle; the
+canister burns a packet of chemicals and delivers one
+round of full thrust each time it is activated. Level flight
+requires one burn every other round; a glide from greater
+altitude requires one burn every three rounds. Once fuel
+is expended the Droyne can make a controlled fall but
+cannot maintain a glide for more than a few seconds. A
+thrust pack costs Cr100 and is likely to be available in
+large numbers.
+The second accessory is essentially the innards of a grav
+belt, mounted into receptacles on the armour. The unit
+costs Cr60000 and cannot be used without the armour.
+When in place the belt allows up to four hours of flight
+before it needs recharging. These are not standard issue
+for most Droyne Warriors but when they are used it is
+typical to use the grav unit to get into position close to a
+target then shut it off and glide/fall onto the enemy. This
+reduces electromagnetic signature and increases speed.
+
+Armour Type
+Fighting-Armour
+
+Protection
++15
+
+TL
+12
+
+Rad
+130
+
+Kg
+14
+
+Cost
+Cr92000
+
+Required Skill
+Vacc Suit 0
+
+183
+
+

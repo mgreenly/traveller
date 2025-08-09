@@ -1,0 +1,213 @@
+OWATARL-CLASS TENDER
+TL12
+
+TONS
+
+COST (MCR)
+
+Hull
+
+600 tons, Dispersed
+
+—
+
+15
+
+Armour
+
+Crystaliron, Armour 4
+
+30
+
+3
+
+M-Drive
+
+Thrust 1
+
+6
+
+12
+
+J-Drive
+
+Jump 2
+
+35
+
+52.5
+
+Power Plant
+
+Fusion (TL12), Power 255 17
+
+17
+
+Fuel Tanks
+
+J-2, 4 weeks of operation
+
+122
+
+—
+
+20
+
+3
+
+Bridge
+
+CREW
+CAPTAIN/PILOT, ASTROGATOR,
+PURSER/EXECUTIVE OFFICER, PILOT,
+ENGINEERS X 2, GUNNERS X 3
+
+RUNNING COSTS
+
+Computer
+
+Computer/10
+
+—
+
+0.16
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Triple Turrets (beam lasers 3
+x 2, sandcaster) x 3
+
+6.75
+
+Cr13752/month
+
+PURCHASE COST
+
+Ammunition
+
+Sandcaster Barrels x 20
+
+1
+
+0.025
+
+Systems
+
+Shrine
+
+4
+
+0.5
+
+Docking Space (95 tons)
+
+105
+
+26.25
+
+Shuttle
+
+—
+
+15.167
+
+Staterooms
+
+Standard x 10
+
+40
+
+5
+
+Software
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Fire Control/2
+
+—
+
+4
+
+Common
+Areas
+
+4
+
+0.4
+
+Cargo
+
+211
+
+—
+
+TOTAL: MCR 165.027
+
+MAINTENANCE COST
+MCr165.027
+
+Power Requirements
+60
+
+120
+
+27
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+WEAPONS
+
+120
+
+2
+
+JUMP DRIVE
+
+SENSORS
+
+The Owatarl-class are military tenders
+but also see use as corporate freighters in
+regions where normal cargo ships would be
+vulnerable to attack. Three turrets provide
+basic cover, although many Owatarls refit
+some of their cargo bay to carry auxiliary
+fighters. The tender is unable to land, so it
+carries a shuttle for cargo transfer. Tenders
+assigned to supply other ships may replace
+the shuttle bay with a suite of repair drones
+and smaller launches.
+
+216
+HULL POINTS
+90
+
+

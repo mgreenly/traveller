@@ -1,0 +1,161 @@
+Systems
+
+Staterooms
+
+Brig
+
+16
+
+1
+
+Briefing Room x10
+
+40
+
+5
+
+Repair Drones
+
+1,500
+
+300
+
+Fuel Processor (30,500 tons/day)
+
+1,525
+
+76.25
+
+Fuel Scoop
+
+—
+
+1
+
+Medical Bay x5
+
+20
+
+10
+
+Training Facilities (capacity 20)
+
+40
+
+8
+
+Workshop x50
+
+300
+
+45
+
+Standard x495
+
+1,980
+
+247.5
+
+Barracks (300 passengers)
+
+600
+
+15
+
+645
+
+64.5
+
+Mud Bath
+
+100
+
+12.5
+
+Advanced Fire Control/3
+
+—
+
+18
+
+Anti-Hijack/3
+
+—
+
+10
+
+Battle System/3
+
+—
+
+36
+
+Broad Spectrum EW
+
+—
+
+14
+
+Electronic Warfare/2
+
+—
+
+18
+
+Evade/3
+
+—
+
+3
+
+Jump Control/6
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Point Defence/2
+
+—
+
+12
+
+Screen Optimiser
+
+—
+
+5
+
+Intellect
+
+—
+
+—
+
+1056
+
+—
+
+Common Area
+Software
+
+Cargo
+
+Sasabease-wa-a
+Class Battleship
+
+290
+
+

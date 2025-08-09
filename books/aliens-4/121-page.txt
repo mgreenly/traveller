@@ -1,0 +1,168 @@
+NUDAONSK HEAVY TANK DRONE
+The Nudaonsk is the heaviest ground drone used by
+the Za’tachk military machine. Constructed to have the
+likeness of a huge Za’tachk, the tank is supported on
+four legs, making it surprisingly nimble for its size. Two
+heavy laser cannons slung across the drone’s back
+provide significant firepower, while two light laser guns
+on turrets can damage opposing infantry considerably.
+
+TL
+
+14
+
+SKILL
+
+Electronics (remote ops)
+
+AGILITY
+
++4
+
+SPEED (CRUISE)
+
+Medium (Slow)
+
+Traits
+
+AFV, ATV
+
+Equipment
+
+Actuation System, Autopilot
+(advanced), Camouflage
+(advanced), Communications
+System (advanced, encrypted,
+meson communicator, satellite
+uplink), Control Interface (advanced),
+Control System (advanced), Decoy
+Dispenser, Drone, Navigation
+(advanced), Sensors (advanced,
+hardening, increased range)
+
+Weapons
+
+Fixed Mounts (heavy laser cannon,
+front, linked) x2
+Large Turret (light laser cannon) x2
+
+RANGE (CRUISE) 450 (675)
+
+Equipment
+
+CREW
+
+—
+
+Autopilot (skill level)
+
++3
+
+PASSENGERS
+
+—
+
+Communications (range)
+
+1,000km
+
+CARGO
+
+0.5 tons
+
+Navigation (Navigation DM)
+
++4
+
+HULL
+
+450
+
+Sensors (Electronics (sensors) DM)
+
++5
+
+SHIPPING
+
+75
+
+Camouflage (Recon DM)
+
+-4
+
+COST
+
+MCr15.471
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+ARMOUR
+FRONT 120
+
+Range
+
+120
+
+SIDES
+
+120
+
+Damage
+
+Magazine
+
+Magazine Cost Traits
+
+Fire Control
+
+Heavy Laser Cannon 25
+
+2DD+2
+
+—
+
+—
+
+AP 20
+
++4
+
+Laser Cannon
+
+2
+
+8D
+
+—
+
+—
+
+AP 5
+
++4
+
+Laser Cannon
+
+2
+
+8D
+
+—
+
+—
+
+AP 5
+
++4
+
+CSC: Za’tachk
+
+Weapon
+
+REAR
+
+121
+
+

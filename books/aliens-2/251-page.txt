@@ -1,0 +1,104 @@
+Navigation Package: A navigation package includes radar
+and laser mapping tools and a holographic map display.
+This can be supplemented by data from small drones
+or devices carried by other personnel and also includes
+a basic mineral/chemical analysis unit. From this, a
+navigation package can extrapolate the likely presence
+of valuable materials or possible toxins and create a line
+of sight map of the surrounding topography within 200
+metres, as well as an estimate of underlying rock types.
+Over time it is possible to build up a basic estimate of
+local climate and weather, plus an idea of conditions in
+recent history. Hivers being what they are, this system
+is more commonly used to make sure the Hiver is safe
+than to conduct bold exploration of an untamed world.
+Electronics (Intrusion) Package: An intrusion package
+contains a set of passive and active electronic sensors,
+enabling the user to trace power cables or detect
+transmissions. The ostensible purpose of such devices
+is to aid in locating faults aboard a starship or in an
+advanced installation and enable communications to
+be established with any radio-frequency system. It is
+widely suspected – and correctly so – that an electronics
+package also contains a radio jammer and ‘bug
+stomper’, which will cause electronic listening devices
+to burn out or cease transmitting. It can be used to
+detect such devices without disabling them, if desired.
+The existence of an intrusion package is less widely
+suspected. This is a set of auto-hacking tools optimised
+to the protocols of standard commercial devices. It
+can automatically access any low-end commercial
+electronics system produced by the Hive Federation
+unless it has had after-market security alterations.
+This allows the Hiver to penetrate basic devices such
+as cheap personal communications or entertainment
+units. More secure systems such as standard electronic
+locks or more expensive communications equipment or
+those that have been modified to remove the backdoor
+protocols, can be penetrated if a Difficult (10+) check
+is made. The unit is treated as having a skill level of 0 if
+the Hiver lacks relevant skills.
+An intrusion package also allows an attempt to
+penetrate fully secured systems but in this case it is
+merely a facilitator for the Hiver’s own hacking skills.
+The intrusion system provides remote access but no
+more than that. It cannot automatically grant access to
+a secured starship’s bridge, for example, but it would
+allow the Hiver to try to bypass the locking system. The
+door to the purser’s office on a typical free trader, on
+the other hand, might be operated by a Hiver-supplied
+mechanism which has not been modified, allowing the
+user of an intrusion-equipped Voder to wander in and
+out at will.
+
+PERSONAL
+
+TRANSPORT
+
+Hiver vehicles are generally similar to those used by
+other races, only with mushroom-shaped stools for
+Hivers to use as well as more conventional seating. Most
+vehicles are set up either with Hiver controls or a system
+more suited to another race, as there is generally little
+room for both types of controls. However, function and
+cost tends to be about the same as in other cultures.
+Hivers do make extensive use of personal grav harnesses.
+This is the equivalent of a grav belt but built into a utility
+harness. The grav lifting unit masses eight kilograms at
+TL12, dropping to five kilograms at TL14, but is often
+left off unless expected to be necessary. Without the
+lifter the harness resembles a typical Hiver’s equipment
+harness at first glance but the additional straps and
+mounting points will usually be suffice to identify it on
+a closer look. When active, the harness functions like a
+standard grav belt. It costs Cr100000.
+
+FURNITURE
+
+Hivers can use beds made for humans and similar
+creatures, although they prefer a double bed. Any
+similar sized space with something soft to lie on will
+do; a Hiver will simply drop to the floor and curl its legs
+around it when it wants to sleep. By choice, Hivers use
+a sleeping mat that is circular with a slightly domed
+centre. Most do not seem particularly attached to their
+mat but some will take a mat from their home nest with
+them on distant travels.
+Hivers require different plumbing since they
+cannot use human toilets very easily but most other
+furnishings can be removed or ignored. Hivers do not
+use chairs and do not really need any sort of support –
+again, they just plonk themselves down on the ground
+when they want to rest. However, when dealing with
+humans, Ithklur and similar ‘far-too-tall’ races, Hivers
+like to use a ‘Hiver stool’.
+A Hiver stool is a mushroom-shaped support for the
+Hiver’s body, which allows it to keep its ‘head’ at the
+height of the tall races. This is supposedly for comfort
+but there are many who believe that it has more to do
+with the difficulty of manipulating someone who is
+looking down at you.
+
+251
+
+

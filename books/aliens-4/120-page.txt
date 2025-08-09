@@ -1,0 +1,158 @@
+T
+
+IDINPYX HEAVY AIRBORNE
+ATTACK DRONE
+The Idinpyx is an armoured drone used primarily to
+soften targets before heavy ground artillery and infantry
+arrives. Armed with missiles, the drone is also armed
+with a linked pair of gatling lasers which can be used
+to defend itself from other aerial opponents. Grav lifters
+allow the drone to operate regardless of atmosphere,
+and even into orbit if necessary. These drones are
+normally used in threes.
+
+TL
+
+14
+
+SKILL
+
+Electronics (remote ops)
+
+AGILITY
+
++3
+
+SPEED (CRUISE)
+
+Very Fast (fast)
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Traits
+
+—
+
+Equipment
+
+Actuator controls, Anti-Missile
+System (advanced laser), Autopilot
+(advanced), Communications
+System (advanced, encrypted,
+meson communicator, satellite
+uplink), Control Interface (advanced),
+Control System (advanced), Decoy
+Dispenser, Drone, Navigation System
+(advanced), Sensors (advanced,
+hardened, increased range)
+
+Weapons
+
+Fixed Mounts (gatling laser, front,
+linked) x2
+Hardpoints (4 Spaces) x2
+
+Equipment
+
+RANGE (CRUISE) 5,000 (7,500)
+
+Autopilot (skill level)
+
++3
+
+Communications (range)
+
+1,000km
+
+Navigation (Navigation DM)
+
++4
+
+CREW
+
+Sensors (Electronics (sensors) DM)
+
++2
+
+—
+
+PASSENGERS
+
+Camouflage (Recon DM)
+
++1
+
+—
+2.25 tons
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+CARGO
+HULL
+
+50
+
+SHIPPING
+
+12.5 tons
+
+COST
+
+MCr4.33
+
+Weapon
+
+Range
+
+Damage
+
+Magazine
+
+Magazine Cost Traits
+
+Gatling Laser
+
+4
+
+6D+6
+
+—
+
+—
+
+ARMOUR
+REAR
+
+15
+
+SIDES
+
+15
+
+CSC: Za’tachk
+
+FRONT 15
+
+120
+
+Fire Control
+
+AP 5, Auto 4 +4
+
+R
+
+

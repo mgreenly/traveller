@@ -1,0 +1,234 @@
+STEALTH FIGHTER
+
+CLASS: ASJROU
+its size or larger before being detected. While the
+Asjrou is highly effective, its high cost is prohibitive,
+so the Tezcat navy only uses them on priority
+missions which require a high chance of success.
+
+The Asjrou is an advanced design of the Kalahk,
+using a similar frame and load out but with greater
+reinforcement to the hull. The inclusion of an
+enhanced stealth suite has made this fighter highly
+successful, able to take out several other fighters
+
+TL12
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+35 tons, Streamlined
+
+—
+
+2.1
+
+Reinforced Hull
+
+—
+
+1.05
+
+Stealth (enhanced)
+
+—
+
+17.5
+
+Aerofins
+
+1.75
+
+0.175
+
+Armour
+
+Titanium Steel, Armour: 9
+
+15.75
+
+0.7875
+
+M-Drive
+
+Thrust 6
+
+2.1
+
+4.2
+
+Fusion (TL12), Power 45
+
+Cr4548/month
+
+Power Plant
+
+3
+
+3
+
+PURCHASE COST
+
+Fuel Tanks
+
+4 weeks operation
+
+1
+
+—
+
+Cockpit
+
+1.5
+
+MCr54.5725
+
+Bridge
+
+0.01
+
+Computer
+
+Computer/20fib
+
+—
+
+7.5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Fixed Mount (particle beam)
+
+—
+
+4.1
+
+Fixed Mount (missile rack)
+
+—
+
+0.85
+
+Ammunition Missile Storage (12 missiles)
+
+1
+
+—
+
+Systems
+
+Fuel Scoops
+
+—
+
+—
+
+Software
+
+Evade/1
+
+—
+
+1
+
+Fire Control/4
+
+—
+
+8
+
+Intellect
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+5.9
+
+—
+
+Hull
+
+Cargo
+
+Pilot
+
+Hull: 15
+Running Costs
+MAINTENANCE COST
+
+Power Requirements
+Basic Ship Systems
+7
+Manoeuvre Drive
+21
+Sensors
+4
+Weapons
+6
+
+Total: MCr54.5725
+
+6
+
+5
+
+1 square = 0.5 Ton
+
+4
+
+7
+
+3
+
+LEGEND
+
+8
+
+2
+
+1
+
+1.
+2.
+3.
+4.
+
+Manoeuvre Drive
+Power Plant
+Cockpit
+Sensors
+
+5. Fixed Mount
+Particle Beam
+6. Fixed Mount
+Missile Rack
+7. Missile Storage
+8. Cargo Hold
+
+237
+
+

@@ -1,0 +1,92 @@
+Gimzikgaa
+
+Kiikuuka
+
+The gimzikgaa is one of the rare examples of a
+radially symmetrical vertebrate on Loza’tch. An animal
+the approximate size of a Terran cow, the gimzikgaa
+have a bulbous body held up by four equally spaced
+legs. Four eyestalks are located between the legs
+with the mouth under the body. While relatively docile,
+gimzikgaa become quite territorial during the breeding
+season, with the matriarch sex using the ring of horns
+around the base of the body to compete with other
+matriarchs for the control of herds.
+There are wild and domesticated species of
+gimzikgaa. The wild genus can be found all across the
+twilight zone of Loza’tch. The domesticated variety
+has been bred for docility and has either no horns or
+small blunt ones. Domesticated gimzikgaa are used
+primarily for the milk-analogue they produce but some
+are bred as food animals. Their skin is frequently
+tanned and put to a variety of uses.
+Animal
+
+Hits
+
+Speed
+
+Gimzikgaa
+
+30
+
+6m
+
+Skills
+
+Recon 0, Survival 1
+
+Attacks
+
+Horns (1D+1), Trample (2D)
+
+Traits
+
+Heightened Senses, Large (+1)
+
+Behaviour
+
+Herbivore, Grazer
+
+Found in the hot deserts of the day zone, the kiikuuka
+is a small, rodent-like animal with thick plate-like
+growths over its body, which protect them from the
+harsh sun. They hop about on two large back legs,
+moving swiftly from one area of shade to another, using
+strong front paws and claws to dig burrows in the sand
+to sleep or raise young in. Kiikuuka are omnivores,
+consuming plants and insects but requiring little water,
+obtaining what they need from food.
+Animal
+
+Hits
+
+Speed
+
+Kiikuuka
+
+2
+
+6m
+
+Skills
+
+Athletics (dexterity) 2, Survival 2
+
+Attacks
+
+—
+
+Traits
+
+Armour (+1), Small (-4), Fast
+Metabolism (+2)
+
+Behaviour
+
+Herbivore, Gatherer
+
+The Za’tachk homeworld
+93
+
+

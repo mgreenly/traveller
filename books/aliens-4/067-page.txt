@@ -1,0 +1,196 @@
+BURDEN CONTAINER SHIP
+mounted on the ship. When unloaded, the burden is
+capable of Thrust 2 and jump-2. When fully loaded,
+its manoeuvre is reduced to Thrust 1 and jump-1.
+
+The Burden container ship is a common sight
+throughout the Suerrat Republic. The design is so
+popular it has been used as the basis of multiple
+classes of container ships throughout Charted
+Space. The burden is a middle-of-the-range vessel,
+able to carry up to 70 standard 30-ton modular
+cutter cargo containers for potentially 2,100 tons of
+cargo. The cargo modules are not accessible when
+
+TL12
+
+The vessel carries two modular cutters to assist in
+cargo handling. The captain and the first officer are
+normally afforded a stateroom each while the crew
+must double up, with the remaining staterooms
+used for passengers, again doubled up.
+
+Tons
+
+Cost (MCr)
+
+Hull
+
+1,240 tons, Close Structure
+
+—
+
+49.6
+
+M-Drive
+
+Thrust 2
+
+33.4
+
+66.8
+
+J-Drive
+
+Jump 2
+
+172
+
+258
+
+Power Plant
+
+Fusion (TL 12), Power 1,005
+
+67
+
+67
+
+Fuel Tanks
+
+J-2, 4 weeks operation
+
+341
+
+—
+
+40
+
+6.5
+
+Bridge
+
+Crew
+Pilots x3, Small Craft
+Pilots x2, Astrogator,
+Engineers x8,
+Administrator
+
+Hull: 496
+
+Computer
+
+Computer/5bis
+
+—
+
+0.5
+
+Running Costs
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+MAINTENANCE COST
+
+Craft
+
+Docking Space (100 tons)
+
+110
+
+27.5
+
+Cr44155/month
+
+Modular Cutters x2
+
+—
+
+21.474
+
+PURCHASE COST
+
+Docking Clamps (Type I) x70
+
+70
+
+35
+
+Fuel Processor (660 tons/day)
+
+33
+
+1.65
+
+Staterooms
+
+Standard x15
+
+60
+
+7.5
+
+Power Requirements
+
+Software
+
+Intellect
+
+—
+
+—
+
+Basic Ship Systems
+
+Jump Control/2
+
+—
+
+0.2
+
+248
+
+Library
+
+—
+
+—
+
+Manoeuvre Drive
+
+Manoeuvre
+
+—
+
+—
+
+334
+
+Systems
+
+312.6
+
+Cargo
+Total: MCr529.86
+
+MCr529.86
+
+Jump Drive
+248
+Sensors
+1
+Fuel Processor
+33
+
+Burden
+Container Ship
+
+67
+
+

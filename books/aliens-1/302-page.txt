@@ -1,0 +1,166 @@
+DAZHIA-CLASS COUNCIL CORVETTE
+TL13
+Hull
+Armour
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+Ammunition
+Systems
+
+Staterooms
+
+Software
+
+2,000 tons, Streamlined
+Crystaliron, Armour 4
+Thrust 4
+Jump 4
+Fusion (TL12), Power 2100
+J-4, 4 weeks of operation, plus Pinnace
+Computer/25
+Military Grade
+Triple Turrets (beam laser, missile rack,
+sandcaster) x 20
+Missile Storage (360 missiles)
+Sandcaster Barrel Storage (600 barrels)
+Fuel Processor (320 tons/day)
+Fuel Scoops
+Docking Space (200 tons)
+Yetsasl Courier
+Docking Space (4 tons)
+Air/raft
+Docking Space (40 tons)
+Pinnace
+Repair Drones
+Briefing Room
+Medical Bay
+Library
+Luxury x 2
+High x 6
+Standard x 39
+Low Berths x 34
+Manoeuvre/0
+Jump Control/4
+Library
+Auto-Repair/1
+Fire Control/1
+Evade/1
+
+Common Areas
+Cargo
+
+COST (MCR)
+
+—
+
+120
+24
+160
+307.5
+140
+
+100
+80
+205
+140
+815
+40
+—
+
+2
+20
+
+—
+
+10
+10
+4.1
+50
+
+30
+30
+16
+
+—
+
+—
+
+—
+
+220
+
+20
+4
+4
+4
+20
+36
+156
+17
+
+55
+80.4
+1.25
+0.25
+11
+8.712
+4
+0.5
+2
+4
+3
+4.8
+19.5
+1.7
+
+—
+
+—
+
+—
+
+0.4
+
+—
+
+—
+
+—
+
+5
+2
+1
+2.2
+
+—
+
+5
+—
+
+44
+—
+
+—
+—
+
+22
+10
+
+TOTAL: MCR 1033.112
+302
+
+TONS
+
+—
+
+0.8
+
+—
+
+

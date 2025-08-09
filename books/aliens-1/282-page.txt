@@ -1,0 +1,80 @@
+ROBOTS
+
+The Zhodani do not, as a rule, build humanoid or autonomous robots. The standard Zhodani mobile robot configuration
+is a legless torso containing computer, power plant and grav system. A number of arms, usually two, are attached,
+often with built-in tools or weapons. The robot is usually topped with a rotating head turret containing sensors and
+communication systems.
+A11/58231
+
+TRASHBOT
+
+This trashbot is commonly used by the Zhodani government
+and nobility. Wandering around a commercial or civic area, it
+continually picks up waste and stores it in a receptacle carried
+with it. When full, the robot dumps it at a local disposal
+location, then returns to trash patrol. The janitorial toolkit
+includes a collection of tools for sweeping, dusting, polishing
+and vacuuming, as well as static charge dissipaters and
+assorted mechanical cleaning aids. This toolkit also allows the
+robot to instantly shred most materials fed into it. This ability
+makes the robot ideal for information security applications and
+it can be found in many Zhodani government offices.
+
+ROBOT
+
+HITS
+SPEED
+TL
+COST
+16
+—
+11
+Cr8000
+SKILLS
+Profession (domestic cleaner) 2, Recon 2
+ATTACKS
+None
+TRAITS
+Armour (+1), Flyer (idle), Small (–1)
+PROGRAMMING Basic (cleaning)
+Trashbot
+
+A11/58231
+
+MAINTENANCE BOT (TL12)
+
+The maintenance bot has a cylindrical body with two arms
+each ending in complex tool-hands, and a small wedgeshaped head turret, and relies on its grav system for mobility.
+Manufactured by Chiadle, it is the most common generalpurpose repair and maintenance robot used in Zhodani space.
+It can be seen at starports and aboard merchant or naval
+vessels, often negating the need for a dedicated maintenance
+crewman. It comes in various versions, mostly differing in the
+kind of tool systems used.
+
+ROBOT
+Maintenance
+Bot
+
+HITS
+20
+
+SPEED
+–
+
+TL
+12
+
+SKILLS
+Mechanic 1, Recon 1
+ATTACKS
+None
+TRAITS
+Armour (+4), Flyer (very slow)
+PROGRAMMING Advanced
+
+282
+
+COST
+Cr16000
+
+

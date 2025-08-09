@@ -1,0 +1,222 @@
+SMALL FREIGHTER
+
+CLASS: NOAU
+
+The Noau-class is a common sight within the Hive
+Federation, carrying cargo along fixed trade routes.
+While streamlined and able to land on any planet,
+the freighter also carries two slow pinnaces outfitted
+purely as cargo-carrying small craft. The pinnaces
+can be used to deliver small cargo to downports
+while the freighter remains in orbit, or to transfer
+cargo from one vessel to another.
+
+Fitted with jump-3, the Noau is able to make a
+number of shorter jumps without refuelling, or make
+a longer jump across mains to star systems where
+less capable starships can't reach.
+The Noau is not intended to see much use beyond
+the borders of the Hive Federation but the standard
+fitting includes five empty turrets. Weapons can
+be installed in the turrets as necessary, turning the
+freighter into a serviceable military auxiliary for both
+the Gurvin Interstellar Democratic Republic and the
+Hive Federation navies.
+
+The staterooms are combined into two communal
+sleeping rooms with two staterooms set aside
+for maternity use. The freighter has no capacity
+to take on passengers and is intended solely to
+transport cargo.
+
+TL13
+
+Tons
+
+Cost (MCr)
+
+Crew
+Captain, Pilot,
+Astrogator, Engineers
+x11, Maintenance x3,
+Administrator
+
+Hull
+
+3,000 tons, Streamlined, Light
+
+—
+
+135
+
+M-Drive
+
+Thrust 2 (size reduction)
+
+54
+
+132
+
+J-Drive
+
+Jump 3 (size reduction)
+
+207
+
+379.5
+
+Power Plant
+
+Fusion (TL12, size reduction),
+Power 2,160
+
+129.6
+
+158.4
+
+Fuel Tanks
+
+J-3, 4 weeks operation
+
+913
+
+—
+
+60
+
+15
+
+Running Costs
+
+Bridge
+
+Hull: 1,080
+
+Computer
+
+Computer/10bis
+
+—
+
+0.24
+
+MAINTENANCE COST
+
+Sensors
+
+Civilian
+
+1
+
+3
+
+Double Turrets x5
+
+5
+
+2.5
+
+Cr73183/month
+
+Weapons
+
+Docking Space (40 tons) x2
+
+88
+
+PURCHASE COST
+
+Craft
+
+22
+
+—
+
+13.26
+
+MCr878.2
+
+Slow Pinnaces x2
+Cargo Crane
+
+7.5
+
+7.5
+
+Fuel Scoops
+
+—
+
+—
+
+Fuel Processor (920 tons/day)
+
+46
+
+2.3
+
+Staterooms
+
+Standard x12
+
+48
+
+6
+
+Software
+
+Intellect
+
+—
+
+—
+
+Jump Control/3
+
+—
+
+0.3
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+Common Areas
+
+12
+
+1.2
+
+Cargo
+
+1,428.9 —
+
+Systems
+
+Total: MCr878.2
+
+Power Requirements
+Basic Ship Systems
+600
+Manoeuvre Drive
+600
+Jump Drive
+900
+Sensors
+1
+Fuel Processor
+46
+Weapons
+5
+
+176
+
+

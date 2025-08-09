@@ -1,0 +1,42 @@
+13
+
+7
+
+6
+
+13
+DECK 3
+
+1
+
+2
+
+1
+
+5
+
+To D e c k 1
+
+4
+11
+10
+
+12
+
+8
+
+9
+LEGEND
+6. Bridge
+7. Sensors
+8. Power plant
+9. M-drive
+10. J-Drive
+11. Low berths
+12. Cargo hold
+13. Double turrets
+14. Airlocks
+
+175
+
+

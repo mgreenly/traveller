@@ -1,0 +1,108 @@
+Events
+
+2D
+2
+3
+
+4
+
+6
+7
+
+Life Event. Roll on the Life Events table.
+
+8
+
+One of your works is especially well received and popular, making you a minor celebrity. Gain
+DM+1 to any one Benefit roll.
+You are a part of your homeworld’s celebrity circles. Gain one of Carouse 1, Persuade 1, Steward
+1 or a Contact.
+Long hours spent studying for a piece you want to create or perform broadens your mind. Gain
+either EDU +1 or one level of a Science skill.
+You go on a tour of the sector, visiting several worlds. Gain D3 Contacts.
+
+9
+10
+11
+
+Mishaps
+
+You uncover an embarrassing secret concerning a Rival. Either trade it for D3 extra Benefit rolls
+and convert your Rival into an Enemy or you may inform the Rival that their secret is safe and
+gain them as an Ally instead.
+You gain a patron in the arts. Gain DM+2 to your next advancement roll and a Contact.
+You are assigned a challenging task. Roll Art, Investigate or Persuade 8+. If you succeed, gain
+DM+2 to your next advancement roll. If you fail, you suffer DM-2 to your next advancement roll.
+You are given advanced training in a specialist field. Roll EDU 8+ to gain any skill.
+
+5
+
+12
+
+You are publicly acclaimed for your work by a high ranking Confederation official. You are
+automatically promoted.
+
+1D
+1
+
+MISHAP
+Injured. Roll on the Injury table.
+
+2
+
+You commit a grievous breach of protocol and are outcast. Lose SOC -1.
+
+3
+
+Your art becomes the centre of a scandal and you are forced to move to another world. Gain one
+of Diplomat 1, Flyer 1, Persuade 1 or Streetwise 1.
+You are betrayed by a peer. One of your Contacts or Allies betrays you, ending your career.
+That Contact or Ally becomes a Rival or Enemy. If you have no Contacts or Allies, then you are
+betrayed by someone you never saw coming and gain a Rival or Enemy.
+You are forced out because of censorship or controversy. What truth did you get too close to? You
+gain DM+2 to the qualification roll of your next career.
+You are embroiled in a rivalry with an official, who ends your career. Gain them as a Rival.
+
+4
+5
+6
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ARTIST/AUTHOR/PERFORMER
+Hobbyist
+Acolyte
+Initiate
+Sojourner
+Practitioner
+Master
+Grand Master
+
+SKILL OR BONUS
+—
+—
+Persuade 1
+—
+Diplomat 1
+—
+SOC +1
+
+2
+
+Darrian Travellers
+
+Ranks and bonuses
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected form this career.
+
+43
+
+

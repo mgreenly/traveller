@@ -1,0 +1,201 @@
+MERCANTILE EXPEDITION VESSEL
+
+TENENTSYO-TYPE
+
+TL12
+
+TONS COST (MCR)
+
+Hull
+
+700 tons, Auspicious of
+Communicating
+
+14
+
+175
+
+M-Drive
+
+Thrust 2 (energy efficient
+x2)
+
+14
+
+35
+
+Jump Drive
+
+Jump 2 (energy efficient)
+
+40
+
+66
+
+Power Plant
+
+Fusion (TL12), Power 360
+
+24
+
+24
+
+Fuel Tanks
+
+J-2, 8 weeks of operation
+
+144.8
+
+—
+
+Bridge
+
+Ship-Heart Chamber
+
+37
+
+7
+
+Computer
+
+Core/40
+
+—
+
+45
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Double Turrets (pulse
+lasers) x4
+
+4
+
+10
+
+Systems
+
+Repair Drones
+
+7
+
+1.4
+
+Medical Bays x2
+
+8
+
+4
+
+Pod-Clusters x4
+
+80
+
+20
+
+Ceremonial Space, Major
+(capacity 24)
+
+68
+
+136
+
+Low Berths x12
+
+6
+
+0.3
+
+40
+
+4
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Virtual Crew/0
+
+—
+
+1
+
+Library
+
+—
+
+—
+
+211
+
+—
+
+Accommodation
+
+Common Areas
+Software
+
+Cargo
+
+CREW
+CAPTAIN, PILOT, ASTROGATOR,
+ENGINEERS X3, GUNNERS X4
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr44417/month
+
+PURCHASE COST
+MCr533
+
+Power RequirEments
+70
+
+140
+
+4
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+SYSTEMS
+
+105
+
+2
+
+36
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 533
+
+280
+172
+
+HULL POINTS
+
+

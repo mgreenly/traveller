@@ -1,0 +1,176 @@
+T
+
+2
+
+R
+
+Entertainer
+
+Qualification: INT 5+
+DM-1 for every previous career
+
+ASSIGNMENTS
+
+Skills and training
+
+Choose one of the following:
+Artist: You practice a form of physical art that can be detected
+by the senses, crafting pleasurable objects to be contemplated.
+Audible art is generally music or songs. Olfactory art takes the form
+of incense, perfumes and so forth.
+Author: You write for a living, be it novels, journalistic columns or
+the creation of fine poetry.
+Performer: You are a professional entertainer who specialises in
+one or more talents such as dancing, playing music, comedy, acting
+and so on.
+
+Darrian Travellers
+
+2
+
+42
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+INT +1
+EDU +1
+
+5
+6
+
+Carouse
+Art
+
+1D
+1
+
+ARTIST
+Art (holography, instrument or
+visual media)
+Art (holography, instrument or
+visual media)
+Diplomat
+Persuade
+Science
+Broker
+
+2
+3
+4
+5
+6
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Career progress
+
+Upholders of ancient traditional Darrian entertainment.
+
+1D
+1
+2
+3
+4
+
+A
+
+Artist
+Author
+Performer
+
+SURVIVAL
+DEX 7+
+EDU 6+
+SOC 5+
+
+ADVANCEMENT
+EDU 5+
+INT 6+
+INT 7+
+
+Mustering out benefits
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+—
+Cr5000
+Cr10000
+Cr20000
+Cr30000
+Cr50000
+
+BENEFITS
+Contact
+EDU +1
+Ally
+INT +1
+Vehicle
+Passage to anywhere
+in the Confederation
+Cr100000 Passage to anywhere in
+a neighbouring subsector
+
+SERVICE SKILLS
+Art
+Carouse
+Persuade
+Science (archaeology,
+economics, history,
+linguistics, philosophy,
+psychology or sophontology)
+Steward
+Streetwise
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Art
+Electronics (computers)
+Diplomat
+
+AUTHOR
+Art (write)
+
+PERFORMER
+Art (performer)
+
+Art (write)
+
+Art (performer)
+
+Electronics (computers)
+Investigate
+Language
+Science (archaeology,
+economics, history,
+linguistics, philosophy,
+psychology or sophontology)
+
+Carouse
+Deception
+Persuade
+Streetwise
+
+Language
+Science (archaeology, economics,
+history, linguistics, philosophy,
+psychology or sophontology)
+
+R
+
+

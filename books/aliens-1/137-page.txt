@@ -1,0 +1,99 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured in an attack by enemies of your clan, you lose D3 points from among STR, DEX and END but do not
+leave the career.
+
+2
+
+Your leadership is called into question, almost inciting a revolt among your household. Make a Difficult (10+)
+Patriarchy check. If successful, lose 1 level of Patriarchy and dismiss one of your wives in disgrace. If you fail,
+reduce SOC by –1 and revert to servant-to-rankholder at the new rank. You do not leave the career unless you
+drop into the Merchant caste.
+
+3
+
+One of your wives is killed by enemies. Make an Average (8+) Patriarchy check. If successful, your bloody
+vengeance earns you respect and D3 Enemies. If you fail, you are humiliated by your failure and must reduce
+SOC by –1 and revert to servant-to-rankholder at the new rank. You do not leave the career unless you drop into
+the Merchant caste.
+
+4
+
+Your immediate superior suffers a huge setback. Roll 1D: 1–2 it was your fault and you are blamed. You are
+ejected from this career and cannot begin another. On a 3–4 it was not your fault but you were blamed anyway.
+Results are as 1–2 and you gain an Enemy too. On 5–6 it was not your fault and you won acclaim for the way
+you prevented the situation getting any worse. Gain an Ally from outside your clan.
+
+5
+
+You narrowly survive an accident or conflict that kills some of your family. 1D of your family members are slain
+and every third one is a wife. You face criticism for failing to protect your family and lose a number of SOC
+points equal to the number of wives slain. You do not leave the career unless you drop into the Merchant caste.
+
+6
+
+You were ejected from the herd. Gain 1 level of Outsider. You are no longer a K’kree; you are nothing. Survive as
+best you can, or die. Nobody cares either way.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+You lead your family well and with great honour. You are automatically promoted from servant-ot-rankholder to
+kin-of-rankholder, or from kin to rankholder. If you are already a rankholder, you gain SOC+1 and become kinto-rankholder at the new social level. Your success gains you D3 Rivals or one Enemy.
+
+4
+
+You have to deal with outsiders on behalf of your clan. Gain one level of Diplomacy or Leadership.
+
+5
+
+You are challenged to a contest of martial prowess by a rival. Make an Average (8+) Melee check. Success
+earns you an Ally who admires your skills and noble bearing.
+
+6
+
+You lead your people in conflict, even if this was not your normal role. Gain 1 level in Melee, Gun Combat or
+Tactics.
+
+7
+
+Life Event. Roll on the K’kree Life Events table on page 138.
+
+8
+
+Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K’kree ritual) and a Contact
+outside your herd.
+
+9
+
+Your clan journeys among the stars. Gain one level of Astrogation or Pilot.
+
+10
+
+You are charged with a complex and distasteful mission by your superior. Gain 1 level of Diplomat, Persuade or
+Streetwise.
+
+11
+
+You serve at the side of your superior during a difficult challenge and gain his favour. Gain one level of Carouse
+and your superior as an Ally.
+
+12
+
+A superior noble offers you one of his daughters in marriage. Gain an extra wife, SOC+1 and enter the new
+social level as kin-to-rankholder.
+
+

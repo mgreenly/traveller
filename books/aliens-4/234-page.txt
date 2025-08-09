@@ -1,0 +1,198 @@
+LIGHT FIGHTER
+
+CLASS: HRISSHTOU
+
+Small and fast, Hrisshtou fighters are used to
+harry other ships, drawing attention away from
+more capable ships and giving them the chance
+to inflict damage. Hrisshtou are always assigned
+
+TL12
+
+in groups and almost never encountered alone.
+Despite their fragile nature and light armament,
+a squadron of Hrisshtou can prove an effective
+force against the unwary.
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+9 tons, Streamlined
+
+—
+
+0.54
+
+Aerofins
+
+0.45
+
+0.045
+
+M-Drive
+
+Thrust 7 (increased size)
+
+0.7875
+
+9.45
+
+Power Plant
+
+Fusion (TL12), Power 30
+
+2
+
+2
+
+Running Costs
+
+Fuel Tanks
+
+4 weeks operation
+
+1
+
+—
+
+Cockpit
+
+1.5
+
+MAINTENANCE COST
+
+Bridge
+
+0.01
+
+Computer
+
+Computer/20fib
+
+—
+
+7.5
+
+PURCHASE COST
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Fixed Mount (particle beam)
+
+MCr31.945
+
+Weapons
+
+—
+
+4.1
+
+Systems
+
+Fuel Scoops
+
+—
+
+—
+
+Software
+
+Intellect
+
+—
+
+—
+
+Evade/2
+
+—
+
+2
+
+Fire Control/1
+
+—
+
+2
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+0.2625
+
+—
+
+Hull
+
+Cargo
+
+Pilot
+
+Hull: 3
+
+Cr2662/month
+
+Power Requirements
+Basic Ship Systems
+2
+Manoeuvre Drive
+7
+Sensors
+4
+
+Total: MCr31.945
+
+Weapons
+6
+
+1 square = 0.5 Ton
+
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Manoeuvre Drive
+Power Plant
+Cockpit
+Computer
+Sensors
+Fixed Mount Particle Beam
+Cargo Hold
+
+7
+3
+1
+
+5
+
+2
+4
+
+234
+
+6
+
+

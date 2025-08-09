@@ -1,0 +1,82 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+È
+
+I
+
+G
+
+H
+
+T
+
+E
+
+E
+
+N
+
+DROYNE PSIONICS
+Psionic powers are an integral part of Droyne society.
+All Droyne are assessed in their youth and training
+begins as soon as abilities manifest themselves. Even
+Droyne without useable abilities are trained to operate
+in a psionics-rich environment. They know what to
+expect from those using powers and how to cooperate
+effectively with them. Some Droyne devices include
+psionic controls or require attunement to the mind of
+the operator. Non-psionic Droyne can operate some
+of these items but most are assigned to those with
+relevant abilities.
+All Droyne have a PSI characteristic, rolled for during
+Traveller creation (see page 191). Droyne psionic
+training is handled similarly to that for other races but
+takes place after all characteristics have been rolled for,
+before the Traveller’s first term.
+Droyne have access to the usual talents and abilities
+available to psionic individuals, plus some additional
+capabilities. Most of these fall within the standard
+talents and can be used by any Droyne trained in that
+field if they have sufficient skill and psionic power.
+
+However, all modern Droyne and Chirpers can use the
+Invisibility, Homing and Link abilities, whether they
+possess psionic training or not.
+
+TELEPATHY
+
+Droyne can use all standard Telepathy abilities and in
+addition can control their Invisibility. Additional abilities
+are available to Droyne trained in Telepathy.
+
+Boost
+
+The Boost ability allows Droyne to amplify the effects
+of others by combining their powers. Any number of
+the Droyne’s PSI points above what is being used to
+activate the Boost ability can be made available to
+whomever they are Boosting. Multiple Droyne can
+Boost a single individual. The duration of a Boost is
+up to 10 minutes, although other Droyne can take over
+during or after this time.
+Check: Routine (6+) Telepathy (1D seconds, PSI)
+Reach: Short
+PSI Cost: 5
+
+165
+
+

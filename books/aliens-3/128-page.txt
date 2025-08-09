@@ -1,0 +1,88 @@
+Animal Care Robot: The animal care robot is
+programmed to feed and tend a variety of creatures,
+regardless of the environment they live in. It is often
+found in research labs, zoos and even agricultural
+installations. The animal care robot is able to assist
+in tracking and recovering any creatures that escape,
+using its heightened vision and snub pistol. The pistol
+uses tranquiliser darts and the robot’s programming
+allows it to estimate the size and metabolism of the
+target to automatically adjust the dosage required.
+
+Robot
+
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Animal Care
+Robot
+
+20
+
+4m
+
+12
+
+Cr90000
+
+Locomotion
+
+Tracks
+
+Skills
+
+Animals (handling) 2, Animals
+(veterinary) 2, Gun Combat (slug)
+2, Profession (animal technician) 1,
+Recon 1
+
+Attacks
+
+Snub Pistol (special, Zero-G)
+
+Some facilities will have several of these robots, which
+communicate with a central computer. The computer
+can give special instructions for the treatment of
+unusual animals and the robots can inform it of animal
+escapees or intruders.
+
+Manipulators
+
+1 X (STR 12 DEX 7), 1 X (STR 5
+DEX 9)
+
+Endurance
+
+108 hours
+
+Traits
+
+Armour (+4), ATV (idle), Heightened
+Senses, IR Vision
+
+Programming
+
+Advanced (INT 8)
+
+Options
+
+Auditory Sensor (broad spectrum),
+Drone Interface, Fire Control
+System (improved), Injector
+Needle, Light Intensifier Sensor
+(advanced), Recon Sensor (basic),
+Storage Compartment (hazardous
+material) x10, Transceiver 5
+km (improved), Voder Speaker,
+Weapon Mount (small), Wireless
+Data Link, spare slot x1
+
+CSC: Geonee
+129
+
+

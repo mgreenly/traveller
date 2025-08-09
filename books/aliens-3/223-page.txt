@@ -1,0 +1,160 @@
+C
+
+ENTRAL SUPPLY CATALOGUE: ORCA
+PERSONAL PROTECTION
+
+Due to their anatomy, Orca are unable to use many
+items designed for humans without penalty.
+Items which require hands or fingers cannot be used
+at all unless an Orca is equipped with waldos or
+cybernetic hands. Likewise, any equipment requiring
+legs or feet are impossible for Orca to use. An Orca
+may be able to use some equipment that requires
+fingers, like a keyboard, by holding a probe in its
+mouth or using its modified flippers, at the Referee’s
+discretion. This causes any check to go slower without
+decreasing the Difficulty (see page 60 of the Traveller
+Core Rulebook).
+In general, other equipment designed for humans
+may be found or modified for Orca use. Protective
+equipment such as vacc suits, combat armour,
+rebreathers and so on, must be specifically designed
+for an individual race and are not interchangeable
+between species. Such equipment for Orca will cost
+300% of the normal price.
+
+Orca use personal protection for a number or reasons,
+the most obvious being the ability to move and function
+safely out of water. Other types of protection in the
+Traveller Core Rulebook or Central Supply Catalogue
+are available to Orca but cost 300% the normal price.
+
+Travel Suit: Travel suits combine gravitic technology
+with a hostile environment suit and contains a superhumid atmosphere for the health and comfort of its
+Orca wearer. While very similar to Dolphin Travel Suits,
+those designed for Orca are more heavily armoured.
+The travel suit provides its wearer with complete
+protection from temperatures ranging from -1000C to
++1000C and pressures of up to 56 atmospheres. They
+include a fully enclosed helmet including a visor with a
+heads up display that is tied to an on-board computer/
+communications array equal to a Computer/2 with a 500
+kilometre audio/visual transceiver capability.
+
+Equipment designed specifically for Dolphins can also
+be modified for Orca. Such equipment will be 250% of
+the normal price.
+
+Travel suits can be fitted with a waldo for the
+manipulation of objects built for human hands. The
+cost and mass for such modification is simply added
+to that of the travel suit itself.
+
+Electronic equipment must be specially sealed against
+water when being handled by a submerged Orca to
+avoid detrimental effects but this is a standard feature
+of all electrical equipment at TL10+.
+
+At TL12, a travel suit has life support for 12 hours of
+use and weighs 150 kilograms when the grav units are
+inactive. The travel suit is able to take to the air at up to
+Medium speed and an Agility equal to the Orca’s DEX
+DM. It has a maximum range of 25 kilometres.
+By TL15, the suit provides life support for 48 hours
+and weighs 100 kilograms. The travel suit is able to
+take to the air at up to Medium speed and an Agility
+equal to the Orca’s DEX DM. It has a maximum range
+of 50 kilometres.
+
+ARMOUR TYPE
+
+PROTECTION
++10
++13
+
+Travel Suit
+
+ARMOUR TYPE
+
+RAD
+
+12
+15
+
+—
+—
+
+KG
+
+500
+300
+
+COST
+
+Cr350000
+Cr425000
+
+REQUIRED SKILL
+Vacc Suit 1
+Vacc Suit 0
+
+RAD STR DEX SLOTS KG COST
+
+REQUIRED SKILL
+
++22
+
+13
+
+255
+
++1
+
++4
+
+20
+
+800 Cr840000 Vacc Suit 2
+
+Type OH Battle Dress +35
+(heavy assault)
+
+14
+
+340
+
++3
+
++3
+
+20
+
+850 MCr1.2
+
++25
+
+15
+
+300
+
++2
+
++6
+
+20
+
+800 Cr900000 Vacc Suit 1
+
+Type O Battle Dress
+
+Type O Battle Dress
+
+224
+
+PROTECTION TL
+
+TL
+
+Vacc Suit 2
+
+

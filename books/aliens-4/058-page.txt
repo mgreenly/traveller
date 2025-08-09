@@ -1,0 +1,131 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+PETS
+Air Cleanser
+
+Suerrat designed several lifeforms for the express
+purpose of companionship and making life more
+comfortable. While often more expensive than similar
+artificial counterparts, Suerrat biological constructs
+have the additional benefit of not being affected by
+electromagnetic attacks or detected by electronic
+means. As living organisms, if they are not cared for
+adequately, they can sicken and die.
+
+CUSTOM ANIMAL COMPANION
+
+Living Carpet
+
+Most pets are based on small hunters but the process
+of designing them has reduced their instincts into little
+more than playful frolicking. A custom pet is completely
+unable to survive on its own in the wild.
+
+CSC: SueRrat
+
+LIVING CARPET
+
+58
+
+Cute and adorable custom pets come in a variety
+of styles with a guarantee from the manufacturer
+ensuring no two are alike. All the rage in wealthy and
+influential circles, it is not unusual to find one of these
+placid and adorable animals riding on the shoulder
+of a famous musical artist or curled up in the arms of
+a noble. Custom animal companions bond with their
+owner. They are always small and have no offensive
+capability, although many are designed to give an
+alarm if they feel they or their owner is threatened.
+These pets have an average lifespan of 10 years and
+are completely incapable of breeding. Even attempting
+to clone these animals will result in failure without
+the necessary amino acids which are understandably
+kept secret by the manufacturer. Custom animal
+companions become available at TL9.
+
+This moss-like organism is a living floor covering.
+It can photosynthesise under artificial lights, draws
+nutrients from the natural detritus produced by living
+creatures such as dead skin cells and absorbs
+moisture directly from the air. Living carpet is
+provided in squares measuring 1.5 metres by 1.5
+metres and never grows beyond this size. It comes
+in a large variety of colours and patterns, or may
+be bioluminescent based on the owner’s desires.
+Living carpet lives for approximately 25 years before
+needing to be replaced.
+At TL11, a living carpet can alter its colour based on
+predetermined conditions such as temperature and
+moisture or in response to a toxin in the atmosphere.
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Living Carpet
+
+9
+
+5kg
+
+Cr1000
+
+Custom pets can be designed with any number of traits
+a purchaser desires but the cost of such modifications
+increases the price of the animal considerably.
+
+Animal
+
+Hits
+
+Speed
+
+Cost
+
+Custom Animal
+Companion
+
+4
+
+6m
+
+Cr8000
+
+Skills
+
+Recon 1
+
+Attacks
+
+1
+
+Traits
+
+Alarm, Small (-3)
+
+Behaviour
+
+Carnivore, Hunter
+
+R
+
+

@@ -1,0 +1,157 @@
+TL12
+
+Cost (MCr)
+
+Fuel Processor (160,760 tons/day)
+
+8,038
+
+401.9
+
+Fuel Scoops
+
+—
+
+1
+
+Fuel Bladder
+
+762.88
+
+0.38
+
+Medical Bays x6
+
+24
+
+12
+
+UNREP System (200 tons/hour) x4
+
+40
+
+20
+
+Workshops x50
+
+300
+
+745
+
+150,000
+
+Shaper Shrine
+
+128
+
+12.8
+
+Sensors
+
+Staterooms
+
+Standard x790
+
+3,160
+
+395
+
+12
+
+Software
+
+Advanced Fire Control/2
+
+—
+
+15
+
+Anti-Hijack/2
+
+—
+
+8
+
+2,600
+
+Battle System/2
+
+—
+
+24
+
+Screens
+
+Electronic Warfare/1
+
+—
+
+15
+
+200
+
+Evade/2
+
+—
+
+2
+
+Intellect
+
+—
+
+—
+
+8,038
+
+Library
+
+—
+
+—
+
+Medical Bays
+
+Manoeuvre
+
+—
+
+—
+
+Common
+Areas
+
+300
+
+30
+
+Cargo
+
+117,839 —
+
+Systems
+
+Total: MCr145352.32
+
+Snavrarh-class
+Broodship
+
+260
+
+Power Requirements
+
+Tons
+
+Basic Ship Systems
+100,000
+Manoeuvre Drive
+50,000
+Jump Drive
+
+Weapons
+
+Fuel Processor
+
+6
+
+

@@ -1,0 +1,167 @@
+T
+
+MEDICAL
+The Geonoee have full access to all drugs and medical
+advances available within the Imperium. They have
+also made significant medical discoveries of their own.
+Focus Drug: Primarily used during interrogations or
+debriefs, focus drug sharpens the senses, allowing
+the user to notice even the smallest changes in facial
+expressions or body language, increasing the chance
+to detect lies. The drug is taken orally and provides
+DM+2 bonus to Perception checks. While under the
+effect of the drug, the imbiber’s pupils will dilate slightly.
+The benefits last approximately 10 minutes, after which
+the imbiber suffers DM-2 to Perception checks for
+one hour. Further doses of focus drag are ineffective
+if taken within this hour. The drag is normally only
+available to military or law enforcement but can be
+found on the black market, although the price will be
+significantly increased.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Focus Drug
+
+10
+
+—
+
+Cr800
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+effect wears off. The after effects of taking it is similar to
+a hangover and inflicts DM-1 to all checks for 1D hours.
+Multiple doses may be taken to extend the length of
+recall but each dose doubles the penalty time.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Recall Drug
+
+11
+
+—
+
+Cr500
+
+MELEE WEAPONS
+Moon Blade: Moon blades are semi-circular blades
+often used in pairs. The weapons have a traditional
+place among the Geonee and are part of the uniforms
+of both army and navy. The blades are not only used as
+weapons but also props in traditional military dances. It
+is forbidden for a woman to handle a moon blade.
+
+Minidoc: A compact version of an autodoc, the
+minidoc is a hard sleeve or cuff worn on the upper arm
+containing sensors that constantly scan the wearer and
+uses the readings to perform diagnostics and provide
+medication and medical care. The minidoc is paired
+with a reclining seat, view screen and store of medical
+supplies – the sleeve on its own is just a diagnostic
+unit. The screen provides up-to-date data on the patient
+as well as diagnoses. Unlike an autodoc, a minidoc
+cannot perform surgery but can give ongoing medical
+care. It is programmed with an expert system which
+emulates the Medic 3 skill.
+
+CSC: Geonee
+
+At TL14, the entire unit is more compact and consumes
+less space but is essentially the same model.
+
+134
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Minidoc
+
+13
+
+150
+
+Cr75000
+
+Minidoc
+
+14
+
+100
+
+Cr100000
+
+Recall Drug: Recall drugs are used to bring memories
+into sharp focus, allowing the imbiber to relive them
+anew and perhaps notice things that may have been
+missed when the event actually occurred. The drug is
+taken orally, normally in pill form and allows the imbiber
+to vividly remember a single event. The drug also
+provides DM+2 to Recon or Investigation checks the
+imbiber makes to see things they did not notice during
+the event. The drug only lasts for 10 minutes before the
+
+E
+
+Weapon
+
+TL
+
+Range
+
+Damage
+
+Moon Blade
+
+2
+
+Melee
+
+2D
+
+Weapon
+
+Kg
+
+Cost
+
+Traits
+
+Moon Blade
+
+1
+
+Cr300
+
+—
+
+R
+
+

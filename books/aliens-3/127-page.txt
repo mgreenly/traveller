@@ -1,0 +1,105 @@
+T
+
+ROBOTS
+Geonee are quite comfortable with the presence
+of robots and make significant use of them in their
+communities. Robots are usually assigned to tasks
+which Geonee find tedious or hazardous situations
+where a sophont risks injury or worse.
+Agrobot: The agrobot is a large, open-frame robot with
+little intelligence, yet it capably performs its duties –
+farming and tending the fruit and vegetables. Equipped
+with a heavy grav-module, the agrobot can travel
+anywhere on a world’s surface while carrying several
+hundred kilograms of supplies. A variety of peripheral
+devices enable it to plough, irrigate, plant, weed and
+harvest crops. An agrobot is able to clear an appropriate
+area and tend it by itself through the entire growing cycle.
+
+CSC: Geonee
+
+Radio can be used by a home base to relay instructions
+and other information to far ranging agrobots, normally
+with a central computer that coordinates the actions of
+any agrobot assigned to it. Unless ordered otherwise, an
+agrobot only returns to its home base to recharge, carry
+supplies to or from the field, or seek repairs.
+
+128
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Robot
+
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Agrobot
+
+72
+
+6m
+
+12
+
+Cr220000
+
+Locomotion
+
+Grav
+
+Skills
+
+Profession (farmer) 2
+
+Attacks
+
+None
+
+Manipulators
+
+2 X (STR 15 DEX 7), 4 X (STR 9
+DEX 7)
+
+Endurance
+
+72 hours
+
+Traits
+
+Armour (+5), Flyer(idle), Large (+3)
+
+Programming
+
+Basic (farmer) (INT 4)
+
+Options
+
+Agricultural Equipment (large),
+Auditory Sensor, Drone Interface,
+Storage Compartment (standard)
+x100, Quick Charger, Transceiver
+5000 km (enhanced), Visual
+Spectrum Sensor, Voder Speaker,
+Wireless Data Link
+
+R
+
+

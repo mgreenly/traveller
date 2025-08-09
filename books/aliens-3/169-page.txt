@@ -1,0 +1,180 @@
+T
+
+1
+
+R
+
+Dolphin Civilian
+
+Qualification: Liaison and Nomad, automatic. Historian-poet EDU 8+
+DM-1 for every previous career.
+
+ASSIGNMENTS
+
+Dolphin Travellers
+
+Mishaps
+
+Skills and training
+
+Choose one of the following:
+Liaison: You are acting as an intermediary between human and
+Dolphin cultures or as a guide to humans working underwater.
+Nomad: You are living the ‘barbarian’ life of an ancestral feral
+Dolphin, eschewing most technology and interaction with other races.
+Historian-poet: You are a keeper of Dolphin history and a
+student of Dolphin philosophy.
+
+170
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Career progress
+
+Uplifted Dolphins who engage in aquatic non-military careers.
+
+1
+
+A
+
+SURVIVAL
+Liaison
+INT 6+
+Nomad
+END 7+
+Historian-poet INT 7+
+
+ADVANCEMENT
+SOC 6+
+STR 7+
+EDU 8+
+
+Mustering out benefits
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+None
+Cr500
+Cr1000
+Cr1000
+Cr1500
+Cr2000
+Cr4000
+
+BENEFITS
+Contact
+Waldo
+Ally
+Walker Suit
+EDU +1
+SOC +1
+Travel Suit
+
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+DEX +1
+END +1
+INT +1
+STR +1
+EDU +2
+Survival
+
+SERVICE SKILLS
+Athletics
+Athletics
+Melee (natural)
+Melee (natural)
+Carouse
+Recon
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Advocate
+Art
+Vacc Suit
+Leadership
+Navigation
+Science (history)
+
+1D
+1
+2
+3
+4
+5
+6
+
+LIAISON
+Vacc Suit
+Vacc Suit
+Carouse
+Electronics
+Diplomat
+Persuade
+
+NOMAD
+Athletics
+Melee (natural)
+Leadership
+Recon
+Stealth
+Survival
+
+HISTORIAN-POET
+Science (history)
+Art
+Art
+Advocate
+Persuade
+Diplomat
+
+1D
+
+MISHAP
+Injured. Roll on the Injury table.
+
+1
+2
+3
+
+4
+5
+6
+
+One of your friends becomes involved with a revolutionary political faction advocating Dolphin
+rights. You are caught up in the investigation and lose your job.
+A war or insurgency erupts on your world. Roll Gun Combat or Melee 8+; if you succeed you are
+automatically drafted into the Dolphin Military in your next term. If you fail your business or home
+is destroyed, forcing you into exile.
+A purist political party comes to power on your world making trouble for uplifted Dolphins and
+costing you your job. Lose SOC -1 and gain a purist political militant as an Enemy.
+An accident leaves you caught on land without a travel suit. You suffer serious dehydration and
+require lengthy hospitalisation. Lose END -2.
+You are accidently trapped or shot by fishermen. Roll on the Injury table. In addition, roll SOC 8+
+or Advocate 8+; if successful you sue and instead of losing a Benefit roll you gain an extra roll on
+the Cash table as a settlement.
+
+R
+
+

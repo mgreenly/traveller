@@ -1,0 +1,19 @@
+10
+
+11
+
+DECK 6
+
+8
+
+9
+
+DECK 5
+8. Shrine
+9. Common area
+10. Bridge
+11. Sensors
+
+79
+
+

@@ -1,0 +1,225 @@
+BOARDING SKIFF
+
+CLASS: RASHKAAHT
+
+The Rashkaaht boarding skiff is intended to swiftly
+transport troops to enemy ships and board them,
+forcibly if necessary. It has enough armour to
+provide some protection for the maximum of 40
+
+troops it can transport. The Rashkaaht is capable
+of defending itself to a small degree with a single
+beam laser turret but is normally accompanied by
+several fighters for additional protection.
+
+TL12
+
+Tons
+
+Cost (MCr)
+
+50 tons, Standard
+
+—
+
+2.5
+
+Reinforced Hull
+
+—
+
+1.25
+
+Armour
+
+Titanium Steel, Armour: 4
+
+10
+
+0.5
+
+M-Drive
+
+Hull
+
+Crew
+Pilot, Gunner
+
+Hull: 22
+
+Thrust 6
+
+3
+
+6
+
+Power Plant Fusion (TL12), Power 51
+
+Running Costs
+
+3.4
+
+3.4
+
+MAINTENANCE COST
+
+Fuel Tanks
+
+1
+
+—
+0.5
+
+Cr2429/month
+
+3
+
+PURCHASE COST
+MCr29.15
+
+4 weeks operation
+
+Bridge
+Computer
+
+Computer/15fib
+
+—
+
+3
+
+Sensors
+
+Military
+
+2
+
+4.1
+
+Weapons
+
+Single Turret (beam laser)
+
+1
+
+0.7
+
+Systems
+
+Acceleration Seats x30
+
+15
+
+0.9
+
+Airlock
+
+2
+
+0.2
+
+Breaching Tube
+
+3
+
+3
+
+Software
+
+Force Linkage Apparatus (enhanced) 2
+
+0.1
+
+Evade/1
+
+—
+
+1
+
+Fire Control/1
+
+—
+
+2
+
+Intellect
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+4.6
+
+—
+
+Cargo
+
+Power Requirements
+Basic Ship Systems
+10
+Manoeuvre Drive
+30
+Sensors
+2
+Weapons
+4
+
+Total: MCr29.15
+
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+
+Manoeuvre Drive
+Power Plant
+Bridge
+Sensors
+Single Turret
+Acceleration Seats
+
+7. Airlock
+8. Breaching Tube
+9. Force Linkage
+Apparatus
+10. Cargo Hold
+
+2
+
+6
+
+5
+
+3
+
+1
+9
+
+8
+
+7
+
+10
+
+4
+
+1 square = 0.5 Ton
+
+238
+
+

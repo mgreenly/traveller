@@ -1,0 +1,305 @@
+Events
+
+2D
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Ranks and bonuses
+
+12
+
+RANK
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+On secondment to the Imperium, you fight a brutal space battle. Improve a skill of your choice
+by one level.
+You must discipline a disobedient officer. Roll Leadership or Melee 8+. If you succeed, gain them
+as an Ally. If you fail, lose SOC -1 and they become a Rival.
+You are stationed at a major naval base. Gain one level of Carouse, Gambling, Persuade or Streetwise.
+A senior officer takes an interest in your career. You are given advanced training in a specialist
+field. Roll EDU 8+ to increase any skill by one level.
+Life Event. Roll on the Life Event table.
+You join a gambling circle on board. Gain Gambler 1 or Deception 1. If you wish, roll Gambler 8+.
+If you succeed, gain one extra Benefit roll for this term. If you fail, lose one Benefit roll instead.
+Your vessel participates in a notable engagement against pirates. Gain one of Engineer 1, Gunner
+1, Pilot 1 or Electronics 1.
+Your vessel participates in a diplomatic mission. Gain one of Diplomacy 1, Recon 1, Steward 1
+or a Contact.
+Your service report is excellent and you are invited to sit at a secondary control board on the
+bridge. Gain either Tactics (naval) or DM+4 to your next advancement roll thanks to this aid.
+You display heroism in battle, saving the whole ship. You are automatically promoted or gain
+a commission.
+
+SKILL OR BONUS
+—
+
+RANK BRIDGE OFFICER
+Midshipman
+0
+
+SKILL OR BONUS
+Melee (blade) 1
+
+1
+
+Spacehand
+
+Mechanic 1
+
+1
+
+Lieutenant
+
+Leadership 1
+
+2
+
+Able Spacehand
+
+—
+
+2
+
+Commander
+
+—
+
+3
+
+Leading Spacehand Vacc Suit 1
+
+3
+
+Captain
+
+Tactics (naval) 1
+
+4
+
+Petty Officer
+
+—
+
+4
+
+Commodore
+
+—
+
+5
+
+Chief Petty Officer
+
+Leadership 1
+
+Admiral
+
+—
+
+6
+
+Warrant Officer
+
+5
+
+—
+
+6
+
+Director
+
+SOC +1
+
+RANK
+0
+
+ENGINEERING
+Crewman
+
+SKILL OR BONUS
+—
+
+RANK ENGINEERING OFFICER SKILL OR BONUS
+Midshipman
+Engineer 1
+0
+
+1
+
+Spacehand
+
+Mechanic 1
+
+1
+
+Sub-Lieutenant
+
+Admin 1
+
+2
+
+Able Spacehand
+
+—
+
+2
+
+Lieutenant
+
+—
+
+3
+
+Leading Spacehand Vacc Suit 1
+
+3
+
+Engineer
+
+Leadership 1
+
+4
+
+Petty Officer
+
+—
+
+4
+
+Chief Engineer
+
+—
+
+5
+
+Chief Petty Officer
+
+Leadership 1
+
+Fleet Engineer
+
+—
+
+6
+
+Warrant Officer
+
+5
+
+—
+
+6
+
+Director
+
+SOC +1
+
+RANK
+0
+
+MARINE
+Marine
+
+SKILL OR BONUS
+Melee (blade) 1
+
+RANK MARINE OFFICER
+Lieutenant
+0
+
+1
+
+Lance Corporal
+
+—
+
+1
+
+Captain
+
+—
+
+2
+
+Corporal
+
+Vacc Suit 1
+
+2
+
+Major
+
+Tactics (military)
+
+3
+
+Lance Sergeant
+
+—
+
+3
+
+Lieutenant Colonel
+
+—
+
+4
+
+Sergeant
+
+Leadership 1
+
+4
+
+Colonel
+
+Diplomacy 1
+
+5
+
+Colour Sergeant
+
+Tactics (military) 1
+
+5
+
+Brigadier
+
+—
+
+Sergeant Major
+
+—
+
+6
+
+Director
+
+SOC +1
+
+6
+
+SKILL OR BONUS
+Leadership 1
+
+7
+
+Darrian Travellers
+
+0
+
+BRIDGE
+Crewman
+
+53
+
+

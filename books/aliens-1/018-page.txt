@@ -1,0 +1,106 @@
+AKUAEUHREKHYEH
+
+(RITE OF PASSAGE)
+
+At the age of 15 (Aslan years), all Aslan Travellers
+undergo a rite of passage, the Akhuaeuhrekhyeh. This
+rite tests the individual’s fitness to enter society and has
+an impact on careers.
+
+Aslan careers, in general, are used in the same way
+as described in the Traveller Core Rulebook. However,
+there are exceptions, which are noted here.
+Note that some Aslan careers are restricted to a
+specific gender.
+
+The actual rite is a test that examines the Traveller’s
+abilities and qualities, and males and females undergo
+different rites.
+
+Ceremonial: The Aslan have a rich cultural heritage.
+Those involved in ceremonial tasks occupy a position of
+great importance within their clans.
+
+A male Aslan rolls 2D, which is compared to each of his
+characteristics apart from TER. A Rite of Passage score
+is created by adding +1 for each characteristic greater
+than the roll.
+
+Envoy (Males only): Interclan relations are often
+entrusted to specific Envoys empowered to arrive at
+agreements and commit clan resources. The term
+Envoy (rather than diplomat) is used because the
+individual represents a clan rather than a government.
+
+Example: Two male Aslan siblings, Hwelryr and Karinvyr
+both have the same characteristics: STR 10, DEX 7,
+END 8, INT 6, EDU 5, SOC 7. Hwelyr rolls a 6 for his
+rite of passage; Karinvyr rolls a 10.
+Hwelyr’s Rite of Passage number is +4 (+STR, +DEX,
++END, +SOC). Karinvyr’s Rite of Passage number is +0.
+A female Aslan rolls 2D which is compared to INT, EDU
+and SOC. A Rite of Passage score is created by adding
++2 for each characteristic greater than the throw.
+If doubles are rolled for the rite of passage, consult the
+Rite of Passage Events table.
+
+Rite of Passage Events
+Roll
+1+1
+
+2+2
+
+3+3
+4+4
+5+5
+6+6
+
+18
+
+CAREERS
+
+Event
+You are believed to have a great destiny, and
+the clan looks for great things from you. You
+must excel or disappoint your ancestors. He
+gains 1D Clan Shares.
+Impressive Performance. You are given Cr5000
+as a reward for your exemplary performance in
+the rite.
+You befriend one of the other young Aslan
+undergoing the rite that day. Gain a Contact.
+One of the other Aslan undergoing the rite tries
+to outdo you. Gain a Rival.
+You are wounded in one of the tests, leaving a
+distinctive scar across your fur.
+I Will Not Fail! Your rite tests you to the limit,
+but you are determined not to give in. Gain
+END +1.
+
+Management (Females only): Many female Aslan opt
+to enter a business-oriented career, rather than
+pursuing marriage and family. Such females may
+rise to positions of importance within the structure
+of various corporations. The career gives a variety
+of skills concerned with commerce, finance, and
+relations with others.
+Military and Military Officer: These careers are
+equivalent to both Army and Marine in the Traveller
+Core Rulebook. They represent clan military forces
+that may be employed in interclan warfare, on
+Hierate service, as mercenaries or as adjuncts to a
+corporation’s activities where the military force is
+needed for security or other purposes.
+Males in Military service are fighters or combatants;
+females are support personnel. Male Military Officers
+are commanders and leaders; females serve as staff
+and advisors.
+Outcast: Outcast Travellers, for one reason or another,
+do not fit within normal Aslan society. Generally
+scorned as misfits, they tend to pick up an unusual
+assortment of skills; frequently such Travellers will
+be more independent but also nurse a fierce desire to
+prove themselves and thus rejoin the society that has
+scorned them.
+
+

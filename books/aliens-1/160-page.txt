@@ -1,0 +1,121 @@
+BEARER-OF-FAMILIES ORBITAL SHUTTLE
+CREW
+
+TL9
+
+TONS COST (MCR)
+
+Hull
+
+—
+
+5
+
+1
+4
+
+2
+2
+
+2
+
+—
+
+—
+—
+0.5
+
+0.03
+—
+1.5
+
+3
+
+3
+
+12
+
+0.12
+
+48
+
+2.4
+
+0
+
+0
+
+31
+
+—
+
+SENSORS
+
+WEAPONS
+
+100 tons,
+Standard
+M-Drive
+Thrust 1
+Power
+Fusion (TL8),
+Plant
+Power 40
+Fuel Tanks 20 weeks of
+operation
+Computer Computer/5
+Sensors
+Basic
+Systems
+Basic Standard
+Operations
+Cargo Crane
+Software
+Library
+Staterooms K’kree
+Acceleration
+Bench x12
+Cabin
+Space
+Cargo
+
+NONE
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr1338/month
+
+PURCHASE COST
+MCr16.05
+
+Power Requirements
+10
+
+10
+
+0
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+SYSTEMS
+
+TOTAL: MCR 16.05
+Built on the same hull as the Bearer-ofCargoes, this shuttle is designed to carry
+up to 12 K’kree passengers over a short
+distance. It is very cramped by K’kree
+standards and most find it unpleasant to
+ride one. However, the Bearer-of-Families
+is cheap and reliable. It has artificial
+gravity for the comfort of the occupants but
+no provision for the control of the vessel
+from within.
+
+30
+HULL POINTS
+160
+
+

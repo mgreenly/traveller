@@ -1,0 +1,111 @@
+Fast or combat flight takes place at speeds of up to 30
+kilometres per hour, Speed Band Very Slow or around
+50 metres per combat round. This is halved in cluttered
+conditions such as a forest or the inside of a space
+station. Steady distance-covering flight averages around
+10 kilometres per hour or Speed Band Idle.
+
+Flight
+
+The Flight skill governs the use of Droyne wings to fly or
+control a fall and can be used in unusual situations with
+the Referee’s permission. For example, a Droyne might
+‘fly’ instead of using standard microgravity manoeuvres.
+This is tricky, and would require some high-difficulty
+Flight skill checks unless the Droyne has experience of
+this sort of thing, but it could be done.
+More commonly, Flight skill is used to carry out
+manoeuvres with precision or grace. Landing is
+Routine (6+) under most circumstances but making
+an emergency landing without coming to harm is more
+tricky. The check would be Average (8+) at least and
+possibly higher if the Droyne is struggling with adverse
+conditions. A Droyne whose END has dropped to zero
+whilst flying fast around a set of crags in a gusty wind
+will face a check of Difficult (10+) level or more,
+suffering 1D damage for every point of negative Effect.
+Flight skill also limits what the Droyne can do whilst
+flying. A flying Droyne can never receive a DM higher
+than their Flight skill level to carry out any physical
+task, including striking with a weapon. The best sniper
+in Charted Space will be impaired by their flapping
+wings, air currents and minor disturbances in relative
+motion path.
+
+OTHER DROYNE
+SKILLS
+
+In addition to Flight, Droyne have access to skills no
+other race uses. They are also highly unlikely to learn or
+use certain skills, known as termed Black Skills. These
+can be learned in unusual circumstances but a Droyne
+who knows them will always be on the fringe of the
+Oytrip’s society. They are still part of the community but
+are ‘not quite right’ in some way. It is as if their spirit is
+tainted by the knowledge they carry.
+
+Ancients Tech
+
+Most Droyne suffer from a superstitious terror of
+Ancients devices and sites, and will not go anywhere
+near them if they have the choice. Those designated
+to use, tend or simply preserve knowledge of Ancients
+
+188
+
+devices may not be any less afraid but are able to
+conquer fear through knowledge. The Ancients Tech
+skill is used when figuring out the function of a device
+or installation and more commonly to use a device that
+has been preserved since the time of the Ancients.
+
+Appeal
+
+The Appeal skill deals with what might be termed
+internal diplomacy in Droyne society. External
+interactions are governed by Diplomat as usual but
+Appeal is used when a Droyne wants a superior or the
+Droyne in charge of a different group – this might be a
+force of Warriors or an entire planetary Oytrip – to hear
+what they have to say. Appeal is also used by Sports
+acting as emissaries when conducting diplomacy with
+other Oytrips. Success ensures the Droyne has observed
+the correct formalities – if not they will not be heard at
+all – in addition to presenting the case well. A Drone
+with a good idea has no chance of persuading her
+Leader to implement it without using the Appeal skill
+successfully but might approach a Sport to act as a
+go-between. She would still need to make an Appeal
+check to get the Sport to listen but the difficulty would
+be much lower.
+
+Art (Droyne)
+
+Droyne art is not purely decorative. It conveys
+information and may even play a part in the correct
+function of an installation or device. A starship that
+is decorated properly will ‘feel’ better to its crew and
+might actually perform better. A basic level of skill in
+Art (Droyne) allows the creation of proper decoration for
+routine purposes. At skill level 2 the Droyne can create
+informative and ‘improving’ art, such as that which is
+felt to make a starship jump better. At skill level 4 the
+Droyne can create psionic trigger-art, which conveys
+detailed information by triggering the observer’s brain to
+essentially imagine what the artist wanted them to.
+
+Caste (caste)
+
+There are six caste-related skills – Warrior, Drone and
+so forth – which can only be received by members of
+that caste. This skill indicates how well the Droyne
+can perform the routine duties of their caste, including
+rituals and operation of devices. It is tied almost
+directly to rank within the caste. Droyne do not have a
+formal rank structure in the usual sense but each time
+a Droyne gains a level in their caste Profession skill they
+are likely to take on more responsibility. The Leader-ofLeaders with the highest Caste (leader) skill in an Oytrip
+is in overall charge, even if there is – for example – a
+Leader-of-Warriors with a higher Caste (leader) skill.
+
+

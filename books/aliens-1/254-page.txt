@@ -1,0 +1,104 @@
+The Draft
+The Psionic Games
+
+Any Intendant may apply once during their lifetime
+to compete in the Thequzdievl, the Psionic
+Games, by making a PSI check. If successful,
+the Intendant devotes that term of service to
+competition in the Psionic Games instead of a
+career. The term still counts as a term in the
+Traveller’s current career, except no survival or
+advancement checks are made, nor are skills
+gained from career skill tables.
+Preliminary Competitions: For each psionic talent
+the Traveller is skilled in, make an Average (8+)
+check. Record the number of successes and
+failures.
+Final Competition: Roll PSI 12+ to win the final
+competition, with DM+1 for each successful
+preliminary competition and DM-1 for each failed
+preliminary competition.
+Awards: After the final competition, the Traveller
+receives PSI +1 if more preliminary competitions
+were successful than failed. A winner of the final
+competition receives PSI +2 and becomes a Noble,
+raising SOC to 11.
+
+CAREERS
+
+Zhodani careers, in general, are used in the same way as
+described in the Traveller Core Rulebook. However, there
+are exceptions, which are noted here.
+While Zhodani share most careers with other human
+cultures, there are some differences. The Agent career
+has no corporate specialty, as corporations within the
+Consulate do not conduct trade wars or espionage
+against each other. There is no specific career for
+Nobles, although the Government career shares some
+similarities. There is no Scout career, as that is specific
+to the Imperium. There is no Rogue career, as that
+represents behaviour considered unhealthy by Zhodani
+society. Finally, the pervasiveness of a psionic society
+requires changes across all careers.
+Zhodani Travellers have no penalty for changing career,
+as Zhodani society recognises that a new perspective on
+life is mentally healthy and often desirable.
+
+254
+
+Zhodani use the following Draft table if they fail to
+qualify for a career.
+
+Draft
+1D
+–3
+4–5
+6
+
+Career (speciality)
+Army (any)
+Merchant (corporate)
+Navy (any)
+
+Skills
+
+Skills are determined as normal but there is an
+additional skill table for all careers except Prole.
+Travellers may only roll on the Psionic Skills table if they
+have Soc 10+.
+Psionic Skills: Intendants and Nobles may develop
+talents over time as if they were normal skills. If they
+receive a talent they were not trained in or failed to gain
+during their initial psionic training, they may attempt
+again to gain that talent (all previous DMs apply,
+including the cumulative DM-1 per previous check). If a
+Traveller rolls the Talent skill choice, they may increase
+any psionic talent already possessed.
+Rare Skills: The Deception, Gambling and Streetwise
+skills are generally not permitted to Zhodani Travellers.
+Deception and Streetwise can be gained by those in the
+Agent (tozjabr) career, as they deal with non-Zhodani
+who engage in unhealthy activities. However, Gambling
+is unknown in Zhodani society.
+
+Commission and Advancement
+
+Zhodani society favours the careers of Intendants and,
+especially, Nobles. The following rules apply to all
+Zhodani Travellers.
+•
+•
+•
+•
+
+Nobles and Intendants automatically succeed with
+Advancement (Commission if appropriate) in their
+first term of service, unless they are draftees.
+Drafted Nobles and Intendants receive automatic
+Advancement (Commission if appropriate) in their
+second term of service.
+Nobles gain DM+1 to all Advancement rolls.
+Proles and Intendants in the Government career may
+not advance higher than Rank 3 (Executive).
+
+

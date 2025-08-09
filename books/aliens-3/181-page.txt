@@ -1,0 +1,106 @@
+VEHICLES OF THE DOLPHINS
+Dolphins have a number of vehicles which have been
+designed with their particular needs in mind. Their
+vehicles tend to be streamlined for improved speeds
+underwater, with an internal environment that is super
+humid to prevent dehydration.
+Crew and Passengers
+Dolphin vehicles must allocate three times as many
+Spaces to passengers and crew as an equivalent
+human-operated vehicle would have (so, a Dolphin
+will require a minimum of 3 Spaces on a vehicle). This
+includes supports to provide comfort and emergency
+restraints used in the event of a crash.
+TL
+
+9
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
++1
+
+SPEED (CRUISE)
+
+Fast (High)
+
+RANGE (CRUISE) 2,000 (3,000)
+CREW
+
+1
+
+PASSENGERS
+
+0
+
+CARGO
+
+250kg
+
+HULL
+
+8
+
+SHIPPING
+
+2 tons
+
+COST
+
+Cr155000
+
+Traits
+Equipment
+
+182
+
+—
+Autopilot (enhanced), Communications
+System (improved), Control System
+(basic), Navigation System (improved),
+Sensors System (improved)
+
+GRAV SLED
+
+Grav sleds are simple, couch-like vehicles Dolphins use
+for extended travel. Upholstered with gel-filled padding
+for the comfort of the Dolphin, these vehicles are a
+common commodity in clans that do not have access to
+travel suits but frequently deal with surface-dwellers, or
+for Dolphins who wish to travel further than their travel
+suit can accommodate. Young Dolphins sometimes
+modify grav sleds to improve their performance and
+use them for racing or joy riding.
+The model shown here is for a single Dolphin. Larger
+covered models are also available for two and four
+Dolphins, both open-topped and covered.
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+2
+500km
++2
++1
+—
+—
+
+ARMOUR
+FRONT 3
+
+REAR
+
+3
+
+SIDES
+
+3
+
+

@@ -1,0 +1,162 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+RAD EATER SYMBIONT
+LIFE EXTENSION SYMBIONT
+These symbiotic microbes are custom designed for the
+individual for whom they are intended. The microbes
+are injected into the target’s body, where they multiply
+and migrate into individual cells to repair any damage
+caused by the ageing process. As cells multiply, the
+telomeres located at the ends of the chromosomes
+degrade, which contributes to replication errors. The
+symbiont actively repairs any damaged telomeres,
+thus delaying the ageing process. The life extension
+symbiont is not perfect and telomere degradation can
+be missed so that life can be extended and the ageing
+process slowed, but not stopped.
+The recipient of the life extension symbiont gains
+DM+1 to every ageing roll they make after the microbe
+is introduced into their system. Multiple doses will not
+increase the bonus given.
+At TL13, the bonus to the ageing roll is increased
+to DM+2.
+
+The rad eater symbiont is a microscopic organism
+which absorbs radiation and processes it into a
+harmless by-product, enabling the host organism to
+receive higher doses of radiation than normal. The
+symbiont requires only a small amount of nutrients
+from the host’s body but when processing radiation it
+requires larger amounts of energy, causing the host to
+consume additional calories. Normally this amounts to
+double the number of calories normally consumed for
+1D days after exposure. The rad eater symbiont can
+be used in conjunction with other forms of radiation
+treatment. Additional treatments of the symbiont do
+not increase the amount of radiation it can process.
+At TL10, the host can ignore the first 50 rads they receive.
+At TL13, the host may ignore the first 75 rads they
+receive but must consume three times the normal
+number of calories for 1D days.
+At TL15 they can ignore the first 150 rads they receive
+but must consume four times the normal number of
+calories for 1D days.
+
+At TL15, the bonus to the ageing roll is increased
+to DM+3.
+
+Life Extension
+Symbiont
+
+CSC: SueRrat
+
+If a Traveller receives another dose of the symbiont at
+a higher Tech Level, the greater bonus supersedes that
+gained from the lower Tech Level symbiont.
+
+56
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Life Extension
+Symbiont
+
+10
+
+—
+
+MCr1
+
+Life Extension
+Symbiont
+
+13
+
+—
+
+MCr5
+
+Life Extension
+Symbiont
+
+15
+
+—
+
+MCr25
+
+Rad Eater
+Symbiont
+ARMOUR TYPE
+
+PROTECTION
+
+TL
+
+RAD
+
+KG
+
+COST
+
+REQUIRED SKILL
+
+Rad Eater Symbiont —
+
+9
+
+50
+
+—
+
+Cr100000
+
+—
+
+Rad Eater Symbiont —
+
+11
+
+75
+
+—
+
+Cr200000
+
+—
+
+Rad Eater Symbiont —
+
+13
+
+150
+
+—
+
+Cr500000
+
+—
+
+R
+
+

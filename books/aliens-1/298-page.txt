@@ -1,0 +1,228 @@
+ZDEBR-CLASS TRADER
+TL11
+Hull
+
+400 tons, Streamlined
+
+—
+
+24
+
+Armour
+
+Crystaliron, Armour 4
+
+20
+
+4.8
+
+M-Drive
+
+Thrust 1
+
+4
+
+8
+
+J-Drive
+
+Jump 2
+
+25
+
+37.5
+
+Power Plant
+
+Fusion (TL8), Power 150
+
+15
+
+7.5
+
+Fuel Tanks
+
+J-2, 4 weeks of operation
+
+82
+
+—
+
+20
+
+2
+
+Bridge
+Computer
+
+Computer/10
+
+—
+
+0.16
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Weapons
+
+Single Turret (pulse laser)
+
+1
+
+1.2
+
+Single Turret (sandcaster)
+
+1
+
+0.45
+
+Ammunition
+
+Sandcaster Barrel Storage
+(40 barrels)
+
+2
+
+—
+
+Systems
+
+Fuel Processor (80 tons/day)
+
+4
+
+0.2
+
+Fuel Scoops
+
+—
+
+—
+
+Docking Space (30 tons)
+
+33
+
+8.25
+
+Ship’s Boat
+
+—
+
+7.272
+
+Standard x 16
+
+64
+
+8
+
+Low Berths x 32
+
+16
+
+1.6
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Common
+Areas
+
+18
+
+1.8
+
+Cargo
+
+94
+
+—
+
+Staterooms
+Software
+
+CREW
+
+TONS COST (MCR)
+
+PILOT, ASTROGATOR, MEDIC,
+ENGINEERS X 2, STEWARD
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr9661/month
+
+PURCHASE COST
+MCr115.932
+
+Power Requirements
+40
+
+80
+
+4
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+80
+
+1
+
+6
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 115.932
+Individuals and small trading companies
+are the most prolific operators Zdebr-class
+traders and these ships are a common sight
+in frontier regions of the Consulate. They
+are more general-purpose vessels than
+the 400-ton subsidised merchant used in
+the Imperium, being closer in concept to
+an oversized free trader. Atypically for a
+Zhodani commercial vessel the Zdebr is
+armed, albeit lightly. Zdebr-class ships are
+named after historically famous seaports
+and caravan routes on old Zhdant.
+
+160
+298
+
+HULL POINTS
+
+

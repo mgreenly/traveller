@@ -1,0 +1,187 @@
+PINNACE DRONE
+
+CLASS: AGUPON
+
+Built on a 40-ton hull, the Agupon drone is used
+primarily to shuttle cargo from ship-to-ship or from
+ship to surface. Its secondary use is as a transport
+for delivering combat drones to a theatre of combat,
+
+TL12
+
+be that another ship or a world’s surface. Without
+a cockpit or robot brain, the Agupon requires a
+remote operator to control it.
+
+Tons
+
+Cost (MCr)
+
+Crew
+None
+
+Hull
+
+40 tons, Streamlined
+
+—
+
+2.4
+
+M-Drive
+
+Thrust 5
+
+2
+
+4
+
+Power Plant
+
+Fusion (TL12), Power 45
+
+3
+
+3
+
+Fuel Tanks
+
+4 weeks of operation
+
+1
+
+—
+
+Computer
+
+Computer/5fib
+
+—
+
+0.05
+
+MAINTENANCE COST
+
+Sensors
+
+Military
+
+2
+
+4.1
+
+Fixed Mounts (beam laser) x2
+
+Cr1734/month
+
+Weapons
+
+—
+
+1.2
+
+Advanced Control Interface
+
+—
+
+0.05
+
+PURCHASE COST
+
+Systems
+
+Actuation System
+
+2
+
+0.008
+
+Fuel Scoops
+
+—
+
+—
+
+Anti-Hijack/1
+
+—
+
+6
+
+Library
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+30
+
+—
+
+Software
+
+Cargo
+
+Hull: 16
+Running Costs
+
+MCr20.803
+
+Power Requirements
+Basic Ship Systems
+8
+Manoeuvre Drive
+20
+Sensors
+
+Total: MCr20.803
+
+2
+Weapons
+6
+
+1 square = 0.5 Ton
+
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+
+Manoeuvre Drive
+Power Plant
+Sensors
+Fixed Mount Laser
+Actuation System
+Cargo Hold
+4
+
+1
+
+2
+
+6
+
+5
+
+3
+
+4
+
+126
+
+

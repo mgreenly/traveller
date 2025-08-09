@@ -1,0 +1,181 @@
+REHLD COURIER
+Using a 100-ton hull, the Rehld courier is a rapid
+communications carrier. It requires a crew of
+two – a pilot/astrogator and an engineer. The
+ship is equipped with highly sensitive, long range
+communications gear and oversized jump drives.
+
+The majority of its volume incorporates large
+fuel tanks so that several short jumps can be
+made sequentially without needing to refuel. The
+vessel can also carry two passengers if needed, a
+requirement imposed and used by the Special Arm.
+
+TL13
+
+TONS COST (MCr)
+
+Hull
+
+100 tons, Streamlined
+
+—
+
+6
+
+M-Drive
+
+Thrust 2
+
+2
+
+4
+
+J-Drive
+
+Jump 4
+
+15
+
+22.5
+
+Power Plant
+
+Fusion (TL 8), Power 90
+
+9
+
+4.5
+
+Fuel Tanks
+
+J-4, 8 weeks operation
+
+42
+
+—
+
+Bridge
+
+Small Bridge
+
+6
+
+0.25
+
+Computer
+
+Computer/15bis/fib
+
+—
+
+4
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Enhanced Signal Processing
+
+2
+
+8
+
+Armoured Bulkheads (bridge)
+
+0.6
+
+0.12
+
+Fuel Processor (40 tons/day)
+
+2
+
+0.1
+
+Fuel Scoop
+
+—
+
+—
+
+Mail Distribution Array
+
+10
+
+20
+
+Staterooms
+
+Standard x2
+
+8
+
+1
+
+Software
+
+Intellect
+
+—
+
+—
+
+Jump Control/4
+
+—
+
+0.4
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+0.4
+
+—
+
+Systems
+
+Cargo
+
+Crew
+Pilot/Astrogator,
+Engineer
+
+Hull: 40
+Running Costs
+MAINTENANCE COST
+Cr5637.75/month
+PURCHASE COST
+MCr67.653
+
+Power Requirements
+Basic Ship Systems
+20
+Manoeuvre Drive
+20
+Jump Drive
+40
+Sensors
+6
+Fuel Processor
+2
+
+Rehld Courier
+
+76
+
+

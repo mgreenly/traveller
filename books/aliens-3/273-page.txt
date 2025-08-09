@@ -1,0 +1,299 @@
+BESEKE CLASS PATROL CORVETTE
+Utilising a 500 ton hull, the Beseke patrol corvette
+is a military vessel used to police established trade
+routes and provide protection to trading vessels.
+They are normally found escorting trading missions
+beyond Imperial borders, patrolling in-system space
+
+TL15
+
+Crew
+
+TONS
+
+COST (MCr)
+
+500 tons, Standard
+
+—
+
+25
+
+Reinforced Hull
+
+—
+
+12.5
+
+Armour
+
+Crystaliron, Armour: 2
+
+12.5
+
+2.5
+
+M-Drive
+
+Thrust 5
+
+25
+
+50
+
+J-Drive
+
+Jump 4
+
+55
+
+82.5
+
+Power Plant
+
+Fusion (TL12), Power: 570
+
+38
+
+38
+
+Fuel Tanks
+
+J-4, 12 weeks of operation
+
+212
+
+—
+
+20
+
+2.5
+
+Computer/25 fib
+
+—
+
+15
+
+Computer/15 bis
+
+—
+
+3
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Plasma Barbettes x2
+
+10
+
+10
+
+Triple Turrets (missile racks) x2
+
+2
+
+6.5
+
+Triple Turret (sandcasters)
+
+1
+
+1.75
+
+Armoured
+Bulkheads
+
+Bridge
+
+2
+
+0.4
+
+Craft
+
+Docking Space (20 tons)
+
+22
+
+5.5
+
+100
+
+Launch
+
+—
+
+7.367
+
+Manoeuvre Drive
+
+Armoury
+
+2
+
+0.5
+
+250
+
+Brig
+
+4
+
+0.25
+
+Jump Drive
+
+Fuel Processor (220/day)
+
+11
+
+0.55
+
+200
+
+Fuel Scoop
+
+—
+
+1
+
+Sensors
+
+Workshop
+
+6
+
+0.9
+
+4
+
+Standard x11
+
+44
+
+5.5
+
+Weapons
+
+Barracks (5 passengers)
+
+10
+
+0.5
+
+27
+
+9
+
+0.9
+
+Fuel Processor
+
+Mud Bath
+
+8
+
+1
+
+11
+
+Anti-Hijack/1
+
+—
+
+6
+
+Electronic Warfare/2
+
+—
+
+18
+
+Evade/2
+
+—
+
+2
+
+Fire Control/2
+
+—
+
+4
+
+Jump Control/4
+
+—
+
+0.4
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+3.5
+
+—
+
+Hull
+
+Bridge
+Computer
+
+Systems
+
+Staterooms
+
+Software
+
+Cargo
+
+Captain, Pilot x3,
+Astrogator, Engineers
+x3 Maintenance,
+Medic, Gunners x10,
+Officers x2, Marines x5
+
+Hull: 220
+Running Costs
+MAINTENANCE COST
+Cr22748.775/month
+PURCHASE COST
+MCr272.9853
+
+Power Requirements
+Basic Ship Systems
+
+Common Area
+
+274
+
+for pirate activity or performing customs duties. Two
+plasma barbettes are supported by two triple missile
+racks, providing decent offence while a single triple
+sandcaster turret grants adequate defence.
+
+

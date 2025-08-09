@@ -1,0 +1,222 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Battle Dress: Darrian battle dress is more refined
+Hostile Mining Vacc Suit: Used for mining operations
+on worlds like Terant 340 and Spume, the hostile
+mining vacc suit protects its wearer from poisonous
+atmospheres, fragmenting rock, micro-meteors and
+radiation. It incorporates extended life support for
+36 hours of continuous use, a powerful emergency
+beacon, atmosphere tester, chemical alarm and an
+integrated personal automedic (see page 32 of the
+Central Supply Catalogue). Power is provided by a
+tiny radio-thermal fission pile with a lifespan of five
+years. The technology of the suit is kept simple for
+easy maintenance on less developed worlds.
+TL14: At TL14, the hostile mining vacc suit has a
+built-in Expert system (computer/3) and compact
+densitometer to aid mining operations.
+
+Militia Armour: The munitions-grade armour of the
+Confederation is designed for skirmish forces on
+planets with breathable atmospheres. It does not
+act as a vacc suit but is designed to be lightweight
+and maintenance free. Formed from a composite of
+plastics and synthetic silks to minimise sensor profile,
+every set includes camouflage, infrared chameleon
+and an integral gas/breathing mask. Tens of thousands
+of sets of militia armour are stockpiled in armouries on
+every populated planet in the Confederation.
+
+Special Arm Battle Dress: Special Arm troops have
+
+CSC: Darrian
+
+access to pre-Maghiz suits of battle dress. Similar
+to the retro-design provided to Confederation Guard
+Regiments, these advanced suits contain the same
+functionality but include personal meson comms,
+psionic shielding, a neural carbine, which replaces
+one of the gauss pistols, and life support is further
+extended to 144 hours. It uses the same backpack
+modules as Darrian battle dress.
+
+The basic rig has environmental protection that
+protects the battle dress from corrosive and insidious
+atmospheres for 72 hours. The hardened computer/6
+is equipped with an Intelligent Interface, a suite of
+Expert/3 software including Tactics (military) 3 and
+an Intellect/3 agent that can take control of the rig if
+the wearer is incapacitated. All software is hardcoded
+into the crystal memory and physically isolated from
+communications, save for the transceiver function
+switch, to make hacking impossible. The computer is
+directly linked to the musculature of the suit so it can
+perform DEX-based skills.
+The comms suite uses an advanced TL15 tactical
+relay network, relaying audio/visual, medical
+readings, equipment status, ammunition levels and
+sensor information. Comms data is scrambled,
+encrypted and transmitted via tight-beam maser, with
+laser and radio as backup systems. Communications
+can be shut down if necessary to avoid drawing fire
+from a technologically equivalent enemy.
+Core functionality of the battle dress includes heavy
+weapons stabilisation, grav assist, extended life support
+up to 72 hours, grenade launcher with a magazine of six
+grenades, gauss pistols in each arm and is self-sealing.
+Module attachment points are built into the back of
+the suit, allowing it to specialise its function.
+
+ARMOUR TYPE
+
+PROTECTION
+
+TL
+
+RAD
+
+KG
+
+COST
+
+REQUIRED SKILL
+
+10
+
+—
+
+3
+
+Cr30000
+
+None
+
++20
+
+14
+
+200
+
+6
+
+Cr800000
+
+Vacc Suit 0
+
+Hostile Mining Vacc Suit
+
++7
++15
+
+9
+14
+
+80
+200
+
+25
+20
+
+Cr35000
+Cr75000
+
+Vacc Suit 2
+Vacc Suit 1
+
+Militia Armour
+
++12
+
+12
+
+—
+
+2
+
+Cr25000
+
+None
+
+Gel Suit
+
++4
+
+Guard Armour
+
+ARMOUR TYPE
+
+64
+
+than Imperial designs, integrating many additional
+subsystems and replacing hydraulic amplification
+servos with simpler, more energy efficient and lighter
+electro-contractive muscle pseudo-tissue. Since most
+powered armour radiates all over the electromagnetic
+spectrum, Darrian battle dress does not attempt stealth
+but focuses on battlefield technological supremacy
+and survivability. It is the battle dress dreamed of by
+mercenaries everywhere but the price places it beyond
+all but elite unit budgets; it is so expensive that only
+Confederation Mobile Infantry are issued with it.
+
+PROTECTION TL
+
+Darrian Battle Dress
+
++28
+
+15
+
+Special Arm Battle Dress
+
++31
+
+16
+
+RAD
+
+STR
+
+300
+
++5
+
+330
+
++8
+
+DEX
++5
++8
+
+KG COST
+35
+
+MCr5
+
+30
+
+N/A
+
+REQUIRED SKILL
+Vacc Suit 2
+Vacc Suit 1
+
+R
+
+

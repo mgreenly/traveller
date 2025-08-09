@@ -1,0 +1,142 @@
+Torpedo Grapple, Firmpoint: This device takes up a
+single firmpoint and carries two torpedoes on a nonreloadable mount. Both can be launched together or
+a single weapon can be delivered. The grapple itself
+does not affect streamlining but a ship with torpedoes
+in place can only be considered at best partially
+streamlined. Any kind of torpedo can be carried on a
+grapple. A firmpoint grapple costs MCr0.1 and does not
+need to be replaced after use but cannot be reloaded
+in flight. Torpedoes must be purchased at standard
+prices – Cr150000 per standard torpedo and more for
+specialist types.
+Torpedo Grapple, Hardpoint: A larger torpedo grapple
+can be mounted on a single hardpoint, carrying four
+torpedoes on a non-reloadable mount. A grapple with
+torpedoes aboard reduces streamlined ships to a
+partially streamlined state. Torpedoes can be launched
+singly or in pairs. The mount costs MCr0.25 and,
+like the firmpoint grapple, consumes negligible space
+inside the ship.
+Missile Container/Launcher (TL9): Instead of reloadable
+turret-mounted launchers, missiles can be carried in
+a firmpoint or hardpoint-mounted container/launcher.
+This is a disposable lightweight box containing
+all the connections and support systems required
+to maintain a missile in ready-to-fire condition.
+Container-launchers can be purchased in single, dual
+or quad configurations, all of which consume a single
+hardpoint. A single or dual container-launcher can
+be mounted on a firmpoint. Missiles can be launched
+in any combination, creating a ‘surge’ capability that
+can overwhelm the defences of a major warship. Cost
+is MCr0.5 plus MCr0.1 per missile to be carried.
+Missiles can be replaced at the cost of the weapon
+plus MCr0.1.
+Heavy Missile (TL12): Missiles are normally launched
+from a turret, barbette or bay but larger weapons are
+available as one-shot container/launchers. These may
+
+be embedded in the hull of ship or carried externally;
+either way reloading the weapon must take place in
+a port, hangar or base. Heavy missiles are referred to
+as ‘one-shot ship killers’ although they are unlikely
+to destroy a large vessel. A heavy missile container/
+launcher consumes two hardpoints plus five tons
+inside the ship. It can carry a single heavy missile.
+Installation costs MCr2; reloading costs MCr0.25 plus
+the price of the missile.
+Combination Missile/Torpedo Launcher: The
+Confederation Navy has been trying for years to create
+an effective launching system that can take missiles
+or torpedoes as required. This turret-sized system is as
+close as it has come to a workable design, although it
+is clumsy and prone to loading failures. A combination
+launcher fits in a standard turret mount – single, dual
+or triple – but can only have one type of ammunition
+ready in each tube. It takes one round to remove
+ordnance and send it back to the magazine and one
+round to load a new weapon into the launcher. For this
+reason, combination launchers are often carried empty
+and loaded at the beginning of an engagement when it
+begins to become clear what ordnance will be needed.
+A combination launcher needs dedicated magazine
+space. One ton of magazine space holds three
+torpedoes or 12 missiles, so a triple turret with two
+tons of magazine space could carry one torpedo reload
+for all three tubes plus four missile reloads for all
+three. Ordnance can be mixed in a magazine; a one-ton
+magazine could hold two torpedoes and four missiles.
+Apart from the possibility of an ammunition hoist
+failure, the system’s other drawback is that it uses
+non-standard ordnance. Torpedoes and missiles cost
+25% more than standard and will not fit in a standard
+launcher. Likewise, standard weapons will not fit in
+a combination launch system. A combination launch
+system costs MCr2 and uses no power. It takes up one
+ton in addition to the normal turret allocation, plus
+magazine space.
+
+Heavy Missile
+Weapon
+
+TL
+
+Thrust
+
+Damage
+
+Cost
+
+Traits
+
+Advanced
+
+15
+
+15
+
+12D
+
+MCr1.5
+
+Smart
+
+Long-Range
+
+12
+
+15
+
+6D
+
+MCr1
+
+Smart
+
+Nuclear
+
+12
+
+15
+
+15D
+
+MCr2.5
+
+Radiation, Smart
+
+Standard
+
+12
+
+10
+
+8D
+
+MCr0.75
+
+Smart
+
+101
+
+

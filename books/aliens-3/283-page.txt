@@ -1,0 +1,55 @@
+6
+
+5
+
+6
+
+2
+
+DECK 3
+
+2
+
+6
+
+6
+
+5. Distributed Array
+6. Fusion Barbettes
+7. Armoury
+8. Briefing Rooms
+9. Brig
+10. Medical Bays
+11. Training Facilities
+12. Workshops
+13. Docking Space
+
+2
+
+DECK 2
+
+2
+
+7
+
+8
+
+9 10
+
+11
+
+12
+
+13
+
+2
+
+DECK 1
+
+1 sq. = 5 tons
+
+284
+
+2
+
+

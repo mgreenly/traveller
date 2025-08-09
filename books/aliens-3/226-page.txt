@@ -1,0 +1,87 @@
+VEHICLE WEAPONS
+All weapons described in this section require the Heavy
+Weapons (vehicle) skill to use effectively. All ranges are
+listed in kilometres.
+Vehicle Weapon Harness: The vehicle weapon
+harness is designed to mount vehicle weapons and is
+specifically reinforced to absorb any recoil. The harness
+is controlled in a similar manner as the weapon harness
+but only one vehicle weapon of up to two tons may be
+mounted on it.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Vehicle Weapon Harness
+
+10
+
+95
+
+Cr2500
+
+Sonic Screamer
+
+Mini-torpedo Battery: A self-contained rack that can
+carry up to six mini-torpedoes. Designed to be mounted
+on an Orca vehicle weapon harness, it can fire minitorpedoes singly or in a rippling cascade.
+
+Mini-torpedo Battery
+
+Weapon
+
+TL Range Damage Tons Cost
+
+Mini-torpedo Battery 10
+
+9
+
+1DD
+
+2
+
+Magazine Magazine Cost Traits
+
+Cr35000 6
+
+AP 5, Auto 3, Smart
+
+Cr10000
+
+Screamer Cannon: Using the same sonic technology as the screamer, the sonic cannon takes that weapon to the
+next level with a cannon that can damage vehicles. Generating a tightly focused sonic pulse, the screamer cannon
+can be fired in single bursts or automatic modes.
+
+CSC: Orca
+
+Weapon
+
+TL Range Damage Tons Cost
+
+Screamer
+Cannon
+
+11
+
+1
+
+1DD
+
+1
+
+Magazine Power Pack Cost Traits
+
+Cr47000 10
+
+Cr1000
+
+Auto 3, Burst 5, Sonic (-6),
+Stun, Zero-G
+
+227
+
+

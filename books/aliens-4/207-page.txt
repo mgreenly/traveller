@@ -1,0 +1,101 @@
+Raairvach
+
+Terrondat
+
+Raairvach are large solitary herbivores known for
+their foul temper and short fuse. Looking like a cross
+between a giant lizard and a rhinoceros, their backs
+and sides are covered with thick armoured plates
+ending in sharp spikes. A huge tapering horn grows
+from the top of the head, which the raairvach uses
+as its primary offensive weapon. Extremely shortsighted, raairvach will charge anything it views
+as a threat, goring it repeatedly with its horn until
+the target dies. Mothers with nursing young are
+extremely dangerous and even more short-tempered
+than usual. They are best avoided if possible.
+
+A savage cat-like solitary predator, the Terrondat is a
+distant relation to the Tezcat. Having a reputation as the
+most dangerous living predator on Aum-rhar, they are
+an endangered species, brought almost to extinction
+by Tezcat wishing to prove their bravery and hunting
+skills. The terrondat’s back is protected with a pelt of
+thick quills which extend to the head and form a short
+bristly mane. The rest of the terrondat’s skin is slate
+grey and furless, possessing chameleonic properties
+that allow it to blend easily into its surroundings. Its
+face is almost skull-like, with wickedly sharp exposed
+teeth dripping with virulent venom. Heavy paws with
+long claws round out this predator’s arsenal. The beast
+hunts equally well from the branches of trees as the
+forest floor, hiding in plain sight via its chameleon skin
+and pouncing on unsuspecting prey. Once it has landed
+a venomous bite, the Terrondat will move out of reach
+of its prey and wait for the venom to finish it off.
+
+Animal
+
+Hits
+
+Speed
+
+Raairvach
+
+61
+
+7m
+
+Skills
+
+Athletics (endurance) 2, Recon 0,
+Survival 1
+
+Attacks
+
+Horn (4D+3), Quills (2D), Trample
+(3D)
+
+Animal
+
+Hits
+
+Speed
+
+Traits
+
+Armour (+12), Large (+3)
+
+Terrondat
+
+33
+
+12m
+
+Behaviour
+
+Herbivore, Grazer
+
+Skills
+
+Athletics (dexterity) 2, Melee
+(natural) 3, Stealth 3, Survival 2
+
+Attacks
+
+Bite (3D+1 and poison), Claws
+(2D+3)
+
+Traits
+
+Chameleon, Fast Metabolism (+2),
+Large (+1), Poison (Very Difficult,
+2D, 1D seconds)
+
+Behaviour
+
+Carnivore, Pouncer
+
+The Tezcat Homeworld
+207
+
+

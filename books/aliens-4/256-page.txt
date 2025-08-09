@@ -1,0 +1,214 @@
+TL12
+
+Tons
+
+Cost (MCr)
+
+Docking Space (70 tons) x100
+
+7,700
+
+1925
+
+Yarlasth Heavy Fighters x100
+
+—
+
+4506.4
+
+Docking Space (100 tons) x70
+
+7,700
+
+1925
+
+Grathriss Gunboats x50
+
+—
+
+2832.25
+
+Vatha Torpedo Boats x20
+
+—
+
+1520
+
+Docking Space (1,000 tons) x20
+
+22,000
+
+5500
+
+Kilrashta Refuelling Shuttles x20
+
+—
+
+2320.6
+
+Full Hangers (1,000 tons) x4
+
+8,000
+
+1600
+
+Armoury
+
+95
+
+23.75
+
+Briefing Room x20
+
+80
+
+10
+
+Brig x10
+
+40
+
+2.5
+
+Fuel Processor (160,000 tons/day)
+
+8,000
+
+400
+
+Launch Tubes (100 tons) x4
+
+4,000
+
+2000
+
+Medical Bays x16
+
+64
+
+32
+
+Recovery Decks (200 tons) x2
+
+4,000
+
+2000
+
+Shaper Shrine
+
+628
+
+41.8667
+
+Workshops x50
+
+300
+
+45
+
+Staterooms
+
+Standard x937
+
+3,748
+
+468.5
+
+Software
+
+Advanced Fire Control/1
+
+—
+
+12
+
+Anti-Hijack/1
+
+—
+
+6
+
+Battle System/2
+
+—
+
+6
+
+Electronic Warfare/1
+
+—
+
+15
+
+Evade/2
+
+—
+
+2
+
+Intellect
+
+—
+
+—
+
+Launch Solution/3
+
+—
+
+16
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Common Areas
+
+780
+
+78
+
+Cargo
+
+8,528
+
+—
+
+Systems
+
+Total: MCr136762.61
+
+Bhanthari-class
+Fleet Carrier
+
+256
+
+Power Requirements
+Basic Ship Systems
+50,000
+Manoeuvre Drive
+75,000
+Jump Drive
+75,000
+Sensors
+13
+Weapons
+1,300
+Screens
+200
+Fuel Processor
+8,000
+Medical Bays
+16
+Launch Tubes
+4,000
+
+

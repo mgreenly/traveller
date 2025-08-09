@@ -1,0 +1,73 @@
+MEDIUM WARBOT
+
+A11/58231
+
+This design is a popular warbot model, with customised
+versions in use throughout the Consulate. The warbot is solid
+and reliable, with good intelligence (as far as Zhodani robots
+go). The model shown here is a basic configuration but many
+other variations are available, depending on the operating
+environment or type of mission the warbot will be called upon
+to perform, carrying a variety of weapons, equipment and
+additional armour. Warbots intended for boarding actions often
+swap the laser rifle for a flamethrower.
+
+ROBOT
+
+HITS
+
+SPEED
+TL
+COST
+—
+12
+Cr45000
+SKILLS
+Gun Combat (energy) 2, Melee 0, Recon
+1, Tactics (military) 1
+ATTACKS
+Claw (3D), Laser Rifle (5D+3, Zero-G)
+TRAITS
+Armour (+8), Flyer (high)
+PROGRAMMING Advanced
+Medium Warbot 20
+
+A11/58231
+
+HEAVY WARBOT
+
+This warbot is designed to hold its own in a full frontal
+assault involving armoured troops with fusion and plasma
+weapons. Although hugely expensive, it stands up well in
+the most demanding battlefield situations. Besides the
+obvious offensive uses, it works well as a defensive warbot
+or forward scout, with its excellent sensors. The oblong
+half-dome chassis body presents a small frontal profile,
+thus minimising available targeting area, while the small
+rotating head contains the sensory and firing apparatus
+for the fusion weapon, allowing the main chassis body to
+remain behind cover while firing.
+
+ROBOT
+
+HITS
+SPEED
+TL
+COST
+20
+—
+14
+MCr2
+SKILLS
+Heavy Weapons (man portable) 3, Melee
+0, Recon 2, Tactics (military) 1
+ATTACKS
+Claw (8D), FGMP-14 (2DD, Radiation)
+TRAITS
+Armour (+22), Heightened Senses
+PROGRAMMING Advanced
+Heavy Warbot
+
+284
+
+

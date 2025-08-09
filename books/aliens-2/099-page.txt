@@ -1,0 +1,106 @@
+some vaguely described reason. Since high passage
+ticketholders have more access to the crew and
+possibly secure parts of the ship, suspicion of outsiders
+might be another reason why non-Solomani cannot
+obtain high passage unless accompanied by a highstatus pureblood Solomani.
+
+ADDITIONAL SECURITY
+
+MEASURES
+
+Generally speaking, normal security systems and a
+sensible design philosophy are sufficient to protect any
+vessel. However, some shipyards incorporate additional
+security features into their designs.
+Enhanced Security: Enhanced security is a catch-all
+term for a package of measures running all through
+the ship. Some are electronic, such as additional
+cameras, scanners and locks, and take up little room.
+However, partitions and fixtures are a little stronger
+than average, with additional internal security
+bulkheads. A mix of electronic and mechanical
+devices are used to prevent ‘backdoor’ methods being
+used to bypass the security system.
+An enhanced security system takes up 2% of a vessel’s
+hull at a cost of MCr0.2 per ton. It imposes a DM-1 on
+all attempts to overcome the vessel’s security system.
+Secure Accommodation: Secure accommodation focuses
+on staterooms and common areas used by passengers.
+Stateroom walls and doors are stronger, with a solid
+bulkhead around the secured area. This is not sufficient
+to provide protection against ship-to-ship weapons
+fire but does resist cutting attempts and personal
+weapons better than standard construction. Enhanced
+locking devices are also in place, along with improved
+surveillance equipment. Most systems also include
+measures such as the ability to dump sedative gas into
+the secured areas’ ventilation system.
+A secure accommodation suite consumes space equal
+to 10% of the tonnage contained within it, at a cost of
+MCr0.1 per ton. It imposes DM-1 on attempts to defeat
+the security of the accommodation area, which stacks
+with the modifier for enhanced security.
+
+ACCOMMODATION
+
+VARIANTS
+
+Most Confederation ships use standard staterooms
+of varying types plus common space to create an
+acceptable passenger experience but those wishing to
+impress may install a specialist fitment.
+
+VIP Suite: A VIP suite is intended for the use of
+a single passenger plus a suitable entourage. It
+consists of a luxury stateroom plus a private lounge
+and three other stateroom-equivalent spaces. These
+can be set up as accommodation, offices, additional
+working or recreation space, a wine cellar or any
+other combination of three four-ton chambers. On
+many ships a steward lives in one of the cabins and
+is permanently – and exclusively – on-call for the
+VIP. Some naval vessels have one or more VIP suites
+as accommodation for the captain or an admiral and
+ships used by the Secretariat or upper echelons of
+SolSec typically have several such suites. A VIP suite
+consumes 28 tons at a cost of MCr2.5. Operators
+with one or more VIP suites aboard their ship can
+charge whatever the market will stand for use of one
+or may offer it at a more reasonable rate as part of
+a scheme to tempt more high passengers. Typically
+this takes the form of a sort of lottery – everyone
+buying a high passage ticket gets a chance to win
+use of the VIP suite, assigned randomly. A ship
+doing something like this can sell high passage at
+the normal rate for four cabins – assuming all are
+configured for passengers – and gains DM+1 to find
+high passengers.
+High Passage Block: A high passage block is a
+standardised, self-contained component. It consists
+of six high staterooms plus a standard cabin (which
+is usually occupied by a steward or used as a shop
+or office) plus a generous common space for the
+exclusive use of the passengers within. All of this
+is surrounded by a heavy bulkhead and has its own
+independent life support system. The whole block
+consumes 60 tons and costs MCr6. It is luxuriously
+appointed and confers DM+1 to find high passengers.
+Steerage Block: Steerage is the lowest form of
+passage that does not actually involve being frozen.
+A steerage block consists of tiny sleeping cubicles
+for up to 24 people plus a small general-purpose
+‘exercise and recreation’ space, a minimal galley
+and a borderline inadequate set of freshers. The
+block consumes four tons plus 1.5 tons per person
+to be accommodated, thus ranging from 5.5 to 40
+tons, at a cost of MCr0.1 per ton. Steerage passage
+is generally equivalent to basic passage as noted
+in the Traveller Core Rulebook, but prices can vary
+considerably. Commonly a middle passage ticket can
+be exchanged for steerage passage for four people or
+possibly as many as six if the ship is not full and the
+passenger is persuasive.
+
+99
+
+

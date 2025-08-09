@@ -1,0 +1,114 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+F
+
+I
+
+F
+
+T
+
+E
+
+E
+
+N
+
+VEHICLES OF THE VARGR
+Most Vargr vehicles are much like their human counterparts in ability and function but the aesthetics of the Vargr
+lead to much more decorative and elaborate features, with a variety of fins, spines and bright colours that look garish
+and tasteless to humans. Many vehicles also comprise a mismatch of components scavenged from various sources.
+Markings are often painted on vehicles to indicate race wins or, in the case of military vehicles, kills or pack insignia.
+
+GRAVITIC RACER
+
+ARMOUR
+F RONT
+
+3
+
+RE AR
+
+3
+
+SI DE S
+
+3
+
+Autopilot (skill level) —
+Communications 500
+(range) km
+Navigation
+(Navigation DM) +2
+Sensors (Electronics
+(sensors) DM) +0
+Camouflage (Recon
+DM) —
+Stealth (Electronics
+(sensors) DM) —
+
+WEAPONS
+
+TL
+SKILL
+AGILITY
+SPEED (CRUISE)
+RANGE (CRUISE)
+CREW
+PASSENGERS
+CARGO
+HULL
+SHIPPING
+COST
+
+10
+FLYER (GRAV)
++5
+SUPERSONIC
+(SUBSONIC)
+500 (750)
+1
+1
+—
+6
+1.5 TONS
+CR658000
+
+None
+
+EQUIPMENT
+Communication System (improved), Computer/2, Control System
+(enhanced), Fire Extinguisher, Navigation System (improved), Sensor
+System (basic)
+
+DESCRIPTION
+Vargr might not share the same taste in
+design as humans but both share a love
+of speed and grav racing. Unlike human
+grav racers, Vargr designs incorporate a
+passenger or co-pilot seat; such is their
+need for companionship they like to share
+the racing experience with their brethren.
+The racer can be driven alone but the copilot usually serves as navigator so as to
+have more participation in the race.
+
+218
+
+TRAITS
+Open Vehicle
+
+

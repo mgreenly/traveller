@@ -1,0 +1,110 @@
+All K’kree males, regardless of caste, spend their first
+term as warriors, proving their worth to the herd before
+embarking upon their intended career. A K’kree’s career is
+determined by his caste: Servant, Merchant or Noble. An
+additional career, known simply as K’kree, is available to
+any casted K’kree. This has a very limited skill selection
+and little prospect for advancement. Any K’kree Traveller
+who can make a case for it – perhaps time spent with
+the traditionalist herds of Kirur itself – can serve terms
+in this career. It could also be used to create casteless
+Travellers, althought by definition they cannot have wives
+and usually meet an untimely end as decoys.
+
+Background Skills
+
+All K’kree family patriarchs (or patriarchs-to-be) gain the
+following background skills:
+Melee Combat 0
+Patriarchy 0
+Recon 0
+Survival 0
+
+Terms
+
+Each term, K’kree have similar opportunities to nonK’kree, paralleling the chance for commission or
+promotion. In addition, they may gain family members
+or extra skills on the Household Development table.
+Promotion is based upon SOC and assisted by the
+Patriarchy skill. One attempt at promotion can be made
+each term until the Traveller reaches the status of
+rankholder. Elevation to the next social class requires
+
+an increase in SOC and is very rare. There is no roll for
+elevation each term; it is determined only by events.
+
+Household Development
+
+In mainstream K’kree society, some events are almost
+certain to take place at key points in a male’s life. His
+first term will be spent as a warrior serving his clanlord
+or – if he is very lucky – his Steppelord. At the end
+of this term he will almost certainly be married, after
+which his household will develop as he serves more
+terms. By the time he is ready to venture to the stars, a
+K’kree patriarch may command quite a force of warriors,
+technicians and servants, and be followed by his
+attentive and adoring wives.
+The Traveller gains D3 additional family members each
+time he adds a wife. Their nature is determined at the
+end of Traveller creation – they might be considered
+to be mustering-out benefits! It is possible that family
+members may die or otherwise be lost during a career.
+Gaining wives is not certain. Each time a possible
+acquisition is indicated, a Patriarchy check must be
+made. More wives means greater status, so K’kree
+males will try hard to gain as many as possible. A K’kree
+male who has not yet married will be accompanied by
+an entourage of other bachelors, servants and the like
+– enough to keep him from going crazy with loneliness
+until he meets a suitable wife.
+Additional skills are mandated in some terms, gained in
+addition to wives and family members. Both are covered
+on the Career Progress table.
+
+Career Progress
+Term
+1
+
+Event
+Basic training as a warrior
+
+2
+
+First wife and establishment of household: Easy
+(4+) Patriarchy check
+
+3
+4
+5
+6
+
+Additional wife: Routine (6+) Patriarchy check
+Additional wife: Average (8+) Patriarchy check
+Additional wife: Difficult (10+) Patriarchy check
+Additional wife: Very Difficult (12+) Patriarchy
+check
+Additional wife: Formidable (14+) Patriarchy
+check
+Additional wife: Formidable (14+) Patriarchy
+check
+
+7
+8+
+
+128
+
+Notes
+Skills must be taken from the Warrior table of the
+correct caste
+Gains basic training in career. If the Patriarchy
+check is successful, gain Senior Wife and D3 family
+members.
+Gain one additional Service Skill
+Gain one level in Patriarchy
+Gain one additional Service Skill
+Gain one level in Patriarchy
+Gain one additional Service Skill
+Gain one additional Service Skill
+
+

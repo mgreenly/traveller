@@ -1,0 +1,126 @@
+Ranks and Bonuses
+
+Events
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ACADEMIC/ECCLESIASTIC
+Novice
+Initiate
+Acolyte
+Priest
+High Priest
+Prelate
+Primate
+
+2D
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+
+11
+
+1D
+1
+2
+3
+4
+5
+6
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+PARTISAN
+Least Claw
+Third Claw
+Second Claw
+First Claw
+Kaltrhar
+Shilahn
+Shil Shintrah
+
+SKILL OR BONUS
+—
+Gun Combat 1
+Leadership 1
+—
+Tactics (military) 1
+—
+SOC +1
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+You are involved in good works in the community gaining the respect of a large segment of society.
+Gain SOC +1 and an Ally.
+A notable academic consults with you about a publication or documentary they are working on. Gain
+a Contact in academia.
+You are sent to a new community or parish to preach Shaper doctrine among the poor. Gain either
+Streetwise or Persuade.
+You retreat from the mundane world for a time in the hope of a revelation, although this affects your work
+and relationships. Lose SOC -D3 but gain D3 Benefit rolls and DM+1 on these and all future Benefit rolls.
+Live event. Roll on the life event table.
+You are chosen to represent the Shaper Church in a vid show or other highly public forum. Gain
+either Carouse or Persuade.
+You are offered inducements to betray the Shaper Church. If you do so, you must leave this career
+and lose all Benefit rolls but gain Cr10000x2D per Benefit roll you lose. If you choose not to sell
+out, gain 1D Enemies.
+A leader or other important personage confides in you about their highly damaging indiscretions. If
+you keep their confidence, you gain them as an Ally. If you choose to use the information for your
+own benefit, you gain them as an Enemy and an additional D3 Benefit rolls.
+Someone more charismatic but less devout than you has become your superior. All future
+advancement rolls are subject to DM-1.
+Your faith enjoys an explosion of popularity largely thanks to your efforts. You are immediately
+promoted one grade and gain DM+1 on all future advancement checks.
+
+MISHAP
+Opponents of your belief system ambush you. You must roll on the injury table and leave this career.
+You aid a follower back to the True Path but this angers a friend or relative. Gain an Enemy.
+You are caught in a scandal. Lose 1 rank and Benefit roll but you are not ejected from this career.
+You have been following false teachings! Lose 1 skill level from either Profession (religion) or
+Science (shaper church) and leave this career.
+Your faith is shaken. Lose all Benefit rolls gained thus far in this career but you do not have to
+leave this career.
+You come into conflict with a splinter group of the Shaper Church which maintains your version is the
+wrong one. Gain D3 Rivals.
+
+1
+
+Tezcat Travellers
+
+Mishaps
+
+12
+
+SKILL OR BONUS
+—
+Science (shaper church)
+Persuade
+—
+SOC +1
+—
+SOC +1
+
+227
+
+

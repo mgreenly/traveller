@@ -1,0 +1,21 @@
+3
+1
+2
+
+5
+DECK 2
+
+DECK 1
+
+4
+
+LEGEND
+1. Shrine
+2. Mining drones
+3. Bridge
+4. Cargo hold
+5. Fuel processors
+
+93
+
+

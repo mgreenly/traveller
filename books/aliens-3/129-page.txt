@@ -1,0 +1,90 @@
+T
+
+CSC: Geonee
+
+Cargo Handler: Cargo handlers are found in docks,
+airports, spaceports and starports across the Third
+Imperium, loading and unloading cargo to free
+personnel to handle more demanding tasks. Large
+and heavy enough to carry a standard one-ton cargo
+container, the cargo handler robot can work as long
+as is needed and, if properly maintained, has a useful
+lifespan of approximately 40 years.
+
+130
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Robot
+
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Cargo Handler
+
+75
+
+5m
+
+12
+
+Cr360000
+
+Locomotion
+
+Tracks
+
+Skills
+
+Athletics (endurance) 3, Profession
+(cargo master) 3
+
+Attacks
+
+None
+
+Manipulators
+
+None
+
+Endurance
+
+432 hours
+
+Traits
+
+Armour (+4), ATV(idle), Large (+3)
+
+Programming
+
+Advanced (INT 8)
+
+Options
+
+Auditory Sensor, Drone Interface,
+Forklift (large), Transceiver 5 km
+(improved), Vacuum Environment
+Protection, Visual Spectrum Sensor,
+Voder Speaker, Wireless Data Link,
+spare slot x51
+
+R
+
+

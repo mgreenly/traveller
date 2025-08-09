@@ -1,0 +1,169 @@
+SPACE OFFICER
+
+8
+
+CAREER PROGRESS
+
+There is a sharp divide in Aslan society
+between officers and crewmen; the officers are
+clearly of a higher caste and it is a grievous
+breach of custom for the two groups to
+associate socially.
+
+COMMANDER
+SOC 8+
+INT 6+
+
+Survival
+Advancement
+
+SHIPMASTER
+EDU 7+
+SOC 6+
+
+Qualification: Rite of Passage 10+
+
+ASSIGNMENTS
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+8
+
+Commander: You command one of your clan’s
+mighty starships.
+Shipmaster: You advise the captain on
+technical matters and administer a ship.
+Navigator: You pilot a ship through jump space
+Gender: Only males can enter Commandcer. Only
+females can enter Shipmaster or Navigator.
+
+•
+•
+
+CASH
+Cr1000
+Cr5000
+Cr5000
+Cr10000
+Cr20000
+Cr50000
+Cr50000
+Cr50000
+
+BENEFITS
+2 Clan Shares
+INT +1
+EDU +2
+Independence or Tolerance
+3 Clan Shares
+Brotherhood of Stars
+SOC +2
+5 Clan Shares
+
+DM+1 if SOC 9+
+DM+1 when rolling on Benefits if Male
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+INT +1
+EDU +1
+Broker
+Jack-of-All-Trades
+Diplomat
+SOC +1
+SPECIALIST: COMMANDER
+Tactics (naval)
+Diplomat
+Leadership
+Pilot
+Gunner
+Tactics (naval)
+
+SERVICE SKILLS
+Electronics
+Tolerance
+Pilot
+Advocate
+Admin
+Gunner
+SPECIALIST: SHIPMASTER
+Admin
+Engineer
+Electronics
+Engineer
+Diplomat
+Broker
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Engineer
+Electronics
+Leadership
+Science
+Astrogation
+SPECIALIST: NAVIGATOR
+Astrogation
+Pilot
+Engineer (j-drive)
+Electronics
+Leadership
+Astrogation
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+COMMANDER
+Probationary Intendant
+Intendant
+Lieutenant
+Senior Lieutenant
+Commandant
+Captain
+Admiral
+
+SKILL OR BENEFIT
+—
+Leadership 1
+—
+—
+Tactics (naval) 1
+—
+TER +2
+
+NAVIGATOR
+INT 6+
+SOC 8+
+
+

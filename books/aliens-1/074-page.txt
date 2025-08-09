@@ -1,0 +1,205 @@
+EAKHAU-CLASS TRADER
+TL12
+
+TONS
+
+COST (MCR)
+
+Hull
+
+400 tons, Streamlined
+
+—
+
+24
+
+M-Drive
+
+Thrust 1
+
+4
+
+8
+
+J-Drive
+
+Jump 2
+
+25
+
+37.5
+
+Power Plant
+
+Fusion (TL12), Power
+165
+
+11
+
+11
+
+Fuel Tanks
+
+J-2, 4 weeks of
+operation
+
+82
+
+—
+
+20
+
+2
+
+Bridge
+Computer
+
+Computer/ 5 bis
+
+—
+
+0.045
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Systems
+
+Fuel Processor (20
+tons/day)
+
+1
+
+0.05
+
+Fuel Scoops
+
+—
+
+—
+
+Shrine
+
+4
+
+0.5
+
+Re-entry Capsules x 13
+
+6.5
+
+0.26
+
+Standard x 13
+
+52
+
+6.5
+
+Low Berths x 16
+
+8
+
+0.8
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Common
+Areas
+
+12
+
+1.2
+
+Cargo
+
+173.5
+
+—
+
+15
+
+—
+
+Staterooms
+Software
+
+TOTAL: MCR 95.145
+
+CREW
+PILOT, ASTROGATOR,
+PURSER, ENGINEER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr7928/month
+
+PURCHASE COST
+MCr95.145
+
+Power Requirements
+40
+
+80
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+80
+
+1
+
+JUMP DRIVE
+
+SENSORS
+
+The Eakhau is an Aslan tramp trader,
+commonly crewed by a single family.
+Nomadic Aslan families travel in this
+fashion as part of a pride-fleet of a dozen
+or so ships and whole generations can
+be born, live and die on these cramped
+vessels before the pride finds suitable
+territory. Out of the shipyard, 11 tons
+of space is unallocated but new owners
+quickly fill this with weapons, vehicles and
+other optional extras.
+
+160
+HULL POINTS
+74
+
+The Eakhau is one of the few Aslan designs
+to carry escape pods, which are seen as
+inviting failure. A true warrior will never flee.
+
+

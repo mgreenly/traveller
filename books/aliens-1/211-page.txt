@@ -1,0 +1,110 @@
+ARMOUR SETS
+
+PROTECTION
+
+RAD KG COST
+
+REQUIRED SKILL
+
+Fighter Set (Kforzhazuk)
+Fighter Set (Kforzgong)
+Leader-Fighter Set (Vhezkforz)
+
++3
+7
++3
+7
++3/+20 (ablative) against 8
+fire and energy only
++6
+7
++9
+8
++7 (+6 special for arm
+9
+shield)
++8
+9
+
+—
+—
+—
+
+3
+3
+3
+
+Cr80
+Cr175
+Cr275
+
+None
+None
+None
+
+—
+—
+—
+
+9
+12
+12
+
+Cr450
+Cr700
+Cr850
+
+None
+None
+None
+
+—
+
+12
+
++4 (+6 special for arm
+shield)
++8
++12 (+4 vs fire, energy
+and lasers)
+
+9
+
+—
+
+6
+
+Cr600, more None
+for classier
+jackets
+Cr250
+None
+
+9
+9
+
+—
+—
+
+6
+12
+
+Cr600
+Cr1500
+
+Warrior Set (Zuurku-Azuk)
+Warrior Set (Zurrku-Ekdho)
+Warrior Set (Zurrku-Oengga)
+Warrior-Leader Set (VhezkZurrku)
+Assault Set (Kungedz-Udhvarr)
+Assault Set (Kungedz-Dhagu)
+Heavy Assault Set (KungedzVerz)
+
+TL
+
+None
+None
+
+211
+
+

@@ -1,0 +1,235 @@
+Career Summary
+Career
+Ceremonial
+
+Assignment
+
+Gender
+
+Poet
+Clan Agent
+Priest
+
+Male
+Either
+Either
+
+Envoy
+
+Survival
+
+Advancement
+
+EDU 7+
+END 8+
+SOC 6+
+
+INT 7+
+INT 6+
+EDU 8+
+
+SOC 7+
+SOC 8+
+END 8+
+
+INT 7+
+INT 6+
+DEX 6+
+
+INT 7+
+EDU 8+
+SOC 6+
+
+INT 7+
+SOC 6+
+EDU 8+
+
+END 8+
+DEX 7+
+DEX 8+
+END 6+
+
+STR 6+
+DEX 7+
+INT 6+
+SOC 8+
+
+END 7+
+END 6+
+END 8+
+
+INT 7+
+EDU 8+
+DEX 6+
+
+END 6+
+EDU 7+
+END 8+
+
+SOC 8+
+INT 7+
+INT 6+
+
+DEX 7+
+END 6+
+END 6+
+EDU 5+
+
+INT 5+
+INT 6+
+INT 6+
+INT 7+
+
+SOC 8+
+EDU 7+
+INT 6+
+
+INT 6+
+SOC 6+
+SOC 8+
+
+STR 8+
+END 8+
+END 8+
+
+STR 7+
+INT 7+
+EDU 7+
+
+END 7+
+END 8+
+DEX 7+
+
+INT 7+
+STR 6+
+INT 7+
+
+END 6+
+DEX 7+
+END 8+
+
+INT 8+
+INT 7+
+INT 6+
+
+Rite 10+
+Negotiator
+Spy
+Duellist
+
+Either
+Either
+Either
+
+Management
+
+Rite 8+
+Corporate
+Clan Aide
+Governess
+
+Female
+Female
+Female
+
+Military
+
+Rite 7+
+Warrior
+Cavalry
+Flyer
+Support
+
+Male
+Male
+Male
+Female
+
+Leader
+Executive Officer
+Assassin
+
+Male
+Female
+Male
+
+Military Officer
+
+Rite 10+
+
+Scientist
+
+INT 7+ (10+
+for males)
+Healer
+Researcher
+Explorer
+
+Either
+Female
+Female
+
+Pilot
+Gunner
+Engineer
+Crew
+
+Male
+Male
+Female
+Either
+
+Spacer
+
+Rite 8+
+
+Space Officer
+
+Rite 10+
+Commander
+Shipmaster
+Navigator
+
+Male
+Female
+Female
+
+Outcast
+
+None
+Labourer
+Trader
+Scavenger
+
+Either
+Either
+Either
+
+Outlaw
+
+STR 6+
+Pirate
+Raider
+Thief
+
+Either
+Either
+Either
+
+Wanderer
+
+Rite 8+
+Belter
+Nomad
+Scout
+
+20
+
+Qualification
+Rite 10+
+
+Male
+Male
+Male
+
+

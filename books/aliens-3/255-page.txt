@@ -1,0 +1,102 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Armoured Kaftan
+
+CSC: Bwaps
+
+Ceremonial Armour
+
+256
+
+Powered Plate
+ARMOUR TYPE
+
+PROTECTION
+
+TL
+
+RAD
+
+KG
+
+COST
+
+REQUIRED SKILL
+
+7
+10
+12
+
+—
+—
+—
+
+8
+4
+1
+
+Cr300
+Cr600
+Cr900
+
+None
+None
+None
+
+Armoured Kaftan
+
++5
++8
++4
+
+Powered Plate
+
++14
++18
+
+10
+14
+
+120
+200
+
+30
+20
+
+Cr62500
+Cr87150
+
+Vacc Suit 1
+Vacc Suit 0
+
+Ceremonial Armour
+
++1
+
+2
+
+—
+
+1
+
+Cr1750
+
+None
+
+R
+
+

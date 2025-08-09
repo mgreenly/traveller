@@ -1,0 +1,130 @@
+9
+
+OUTCAST
+
+Those Aslan who fail to find their place in
+society become Outcasts and are seen as
+the scum of the stars by the rest of their
+species. Outcasts who survive may be able
+to build on their skills and self-reliance and
+eventually make something of themselves…
+but few survive.
+Qualification: Automatic
+
+ASSIGNMENTS
+Choose one of the following.
+Labourer: You work in whatever dead-end job is
+not being done by robots or slaves.
+Trader: You trade in black market and marginal
+goods.
+Scavenger: You pick the bodies of the dead or
+retrieve salvaged ships.
+
+CAREER PROGRESS
+Survival
+Advancement
+
+LABOURER
+STR 8+
+STR 7+
+
+TRADER
+END 8+
+INT 7+
+
+SCAVENGER
+END 8+
+EDU 7+
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr0
+Cr500
+Cr500
+Cr1000
+Cr1000
+Cr5000
+Cr10000
+
+BENEFITS
+INT +1
+EDU +
+Weapon
+Independence or Streetwise
+Contact
+END +1
+END +1 and EDU +1
+
+Note: No matter the event or mishap, you can
+never be ejected from the Outcast career.
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+Independence (if male) or Melee (if female)
+STR +1
+Streetwise
+Gambler
+END +1
+Jack-of-All-Trades
+SPECIALIST: LABOURER
+Athletics
+Drive
+Streetwise
+Gun Combat
+END +1
+STR +1
+
+SERVICE SKILLS
+Profession
+Streetwise
+Mechanic
+Melee (natural)
+Deception
+Survival
+SPECIALIST: TRADER
+Broker
+Streetwise
+Admin
+Profession
+Electronics
+INT +1
+
+—
+—
+—
+—
+—
+—
+SPECIALIST: SCAVENGER
+Mechanic
+Streetwise
+Drive or Flyer
+Engineer
+Independence
+END +1
+
+

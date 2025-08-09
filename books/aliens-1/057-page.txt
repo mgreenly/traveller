@@ -1,0 +1,77 @@
+TECHNICIAN
+
+A11/58231
+
+A personal robot of great sophistication, the hikare’ is
+capable of serving as an engineer on a one-man scout
+ship or as a personal servant. On larger ships, they are
+used to replace or aid female crew members. The hikare’
+design has evolved over time and older hikare’ are often
+encountered on backward Aslan colonies. These robots are
+equipped with functioning, although limited, grav drives
+and completed technical and engineering toolkits
+
+Hits
+
+Speed
+
+24
+6m
+Skills
+Electronics (computers) 2,
+Electronics (sensors) 2, Mechanic 2,
+Steward 2, Engineer (all) 2
+Attacks
+None
+Traits
+Armour (+4), Flyer (idle),
+IR/UV Vision
+Programming Very Advanced
+
+Cost
+14 Cr650000
+
+TL
+
+MEDICAL SUPPLIES
+A11/58231
+
+BIO-ADJUSTMENT PILL
+
+Bio-adjustment pills alter an Aslan’s digestion, allowing them
+to metabolise alien meats. Different planets require different
+types of pill, although broad-spectrum pills exist that are
+suitable for a variety of worlds. Cr20 will buy enough pills to
+last an Aslan a month.
+Item
+TL Kg
+Bio-adjustment Pills 8 —
+
+A11/58231
+
+Cost
+
+Cr20
+
+SLASHPATCH
+
+The slashpatch is a specialised bandage designed to treat
+dewclaw cuts. It glues the wound shut and releases painkillers
+and clotting agents at a rate optimised to deal with slashing
+injuries. If a slashpatch is applied within one minute of a claw
+attack, it immediately heals 1D points of damage.
+Item
+Slashpatch
+
+TL Kg
+—
+
+6
+
+Cost
+
+Cr5
+
+57
+
+

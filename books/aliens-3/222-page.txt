@@ -1,0 +1,83 @@
+Events
+
+2D
+2
+
+4
+
+Your guidance has proven to be a benefit to the community, gaining the respect of a large number
+of clans, gain SOC +1 and an Ally.
+A notable Matriarch consults you on some spiritual matters. Gain her as a Contact.
+
+5
+
+You are sent to a new community to guide them. Gain one level of Survival or Persuade.
+
+3
+
+6
+
+7
+8
+9
+
+10
+
+11
+12
+
+Mishaps
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+1D
+
+You retreat from the larger community to a pod of other spirit singers in the hope of a revelation,
+although this affects your work and relationships. Lose SOC-3 but gain D3 Benefit rolls and DM+1
+on these and all future Benefit rolls.
+Life Event. Roll on the Life Events table.
+You are chosen to present the Way in a vid show or other highly public forum. Gain one level of
+Carouse or Persuade.
+Your companions are attached by fierce sea creatures! Do you fight or flee? If you flee gain one
+of survivors as an Enemy. If you stay and fight, roll Melee (natural) to rescue them; if successful,
+gain one of them as an Ally. If you fail roll on the Injury table.
+You are secretly asked to consult the spirits for a dying matriarch, although she does not share
+your faith. If you agree, gain an Ally in her Pod but also gain a Rival in your own faith who does
+not agree with your choice.
+An Orca more charismatic but less devout than you becomes your superior. All future
+advancement rolls are subject to DM-2.
+You provide spiritual guidance that proves to be highly successful. You are immediately promoted
+one rank and gain DM+1 on all future advancement checks.
+
+2
+
+You provide guidance to someone but this angers a friend or relative of theirs. Gain an Enemy.
+
+3
+
+You are caught on the periphery of a scandal. Lose one level of rank and one Benefit roll but you
+are not ejected from the career.
+You have been misguided in your interpretation of the Way! Lose 1 skill level from either
+Profession (spirit singer) or Science (the Way). You do not have to leave the career.
+Your faith is shaken. Loss all Benefit rolls gained thus far in this career but you do not have to
+leave the career.
+You come into conflict with a splinter group of your own religion, which maintains your version is
+the wrong one. Gain D3 Rivals.
+
+4
+5
+6
+
+2
+
+Orca Travellers
+
+1
+
+MISHAP
+You are injured by opponents of the Way. Roll on the Injury table.
+
+223
+
+

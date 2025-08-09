@@ -1,0 +1,114 @@
+Monitors do not have formal rank but SolSec rates
+them based on their position and usefulness. Any time
+a monitor also receives promotion in their own career,
+their monitor rank goes up by +1 (to a maximum of
+6). A Traveller with monitor rank 3+ receives one
+extra Benefit roll. This roll may be taken on their own
+career’s table or on the SolSec Benefits table. Monitor
+rank is primarily honorary in nature. Solomani use the
+term ‘monitor rank’ as a cynical synonym for a position
+without value or authority.
+A monitor may continue to be a monitor even after
+the Traveller creation process ends. SolSec may act
+to protect and advance interests of any monitors who
+are believed to be in danger or positioned to provide
+information of great interest to Solomani Cause.
+
+PARTY MEMBERSHIP
+
+Any Traveller who qualifies for the Party career can
+automatically join the Solomani Party. A Traveller
+who is a racial Solomani or passing as one and not
+in a Party career may still become a member of the
+Solomani Party. This means they participate in periodic
+Solomani Party meetings and events but do not make
+the Solomani Cause their career.
+If the Traveller has SOC 9 or less, joining the Party
+requires giving up one of that term’s rolls on the
+Skill and Training table. Instead of rolling, the
+Traveller receives Party membership and SOC +1.
+This represents the time spent on Party activities. If
+the Traveller has SOC 10+, joining the Party requires
+no sacrifice but gives no extra benefit; the Traveller
+already has Party connections such as family members
+and likely is a guest at Party events on a regular basis;
+joining is a formality.
+Travellers that join the Solomani Party effectively have
+Party rank 0. This can only be increased by pursuing a
+career within the Party itself.
+
+CAREERS
+
+Solomani Confederation Travellers may enter most of
+the careers in the Traveller Core Rulebook. Exceptions
+are detailed here.
+
+128
+
+New Careers
+
+Careers described in this book reflect specific Solomani
+Confederation institutions.
+Navy: The Solomani Confederation Navy service
+combines the duties of the Imperium’s Navy and Scout
+Service.
+Party: A Dedicated cadre in the dominant Solomani
+Movement.
+SolSec: The Traveller is an operative in the Solomani
+Confederation’s political security and intelligence
+service. Note that Solomani may also select other
+Agent assignments representing police officers,
+intelligence agents of other government ministries or
+the armed forces and corporate spies.
+
+Restricted Careers
+
+Traveller Core Rulebook careers are available to
+Solomani Confederation Travellers, with the following
+restrictions:
+Marine: The Confederation Marines are subordinate to
+the Confederation Navy and specialise as ship’s troops.
+Only the star marine assignment is available.
+Navy: Use the Navy career in this book instead.
+Noble: This career is unavailable. A Traveller
+interested in being one of the elite should join the
+Solomani Party instead.
+Scout: This career is unavailable. A Traveller who wants
+a similar experience should enlist in the Confederation
+Navy instead.
+
+The Solomani Draft
+
+Confederation Travellers that opt for the Draft use the
+Solomani Draft table.
+
+Solomani Draft
+1D
+
+Career (assignment)
+
+1
+
+Navy (any)
+
+2
+
+Army (any)
+
+3
+
+Marine (star marines)
+
+4
+
+Merchant (merchant marine)
+
+5
+
+SolSec (any)
+
+6
+
+Agent (law enforcement)
+
+

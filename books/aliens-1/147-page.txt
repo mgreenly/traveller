@@ -1,0 +1,76 @@
+A11/58231
+
+BREAKER-OF-LINES
+
+The Breaker acts as an artillery unit. It has a rapid-fire laser
+unit equivalent to a Hand-of-Length for close-in defence but
+its primary armament is a short-barrelled 112mm mortar
+which can deliver explosive munitions. The mortar has an
+effective range of 3km and carries enough projectiles for
+twelve bursts.
+
+ROBOT
+Breaker-ofLines
+
+HITS
+50
+
+SPEED
+10m
+
+TL
+10
+
+COST
+Cr150000
+
+SKILLS
+
+Heavy Weapons (vehicle) 1, Gun Combat
+0, Recon 0
+ATTACKS
+Hand-of-Length (4D, Auto 4), Support
+Mortar (9D, Artillery, burst 6)
+TRAITS
+Armour (+16)
+PROGRAMMING Hunter/Killer
+
+A11/58231
+
+SLAYER-OF-SHIELDS
+
+The Slayer is a direct-fire support unit. It has a rapid-fire stagger laser for close range defence but its main armament
+is a pair of Weapon-of-Destruction plasma guns carried on stubby arms alongside the main hull. The Slayer normally
+fires its weapons alternately, allowing a brief cooling period. Both can be fired simultaneously but there is a chance of
+overheating and malfunction every time this is done. The first time both guns are fired together in the same round, roll
+1D. On a 6+, the guns will overheat, requiring realignment and repair, which is a workshop job. A cumulative DM+1 is
+added to this roll for every consecutive round both plasma guns are fired.
+
+ROBOT
+Slayer-ofShields
+
+HITS
+50
+
+SPEED
+12m
+
+TL
+10
+
+COST
+Cr325000
+
+SKILLS
+
+Heavy Weapons 1, Gun Combat 0, Recon
+0
+ATTACKS
+Stagger Laser Rifle (5D, Auto 2), Weaponof-Destruction (1DD) x 2
+TRAITS
+Armour (+24)
+PROGRAMMING Hunter/Killer
+
+147
+
+

@@ -1,0 +1,216 @@
+GUNBOAT
+
+CLASS: GRATHRISS
+
+The Grathriss serves two roles in the Tezcat navy –
+as a combat ship and customs vessel. As a combat
+ship, several escort fighters normally accompany
+the gunboat to protect it from aggressors but as a
+customs ship, Grathriss normally travel in groups of
+two or three. The staterooms and large fuel capacity
+allow it to perform long patrols or remain hidden
+
+TL12
+Hull
+
+in the clouds of a gas giant while the crew wait to
+surprise pirates and smugglers. The particle beam
+barbette can inflict significant damage to targets
+while its heavy armour and reinforced hull serve as
+ample protection. Lastly, the Grathriss can serve
+as an adequate system defence boat or combat
+support vessel for a planet’s system defence fleet.
+
+Tons
+
+Cost (MCr)
+
+100 tons, Streamlined
+
+—
+
+6
+
+Reinforced Hull
+
+—
+
+3
+
+Crew
+Pilot, Gunner
+
+Hull: 44
+
+Aerofins
+
+5
+
+0.5
+
+Armour
+
+Titanium Steel, Armour: 9
+
+22.5
+
+1.125
+
+Thrust 6
+
+6
+
+Running Costs
+
+M-Drive
+
+12
+
+Power Plant Fusion (TL12), Power 105
+
+MAINTENANCE COST
+
+7
+
+7
+
+C4720/month
+
+Fuel Tanks
+
+3
+
+—
+0.5
+
+PURCHASE COST
+
+10
+
+12 weeks operation
+
+Bridge
+Computer
+
+Computer/20bfib
+
+—
+
+7.5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Particle Barbette
+
+5
+
+8
+
+Systems
+
+Armoured Bulkheads (bridge)
+
+1
+
+0.2
+
+Armoured Bulkheads (manoeuvre drive) 0.6
+
+0.12
+
+Armoured Bulkheads (powerplant)
+
+0.7
+
+0.14
+
+Armoured Bulkheads (sensors)
+
+0.3
+
+0.06
+
+Fuel Scoop
+
+—
+
+—
+
+Staterooms
+
+Standard x2
+
+8
+
+1
+
+Software
+
+Evade/1
+
+—
+
+1
+
+Fire Control/2
+
+—
+
+4
+
+Intellect
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+Common
+Areas
+
+2
+
+0.2
+
+Cargo
+
+25.9
+
+—
+
+MCr56.645
+
+Power Requirements
+Basic Ship Systems
+20
+Manoeuvre Drive
+60
+Sensors
+4
+Weapons
+15
+
+Total: MCr56.645
+
+241
+
+

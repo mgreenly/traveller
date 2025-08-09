@@ -1,0 +1,93 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+You are seriously injured, equivalent to a roll of 2 on the Hiver Injury table.
+
+2
+
+You are threatened with violence and do not like it at all. Make a RES check. If you fail, your confidence is shaken
+and you pass up several opportunities. Lose a number of Benefit rolls equal to the negative Effect. If you succeed,
+gain an Enemy who is even more resentful at being manipulated into not hurting you the first time.
+
+3
+
+It all went wrong. You do not know if you failed to plan properly or there are other manipulators working against
+you. Either way, you lose RES –1.
+
+4
+
+Everything went wrong, then suddenly it was all fine again. Someone intervened but you do not know why.
+You do not have to leave the career but gain a Contact to whom you owe a huge favour. If this is not repaid
+you will gain a powerful Enemy but if you do what they ask of you when the time comes you will gain them as
+an Ally instead.
+
+5
+
+Your reputation is blackened, which you may or may not deserve, but either way you cannot manipulate anyone
+who knows about your shame. You left your old life behind to get away from this situation.
+
+6
+
+Your nest was involved in conflict and has ceased to exist. The survivors were mostly absorbed by other nests
+but for some reason none would take you.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+You are manipulated into taking part in a major project outside your normal field of endeavour. You may roll on
+any Service Skills table for any career and gain the indicated skill.
+
+4
+
+Things generally go rather well whenever you are involved and you are pleased with the results. More
+importantly, you get the credit. Gain DM+4 on your next advancement check.
+
+5
+
+You make contacts and influence people. Gain D3 Contacts.
+
+6
+
+An opportunity arises to obtain specialist training. Make a RES check. If successful you may gain a level in any
+skill you possess.
+
+7
+
+A Life Event occurs.
+
+8
+
+You travel aboard starships. Take one level in Pilot, Astrogation or Engineer
+
+9
+
+You become involved with the embassy and visit many other nests. Gain an Ally and a Contact.
+
+10
+
+You spend considerable time outside the Hive Federation. Gain a level of Deception or Streetwise
+
+11
+
+You are involved in preservation work in the local wilderness. Gain a level of Animals, Recon or Survival.
+
+12
+
+Your nest is threatened and everyone receives militia training to help defend it. Gain a level of Gun Combat or
+Heavy Weapons.
+
+265
+
+

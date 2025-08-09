@@ -1,0 +1,174 @@
+T
+
+Navy: The Confederation Navy patrols space between
+its star systems. The navy has a responsibility to
+protect the Confederation against invasion and deter
+piracy by the lawless elements who cluster around
+Darrian borders. Primary of these threats are the
+Zhodani and Sword Worlds fleets against whom the
+Darrian Navy has clashed numerous times in the past.
+Scholar: Knowledge and learning are almost an
+obsession amongst Darrians, something in their psyche
+driving them towards accumulating information, then
+analysing it with insatiable curiosity. Upon beginning
+adulthood, Darrians must decide whether to spend
+their first term serving in the military or continue higher
+education by entering a university. About half choose
+the path of learning. Despite only the first term being
+mandatory by law, many decide to continue a career in
+research, science or medicine.
+Special Arm: The Special Arm is the mysterious
+third branch of the Darrian military – the secretive
+organisation assigned to control and deploy the
+terrifying Star Trigger. Members of the Special Arm are
+occasionally seen travelling across the Confederation
+and have authority to commandeer ships to act as
+couriers or perform missions vital to Confederation
+security. More notable is the fact that new discoveries
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+of pre-Maghiz technology are usually confiscated by
+the Special Arm, although sometime later artefacts are
+usually returned to the original discoverer or university
+for further analysis.
+Worker: While most Darrians serve in some duty,
+the majority work in corporations, industries and civil
+authorities that run societies. Depending on the employer,
+work can range from waste recycling to legal secretariat
+duties, with both blue- and white-collar vocations.
+Wanderer: Some Darrians move about the
+Confederation without putting down roots in any one
+place. Most are transient workers or simple nomads
+wishing to see every aspect of Darrian culture. A few
+are exiles, keeping one step ahead of their blackened
+reputations by hiding at the few foreign outposts in the
+Confederation, crewing non-Darrian ships or assuming
+fake identities. Wanderers generally travel between
+worlds by working for their passage on ships.
+
+AGING
+Darrian aging is the same for standard humans in its
+onset but generally less severe. The first roll on the
+aging table is made after four terms of service at 34.
+Thereafter, it is checked every four years and half the
+number of the Traveller’s terms served is applied as a
+negative DM to the roll.
+
+Careers Table
+Career
+
+Assignment
+
+Advancement
+
+Police
+
+END 6+
+
+INT 6+
+
+Intelligence
+
+DEX 5+
+
+INT 7+
+
+Analyst
+
+INT 7+
+
+INT 5+
+
+Artist
+
+DEX 7+
+
+EDU 5+
+
+Author
+
+EDU 6+
+
+INT 6+
+
+Performer
+
+SOC 5+
+
+INT 7+
+
+Advocate
+
+SOC 5+
+
+EDU 7+
+
+Diplomat
+
+SOC 6+
+
+INT 6+
+
+INT 7+
+
+DEX 5+
+
+Cavalry
+
+END 6+
+
+EDU 6+
+
+Infantry
+
+END 5+
+
+EDU 7+
+
+Support
+
+EDU 7+
+
+EDU 5+
+
+INT 7+
+
+INT 5+
+
+Darrian Travellers
+
+Entertainer
+
+38
+
+Qualification
+
+Survival
+
+Agent
+
+EDU 7+
+
+Envoy
+
+Observer
+STR 6+
+
+Guard
+
+E
+
+R
+
+

@@ -1,0 +1,89 @@
+LEAD GRAV SKIMMER
+
+ARMOUR
+F RO N T
+
+3
+
+RE A R
+
+3
+
+SI D E S
+
+3
+
+Autopilot (skill level) +1
+Communications
+(range) 50km
+Navigation
+(Navigation DM) +2
+Sensors (Electronics
+(sensors) DM) +1
+Camouflage (Recon
+DM) —
+Stealth (Electronics
+(sensors) DM) —
+
+WEAPONS
+
+TL
+SKILL
+AGILITY
+SPEED (CRUISE)
+RANGE (CRUISE)
+CREW
+PASSENGERS
+CARGO
+HULL
+SHIPPING
+COST
+
+9
+FLYER (GRAV)
++2
+HIGH (MEDIUM)
+2000 (3000)
+1
+0
+10
+5
+CR340500
+
+None
+
+EQUIPMENT
+Actuation System, Autopilot (improved), Communications System
+(improved), Computer/1, Control interface (improved), Control Systems
+(improved), Navigation System (improved), Sensors (improved)
+
+TRAITS
+Open
+
+DESCRIPTION
+The Lead Grav Skimmer is essentially the
+same vehicle as the standard model but with
+better electronics and provision to control
+others by way of a base station. It is usually
+richly decorated to denote the status of the
+patriarch. Most suppliers will offer a deal on
+several personal skimmers plus a lead model
+and will add custom decoration matched to the
+status of the user – senior wife, administration
+expert and so forth. If so, the skimmers usually
+come with a pre-programmed formation and set
+of ‘come close alongside and receive wisdom
+or instruction from the Patriarch’ function
+on the control module. Note that the lead
+skimmer can be flown directly or act as what is
+
+150
+
+essentially a drone operated from the base station
+it carries. This is the standard mode of operation,
+as a patriarch typically has better things to
+do than fly his vehicle. Instead, he selects a
+destination for the formation as a whole and is
+conveyed there in style.
+
+

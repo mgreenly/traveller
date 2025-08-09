@@ -1,0 +1,18 @@
+To D e c k 2
+
+1
+2
+
+14
+3
+
+3
+DECK 1
+LEGEND
+1. Cargo hold
+2. Hanger
+3. Particle barbettes
+
+244
+
+

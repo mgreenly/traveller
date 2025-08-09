@@ -1,0 +1,120 @@
+T
+
+Migukas are descendants of the aginkam and the
+first species domesticated by prehistoric Suerrat. Due
+to their long association with Suerrat, migukas have
+been selectively bred into many domestic varieties
+favouring various behaviours, sensory capabilities
+and physical attributes. Migukas breeds vary widely in
+shape, size and colour. The sickle-claws found in their
+ancestors are largely missing in migukas except for
+those varieties used for hunting. Migukas perform many
+roles for Suerrat such as hunting, herding, protection,
+companionship and therapy. Over their period of
+domestication, migukas have become adapted to
+Suerrat behaviour, forming close bonds with the owners.
+
+The Suerrat Homeworld
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Nishma
+
+Migukas
+
+36
+
+R
+
+Nishma are large pseudo-vertebrate herbivores which
+dwell on the forested savannahs of Ilelish. Adults can
+grow as large as 10 metres long and eight metres
+high at the ‘shoulder’, weighing in excess of 50 tons.
+They gather in herds of 8–10 adults and any young still
+dependent on their parent. A thick shell covers their
+back while eight thick jointless legs support their heavy
+bodies. Their mouth can be extended on a trunk-like
+appendage to reach either ground-level vegetation
+or leaves high up on trees. They also use their heavy
+weight to push trees down to bring vegetation within
+reach for their young. Nishma roam over large areas,
+constantly on the move as they feed. The species lay
+small clutches of eggs which they guard until they
+hatch. The young remain with their parent for 13 years,
+after which they leave to find an unrelated group to
+join. Newborns are vulnerable to predators, so adults
+become aggressive in protecting them.
+
+Animal
+
+Hits
+
+Speed
+
+Migukas
+
+7
+
+12m
+
+Skills
+
+Athletics (dexterity) 2, Melee
+(natural) 1, Recon 3, Stealth 2,
+Survival 0
+
+Animal
+
+Hits
+
+Speed
+
+Bite (1D), Claws (D3+1)
+
+Nishma
+
+110
+
+6m
+
+Attacks
+
+Heightened Senses, Small (-1)
+
+Skills
+
+Traits
+
+Athletics (strength) 2, Recon 1,
+Survival 2
+
+Behaviour
+
+Carnivore, Pouncer
+
+Attacks
+
+Trample (7D)
+
+Traits
+
+Armour (+5), Heightened Senses,
+Large (+5)
+
+Behaviour
+
+Herbivore, Intermittent
+
+R
+
+

@@ -1,0 +1,122 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+T
+
+W
+
+E
+
+N
+
+T
+
+Y
+
+O
+
+N
+
+E
+
+DROYNE TRAVELLERS
+
+Playing a Droyne can be quite a challenge. For the
+most part Droyne are driven to be part of a community
+with other Droyne, to the point where they will commit
+ritual suicide if driven out or otherwise deprived of the
+company of their Oytrip. One solution to this problem is
+for the Travellers to play a group of Droyne sent to carry
+out some mission or for a lone Traveller to play a Sport
+who intends to return home when their task is complete.
+Young Droyne normally transfer to a different family
+within their extended family group but it is not unknown
+for one to transfer to an entirely different Oytrip. A
+Droyne Traveller might have become lost or detached
+during this process and may wander for a time before
+reaching their destination and settling down. The
+Droyne might also be a member of a Kroyloss or
+fraternity. A Kroyloss would normally be a group of other
+Droyne but events might cause the Droyne Traveller to
+feel a sense of belonging with a group of non-Droyne.
+This would certainly be an unusual situation that might
+provide for adventure ideas later in the campaign.
+Alternatively, a Traveller can play a Droyne who has
+been driven from or lost their Oytrip. The latter is
+a traumatic event, which might be a plot point in
+subsequent adventures. Most Droyne would commit
+suicide through the Krinaytsyu ritual but some – known
+as Krinaytsyuni – do not feel the urge to do so or have
+some goal that must be accomplished before they can
+die. These may be tortured individuals or may have
+psychological problems, but the way they manifest will
+be different to other species. A loner Droyne might be
+a very strange individual, or may suppress everything
+along with the desire to depart their lonely existence.
+Anyone choosing to play a Droyne must keep in mind
+that they do not think or act like humans. Nor do they
+fit in seats made for humans. Devices may be too big
+for them to comfortably hold or use. A lone Droyne will
+stand out where people are familiar with them and any
+Droyne will stand out where they are not well known.
+Playing a Droyne is likely to be challenging but could
+be an interesting experience for the Traveller – and all
+their companions.
+
+DROYNE FLIGHT
+
+The wings grown by Droyne vary in their proportions. In
+many individuals they are vestigial and cannot support
+flight under any circumstances. Other Droyne have
+wings large enough to permit flight in some conditions
+and to act as a gliding aid in others.
+When determining the wing size for a given Droyne, roll
+1D. On 1–3 the Droyne has vestigial wings. On 4–5 the
+Droyne has small wings, and on 6 they have large wings.
+If a Traveller really wants to be able to fly, they may
+add enough points to the value rolled to get the wings
+they want but must subtract that number of points from
+any combination of STR, DEX and END. A Droyne with
+vestigial wings can still fly with the aid of a mechanical
+wing set.
+A Droyne with large wings (or using a mechanical
+wing set) can fly on a world of Size 5 or less with
+a Standard atmosphere and on a world of Size 7 or
+less with a Dense atmosphere. Small wings allow
+flight on worlds one Size code smaller. It is possible
+to make a short glide or to slow a fall using wings on
+worlds two Size codes larger than one where flight
+would be possible and to do so on a world with a Thin
+atmosphere of Size 4 or less. A glide or controlled
+fall must be in a downward direction, with no more
+than two metres of lateral movement for every three
+metres downward. Gliding uses the Flight skill (see
+page 188). Falling under control can use the Flight or
+Athletics (dexterity) skill.
+STR 4+ is required to be able to fly, no matter how
+large the Droyne’s wings may be. If the Droyne is
+injured and STR drops below 4, they will be unable
+to fly but may be able to make an emergency landing.
+A Droyne can fly quickly and engage in manoeuvres
+for a number of combat rounds equal to their END,
+after which they become fatigued (see page 76 of the
+Traveller Core Rulebook). Distance-covering flight can
+be maintained for five minutes per point of END before
+becoming fatigued.
+
+187
+
+

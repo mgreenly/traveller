@@ -1,0 +1,267 @@
+CREDIBILITY MAJOR STARSHIP
+TL15
+
+COST (MCR)
+
+CREW
+
+Hull
+
+10,000 tons, Standard
+
+—
+
+500
+
+Armour
+
+Bonded Superdense, Armour:
+6
+
+480
+
+240
+
+M-Drive
+
+Thrust 2 (energy efficient x3)
+
+200
+
+600
+
+Jump Drive
+
+Jump 2 (energy efficient x3)
+
+550
+
+1237.5
+
+Power Plant
+
+Fusion (TL15), Power 4000
+
+200
+
+400
+
+Fuel Tanks
+
+J-2, 20 weeks of operation
+
+2,100
+
+—
+
+Bridge
+
+Command Centre
+
+95
+
+100
+
+Automation
+
+General Systems Automation
+
+100
+
+200
+
+Computer
+
+Core/80
+
+—
+
+95
+
+Sensors
+
+Advanced
+
+5
+
+5.3
+
+Military Countermeasures
+Suite
+
+15
+
+28
+
+MCr4147.8
+
+Small Particle Bays x3
+
+150
+
+60
+
+Small Missile Bays x3
+
+150
+
+36
+
+Power Requirements
+
+Triple Turrets (pulse lasers)
+x30
+
+30
+
+120
+
+Triple Turrets (sandcasters)
+x30
+
+30
+
+52.5
+
+Point Defence Batteries (type
+III) x6
+
+120
+
+Nuclear Dampers x6
+
+Weapons
+
+Systems
+
+Staterooms
+Software
+
+CAPTAIN, PILOT, ASTROGATOR,
+ENGINEERS X12, MAINTENANCE X4,
+GUNNERS X36, ADMINISTRATORS
+X4, OFFICERS X3
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr345650/month
+
+PURCHASE COST
+
+500
+
+2,000
+
+120
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+60
+
+120
+
+500
+
+6
+
+Repair Drones
+
+100
+
+20
+
+Libraries x6
+
+24
+
+24
+
+JUMP DRIVE
+
+SYSTEMS
+
+Briefing Rooms x6
+
+24
+
+3
+
+Medical Bays x6
+
+24
+
+12
+
+8
+
+825
+
+Armouries x6
+
+6
+
+1.5
+
+Workshops x2
+
+12
+
+0.3
+
+SENSORS
+
+WEAPONS
+
+Full Hangars (50 tons) x6
+
+600
+
+120
+
+Standard x75
+
+300
+
+37.5
+
+150
+
+15
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+4,475
+
+—
+
+Common Areas
+
+Cargo
+
+TOTAL: MCR 4147.8
+
+246
+
+TON
+
+

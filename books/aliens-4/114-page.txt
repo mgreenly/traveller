@@ -1,0 +1,169 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+UIGICK POLICE DRONE
+ANAROTH HEAVY INFANTRY DRONE
+The heavy infantry drone is named after another native
+animal form from Loza'tch – a heavy, short-tempered
+herbivore. The bulky Anaroth is surprisingly fast for
+its size and capable of keeping up with the shift and
+flow of combat. With four limbs, both manipulators, the
+Anaroth presents a terrifying image as it runs across
+the field or comes swinging through trees. While its
+mounted weapons are not the heaviest, the Anaroth
+has the strength to carry and use bulky and heavy
+weaponry for specific missions.
+
+Robot
+
+Hits
+
+Speed TL
+
+Cost
+
+Uigick Police
+Drone
+
+21
+
+9m
+
+Cr110000
+
+Locomotion
+
+Walker
+
+Skills
+
+Athletics (dexterity) 1, Athletics
+(strength) 1, Melee (unarmed) 2,
+Recon 2, Stealth 1
+
+Attacks
+
+Kaath Pistol (1D+2, Stun)
+
+Manipulators
+
+4 X (STR 9 DEX 9)
+
+Endurance
+
+50 hours
+
+Traits
+
+Armour (+10), ATV, Heightened
+Senses, IR/UV Vision,
+
+Attacks
+
+Gauss Rifle (4D, AP 5, Auto 3,
+Scope), Stagger Laser Rifle (5D+3,
+Auto 3, Zero-G)
+
+Manipulators
+
+4 X (STR 17 DEX 12)
+
+Options
+
+Endurance
+
+101 hours
+
+Traits
+
+Armour (+25), ATV, Large (+1), (idle),
+Heightened Senses, IR/UV Vision,
+
+Robot
+
+Hits
+
+Anaroth Heavy
+Infantry Drone 32
+
+Speed TL
+
+Cost
+
+9m
+
+Cr380000
+
+14
+
+Locomotion
+
+Walker
+
+Skills
+
+Athletics (dexterity) 1, Athletics
+(strength) 3, Gun Combat (energy)
+3, Gun Combat (slug) 3, Melee
+(unarmed) 3, Recon 3, Stealth 1
+
+Programming None or Drone (INT 0)
+
+CSC: Za’tachk
+
+Options
+
+114
+
+The police drone is a common sight on the streets
+of Za’tachk city streets. Resembling nothing more
+than a lightly armoured Za’tachk, the drone allows
+safe patrolling and response without endangering
+the operator. Armed with a kaath pistol, the police
+drone can disable criminals without endangering
+their lives. If necessary, the Uigick can be armed
+with other equipment.
+
+Audible Sensor, Audible Sensor
+(broad spectrum), Drone Interface,
+Encryption Module, Fire Control
+System (enhanced) x2, PRIS
+Sensor, Recon Sensor (advanced),
+Satellite Uplink, Transceiver
+500km (improved), Stealth (basic),
+Tightbeam Communicator, Visual
+Spectrum Sensor, Voder Speaker,
+Vacuum Environment Protection,
+Weapon Mount (medium) x2,
+Wireless Data Link
+
+12
+
+Programming None or Drone (INT 0)
+Audible Sensor, Audible Sensor
+(broad spectrum), Drone Interface,
+Encryption Module, Fire Control
+System (enhanced), Forensic Toolkit
+(enhanced), PRIS Sensor, Recon
+Sensor (enhanced), Stealth (basic),
+Transceiver 50km (improved),
+Visual Spectrum Sensor, Voder
+Speaker, Weapon Mount (medium),
+Wireless Data Link
+
+R
+
+

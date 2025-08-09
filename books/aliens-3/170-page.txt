@@ -1,0 +1,142 @@
+Events
+
+2D
+2
+
+7
+
+Rivalries between another race and Dolphins over your world’s ocean resources lead to conflict.
+Do you choose violence or diplomacy? If you chose diplomacy roll Advocate or Diplomat 8+.
+Success means your faction was vindicated and you gain DM+2 on your next advancement roll;
+failure means a loss of one Benefit roll. If you chose violence roll Explosives, Gun Combat or
+Tactics 8+. Failure results in DM-2 on your next advancement roll and you must roll on the Injury
+Table. Whichever path you chose, raise Leadership or the skill you rolled on by one level.
+You volunteer for a research project to test new waldo equipment or cybernetics to improve the lives of
+other Dolphins. Gain a Contact in the research field and roll EDU 7+ to gain Science (cybernetics) 1.
+You have a chance to travel offworld on business and spend a long time in space. Increase your
+choice of either Athletics (dexterity), Electronics (comms) or Electronics (sensors) by 1 or gain Pilot 1.
+You rescue a high-status swimmer who was lost at sea. Roll STR 7+; if successful gain a SOC
+10+ sophont as an Ally.
+Life Event. Roll on the Life Events table.
+
+8
+
+Spend an extensive period living out of water among humans. Increase Vacc Suit or Diplomat by 1.
+
+9
+
+11
+
+Your companions are attacked by fierce sea creatures! Do you fight or flee? If you flee gain one of
+the survivors as an Enemy. If you stay and fight, roll Melee (natural) or Gun Combat 7+ to rescue
+them; if successful, gain one as an Ally; if you fail roll on the Injury table.
+You are asked to volunteer for a dangerous mission to rescue people in a sinking vessel or
+underwater city. Roll Survival or END 8+. If successful you are granted DM+2 on your next
+advancement roll and gain an extra Benefit roll. If you fail, roll on the Injury table.
+You discover a sunken vessel that contains valuable salvage. Gain one extra Benefit roll.
+
+12
+
+You rise to a position of responsibility. Your next advancement roll automatically succeeds.
+
+3
+
+4
+5
+6
+
+10
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+LIAISON
+—
+—
+Representative
+—
+Ambassador
+—
+—
+
+SKILL OR BONUS
+—
+—
+Diplomat 1
+SOC +1
+Vacc Suit 1
+SOC +1
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+NOMAD
+—
+—
+Pod Leader
+—
+—
+Superpod Leader
+—
+
+SKILL OR BONUS
+—
+—
+Leadership 1
+SOC 6 or SOC +1
+—
+SOC 8 or SOC +1
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+HISTORIAN-POET
+Candidate
+Apprentice
+—
+Journeyman
+—
+—
+Master
+
+SKILL OR BONUS
+Art (performer) 1
+Science (history) 1
+SOC 6 or SOC +1
+—
+SOC 8 or SOC +1
+—
+SOC 10 or SOC +1
+
+1
+
+Dolphin Travellers
+
+Ranks and bonuses
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+171
+
+

@@ -1,0 +1,264 @@
+HALAHEIKE-CLASS POCKET WARSHIP
+TL14
+
+TONS COST (MCR)
+
+Hull
+
+1,200 tons, Streamlined,
+Reinforced
+
+—
+
+108
+
+Armour
+
+Bonded Superdense, Armour 10
+
+96
+
+86.4
+
+M-Drive
+
+Thrust 3
+
+36
+
+72
+
+J-Drive
+
+Jump 3
+
+95
+
+142.5
+
+Power Plant
+
+Fusion (TL12), Power 720
+
+48
+
+48
+
+Fuel Tanks
+
+J-3, 4 weeks of operation
+
+364
+
+—
+
+Bridge
+
+Holographic Controls
+
+40
+
+7.5
+
+Computer
+
+Computer/30 fib
+
+—
+
+30
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Ammunition
+Systems
+
+Small Particle Beam Bays x 2
+
+100
+
+40
+
+Triple Turrets (beam lasers) x 4
+
+4
+
+10
+
+Triple Turrets (missile racks x 2,
+sandcaster) x 6
+
+6
+
+16.5
+
+Missiles x 360
+
+30
+
+Sandcaster Barrels x 240
+
+12
+
+—
+—
+
+Fuel Processor (60 tons/day)
+
+3
+
+0.15
+
+Fuel Scoops
+
+—
+
+—
+
+Shrine
+
+4
+
+0.5
+
+Docking Space (10 tons) x 10
+
+110
+
+27.5
+
+Light Fighter x 10
+
+—
+
+78
+
+Docking Space (20 tons) x 2
+
+44
+
+11
+
+Launch x 2
+
+—
+
+11.214
+
+Staterooms
+
+Standard x 30
+
+120
+
+15
+
+Software
+
+Jump Control/3
+
+—
+—
+-—
+—
+
+0.3
+
+—
+—
+
+Common Areas
+
+20
+
+2
+
+Cargo
+
+65
+
+—
+
+Library
+Manoeuvre/0
+Fire Control/5
+
+CREW
+CAPTAIN, PILOTS X 14, ASTROGATOR,
+EXECUTIVE OFFICER, OFFICERS X 3,
+ENGINEERS X 5, MAINTENANCE X 3,
+GUNNERS X 12
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr60072/month
+
+PURCHASE COST
+MCr720.864
+
+Power Requirements
+360
+
+240
+
+3
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+360
+
+4
+
+112
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+10
+
+TOTAL: MCR 720.864
+This so-called ‘pocket warship’ is a 1,200-ton
+spacecraft used by smaller clans for military
+operations. The Halaheike is heavily armed for
+its size, with a range of missile racks, lasers and
+particle beams and carries a fighter complement
+of ten fighters and two launches for boarding
+actions and customs inspections. Some owners
+convert the cargo bay to hold troops or some 200
+low berths (although this will put a serious strain
+on the power plant), allowing the Halaheike to
+serve as a troop transport.
+
+528
+HULL POINTS
+104
+
+The design is known for maintenance issues and
+jump drive failures but the vessel’s main problem
+is that it tries to do too much in one package,
+requiring the most advanced Aslan technology
+just to function. The Halaheike might be a
+carrier, assault cruiser, system defence boat and
+troop carrier all in one but is sub-par in all those
+roles. Larger clans that can afford specialist
+vessels rarely field Halaheikes.
+
+

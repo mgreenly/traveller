@@ -1,0 +1,163 @@
+T
+
+Eye-Spy Drone: The eye-spy is a small device used
+in areas where active surveillance is required in an
+unobtrusive manner. It is approximately the size of a
+softball and can float some distance from the area to
+be observed without reduction in capability. Eye-spies
+often work in groups, connected to a central computer
+where a living operator can monitor the bots and direct
+them to areas of interest.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Horticulture Bot: Horticulture bots are almost routinely
+used by Geonee in maintaining their central courtyard
+gardens and their use has been extended to space
+habitats and starships. The horticulture bot uses
+tentacle arms to tend plants and is able to diagnose
+and treat plant diseases as well as eradicate minor
+pests. A small grav unit give the robot the ability to tend
+vertical gardens as easily as horizontal ones.
+
+Eye-spies are intelligent enough to detect suspicious
+behaviour on their own and focus on the disturbance
+or request additional units to provide backup
+surveillances, all while alerting the central computer.
+Occasionally, unusual or unexpected behaviour has
+confused the eye-spy, causing it to disregard a threat,
+hence the desirability of a living supervisor.
+
+Robot
+Robot
+
+Hits
+
+CSC: Geonee
+
+Eye-Spy Drone 2
+
+132
+
+Speed
+
+TL
+
+Cost
+
+9m
+
+12
+
+Cr50000
+
+Locomotion
+
+Grav
+
+Skills
+
+Athletics (dexterity) 3, Recon 3,
+Stealth 1
+
+Attacks
+
+None
+
+Manipulators
+
+None
+
+Endurance
+
+72 hours
+
+Traits
+
+Armour (+4), Flyer (idle), Heightened
+Senses, IR/UV Vision, Small (-4)
+
+Programming
+
+Advanced (INT 8)
+
+Options
+
+Auditory Sensor (broad spectrum),
+Drone Interface, Encryption Module,
+PRIS Sensor, Recon Sensor
+(advanced), Transceiver 500
+km (enhanced), Voder Speaker,
+Wireless Data Link
+
+Hits
+
+Horticulture Bot 12
+
+Speed
+
+TL
+
+Cost
+
+6m
+
+10
+
+Cr72000
+
+Locomotion
+
+Grav
+
+Skills
+
+Profession (horticulture) 2
+
+Attacks
+
+None
+
+Manipulators
+
+6 X (STR 7 DEX 9)
+
+Endurance
+
+48 hours
+
+Traits
+
+Armour (+3), Flyer( idle), Heightened
+Senses, IR Vision, Small (-1)
+
+Programming
+
+Basic (labourer) (INT 4)
+
+Options
+
+Agricultural Equipment (medium),
+Atmospheric Sensor, Auditory
+Sensor, Drone Interface,
+Light Intensifier Sensor
+(advanced), Olfactory Sensor
+(improved),Transceiver 5 km
+(improved), Voder Speaker,
+Wireless Data Link
+
+R
+
+

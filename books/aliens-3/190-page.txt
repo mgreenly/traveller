@@ -1,0 +1,36 @@
+1
+3
+2
+
+DECK 5
+4
+
+DECK 4
+
+6
+
+7
+8
+
+5
+
+6
+
+DECK 3
+
+DECK 2
+
+1. Bridge
+2. Extended Array
+3. Laboratoy
+4. Medical Bay
+5. Living Space
+6. Cargo Bay
+7. Fuel Processing
+8. Docking Space
+
+DECK 1
+
+191
+
+

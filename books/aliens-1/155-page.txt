@@ -1,0 +1,143 @@
+Enclosures
+Type
+Low berth, communal
+
+Size (tons)
+1 per occupant
+
+Cost
+Cr75000
+
+Servant-caste, minimal
+
+4+2 per occupant
+
+Servant-caste, secure
+
+5+2 per occupant
+
+Crew, minimal
+
+6+3 per occupant
+
+Crew, secure
+
+8+3 per occupant
+
+Merchant-caste, minimal
+
+8+3 per occupant
+
+Merchant-caste, secure
+
+10+3 per occupant
+
+Noble-caste, minimal
+
+12+5 per occupant
+
+Noble-caste, secure
+
+14+5 per occupant
+
+High Noble-caste, minimal
+
+20+10 per occupant
+
+High Noble-caste, secure
+
+22+10 per occupant
+
+Acceleration bench plus minimal
+personal space
+
+5t per occupant
+
+MCr0.2+0.1
+per occupant
+MCr0.25+0.2
+per occupant
+MCr0.4+0.2
+Costs are higher to reflect
+per occupant long-term living requirements
+MCr0.5+0.2
+per occupant
+MCr0.4+0.2
+per occupant
+MCr0.5+0.2
+per occupant
+MCr1+0.4 per
+occupant
+MCr1.25+0.4
+per occupant
+MCr3+1 per
+occupant
+MCr3.25+1
+per occupant
+Cr210000 per Short-haul craft only
+occupant
+
+Common Areas
+
+Common areas are necessary aboard K’kree starships,
+bought for the same price as aboard other ships (MCr0.1
+per ton). However, a greater proportion of common space
+is required for comfort; typically tonnage equal to half
+the total accommodation tonnage.
+
+Shipboard Park
+
+For real comfort, a starship needs an area capable of
+mimicking natural conditions on Kirur. This essentially
+means creating a shipboard park, which must consume
+at least 20 tons. Parks cost MCr0.25 per ton and
+require the attention of crewmembers to keep them
+pleasant but the ability to run a few paces on actual
+grass is extremely beneficial to crew health and sanity in
+the longer term. Nobles and certainly high nobles may
+refuse to travel aboard a starship that does not have at
+least a small exercise garden.
+
+Robotic Craft
+
+Very small robotic craft are normally termed drones but
+as size increases these autonomous or semi-autonomous
+vessels become something more capable. To the K’kree,
+there really is no difference between a fighter crewed
+by sentient people and a robotic fighter directed from a
+parent ship. Since it is unfeasible to build small fighters
+
+Notes
+K’kree low berths consume 1
+Power for every 5 berths
+The absolute minimum living
+space required
+
+to carry K’kree, robotic craft are found in most of the
+roles carried out by small craft elsewhere. K’kree do not
+question the wisdom of placing their lives in the hands
+of robotic devices; it is quite normal and has been going
+on long enough to be considered traditional.
+Robotic craft follow the rules for the Virtual Crew
+software package (see page 64 of High Guard). Note
+that no bridge is necessary if the craft is not intended to
+be flown manually by crew inside.
+K’kree Virtual Crew packages are not created to replace
+single crewmembers but are a complete system allowing
+the craft to carry out its intended role without any
+personnel aboard. For this reason they take up space
+within the hull and are considered a component rather
+than being purely a software system. A Virtual Crew
+package requires a computer with sufficient Bandwidth
+to run successfully.
+K’kree Virtual Crew packages allow normal functions
+of the crew positions they replace to be carried out
+without requiring additional software. A basic operations
+package replaces pilots, engineers and astrogators and
+thus allows the ship to manoeuvre (a pilot function),
+operate its sensors (pilot or astrogator) and control its
+power systems (engineer) without requiring additional
+
+155
+
+

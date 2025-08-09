@@ -1,0 +1,209 @@
+HEAVY FIGHTER
+
+CLASS: YARLASTH
+
+Built on a 70-ton hull, the Yarlasth is an imposing
+fighter with significant armour, a reinforced hull
+and a broad weapon loadout. The beam laser
+turret can be used either offensively or defensively
+
+TL12
+
+while the particle beam provides an impressive
+punch. With an additional missile rack and a total
+of 36 missiles, the fighter can inflict crippling
+damage to larger ships.
+
+Tons
+
+Cost (MCr)
+
+70 tons, Streamlined
+
+—
+
+4.2
+
+Reinforced Hull
+
+—
+
+2.1
+
+Aerofins
+
+3.5
+
+0.35
+
+Armour
+
+Titanium Steel, Armour: 9
+
+31.5
+
+1.575
+
+M-Drive
+
+Thrust 6
+
+4.2
+
+8.4
+
+Power Plant Fusion (TL12), Power 75
+
+5
+
+5
+
+Fuel Tanks
+
+1
+
+—
+
+6
+
+0.5
+
+Hull
+
+4 weeks operation
+
+Bridge
+Computer
+
+Computer/20fib
+
+—
+
+7.5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Single Turret (beam laser, long range)
+
+1
+
+0.825
+
+Fixed Mount (particle beam)
+
+—
+
+4.1
+
+Fixed Mount (missile rack)
+
+—
+
+0.85
+
+Ammunition Missile Storage (24 missiles)
+
+2
+
+—
+
+Systems
+
+0.6
+
+0.12
+
+Armoured Bulkheads (manoeuvre drive) 0.42
+
+0.084
+
+Software
+
+Armoured Bulkheads (bridge)
+Armoured Bulkheads (power plant)
+
+0.5
+
+0.1
+
+Armoured Bulkheads (sensors)
+
+0.3
+
+0.06
+
+Fuel Scoop
+
+—
+
+—
+
+Evade/1
+
+—
+
+1
+
+Fire Control/2
+
+—
+
+4
+
+Intellect
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+10.98
+
+—
+
+Cargo
+
+Crew
+Pilot, Gunner
+
+Hull: 30
+Running Costs
+MAINTENANCE COST
+Cr3755/month
+PURCHASE COST
+MCr45.064
+
+Power Requirements
+Basic Ship Systems
+14
+Manoeuvre Drive
+42
+Sensors
+4
+Weapons
+10
+
+Total: MCr45.064
+
+239
+
+

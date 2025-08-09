@@ -1,0 +1,170 @@
+SCHOLAR
+
+9
+
+Zhodani trained in technological or
+research sciences, conducting scientific
+investigations into alien or Ancient
+artefacts, materials and psionic phenomena,
+or those who practise medicine.
+Qualification: INT 6+
+
+CAREER PROGRESS
+Field Researcher
+Lab Scientist
+Physician
+
+ASSIGNMENTS
+
+ADVANCEMENT
+INT 6+
+INT 6+
+INT 8+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Field Researcher: You are an explorer or
+field researcher, equally at home in the
+laboratory or the wilderness.
+Lab Scientist: You are a researcher in
+some corporate or Consulate research
+institution.
+Physician: You are a doctor or researcher
+in the life sciences.
+
+SURVIVAL
+END 6+
+EDU 4+
+EDU 4+
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+5000
+10000
+20000
+30000
+40000
+60000
+100000
+
+BENEFITS
+Scientific Equipment
+Two Ship Shares
+EDU +1
+INT +1
+Nenj
+Scout
+SOC +1, Scout
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+
+PERSONAL DEVELOPMENT
+DEX +1
+END +1
+INT +1
+EDU +1
+Athletics
+Carouse
+SPECIALIST: FIELD RESEARCHER
+
+1
+2
+3
+4
+5
+6
+
+Diplomat
+Investigate
+Language
+Science
+Electronics
+Survival
+
+SERVICE SKILLS
+Admin
+Electronics
+Diplomat
+Investigate
+Medic
+Science
+SPECIALIST: LAB
+SCIENTIST
+Admin
+Electronics
+Engineer
+Investigate
+Science
+Science
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Art
+Advocate
+Electronics
+Engineer
+Language
+Science
+SPECIALIST:
+PHYSICIAN
+Animals
+Electronics
+Investigate
+Medic
+Science
+Steward
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+FIELD RESEARCHER
+—
+—
+—
+—
+—
+—
+—
+
+SKILL OR BENEFIT
+—
+Science 1
+—
+Investigate 1
+—
+Computers 1
+—
+
+PSIONIC SKILLS (MIN.
+SOC 10)
+PSI +1
+Awareness
+Clairvoyance
+Talent
+Telekinesis
+Telepathy
+
+

@@ -1,0 +1,73 @@
+A11/58231
+
+PLASMA STREAMER
+
+A primitive version of the human PGMP, this weapon lacks the magnetic
+containment needed to focus the plasma blast into a coherent beam. The
+wye’oiheasarl is fired much like a flamethrower, vomiting a stream of starhot matter over a wide area. Proper use of the wye’oiheasarl requires proper
+protective gear (the operator takes 1D damage when the wye’oiheasarl is fired,
+although this damage can be reduced by armour).
+
+Weapon
+Plasma Streamer
+
+A11/58231
+
+TL Range
+11 10
+
+Damage
+1DD
+
+Kg
+12
+
+Cost
+Cr75000
+
+Magazine
+—
+
+Power Pack Cost
+—
+
+Traits
+Blast 5, Very Bulky
+
+Magazine
+200
+
+Power Pack Cost
+Cr800
+
+Traits
+Auto 4, Very Bulky
+
+TAOYUHRIR HEAVY
+MACHINEGUN
+
+This is a massive drum-fed machine gun that fires explosive
+bullets. In human terms, it is a support weapon but large
+Aslan males can and do carry it as a personal weapon.
+The roar of the taoyuhrir heralds a hail of destruction. The
+Taoyuhrir requires the Heavy Weapons (man portable) skill.
+
+Weapon
+Taoyuhrir Heavy
+Machinegun
+
+TL Range
+7 500
+
+Damage
+4D+3
+
+Kg
+18
+
+Cost
+Cr4000
+
+63
+
+

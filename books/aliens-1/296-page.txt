@@ -1,0 +1,213 @@
+YETSASL-CLASS COURIER
+TL12
+Hull
+
+200 tons, Streamlined
+
+—
+
+12
+
+Armour
+
+Crystaliron, Armour 4
+
+10
+
+2.4
+
+M-Drive
+
+Thrust 2
+
+4
+
+8
+
+J-Drive
+
+Jump 3
+
+20
+
+30
+
+Power Plant
+
+Fusion (TL12), Power 150
+
+10
+
+10
+
+Fuel Tanks
+
+J-3, 4 weeks of operation
+
+61
+
+—
+
+10
+
+1
+
+Bridge
+Computer
+
+Computer/15
+
+—
+
+2
+
+Sensors
+
+Civilian Grade
+
+1
+
+3
+
+Weapons
+
+Triple Turret (beam lasers x
+2, sandcaster)
+
+1
+
+2.25
+
+Systems
+
+Fuel Processor (60 tons/day) 3
+
+0.15
+
+Fuel Scoops
+
+—
+
+—
+
+Docking Space (4 tons)
+
+5
+
+1.25
+
+Air/raft
+
+—
+
+0.25
+
+High x 1
+
+6
+
+0.8
+
+Standard x 10
+
+40
+
+5
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/3
+
+—
+
+0.3
+
+Staterooms
+Software
+
+CREW
+
+TONS COST (MCR)
+
+—
+
+—
+
+Common Areas
+
+Library
+
+20
+
+2
+
+Cargo
+
+9
+
+—
+
+PILOT, ASTROGATOR, ENGINEER
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr6700/month
+
+PURCHASE COST
+MCr80.4
+
+Power Requirements
+40
+
+40
+
+3
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+60
+
+1
+
+9
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 80.4
+
+80
+HULL POINTS
+296
+
+The Yetsasl-class is named after a racing
+beast on Zhdant and individual ships
+often after similar creatures on other
+worlds. The courier design gives priority
+to transport of important personnel, such
+as government officials on diplomatic
+missions. The Yetsasl’s role often
+takes it outside the Consulate and it
+is the Zhodani vessel most commonly
+encountered in the Imperium. Yetsasls are
+a separate design from Ninz scouts, unlike
+the Imperial practice of using the same
+hull for both scouts and couriers; a Yetsasl
+is larger than a Ninz and contains more
+extensive staterooms and fittings.
+
+

@@ -1,0 +1,109 @@
+LIVING FUR COAT
+Custom
+Animal
+Companion
+
+A simple organism bioengineered to resemble a fur
+coat, it has no senses and draws sustenance directly
+from the natural detritus produced by its wearer.
+Waste products are released into the atmosphere
+and have no odour. Living fur coats help keep their
+wearer warm, reducing all cold damage by 1D and
+increasing the time between damage rolls to once
+every eight hours.
+At TL11 cold damage is reduced by 2D. At TL12, this
+reduction increases to 3D.
+Living fur coats have an average lifespan of 10 years
+and are unable to reproduce.
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Living Fur Coat
+
+10
+
+2kg
+
+Cr5000
+
+Living Fur Coat
+
+11
+
+2kg
+
+Cr15000
+
+Living Fur Coat
+
+12
+
+2kg
+
+Cr500000
+
+PSI-SHIELD PET
+Living Fur
+Coat
+
+Animal
+
+Hits
+
+Speed
+
+Cost
+
+Psi-Shield Pet
+
+4
+
+6m
+
+Cr100000
+
+Skills
+
+Recon 2, Telepathy 0
+
+Attacks
+
+Bite (1)
+
+Traits
+
+Alarm, Psionics 1 (Shield only),
+Small (-3)
+
+Behaviour
+
+Herbivore, Gatherer
+
+CSC: SueRrat
+
+Psi-Shield
+Pet
+
+Highly desirable in the Spinward Marches, psi-shield
+pets are similar to custom animal companions and
+bonded to their owner. They can generate a psi-shield
+which also protects the owner if they are in physical
+contact. On a successful Recon check, a psi-shield
+pet will detect any psionic power being used against
+itself or its owner and raise an alarm. Psi-shield pets
+are completely unable to fend for themselves, having
+lost their innate sense of survival during their creation.
+They are completely unable to survive in the wild. If
+well cared for, these animals have an average lifespan
+of 12 standard years. They are sterile and unable to
+breed. Psi-shield pets become available at TL11.
+
+59
+
+

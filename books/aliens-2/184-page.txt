@@ -1,0 +1,39 @@
+A11/58231
+
+FLYING-ARMOUR
+
+Flying-armour is composed of a light but highly resilient
+fabric stretched between rods that mostly parallel major
+bones. It includes a solid helmet. Flying-armour allows
+normal use of the wings, which are unprotected, and
+is primarily intended to protect against the effects of
+crashing into foliage or similar obstacles. Particularly
+daredevil Droyne will sometimes crash headlong through
+small branches, opening their wings at the last second.
+Although risky, this allows an attack to be made by
+surprise or pursuit evaded.
+
+Armour Type
+Flying-Armour
+
+184
+
+Protection
++3
+
+TL
+10
+
+Rad
+0
+
+Kg
+3
+
+Cost
+Cr45000
+
+Required Skill
+None
+
+

@@ -1,0 +1,164 @@
+EMISSARY
+
+4
+
+CAREER PROGRESS
+
+The competitive nature of Vargr society requires
+skilled arbitrators to settle disputes and negotiate
+deals. Emissaries are most often employed by
+governments, corporations and merchants.
+
+SURVIVAL
+CHA 8+
+CHA 7+
+CHA 7+
+
+Arbitrator
+Diplomat
+Negotiator
+
+Qualification: CHA 10+
+
+ASSIGNMENTS
+
+ADVANCEMENT
+CHA 8+
+CHA 6+
+CHA 7+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Arbitrator: You work for a government and are
+highly skilled in settling disputes between packs
+and factions.
+Diplomat: You specialise in creating and
+maintaining diplomatic relations with other
+races.
+Negotiator: You are trained to negotiate trade
+deals, working for government or corporate
+interests.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr5000
+Cr5000
+Cr10000
+Cr10000
+Cr25000
+Cr25000
+Cr50000
+
+BENEFITS
+INT +1
+EDU +1
+One Ship Share
+Contact
+Two Ship Shares
+CHA +1
+Yacht
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+CHA +1
+EDU +1
+INT +1
+Electronics (computers)
+Carouse
+CHA +1
+ARBITRATOR
+Advocate
+Deception
+Electronics (computers)
+Investigate
+Persuade
+Advocate
+
+SERVICE SKILLS
+INT +1
+Admin
+Advocate
+Electronics (computers)
+Diplomat
+Carouse
+DIPLOMAT
+Diplomat
+Persuade
+Advocate
+Carouse
+Electronics (computers)
+Diplomat
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Advocate
+Art
+Language
+Science
+Diplomat
+NEGOTIATOR
+Broker
+Admin
+Advocate
+Electronics (computers)
+Persuade
+Broker
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+ARBITRATOR SKILL OR BENEFIT
+Advocate 1
+Carouse 1
+Diplomat 1
+—
+—
+CHA +1
+
+DIPLOMAT SKILL OR BENEFIT
+Carouse 1
+—
+Diplomat 1
+—
+—
+—
+
+NEGOTIATOR SKILL OR BENEFIT
+Persuade 1
+—
+Broker 1
+—
+—
+—
+
+

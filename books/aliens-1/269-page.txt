@@ -1,0 +1,118 @@
+RANKS AND BONUSES CONT...
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+OFFICER
+Waiting Officer
+Watch Officer
+Deck Officer
+Destroyer Officer
+Cruiser Officer
+Battleship Officer
+Fleet Officer
+
+SKILL OR SKILL OR BENEFIT
+—
+Melee (blade) 1
+Leadership 1
+—
+Tactics (naval) 1
+SOC +1
+SOC +1
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured in action. Roll twice on the Injury table and take the lower result.
+
+2
+
+You are placed in the frozen watch (cryogenically stored on board ship) and revived improperly. Roll on the
+Injury table. Roll SOC 8+ to remain in this career.
+
+3
+
+You have problems working with an officer or fellow crewman. If SOC 10+, gain that officer as a Rival as he
+drives you out of the Navy. Otherwise, roll on the Re-education Event table (page 274).
+
+4
+
+Your ship suffers heavy damage in battle and you are injured. Roll twice on the Injury table, taking the lower
+result. However your actions help save the lives of several colleagues, gaining you an additional Benefit roll.
+
+5
+
+A serious accident occurs on your watch and you are blamed for it, despite it being the result of another crew
+member’s negligence. If SOC 10+, suffer DM-2 to your next Advancement Roll and gain an Enemy. Otherwise,
+roll on the Re-education Events table (page 274).
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career, even from a Re-education Event.
+
+3
+
+Your vessel participates in a diplomatic mission. Gain one level in Diplomat, Recon or Steward, or gain a Contact.
+
+4
+
+Your vessel participates in a notable military engagement. Gain one level in Engineer, Gunner, Pilot or
+Electronics (sensors).
+
+5
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain one level in any skill you
+already possessed.
+
+6
+
+You work helping with a refit of your ship. Gain one level in Engineer, Mechanic or Science.
+
+7
+
+Life Event. Roll on the Zhodani Life Events table (page 274).
+
+8
+
+You perform a tour of border worlds. Roll SOC 8+ to gain one level in Animals, Recon or Survival, or a Contact.
+
+9
+
+You spend this term in the asteroid belts of a system, showing the navy’s presence and deterring pirates and
+claim jumpers. Gain one level in Athletics (dexterity), Electronics (sensors) or Vacc Suit.
+
+10
+
+An explosion occurs in your section. Roll Mechanic or Engineer 8+ to help the damage control party to
+bring the situation under control. If failed, roll on the Injury table. If successful, gain DM+2 to your next
+Advancement roll.
+
+11
+
+Your commanding officer takes an interest in your career. Gain him as an Ally and take DM+2 to your next
+Advancement roll thanks to his aid.
+
+12
+
+You display heroism in battle, saving the whole ship. Your next Advancement roll is automatically successful.
+
+

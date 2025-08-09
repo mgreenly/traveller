@@ -1,0 +1,131 @@
+T
+
+BETWA-TAA HEAVY OCEAN
+FARMING ROBOT
+The heavy ocean farming robot is a common sight
+in the oceans of Bwap dominated worlds and can
+frequently be found on other worlds that use aquaculture
+farming techniques. The robot is able to act completely
+independently, take geological and water samples,
+maintain crops and husband aquatic livestock.
+TL
+
+12
+
+SKILL
+
+Seafarer (submersible)
+
+AGILITY
+
+-4
+
+SPEED (CRUISE)
+
+Medium (Slow)
+
+Vehicles of the Bwaps
+
+RANGE (CRUISE) 200 (300)
+
+262
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Equipment
+Autopilot (skill level)
+
++2
+
+Communications (range)
+
+500km
+
+Navigation (Navigation DM)
+
++2
+
+Sensors (Electronics (sensors) DM)
+
++1
+
+Camouflage (Recon DM)
+
++1
+
+Stealth (Electronics (sensors) DM)
+
++1
+
+Traits
+—
+Equipment Actuators x2, Autopilot (enhanced),
+Communication System (improved),
+Control system (basic), Cutting Tool,
+Geological Sampler, Hydrographic
+Sampler, Manipulator Arms x3, Navigation
+System (improved), Robot Brain
+(advanced), Sensor System (improved)
+
+CREW
+
+—
+
+PASSENGERS
+
+—
+
+Safe Depth
+
+2000m
+
+CARGO
+
+1 ton
+
+Crush Depth
+
+6000m
+
+HULL
+
+120
+
+Life Support
+
+—
+
+SHIPPING
+
+20 tons
+
+COST
+
+MCr2.3
+
+ARMOUR
+FRONT 5
+
+REAR
+
+5
+
+SIDES
+
+5
+
+R
+
+

@@ -1,0 +1,103 @@
+1 square = 5 Tons
+
+11
+24
+
+14
+
+21
+
+23
+9
+
+12
+
+11
+
+15
+
+18 19
+
+12
+
+12
+
+12
+15
+
+22
+
+13
+
+8
+
+7
+11
+
+11
+
+12
+12
+
+12
+
+12
+10
+
+5
+11
+
+11
+
+12
+12
+
+12
+
+12
+3
+
+DECK 3
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Manoeuvre Drive
+Backup Manoeuvre Drive
+Jump Drive
+Backup Jump Drive
+Power Plant
+Backup Power Plant
+Bridge
+Command Bridge
+
+9. Sensors, Sensor Stations
+10. Backup Sensors
+11. Triple Turret
+12. Point Defence Battery
+13. Docking Spaces (Iestynin Drones)
+14. Docking Spaces (UFT Lifeboats)
+15. Docking Spaces (Klaront Drones)
+16. Docking Spaces (Slaixut Drones)
+
+DECK 4
+
+17. Docking Space
+(Pinnace Drone)
+18. Armoury
+19. Briefing Room
+20. Fuel Processor
+21. Airlock
+22. Launch Tube
+23. Staterooms
+24. Cargo Hold
+
+141
+
+

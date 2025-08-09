@@ -1,0 +1,100 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured in action. Roll twice on the Injury table.
+
+2
+
+A covert mission into the Imperium is betrayed. You are arrested and put on show trial as a spy. You must take
+the Prisoner career in your next term.
+
+3
+
+You become close to the target of your investigation and choose to protect them rather than complete the mission.
+Gain an Ally and an Enemy.
+
+4
+
+During an intense mission you disobey orders and go rogue, completing the operation but incurring the wrath of
+your superiors. You are reduced one rank.
+
+5
+
+You learn something you should not know and people, possibly in your own agency, want to kill you for it. Gain
+an Enemy and Deception 1.
+
+6
+
+Injured in action. Roll once on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not expelled from the career.
+
+3
+
+You are assigned to a risky paramilitary operation in support of brave Solomani guerrillas in the occupied
+systems. Roll INT 7+; if you succeed, increase one of these skills by one level: Explosives, Pilot (small craft or
+spacecraft) or Tactics (any). If you fail, roll once on the Injury table.
+
+4
+
+You become emotionally involved with a monitor agent you recruited. Add them as an Ally but the strain of
+covering up your involvement interferes with your promotion: suffer DM-1 to your next advancement roll.
+
+5
+
+You are saddled with a desk job organising SolSec monitor computer files. Roll Admin, Electronics (computers)
+or Investigate 8+. If you succeed, you uncover overlooked evidence that sheds new light on an old case. Add
+DM+1 to your next advancement roll and increase the skill you used by one level.
+
+6
+
+You undergo advanced tactical training. Roll EDU 8+ to increase one of Gun Combat, Explosives, Recon or
+Tactics (military) skill by one level.
+
+7
+
+Life Event. Roll on the Solomani Life Events table on page 136.
+
+8
+
+An acquaintance says or does something that could get them arrested. You may report them and receive a
+commendation for your loyalty (DM+2 on your next advancement roll) or cover for them (gaining them as
+an Ally).
+
+9
+
+You risk your career to press for the investigation of a senior Solomani Party member you believe is betraying
+the Cause. Roll Electronics (comms) or Investigate 8+; if you succeed, your evidence leads to their arrest. If
+you fail, gain an Enemy.
+
+10
+
+An investigation into links between organised crime and corrupt Solomani Party officials requires a joint
+operation with local law enforcement. Gain one Contact in a world’s police force or the Solomani Ministry of
+Justice. Roll EDU 8+ to add one to either your Investigate or Streetwise skill.
+
+11
+
+The actions of Solomani terrorists threaten delicate negotiations with the Imperium. Stopping them requires
+cooperation with your counterparts in Imperial Intelligence. Roll Carouse, Diplomat or Persuade 8+ to manage
+the delicate relationship; if you succeed, earn their respect and gain a Contact at an Imperial spy agency. If you
+fail, gain a Rival.
+
+12
+
+Your efforts expose a major conspiracy against the Solomani Confederation. You are automatically promoted.
+
+135
+
+

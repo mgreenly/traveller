@@ -1,0 +1,128 @@
+Checking for Advancement
+
+Each term, a Hiver must check for advancement. The
+more driven individuals call it that, whereas ordinary
+citizens of a nest tend to think of it in terms of status,
+which ‘just happens’ rather than being sought out. To
+see if a Hiver is advanced or reduced in status, make an
+Average (8+) RES check with any positive or negative
+modifiers for qualification or other factor such as an
+unsuccessful nest transition manipulation. The Effect of
+this check is added to a 2D roll on the table below.
+
+Advancement Status
+2D + RES
+9–
+10–14
+15
+
+Senior and Adult status can change each term. Once
+attained, Manipulator status is for life. A Hiver who goes
+straight from Adult to Manipulator also gains the bonus for
+being a Senior in their nest type – and also gains a place
+on all manner of watch-lists.
+Permanent Manipulator status is gained by achieving the
+status a second time in succession. It is possible for a
+Hiver to fall from Manipulator status and regain it, perhaps
+multiple times, but only those who gain the status and
+keep it in their next term are Manipulators-for-Life.
+
+Status
+Adult
+Senior
+Manipulator
+
+Qualification and Status
+Nest Type
+Industrial
+Economic
+Generalist/
+Nurturing
+Academic
+Social
+
+Min. Qualification Full Qualification
+EDU 7+
+Profession (any relevant) 2
+or Mechanical 2
+INT 7+
+Admin 2 or Advocate 2
+INT 4+
+Survival 2 or Medic 2
+
+Senior Bonus
+RES +1
+
+Manipulator Bonus
+RES +1, Science (sociology)
+
+Broker
+RES +1
+
+RES +1, Science (sociology)
+RES +1, Science (sociology)
+
+EDU 8+
+
+Science (any relevant) RES +1, Science (sociology)
+
+Science (any) 2 or
+Investigate 2
+Deception 2 or Science
+(any relevant) 2
+
+INT 8+
+
+For full qualification it is necessary to also meet the
+minimum qualification.
+
+Penalties for Lack of Qualification
+Qualification Status
+Hiver does not meet
+minimum qualification
+standards
+Hiver meets minimum
+qualification standards
+Hiver is fully qualified
+
+Penalty on Advancement
+–6
+
+–2
+0
+
+Note that securing advancement depends on a Hiver’s
+RES, representing their will to succeed or convince
+others they have. Lack of qualification imposes
+difficulties but being persuasive is more important than
+being highly skilled.
+
+RES +1
+
+RES +1, Science (sociology)
+
+MUSTERING OUT
+
+At the end of its service, a Hiver gains two rolls on the
+Mustering Out Benefits table per term served, plus any
+additional benefits gained in the course of Traveller
+creation, plus or minus the Hiver’s Resolve DM. Half
+(round down) of a Hiver’s benefits must be taken as
+rolls on the cash table. This is more than most other
+races get, reflecting the fact that a successful Hiver
+will have played the system from the moment they
+became a yearling.
+Cash and benefits are determined by an unmodified 2D
+roll, and can actually be negative. Debts are assumed
+not to have caught up with the Hiver yet. Clever
+manipulations might deflect it permanently, or the Hiver
+might keep moving to stay ahead. The debt is probably
+owed to the Hiver’s nest but could be the result of some
+other activity.
+Debts can be used by the referee as plot hooks. Nests
+will engage bounty hunters to retrieve money from
+those who have scammed them, and other Hivers who
+
+259
+
+

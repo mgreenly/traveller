@@ -1,0 +1,128 @@
+VEHICLES OF THE GEONEE
+Geonee design their vehicles with a short stature in
+mind, making them somewhat uncomfortable for taller
+races to use. Vehicles intended to be sold outside the
+Geonee Cultural Region are more designed with the
+comfort of their intended market in mind.
+Geonee make significant use of gravitic technology but
+often limit its ability to gain altitude, particularly in private
+vehicles. This allows the Geonee to keep higher altitudes
+free for military or commercial uses while still providing
+the versatility of grav vehicles to private individuals.
+TL
+
+15
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
++4
+
+SPEED (CRUISE)
+
+Fast (High)
+2
+
+PASSENGERS
+
+1
+
+CARGO
+
+—
+
+HULL
+
+60
+
+SHIPPING
+
+15 tons
+
+COST
+
+MCr9.84
+
+The Gosta light tank packs a powerful punch for its
+relatively small size. The tank handles extremely well in
+almost all conditions and is armoured enough to take a
+serious beating. An advanced anti-missile laser system
+provides adequate protection from missiles. The four-hour
+life support system combined with the hostile environment
+modifications means that even during a nuclear exchange,
+the Gosta keeps its crew alive. It is normally operated by a
+crew consisting of a pilot, gunner and commanding officer.
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+RANGE (CRUISE) 100 years
+CREW
+
+GOSTA LIGHT TANK
+
+Traits
+Equipment
+
+ARMOUR
+FRONT 120
+
+REAR
+
+85
+
+SIDES
+
+80
+
+Weapon
+
++3
+1,000km
++4
++2
+—
+—
+
+AFV
+Anti-Missile System (advanced laser),
+Autopilot (advanced), Communication
+System (advanced, encrypted, meson
+communication, satellite uplink), Control
+System (Advanced), Fire Extinguishers,
+Fusion Plant (advanced), Hostile
+Environment, Life Support (short
+term), Navigation System (advanced),
+Sensors (advanced, hardened)
+Large Turret (Gravetic Cannon)
+
+WEAPON
+
+RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS
+
+FIRE CONTROL
+
+Gravitic Cannon
+
+5
+
++4
+
+2DD
+
+50
+
+Cr2000
+
+AP 15
+
+137
+
+

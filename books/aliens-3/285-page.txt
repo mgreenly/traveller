@@ -1,0 +1,80 @@
+Software
+
+Cargo
+
+Advanced Fire Control/2
+
+—
+
+15
+
+Anti-Hijacking/3
+
+—
+
+10
+
+Auto-Repair/2
+
+—
+
+10
+
+Broad Spectrum EW
+
+—
+
+14
+
+Electronic Warfare/2
+
+—
+
+18
+
+Evade/2
+
+—
+
+2
+
+Jump Control/6
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Point Defence/2
+
+—
+
+12
+
+Intellect
+
+—
+
+—
+
+146
+
+—
+
+Abaewa-Pa Class
+Light Cruiser
+
+286
+
+

@@ -1,0 +1,166 @@
+1
+
+WORKER
+CAREER PROGRESS
+
+Workers provide manual and semi-skilled labour
+throughout Droyne society.
+Qualification: Automatic for Workers. Prohibited for all
+others.
+
+ASSIGNMENTS
+
+Farming
+Labouring
+Building
+
+SURVIVAL
+END 4+
+STR 5+
+DEX 5+
+
+ADVANCEMENT*
+STR 10+
+END 10+
+INT 8+
+
+*Advancement is subject to a negative DM equal to the highest
+skill level the Droyne has in a Black Skill.
+
+Choose one of the following:
+Farming: You work in food production and preparation. You
+may be an agricultural worker, food preparation technician
+or part of a team that ensures meals are delivered and
+served in the correct manner.
+Labouring: You are a simple worker, either in a physical or
+administrative field. You spend a lot of your time carrying
+out repetitive tasks. Sometimes a Leader has an important
+job for you and you strive to perform it correctly.
+Building: You build the structures and machinery, perhaps
+even the starships, used by your society. You may be
+a labourer or a skilled worker. You do not understand
+how the machinery works but if you complete your task
+correctly it will function to your Leaders’ satisfaction. That
+is all that matters.
+
+END OF SERVICE
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr250
+Cr500
+Cr750
+Cr1000
+Cr2500
+Cr5000
+Cr10000
+
+BENEFIT
+STR+2
+END+1
+INT+1
+Tool Kit
+Vacc Suit
+Wings
+Weapon
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+INT +1
+Mechanic
+Jack-of-all-Trades
+FARMING WORKER
+Animals
+Athletics
+Drive
+Flyer
+Profession
+Steward
+
+SERVICE SKILLS
+Mechanic
+Drive
+Profession
+Appeal
+Flight
+Caste
+LABOURING WORKER
+STR+1
+Admin
+Drive
+Flyer
+END +1
+Outsider
+
+USEFUL WORKER (MIN INT 6+)
+Ancients Tech
+Appeal
+Electronics
+Outsider
+Vacc Suit
+Any psionic skill
+BUILDING WORKER
+Art (Droyne)
+Driver
+Electronics
+Explosives
+Mechanic
+Jack-of-all-Trades
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+194
+
+TITLE
+Excess to Requirements
+Expendable Worker
+Satisfactory Worker
+Valued Worker
+Highly Valued Worker
+Exemplary Worker
+Eminent Worker
+
+SKILL OR BONUS
+—
+—
+
+Caste (worker)
+Profession
+Appeal
+INT+1
+Leadership
+
+

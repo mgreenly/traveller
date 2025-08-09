@@ -1,0 +1,225 @@
+T
+
+1
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Shaper Priest
+
+Shaper priests are the clergy of the Shaper Church and
+guide Tezcat in spiritual and worldly matters, proselytise the
+faith and punish the sinful.
+Qualification: INT 6+
+DM-1 for every previous career.
+
+CAREER PROGRESS
+SURVIVAL
+
+ADVANCEMENT
+
+Academic
+
+EDU 4+
+
+EDU 8+
+
+Ecclesiastic
+
+INT 4+
+
+SOC 7+
+
+Partisan
+
+END 6+
+
+INT 6+
+
+ASSIGNMENTS
+
+226
+
+Mustering Out Benefits
+
+Academic: You pursue your faith through study and further
+understanding of the world around you.
+Ecclesiastic: You bring the teachings of the church to
+your followers.
+Partisan: You are the military arm of the church, enforce its
+laws and defend the faith.
+
+1D
+
+CASH
+
+BENEFITS
+
+1
+
+Cr1000
+
+EDU +1
+
+2
+
+Cr2500
+
+INT +1
+
+3
+
+Cr5000
+
+SOC +1
+
+4
+
+Cr10000 A prominent statue and SOC +1
+
+5
+
+Cr25000 3 Ship Shares
+
+6
+
+Cr50000 SOC +2
+
+7
+
+Cr75000 SOC +2 and 3 Ship Shares
+
+Skills and Training
+
+Tezcat Travellers
+
+1
+
+Choose one of the following:
+
+1D
+
+PERSONAL DEVELOPMENT
+
+SERVICE SKILLS
+
+ADVANCED EDUCATION (MIN. EDU 8+)
+
+1
+
+INT +1
+
+Profession (religion)
+
+Profession (religion)
+
+2
+
+EDU +1
+
+Science (shaper church)
+
+Science
+
+3
+
+SOC +1
+
+Admin
+
+Medic
+
+4
+
+Science (shaper church)
+
+Diplomat
+
+Investigate
+
+5
+
+Profession (religion)
+
+Persuade
+
+Advocate
+
+6
+
+Persuade
+
+Electronics (computer)
+
+Electronics (computer)
+
+1D
+
+ACADEMIC
+
+ECCLESIASTIC
+
+PARTISAN
+
+1
+
+Admin
+
+Profession (religion)
+
+Advocate
+
+2
+
+Advocate
+
+Science (shaper church)
+
+Gun Combat
+
+3
+
+Science
+
+Persuade
+
+Melee
+
+4
+
+Science
+
+Admin
+
+Tactics (military)
+
+5
+
+Electronics (computer)
+
+Leadership
+
+Recon
+
+6
+
+Science
+
+Deception
+
+Stealth
+
+R
+
+

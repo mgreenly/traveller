@@ -1,0 +1,40 @@
+A03/48956
+
+HEAVY COMBAT ARMOUR
+
+Only the strongest and most worthy warriors can bear the weight of
+su’yerlva armour. The armour is even thicker and stronger than basic
+combat armour and normally augmented with grav assist equipment.
+Travellers with STR 11- suffer DM-2 to all checks involving physical
+actions while wearing this armour.
+
+Armour Type
+Heavy Combat Armour
+
+Protection
+
+TL
+
+Rad
+
+Kg
+
+Cost
+
+Required Skill
+
++17
+
+12
+
+150
+
+20
+
+Cr300000
+
+Vacc Suit 2
+
+51
+
+

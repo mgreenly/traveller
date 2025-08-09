@@ -1,0 +1,134 @@
+A03/48956
+
+VACC SUIT
+
+K’kree do not fit well into one-piece armour, for psychological as well
+as physical reasons. Being fully enclosed is claustrophobic and creates
+a feeling of isolation rather than protection. Thus for a K’kree, the
+Vacc Suit skill is not just about taking care of a suit and learning to
+operate in it; it includes an element of mental conditioning that allows
+the K’kree to think of their suit as clothing rather than an oppressive,
+all-enclosing encumbrance that threatens to crush the life out of them.
+Any K’kree forced to don a vacc suit or similar fully enclosed armour
+must make an Average (8+) Vacc Suit check. If the Effect of the check
+is negative, it is applied as a DM to all actions taken until the suit is
+removed. If at any time a Vacc Suit skill check produces an Effect of
+–6 or worse, the K’kree will be overcome with panic and unable to act
+until the suit is removed. In extreme cases, he may tear his suit off,
+regardless of the consequences.
+Standard vacc suits are similar to those made for other species, at
+least in terms of function and construction, but military vacc suits are
+designed to parallel the panoply of the K’kree warrior or noble. They
+look fanciful to outsiders and have various projections that can snag in
+a tight space… but K’kree prefer not to go into those spaces anyway.
+
+Armour Type
+Emergency Vacc Suit
+Utility Vacc Suit
+Military Vacc Suit
+Noble Vacc Suit
+
+A03/75674
+
+Protection
+0
++3
++8
++10
+
+TL
+9
+9
+10
+12
+
+Rad
+0
+10
+50
+75
+
+Kg
+22
+30
+40
+30
+
+Cost
+Cr3500
+Cr23000
+Cr50000
+Cr100000
+
+Required Skill
+Vacc Suit 0
+Vacc Suit 0
+Vacc Suit 1
+Vacc Suit 0
+
+COMBAT ARMOUR
+
+K’kree combat armour is constructed along the same lines as a
+military vacc suit, although with much more protection.
+
+Armour Type
+
+Protection
+
+TL
+
+Rad
+
+Kg
+
+Cost
+
+Required Skill
+
+Light Combat
+Armour
+
++12
+
+11
+
+100
+
+40
+
+Cr150000
+
+Vacc Suit 1
+
+Heavy Combat
+Armour
+Noble Combat
+Armour
+
++18
+
+12
+
+140
+
+65
+
+Cr300000
+
+Vacc Suit 2
+
++14
+
+12
+
+200
+
+50
+
+Cr500000
+
+Vacc Suit 1
+
+141
+
+

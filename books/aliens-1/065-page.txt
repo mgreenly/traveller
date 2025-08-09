@@ -1,0 +1,91 @@
+CRAWLER
+TL
+
+10
+
+SKILL
+
+DRIVE (TRACK)
+
+AGILITY
+
++0
+
+SPEED (CRUISE)
+
+SLOW (VERY SLOW)
+
+RANGE (CRUISE)
+
+500 (750)
+
+CREW
+
+1
+
+PASSENGERS
+
+7
+
+CARGO
+
+2 TONS
+
+HULL
+
+90
+
+SHIPPING
+
+15 TONS
+
+COST
+
+CR285000
+
+ARMOUR
+
+EQUIPMENT
+Autopilot (enhanced), Communications (improved), Computer /2, Control
+System (enhanced), Navigation System (improved), Sensor System
+(improved)
+
+F RONT
+
+10
+
+REAR
+
+10
+
+SIDES
+
+10
+
+TRAITS
+Tracked
+
+DESCRIPTION
+Heavy tracked crawlers are multipurpose
+utility vehicles. The four track sections are
+individually powered, giving the vehicle
+considerable agility at the cost of power and
+added complexity. The body of the crawler is
+akin to a flattened dome but is divided into
+sections with a healthy amount of space for
+passengers to make long journeys comfortable.
+The driver’s cab is located in the front third of
+the dome.
+A successful Mechanics check and a suitable
+crane allows the rear section of the dome to
+be removed, effectively making the Crawler a
+flatbed carrier. This reduces Passengers to 1
+(to sit alongside the driver) but increases Cargo
+capacity to 8 tons.
+Military crawlers have only 1.75 tons of cargo
+space but feature a second dome with a small
+turret. These versions cost Cr295000.
+
+65
+
+

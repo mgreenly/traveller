@@ -1,0 +1,100 @@
+1 square = 50 Tons
+5
+
+5
+
+8
+
+LEGEND
+18
+5
+
+5
+
+12
+
+18
+
+13
+
+5
+
+5
+
+20
+16
+
+21
+
+25
+
+5
+
+5
+
+DECK 4
+5
+25
+
+14
+
+4
+
+15
+19
+
+23
+24
+
+22
+7
+
+23
+9
+
+258
+
+6
+
+DECK 5
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+Manoeuvre Drive
+Jump Drive
+Power Plant
+Bridge
+Triple Turrets
+Docking Space (Hrisshtou Light
+Fighters)
+7. Docking Space (Gshahk Gigs)
+8. Docking Space (Kalahk Medium
+Fighters, Asjrou Stealth Fighters)
+9. Docking Space (Rashkaaht
+Boarding Skiffs)
+10. Docking Space (Yarlasth Heavy
+Fighters)
+11. Docking Space (Grathriss
+Gunboats, Vatha Torpedo Boats)
+12. Docking Space (Kilrashta
+Refuelling Shuttles)
+13. Full Hangers
+14. Armoury
+15. Briefing Rooms
+16. Brigs
+17. Fuel Processor
+18. Launch Tubes
+19. Medical Bays
+20. Recovery Decks
+21. Workshops
+22. Shaper Shrine
+23. Staterooms
+24. Common Area
+25. Cargo Hold
+
+

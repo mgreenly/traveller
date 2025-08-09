@@ -1,0 +1,234 @@
+HKISYELEAA-CLASS SLAVER
+TL12
+
+TONS COST (MCR)
+
+Hull
+
+1,000 tons, Streamlined
+
+—
+
+60
+
+M-Drive
+
+Thrust 2
+
+20
+
+40
+
+J-Drive
+
+Jump 2
+
+55
+
+82.5
+
+Power Plant
+
+Fusion (TL12), Power 510
+
+34
+
+34
+
+Fuel Tanks
+
+J-2, 4 weeks of operation
+
+204
+
+—
+
+20
+
+5
+
+Bridge
+Computer
+
+Computer/5 bis
+
+—
+
+0.045
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Triple Turrets (beam laser,
+3
+missile rack, sandcaster) x 3
+
+7.5
+
+Missiles x 36
+
+3
+
+—
+
+Sandcaster Barrels x 60
+
+3
+
+—
+
+Ammunition
+Systems
+
+Staterooms
+Software
+
+Fuel Processor (60 tons/day) 3
+
+0.15
+
+Fuel Scoops
+
+—
+
+—
+
+Shrine
+
+4
+
+0.5
+
+Docking Space (10 tons) x 8 88
+
+22
+
+ATVs x 8
+
+—
+
+0.432
+
+Standard x 12
+
+48
+
+6
+
+Low Berths x 750
+
+375
+
+37.5
+
+Jump Control/2
+
+—
+
+0.2
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Common Areas
+
+24
+
+2.4
+
+Cargo
+
+114
+
+—
+
+CREW
+CAPTAIN/PILOT, ASTROGATOR,
+PURSER, PURSER, PILOT,
+ENGINEERS X 4, MAINTENANCE,
+GUNNERS X 3
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr25194/month
+
+PURCHASE COST
+MCr302.327
+
+Power Requirements
+200
+
+200
+
+3
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+200
+
+4
+
+15
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 302.327
+The slaver is commonly associated with the
+Glorious Empire but it can be found throughout
+the Hierate. They are converted agricultural
+transports, with the low berths designed for
+freezing large food animals. A Hkisyeleaa would
+land on an agricultural planet and load up on
+hundreds of live animals, taking them to be
+devoured by rich nobles.
+
+100
+
+400
+
+75
+
+HULL POINTS
+
+LOW BERTHS
+
+The Glorious Empire has adapted their
+Hkisyeleaas for slave raiding. Unfortunate
+humans are captured by Aslan raiders riding
+ATVs and thrown into the freezing chambers.
+A fully-stocked Slaver can carry more than
+1,500 slaves if the captain is willing to cram
+as many bodies as possible into the low berths;
+750 is more of a safe number. Slavers are
+comparatively lightly armed and have little
+protection from attackers, so are normally
+escorted by more combat-ready ships.
+
+

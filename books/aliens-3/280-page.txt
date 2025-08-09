@@ -1,0 +1,281 @@
+EAAETATKA-KA CLASS MONITOR
+A compliment of eight Apa-pakwa fighters, piloted
+by the marine contingent, provides additional
+offensive and defensive capabilities to this
+already impressive monitor.
+
+The Eaaetatka-ka class monitor is the mainstay of
+Bwap in-system defence and are frequently seen
+patrolling busy spacelanes around populated worlds.
+Built around a 5,000 ton hull, the heavily armoured
+vessel bristles with weapons, making it an intimidating
+sight. Boasting four large missile bays, four fusion
+barbettes and 16 triple laser turrets, the Eaaetatka-ka
+is an equal to any starship its size and poses a serious
+threat to starships twice or even three times its size.
+
+TL15
+
+Each Eaaetatka-ka possesses a command bridge
+as they are often assigned to lead a squadron
+of up to six system defence boats on extended
+system patrols.
+
+Crew
+
+TONS
+
+COST (MCr)
+
+5,000 tons, Standard
+
+—
+
+250
+
+Reinforced
+
+—
+
+125
+
+Armour
+
+Crystaliron, Armour: 13
+
+813
+
+162.5
+
+M-Drive
+
+Thrust 6
+
+300
+
+600
+
+Power Plant
+
+Fusion (TL12), Power: 4,125
+
+275
+
+275
+
+Fuel Tanks
+
+16 weeks of operation
+
+112
+
+—
+
+Bridge
+
+Command
+
+60
+
+25
+
+Computer
+
+Core/50 fib
+
+—
+
+90
+
+Computer/15 fib
+
+—
+
+3
+
+Improved
+
+3
+
+4.3
+
+Running Costs
+
+Sensor Stations x3
+
+3
+
+1.5
+
+MAINTENANCE COST
+
+Countermeasures Suite
+
+2
+
+4
+
+Cr185989.2/month
+
+Distributed Array
+
+6
+
+8.6
+
+PURCHASE COST
+
+Large Missile Bays x4
+
+2,000
+
+100
+
+MCr2231.8704
+
+Fusion Barbettes x4
+
+20
+
+16
+
+Triple Turrets (beam laser) x6
+
+6
+
+15
+
+Power Requirements
+
+Triple Turrets (pulse laser) x10
+
+10
+
+40
+
+Basic Ship Systems
+
+Point Defence (type II) x10
+
+200
+
+100
+
+Missile Storage (2,880 missiles)
+
+1,000
+
+Ammunition
+
+240
+
+—
+
+Manoeuvre Drive
+
+Armoured
+
+Bridge
+
+6
+
+1.6
+
+Bulkheads
+
+Engineering
+
+30
+
+6
+
+Sensors
+
+Power Plant
+
+27.5
+
+5.5
+
+9
+
+Sensors
+
+1.1
+
+0.22
+
+374
+
+93.5
+
+Weapons
+
+Docking Space (340 tons)
+Apa-paka Medium Fighters x8
+
+—
+
+404.592
+
+Ship’s Boats x2
+
+—
+
+13.644
+
+Armoury
+
+7
+
+1.75
+
+Briefing Room x3
+
+12
+
+1.5
+
+Brig
+
+4
+
+0.25
+
+Repair Drones
+
+50
+
+10
+
+Fuel Scoop
+
+—
+
+1
+
+Hull
+
+Sensors
+
+Weapons
+
+Systems
+
+Captain, Pilots x3,
+Engineers x17,
+Maintenance x10,
+Medic, Gunners x48,
+Administration x5,
+Officer x8, Marine x20,
+Sensor Operators x3
+
+Hull: 2200
+
+3,000
+
+568
+
+281
+
+

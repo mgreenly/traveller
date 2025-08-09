@@ -1,0 +1,177 @@
+T
+
+5
+
+R
+
+MERCHANT
+
+Qualification: INT 6+
+DM-1 for every previous career
+
+ASSIGNMENTS
+
+Darrian Travellers
+
+Mishaps
+
+Skills and training
+
+Choose one of the following:
+Merchant Marine: You work aboard one of the massive
+transports or liners run by large Darrian corporations. Work is
+repetitive but stable, shuttling back and forth on established routes.
+Free Trader: You serve on a tramp freighter meandering between
+worlds in search of whatever cargo can be trumped up. The voyages
+are a constant stress and sometimes dangerous, yet rarely boring.
+Broker: You work from a static location, normally at a starport,
+where you broker deals and trade for goods on the market.
+
+E
+
+L
+
+L
+
+E
+
+Merchant
+Marine
+Free trader
+Broker
+
+SURVIVAL ADVANCEMENT
+EDU 5+ INT 7+
+DEX 6+
+EDU 7+
+
+INT 6+
+INT 5+
+
+Mustering out benefits
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+BENEFITS
+Cr5000
+Contact
+Cr5000
+INT +1
+Cr10000 EDU +1
+Cr20000 Blade
+Cr20000 Gun
+Cr40000 Ally
+Cr100000 10 Ship Shares
+
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+INT +1
+EDU +1
+DEX +1
+END +1
+Carouse
+Streetwise
+
+SERVICE SKILLS
+Admin
+Advocate
+Broker
+Persuade
+Streetwise
+Steward
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Astrogation
+Electronics (computers)
+Electronics (comms)
+Engineer
+Pilot
+Electronics
+
+1D
+1
+2
+3
+4
+5
+6
+
+MERCHANT MARINE
+Admin
+Engineer
+Mechanic
+Pilot (small craft)
+Steward
+Broker
+
+FREE TRADER
+Jack-of-all-Trades
+Melee
+Persuade
+Pilot (small craft)
+Streetwise
+Broker
+
+BROKER
+Admin
+Advocate
+Broker
+Broker
+Deception
+Persuade
+
+1D
+
+MISHAP
+Injured. Roll on the Injury table.
+
+1
+2
+
+3
+4
+5
+6
+
+48
+
+V
+
+Career progress
+
+Members of this career can be found anywhere, shipping freight or
+trying their luck with speculative trade.
+
+5
+
+A
+
+You are accused of stealing from your employer. If this is true, gain three Benefit rolls and take the
+Wanderer (exile) career in your next term. If it is false, roll Advocate 8+ to defend yourself. If you
+succeed, you may remain in this career. If you roll a 2, you must take the Wanderer (exile) career
+in your next term.
+You are bankrupted by a rival trader. You lose all Benefit rolls from this career and gain the other
+trader as a Rival.
+Your ship’s or company’s fortunes decline. You may continue in this career if you wish but will gain
+no Benefit rolls this term or next.
+You are sent to a border world where your career stagnates. Gain Flyer 1, Navigate 1, Survival 1
+or Profession 1.
+A superior takes a dislike to you. Gain a Rival.
+
+R
+
+

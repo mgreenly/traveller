@@ -1,0 +1,39 @@
+1 square = 0.5 Ton
+
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+
+Manoeuvre Drive
+Power Plant
+Bridge
+UNREP System
+Airlock
+Cargo Hold
+
+5
+6
+
+4
+
+DECK 1
+
+6
+
+1
+
+2
+
+3
+
+6
+
+DECK 2
+
+246
+
+

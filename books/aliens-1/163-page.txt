@@ -1,0 +1,34 @@
+8
+DECK 4
+
+7
+
+5
+
+DECK 3
+
+6
+6
+4
+DECK 2
+
+2
+
+3
+DECK 1
+
+1
+
+LEGEND
+1. Fuel tanks
+2. Cargo crane
+3. Cargo hold
+4. Ramps
+5. Bridge
+6. Staterooms
+7. Common area
+8 . D u a l Tu r r e t s
+
+163
+
+

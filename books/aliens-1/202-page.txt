@@ -1,0 +1,159 @@
+11
+
+SCIENTIST
+
+These individuals are trained in scientific
+methods to investigate situations, research
+phenomena and develop new technologies
+and materials.
+Qualification: INT 8+
+
+CAREER PROGRESS
+SURVIVAL
+EDU 6+
+EDU 7+
+EDU 5+
+
+Doctor
+Researcher
+Technician
+
+ASSIGNMENTS
+
+ADVANCEMENT
+INT 8+
+INT 7+
+INT 6+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+1D
+1
+2
+3
+4
+5
+6
+7
+
+Doctor: You are a physician or surgeon.
+Researcher: You are a researcher for a
+corporate or government organisation.
+Technician: You are a technician or
+assistant in a team of scientists or
+engineers.
+
+CASH
+Cr5000
+Cr10000
+Cr20000
+Cr30000
+Cr50000
+Cr75000
+Cr100000
+
+BENEFITS
+Scientific Equipment
+Contact
+INT +1
+EDU +1
+Ship Share
+CHA +1
+Lab Ship
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+Science
+DEX +1
+END +1
+INT +1
+EDU +1
+CHA +1
+DOCTOR
+Medic
+Electronics
+Investigate
+Persuade
+Science
+Medic
+
+SERVICE SKILLS
+Electronics
+Investigate
+Science
+Diplomat
+Medic
+Admin
+RESEARCHER
+Investigate
+Admin
+Science
+Science
+Investigate
+Electronics
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Admin
+Engineer
+Investigate
+Language
+Art
+Science
+TECHNICIAN
+Science
+Admin
+Mechanic
+Engineer
+Electronics
+Drive or Flyer
+
+RANKS AND BONUSES
+RANK
+1
+2
+3
+4
+5
+6
+
+DOCTOR SKILL OR BENEFIT
+Medic 1
+—
+Science 1
+—
+Electronics 1
+—
+
+RESEARCHER SKILL OR BENEFIT
+Investigate 1
+—
+Science 1
+—
+Electronics 1
+—
+
+TECHNICIAN SKILL OR BENEFIT
+Engineer
+—
+Electronics 1
+—
+Science 1
+—
+
+

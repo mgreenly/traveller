@@ -1,0 +1,147 @@
+RANKS AND BONUSES CONT...
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+AUTHOR
+—
+Well-known
+—
+Renowned
+—
+Famous
+—
+
+SKILL OR BENEFIT
+—
+Investigate
+—
+Persuade
+—
+SOC +1
+—
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+PERFORMER
+—
+Well-known
+—
+Renowned
+—
+Famous
+—
+
+SKILL OR BENEFIT
+—
+DEX +1
+—
+STR +1
+—
+SOC +1
+—
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured. Roll on the Injury table.
+
+2
+
+Your art becomes the centre of a scandal. Gain one level of Carouse, Diplomat, or Persuade. If SOC 10+, you
+are forced to move to another world. Roll on the Re-education Events table (page 274) but you may remain in
+this career.
+
+3
+
+You commit a grievous breach of protocol and public opinion turns against you, ruining your career. Roll
+Persuade 8+. If successful, you may keep the Benefit roll from this term. If failed, roll on the Re-education
+Events table (page 274).
+
+4
+
+One of your Contacts or Allies betrays you, ending your career. That Contact or Ally becomes a Rival or Enemy.
+If you have no Contacts or Allies, then you are betrayed by someone else and gain a Rival or Enemy.
+
+5
+
+An investigation, tour, project or expedition goes wrong, stranding you far from home and ending your career.
+You gains D3 Contacts as they return home.
+
+6
+
+You are tormented by or quarrel with another Entertainer. If SOC 10+, you are forced out of the career and gain
+that Entertainer as a Rival. If SOC 9-, roll on the Re-education Event table (page 274).
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career, even from a Re-education Event.
+
+3
+
+You are invited to take part in a controversial event or exhibition. If you refuse, nothing happens. If you accept,
+roll Art or Persuade 8+. If successful, gain an extra Benefit roll. If you fail, roll on the Mishaps table.
+
+4
+
+You become a part of the celebrity circle on your world of residence. Gain one level of Carouse, Persuade or
+Steward.
+
+5
+
+One of your works is especially well received and popular, making you a minor celebrity. Gain an extra Benefit roll.
+
+6
+
+You gain a patron in the arts and receive DM+2 to the next Advancement roll and an Ally.
+
+7
+
+Life Event. Roll on the Zhodani Life Events table (page 274).
+
+8
+
+You receive advanced training in a specialist field. Roll EDU 8+ to gain one level in any skill already possessed.
+
+9
+
+You go on a tour of the sector, visiting several worlds. Gain D3 Contacts.
+
+10
+
+You attempt an extremely challenging task in your field. Roll Art or Persuade 8+. If successful, gain DM+2 to
+your next Advancement roll. If failed, suffer DM-2 to your next Advancement roll.
+
+11
+
+You have the opportunity to criticise or even bring down a questionable council leader on your world of
+residence. If you refuse and support the leader, gain DM+2 to your next Advancement roll. If you accept, gain
+an Enemy and roll Art or Persuade 8+. If successful, your next Advancement roll is automatically successful. If
+you fail, increase a skill you already possess by one level and roll on the Mishaps table.
+
+12
+
+You win a prestigious prize for your work. Your next Advancement roll is automatically successful.
+
+

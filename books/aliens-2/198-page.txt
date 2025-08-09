@@ -1,0 +1,159 @@
+3
+
+TECHNICIAN
+CAREER PROGRESS
+
+Technicians make, maintain and repair devices used
+throughout Droyne society.
+Qualification: Automatic for Technicians. Prohibited for
+all others.
+
+ASSIGNMENTS
+
+SURVIVAL
+INT 4+
+EDU 5+
+INT 6+
+
+Fixing
+Artificer
+Dreaming
+
+ADVANCEMENT*
+DEX 9+
+INT 9+
+EDU 8+
+
+* Advancement is subject to a negative DM equal to the highest skill
+level the Droyne has in a Black Skill.
+
+Choose one of the following:
+Fixing: You maintain and repair technical equipment,
+starships and vehicles.
+Artificer: You make devices, chemicals and software on
+behalf of the Oytrip.
+Dreaming: You do scientific research, although often
+you do not know the significance of what you are
+discovering.
+
+END OF SERVICE
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr500
+Cr750
+Cr1000
+Cr1500
+Cr3000
+Cr5000
+Cr10000
+
+BENEFIT
+INT+2
+DEX +1
+Tool Kit
+PSI +1
+Vacc Suit
+Wings
+Weapon
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+INT +1
+DEX +1
+EDU +1
+Flight
+Appeal
+Jack-of-all-Trades
+FIXING TECHNICIAN
+Mechanic
+Electronics
+Electronics (remote ops)
+Flyer
+Profession
+Caste
+
+SERVICE SKILLS
+Mechanic
+Drive
+Electronics
+Vacc Suit
+Flyer
+Caste
+ARTIFICER
+Electronics
+Engineer
+Electronics (remote ops)
+Appeal
+DEX+1
+Caste
+
+USEFUL TECHNICIAN (MIN INT 6+)
+Ancients Tech
+Appeal
+Science
+Outsider
+Art (Droyne)
+Any psionic skill
+DREAMING TECHNICIAN
+Art (Droyne)
+Science
+Science
+Investigate
+PSI +1
+Caste
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+198
+
+TITLE
+Excess to Requirements
+Expendable Technician
+Satisfactory Technician
+Valued Technician
+Highly Valued Technician
+Exemplary Technician
+Eminent Technician
+
+SKILL OR BONUS
+—
+—
+
+Caste (technician)
+Appeal
+Electronics
+INT +1
+Leadership
+
+

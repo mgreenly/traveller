@@ -1,0 +1,17 @@
+1
+1. Bridge
+2. Boarding Ramp
+3. Fuel Processing
+4. Cargo Bay
+
+DECK 2
+
+2
+3
+
+DECK 1
+4
+
+79
+
+

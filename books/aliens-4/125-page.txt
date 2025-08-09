@@ -1,0 +1,205 @@
+LIGHT FIGHTER DRONE
+
+CLASS: KLARONT
+
+The Klaront-class light fighter drone is a small fast
+vessel designed for making quick strikes deep within
+enemy lines or used as a defensive screen against
+missile ordnance for larger ships. Bearing moderate
+armour and armed with a single fixed-mount beam
+laser, the Klaront is designed as an expendable
+
+TL14
+
+asset. Equipped with high thrust engines, the
+drone can dedicate some of its manoeuvrability to
+avoid incoming fire while effectively undertaking its
+assigned mission. If communications are cut with
+the operator, the fighter does not have the ability to
+operate independently.
+
+Tons
+
+Cost (MCr)
+
+Crew
+None
+
+Hull
+
+15 tons, Streamlined
+
+—
+
+0.9
+
+Armour
+
+Bonded Superdense, Armour: 8
+
+0.48
+
+0.24
+
+M-Drive
+
+Thrust 7
+
+1.05
+
+2.1
+
+Power Plant
+
+Fusion (TL12), Power 30
+
+2
+
+2
+
+Fuel Tanks
+
+4 weeks of operation
+
+1
+
+—
+
+Computer
+
+Computer/20fib
+
+—
+
+7.5
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Fixed Mount (beam laser, high yield, —
+intense focus)
+
+0.85
+
+Systems
+
+Advanced Control Interface
+
+—
+
+0.05
+
+Actuation System
+
+0.8
+
+0.0004
+
+Anti-Hijack/1
+
+—
+
+6
+
+Basic Ship Systems
+
+Evade/1
+
+—
+
+1
+
+3
+
+Fire Control/1
+
+—
+
+2
+
+Manoeuvre Drive
+
+Intellect
+
+—
+
+—
+
+10.5
+
+Manoeuvre
+
+—
+
+—
+
+Sensors
+
+Library
+
+—
+
+—
+
+4
+
+3
+
+—
+
+Software
+
+Cargo
+
+Hull: 6
+Running Costs
+MAINTENANCE COST
+Cr2245/month
+PURCHASE COST
+MCr26.9404
+
+Power Requirements
+
+Weapons
+
+Total: MCr26.9404
+
+4
+
+1 square = 0.5 Ton
+
+LEGEND
+1.
+2.
+3.
+4.
+5.
+6.
+
+Manoeuvre Drive
+Power Plant
+Sensors
+Fixed Mount Laser
+Actuation System
+Cargo Hold
+1
+
+6
+
+2
+
+3
+4
+
+5
+
+125
+
+

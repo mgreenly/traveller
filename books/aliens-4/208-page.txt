@@ -1,0 +1,126 @@
+T
+
+Tezheerekti are repulsive vermin found almost
+everywhere on Aum-rhar and have the dubious
+distinction of being the closest relative to Tezcat. They
+have spread to all worlds colonised by Tezcat and
+can even be found in the Third Imperium, Zhodani
+Consulate and the Vargr Extents.
+About the size of a Terran cat, tezheerekti are cowardly
+predators, which, when solitary, will only attack prey
+much smaller than they are. In groups, tezheerekti will
+attack prey many times their size. They resemble their
+Tezcat cousins with large, pointed ears, sharp teeth
+and claws and a long flexible tail, and their skin bears
+the same chameleon abilities as Tezcat, with venom
+glands in their mouth which produce a mild poison.
+While they are hunters, tezheerekti are just as happy
+to survive on refuse and are known to be disease and
+pest bearers. Intelligent and cunning, reports have
+been made of some packs of tezheerekti making and
+using simple tools, meaning the species may be on the
+verge of entering the stone age.
+
+The Tezcat Homeworld
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Vatyas
+
+Tezheerekti
+
+208
+
+R
+
+Animal
+
+Hits
+
+Speed
+
+Tezheerekti
+
+4
+
+8m
+
+Skills
+
+Athletics (dexterity 1), Melee
+(natural) 1, Recon 0, Survival 4
+
+Attacks
+
+Bite (1, poison), Claws (D3)
+
+Traits
+
+Chameleon, Diseased (Average
+(8+), D3, 1D days), Fast
+metabolism (+3), Poison (Easy,
+D3, 1D minutes), Small (-2)
+
+Behaviour
+
+Carnivore, Carrion-Eater
+
+Vatyas are large herd creatures domesticated by
+prehistoric Tezcat as both beasts of burden and food.
+They resemble scaleless pseudo reptiles with a thick
+covering of long quills starting from their neck and
+extending to their heavy tail. The quills on the end of the
+tail have evolved into two pairs of thick spikes the length
+of a sword and make devastating weapons when swung.
+Their short legs end in wide feet with heavy blunt claws
+to support their weight. While its teeth are not sharp,
+vatyas can still inflict a painful bite. They possess short
+horns which grow from the cheeks just below the eyes,
+with males having larger horns. Males are also known
+for their quick tempers and possessing a thick v-shaped
+horn on their snouts which they use to pin threats while
+the rest of the herd attacks with their spiked tails.
+Animal
+
+Hits
+
+Speed
+
+Vatyas
+
+55
+
+5m
+
+Skills
+
+Athletics (endurance) 1, Melee
+(natural) 0, Recon 0, Survival 2
+
+Attacks
+
+Bite (1D), Horn (4D+3), Tail Spikes
+(3D+3), Trample (4D)
+
+Traits
+
+Armour (+2), Heightened Senses,
+Large (+3)
+
+Behaviour
+
+Herbivore, Grazer
+
+R
+
+

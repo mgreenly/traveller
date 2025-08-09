@@ -1,0 +1,109 @@
+MILITARY GRAV BIKE
+
+TL
+
+15
+
+Military versions of the grav bike are similar to the
+civilian model but are slightly bigger and built around a
+chassis mounted PGHP-14.
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
++4
+
+SPEED (CRUISE)
+
+Very Fast (Fast)
+
+RANGE (CRUISE) 5,000 (7,500)
+
+ARMOUR
+FRONT 18
+Traits
+Equipment
+
+REAR
+
+18
+
+SIDES
+
+18
+
+—
+Communications (improved, tight beam),
+Control System (advanced), Decoy
+Dispenser (chaff), Ejection Seat, Life
+Support (short term), Navigation System
+(basic), Sensor System (improved,
+hardened, increased range), Vacuum
+Support, Variable Lifting Surface
+
+CREW
+
+1
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+8
+
+SHIPPING
+
+2 tons
+
+COST
+
+Cr796000
+
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS
+
+PGHP-14
+
+450
+
+1DD
+
+Cr100000
+
+—
+
+—
+
+FIRE CONTROL
+DM+2 to attack roll
+
+Vehicles of the Darrians
+
+WEAPON
+
+—
+500km
++1
++1
+—
+—
+
+73
+
+

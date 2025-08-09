@@ -1,0 +1,305 @@
+TABEWARKE CLASS SYSTEM DEFENCE BOAT
+The Tabewarke defence boat is an example of
+a lower tech combat vessel that proves to be an
+effective asset. Its low Tech Level makes it easy
+to maintain and its larger size helps it carry an
+
+TL15
+
+TONS
+
+COST (MCr)
+
+600 tons, Sphere
+
+—
+
+33
+
+Reinforced
+
+—
+
+16.5
+
+Armour
+
+Titanium Steel, Armour: 9
+
+122
+
+6.08
+
+M-Drive
+
+Thrust 7
+
+42
+
+84
+
+Power Plant
+
+Fusion (TL 12), Power: 570
+
+38
+
+38
+
+Fuel Tanks
+
+16 weeks of operation
+
+16
+
+—
+
+20
+
+3
+
+Hull
+
+Bridge
+
+Crew
+Captain, Pilots
+x3, Engineers x2,
+Maintenance, Medic,
+Gunners x12, Officer,
+Marines x10
+
+Hull: 264
+
+Computer
+
+Computer/20 fib
+
+—
+
+7.5
+
+Backup
+
+Computer/5
+
+—
+
+0.03
+
+Sensors
+
+Military
+
+2
+
+4.1
+
+Weapons
+
+Fusion Barbette
+
+5
+
+4
+
+Triple Turret (pulse lasers) x2
+
+2
+
+8
+
+Triple Turret (missile racks) x2
+
+2
+
+6.5
+
+Triple Turret (sandcasters)
+
+1
+
+1.75
+
+Missile Storage (144 missiles)
+
+12
+
+—
+
+Power Requirements
+
+Sandcaster Storage (144 sand canisters) 7
+
+—
+
+Basic Ship Systems
+
+Armoured
+
+Bridge
+
+2
+
+0.4
+
+120
+
+Bulkheads
+
+Engineering
+
+4.2
+
+0.84
+
+Manoeuvre Drive
+
+Power Plant
+
+3.8
+
+1.52
+
+Ammunition
+
+Systems
+
+Staterooms
+
+Docking Space (60 tons)
+
+66
+
+16.5
+
+Ship’s Boats x2
+
+—
+
+13.644
+
+Armoury
+
+3
+
+0.75
+
+Briefing Room
+
+4
+
+0.5
+
+Brig
+
+4
+
+0.25
+
+Fuel Scoops
+
+—
+
+1
+
+Workshop
+
+6
+
+0.9
+
+Standard x19
+
+76
+
+9.5
+
+Barracks (10 passengers)
+
+20
+
+0.5
+
+19
+
+1.9
+
+Common
+Areas
+
+Mud Bath
+
+16
+
+2
+
+Software
+
+Anti-hijack/2
+
+—
+
+8
+
+Electronic Warfare/1
+
+—
+
+15
+
+Evade/2
+
+—
+
+2
+
+Fire Control/2
+
+—
+
+4
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+103.5
+
+—
+
+Cargo
+
+276
+
+impressive weapon loadout. The addition of a
+marine force helps to support the gunnery crew as
+well as provide pilots for the ship’s boats.
+
+Running Costs
+MAINTENANCE COST
+Cr21874.425/month
+PURCHASE COST
+MCr262.4931
+
+420
+Sensors
+2
+Weapons
+49
+
+

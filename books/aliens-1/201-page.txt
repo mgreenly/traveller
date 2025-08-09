@@ -1,0 +1,87 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured. Roll on the Injury table.
+
+2
+
+You make telepathic contact with an unknown entity. You go missing for 1D days and have no memory of the
+event. If the roll for number of days was 5 or 6 you also lose PSI –1.
+
+3
+
+Your pack discovers you are a psion and do not look favourably on your kind. You are humiliated and outcast
+from the pack and the community. You lose CHA –1 and your next Survival roll suffers DM-2 penalty.
+
+4
+
+You visit a world where psionics are outlawed. You are arrested and your time in prison forces you to leave
+this career.
+
+5
+
+You join a pack of other psions and lose the power struggle for leadership. Gain a Rival.
+
+6
+
+You are experimented on by a corporation, government or psionic institute. Roll 1D. On a 1-2 you suffer an
+injury; roll on the Injury table. On a 3–4 you lose PSI –1. On a 5–6 there are no complications but you are
+forced to leave this career.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career.
+
+3
+
+You make telepathic contact with an unknown entity. You go missing for 1D days and have no memory of the
+event. If the roll for number of days was 5–6 you also lose PSI –1.
+
+4
+
+You come into contact with an alien device. Roll 1D. On a 1–2 you are injured; roll on the Injury table. On a
+3–4 you gain one level in a Talent you already know. On a 5–6 you gain PSI +1.
+
+5
+
+You excel as a psion; gain DM+1 to one Benefit roll from this career.
+
+6
+
+You receive advanced training. Roll EDU 8+ to gain one level in any non-psionic related skill.
+
+7
+
+Life Event. Roll on the Vargr Life Events table (see page 204).
+
+8
+
+You receive additional psionic training. Roll PSI 10+ to gain a new psionic talent. If you fail, gain one level in
+Science (psionicology).
+
+9
+
+Your quick thinking and use of psionic abilities save the life of a pack member. Gain CHA +1 and an Ally.
+
+10
+
+You dedicate your spare time to psionic training. Gain PSI +1.
+
+11
+
+You befriend a mentor. Gain a Contact and DM+4 to your next Advancement roll.
+
+12
+
+You have a natural aptitude for psionics. You are automatically promoted.
+
+

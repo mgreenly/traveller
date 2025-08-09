@@ -1,0 +1,220 @@
+TORPEDO DRONE
+
+CLASS: SLAIXUT
+
+Built on a 70-ton hull, the Slaixut is designed as a
+capital ship killer. Heavily armoured and armed with
+a torpedo barbette, the drone typically carries nuclear
+ordnance to inflict as much damage as possible. The
+drone is never deployed independently but is normally
+accompanied by two medium fighters to protect it as
+it undertakes its mission. Without a bridge or robot
+
+brain, the drone must be controlled by a remote
+operator and is useless if communications are
+jammed or cut. Like all Za’tachk drones, the Slaixut
+is a disposable asset but due to the nature of its
+weaponry, most captains are reluctant to leave them
+behind and would rather order them destroyed than
+have them fall into enemy hands.
+
+TL14
+Hull
+
+Tons
+
+Cost (MCr)
+
+70 tons, Streamlined
+
+—
+
+4.2
+
+Crew
+None
+
+Hull: 30
+
+Reinforced Hull
+
+—
+
+2.1
+
+Armour
+
+Bonded Superdense, Armour: 10
+
+11.2
+
+5.6
+
+M-Drive
+
+Thrust 5
+
+5.32
+
+10.5
+
+Fusion (TL12), Power 60
+
+Running Costs
+
+Power Plant
+
+4
+
+4
+
+MAINTENANCE COST
+
+Fuel Tanks
+
+4 weeks operation
+
+1
+
+—
+
+Computer/20fib
+
+—
+
+7.5
+
+Cr4272/month
+
+Computer
+
+PURCHASE COST
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+MCr51.26
+
+Weapons
+
+Torpedo Barbette
+
+7
+
+3
+
+Ammunition Torpedo Storage (66 torpedoes)
+
+33
+
+—
+
+Systems
+
+Advanced Control Interface
+
+—
+
+0.05
+
+Actuation System
+
+2.5
+
+0.01
+
+Anti-Hijack/1
+
+—
+
+6
+
+Evade/2
+
+—
+
+2
+
+Fire Control/1
+
+—
+
+2
+
+Intellect
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+2.5
+
+—
+
+Software
+
+Cargo
+
+Power Requirements
+Basic Ship Systems
+14
+Manoeuvre Drive
+35
+Sensors
+4
+Weapons
+2
+
+Total: MCr51.26
+
+1 square = 0.5 Ton
+
+6
+1
+
+2
+
+5
+
+3
+
+LEGEND
+
+7
+
+4
+
+DECK 1
+
+128
+
+DECK 2
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Manoeuvre Drive
+Power Plant
+Sensors
+Torpedo Barbette
+Torpedo Storage
+Actuation System
+Cargo Hold
+
+

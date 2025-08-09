@@ -1,0 +1,148 @@
+Ranks and BONUSES
+SUPPORT, ANALYSIS AND COMMUNICATIONS
+
+SKILL OR BONUS
+
+0
+
+—
+
+—
+
+1
+
+Agent
+
+Deception 1
+
+2
+
+Field Agent
+
+Investigate 1
+
+3
+
+—
+
+—
+
+4
+
+Speciality Agent
+
+Leadership
+
+5
+
+Assistant Director
+
+—
+
+6
+
+Director
+
+—
+
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career.
+
+3
+
+You are transferred to another planet to learn their policing methods. Roll EDU 10+ to gain any one skill.
+
+4
+
+You have the opportunity to play department politics, or you can ignore it all and focus on the
+case at hand. If you choose to play, roll Deception 8+. If you succeed, gain a Contact. Fail and
+you gain a Rival.
+
+5
+
+You are given advanced training in investigation techniques. Gain any one of Investigate 1,
+Electronics (sensors) 1, Science (any) 1 or Electronics (computers) 1.
+
+6
+
+You establish a network of contacts. Gain two Contact.
+
+7
+
+Life Event. Roll on the Life Event table.
+
+8
+
+Your supervisor questions your judgement on a case and orders you to back off. If you do so,
+nothing happens. If you continue, roll Investigate 8+. Succeed and your hunch was correct, and you
+gain DM+2 to your next Advancement roll. Fail and you end up getting an innocent civilian hurt, and
+you suffer DM-2 to your next Advancement roll.
+
+9
+
+You become good friends with a fellow agent. Gain them as an Ally.
+
+10
+
+You are part of a high-profile investigative unit. Gain Investigate 1, SOC +1, or Carouse +1.
+
+11
+
+The commissioner has their eye on you. Either gain Leadership or +4 to your next Advancement roll.
+
+12
+
+You are decorated for solving the impossible case. You are automatically promoted.
+
+1D
+
+MISHAP
+
+1
+
+You are severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice
+on the Injury table and take the lower result.
+
+2
+
+You blunder during an investigation, letting a dangerous criminal walk free. Gain the criminal
+as an Enemy.
+
+3
+
+A seemingly routine investigation leads into the upper echelons of power. If you drop this
+investigation immediately, you are not ejected from this career. If you continue, you learn a senior
+official or noble is corrupt in some fashion. They have you fired before you can bring them to
+justice – gain them as an Enemy.
+
+4
+
+A criminal walks free, causing you to lose faith in the system.
+
+5
+
+Someone tries to kill you and your family. Roll on the Injury table and lose one family member, Ally
+or Contact. Gain an Enemy.
+
+6
+
+Injured. Roll on the Injury table.
+
+1
+
+Suerrat Travellers
+
+Mishaps
+
+Events
+
+RANK
+
+51
+
+

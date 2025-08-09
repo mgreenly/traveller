@@ -1,0 +1,25 @@
+2
+
+1
+
+DECK 3
+
+4
+3
+
+DECK 2
+
+DECK 1
+
+5
+
+LEGEND
+1. Shrine
+2. Power plant
+3. Luxury stateroom
+4. Bridge
+5. Fuel processors
+
+81
+
+

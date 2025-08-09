@@ -1,0 +1,134 @@
+Events
+
+2D
+2
+3
+
+4
+
+5
+6
+7
+8
+9
+
+10
+11
+
+An emergency at your place of employment forces you to make a critical decision to save months
+of work. Roll DEX 8+. If you succeed, increase any one skill you have by one level. If you fail, roll
+on the Injury table.
+You have the opportunity to purchase cheaper services of materials necessary for your job. If
+you accept, roll INT 8+. If you succeed, you gain one Benefit roll. Fail and you discover they were
+under-priced for good reason – you are ejected from this career and lose SOC -1. If you roll a 2,
+you must take the Wanderer (exile) career in your next term.
+Your work takes you outside of the Confederation. Gain one level of Diplomat, Language or
+Science (biology, cybernectics, genetics or psionicology).
+You spend time maintaining and using vehicles, either as part of your job or as a hobby. Increase
+Drive, Engineer, flyer or Mechanic by one level.
+Life Event. Roll on the Life Event table.
+You become fixated with a fellow worker and go to extreme efforts to become friendly with them.
+No matter how hard you try, they brush you off and your feelings sour. Gain an Enemy or Rival.
+Your superior starts an inter-departmental conflict with another office. You are asked to uncover
+compromising information concerning their work ethics. If you agree, you are automatically
+promoted this term. If you refuse, your superior prevents you from advancing this term.
+Your business expands, your corporation grows or your colony thrives. Gain DM+1 on one Benefit roll.
+You befriend an old Darrian who once managed your place of employment. They arrange for you
+to gain additional tuition. Gain an extra roll on your assignment skill table.
+Your efforts gain your department an advance in status. You are automatically promoted.
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+BUREAUCRATIC
+Clerk
+—
+Administrator
+—
+Supervisor
+—
+Director
+
+SKILL OR BONUS
+—
+—
+Admin 1
+—
+Advocate 1
+—
+SOC +1
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+CORPORATE
+Intern
+Representative
+Manager
+—
+Senior Manager
+—
+Executive
+
+SKILL OR BONUS
+—
+—
+Admin 1
+—
+Leadership 1
+—
+Broker 1
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+INDUSTRIAL
+Labourer
+—
+Technician
+—
+Production Manager
+—
+Production Director
+
+SKILL OR BONUS
+—
+—
+Mechanic 1
+—
+Engineering 1
+—
+Leadership 1
+
+10
+
+Darrian Travellers
+
+Ranks and bonuses
+
+12
+
+EVENT
+Disaster! Roll on the Mishap table but you are not ejected form this career.
+
+59
+
+

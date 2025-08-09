@@ -1,0 +1,56 @@
+1 square = 0.5 Ton
+
+LEGEND
+1. Manoeuvre Drive
+2. Jump Drive
+3. Power Plant
+4. Bridge
+5. Sensors
+6. Docking Space
+7. Docking Clamps
+8. Fuel Processor
+9. Airlock
+10. Staterooms
+11. Cargo Hold
+
+8
+
+10
+
+7
+
+10
+1
+
+10
+
+3
+
+4
+10
+
+8
+
+7
+
+5
+
+10
+
+9
+
+10
+
+DECK 2
+
+7
+
+11
+
+7
+
+DECK 1
+
+68
+
+

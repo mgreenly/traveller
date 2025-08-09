@@ -1,0 +1,157 @@
+T
+
+SPHERE TANK
+
+Most Confederation tanks use a spherical configuration
+six metres across, granting them a reasonably effective
+deflection surface from all directions. They conform
+to Darrian military philosophy of stealth, speed and
+agility over brute power. Gauss guns are the preferred
+weapon over plasma or fusion due to their reduced EM
+signal and avoidance of secondary radiation and fire
+damage to the environment. Each sphere is horizontally
+segmented into three compartments, which can rotate
+independently of each other. The smaller top and bottom
+segments contain the sensors, antipersonnel and air
+defence weaponry. The middle compartment houses
+the crew, drive, power plant and main cannon. Crew
+compromises of a pilot, gunner and comms/sensor
+officer who also commands the tank. All crew are trained
+as engineer/mechanics on their own specific equipment.
+The TL13 sphere tank is standard equipment for armoured
+divisions of planetary militia, designed for rapid deployment
+or retreat and extended battlefield endurance.
+
+ARMOUR
+FRONT 85
+
+REAR
+
+85
+
+SIDES
+
+85
+
+R
+
+Vehicles of the Darrians
+
+V
+
+E
+
+TL
+
+13
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
++3
+
+SPEED (CRUISE)
+
+Fast (High)
+
+L
+
+L
+
+E
+
+RANGE (CRUISE) 4,000 (6,000)
+CREW
+
+3
+
+PASSENGERS
+
+—
+
+CARGO
+
+—
+
+HULL
+
+40
+
+SHIPPING
+
+10 tons
+
+COST
+
+MCr6.73
+
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+Traits
+Equipment
+
+Weapons
+
+74
+
+A
+
+—
+50km
++1
++2
+-1
+-4
+
+AFV
+Communications (basic, tightbeam),
+Control System (advanced), Decoy
+Dispenser, Life Support, Navigation
+(basic), Sensor System (advanced,
+hardened), Stealth (advanced),
+Streamlined, Vacuum Protection
+Large Turret (gauss cannon)
+Small Turret (VRF gauss rifles x2)
+
+WEAPON
+
+RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS
+
+Gauss Cannon
+
+2
+
+1DD
+
+200
+
+Cr1000
+
+AP 10, Auto 3
+
+FIRE CONTROL
++4
+
+VRF Gauss Rifles 1
+
+5D+5
+
+1000
+
+Cr2000
+
+AP 5, Auto 10
+
++0
+
+R
+
+

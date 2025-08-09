@@ -1,0 +1,211 @@
+BROODSHIP
+
+CLASS: SNAVRARH
+
+Snavrarh broodships are both the backbone and
+largest vessels in Tezcat fleets. They are designed as
+combined fuel tanker, supply ship, mobile workshop
+and command centre. They are a mobile base,
+headquarters and source of supply for crossing
+the vast expanses of the Rift, which often requires
+multiple jumps into empty space to succeed.
+
+These enormous 500,000-ton ships are built
+around an oval-shaped central hull. On the port and
+starboard sides are towers from which four ships
+can refuel. A large hanger bay allows smaller ships
+to berth for repairs and resupply. A large command
+bridge gives flag officers the ability to control entire
+taskforces with ease.
+
+The cargo holds on this class are used for two
+different purposes. The largest hold can carry an
+additional 76,288 tons of fuel, while the remaining
+cargo holds are divided between storing spare
+parts, rations, spare parts and other stores.
+Additionally, all the fuel shuttles aboard routinely
+have full fuel holds so they can quickly refuel other
+ships as necessary. If the captain of a broodship is
+willing to also give up the fuel for a second jump, it
+can supply a total of 239,030 tons of fuel.
+
+Snavrarh are poorly armed and only have the
+capacity to defend themselves to a small degree. A
+lone Snavrarh makes a tempting target for enemies
+hoping to cripple an invading Tezcat fleet. To
+counter potential threats, the Snavrarh-class uses
+stealth technology to make it difficult to locate and
+is always accompanied by at least three guardships
+to counter any upstart attempts by enemies.
+
+TL12
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+500,000 tons, Close Structure
+
+—
+
+20000
+
+Stealth (improved)
+
+—
+
+50000
+
+M-Drive
+
+Thrust 1
+
+5,000
+
+10000
+
+J-Drive
+
+Jump 2
+
+25,005
+
+37507.5
+
+Power Plant
+
+Fusion (TL12), Power 311,085
+
+20,739
+
+20739
+
+Fuel Tanks
+
+J-2 x3, 24 weeks operation
+
+312,444 —
+
+Bridge
+
+Command
+
+180
+
+2530
+
+Computer
+
+Core/70fib
+
+—
+
+120
+
+Backup
+Computer
+
+Core/60fib
+
+—
+
+112.5
+
+Captain, Pilots x3,
+Astrogator, Engineers
+x596, Maintenance
+x330, Gunners x139,
+Administrators x165,
+Sensops x66, Medics
+x12, Officers x132,
+Small Craft Crew x16,
+Marines x100,
+Shaper Priest
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Hull: 333,333
+
+Distributed Array
+
+6
+
+8.6
+
+Weapons
+
+Triple Turrets (beam lasers) x200
+
+200
+
+500
+
+Running Costs
+
+Screens
+
+Nuclear Dampers x10
+
+100
+
+100
+
+MAINTENANCE COST
+
+Craft
+
+Docking Spaces (1,000 tons) x5
+
+5,500
+
+1375
+
+MCr12.11/month
+
+Kilrashta Refuelling Shuttles x5
+
+—
+
+580.15
+
+PURCHASE COST
+
+Docking Spaces (95 tons) x2
+
+209
+
+52.25
+
+Passenger Shuttles x2
+
+—
+
+28.61
+
+Docking Space (20 tons)
+
+22
+
+5.5
+
+Gshahk Gig
+
+—
+
+6.83
+
+Hull
+
+MCr145352.32
+
+259
+
+

@@ -1,0 +1,54 @@
+8
+
+3
+DECK 4
+
+13
+
+10
+6
+
+12
+
+9
+11
+
+DECK 3
+LEGEND
+1. Cargo hold
+2. Small Particle Bay
+3. Missile Bay
+4. Docking space
+5. Shrine
+6. Staterooms
+7 . Tr i p l e t u r r e t s
+(beam lasers)
+8 . Tr i p l e t u r r e t s
+(Missile racks,
+sandcaster)
+
+6
+
+5
+DECK 2
+
+7
+
+7
+
+4
+2
+1
+9. Bridge
+10. Briefing room
+11. Captain's office
+12. Raised Platform
+13. Sensors
+
+DECK 1
+
+4
+
+105
+
+

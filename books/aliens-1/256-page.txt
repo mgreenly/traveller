@@ -1,0 +1,150 @@
+AGENT
+
+1
+
+Mental health professionals and intelligence
+operatives who work for the health of the
+Consulate and oppose those who would
+threaten it.
+Qualification: INT 6+
+The Traveller must have SOC 10+ to enlist.
+The Traveller must have PSI 9+ to be
+assigned to Thought Police.
+
+CAREER PROGRESS
+Tozjabr
+Thought Police
+
+Tozjabr (intelligence): You are a Consulate
+intelligence operative.
+Thought Police: You work with or for the
+civilian Thought Police.
+
+ADVANCEMENT
+INT 5+
+INT 6+
+
+MUSTERING OUT BENEFITS
+
+ASSIGNMENTS
+Choose one of the following.
+
+SURVIVAL
+INT 7+
+END 6+
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+1000
+2000
+5000
+7500
+10000
+25000
+50000
+
+BENEFITS
+Weapon
+Armour
+Ship Share
+EDU +1
+INT +1
+Nenj
+SOC +1
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+DEX +1
+END +1
+INT +1
+Athletics
+Gun Combat
+Melee
+SPECIALIST: TOZJABR
+Electronics
+Deception
+Language
+Persuade
+Recon
+Streetwise
+
+SERVICE SKILLS
+ADVANCED EDUCATION (MIN. EDU 8)
+Carouse
+Advocate
+Electronics
+Talent
+Drive
+Electronics
+Gun Combat
+Diplomat
+Investigate
+Medic
+Recon
+Science
+SPECIALIST: THOUGHT POLICE PSIONIC SKILLS (MIN. SOC 10)
+Advocate
+PSI +1
+Investigate
+Clairvoyance
+Melee
+Persuade
+Persuade
+Science (psychology)
+Recon
+Talent
+Stealth
+Telepathy
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+TOZJABR
+Analyst
+Defender of 20
+Defender of 50
+Defender of 100
+Defender of 500
+Defender of 1,000
+Defender of 5,000
+
+SKILL OR BENEFIT
+—
+Persuade 1
+Investigate 1
+—
+Gun Combat 1
+—
+—
+
+

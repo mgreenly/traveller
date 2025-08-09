@@ -1,0 +1,248 @@
+SRSF CUSTOMS CUTTER
+The SRSF customs cutter is a common sight
+around the worlds of the Suerrat Cultural Region.
+Built on a 300-ton hull, the cutter is well-armed and
+armoured for its size. It carries a complement of
+five marines for boarding and customs inspections.
+Each cutter boasts a brig for up to 12 prisoners
+and the cargo hold is large enough to carry most
+
+TL12
+
+contraband discovered. The cutter has enough
+fuel to operate for eight weeks without refuelling
+and is able to micro-jump to out-system gas giants
+where it can lie in wait within the planet’s cloud
+cover to pounce unawares on ships trying to avoid
+customs by wilderness refuelling.
+
+TONS
+
+COST (MCr)
+
+Crew
+Captain, Pilots x3,
+Astrogator, Engineer,
+Officer, Marines x5
+
+Hull
+
+300 tons, Streamlined
+
+—
+
+18
+
+Armour
+
+Crystaliron, Armour: 8
+
+30
+
+6
+
+M-Drive
+
+Thrust 5
+
+15
+
+30
+
+J-Drive
+
+Jump 2
+
+20
+
+30
+
+Power Plant
+
+Fusion (TL12), Power 315
+
+21
+
+21
+
+Fuel Tanks
+
+J-2, 8 weeks operation
+
+66
+
+—
+
+Bridge
+
+Holographic Controls
+
+20
+
+1.875
+
+Computer
+
+Computer/15fib
+
+—
+
+3
+
+Cr11785/month
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+PURCHASE COST
+
+Weapons
+
+Double Turret (beam lasers)
+
+1
+
+1.5
+
+MCr141.425
+
+Double Turret (pulse lasers)
+
+1
+
+2.5
+
+Particle Barbette
+
+5
+
+8
+
+Armoury
+
+2
+
+0.5
+
+Breaching Tube
+
+3
+
+3
+
+Brig
+
+4
+
+0.25
+
+Fuel Scoops
+
+Manoeuvre Drive
+
+—
+
+—
+
+Fuel Processor (200 tons/day)
+
+0.5
+
+150
+
+10
+
+Staterooms
+
+Standard x13
+
+52
+
+6.5
+
+Software
+
+Evade/1
+
+—
+
+1
+
+Fire Control/1
+
+Sensors
+
+—
+
+2
+
+4
+
+Intellect
+
+—
+
+—
+
+Jump Control/2
+
+Weapons
+
+—
+
+0.2
+
+33
+
+Library
+
+—
+
+—
+
+Fuel Processor
+
+Manoeuvre
+
+—
+
+—
+
+10
+
+Common
+Areas
+
+13
+
+1.3
+
+Cargo
+
+28
+
+—
+
+Systems
+
+Hull: 120
+Running Costs
+MAINTENANCE COST
+
+Power Requirements
+Basic Ship Systems
+60
+
+Jump Drive
+60
+
+Total: MCr141.425
+
+63
+
+

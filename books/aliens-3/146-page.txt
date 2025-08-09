@@ -1,0 +1,316 @@
+TL15
+
+TONS COST (MCr)
+
+Crew
+Captain, Pilots
+x3, Engineers x8,
+Maintenance x4,
+Medic, Gunners x14,
+Administration x2,
+Officers x3, Marines
+x20
+
+2,000 tons, Standard
+
+—
+
+100
+
+Reinforced Hull
+
+—
+
+50
+
+Stealth (advanced)
+
+—
+
+2000
+
+Armour
+
+Bonded Superdense, Armour: 14 224
+
+112
+
+M-Drive
+
+Thrust 9
+
+180
+
+360
+
+Power Plant
+
+Fusion (TL15), Power 2,280
+
+114
+
+228
+
+Fuel Tanks
+
+16 weeks operation
+
+47
+
+—
+
+Bridge
+
+Holographic Controls
+
+40
+
+12.5
+
+Computer
+
+Computer/35fib
+
+—
+
+45
+
+Sensors
+
+Advanced
+
+5
+
+5.3
+
+Running Costs
+
+Enhanced Signal Processing
+
+2
+
+8
+
+MAINTENANCE COST
+
+Military Countermeasures suite
+
+15
+
+28
+
+Cr251872.725/month
+
+Sensor Stations x2
+
+2
+
+1
+
+PURCHASE COST
+
+Large Torpedo Bay
+
+500
+
+10
+
+MCr3022.4727
+
+Medium Missile Bays x2
+
+200
+
+20
+
+Triple Turrets (sandcasters) x4
+
+4
+
+7
+
+Power Requirements
+
+Point Defence Laser Batteries
+(Type III) x9
+
+180
+
+180
+
+Basic Ship Systems
+
+Sand Canister Storage (240
+canisters)
+
+12
+
+—
+
+Missile Storage (288 missiles)
+
+24
+
+—
+
+Hull
+
+Weapons
+
+Ammunition
+
+1,800
+
+8
+
+2
+
+Weapons
+
+Briefing Room x3
+
+12
+
+1.5
+
+319
+
+Brig
+
+8
+
+0.5
+
+Docking Space (95 tons)
+
+105
+
+26.25
+
+Modular Cutter
+
+—
+
+11.93
+
+Boarding Pods x3
+
+—
+
+83.943
+
+Repair Drones
+
+20
+
+4
+
+Fuel Scoop
+
+—
+
+1
+
+Medical Bay
+
+8
+
+4
+
+Standard x34
+
+136
+
+17
+
+Barracks x30
+
+60
+
+1.5
+
+32
+
+3.2
+
+Auto-repair/2
+
+—
+
+—
+
+Evade/2
+
+—
+
+2
+
+Fire Control/2
+
+—
+
+4
+
+Launch Solution/2
+
+—
+
+12
+
+Library
+
+—
+
+—
+
+Manoeuvre/0
+
+—
+
+—
+
+Intellect
+
+—
+
+—
+
+27.6
+
+—
+
+33.4
+
+Systems
+
+Armoury
+
+Common Areas
+
+Cargo
+
+Manoeuvre Drive
+
+4.68
+
+Manoeuvre Drive, Power Plant,
+Bridge
+
+Software
+
+400
+
+Sensors
+
+Armoured
+Bulkheads
+
+Staterooms
+
+Hull: 880
+
+10
+
+147
+
+

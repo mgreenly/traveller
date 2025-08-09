@@ -1,0 +1,158 @@
+7
+
+SPACER
+
+This career embraces all forms of interplanetary
+and interstellar service that may be carried
+out by a clan, including operation of all forms
+of spacecraft. Males in the Space service
+are primarily gunners and pilots; females are
+technicians or support personnel.
+
+CAREER PROGRESS
+Survival
+Advancement
+
+PILOT
+DEX 7+
+INT 5+
+
+GUNNER
+END 6+
+INT 6+
+
+ENGINEER CREW
+END 6+ EDU 5+
+INT 7+
+INT 6+
+
+Qualification: Rite of Passage 8+
+
+ASSIGNMENTS
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Pilot: You fly one of the large Aslan vessels
+or the smaller shuttles and fighters that
+accompany them.
+Gunner: You man a turret or other weapon,
+slaughtering your foes with claws of laser-light.
+Engineer: You maintain the systems of a
+starship, despite the best efforts of the male
+crew to wreck it.
+Crew: You serve as a general labourer and
+deckhand on board ship.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+8
+
+Gender: Only males can enter Pilot or Gunner.
+Only females can enter Engineer.
+
+•
+•
+
+CASH
+Cr500
+Cr1000
+Cr1000
+Cr5000
+Cr5000
+Cr10000
+Cr20000
+Cr30000
+
+BENEFITS
+1 Clan Share
+INT +1
+EDU +1
+Weapon
+2 Clan Shares
+Brotherhood of Stars
+SOC +1
+3 Clan Shares
+
+DM+1 if SOC 9+
+DM+1 when rolling on Benefits if Male
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+DEX +1
+Tolerance
+Independence (male) or
+Broker (female)
+INT +1
+Jack-of-All-Trades
+Vacc Suit
+SPECIALIST: PILOT
+Pilot (small craft)
+Pilot (spacecraft)
+Tactics (naval)
+Athletics (dexterity)
+Gunner (turret)
+DEX +1
+
+SERVICE SKILLS
+Steward
+Flyer
+Mechanic
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Astrogation
+Broker
+Tactics (naval)
+
+Athletics
+Electronics
+Vacc Suit
+SPECIALIST: GUNNER
+Gunner (turret)
+Gunner (any)
+Tactics (naval)
+Athletics (dexterity)
+Electronics
+INT +1
+
+Electronics
+Leadership
+Admin
+SPECIALIST: ENGINEER
+Electronics
+Engineer (j-drive)
+Engineer (power)
+Engineer (m-drive)
+Engineer
+EDU +1
+
+SPECIALIST: CREW
+Mechanic
+Athletics
+Vacc Suit
+Mechanic
+Engineer
+END +1
+
+

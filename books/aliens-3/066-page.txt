@@ -1,0 +1,209 @@
+Powered by synthetic electro-contracting muscles, the
+exoskeleton removes skill check penalties normally
+associated with operating on high-gravity worlds before
+acclimation. The exoskeleton also incorporates an
+integral medkit and communicator mounted on the
+thigh braces to monitor and treat the wearer if they start
+to suffer circulatory difficulties or dial for emergency aid
+in the event of serious injury.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Exoskeleton
+
+10
+
+10
+
+Cr10000
+
+Pressure Respirator: A respirator that allows
+the wearer to breathe on worlds with atmospheric
+pressures higher than their own. Most models come
+as a full-face mask connected to a large belt mounted
+pump, which lowers internal pressure and makes
+gas mixture changes required to keep the wearer
+comfortable. At TL9 the mask is resized to cover
+just the nose and mouth, with the pumping device
+minimised to the size of half a pack of cards. At TL11
+the micro pumps and exhausts can be woven into a
+fine mesh net, either incorporated subtly into clothing
+or worn next to the skull – the air flow used to waft the
+wearer’s hair in interesting patterns.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Pressure Respirator
+
+8
+
+10
+
+Cr2000
+
+Pressure Respirator
+
+9
+
+5
+
+Cr1500
+
+Pressure Respirator
+
+11
+
+—
+
+Cr800
+
+ELECTRONICS
+
+Item
+
+TL
+
+Kg
+
+Cost
+
+Atmosphere Tester
+
+7
+
+—
+
+Cr300
+
+At TL11 the surveillance radar has a range of two
+kilometres and has its own internal power supply
+lasting 12 hours before recharge.
+At TL13 range is increased to five kilometres and is a small
+hand-held unit with its own power supply lasting 24 hours.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Field Surveillance Radar
+
+9
+
+10
+
+Cr8000
+
+Field Surveillance Radar
+
+11
+
+6
+
+Cr1000
+
+Field Surveillance Radar
+
+13
+
+1
+
+Cr1250
+
+Motion Sensor: A motion sensor detects any and all
+movement within an area it is assigned to. It cannot
+detect between different kinds of movement – it just
+reports whether there is movement or not in an area of
+roughly six metres diameter.
+At TL9, the motion detector can report the general
+qualities of motion – size, speed and duration.
+The Electronics (sensors) skill is not required to use a
+motion sensor to detect motion. When trying to interpret
+data from a TL9 motion sensor, this skill may be used.
+Item
+
+TL
+
+Kg
+
+Cost
+
+Motion Sensor
+
+7
+
+1
+
+Cr1000
+
+Motion Sensor
+
+9
+
+1
+
+Cr2000
+
+NBC Combination Analysis Unit: A personal alarm
+that automatically monitors for radiation, biological
+and chemical threats, and gives both an alarm and
+an indication of severity (mild-moderate-high-severeextreme). The standard model does not indicate the
+specific threat but will inform the user if the hazard is
+radiation, biological or chemical. The advanced model will
+indicate the specific threat if known to the unit’s database.
+Item
+
+TL
+
+Kg
+
+Cost
+
+NBC Combination Analysis Unit 7
+
+1
+
+Cr500
+
+Advanced NBC Combination
+Analysis Unit
+
+0.5
+
+Cr2000
+
+8
+
+CSC: Darrian
+
+Atmosphere Tester: A hand-held device that
+monitors air breathability and quality. A simple
+readout indicates pressure (thin, dense and so forth)
+and whether the air is within breathable parameters.
+An audible alarm and flashing warning indicate
+unbreathable or toxic gas mixes but the unit does not
+indicate what the hazard composition is.
+
+Field Surveillance Radar: A field surveillance radar
+unit is designed to provide surveillance of open areas
+in conditions of limited visibility. It has a range of
+500 metres and comes with a tripod mount. The unit
+detects moving objects of 0.1 litres volume or more and
+requires external power such as a generator or vehicle
+power plant to operate.
+
+67
+
+

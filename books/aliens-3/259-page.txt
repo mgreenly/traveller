@@ -1,0 +1,177 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+CLOSE AND PERSONAL
+Bwaps can use the same weapons as most other
+humanoid races in the Imperium but they have a few
+that are specific to themselves.
+Blade Tail: A blade tail is a sharp blade that can be
+attached to a tail mount, allowing an armoured Bwap to
+use their tail as a weapon.
+Ceremonial Dagger: A decorated blade made from the
+razor-sharp tooth of a depwethawa, the ceremonial blade
+is an item that all tap-a-wewaka-atapas carry with them.
+Ceremonial Staff: The ceremonial staff (fewab-awewaka) is a weapon carried by all tap-a-wewaka-atapas,
+a polearm topped by a heavy weight. The fewab-awewaka is an effective weapon in skilled hands. The
+heavy weight at the end of the shaft has several openings
+that create a trilling whistle when swung. The span of
+the shaft is engraved with a passage from the Wapawab
+that has some significance to the wielder. Traditionally
+constructed from the wood of the bapawa-a-a-bap tree,
+modern fewab-a-wewaka are manufactured from metal.
+
+CSC: Bwaps
+
+Club Tail: A club tail is a heavy bludgeoning weapon
+attached to a tail mount on powered armour, allowing
+a Bwap to deal greater damage with a tail swing.
+Normally constructed from metallic alloys, the club can
+either be smooth or spiked.
+
+260
+
+Whip-Sword: A whip-sword, or tapapath-a-a-pawatapas,
+has a long flexible blade made from paper-thin metal.
+The weapon is swung around the wielder and used like
+a whip. It is a difficult weapon to wield, inflicting DM-2
+penalty on attack rolls. Some whip-swords have multiple
+blades, making them more difficult to wield, with a DM-4
+penalty. Whip-swords are difficult to block, as the blades
+are able to whip around intervening obstacles and cannot
+be parried. When used correctly, the whip-sword creates a
+whirling barrier around the wielder, preventing aggressors
+from getting close enough to use their own weapons.
+Weapon
+
+TL
+
+Range
+
+Damage
+
+Kg
+
+Cost
+
+Traits
+
+Blade Tail
+
+2
+
+Melee
+
+2D
+
+1
+
+Cr150
+
+—
+
+Ceremonial Dagger
+
+1
+
+Melee
+
+1D+2
+
+1
+
+Cr800
+
+AP 2
+
+Ceremonial Staff
+
+2
+4
+
+Melee
+Melee
+
+2D
+2D+2
+
+3
+3
+
+Cr300
+Cr500
+
+Smasher
+Smasher
+
+Club Tail
+
+2
+
+Melee
+
+2D
+
+1
+
+Cr150
+
+Smasher
+
+Spiked Club Tail
+
+2
+
+Melee
+
+2D+2
+
+1
+
+Cr175
+
+Smasher
+
+Whip Sword
+
+2
+
+Melee
+
+2D
+
+1
+
+Cr150
+
+—
+
+Multi-bladed Whip Sword
+
+2
+
+Melee
+
+3D
+
+2
+
+Cr150
+
+—
+
+E
+
+R
+
+

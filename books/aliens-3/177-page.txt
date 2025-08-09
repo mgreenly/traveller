@@ -1,0 +1,104 @@
+T
+
+Sea Shepherd: The sea shepherd is a dolphinoid robot
+that Dolphins use to assist them in herding and guarding
+schools of marine life. Several sea shepherds will work
+with a single Dolphin, responding to commands much
+like a Terran sheepdog to a farmer. Sea shepherds are
+also capable of guarding schools of marine life and
+fighting off predators. These robots are quite capable at
+the tasks they were designed for, and able to respond
+to quite complex commands, but are easily confused if
+placed in situations they are not programmed for.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+Robot
+
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Sea Shepherd
+
+32
+
+7m+
+
+10
+
+Cr670000
+
+Locomotion
+
+Aquatic
+
+Skills
+
+Athletics (endurance) 2, Athletics
+(dexterity) 4, Gun Combat 0, Melee 0,
+Navigation 2, Recon 2
+
+Attacks
+
+Battering Ram (1D+3 ), Sonic
+Amplifier (2D Stun)
+
+Manipulators
+
+None
+
+Endurance
+
+432 (108) hours
+
+Traits
+
+Armour (+6), Seafarer (very slow),
+Large (+1), Heightened Senses,
+IR Vision
+
+Programming
+
+Basic (recon) (INT 4)
+
+Options
+
+Android (improved), Auditory
+Sensor (broad spectrum),
+Drone Interface, Light Intensifier
+Sensor (advanced), Navigation
+System (improved), Submersible
+Environment Protection 1200 m
+(enhanced), Transceiver 500 km
+(improved), Voder Speaker (broad
+spectrum), Weapon Mount (small),
+Wireless Data Link
+
+CSC: Dolphins
+
+Personal Services Bot
+
+178
+
+Sea Shepherd
+
+E
+
+R
+
+

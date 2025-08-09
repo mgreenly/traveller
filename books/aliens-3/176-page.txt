@@ -1,0 +1,87 @@
+Grav Couch
+
+ROBOTS
+
+Mouth Finger
+
+Dolphins love robots, which they see as both useful
+tools and sophisticated toys. It is not uncommon to
+find a variety in the use of pods involved in business
+ventures. The only type of robots Dolphins find
+distasteful are warbots. Heavily armed robots of any
+sort are generally shunned by Dolphins and if such
+a robot must be used the weapons are replaced with
+non-lethal tools such as stunners.
+Personal Services Bot: A common robot found among
+Dolphins, the personal services bot is used to help
+Dolphins perform tasks they are unable to perform on
+their own, such as donning a travel suit or a waldo. This
+egg-shaped robot has four arms articulated at four points,
+which end in claws with three equally opposable digits.
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Personal
+Services Bot
+
+15
+
+6m
+
+10
+
+Cr65000
+
+Locomotion
+
+Grav
+
+Skills
+
+Profession (domestic servant) 2,
+Steward 0
+
+Attacks
+
+None
+
+Manipulators
+
+4 X (STR 7 DEX 9)
+
+Endurance
+
+48 hours
+
+Traits
+
+Armour (+3), Flyer(idle), Heightened
+Senses, Small (-1)
+
+Programming
+
+Basic (servant) (INT 4)
+
+Options
+
+Auditory Sensor (broad spectrum),
+Storage Compartment (standard)
+x2, Transceiver 5 km (improved),
+Visual Spectrum Sensor, Voder
+Speaker (broad spectrum), Wireless
+Data Link
+
+CSC: Dolphins
+
+Grav Belt
+
+Robot
+
+177
+
+

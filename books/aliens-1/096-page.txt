@@ -1,0 +1,138 @@
+SAKHAI-CLASS ASSAULT CARRIER
+TL12
+Hull
+Armour
+M-Drive
+J-Drive
+Power Plant
+Fuel Tanks
+Bridge
+Computer
+Sensors
+Weapons
+
+Ammunition
+Systems
+
+Staterooms
+
+Software
+
+TONS
+2,000 tons, Streamlined,
+Reinforced
+Crystaliron, Armour 8
+Thrust 3
+Jump 3
+Fusion (TL12), Power 1500
+J-3, 4 weeks of operation
+Computer/25
+Improved
+Medium Fusion Gun Bay
+Small Missile Bays x 2
+Particle Barbettes x 3
+Triple Turrets (beam lasers) x 6
+Triple Turrets (sandcasters) x 5
+Missiles x 600
+Sandcaster Barrels x 120
+Fuel Processor (120 tons/day)
+Fuel Scoops
+Shrine
+Armoury
+Briefing Room
+Standard x 17
+Barracks x 160
+Low Berths x 200
+Jump Control/2
+Library
+Manoeuvre/0
+Fire Control/5
+
+Common Areas
+Cargo
+
+96
+
+—
+
+180
+
+200
+60
+155
+100
+610
+40
+
+72
+120
+232.5
+100
+
+—
+
+3
+100
+100
+15
+6
+5
+50
+6
+6
+
+—
+
+12.5
+10
+4.3
+16
+24
+24
+15
+8.75
+—
+
+0.03
+
+—
+
+—
+
+4
+32
+4
+68
+320
+100
+—
+
+0.5
+8
+0.5
+8.5
+8
+10
+0.3
+
+—
+
+—
+
+—
+—
+
+—
+
+12
+6
+
+TOTAL: 857.15
+
+COST (MCR)
+
+10
+1.2
+—
+
+

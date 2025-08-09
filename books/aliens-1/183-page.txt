@@ -1,0 +1,87 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured in action. Roll twice on the Injury table and take the lower result.
+
+2
+
+Most of your unit are killed in battle, for which you blame your pack leader. With no other survivors to witness
+their lack of skill, they have you removed from the service; lose CHA –1 and gain them as an Enemy.
+
+3
+
+You are sent to a hostile region to battle guerrilla fighters and rebels. You are discharged due to stress or injury.
+Increase Recon or Survival by +1 and lose CHA –1.
+
+4
+
+You discover your pack leader is involved in illegal activities such as weapon or drug smuggling. You can join
+their ring and gain them as an Ally before the inevitable investigation gets you discharged and you lose CHA –1,
+or you can testify against them gaining CHA +1 but they becomes an Enemy and you are discharged as part of
+the official cover-up.
+
+5
+
+You fail a critical mission. You lose CHA –1 and leave the service.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career.
+
+3
+
+You are assigned to a hostile planet. Gain one of Vacc Suit 1, Engineer (any) 1 or Survival 1.
+
+4
+
+You are assigned to a war-torn urban region. Gain one of Stealth 1, Streetwise 1, Persuade 1 or Recon 1.
+
+5
+
+Your pack is given a special assignment or duty. Gain DM+1 to one Benefit roll for this career or CHA +1.
+
+6
+
+You are thrown into a brutal ground war and your leader is killed. Roll END 8+ to avoid injury; if successful,
+you gain one level in Gun Combat (any) or Leadership and roll CHA 8+ to become the pack leader (gaining an
+automatic promotion).
+
+7
+
+Life Event. Roll on the Vargr Life Events table (page 204).
+
+8
+
+You receive advanced training. Roll EDU 8+ to increase any one skill you already have by one level.
+
+9
+
+Surrounded by a superior enemy, you hold out until relief arrives. Gain +1 to your next Advancement roll or
+CHA +1.
+
+10
+
+You are assigned to a peacekeeping role. Gain one of Admin 1, Investigate 1, Recon 1 or CHA +1.
+
+11
+
+You save your pack leader’s life in battle. Gain them as an Ally and receive DM+2 to your next Advancement roll.
+
+12
+
+You perform a heroic deed in battle. Gain CHA +1 and an automatic promotion.
+
+

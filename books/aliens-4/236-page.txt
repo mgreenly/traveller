@@ -1,0 +1,230 @@
+MEDIUM FIGHTER
+
+CLASS: KALAHK
+
+The Kalahk is a relatively reliable vessel, capable
+of inflicting considerable damage while being able
+to withstand some punishment. A basic emissions
+absorption grid gives the fighter a modicum of
+stealth but its efficiency is reduced when opposed
+by higher technology sensors. Currently the
+
+TL12
+
+mainstay of the Tezcat navy, the Kalahk is seen
+almost everywhere Tezcat are, as they are used
+for both pirate suppression, security patrols
+and combat. The fighter’s cargo capacity is set
+aside for future improvements such as technical
+upgrades and new technology.
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+35 tons, Streamlined
+
+—
+
+2.1
+
+Stealth (basic)
+
+0.7
+
+1.4
+
+Aerofins
+
+1.75
+
+0.175
+
+Armour
+
+Titanium Steel, Armour: 9
+
+15.75
+
+0.7875
+
+M-Drive
+
+Thrust 6
+
+2.1
+
+4.2
+
+MAINTENANCE COST
+
+Power Plant
+
+Fusion (TL12), Power 45
+
+3
+
+3
+
+Cr2785month
+
+Fuel Tanks
+
+4 weeks operation
+
+1
+
+—
+
+PURCHASE COST
+
+Bridge
+
+Cockpit
+
+1.5
+
+0.01
+
+Computer/20fib
+
+—
+
+7.5
+
+MCr33.4225
+
+Computer
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Fixed Mount (particle beam)
+
+—
+
+4.1
+
+Fixed Mount (missile rack)
+
+—
+
+0.85
+
+Ammunition Missile Storage (12 missiles)
+
+1
+
+—
+
+Systems
+
+Fuel Scoops
+
+—
+
+—
+
+Software
+
+Evade/1
+
+—
+
+1
+
+Fire Control/2
+
+—
+
+4
+
+Intellect
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+5.2
+
+—
+
+Hull
+
+Cargo
+
+Pilot
+
+Hull: 14
+Running Costs
+
+Power Requirements
+Basic Ship Systems
+7
+Manoeuvre Drive
+21
+Sensors
+4
+Weapons
+6
+
+Total: MCr33.4225
+
+6
+
+5
+
+1 square = 0.5 Ton
+
+4
+7
+3
+
+LEGEND
+
+8
+
+2
+
+236
+
+1
+
+1.
+2.
+3.
+4.
+
+Manoeuvre Drive
+Power Plant
+Cockpit
+Sensors
+
+5. Fixed Mount
+Particle Beam
+6. Fixed Mount
+Missile Rack
+7. Missile Storage
+8. Cargo Hold
+
+

@@ -1,0 +1,149 @@
+Ranks and BONUSES
+INVESTIGATOR, FIELD AND SPECIAL OPERATIONS
+
+SKILL OR BONUS
+
+0
+
+Assistant Officer
+
+Gun Combat 1
+
+1
+
+Officer
+
+Recon 1
+
+2
+
+Force Officer
+
+—
+
+3
+
+Senior Officer
+
+Leadership 1
+
+4
+
+Force Inspector
+
+—
+
+5
+
+Force Commander
+
+—
+
+6
+
+Commissioner
+
+SOC 10 or SOC +1, whichever is higher
+
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career.
+
+3
+
+A dangerous former criminal has escaped and now stalks you and your family. Now and in each
+term afterwards until the criminal is caught or you leave this career, roll Investigate 10+. If you
+succeed, the criminal is caught and you gain DM+2 to your next Advancement roll. If you fail by
+Effect -6 or worse, lose one Contact, Ally or family member.
+
+4
+
+You establish a good network of connections. Gain two Contacts.
+
+5
+
+You are sent to a planet to research a criminal syndicate which is particularly difficult to find. Roll
+Investigate 10+ to automatically advance this term.
+
+6
+
+You are in a position to gain an injury to ensure a criminal gets what they deserve. If you
+choose to do so, roll Athletics (dexterity) 8+. If successful, you are automatically promoted. If
+you fail, roll on the Injury table.
+
+7
+
+Life Event. Roll on the Life Event table.
+
+8
+
+A powerful criminal syndicate offers you a bribe. If you accept, you gain one extra Benefit roll each
+term you remain in this career. If you refuse, you gain an Enemy.
+
+9
+
+You learn something which could destroy your immediate supervisor’s career instantly, allowing you
+to take their place. Withhold the information and gain them as an Ally. Exploit the information and
+gain DM+2 on your next Advancement roll but your supervisor as an Enemy.
+
+10
+
+You are given the opportunity to gain some advanced training. Roll EDU 8+ to gain one of
+Leadership +1, Investigate +1, Advocate +1 or Athletics (any) +1.
+
+11
+
+A new member of the force has gotten into legal trouble. Help them and gain Advocate +1. Use their
+troubles to your best interests and gain Deception +1.
+
+12
+
+You are decorated for heroism beyond the call of duty. You are automatically promoted.
+
+1D
+
+MISHAP
+
+1
+
+You are severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice
+on the Injury table and take the lower result.
+
+2
+
+A gunfight goes poorly for you and you now have a bullet lodged in an organ. Lose END -1.
+
+3
+
+Your face is plastered all over criminal message centres. Gain SOC +1 but gain an Enemy.
+
+4
+
+The ship you worked on is attacked by pirates. Roll Gun Combat (any) or Gunner (any) 8+ to avoid
+rolling on the Injury table.
+
+5
+
+You make friends with a criminal you are pursuing. You are fired but gain them as a Contact.
+
+6
+
+You are decorated for solving the impossible case. You are automatically promoted.
+
+2
+
+Suerrat Travellers
+
+Mishaps
+
+Events
+
+RANK
+
+53
+
+

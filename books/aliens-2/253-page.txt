@@ -1,0 +1,65 @@
+A03/48956
+
+COMBAT WEAPONS
+
+Hivers rarely use what might be termed combat weapons; any Hiver expecting a fight will make itself scarce or enlist someone
+else to fight for it if at all possible. On the occasions where combat is inevitable or even desirable, Hivers prefer to fight from
+a distance.
+The standard combat weapon is based on the gauss sniper rifles used by humanoid Hive Federation ground troops but
+designed to be carried on a harness worn by the Hiver. The weapon is offset to one side with the barrel protruding past a
+comfortable position for the Hiver’s ‘head’ so that no accidents can occur. It is aimed using electronic sights on the weapon,
+feeding into a display viewed from a head-down position and fired using a control manipulated by the Hiver’s ‘rear’ limb. The
+firing position has been unkindly described as ‘head down, tail up’ but it keeps the Hiver low and stable. It is possible to
+shoot from behind cover with nothing but a few fingers and the weapon above the parapet, so to speak. A Hiver standing still
+to shoot is very stable on four (or even five) limbs and gains DM+2 to aiming actions rather than the usual DM+1.
+A heavier weapon of the same design is available for use in heavy combat situations. Again, it is rare for a Hiver to be in
+such a situation but there have been occasions when it is necessary. The weapon is chambered for 15mm munitions fired in
+3-round bursts at relatively low velocity for a gauss system. Ammunition is either airburst-capable explosive/fragmentation
+rounds for use against ‘soft’ targets or a discarding sabot round, which attains speeds more typical of gauss munitions. These
+rounds can penetrate heavy armour or light vehicles. A Hiver using one of these weapons can act as fire support for more
+conventionally equipped troops, not coincidentally giving it an excuse to hang back in a safe position.
+
+Weapon
+Hiver Gauss Sniper Rifle
+Hiver Gauss Support
+Weapon (HE/Frag)
+Hiver Gauss Support
+Weapon (Discarding
+Sabot)
+
+TL
+13
+13
+
+Range Damage Kg
+1000 5D
+6
+1200 8D
+12
+
+Cost
+Magazine Magazine Cost
+Cr3500 40
+Cr75
+Cr7500 30
+Cr200
+
+Traits
+AP6, Scope
+Auto 2, Blast 2
+
+13
+
+1200 8D
+
+Cr7500 30
+
+Auto 2, AP 8
+
+12
+
+Cr200
+
+253
+
+

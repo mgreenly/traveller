@@ -1,0 +1,148 @@
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+PILOT/GUNNER
+Raw Recruit
+Recruit
+Spacehand
+Veteran Spacehand
+Honoured Spacehand
+Petty Officer
+Veteran Petty Officer
+
+SKILL OR BENEFIT
+—
+Vacc Suit
+—
+EDU +
+—
+—
+3 Clan Shares
+
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+ENGINEER/CREW
+Raw Recruit
+Recruit
+Spacehand
+Veteran Spacehand
+Honoured Spacehand
+Petty Officer
+Veteran Petty Officer
+
+SKILL OR BENEFIT
+—
+Mechanic
+—
+EDU +1
+—
+—
+2 Clan Shares
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured. Roll twice on the Injury table and take the lower result.
+
+2
+
+A superior officer has you drummed out of the service. Gain a Rival.
+
+3
+
+You are infected by an alien parasite. Roll END 8+; if you succeed, you do not lose any END; otherwise lose
+END –1.
+
+4
+
+You are accused of smuggling illegal goods into clan space. Lose SOC –2.
+
+5
+
+You get into trouble on an alien world. Roll Tolerance 8+; if you succeed, you lose any Benefit rolls from this
+term but are not ejected from the career. Otherwise, you attack the alien and are punished by losing your place
+in the Space service.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+Your ship is attacked by pirates. Roll either Pilot 8+, Gunnery 8+ or Mechanic 8+. If you succeed, you drive
+off the attackers – gain DM+2 to your next advancement roll. If you fail, the pirates steal your cargo. Lose all
+Benefit rolls from this term and gain the pirate captain as an Enemy.
+
+4
+
+You have the opportunity to smuggle illegal goods. If you accept, roll Deception 8+. Succeed and gain 3
+Benefit rolls. Fail and you suffer DM-6 to your next advancement check.
+
+5
+
+You are considered for promotion in the officer caste. You may add the number of terms served in this career as
+a DM if you attempt to qualify for the Space Officer career next term and may apply even if you have not served
+the minimum number of terms in this career.
+
+6
+
+Your trading mission exposes you to many different worlds and cultures. Gain a level in either Survival,
+Streetwise, Science or Tolerance
+
+7
+
+Life Event. Roll on the Aslan Life Events table.
+
+8
+
+Your ship carries Aslan colonists to their new world. Gain a Contact from among their ranks.
+
+9
+
+You are engaged in a series of vicious battles against enemies of your clan. You may demonstrate heroism or
+prudence in battle. If you demonstrate heroism, roll END 9+ to avoid rolling on the Injury table and gain DM+2
+to your next advancement roll. If you cower, roll Stealth 8+ to avoid losing SOC –1.
+
+10
+
+You are considered for promotion in the officer caste. You may add the number of terms served in this career as
+a DM if you attempt to qualify for the Space Officer career next term and may apply even if you have not served
+the minimum number of terms in this career.
+
+11
+
+The captain sees you as a promising crewman, and entrusts you with an important ceremonial duty. Either gain
+a level in Steward or DM+4 to any advancement roll thanks to his aid.
+
+12
+
+Your efforts strike a great blow for your clan. You are automatically promoted.
+
+

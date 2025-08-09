@@ -1,0 +1,98 @@
+GAUSS PERSONAL
+DEFENCE WEAPON
+
+A03/48956
+
+The Confederation Army, and units equipped to Home Guard
+levels, use gauss weapons as the standard small arm. Sidearms
+for combat personnel are gauss pistols, although large stocks
+of conventional semi-automatic pistols are retained for
+security and low-threat situations. The 4mm gauss rifle used
+by Confederation forces is also near-identical to the Imperial
+model. However, the Confederation makes use of gauss
+weapons not seen in Imperial hands.
+The gauss personal defence weapon, or GPDW, is essentially
+a scaled-up gauss pistol with a higher rate of fire. Its barrel
+is a little longer, making room for a vertical foregrip, and a
+detachable wire stock is provided. The weapon uses a standard
+40-round magazine but can take an extended 60-round
+version. GPDWs are often issued to pilots and vehicle crews
+instead of a sidearm.
+
+Weapon
+
+TL
+
+Range
+
+GPDW
+
+12
+
+40
+
+Damage
+
+Kg
+
+Cost
+
+3D
+
+1.4
+
+Cr1250
+
+Magazine Magazine Cost
+Cr20 or 30
+
+Traits
+AP3, Auto 3
+
+Traits
+AP3, Auto 4
+
+40 or 60
+
+GAUSS CLOSECOMBAT WEAPON
+
+A03/75674
+
+The GCCW is a full-size gauss submachinegun. It has a
+folding stock and a bayonet lug, although one is rarely fitted.
+A 60-round magazine is standard but a 120-round drum may
+be used. This slows the weapon’s reaction time a little but
+provides impressive firepower.
+
+Weapon
+
+TL
+
+Range
+
+Damage
+
+Kg
+
+Cost
+
+Magazine Magazine Cost
+
+GCCW
+
+12
+
+100
+
+3D+2
+
+2 or 3.2
+(with drum)
+
+Cr2250
+
+60 or 120 Cr30 or 60
+
+119
+
+

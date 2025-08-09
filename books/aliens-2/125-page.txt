@@ -1,0 +1,129 @@
+Party Patronage and Advancement
+
+The pervasive influence of the Solomani Party at all
+levels of Confederation society means that individuals
+favoured by the Party, as indicated by high SOC, will
+receive assistance in their careers and those who are
+disfavoured will be penalised.
+These rules apply to all careers in the Solomani
+Confederation except and Rogue and Drifter.
+Qualification: Party connections are vital for finding good
+jobs. Travellers apply their SOC modifier to qualification
+rolls in addition to the usual DM.
+Automatic Commission or Advancement through Patronage:
+Travellers with SOC 10+ may advance through patronage
+rather than merit. If a commission or advancement roll
+fails but the Traveller has high enough SOC they gain
+the position via patronage. The Traveller receives the
+desired commission or promotion but does not get the
+extra roll on the Skills and Training tables that success
+normally brings.
+There are two exceptions to this; if a natural 2 was rolled
+or if the Traveller would be forced out of the career due
+to a roll lower than the number of terms served that
+means no commission or advancement is gained.
+There are limits to how far a Traveller can rise through
+patronage. The Party Patronage table shows the SOC
+required to gain automatic advancement.
+
+Party Patronage
+SOC
+10
+
+If Advancement Roll Fails
+Automatic promotion if
+presently Rank 0
+
+If Commission
+Roll Fails
+Automatic
+commission
+
+11
+
+Automatic promotion if
+presently Rank 0–1
+
+Automatic
+commission
+
+12
+
+Automatic promotion if
+presently Rank 0–2
+
+Automatic
+commission
+
+13+
+
+Automatic promotion if
+presently Rank 0–3
+
+Automatic
+commission
+
+HUMAN RACIAL
+
+BACKGROUND
+
+Racial Solomani dominate the Solomani Confederation
+but other human races also live there. In the Solomani
+Confederation ‘race’ does not refer to a terrestrial
+race such as Caucasian but instead to a subspecies of
+Humaniti, such as Solomani or Vilani.
+
+Race can be identified by family history, genealogy and
+physical appearance on worlds up to TL5, by blood
+tests at TL6 and by more precise genetic testing on TL7
+worlds. It is recorded in identification papers such as
+birth certificates and passports.
+After determining the six Characteristics, roll on the
+Human Racial Background table, adding the Traveller’s
+SOC modifier to the roll.
+
+Human Racial Background
+2D
+2 or less
+3–4
+5 or more
+
+Racial Background
+Non-Solomani Human
+Mixed Race Human
+Racial Solomani
+
+Non-Solomani Human: The Traveller is descended from
+a non-Terran branch of Humaniti; most likely the
+Vilani. They are unlikely to be a member of a race
+that originated far from the Solomani Confederation,
+such as the Zhodani. Their features could appear
+slightly exotic, making them a visible minority on
+Solomani worlds.
+Non-Solomani humans may suffer racial
+discrimination. Unless ‘passing’, as detailed on page
+126, the Traveller cannot enter the Solomani Party
+career and suffers DM-2 when attempting to enter the
+SolSec, Navy or Marine careers. The Traveller suffers
+DM-2 on advancement rolls in any careers except
+Drifter, Rogue or the worker assignment of Citizen.
+They have DM+1 to qualify for Rogue careers.
+Mixed Race: The Traveller shares racial Solomani and
+non-Solomani ancestry. They might be part of the
+generic mixed race of Humaniti that predominates
+in the Imperium and is still common on those old
+Solomani Confederation worlds settled in the Rule of
+Man or Vilani Empire. The Traveller might instead be a
+child or grandchild from a relationship between a racial
+Solomani and a non-Solomani or mixed race humans.
+Mixed Race humans are subject to racial prejudice
+in some areas but moderate Solomani Party factions
+accept them. A mixed race human has DM-3 to
+qualify for a Solomani Party career and suffers DM-1
+to advancement within every career except Drifter,
+Rogue or the worker assignment of Citizen. The
+Traveller has DM+1 to qualify for any Rogue career.
+
+125
+
+

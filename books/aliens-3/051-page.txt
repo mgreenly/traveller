@@ -1,0 +1,194 @@
+T
+
+7
+
+R
+
+Navy
+
+Qualification: EDU 6+
+DM-1 for every previous career
+Commission: INT 8+
+
+Darrian Travellers
+
+Mishaps
+
+Skills and training
+
+Choose one of the following:
+Bridge: You are part of the bridge crew who control the ship and
+coordinate its different functions during battle.
+Engineering: You are the mechanics, engineers and repair crews
+who ensure the ship remains functional both in and out of battle.
+Marine: You are part of the ship’s troops who repel borders or are
+sent to pacify resistance on crippled enemy vessels.
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+INT +1
+EDU +1
+Jack-of-all-Trades
+
+SERVICE SKILLS
+Gun Combat
+Gunner
+Melee
+Pilot (small craft)
+Vacc Suit
+Athletics (dexterity)
+
+1D
+1
+2
+3
+4
+5
+6
+
+BRIDGE
+Astrogation
+Electronics (comms)
+Gunner
+Pilot
+Electronics (remote ops)
+Electronics (sensors)
+
+ENGINEERING
+Electronics (computers)
+Engineer
+Engineer
+Mechanic
+Electronics (remote ops)
+Vacc Suit
+
+2
+3
+
+4
+5
+6
+
+52
+
+L
+
+SURVIVAL
+Bridge
+EDU 5+
+Engineering INT 6+
+Marine
+DEX 7+
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr1000
+Cr5000
+Cr5000
+Cr10000
+Cr20000
+Cr50000
+Cr100000
+
+ADVANCED EDUCATION
+(MIN. EDU 8)
+Electronics
+Astrogation
+Engineer
+Drive
+Navigation
+Admin
+
+1D
+1
+2
+3
+4
+5
+6
+
+1
+
+E
+
+L
+
+E
+
+ADVANCEMENT
+INT 7+
+EDU 6+
+EDU 5+
+
+Mustering out benefits
+
+ASSIGNMENTS
+
+1D
+
+V
+
+Career progress
+
+The navy patrols space, defending planets and borders from enemy
+fleets, pirates and smugglers.
+
+7
+
+A
+
+BENEFITS
+Contact
+INT +1
+EDU +1
+Weapon
+Armour
+Vehicle
+Five Ship Shares
+
+OFFICER
+(COMMISSIONED ONLY)
+Admin
+Electronics (computers)
+Leadership
+Science
+Tactics (naval)
+Tactics (naval)
+
+MARINE
+Vacc Suit
+Explosives
+Gun Combat
+Heavy weapon (man portable)
+Recon
+Tactics (military)
+
+MISHAP
+Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on
+the Injury Table and take the lower result.
+A failing on your part causes a catastrophic loss in your team. You lose SOC -1. In addition, the
+only other survivor becomes your enemy.
+During a battle, defeat or victory depends on your actions. You must make an 8+ roll using a skill that
+depends on your branch – Electronics (sensors) or Gunner if you are bridge crew, Mechanic or Vacc
+Suit if you are engineering crew or Gun Combat if you are a marine. If you fail, the ship suffers severe
+damage and you are blamed for the disaster. You are court-martialled and discharged. If you succeed,
+your efforts ensure that you are honourably discharged but keep your Benefit roll from this term.
+You are tormented by or quarrel with an officer or fellow crewman. Gain that character as a Rival
+as they force you out of the navy.
+You are placed in frozen watch and revived improperly. Lose one of STR -1, DEX -1 or END -1
+due to muscle wastage.
+Injured. Roll on the Injury table.
+
+R
+
+

@@ -1,0 +1,34 @@
+14
+10
+
+14
+
+9
+6
+
+4
+11
+
+15
+12
+
+To D e c k 1
+
+13
+
+11
+
+DECK 2
+To D e c k 1
+LEGEND
+9. Bridge
+10. Sensors
+11. Staterooms
+12. Power plant
+13. M-drive
+1 4 . Tr i p l e t u r r e t s
+15. Airlocks
+
+115
+
+

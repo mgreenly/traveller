@@ -1,0 +1,98 @@
+A03/48956
+
+OFFICER’S REVOLVER,
+CONFEDERATION NAVY
+
+The Confederation Navy does not expect its officers to get involved in
+gunfights. Sidearms are a badge of rank and perhaps the last chance
+at self-defence in a desperate situation. The standard-issue officer’s
+handgun is a beautifully decorated 8mm revolver holding six rounds. Its
+slim lines emphasise its long barrel and overall elegance. These guns
+are not very effective in combat but are manufactured to extremely high
+standards and are very ‘pointable’. Typically made for a specific officer,
+a navy revolver gives DM+1 on aimed fire but only when used by the
+person it was made for.
+Navy revolvers are grossly overpriced but well-off officers often choose to
+have an even better one handmade. Prices in the tens of thousands of
+Credits are commonplace. These weapons are worn for show and may not
+even be loaded under safe conditions. An officer expecting to be in a fight
+would normally arm himself with a ‘proper’ gun from the armoury, or –
+better – a squad of naval infantry.
+
+Weapon
+
+TL
+
+Range
+
+Officer’s Revolver
+
+12
+
+25
+
+A03/75674
+
+Damage
+
+Kg
+
+Cost
+
+3D-2
+
+1.2
+
+Cr1600
+
+Magazine Magazine Cost
+6
+Cr10
+
+Traits
+—
+
+OFFICER’S SWORD, CONFEDERATION ARMED
+FORCES
+
+Naval officers are issued a dress sword and will often commission one of their own as they rise in rank. Swords are
+modelled on the traditional smallsword or spadroon, and may or may not have a cutting edge. The point is always
+lethally sharp, however. The army favours an infantry sabre as its dress weapon; a shorter and lighter version of the
+traditional cavalry sabre. However, senior officers typically wear straight dress swords of the smallsword type. SolSec
+officials do not normally wear swords, but may carry a weapon similar to the naval officer’s sword for formal occasions
+that require it
+
+Weapon
+Officers’ Sword
+Officer’s Sword
+
+TL
+12
+12
+
+Range
+Melee
+Melee
+
+Damage
+2D+2
+3D-2
+
+Kg Cost
+0.8 Cr750
+1
+Cr500
+
+Magazine Magazine Cost
+—
+—
+—
+—
+
+Traits
+—
+—
+
+117
+
+

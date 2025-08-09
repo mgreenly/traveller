@@ -1,0 +1,129 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+S
+
+E
+
+V
+
+E
+
+N
+
+K’KREE TRAVELLERS
+
+K’kree Traveller creation follows the same format as all
+other races, although with a few unique considerations
+imposed by their herd-creature nature. The process
+of creating a K’kree Traveller generates not just an
+individual (the leader of the group) but his whole family
+and associated servants. The caste of these K’kree
+is considered to be that of the patriarch but they are
+nothing without him.
+If the patriarch were to die or be killed, his family is
+immediately taken under the protection of another. If
+an heir exists, he is summoned or formally installed
+if already present. The heir might be a son or younger
+brother, or possibly a friend of the same social caste. If
+no heir is available to take over the family its members
+either join another patriarch’s family as a group or are
+separated to join several. This is a traumatic experience
+for all concerned and usually results in a dysfunctional
+family for a time until the patriarch can get his house in
+order. This is one way a K’kree Traveller can end up with
+more family members than he can support or control.
+
+INITIAL TRAVELLER
+
+GENERATION
+
+The following applies to all K’kree Travellers.
+
+Patriarchy
+
+K’kree have a unique skill called Patriarchy that
+replaces both Diplomacy and Leadership when dealing
+with other K’kree. This is in part an understanding
+of how to control a small herd of relatives and in
+part the ability to play the role of patriarch. Leading
+rituals correctly, using the right form of address for
+other patriarchs with a subtly different social position,
+delivering the traditional condescending epithets
+towards ambassadors from lesser species… Patriarchy
+is the skill of being the head of a K’kree household
+and doing it right. It also allows control over a suitably
+sized household.
+
+Patriarchy
+Skill Level
+0
+1
+2
+3
+4
+Every +1
+
+Max. Family Size
+D3+3
++D3
++D3
++D3
++D3
++D3
+
+Average Max.
+Family Size
+5
+7
+9
+11
+13
++2
+
+A K’kree can fully control and command a number of
+family members and hangers-on determined by his
+level in Patriarchy. This increases when Patriarchy does
+but some patriarchs are just better at running their
+household than others. The Patriarchy table indicates
+the maximum family size that can be controlled. For
+every additional family member the patriarch suffers
+DM-1 to all Patriarchy checks.
+Patriarchy checks are normally made in routinediplomacy situations, such as when other K’kree are
+encountered. Success indicates the patriarch has
+performed the correct rituals and established the right
+social positioning, allowing interaction to proceed
+normally. The Effect of a failed check is applied to all
+attempts to interact with the K’kree he has just failed
+to impress. This will result in condescension at least; at
+worst it can lead to serious offence. The Patriarchy skill
+can also be used to get a family organised for a task,
+movement or ceremony, or any other situation where the
+family head is exercising his routine authority.
+Leadership and Diplomacy skills still exist for K’kree,
+but are used only when dealing with non-K’kree.
+
+Social Standing
+
+K’kree determine SOC the same way as other species,
+and it in turn indicates caste. Certain levels of SOC
+align with ranks such as clanlord or Steppelord but do
+not mean the K’kree personally holds this rank. SOC
+indicates the K’kree is of this social level, either as a
+relative of someone who does hold the rank or in service
+to them.
+
+

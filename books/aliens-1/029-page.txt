@@ -1,0 +1,136 @@
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+WARRIOR/FLYER/CAVALRY
+Recruit
+Soldier
+Veteran Soldier
+Warrior
+Veteran Warrior
+Leader of Warriors
+Honoured Warrior Leader
+
+SKILL OR BENEFIT
+—
+Melee (natural) 1
+—
+END +
+—
+—
+3 Clan Shares
+
+SUPPORT
+Recruit-Technician
+Soldier-Technician
+Blooded Soldier-Technician
+Warsister
+Veteran Warsister
+Master Technician
+Honoured Master Technician
+
+SKILL OR BENEFIT
+—
+Mechanic 1
+—
+EDU +1
+—
+—
+2 Clan Shares
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured. Roll twice on the Injury table and take the lower result.
+
+2
+
+A superior officer has you drummed out of the service. Gain a Rival.
+
+3
+
+You are lost behind enemy lines. Gain Stealth, Survival, Streetwise or Gun Combat.
+
+4
+
+You are captured and ransomed back to your clan. Lose SOC –1.
+
+5
+
+You risk severe injury in a dangerous skirmish. If you fight bravely, roll Gun Combat or Athletics 8+. If you fail,
+you are injured and must leave this career. If you succeed, you may remain in this career. If you refuse to fight
+bravely, you must leave this career.
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+Your unit is sent into the maw of hell. Roll Recon or Gun Combat 8+ to avoid rolling on the Injury table and
+gain one of Stealth 1, Medic 1, Heavy Weapons 1 or Leadership 1 as you fight to survive.
+
+4
+
+You are assigned to garrison duty on a clan outpost. Gain a Contact there or one of the following skills:
+Streetwise, Electronics (comms) or Mechanic.
+
+5
+
+You are involved in a border skirmish with another clan. Gain one of Melee (natural), Gun Combat, Drive or
+Survival, then roll that skill. If you get an 8+, your clan is victorious – gain DM+2 to your next ad-vancement roll.
+
+6
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain any skill.
+
+7
+
+Life Event. Roll on the Aslan Life Events table.
+
+8
+
+You fight against an alien race. Gain one of Gun Combat, Language, Melee, Recon or Suvival.
+
+9
+
+An officer insults your courage. You may either duel him or try to prove him wrong. If you duel him, roll Melee
+(natural) 8+. If you succeed, gain SOC +1. If you fail, lose SOC –1. If you instead try to prove him wrong, roll 1D.
+On a 1-3, you are wounded because of your bravado – roll on the Injury table. On a 4+, you perform heroically
+under fire. Gain that officer as a Rival and gain DM+4 to your next advancement roll and gain SOC +1.
+
+10
+
+You are considered for promotion in the officer caste. You may add the number of terms served in this career
+as a DM if you attempt to qualify for the Military Officer career next term and may apply even if you have not
+served the minimum number of terms in this career.
+
+11
+
+You serve under a hero of the clan. Either gain Tactics (military), or DM+4 to any advancement roll thanks to
+his aid.
+
+12
+
+Your efforts strike a great blow for your clan. You are automatically promoted.
+
+

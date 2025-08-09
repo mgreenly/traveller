@@ -1,0 +1,106 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+PROJECTILE WEAPONS
+
+VRF Gauss Rifle: A light support weapon designed for
+an antipersonnel role, VRF gauss rifles are normally
+mounted on vehicles or equipped as the primary
+armament of Darrian battle dress troops. The rifle is
+designed to conserve its 8-millimetre ammunition,
+preventing the release of more than 30 needles when
+used in auto-fire mode.
+
+Weapon
+
+TL Range
+
+VRF Gauss Rifle
+
+14
+
+600
+
+Damage Kg
+
+Cost
+
+Magazine
+
+Magazine Cost Traits
+
+5D
+
+Cr60000
+
+1,000
+
+Cr2000
+
+7
+
+AP 5, Auto 10, Bulky
+
+ENERGY RIFLES
+
+CSC: Darrian
+
+Neural Rifle: A weapon that incapacitates enemies by
+duplicating the Telepathic Assault talent (see page 199
+of the Traveller Core Rulebook). Armour is no defence
+and only artificial psionic shields or the Telepathic
+Shield talent blocks its effect. The weapon projects no
+visible beam or sound, making it near impossible to
+detect the attack. Only a few dozen of these rifles exist,
+issued to Special Arm elite forces on a mission-bymission basis.
+
+70
+
+Weapon
+
+TL
+
+Range Damage
+
+Neural Rifle
+
+17
+
+200
+
+Kg
+
+Telepathic Assault 1.5
+
+Cost
+
+Magazine
+
+Magazine Cost
+
+Traits
+
+Not Available
+
+25
+
+Not Available
+
+—
+
+R
+
+

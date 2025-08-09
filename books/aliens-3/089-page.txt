@@ -1,0 +1,211 @@
+LDIL PASSENGER LINER
+The modestly sized Ldil is the backbone of long haul
+passenger transport throughout the Confederation.
+Like most small Darrian vessels, the Ldil is designed
+to be capable of landing on a planetary surface if
+
+required. The vessels cater solely to passenger
+cruising, lacking any significant capacity to trade
+merchandise on the side.
+
+TL13
+
+TONS COST (MCr)
+
+Hull
+
+600 tons, Streamlined
+
+—
+
+30
+
+Armour
+
+Crystaliron, Armour: 2
+
+18
+
+3.6
+
+M-Drive
+
+Thrust 2
+
+12
+
+24
+
+J-Drive
+
+Jump 3
+
+50
+
+75
+
+Power Plant
+
+Fusion (TL12), Power 450
+
+30
+
+30
+
+Fuel Tanks
+
+Jump 3, 8 weeks operation
+
+186
+
+—
+
+20
+
+3
+
+Bridge
+
+Crew
+Pilot, Astrogator,
+Engineers x2, Medic,
+Stewards x2
+
+Hull: 240
+Running Costs
+MAINTENANCE COST
+
+Computer
+
+Computer/10bis/fib
+
+—
+
+0.32
+
+Sensors
+
+Basic
+
+—
+
+—
+
+Armoured
+Bulkheads
+
+Bridge
+
+2
+
+0.4
+
+Systems
+
+Fuel Processor (40 tons/day)
+
+2
+
+0.1
+
+Fuel Scoops
+
+—
+
+—
+
+Power Requirements
+
+Library
+
+20
+
+20
+
+Basic Ship Systems
+
+Medical Bay
+
+4
+
+2
+
+120
+
+Standard x45
+
+180
+
+22.5
+
+Manoeuvre Drive
+
+Low Berths x20
+
+10
+
+1
+
+120
+
+45
+
+4.5
+
+Jump Drive
+
+15
+
+1.51
+
+180
+
+Staterooms
+Common Areas
+
+Advanced Entertainment system
+Software
+
+Cargo
+
+Cr16817.25/month
+PURCHASE COST
+MCr201.807
+
+Intellect
+
+—
+
+1
+
+Fuel Processor
+
+Library
+
+—
+
+—
+
+2
+
+Jump Control/3
+
+—
+
+0.3
+
+Manoeuvre/0
+
+—
+
+—
+
+6
+
+—
+
+Ldil Passenger Liner
+
+90
+
+

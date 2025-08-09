@@ -1,0 +1,164 @@
+KTIYHUI-CLASS COURIER
+TL13
+
+TONS COST (MCR)
+
+Hull
+
+200 tons, Streamlined,
+Reinforced
+Armour
+Crystaliron, Armour 12
+M-Drive
+Thrust 4
+J-Drive
+Jump 3
+Power Plant Fusion (TL12), Power 135
+Fuel Tanks J-3, 4 weeks of operation
+Bridge
+Computer
+Computer/10 bis
+Sensors
+Improved
+Weapons
+Double Turret (pulse laser/
+missile rack)
+Double Turret (sandcaster/
+missile rack)
+Ammunition Missiles x 12
+Sandcaster Barrels x 20
+Systems
+Fuel Processor (40 tons/day)
+Fuel Scoops
+Shrine
+Staterooms Standard x 6
+Luxury
+Software
+Jump Control/3
+Library
+
+—
+
+18
+
+30
+8
+20
+9
+61
+10
+—
+3
+1
+
+10.8
+16
+30
+9
+—
+1
+0.18
+4.3
+2.25
+
+1
+
+1.5
+
+1
+1
+2
+—
+4
+24
+10
+—
+—
+
+0.25
+0.025
+0.1
+—
+0.5
+3
+1.5
+0.3
+—
+
+Manoeuvre/0
+
+—
+
+Fire Control/2
+Common
+Areas
+Cargo
+
+CREW
+ASTROGATOR, ENGINEER,
+GUNNERS X 2
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr8659/month
+
+PURCHASE COST
+MCr103.905
+
+Power Requirements
+80
+
+40
+
+2
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSOR
+
+—
+
+60
+
+4
+
+6
+
+—
+
+4
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+12
+
+1.2
+
+3
+
+—
+
+TOTAL: MCR 103.905
+Using a heavily armoured 200-ton hull,
+the Ktiyhui-class courier is a fast, longrange ship used to conduct clan business
+across interstellar distances. As the
+courier is often used to carry important
+dignitaries and nobles, it dedicates space
+to various luxuries, usually either a harem
+or holographic hunting ground.
+
+88
+80
+
+HULL POINTS
+
+

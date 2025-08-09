@@ -1,0 +1,120 @@
+RANKS AND BONUSES CONT...
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+DIPLOMAT
+Assistant
+Second Secretary
+First Secretary
+Counsellor
+Consul
+Ambassador
+High Consul
+
+SKILL OR BENEFIT
+—
+Admin 1
+—
+Advocate 1
+—
+Diplomat 1
+SOC +1
+
+Proles and Intendants may not be promoted above Rank 3.
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+An error of judgement leads to a severe diplomatic incident. You are discharged from this career in disgrace.
+Forfeit all but one Benefit roll.
+
+2
+
+Diplomatic efforts to secure a peace settlement or trade deal backfire. Forego all Advancement this term but
+remain in the career.
+
+3
+
+Your posting loses its diplomatic status following the deterioration of relations between governments. Gain a
+Rival and leave this career.
+
+4
+
+Someone attempts to murder you. Roll one of PSI 8+, Melee 8+ or Recon 8+ to avoid the attempt. If failed, roll
+on the Injury table. If successful, you may continue in this career.
+
+5
+
+A foreign ambassador insults you. Roll Diplomat 8+ to avoid a diplomatic incident. If failed, roll on the Reeducation Events table (page 274) and leave this career. If successful, gain an extra Benefit roll.
+
+6
+
+Terrorists attack your embassy. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career.
+
+3
+
+Your time in government service gives you a wide range of experiences. Gain one level in Animals (riding), Art
+or Carouse.
+
+4
+
+You are seconded to act as a special advisor to another career for the remainder of the term. Roll on any other
+Zhodani career Service Skills table for one skill and gain one cash Benefit roll from that career.
+
+5
+
+You inherit a gift from a grateful patron. Gain DM+1 to any one Benefit roll.
+
+6
+
+You become deeply involved in politics on your world of residence, becoming a player in the political intrigues
+of government. Gain one level in Admin, Advocate, Diplomacy or Persuade but also gain a Rival.
+
+7
+
+Life Event. Roll on the Zhodani Life Events table (page 274).
+
+8
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain one level in any skill already possessed.
+
+9
+
+A group of conspiring Nobles attempts to recruit you. If refused, gain the conspiracy as an Enemy. If accepted,
+roll Diplomat or Persuade 8+. If failed, roll on the Mishaps table as the conspiracy collapses. If successful,
+gain one level of Carouse, Persuade or Tactics.
+
+10
+
+You are recognised as building bridges between councils and other groups in Zhodani society. Gain one level of
+Advocate, Diplomat or Leadership.
+
+11
+
+You make an alliance with a powerful and charismatic Noble, who becomes an Ally. Either gain one level of
+Leadership or take DM+2 to your next Advancement roll thanks to his aid.
+
+12
+
+You excel in your role. Your next Advancement roll is automatically successful.
+
+

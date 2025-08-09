@@ -1,0 +1,120 @@
+RANKS AND BONUSES CONT...
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+OFFICER
+Waiting Officer
+Officer of 20
+Officer of 50
+Officer of 100
+Officer of 500
+Officer of 1,000
+Officer of 5,000
+
+SKILL OR BENEFIT
+Gun Combat 1
+Leadership 1
+—
+Tactics (military) 1
+—
+—
+SOC +1
+
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Severely injured in action. Roll twice on the Injury table and take the lower result.
+
+2
+
+You are involved in a disastrous campaign and barely escape off planet in a frantic and badly organised
+evacuation. This leaves you a long way from friendly lines and you makes D3 Contacts as you return home. Roll
+on the Re-education Event table (page 274).
+
+3
+
+You are sent to battle against insurgents and discharged because of stress or injury. Gain one level of Recon or
+Survival. If SOC 10+, gain an Enemy as the government buries the whole incident. If Soc 9-, roll on the Reeducation Events table (page 274).
+
+4
+
+You discover that your commanding officer is engaged in some form of illegal activity. You can join him and gain
+Ally before the inevitable investigation results in discharge; roll on the Re-education Event table (page 271).
+Alternatively, you can cooperate with the Thought Police – you must leave the career but keep your Benefit roll
+from this term of service.
+
+5
+
+You have problems working with an officer or fellow soldier. If SOC 10+, gain that officer as a Rival as he drives
+you out of the Army. If SOC 9-, roll on the Re-education Event table (page 274).
+
+6
+
+Injured. Roll on the Injury table.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishaps table but you are not ejected from this career, even from a Re-education Event.
+
+3
+
+You are assigned to an urbanised world torn by war. Gain one level of Stealth, Persuade or Recon.
+
+4
+
+You are assigned to a world with a hostile or wild environment. Gain one level of Vacc Suit, Engineer, Animals
+(riding or training) or Recon.
+
+5
+
+You are sent to Commando training. Gain one level of Vacc Suit, Heavy Weapons or Athletics (dexterity). If
+you have Soc 10+, you may leave this career (mustering out as normal) and then automatically qualify for the
+Guard career (with the same rank) next term.
+
+6
+
+You are thrown into a brutal ground war. Roll Gun Combat or Stealth 8+ to avoid injury; if successful, gain one
+level of Gun Combat, Leadership, or Tactics (military).
+
+7
+
+Life Event. Roll on the Zhodani Life Events table (page 274).
+
+8
+
+You are given advanced training in a specialist field. Roll EDU 8+ to gain one level in any skill already possessed.
+
+9
+
+Surrounded and outnumbered by the enemy, you hold out until relief arrives. Gain DM+2 to the next
+Advancement roll.
+
+10
+
+You are assigned to a peacekeeping role. Gain one level of Admin, Investigate or Recon.
+
+11
+
+Your commanding officer takes an interest in your career. Gain him as an Ally and gain DM+2 to your next
+Advancement roll thanks to his aid.
+
+12
+
+You display heroism in battle. Your next Advancement roll is automatically successful.
+
+

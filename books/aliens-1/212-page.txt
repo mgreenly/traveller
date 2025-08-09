@@ -1,0 +1,84 @@
+VARGR VACC SUIT
+
+A11/58231
+
+Vargr vacc suits are much like their human counterparts but
+specifically tailored to the physiological needs of the Vargr.
+This vacc suit provides basic life support functions for up to
+six hours. TL12 and TL14 versions are also available that are
+lighter and less cumbersome.
+
+Armour Type
+Protection TL
+Vargr Vacc Suit +5
+8
++7
+12
++9
+14
+
+Rad
+20
+100
+175
+
+Kg
+22
+14
+5
+
+Cost
+Cr14000
+Cr12000
+Cr30000
+
+Required Skill
+Vacc Suit 1
+Vacc Suit 0
+Vacc Suit 0
+
+VARGR COMBAT VACC SUIT
+
+A11/58231
+
+The threat of attack from corsairs is almost as high as the
+dangers of vacuum and hostile environments, making this
+combat variant vacc suit a popular choice for many Vargr.
+Combat suits are standard issue for all divisions of the navy,
+having the same properties as normal vacc suits but offering
+greater protection in combat.
+
+212
+
+Armour Type
+Protection TL
+Vargr Combat +12
+10
+
+Rad
+80
+
+Kg
+25
+
+Cost
+Cr22000
+
+Required Skill
+Vacc Suit 1
+
+Vacc Suit
+
+150
+
+16
+
+Cr28000
+
+Vacc Suit 1
+
++14
+
+14
+
+

@@ -1,0 +1,132 @@
+11
+
+WANDERER
+
+Young second sons (ihatei) and other landless
+Aslan may be assigned small starships by
+their clan, to seek out new worlds and new
+opportunities. Such wanderers often end up
+as mercenaries but also serve much the same
+function as scouts do in the Imperium.
+
+CAREER PROGRESS
+BELTER
+END 6+
+INT 8+
+
+Survival
+Advancement
+
+NOMAD
+DEX 7+
+INT 7+
+
+Qualification: : Rite of Passage 8+
+
+MUSTERING OUT BENEFITS
+
+ASSIGNMENTS
+Choose one of the following.
+Belter: You mine asteroids for valuable
+minerals and salvage.
+Nomad: You wander from system to system.
+Scout: You explore unknown worlds and survey
+planets for colonisation.
+Gender: Male only.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+•
+
+CASH
+Cr0
+Cr0
+Cr0
+Cr2000
+Cr5000
+Cr10000
+Cr20000
+
+BENEFITS
+1 Clan Share
+INT +1
+EDU +2
+Independence
+Tolerance
+Scout Ship
+TER +2
+
+DM+1 if SOC 9+
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+Independence
+STR +1
+DEX +1
+END +1
+Tolerance
+Jack-of-All-Trades
+SPECIALIST: BELTER
+Mechanic
+Electronics
+Science
+Profession
+Broker
+Pilot
+
+SERVICE SKILLS
+Independence
+Pilot
+Gunner
+Engineer
+Gun Combat
+Mechanic
+SPECIALIST: NOMAD
+Astrogation
+Pilot
+Engineer
+Gun Combat
+Electronics
+Mechanic
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Astrogation
+Engineer
+Electronics
+Advocate
+Science
+Medic
+SPECIALIST: SCOUT
+Astrogation
+Science
+Survival
+Electronics
+Pilot
+Recon
+
+SCOUT
+END 8+
+INT 6+
+
+

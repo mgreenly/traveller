@@ -1,0 +1,182 @@
+T
+
+The Branak is a terrifying vehicle, able to weather
+enormous damage while delivering a devastating
+barrage of fire. The linked heavy gravitic cannons are its
+main armament, backed up by a pair of plasma missile
+racks. The tank also bears four light autocannons for
+anti-infantry engagement. The tank has a crew of nine –
+commanding officer, pilot and seven gunners.
+15
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
++4
+
+SPEED (CRUISE)
+
+Fast (High)
+
+A
+
+Traits
+Equipment
+
+RANGE (CRUISE) 100 years
+CREW
+
+9
+
+PASSENGERS
+
+—
+
+CARGO
+
+1.25 tons
+
+HULL
+
+340
+
+SHIPPING
+
+85 tons
+
+COST
+
+MCr71.688
+
+Weapons
+
+Vehicles of the Geonee
+
+E
+
+L
+
+L
+
++3
+1,000km
++4
++2
+—
+—
+
+AFV
+Anti-Missile System (advanced laser),
+Autopilot (advanced), Communication
+System (advanced, encrypted, meson
+communication, satellite uplink), Control
+System (advanced), Fire Extinguishers,
+Fusion Plant (advanced), Hostile
+Environment, Life Support (short
+term), Navigation System (advanced),
+Sensors (advanced, hardened)
+Large Turret (heavy gravitic cannon x2),
+Bays (plasma missile rack) x2,
+Small Turrets (light autocannon,
+advanced fire control) x4
+
+REAR
+
+140
+
+SIDES
+
+WEAPON
+
+RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS
+
+Linked Heavy
+Gravitic Cannons
+
+10
+
+4DD+4
+
+80
+
+Cr6000
+
+AP 20
+
++4
+
+Plasma Rack
+
+50
+
+1DD
+
+12
+
+Cr400000
+
+AP 20, Auto 3,
+Blast 15, One
+Use, Smart
+
++4
+
+Light Autocannon 1
+
+6D
+
+500
+
+Cr1000
+
+Auto 3
+
++4
+
+Advanced Laser
+
+2D
+
+—
+
+—
+
+Auto 4
+
+—
+
+1
+
+E
+
+ARMOUR
+FRONT 190
+
+138
+
+V
+
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+BRANAK SUPERHEAVY TANK
+
+TL
+
+R
+
+120
+
+FIRE CONTROL
+
+R
+
+

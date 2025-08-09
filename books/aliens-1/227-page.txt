@@ -1,0 +1,25 @@
+6
+2
+3
+1
+
+7
+8
+4
+
+5
+
+DECK 1
+
+1. Bridge
+2. Sensors
+3. Fuel processor
+4. M-drive
+5. J-Drive
+6. Double turret
+7. Docking space
+8. Probe drones
+
+227
+
+

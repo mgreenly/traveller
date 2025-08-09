@@ -1,0 +1,176 @@
+7
+
+NAVY
+CAREER PROGRESS
+
+Members of the Zhodani Consulate Navy,
+responsible for the protection of the frontiers and
+interstellar trade routes from foreign powers
+Qualification: INT 6+
+If age 34 or more, DM -2
+Commission: Automatic (except draftees) if SOC
+10+
+
+SURVIVAL
+INT 5+
+DEX 7+
+INT 6+
+
+Crew
+Flight
+Technical
+
+ASSIGNMENTS
+
+ADVANCEMENT
+EDU 7+
+EDU 5+
+EDU 6+
+
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Crew: You serve as a general crewman or officer
+on a warship.
+Flight: You serve as the pilot of a fighter or
+shuttle.
+Technical: You serve as a specialist technician,
+such as an engineer or gunner.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+1000
+5000
+5000
+10000
+20000
+50000
+50000
+
+BENEFITS
+Weapon
+Ship Share
+Two Ship Shares
+EDU +1
+INT +1
+Nenj
+SOC +1
+
+SKILLS AND TRAINING
+1D
+
+PERSONAL DEVELOPMENT
+
+SERVICE SKILLS
+
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+STR +1
+DEX +1
+END +1
+INT +1
+Athletics
+Carouse
+SPECIALIST: CREW
+Electronics
+Gun Combat
+Mechanic
+Admin
+Steward
+Vacc Suit
+
+Electronics
+Gun Combat
+Gunner
+Pilot
+Vacc Suit
+Athletics
+SPECIALIST: FLIGHT
+Astrogation
+Flyer
+Gunner
+Pilot
+Recon
+Athletics
+
+ADVANCED EDUCATION
+(MIN. EDU 8)
+Admin
+Astrogation
+Electronics
+Engineer
+Talent
+Science
+SPECIALIST: TECHNICAL
+Electronics
+Engineer
+Gunner
+Mechanic
+Medic
+Vacc Suit
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+NCO
+Recruit
+Trainee
+Spacer
+Section Leader
+Compartment Leader
+Deck Leader
+Crew Leader
+
+SKILL OR BENEFIT
+—
+Mechanic 1
+Vacc Suit 1
+—
+END +1
+—
+—
+
+OFFICER SKILLS
+(COMMISSIONED ONLY)
+Admin
+Diplomat
+Leadership
+Melee (blade)
+Pilot
+Tactics (naval)
+PSIONIC SKILLS (MIN. SOC 10)
+PSI +1
+Awareness
+Persuade
+Science (psychology)
+Talent
+Telepathy
+
+

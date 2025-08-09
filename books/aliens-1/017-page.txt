@@ -1,0 +1,148 @@
+Ancestral Deeds
+1D
+1
+
+2
+
+3
+
+4
+
+5
+6
+7
+
+Ancestral Deeds
+Your ancestor shamed the clan and you come
+from a branch long dishonoured. +0 Ancestral
+Territory
+Your family’s glory days are long gone, all that
+is left is the tales of great landholdings now
+lost to upstarts. +0 Ancestral Territory
+Your family made its fortune in the great
+expansion after the discovery of jump drive;
+most family holdings are on distant worlds. +1
+Ancestral Territory
+Your family are the descendants of an ancient
+hero forgotten by most Aslan. +1 Ancestral
+Territory
+Your family’s ancestor was a trickster who
+deceived his enemies. +2 Ancestral Territory
+Your ancestors were conquerors and great
+warriors. +2 Ancestral Territory
+Your family is one of the most influential and
+wealthy in the Hierate. +3 Ancestral Territory
+
+Past Deeds
+2D
+2
+
+3
+
+4
+
+5
+
+6
+7
+8
+9
+10
+11
+12
+
+Past Deeds
+Dishonoured! Your forebear committed some
+dishonourable act that caused the clan to strip
+your family of all territory. Gain Independence
+0 (if male) or Profession 0 (if female). Lose all
+Ancestral Territory
+Your forebear was beset by many foes, one
+of whom conquered much of your land. Gain
+an Enemy and Gun Combat 0. –4 Ancestral
+Territory
+Your forebear was a fool who gambled away
+much of your land. Gain Gamble 0 or Carouse
+0. –3 Ancestral Territory
+Your forebear suffered from a degenerative
+genetic disease that you may have inherited.
+Gain Medic 0. –2 Ancestral Territory
+Your forebear barely managed to hold onto your
+landhold. –1 Ancestral Territory
++1 Ancestral Territory
++2 Ancestral Territory
++3 Ancestral Territory
++4 Ancestral Territory
++5 Ancestral Territory
++6 Ancestral Territory
+
+Travellers have SOC equal to their Ancestral Territory. If
+you have SOC 10+ and are male, gain Leadership 1.
+
+Only the first son in the family inherits the family
+Territory. Next, determine your Traveller’s place in
+the family. In the case of multiple Travellers from the
+same family, only the eldest need roll on the Family
+Inheritance table – all other Travellers in that family are
+automatically younger.
+
+Family Inheritance
+2D
+2–3
+4–10
+11–12
+
+Male
+First Son
+Second Son
+Third Son
+
+Female
+Eldest Daughter
+Middle Daughter
+Youngest Daughter
+
+Finally, at the start of Traveller creation, the Traveller
+has left their parent’s pride. The Traveller may become
+part of another pride through Life Events or form one
+during a campaign.
+
+STARTING AGE
+
+Aslan Travellers begin their careers at 16 Aslan years
+of age (about 14 standard years). Careers are resolved
+on the basis of Aslan terms of service which are four
+Imperial years (4.5 Aslan years) each.
+
+NAMES
+
+The material on language on page 11 gives some basic
+guidelines on names and words used by the Aslan.
+Travellers may wish to use Aslan names (if so, they are
+encouraged to pick relatively pronounceable ones!).
+There is no necessity for doing so, although it adds
+flavour and atmosphere to a campaign.
+Even when names from the Aslan language are chosen,
+these are unlikely to be the individual’s full names,
+since an Aslan name is a long, sonorous and intricate
+structure that changes to note the background,
+accomplishments and life of its owner. Names for game
+purposes are of necessity greatly shortened.
+Because the particle ko on the end of an Aslan name
+means himself and is used exclusively by the head of a
+clan, care should be taken that an Aslan name ending in
+ko not be chosen unless the individual is the head of a
+clan (usually SOC 16).
+
+Titles
+
+Aslan do not have titles, as such, although a high
+social standing may be denoted by certain portions of
+the individual’s name. In Aslan society, the social level
+characteristic denotes the relative status of both the
+individual and his or her family but no special titles are
+applied for specific social levels.
+
+17
+
+

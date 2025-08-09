@@ -1,0 +1,26 @@
+1. Bridge
+2. Acceleration Benches
+3. Medical Bay
+4. Fuel Processing
+5. Cargo Bay
+6. Docking Space
+
+5
+
+1
+
+6
+
+DECK 2
+
+2
+3
+4
+
+3
+
+DECK 1
+
+83
+
+

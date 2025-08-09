@@ -1,0 +1,290 @@
+DESTROYER
+
+CLASS: BLARWRIR
+torpedo bays and eight small missile bays, the
+class presents a formidable entry into the field.
+Ten high-yield and accurate triple laser turrets act
+as a second line of offence and support the point
+defence batteries. The destroyer has a good
+reputation amongst those who serve upon it as a
+safe and comfortable vessel.
+
+The Blarwrir-class destroyer is among the largest
+ships fielded by the Za’tachk Alignment. If greater
+firepower is required, the Alignment will call on
+the might of the Hive Federation Navy for support.
+Built on a 5,000-ton frame, the Blarwrir is a
+streamlined vessel, enabling it to land and operate
+within an atmosphere. Armed with two medium
+
+TL14
+
+Crew
+
+Tons
+
+Cost (MCr)
+
+5,000 tons, Streamlined
+
+—
+
+300
+
+Reinforced Hull
+
+—
+
+150
+
+Radiation Shielding
+
+—
+
+125
+
+Armour
+
+Bonded Superdense, Armour: 14
+
+560
+
+280
+
+M-Drive
+
+Thrust 5
+
+250
+
+500
+
+Backup M-Drive Thrust 1
+
+50
+
+100
+
+J-Drive
+
+Jump 3
+
+380
+
+570
+
+Backup J-Drive
+
+Jump 1
+
+130
+
+195
+
+Power Plant
+
+Fusion (TL12), Power 5,610
+
+374
+
+374
+
+Backup Power
+Plant
+
+Fusion (TL12), Power 2,445
+
+163
+
+163
+
+Fuel Tanks
+
+J-3, 4 weeks operation
+
+1,538
+
+—
+
+Bridge
+
+Holographic Controls
+
+60
+
+31.25
+
+Cr286671/month
+
+Computer
+
+Core/60fib
+
+—
+
+112.5
+
+PURCHASE COST
+
+Backup
+Computer
+
+Computer/30fib
+
+—
+
+30
+
+MCr3440.053
+
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Improved Signal Processing
+
+1
+
+4
+
+Power Requirements
+
+Sensor Stations x8
+
+8
+
+4
+
+Backup
+Sensors
+
+Improved
+
+3
+
+4.3
+
+Weapons
+
+Medium Torpedo Bays x2
+
+200
+
+12
+
+Small Missile Bays x8
+
+400
+
+96
+
+Hull
+
+Ammunition
+Craft
+
+Systems
+
+Captains x3, Pilots x3,
+Astrogator, Engineers
+x38, Maintenance
+x10, Gunners x32,
+Administrators x5,
+Sensops x8, Medics
+x2, Officers x9, STOG
+x12, Drone Pilots x3
+
+Hull: 2,200
+Running Costs
+MAINTENANCE COST
+
+Basic Ship Systems
+1,000
+Manoeuvre Drive
+2,500
+Jump Drive
+1,500
+
+Triple Turrets (beam lasers, high 10
+yield, intense focus) x10
+
+32.5
+
+Point Defence Laser Batteries
+(Type III) x10
+
+200
+
+200
+
+Missile Storage (80 missiles)
+
+6.67
+
+—
+
+480
+
+Torpedo Storage (60 torpedoes)
+
+20
+
+—
+
+Fuel Processor
+
+Docking Spaces (5 tons) x13
+
+78
+
+19.5
+
+77
+
+UFT Lifeboats x13
+
+—
+
+22.75
+
+Docking Space (40 tons)
+
+44
+
+11
+
+Agupon Pinnace Drone
+
+—
+
+20.803
+
+Armoury
+
+2
+
+0.5
+
+Briefing Room
+
+4
+
+0.5
+
+Fuel Processor (1,540 tons/day)
+
+77
+
+3.85
+
+Sensors
+5
+Weapons
+
+135
+
+

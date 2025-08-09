@@ -1,0 +1,96 @@
+The Iron Droyne Rule
+
+Earlier editions of Traveller had a rule whereby a
+Droyne must roll their caste number or more on
+2D each term. Failure meant ejection from the
+Oytrip and ritual suicide. Hardcore traditionalists
+may wish to use this ‘Iron Droyne Rule’ during
+Traveller creation.
+
+Ranks, Mishaps and Mustering Out
+
+Continuation Checks
+
+A continuation check is a 2D roll with Caste skill
+level used as a positive DM and caste number as a
+negative DM. The check is of Simple (2+) difficulty.
+If it is passed, there is no additional effect. If failed,
+the Droyne is ejected from the Oytrip. Most commit
+suicide at this point but a Traveller may assume this
+is where their adventuring begins.
+
+CAREERS
+
+Droyne do not have ranks in the usual sense. The rank
+number is simply a guide for the Referee and Travellers,
+and titles are an indicator of how a Droyne regarded
+by the Oytrip. Low-value Droyne will be given the most
+risky tasks and may even be sent into suicidal situations
+if there is some benefit to the Oytrip.
+
+Droyne Travellers do not have careers in the usual
+sense. They are members of the same caste from
+the time of their Iskyar ritual until they die. Career
+progression is determined by success in their caste’s
+field of expertise alone – a Droyne can never change
+caste. Any Droyne with Black Skills receives a
+negative DM equal to their highest Black Skill level
+on all checks for advancement and continuation.
+
+Mishaps are treated differently for Droyne than other
+races. No Mishap automatically forces the Droyne to
+leave their career. However, any time a Mishap occurs
+the Droyne must make a continuation check.
+
+BASIC TRAINING
+
+There is no mustering out process as such. Droyne serve
+their Oytrip until they die or are no longer useful – in
+which case they usually die anyway. Droyne Travellers
+resolve their mustering out process, which indicates their
+circumstances at the time they begin adventuring but
+this can be omitted for most Droyne, who will either still
+be serving their Oytrip or beginning their ritual suicide.
+
+All Droyne undergo psionic testing (see page 196
+of the Traveller Core Rulebook) upon casting, before
+their first term. In addition, all Droyne receive all the
+skills from their caste-specific skills table at level 0
+plus one from that table (rolled randomly) at level 1.
+
+Droyne Life Events
+2D
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+192
+
+Event
+You help build a prestigious starship. Choose to gain either one level in Engineer, Electronics or Mechanic, or
+increase rank by +1.
+Your immediate Leader dies or is discredited. Make a Caste check. If you succeed, your rank is increased by
++1 when you join a new Leader. If you fail, it is decreased by –1.
+You gain a Black Skill. Gain one level of Carouse, Deception, Gambler, Persuade or Streetwise
+Your daily efforts are in keeping with the expectations of your Leaders. Gain a level in your Caste skill.
+The Oytrip struggles through difficult times. Make a Caste skill check. If successful you suffer no ill effects. If
+you fail, your rank is reduced by –1.
+The Oytrip endures.
+The Oytrip prospers. Your diligent work brings you into contact with an important Leader. Make an Appeal
+check. If successful you gain this Leader as a Contact.
+You come into contact with outsiders. Make an Outsider check. If successful, you gain an Ally from outside
+the Oytrip. If you fail, you gain a level of Outsider in a specialty of your choice.
+You are taken on a voyage, or lead one. Gain one level in Pilot, Astrogator, Engineer or Electronics.
+You are selected for advanced psionic training. Gain PSI +1.
+You come into contact with Ancients technology. It is frightening but fascinating. You gain one level of
+Ancients Tech.
+
+

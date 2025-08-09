@@ -1,0 +1,74 @@
+software. This vessel could not fire weapons, however as
+this is a gunner function and not covered by the basic
+operations package.
+K’Kree ships cannot use standard virtual crew or
+specialist software in combination with an operations
+package. If the ability to operate weapons is desired a
+military operations package is requires and a specialised
+or advanced package must be used to gain additional
+DMs. Non-robotic ships can use standard virtual crew
+software to replace some of their crew, in the same
+manner as vessels produced by any other species.
+Standard Operations Package: The Standard Operations
+Package is designed to replace up to five crewmembers
+aboard a craft carrying out simple tasks such as surfaceto-orbit shuttling, sensor flybys and cargo transfers.
+The simplest of these is sometimes termed a ‘Standard
+Shuttle’ package and is quite adequate for routine work
+but requires an operator to assume manual control for
+complex tasks. More advanced packages are capable of
+dealing with problems like wind shear or using optimal
+shortest-time courses far more efficiently than a standard
+package and provide a smoother docking, which can be
+important in craft intended as status symbols.
+A Standard Operations Package can replace pilots,
+engineers and maintenance personnel. It can compute
+a short course, such as a surface-to-highport route, but
+if complex astrogation (for example, least-time transfer
+from orbit around one world in a system to another) is
+
+A11/58231
+
+ELECTROMAGNETICENVIRONMENT PROTECTION
+SUITE (TL11)
+
+An electromagnetic-environment protection suite is the
+forerunner to a countermeasures suite. It contains basic
+jammers and electromagnetic warfare systems, which
+grant DM+1 to electronic warfare tasks. In addition,
+the suite contains ejectable decoys which increase
+this to DM+2 when deployed. There are enough decoys
+aboard for six uses, each of that remains in effect for
+D3 rounds before scattering. This capability comes at
+the price of a rather bulky and power-hungry system
+consuming 6 tons and 3 Power. The suite costs MCr3.
+
+156
+
+required then the course must be externally calculated
+and downloaded to the robotic craft. Standard
+Operations Packages cannot operate weapons or other
+defensive systems.
+Full Operations Package: A Full Operations Package
+is designed to replace a larger crew and provide a
+wider range of capabilities. Full Operations Packages
+can replace pilots, astrogators, engineers and
+support personnel but not gunners. A full package
+can replace up to 10 personnel before requiring
+additional Bandwidth and has a maximum capacity
+of 20 personnel. Where a standard package can pilot
+a shuttle from one port to another and plonk it on a
+landing pad, a full package can calculate a course
+across a star system then provide orders to cargohandling robots on how to obtain optimal cargo transfer
+times and at the same time ensure its positioning
+relative to other craft follows rules of etiquette so its
+owners status is correctly conveyed.
+Military Operations Package: Military Operations
+Packages permit the replacement of any crewmember,
+including gunners and screens operators. Military
+packages are optimised for small craft and tailored to
+their expected role. Packages may be tailored to their
+intended role or a more general package may be used to
+save costs. Tailored packages give additional bonuses, at
+a cost in Credits and Bandwidth.
+
+

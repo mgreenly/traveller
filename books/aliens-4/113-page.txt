@@ -1,0 +1,109 @@
+ENTRAL SUPPLY
+
+C CATALOGUE: ZA’TACHK
+Za’tachk goods are not easily obtained outside of the
+Za’tachk Alignment or on worlds where Za’tachk are
+uncommon. Because of their unusual hand structure,
+tools and equipment not explicitly designed for Za’tachk
+or Hivers will impose DM-2. Likewise, another sophont
+trying to use a tool or weapon designed specifically for
+Za’tachk will also suffer a penalty of DM-2.
+Many items in the Central Supply Catalogue can
+be found among the Za’tachk, modified to suit their
+physiology and design aesthetics. All purchases
+outside of the Za’tachk Alignment or Hive Federation
+of items designed specifically for Za’tachk will cost
+an additional 15%.
+
+ROBOTS
+Za’tachk do not feel safe with autonomous robots
+among them. They do not trust thinking machines
+will not endanger them in some way. Even the most
+basic autonomous robot can cause deep seated fear
+in most Za’tachk. Therefore, all Za’tachk robots are
+drones controlled by a living operator.
+Za’tachk tend to build their robots with a body similar
+to their own. Robots often have four limbs they can
+walk on or use to manipulate objects interchangeably,
+with sensors and voders located collectively at the
+front. Robots used by the military can be heavily
+armed but those operated by civilians will only be
+minimally armed, if at all, and then only with weapons
+which do minimal to no damage.
+
+CAOUA LIGHT INFANTRY DRONE
+
+Named after a fast predator native to Loza’tch, the
+Caoua light infantry drone is a Za’tachk-sized drone
+which is lightly armoured and designed for speed. They
+are intended to race across the battlefield and inflict
+as much damage as possible. All four of its limbs are
+also manipulators, making it a versatile weapon able
+to run and climb with equal ease. Light infantry drones
+routinely carry a laser rifle.
+
+Robot
+
+Hits
+
+Speed TL
+
+Cost
+
+Caoua Light
+Infantry Drone
+
+20
+
+12m
+
+Cr120000
+
+Locomotion
+
+Walker
+
+Skills
+
+Athletics (dexterity) 1, Athletics
+(strength) 1, Gun Combat (energy) 2,
+Melee (unarmed) 2, Recon 3, Stealth
+1
+
+Attacks
+
+Laser Rifle (5D+3, Zero-G)
+
+Manipulators
+
+4 X (STR 9 DEX 9)
+
+Endurance
+
+58 hours
+
+Traits
+
+Armour (+16), ATV, (idle),
+Heightened Senses, IR/UV Vision,
+
+14
+
+Programming None or Drone (INT 0)
+Options
+
+Audible Sensor, Audible Sensor
+(broad spectrum), Drone Interface,
+Encryption Module, Fire Control
+System (enhanced), PRIS Sensor,
+Recon Sensor (advanced), Satellite
+Uplink, Stealth (basic), Tightbeam
+Communicator, Transceiver 500km
+(improved), Vacuum Environment
+Protection, Visual Spectrum Sensor,
+Voder Speaker, Weapon Mount
+(medium), Wireless Data Link
+
+113
+
+

@@ -1,0 +1,34 @@
+1. Military Countermeasures Suite
+2. Bridge
+3. Enhanced Signal Processing
+4. Sensor Stations
+5. Barracks
+6. Point Defence (Type III)
+7. Medical Bay
+8. Armoury
+9. Brig
+10. Cargo Bay
+11. Docking Space
+12. Briefing Rooms
+13. Medium Missile Bay
+14. Large Torpedo Bay
+
+6
+
+6
+
+6
+
+6
+
+13
+
+13
+
+6
+
+DECK 2
+
+149
+
+

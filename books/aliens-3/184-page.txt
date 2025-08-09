@@ -1,0 +1,135 @@
+MUD CRAB SUBMERSIBLE TANK
+
+Equipment
+Autopilot (skill level)
+Communications (range)
+Navigation (Navigation DM)
+Sensors (Electronics (sensors) DM)
+Camouflage (Recon DM)
+Stealth (Electronics (sensors) DM)
+
+A heavily armoured and armed submarine, the Mud
+Crab is an impressive feat of engineering used by
+Dolphin militaries to protect assets from invasion.
+Crewed exclusively by Dolphins, these vehicles tend to
+operate in groups of three and are often accompanied
+by attack submarines. The cargo carried by Mud Crabs
+is normally an additional eight torpedoes.
+TL
+
+Seafarer (submarine)
+
+SKILL
+
+-1
+
+AGILITY
+
+Medium (Slow)
+
+SPEED (CRUISE)
+
+200 (300)
+
+Traits
+Equipment
+
+RANGE (CRUISE) 2
+CREW
+
+—
+
+PASSENGERS
+
+4 tons
+
+CARGO
+
+255
+
+HULL
+
+30
+
+SHIPPING
+
+MCr12.32
+
+COST
+
+MCr71.688
+
+Weapons
+
+—
+2,000km
++2
++1
+-4
+-2
+
+AFV
+Camouflage (advanced), Control System
+(advanced), Communications System
+(advanced, encrypted, increased range,
+satellite uplink), ECM (advanced), Fire
+Extinguishers, Life Support (short term),
+Navigation System (improved), Sensor
+System (improved, hardened, high
+fidelity, increased range, underwater),
+Stealth (improved)
+Small Turret (twin linked blue/green
+light laser cannon)
+Multi-bay (4x torpedoes)
+
+ARMOUR
+FRONT 94
+
+REAR
+
+74
+
+SIDES
+
+RANGE DAMAGE MAGAZINE MAGAZINE COST TRAITS
+
+Blue/Green Light
+Laser Cannon
+
+1
+
+8D+8
+
+—
+
+—
+
+AP 5
+
+FIRE CONTROL
++4
+
+Torpedo
+
+50
+
+5DD
+
+1
+
+—
+
+AP 50, One
+Use, Smart
+
++4
+
+Vehicles of the Dolphins
+
+WEAPON
+
+84
+
+185
+
+

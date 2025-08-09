@@ -1,0 +1,89 @@
+BWAP TRAVELLERS
+Bwap Travellers follow the same procedures and
+concepts as human Travellers, as detailed in the
+Traveller Core Rulebook. Unless otherwise stated
+in this chapter, use all the creation and career rules
+described in the Traveller Core Rulebook.
+
+BWAPS
+
+Bwap Travellers have the following modifiers applied to
+their characteristics: STR-4, END-4
+
+TRAITS
+Bwap Travellers all possess the following traits.
+Regeneration: Bwaps are able to regenerate
+amputated extremities. If a Bwap loses a limb or a
+tail, it will slowly grow back, taking six months. The
+limb or tail will be useless for this time as it develops
+into a fully functional extremity. Amputated hands and
+feet will only take three months to regrow back and
+amputated digits take six weeks.
+Social Norms: Bwaps have a very specific way of
+thinking that can make certain actions more difficult
+for them. They suffer DM-1 on the following skills:
+Deception, Gambler, Persuade and Streetwise.
+Structured Mind: Bwaps have very structured
+minds, making some skills easier to learn than others.
+Whenever a Bwap acquires Admin, Advocate and
+Broker at level 0, it automatically becomes level 1
+(making it impossible for a Bwap to have Admin 0 for
+example, only Admin 1 or more). Any further levels in
+these skills accumulate normally.
+
+STARTING AGE
+Bwap Travellers begin their careers at 18 years of age.
+Untrained and inexperienced, they embark on a career
+to gain new skills and experience. Each career term lasts
+for four Imperial years. Bwaps age slightly faster than
+humans and suffer an additional DM-1 on the Aging table.
+
+TITLES
+Bwaps do not have titles of nobility as humans of high
+SOC do, nor do they have hereditary titles in their own
+culture. A high SOC only represents the respect they
+receive in their own society. Bwaps may be awarded
+Imperial titles but they mean nothing to other Bwaps.
+
+CAREERS
+Bwaps may enter any career apart from Agent (except
+for law enforcement) or Rogue. Most Bwaps become
+bureaucrats, accountants or administrators, and can
+enlist in the Citizen (corporate) career automatically
+with no Qualification roll. When rolling for career
+enlistment other than Citizen the following DMs apply
+in addition to any others: DM-3 for Marines, DM-1 for
+Army, DM+1 for Scouts and DM+2 for Merchants.
+
+AGENT (LAW ENFORCEMENT)
+
+While Bwap criminals are rare and are considered
+to be mentally unwell, making law enforcers almost
+unnecessary in Bwap dominated areas, the same
+cannot be said of other sophonts. Bwaps make
+excellent investigators, both in the field and the
+laboratory. They are patient, dedicated, honest and,
+most of all, perseverant. No matter the task at hand,
+be it locating a single fingerprint in an entire parking
+lot or interviewing every worker in an officer block, a
+Bwap will go ahead with their task optimistically and
+professionally, and they will get the job done.
+
+ARMY, MARINE, MERCENARY AND NAVY
+
+The majority of Bwaps in the military serve as a
+defensive force on Bwap controlled planets or large
+Bwap enclaves. Those that serve in other militaries,
+especially in the massive bureaucracy that controls
+each of the Imperium’s services, tend to have
+administrative roles, operate as medical personnel
+or military researchers. Those Bwaps that do serve
+in active units often serve in the Imperial Navy and
+more rarely the Imperial Army, Marines or mercenary
+units. They are seen as unusual by other Bwaps and
+as reliable, if not tediously by-the-book, servicemen by
+their comrades in arms.
+
+253
+
+

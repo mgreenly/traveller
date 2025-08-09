@@ -1,0 +1,99 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+You are seriously injured, equivalent to a roll of 2 on the Hiver Injury table.
+
+2
+
+Repeated failures have disheartened you. Make a RES check. If you fail, your confidence was shaken and you
+passed up several opportunities. Lose a number of benefits equal to the negative Effect. If you succeed, you
+suffer no significant consequences but gain an Enemy who is trying to discredit you for their own reasons.
+
+3
+
+Your carefully laid plans result in a major financial loss for the people who supposed to benefit. You do not know if
+you were just plain wrong or if there are other manipulators working against you. Either way, you lose RES –1.
+
+4
+
+Everything was going well until a gigantic financial sinkhole swallowed you up. You are in debt for MCr2Dx1 and
+the people you owe it to – or who say you owe it to them – are dangerous. It is possible a mysterious benefactor
+straightens out the mess, in which case you do not have to leave the career but owe a favour to this benefactor.
+If this is not repaid you will gain a powerful Enemy but if you do what they ask of you when the time comes you
+will gain them as an Ally instead. If nobody helps you, you still owe the money to someone. Gain an Enemy who
+is pursuing you but also 10% of the amount you owe as cash.
+
+5
+
+Whether you deserved it or not, word got out about some actions on your part that look bad. You cannot
+manipulate anyone who knows about this, so have left your old life behind to find a new start.
+
+6
+
+Your nest suffered total financial collapse and its members found other nests more to their liking. You may or
+may not be to blame but no local nest would take you so you have had to leave the region.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+You are manipulated into taking part in a major project outside your normal field of endeavour. You may roll on
+any Service Skills table for any career and gain the indicated skill.
+
+4
+
+Things generally go rather well whenever you are involved, and you are pleased with the results. More
+importantly, you get the credit. Gain DM+4 on your next advancement check.
+
+5
+
+You make a big score. You can take the money or claim the credit but not both. If you take the money, you gain
+Cr2Dx100000. If you claim the credit you gain DM+1 on all advancement checks in this career and a Contact
+who is impressed with your work.
+
+6
+
+An opportunity arises to obtain specialist training. Make a RES check. If successful you may gain a level in any
+skill you possess at level 0 or higher.
+
+7
+
+A Life Event occurs.
+
+8
+
+You travel aboard starships. Take one level in Pilot, Astrogation or Engineer.
+
+9
+
+You become involved with the embassy and visit many other nests. Gain an Ally and a Contact.
+
+10
+
+You spend considerable time outside the Hive Federation, making a living among aliens with a very different
+culture. Gain a level of Streetwise and a non-Hiver Contact.
+
+11
+
+You facilitate a big transaction on the part of a major organisation such as a planetary administration. This
+boosts your confidence and you gain RES +1 along with an Ally.
+
+12
+
+You help get your home nest out of a major financial problem. Gain one level of Tactics (economic) and a
+Contact outside Hiver society.
+
+269
+
+

@@ -1,0 +1,187 @@
+ARMOUR
+NAME:
+
+RAD
+
+TYPE
+
+RADS:
+
+PROTECTION
+
+OPTIONS
+
+KG
+
+AGE:
+
+SPECIES:
+SPECIES TRAITS:
+
+FINANCES
+
+HOMEWORLD:
+
+CHARACTERISTICS
+
+ALLIES, CONTACTS,
+ENEMIES, RIVALS
+
+PENSION
+Cr
+
+ENDURANCE
+
+Cr
+CASH ON HAND
+
+DM
+
+DM
+
+DEXTERITY
+DM
+
+STRENGTH
+DM
+
+DM
+
+DM
+
+DEBT
+
+Cr
+
+INTELLECT
+
+EDUCATION
+
+SOCIAL
+
+MONTHLY SHIP PAYMENTS
+Cr
+
+DM
+
+PSI:
+
+TRAINING IN SKILL:
+
+LIVING COST
+
+WEEKS:
+
+Cr
+
+SKILLS
+Admin
+Advocate
+Animals
+Animals
+Animals
+Athletics
+Athletics
+Athletics
+Art
+Art
+Art
+Astrogation
+Broker
+Carouse
+Deception
+
+Electronics
+Electronics
+Electronics
+Engineer
+Engineer
+Engineer
+Explosives
+Flyer
+Flyer
+Flyer
+Gambler
+Gunner
+Gunner
+Gun Combat
+Gun Combat
+Gun Combat
+Heavy Weapons
+
+Drive
+Drive
+
+STUDY PERIODS COMPLETE:
+
+Heavy Weapons
+Investigate
+Jack of all Trades
+Language
+Language
+Language
+Mechanic
+Medic
+Melee
+Melee
+Navigation
+Patriarchy
+Patriarchy
+Persuade
+Pilot
+Pilot
+Pilot
+
+EQUIPMENT
+
+Profession
+Profession
+Profession
+Recon
+Science
+Science
+Science
+Seafarer
+Seafarer
+Stealth
+Steward
+Streetwise
+Survival
+Tactics
+Tactics
+Vacc Suit
+
+AUGMENTS
+
+WEAPONS
+WEAPON
+
+STUDY PERIOD
+
+TL
+
+RANGE
+
+DAMAGE
+
+MASS
+
+KG
+
+MAGAZINE
+
+TYPE
+
+TRAITS
+
+MASS
+
+TOTAL CARRIED MASS
+
+TL
+
+IMPROVEMENT
+
+MASS
+
+

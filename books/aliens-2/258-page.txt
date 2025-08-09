@@ -1,0 +1,127 @@
+It is conceivable a Hiver might enter a career outside its
+home society, for example joining the Imperial interstellar
+Scout Service as a consultant. All attempts to join such
+services are subject to a -4DM, increased to -8 if the
+service is one requiring conflict. Once the Hiver has
+joined, survival and advancement proceed normally.
+In their own careers, Hivers do not check for survival.
+The Hive Federation is in general a very safe place for
+Hivers, so only bad luck or the actions of others are likely
+to harm a Hiver. Qualification and advancement are also
+handled differently to the Core Traveller Rules. A Hiver
+automatically qualifies for a given career if it is a member
+of a nest that supports that career. However, some Hivers
+are unsuited to their current field of endeavour. Thus
+rather than attempting to qualify for a career, a Hiver
+joins a nest working in that field and is automatically
+accepted into the career, but will suffer a negative DM to
+Advancement checks if they do not meet the minimum
+requirements. This means that junior members of a career
+tend to stay that way unless they have real talent, which
+is unlikely to be coincidental.
+A Hiver checks for Advancement each term, but
+Advancement is always governed by RES rather than a
+characteristic keyed to its career – doing well in Hiver
+society is all about convincing others to look up to you
+rather than being good at your job. For a Hiver to be sure
+of advancing in their career they must actually be good
+at what they do (avoiding the negative Advancement DM)
+and also good at convincing people they are.
+An Advancement check is made by rolling 2D and applying
+the RES DM. The result is applied immediately, and can
+change on the next Advancement check. For example, a
+Hiver might have a good few years and be considered a
+Senior, but then fall into eclipse and be regarded once
+again as merely an Adult. If Manipulator status is acquired,
+this is not necessarily permanent. An eclipsed Manipulator
+is will usually want people to believe they are keeping a low
+profile whilst they work on something big.
+The first time a Hiver reaches Senior status, and when
+Manipulator status is achieved, a one-off benefit is
+gained. This depends on the Hiver’s field of endeavour. A
+Hiver that loses either of these statuses and later regains
+them does not gain the benefit again, even if they are now
+working in a different field of endeavour.
+As already noted, Hivers do not receive basic training in
+their career, either at the start or if they switch careers.
+Changing careers requires moving to a different nest,
+though this may be done remotely if the Hiver cannot
+make the move in person. Changing nests is, on the face
+of it, a trivial administrative matter. However, there are
+nuances that may not initially be apparent. A Hiver that
+changes nests remotely misses out on the opportunity
+
+258
+
+to meet new nest-mates in person and establish a
+relationship with them.
+Changing career is automatic if the new nest accepts the
+Hiver. If not, it can try again in a future term. A Hiver who
+fails to join a new nest can stay with their current career
+and nest or enter the Hiver Generalist career. A Hiver that
+wants to move to a different assignment that is supported
+by their nest can do so automatically. One that wishes to
+move to an assignment not supported by their nest must
+move to one that does support the new assignment.
+
+Changing Nest
+
+At the end of any term a Hiver can try to join another
+nest. This is a matter of convincing the new nest’s
+members they want the Hiver to join and has nothing to
+do with competence in the field. Incompetence will slow
+advancement but Hiver society allows any individual to bash
+away at something they are no good at if that suits their
+purposes. Thus to join a new nest a Diplomat or Persuade
+check is made at the difficulty level noted below.
+If the Hiver is successful, it may enter any career
+supported by their new nest type. It may also attempt a
+transition manipulation. This requires a Persuade check
+at the noted difficulty level. If successful, the Hiver gains
+an additional roll on the cash benefits table, representing
+clever manipulation of the credit transfer process.
+Members of the new nest will be watching carefully, since
+a nest-transition manipulation is a good measure of a
+Hiver’s prowess. If the Persuade check is failed, the Hiver
+suffers a penalty equal to the negative Effect on their
+Advancement check this term.
+Hivers who choose not to make a transition manipulation
+are taking a safe, cautious approach which does not mark
+them as destined for greatness. However, since many
+transition manipulations include attempts to make everyone
+think the Hiver is not up to anything devious members of
+the new nest cannot be sure whether they have just been
+joined by a ‘plodder’ or a master manipulator. Thus no
+penalty or stigma attaches to taking the safe route since
+Hiver society is so thoroughly obfuscatory that nobody
+can be sure who did or did not do anything, nothing or
+something entirely different.
+
+Changing Nest
+Nest Type
+Industrial
+Economic
+General/
+Nurturing
+Academic
+Social
+
+Diplomat/
+Persuade Check
+Routine (6+)
+Average (8+)
+Easy (4+)
+
+Transition
+Manipulation
+Average (8+)
+Difficult (10+)
+Average (8+)
+
+Average (8+)
+Difficult (10+)
+
+Average (8+)
+Very Difficult (12+)
+
+

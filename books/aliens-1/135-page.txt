@@ -1,0 +1,92 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+Injured in an accident, you lose D3 points from among STR, DEX and END but do not leave the career.
+
+2
+
+You anger your herdlord and are punished with reduced status. SOC is lowered by –D3 which may drop you into
+the Servant caste. You do not leave the career.
+
+3
+
+One of your wives dies or is otherwise taken from you. In your grief you offend many other K’kree. Gain D3
+Rivals or one Enemy and lose a wife. You do not leave the career.
+
+4
+
+You exceed your status when offering advice to your superiors. Lose one benefits roll and gain a Rival who
+profited from your eclipse. You do not leave the career.
+
+5
+
+War or serious inter-herd conflict kills 1D of your family members. Make an Average (8+) Patriarchy check. If
+you pass, you marry a new wife quickly enough to avoid embarrassment. If not, lose SOC-1. You do not leave
+the career.
+
+6
+
+You were ejected from the herd. Gain 1 level of Outsider. You are no longer a K’kree; you are nothing. Survive as
+best you can or die. Nobody cares either way.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table.
+
+3
+
+Your herd is involved in a highly successful endeavour. You do your part with honour, earning deserved praise
+from your herdlord and SOC+1. You also gain D3 Rivals.
+
+4
+
+You learned new skills appropriate to your status. Gain one roll on any skill table available to this caste.
+
+5
+
+You solved many problems to bring your herd great success. Gain one level of Jack-of-all-Trades and some
+words of praise from your herdlord.
+
+6
+
+Your herd needs to prepare for war. Gain 1 level in Electronics (remote ops) or Gun Combat.
+
+7
+
+Life Event. Roll on the K’kree Life Events table on page 138.
+
+8
+
+Your herd meets with many others for a great ceremony. Gain 1 level of Profession (K’kree ritual) and a Contact
+outside your herd.
+
+9
+
+Your clan journeys among the stars. Gain one level of Engineer, Astrogator or Electronics.
+
+10
+
+Your clanlord selects you to be a member of a special delegation providing hospitality to a powerful rival. You
+have to quickly learn to lead the servants. Gain one level of Steward skill and make an Average (8+) Profession
+(K’kree ritual) check. If successful, gain SOC+1 and your clanlord’s favour. If you fail, you gain your clanlord’s
+rival as an Enemy.
+
+11
+
+You serve aboard a warship with your herdlord. Gain one level in Pilot, Electronics (remote ops) or Gunner.
+
+12
+
+A Herdlord offers you one of his daughters in marriage. Gain an extra wife, SOC 11, elevation to rankholder as
+the head of a small family in the noble caste and the admiration of your former peers.
+
+

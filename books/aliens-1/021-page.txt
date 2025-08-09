@@ -1,0 +1,110 @@
+Male Skills: Some skills can be learned in Aslan society
+only by males. Females consider such skills naturally the
+province of males and rarely try to learn them. In some
+extreme circumstances, females may learn them but will
+almost never admit to it in polite company. Most direct
+combat skills are the province of males.
+Independence is a uniquely Aslan male skill in that it
+indicates the degree to which the male has overcome Aslan
+cultural and psychological barriers to the comprehension of
+money. Females do not need Independence since they are
+not faced with these barriers.
+Female Skills: Some skills can be learned in Aslan
+society only by females. Males consider such skills
+dishonourable for them to learn and will avoid learning
+them if at all possible. If they have learned them,
+honour forbids them from admitting it.
+Rare Skills: These skills may be learned by Aslan but are
+extremely rare.
+The Aslan Skills table indicate which skills various Aslan
+might consider distasteful or unacceptable to learn. The
+rare Aslan skills table shows skills that very few Aslan
+would learn.
+Skills not shown as male, female or rare may be
+considered common skills.
+
+Aslan Skills
+Males Only
+Art (epic
+poetry)
+Gunner
+Heavy Weapons
+
+Females Only
+Art (all except epic
+poetry)
+Astrogation
+Broker
+
+Independence
+
+Electronics (all
+except sensors)
+Engineer
+Mechanic
+Profession
+Science
+
+Leadership
+Tactics
+
+Rare
+Gambler
+Melee (blade)
+Melee
+(unarmed)
+
+New Skills for Aslan
+
+The following two skills are unique to Aslan.
+
+INDEPENDENCE
+
+The Traveller is capable of dealing with the
+concepts of money. In Aslan society, money is
+traditionally a female responsibility and males
+(particularly upper-class males) rarely understand
+such matters, a fact that handicaps them in a
+technological society.
+Independence is an Aslan male skill, acquirable
+only by males; females have no need of it. When
+Independence skill appears, males must roll 2D
+and score higher than their SOC to acquire the
+skill. Independence is a guide governing the
+Traveller’s ability to function without supervision.
+Lack of the skill indicates no concept of money
+at all; the Traveller must be looked after by a
+wife or companion who can pay for things and
+generally see that he has his financial needs
+cared for.
+Realising a Price is Extortionate: Average (8+)
+Independence check (INT or EDU)
+Understanding an Economics Treatise: Difficult
+(10+) Independence check (1D x 10 minutes, INT)
+
+TOLERANCE
+
+The Traveller is accustomed to dealing with
+non-Aslan and has learned to ignore lapses in
+propriety on the part of such persons. It should
+also be used to help determine the degree to
+which an Aslan is capable of getting along with
+others outside of the family, pride, clan and race.
+An Aslan without Tolerance is unlikely to be found
+in the company of non-Aslan.
+In any Aslan’s dealings with others, Tolerance
+offsets the negative DM called for under the
+reaction rules (see page 9).
+
+AGING
+
+Aslan aging is slower in its onset but more severe in
+effects than in human Travellers. The first roll on the
+Aging table is not made until age 40 (after six terms of
+service have been completed); thereafter, it is checked
+every term and twice the Traveller’s number of terms
+served is applied as a negative DM to the roll.
+
+21
+
+

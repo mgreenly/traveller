@@ -1,0 +1,116 @@
+2
+
+SERVANT
+
+Servants are the lowest caste in K’kree
+society. They fulfil necessary but lowstatus functions such as farming, carrying
+out basic maintenance and providing the
+bulk of combat troops. Elevation to the
+Merchant caste is possible but very rare;
+most servants are content to be part of a
+successful and prosperous herd.
+Servant-caste K’kree have only two
+specialist areas: Service, which represents
+supporting tasks such as farming and
+vehicle maintenance as well as direct
+service to a higher-caste family, and Warrior.
+Servant-caste K’kree exist to support the
+herd and die for it if necessary.
+
+MUSTERING OUT BENEFITS
+1D
+1
+2
+3
+4
+
+CASH
+Cr1000
+Cr2000
+Cr5000
+Cr7500
+
+5
+6
+7
+
+Cr10000
+Cr15000
+Cr25000
+
+BENEFITS
+Weapon
+Contact
+Ally
+Gain one level in Gun Combat, Recon,
+Drive or Flyer
+END +1
+DEX +1
+SOC +1
+
+Qualification: SOC 1–6
+
+ASSIGNMENTS
+Entry: Automatic
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Patriarchy
+Profession (K’kree ritual)
+K’kree Life Event
+WARRIOR
+Melee
+Gun Combat
+Heavy Weapons
+Athletics (endurance)
+Medic
+Vacc Suit
+
+K’KREE SKILLS
+Patriarchy
+Profession
+Melee or Gun Combat
+Admin or Steward
+Carouse
+Athletics (endurance)
+TECHNICAL/SCIENTIFIC
+Profession (K’kree ritual)
+Mechanical
+Electronics
+Steward
+Investigate
+Language
+
+SERVICE
+STR +1
+END +1
+Profession
+Admin
+Drive or Flyer
+Steward
+—
+—
+—
+—
+—
+—
+
+

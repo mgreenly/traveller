@@ -1,0 +1,107 @@
+C
+
+ENTRAL SUPPLY CATALOGUE: BWAPS
+
+Bwaps are able to use the majority of items designed
+for humans without penalty due to their similar
+morphology. This includes computer keyboards, kitchen
+implements, tools and thousands of other items. Those
+that require a more ergonomic fit to a particular race,
+such as drone waldoes, filter masks, pistol grips and
+the like impose DM-1 unless they are specifically
+designed for the Bwap anatomy. Likewise, another race
+attempting to use an item designed specifically for a
+Bwap will suffer the same DM-1. Bwap specific items
+are more difficult to find but cost the same as humanspecific items. Protective equipment such as vacc
+suits, combat armour, rebreathers, and so on, must be
+specifically designed for an individual race and are not
+interchangeable between species. Such equipment for
+Bwaps costs 110% of the normal price.
+Electronic equipment must be specially sealed against
+moisture and high humidity when being handled by a
+Bwap to avoid detrimental effects but this is a standard
+feature of all electrical equipment at TL10+.
+
+PERSONAL PROTECTION
+Armour is not as common in Bwap society as on
+human worlds. This is not to say that Bwaps do not
+wear armour, only that they wear it when the situation
+warrants it. Wearing armour openly is often seen as
+boorish, the bearer obviously looking for trouble.
+All suits of Bwap armour are decorated to resemble
+their colouration and patterning, identifying at the very
+least the crèche the wearer belongs to.
+
+Armoured Kaftan: A heavy-duty kaftan-like garment
+and head covering tailored from ballistic cloth,
+suffused with small tubes to circulate water around
+the skin of a Bwap to keep them moist. Like cloth
+armour, the fabric absorbs impact energy and
+disperses the blow over the body of the target. The
+fabric is obviously armoured but at TL12 it becomes
+light enough to require a Routine (6+) Investigate or
+Recon check to recognise it as such.
+
+Bwap Powered Plate: A large and bulky suit of
+insulated powered armour made up of metallic plates
+forming a complete body shell designed specifically
+for Bwaps that is both tough and inflexible. As long
+as the suit’s 80-hour power cell (Cr200 to replace)
+has energy, the suit grants STR+2 but inflicts DEX2. Additionally, enhanced actuators along the spine
+allow the Bwap to articulate their tail and use it
+a striking weapon in combat, inflicting the same
+damage as an unarmed strike. The TL14 version
+has a 160-hour power supply, is made of ceramic
+composites and adds STR+3 but only inflicts DEX-1.
+
+Ceremonial Armour: Bwap ceremonial armour
+(wepasab) is made from cured leather of ancient
+design and consists of a tunic, leggings, grieves and
+head covering. It is worn by Tap-a-wewaka-atapas
+during formal occasions. The construction method for
+wepasab has not changed and in almost all crèches
+is created by hand. The cost below is for the simplest
+form of armour with minimal decoration. More
+flamboyant armour costs more, significantly more for
+the most ostentatious.
+
+MODIFICATIONS
+
+All standard modifications listed on page 96 of the in
+the Traveller Core Rulebook or page 27 of the Central
+Supply Catalogue may be used with Bwap armour. In
+addition, some are unique to the Bwaps as noted here.
+Swimming Fins: These fins are webbing that
+extend from the hands and feet, with a fin on the tail,
+increasing a Bwaps swimming speed by +2m. At TL8
+they are a permanent part of the armour and impart
+DM-2 to all checks that require the use of hands
+or fingers. From TL10 the fins can be retracted or
+extended, removing the penalty.
+Modification
+
+TL
+
+Kg
+
+Cost
+
+Swimming Fins
+
+8
+
+—
+
+Cr100
+
+Armoured Fins
+
+10
+
+—
+
+Cr150
+
+255
+
+

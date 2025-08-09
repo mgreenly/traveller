@@ -1,0 +1,162 @@
+2
+
+WARRIOR
+CAREER PROGRESS
+
+Warriors defend the Oytrip and its members and destroy
+threats when necessary.
+Qualification: Automatic for Warriors. Prohibited for all
+others.
+
+ASSIGNMENTS
+
+SURVIVAL
+END 6+
+END 5+
+INT 6+
+
+Battling
+Guard
+Voyaging
+
+ADVANCEMENT*
+END 9+
+INT 10+
+DEX 9+
+
+* Advancement is subject to a negative DM equal to the highest skill
+level the Droyne has in a Black Skill.
+
+Choose one of the following:
+Warrior: You attack and destroy the enemies of your
+Oytrip. You may be a bodyguard or a ground combat
+specialist, but either way fighting is all you know.
+Guard Warrior: You protect the Oytrip and its members,
+either in combat or in a rescue and emergency
+medical role.
+Voyaging: You travel to fight for your Oytrip. You
+may be a combat recon specialist or a starship
+crewmember or some similar role that protects your
+Oytrip and its people.
+
+END OF SERVICE
+1D
+1
+2
+3
+4
+5
+6
+7
+
+CASH
+Cr250
+Cr500
+Cr750
+Cr1000
+Cr2500
+Cr5000
+Cr10000
+
+BENEFIT
+END +2
+STR +1
+Weapon
+Weapon
+Vacc Suit
+Wings
+Weapon
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+END +1
+Gun Combat
+Medic
+Heavy Weapons
+BATTLING WARRIOR
+Gun Combat
+Athletics
+Melee
+Heavy Weapons
+Explosives
+Stealth
+
+SERVICE SKILLS
+Gun Combat
+Recon
+Melee
+Athletics
+Flight
+Caste
+GUARDING WARRIOR
+Drive
+Medic
+Gun Combat
+Athletics
+Flyer
+Recon
+
+SKILLED WARRIOR (MIN INT 6+)
+Ancients Tech
+Appeal
+Leadership
+Stealth
+Vacc Suit
+Any psionic skill
+VOYAGING WARRIOR
+Electronics
+Gunner
+Pilot
+Gun Combat
+Recon
+Vacc Suit
+
+RANKS AND BONUSES
+RANK
+0
+1
+2
+3
+4
+5
+6
+
+196
+
+TITLE
+Excess to Requirements
+Expendable Warrior
+Satisfactory Warrior
+Valued Warrior
+Highly Valued Warrior
+Exemplary Warrior
+Eminent Warrior
+
+SKILL OR BONUS
+—
+—
+
+Caste (warrior)
+Gun Combat
+Tactics
+INT +1
+Leadership
+
+

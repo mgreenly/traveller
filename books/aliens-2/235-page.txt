@@ -1,0 +1,125 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+T
+
+H
+
+I
+
+R
+
+T
+
+Y
+
+HIGH GUARD:
+
+O
+
+N
+
+E
+
+HIVE FEDERATION
+Hiver starships are generally similar in most ways
+to those used by other races. Smaller ships – and
+many large ones – tend to have a high degree of
+automation, allowing a lone Hiver or small crew to
+operate a vessel. A Hiver commanding a starship is
+less a captain in the conventional sense and more a
+central ‘brain’ that directs the vessel through a living
+crew or automated systems.
+
+COMMAND CENTRES
+The bridge of a Hiver ship tends to be larger
+than those used elsewhere. This is partly to allow
+duplication of controls such that different races can
+crew the ship and partly due to additional systems. A
+Hiver bridge contains a control area and a command
+area. The former is where crewmembers operate the
+ship’s controls, whilst the command area is outfitted
+as the Hiver in command pleases. It may be an office,
+a living space or a small biosphere where the Hiver can
+enjoy the feeling of being in a natural environment.
+A retractable partition separates the command and
+control spaces, allowing the Hiver to either observe the
+crew or close itself off. This can lead to crewmembers
+wondering what the Hiver is plotting in there, which is
+sometimes useful in keeping the crew slightly uneasy.
+
+The control space also contains gunnery control
+systems that might otherwise be distributed throughout
+the vessel and a set of heavy bulkheads to protect
+the whole command crew. The command and control
+space thus counts as having Armoured Bulkheads and
+in addition is provided with a separate life support and
+comfort system including freshers and a tiny galley. A
+command crew can survive in their armoured citadel
+for days or even weeks using its internal batteries,
+remaining properly fed and clean throughout. This is
+useful when a ship has been heavily damaged but also
+allows a Hiver to lock itself away from the crew for a
+few weeks if this seems necessary.
+
+Hiver command and control systems are of necessity
+larger than their equivalents elsewhere. They are not
+usually found aboard small craft intended to be piloted
+by non-Hivers, although exceptions do exist.
+Size of Ship
+Size of Command and Control Centre
+50 tons or less
+8 tons
+51–99 tons
+16 tons
+100–200 tons
+25 tons
+201–1000 tons
+64 tons
+2,000 tons or more 95 tons
+Hiver command and control centres cost MCr1 per 100
+tons of the ship they are installed in.
+
+SHIP AUTOMATION
+
+Larger Hive Federation ships typically carry a large
+crew made up of various member races. They may
+make use of some automation but it is in smaller
+vessels that it is most prevalent. Hiver automation
+goes beyond that offered by a Virtual Crew software
+suite. Systems are designed to be entirely machine-run
+and are often ‘black boxed’ with no external controls
+or access points. Whilst this makes life difficult for
+maintenance crews, if they are carried, it does suit
+Hiver mentality. A Hiver operating a small ship does
+not care all that much how the systems work, only that
+they do what it wants. This is not dissimilar to the
+attitude of many Hivers to other sophonts.
+Hiver ship automation is normally installed in blocks.
+Power plant and manoeuvre drive are usually one block,
+jump drive, if fitted, is another. The bridge automation
+package carries out all astrogation, piloting and sensor
+tasks, along with handling routine communications.
+Weapons automation is normally localised, with only a
+command interface for the bridge. Thus a turret will be
+operated by its automation package, which is located
+in its base, with control from the command and control
+centre often restricted to little more than telling the
+automatic gunner it can fire at will.
+
+235
+
+

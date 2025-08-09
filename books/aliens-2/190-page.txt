@@ -1,0 +1,112 @@
+Flight
+
+The Flight skill is dealt with in the section on Droyne
+flight, on page 188. A Droyne who receives Flight but
+whose wings are too small to fly may instead select one
+of Drive, Flyer, Recon or Survival.
+
+Outsider (race or culture)
+
+The Outsider skill is used when conducting dealings
+with non-Droyne. A high skill level does not suggest
+the Droyne has any particular liking for the species in
+question but they will understand the subject culture.
+This permits diplomacy to be undertaken without utterly
+confusing the outsiders but has wider implications.
+A Droyne with the Outsider (Vargr) skill, for example,
+is aware that Vargr conduct trade and warfare very
+differently to Droyne. They may be able to predict what
+goods will sell well in Vargr markets or how a military
+campaign will unfold. A skill check can be used to make
+reasonable and general predictions about members of
+the subject race or culture.
+In addition, where responses of the subject are
+important – such as using the Broker skill to negotiate
+a good deal – the Droyne cannot receive a DM greater
+than their Outsider skill with the relevant culture. The
+converse is also true; an outsider trying to use advanced
+negotiating skills will find they are lost on a Leader who
+does not comprehend much of what is being said. A
+Leader who is supported by those with this skill can use
+the highest level available as an enabler for their own
+skills. If, for some reason, the Droyne decide to explain
+what they are doing or why, the Outsider skill is used
+to frame this in terms the outsiders can comprehend.
+Since few Droyne have this skill, much of what they say
+and do remains utterly incomprehensible to outsiders.
+
+Outsiders
+
+Kyussesk is a Sport, who has Outsider (Imperial)
+2. A party of K’Kree arrive at his Oytrip’s
+capital wanting to trade. No-one is available
+with the specific Outsider skill relating to
+K’Kree, so Kyussesk is assigned to advise his
+Leader-of-Leaders. The K’Kree start blundering
+around cluelessly, as if they have no idea how
+to conduct a diplomatic visit! The Leader-ofLeaders is perplexed and worried that this might
+escalate into a major incident but Kyussesk
+– who is considered to have Outsider 0 for all
+cultures – is on hand to advise.
+Kyussesk understands that outsiders generally
+do not know the proper rituals and are perhaps
+not aware that they should send a Sport (or
+equivalent) to the Place of Supplication for
+Agreements – they probably do not know it
+exists! He explains this to his Leader-of-Leaders
+and is assigned to guide the new arrivals through
+the correct process. This is difficult, even with a
+good translation device, since Kyussesk does not
+understand the idiom and figures of speech used
+by his guests. Indeed, all he knows is that they
+do not think like Droyne and that he must make
+allowances for their failure to understand the
+correct way of behaving.
+By the time Kyussesk has guided the K’Kree
+party through the Ritual of Approach – thus
+enabling the Leader-of-Leaders to interact with
+them – another Sport has been found who has
+Outsider (K’Kree) 2. The Leader-of-Leaders
+delegates negotiations to a representative who
+has Broker 3 but this is limited to skill level 2
+by the highest Outsider (K’Kree) skill present.
+
+Prediction
+
+The Prediction skill represents the talent for predicting
+future events using the coyns. Whether or not the
+future is preordained is an open question but a
+successful prediction can assist a group of Droyne
+in their endeavours. A prediction is no small matter;
+it must be undertaken at the centre of a solemn
+ceremony and cannot be made until the previous one
+has run its course.
+A Droyne that wishes to make a meaningful prediction
+must pass an Average (8+) Prediction check. If it is
+failed the prediction is meaningless and the effort
+cannot be repeated for 1D days for every point of
+negative Effect. If the check is successful, the Droyne
+selects six coyns at random (see page 206). Neutral
+coyns indicate possible events but do not influence the
+outcome of the prediction. Positive coyns are worth
+DM+2 to be applied to any one check each during the
+
+190
+
+period of the prediction but negative coyns nullify one
+positive coyn each. Positive and negative coyns may also
+indicate events or participants.
+In addition to any DM gained from positive coyns, the
+Leader for whom the Prediction was made also gains a
+‘floating DM’ equal to positive Effect of the check. Each
+positive coyn DM must be applied to a separate check
+but this floating DM can be used however the Leader
+wishes. This cannot make the impossible doable but so
+long as an action is physically possible this DM can be
+used to make it happen.
+A prediction is in force for 1D days plus 1D days for
+every positive coyn DM gained. Thus if a Prediction
+succeeded with Effect +3 and the net result was two
+positive coyn DMs, the prediction is in force for 3D
+
+

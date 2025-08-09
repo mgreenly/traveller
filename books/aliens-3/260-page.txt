@@ -1,0 +1,107 @@
+VEHICLES OF THE BWAPS
+Most Bwap vehicles are much like their human
+counterparts in ability and function but the aesthetics
+of the Bwap lead to much more round and organiclike form. Features like wings, fins or other types of
+decoration are rare, unless they serve a functional use
+
+TL
+
+12
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
+-1
+
+SPEED (CRUISE)
+
+Fast (High)
+
+RANGE (CRUISE) 3,000 (5,000)
+
+A-AWAB AIR TRAM
+Air trams are ubiquitous on Imperial worlds of TL9 and
+above, providing fast, cheap and comfortable public
+transport for billions of passengers annually. The sturdy
+air tram seats 40 passengers. The majority of air trams
+are controlled by robot brains (making them essentially
+drones) and monitored by a central traffic control
+system but provision for a pilot is made. Routes are
+pre-programmed into the air tram’s robot brain and pilot
+or remote intervention is required to alter routes.
+
+CREW
+
+2
+
+PASSENGERS
+
+40
+
+CARGO
+
+—
+
+HULL
+
+185
+
+SHIPPING
+
+45 tons
+
+COST
+
+MCr7.32
+
+Traits
+ATV
+Equipment Actuators x4, Autopilot (enhanced),
+Communications System (improved),
+Control system (improved), Navigation
+System (improved), Robot Brain (basic),
+Sensor System (improved)
+
+Equipment
+Autopilot (skill level)
+
++2
+
+Communications (range)
+
+500km
+
+Navigation (Navigation DM)
+
++2
+
+Sensors (Electronics (sensors) DM)
+
++1
+
+ARMOUR
+
+Camouflage (Recon DM)
+
++3
+
+FRONT 3
+
+Stealth (Electronics (sensors) DM)
+
++3
+
+REAR
+
+3
+
+SIDES
+
+2
+
+261
+
+

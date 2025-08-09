@@ -1,0 +1,278 @@
+ABAEWA-PA CLASS LIGHT CRUISER
+Built on a 25,000 ton hull, the Abaewa-pa light
+cruiser is an aging design but still capable in her role
+within a colonial force. The class is well armed with
+a particle beam spinal mount, two medium torpedo
+bays, five fusion barbettes and 10 triple laser turrets.
+
+TL15
+Hull
+
+A complement of 50 marines are able to pull
+gunner and small craft pilot duty, as well as assist
+with maintenance when needed. As the class is
+unarmoured, it works best in a support role.
+
+TONS
+
+COST (MCr)
+
+25,000 tons, Standard
+
+—
+
+1250
+
+Reinforced
+
+—
+
+625
+
+M-Drive
+
+Thrust 6
+
+1,500
+
+3000
+
+J-Drive
+
+Jump 4
+
+2,505
+
+3757.5
+
+Power Plant
+
+Fusion (TL12), Power: 31,590
+
+2,106
+
+2106
+
+Fuel Tanks
+
+J-4 and 8 weeks of operation
+
+10,422 —
+
+Crew
+Captain, Pilots
+x3, Astrogator,
+Engineers x117,
+Maintenance x33,
+Medics x2, Gunners
+x42, Administrators
+x17, Officers x22,
+Marines x 25, Sensor
+Operators x9
+
+60
+
+125
+
+Core/80 fib
+
+—
+
+142.5
+
+Computer/25
+
+—
+
+10
+
+Improved
+
+3
+
+4.3
+
+Improved Signal Processing
+
+1
+
+4
+
+Countermeasures Suite
+
+2
+
+4
+
+Particle Spinal Mount (TL13)
+
+5,950
+
+2400
+
+MAINTENANCE COST
+
+Medium Torpedo Bays x2
+
+200
+
+12
+
+MCr1.0442275725/month
+
+Fusion Barbettes x5
+
+25
+
+20
+
+PURCHASE COST
+
+Triple Turrets (pulse laser) x10
+
+10
+
+40
+
+MCr12530.73087
+
+Point Defence (type II) x10
+
+200
+
+100
+
+Ammunition
+
+Torpedo Storage (405 torpedoes)
+
+135
+
+—
+
+Power Requirements
+
+Armoured
+Bulkheads
+
+Bridge
+
+6
+
+1.2
+
+Basic Ship Systems
+
+Systems
+
+Docking Space (150 tons)
+
+121
+
+30.25
+
+Ship’s Boats x3
+
+—
+
+20.466
+
+Manoeuvre Drive
+
+Military Gig
+
+—
+
+13.6683
+
+Armoury
+
+17
+
+4.25
+
+Briefing Room x5
+
+20
+
+2.5
+
+Brig
+
+4
+
+0.25
+
+Repair Drones
+
+250
+
+50
+
+Fuel Processor (10,440 tons/day)
+
+522
+
+26.1
+
+Fuel Scoop
+
+—
+
+1
+
+Workshop x6
+
+Fuel Processor
+
+48
+
+7.2
+
+516
+
+64.5
+
+522
+
+Standard x129
+Barracks (25 passengers)
+
+50
+
+1.25
+
+141
+
+14.1
+
+40
+
+5
+
+Bridge
+Computer
+Sensors
+
+Weapons
+
+Staterooms
+Common Area
+
+Mud Bath
+
+Hull: 11000
+Running Costs
+
+5,000
+15,000
+Jump Drive
+10,000
+Sensors
+6
+Weapons
+2,440
+
+285
+
+

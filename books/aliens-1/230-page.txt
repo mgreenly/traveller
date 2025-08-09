@@ -1,0 +1,215 @@
+AVOUZ COURIER
+TL12
+
+TONS
+
+COST (MCR)
+
+Hull
+
+200 tons, Streamlined
+
+—
+
+12
+
+Armour
+
+Crystaliron, Armour 4
+
+10
+
+2.4
+
+M-Drive
+
+Thrust 3
+
+6
+
+12
+
+J-Drive
+
+Jump 3
+
+20
+
+30
+
+Power Plant Fusion (TL12), Power 180
+
+12
+
+12
+
+Fuel Tanks
+
+63
+
+—
+
+10
+
+1
+
+J-3, 8 weeks of operation
+
+Bridge
+Computer
+
+Computer/10 bis
+
+—
+
+0.24
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+Weapons
+
+Single Turrets (beam laser)
+x2
+
+2
+
+1.4
+
+Systems
+
+Fuel Processor (60 tons/day)
+
+3
+
+0.15
+
+Fuel Scoops
+
+—
+
+—
+
+Docking Space (30 tons)
+
+33
+
+8.25
+
+Ship’s Boat
+
+—
+
+7.272
+
+Standard x 4
+
+16
+
+2
+
+High x 1
+
+6
+
+0.8
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/3
+
+—
+
+0.3
+
+Library
+
+—
+
+—
+
+Fire Control/2
+
+—
+
+4
+
+Common
+Areas
+
+6
+
+0.6
+
+Cargo
+
+11
+
+—
+
+Staterooms
+Software
+
+CREW
+PILOT, ASTROGATOR, ENGINEER, MEDIC
+AND GUNNERS X 2
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr8209/month
+
+PURCHASE COST
+MCr98.512
+
+Power Requirements
+60
+
+40
+
+3
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+60
+
+2
+
+10
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+TOTAL: MCR 98.512
+Using a 200-ton hull, the Avouz courier
+is designed for the fast transport of
+emissaries and messages over interstellar
+distances. The courier is generally used
+by military and government organisations
+for diplomatic and intelligence purposes
+but its performance makes it attractive to
+explorers, corsairs and Travellers alike.
+
+80
+HULL POINTS
+230
+
+

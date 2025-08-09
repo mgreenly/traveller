@@ -1,0 +1,61 @@
+400
+HULL POINTS
+
+CREW
+CAPTAIN, PILOT, ASTROGATOR, PURSER,
+EXECUTIVE OFFICER, PILOTS X 3,
+ENGINEERS X 5, MAINTENANCE X 2,
+GUNNERS X 10, MARINES X 80
+
+RUNNING COSTS
+MAINTENANCE COST
+Cr38953/month
+
+Using a 1,000-ton hull, the Aositaoh-class
+cruiser is built for small-scale clan troop
+transport and combat operations. Ten triple
+turrets are installed, typically mounting
+six triple beam lasers, three triple missile
+racks and one triple sandcaster. The ship
+also carries a launch, two pinnaces, four
+ATVs and four air/rafts; the pinnaces can
+each carry two ATVs, allowing the cruiser
+to deploy a considerable fighting force
+comprising two full platoons from orbit.
+Both this ship and the Ekawsiykua-class
+escort have low cargo capacities for
+their size and are often accompanied by
+Owatarl-class tenders.
+
+PURCHASE COST
+MCr4567.48
+
+Power Requirements
+400
+
+200
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+300
+
+4
+
+JUMP DRIVE
+
+SENSORS
+
+82
+
+3
+
+WEAPONS
+
+FUEL PROCESSOR
+85
+
+

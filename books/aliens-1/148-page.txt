@@ -1,0 +1,86 @@
+C
+
+H
+
+A
+
+P
+
+T
+
+E
+
+R
+
+-
+
+N
+
+I
+
+N
+
+E
+
+VEHICLES OF THE K’KREE
+K’kree vehicles must be large enough to accommodate
+multiple K’kree, each of whom is of a considerable
+size. The smallest feasible enclosed vehicle carries
+four K’kree and any less risks panic and madness.
+Similarly, it is not possible to assign a single driver to
+a vehicle intended to carry passengers or cargo. Thus
+most vehicles are either driven by a semi-autonomous
+robotic unit similar to that used in weapons carriers or
+are owned by a family and driven directly by a family
+member. Groups of single-occupant open platforms are
+used in some areas but as a rule K’kree walk short (by
+the standards of quadruped grazers) distances or use
+large transports to move the whole family at once. Even
+splitting a family group between two or more enclosed
+vehicles in close proximity to one another can be
+distressing, so travel is usually aboard a single, opensided vehicle.
+
+Crew and Passengers
+
+K’kree vehicles must allocate five times as many Spaces
+to passengers and crew as an equivalent humanoperated vehicle would have (so, a K’kree will require
+a minimum of five Spaces on a vehicle). This includes
+supports to allow K’kree to stand in comfort and
+emergency restraints used in the event of a crash.
+
+Open Vehicles
+
+K’kree vehicles are built with partial sides and rails for
+safety, with an open top. A light covering can be drawn
+or unfolded over the top for weather protection and is
+included as standard on most vehicles.
+
+148
+
+All K’kree vehicles have the Open trait and reduce their
+Speed by one Speed Band.
+Combat vehicles often use folding panels that, when
+deployed, partially or fully seal the vehicle. This
+removes the Open trait and allows the vehicle to travel
+one Speed Band faster.
+Folding Panels cost Cr500 per point of armour carried
+by the vehicle.
+
+Controlled Pintle/Ring Mount
+
+Controlled pintle or ring mounts are unarmoured
+mountings for light weapons, either operated manually
+or from a station within the vehicle. A controlled mount
+costs Cr1500.
+
+Controlled Open Mount
+
+Controlled open mounts are essentially a turret
+mechanism without enclosing armour. A controlled
+mount can be either operated manually or from a station
+within the vehicle, and carries a slightly larger weapon
+than a small turret – up to 6 Spaces – while consuming
+1 Space inside the vehicle. A controlled mount costs
+Cr3000 for every Space of installed weaponry.
+
+

@@ -1,0 +1,147 @@
+Luggage Bot: Luggage bots are a common sight in
+almost every starport. They are essentially a suitcase
+mounted on a simple robot chassis. Sensors and basic
+programming allow the robot to identify its owner and
+obey simple tasks such as ‘follow me’, ‘stay’, ‘open’ and
+so forth. Slightly more complex commands can be given
+if the robot is loaded with site floor plans, allowing it to
+deliver itself to a room or meet its owner somewhere.
+More expensive models come with other features,
+such as additional security or an ability to pack or
+unpack themselves.
+
+Maintenance Bot: The maintenance bot is a common
+feature at many starports, although few Travellers
+ever get to see them. Operating in maintenance and
+construction bays, their programming allows them to
+diagnose and repair ships without the intervention
+of a sophont. They are able to obey a large number
+of commands, as well as act under their own limited
+direction. The maintenance bot comes installed with full
+mechanical and electronic tool kits.
+
+Robot
+
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Maintenance
+Bot
+
+20
+
+5m
+
+12
+
+Cr100000
+
+Locomotion
+
+Walker
+
+Skills
+
+Engineer (j-drive) 2, Engineer (life
+support) 2, Engineer (m-drive) 2,
+Engineer (power) 2, Mechanic 2
+
+Hits
+
+Speed
+
+TL
+
+Cost
+
+Attacks
+
+None
+
+Luggage Bot
+
+8
+
+6m
+
+8
+
+Cr2000
+
+Manipulators
+
+Locomotion
+
+Wheels
+
+1 X (STR 12 DEX 7), 3 X (STR 9
+DEX 9)
+
+Skills
+
+Profession (bellhop) 1
+
+Endurance
+
+108 hours
+
+Attacks
+
+None
+
+Traits
+
+Manipulators
+
+None
+
+Armour (+12), ATV (idle), Heightened
+Senses, IR/UV Vision
+
+Endurance
+
+72 hours
+
+Programming
+
+Advanced (INT 9)
+
+Traits
+
+Armour (+2), Small (-1)
+
+Options
+
+Programming
+
+Primitive (homing) (INT 1)
+
+Options
+
+Auditory Sensor, Storage
+Compartment (standard) x10,
+Transceiver 5 km (improved), Visual
+Spectrum Sensor, Voder Speaker,
+Wireless Data Link
+
+Auditory Sensor, Drone Interface,
+Electronics Toolkit (advanced),
+Mechanical Toolkit (advanced),
+PRIS Sensor, Starship Engineer
+Toolkit (enhanced), Transceiver
+500 km (enhanced), Vacuum
+Environment Protection, Voder
+Speaker, Wireless Data Link
+
+CSC: Geonee
+
+Robot
+
+133
+
+

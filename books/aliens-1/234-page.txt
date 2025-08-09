@@ -1,0 +1,215 @@
+AKALVO YACHT
+TL12
+Hull
+
+18
+
+Reflec
+
+—
+—
+—
+
+Crystaliron, Armour 2
+Thrust 5
+Jump 2
+Fusion (TL12), Power 225
+
+7.5
+15
+20
+15
+
+1.8
+30
+30
+15
+
+Emergency Power
+J-2, 8 weeks of operation plus
+Pinnace
+
+1.5
+64
+
+1.5
+
+300 tons, Streamlined
+Radiation Shielding
+
+Armour
+M-Drive
+J-Drive
+Power
+Plant
+Fuel Tanks
+Bridge
+Computer
+
+20
+Computer/10
+
+Sensors
+Weapons
+
+Civilian Grade
+Double Turrets (beam lasers) x 2
+Double Turret (sandcaster)
+Ammunition Sandcaster Barrel Storage (24
+barrels)
+Systems
+Fuel Processor (20 tons/day)
+Fuel Scoops
+
+—
+1
+2
+1
+2
+
+7.5
+
+3
+3
+1
+
+—
+
+1
+
+0.05
+
+—
+
+44
+
+11
+8.732
+
+—
+—
+
+1
+0.4
+
+10
+24
+24
+
+1.5
+3.2
+3
+
+—
+—
+—
+
+—
+
+36
+
+3.6
+
+8
+
+—
+
+Library
+
+MAINTENANCE COST
+Cr14449/month
+
+PURCHASE COST
+
+1.5
+0.16
+
+Docking Space (3 tons)
+Gravitic Speeder
+
+Jump Control/2
+
+RUNNING COSTS
+
+—
+
+—
+
+4
+
+CAPTAIN, PILOT, ASTROGATOR,
+ENGINEERS X 2, MEDIC, STEWARDS X 2
+
+30
+
+Docking Space (40 tons)
+Pinnace
+
+Staterooms Luxury x 1
+High x 4
+Standard x 6
+Software
+Manoeuvre/0
+
+Common
+Areas
+Cargo
+
+CREW
+
+TONS COST (MCR)
+
+MCr175.142
+
+Power Requirements
+100
+
+60
+
+1
+
+MANOEUVRE
+DRIVE
+
+BASIC SHIP
+SYSTEMS
+
+FUEL
+PROCESSORS
+
+40
+
+1
+
+20
+
+JUMP DRIVE
+
+SENSORS
+
+WEAPONS
+
+0.2
+
+—
+
+TOTAL: MCR 175.142
+
+120
+HULL POINTS
+234
+
+The Akalvo is a luxury pleasure craft – but
+most certainly built for Vargr. Built for
+speed as much as comfort, the interior is
+a riot of colour and trimmings, pitched
+perfectly to awe lesser Vargr. To the eyes of
+other races, however, it appears the height
+of vulgarity. Akalvo yachts are sold directly
+to wealthy Vargr who have made their
+fortunes in business or raiding ventures,
+although the latter have been known to
+continue their corsair life from the bridges
+of these ships.
+
+

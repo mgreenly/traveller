@@ -1,0 +1,17 @@
+3
+DECK 2
+
+1
+
+2
+
+DECK 1
+
+LEGEND
+1. Shrine
+2. Mail distribution array
+3. Bridge
+
+83
+
+

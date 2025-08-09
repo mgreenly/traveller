@@ -1,0 +1,104 @@
+MISHAPS TABLE
+1D
+
+MISHAP
+
+1
+
+You are involved in a riot, revolution, assassination or terrorist attack and suffer injury. Roll once on the Injury
+table. Gain one of Explosives 1, Gun Combat 1 or Melee 1.
+
+2
+
+An anonymous SolSec monitor transmits reports claiming your political views are out of step with the current
+zeitgeist. SolSec moves against you, ending your career.
+
+3
+
+You become disillusioned with the inability of the Solomani Party to achieve positive results and feel compelled
+to drift away from your present career. If your next career term is Drifter gain an extra roll on the assignment skill
+table of your choice.
+
+4
+
+A senior Solomani Party member who was your patron falls from favour and in the ensuing purge you go down
+with them. You may defend or denounce them. If you defended your patron, increase your Advocate skill by +1
+but lose SOC -1. If you denounce them, you are still forced out but as a reward for following the Party line, you
+also keep this term’s Benefit roll.
+
+5
+
+An intimate or friend is discovered to have secret non-Solomani blood. Due to your connection to them, you
+are tainted by this scandal, which forces you out of the Party. If you decide to remain on favourable terms with
+them despite this shocking revelation, gain them as an Ally but lose SOC -1.
+
+6
+
+You travel to the Imperium to assist the Solomani Movement in the occupied systems. Imperial authorities
+discover your activities and arrest you on suspicion of aiding terrorism. You are interrogated and imprisoned,
+then deported back to the Confederation. You must take the Prisoner career in your next term.
+
+EVENTS TABLE
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not expelled from the career.
+
+3
+
+Your connections in the Solomani Movement open up lucrative opportunities at a Party owned corporation. If
+you decide to transfer to a Citizen (corporate) or Merchant career in your next term, you automatically qualify
+and receive DM+2 on your first advancement roll.
+
+4
+
+Your accomplishments see you selected to deliver a speech at a Party Congress. Roll Advocate or Art (acting)
+7+. If successful, gain SOC +1. If unsuccessful, lose SOC -1.
+
+5
+
+You are asked to take the blame for a senior Party member’s mistakes. If you agree, suffer DM-1 to your
+next advancement roll but gain either an Ally or one extra Benefit roll. If you refuse, take DM-2 to your next
+advancement roll and gain them as a Rival.
+
+6
+
+Your faction is involved in a violent political struggle. Make an Advocate, Gun Combat, Explosives, Leadership
+or Streetwise check. If you succeed, you come out on the winning side and gain DM+2 on your next
+advancement roll. Fail and you suffer DM-2 on your next survival roll.
+
+7
+
+Life Event. Roll on the Solomani Life Events table on page 136.
+
+8
+
+You find evidence that casts doubt on a superior’s commitment to the Solomani Cause. If you expose and
+denounce them, gain DM+2 to your next advancement roll. If you suppress the evidence and support them
+anyway, they become an Ally.
+
+9
+
+You become deeply involved in the Solomani Movement’s factional politics. Gain one level in Advocate,
+Diplomacy, Persuade or Science (philosophy) but also acquire a Rival from another Party faction.
+
+10
+
+You use your standing with the Party to promote the career of an ideologically correct artist, journalist or
+performer. Receive either Arts 1 or Carouse 1 and gain a Contact in the media or entertainment industry.
+
+11
+
+You befriend a senior member of the Party hierarchy, who becomes an Ally and mentor. Either gain one level of
+Leadership or gain DM+4 to your next advancement roll thanks to their patronage.
+
+12
+
+Your efforts to advance the Solomani Cause are recognised by the Party. You are automatically promoted.
+
+131
+
+

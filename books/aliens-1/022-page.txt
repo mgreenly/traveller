@@ -1,0 +1,137 @@
+1
+
+CEREMONIAL
+
+Those who follow this career uphold the
+ancient traditions and honour of the Aslan
+race. Only Aslan of high standing are
+normally admitted to these hallowed halls.
+Qualification: Rite of Passage 10+
+DM+2 if SOC 9+
+
+CAREER PROGRESS
+Survival
+Advancement
+Corporate
+
+POET
+EDU 7+
+INT 7+
+INT 5+
+
+CLAN AGENT
+END 8+
+INT 6+
+INT 7+
+
+PRIEST
+SOC 6+
+EDU 8+
+
+ASSIGNMENTS
+MUSTERING OUT BENEFITS
+
+Choose one of the following.
+Poet: You study and compose epic
+poetry and maintain the history of your
+clan.
+Clan Agent: You enforce the will of your
+clan elders and investigated crimes.
+Priest: You honour the ancestors,
+officiate at ceremonial occasions and
+arbitrate disputes.
+Gender: Any except Poet, who must be
+male.
+
+1D
+1
+2
+3
+4
+5
+6
+7
+•
+
+CASH
+Cr5000
+Cr5000
+Cr10000
+Cr20000
+Cr20000
+Cr40000
+Cr100000
+
+BENEFITS
+1 Clan Share
+INT +1
+EDU +2
+2 Clan Shares
+Gun
+3 Clan Shares
+10 Ship Shares or 5 Clan Shares
+
+DM+1 if SOC 9+
+
+SKILLS AND TRAINING
+1D
+1
+2
+3
+4
+5
+6
+1D
+1
+2
+3
+4
+5
+6
+
+PERSONAL DEVELOPMENT
+STR +1
+DEX +1
+INT +1
+EDU +1
+SOC +1
+Independence
+SPECIALIST: POET
+Art
+Art
+Persuade
+Carouse
+Electronics
+Deception
+
+SERVICE SKILLS
+Diplomat
+Investigate
+Advocate
+Melee (natural)
+Science
+Persuade
+SPECIALIST: CLAN AGENT
+Investigate
+Gun Combat
+Streetwise
+Stealth
+Electronics
+Deception
+
+ADVANCED EDUCATION (MIN. EDU 8)
+Art
+Electronics
+Language
+Tolerance
+Admin
+Science
+SPECIALIST: PRIEST
+Admin
+Advocate
+Diplomat
+Persuade
+Tolerance
+Melee (natural)
+
+

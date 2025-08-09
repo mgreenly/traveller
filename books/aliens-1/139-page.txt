@@ -1,0 +1,106 @@
+There are exceptions, however. When a physical task
+such as driving a vehicle or fighting is carried out,
+the Referee may allow the skill of the K’kree actually
+performing the task to be used but more commonly
+warriors or workers in a family are simply treated as
+extra hands for the patriarch.
+
+•
+
+•
+
+A Patriarch will have a number of useful family members
+equal to 2D3 + his Patriarchy skill. Their roles can be
+selected as follows.
+Warriors: No more than half the entourage of a noble
+K’kree can be warriors. No more than two warriors can
+follow a Merchant caste leader and no more than one
+can be present in a Servant caste family.
+Specialists: A family may have as many specialist
+administrators, drivers, technicians and general
+functionaries as the patriarch thinks fit. If he does not
+have a relevant skill but one of his subordinates does,
+the family as a whole is assumed to have DM+2 to carry
+out the task. If there are more than one K’kree in the
+family with the same skill, each additional functionary
+adds an additional DM+1. However, if the patriarch has
+a relevant skill then it must be used even if his staff are
+better able to carry out the task.
+Workers and Servants: At least one-third of the K’kree
+in a family must be servants or workers. These do not
+supply skills but carry out many functions necessary to
+maintaining their patriarch’s status in K’kree society.
+
+FAMILY MEMBERS
+
+IN COMBAT
+
+A family’s warriors and patriarch can be treated as a
+small-unit fighting force and run independently but this is
+time consuming. It is often desirable to treat the patriarch
+and his family as a single unit, with extra abilities.
+•
+•
+
+Each warrior fighting for the patriarch is treated as
+an extra attack at the patriarch’s skill level and with
+his weapon.
+Warriors will take a bullet for their lord. When the
+patriarch takes damage, up to 15 points (after
+armour Protection has been taken into account but
+before the Big and Tough trait is applied) can be
+traded for a warrior. The warrior will be seriously
+injured, perhaps dead, and his extra attack is lost.
+Only one warrior can do this per attack.
+
+•
+
+A servant or functionary can be traded for 10
+points of damage, though a K’kree patriarch who
+hides among his servants will eventually face
+censure or ostracism.
+If a family member is injured in combat in this
+way, the patriarch makes an END check after the
+battle. If failed, the family member has been killed.
+If successful, roll 1D. On 1–4, the family member
+has had two physical characteristics reduced to 0.
+On 5–6, just one physical characteristic has been
+reduced to 0.
+Wives and children are too precious to be treated
+this way. Most patriarchs – no matter how sexist and
+condescending they may be – would die to defend
+their wives and families.
+
+For example, a minor K’kree noble has five adult males
+in his entourage, plus his wives and children. For
+colour, he decides that two of the males are his younger
+brothers, two are unrelated but sworn to his service and
+one is an orphaned young male he has been assigned to
+raise by his clanlord. As a noble he is entitled to up to
+half of his entourage as warriors and one-third have to
+be servants. Rounding these figures sensibly, the noble
+decides to have two warriors as bodyguards, two servants
+to look after his family and one expert – an administrator
+in this case – to handle his finances.
+The patriarch has no Admin skill of his own, so when he
+orders that an administrative task be accomplished, his
+expert’s DM+2 is used. The servants are directed by the
+patriarch via this functionary and can be assumed to be
+competent at combing their lord’s mane or passing his
+wine. The warriors mostly stand about looking tough and
+enjoying their status as their noble brother’s protectors.
+In combat, the patriarch and his brothers are treated
+as a single unit, which makes three attacks with the
+patriarch’s weapons each round. Attacks are directed
+at the patriarch himself but if hit he has the option of
+trading one of his bodyguards for 15 points of damage.
+This will deprive him of the warrior’s firepower in later
+rounds (and possibly of his brother on a permanent
+basis!) but it is the way of the K’kree. Warriors have a
+role to play, as do leaders. A wise leader knows what he
+can purchase with the lives of his followers and pays the
+price when necessary.
+
+139
+
+

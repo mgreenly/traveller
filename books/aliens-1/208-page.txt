@@ -1,0 +1,173 @@
+ARMOUR
+
+Personal armour is common in the Vargr Extents and
+not only worn by corsairs or members of the military.
+The high risk of attack by pirates means many traders
+and Travellers also don protection when passing through
+dangerous regions and undefended space routes.
+Vargr tend to use separate pieces of armour bought,
+stolen or scavenged to suit their needs and comfort.
+Many Vargr, especially corsairs, have a mismatch of
+armour in a variety of materials, colours and styles.
+Even when Vargr armour is purchased as a complete set,
+it is likely to comprise many individual and disparate
+pieces providing protection to different parts of the
+body. Second-hand armour is likely to be completely
+mismatched as a result of junk dealers piecing together
+various components to make a set or the original owner
+simply acquiring different pieces over time.
+
+Armour is as much an expression of a Vargr’s personality
+and achievements as it is for protection and is usually
+customised by each individual with ornamentation and
+personalised symbols. This is especially true of corsairs
+and military personnel.
+
+Armour Components
+
+A number of standard components are used by Vargr as
+building blocks for personalised armour or warrior sets
+as they are collectively known.
+
+BASE GARMENT
+
+PROTECTION
+
+TL
+
+RAD
+
+KG
+
+COST
+
+REQUIRED SKILL
+
+Standard Jacket
+Standard Coverall
+Light Armoured Jacket
+Light Armoured Coverall
+Armoured Jacket
+Armoured Coverall
+Heavy Jacket
+Heavy Coverall
+Make Fireproof
+
++0
++0
++2
++2
++4
++4
++6
++6
++4 against fire,
+lasers and energy
+only
++10 against lasers
+only
+
+6
+6
+7
+7
+9
+9
+9
+9
+7
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+0
+0
+2
+3
+4
+6
+6
+9
+—
+
+Cr25
+Cr50
+Cr100
+Cr150
+Cr200
+Cr250
+Cr300
+Cr350
++Cr100
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+10
+
+—
+
+—
+
++Cr1500
+
+None
+
+Add Reflec
+
+BASE GARMENTS
+
+It is not necessary to attach armour to a base garment
+but many Vargr do so in order to have a basic level of
+protection over the whole body or make it easy to get in
+and out of the whole suit. Base garments are made of
+flexible materials.
+The standard base garment is a coverall, usually
+decorated in patterns of the user’s choice. Camouflage
+is rare; garish designs that scream ‘here I am!’ are the
+norm. These attract as much fire as attention but are
+part of the Vargr way of life. Jacket-style base garments
+are also available, although they usually come with
+shoulder and arm pieces.
+
+208
+
+Vargr individuals wearing helmets are less able to exert
+influence and charisma due to a significant amount of
+expressions and body language being concealed under
+the armour. For this reason, helmets are less common
+than for other races, although they are required as part
+of sealed suits.
+
+TORSO ARMOUR
+
+Torso armour is generally rigid or semi-rigid. Those
+who put together their own armour sets often make
+use of standard pieces such as mesh, cloth or flak
+jackets, obtained as per the Central Supply Catalogue
+or Traveller Core Rulebook. A number of more
+characteristically Vargr items are also available.
+Shoulder Guards (Kforzonga): Traditional shoulder
+guards provide minimal protection, restricted to the
+bones and arteries running along the top of the torso.
+They protect well against downward blows and might
+stop a bullet. Some take the form of epaulettes, others
+are shaped shoulder plates that extend over the very
+top of the arm. Standard shoulder guards are of semirigid ballistic materials while heavy guards are made of
+metal/ceramic composites.
+
+

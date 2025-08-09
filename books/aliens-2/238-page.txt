@@ -1,0 +1,155 @@
+Integrated Engineering Automation: Probably the most
+common starship automation package, an Integrated
+Engineering Automation system replaces the entire
+engineering crew. Often the whole engineering area
+is ‘black boxed’ away from the part of the ship used
+by the operator. Systems are capable of limited selfmaintenance but the lack of engineers is a severe
+problem in the event of a fault or damage. An IEAS
+consumes 5% of the ship’s tonnage at a cost of MCr10
+per 100 tons of hull.
+
+Automated Mission: An Automated Mission system
+controls a single mission-related piece of equipment.
+This might be a sensor array, robotic observatory or a
+more general system such as small craft launch and
+recovery equipment. It cannot maintain or repair the
+controlled system and will not operate it as well as
+a live crew but this system does allow a lone Hiver
+to run a ship fitted with an extensive long-range
+sensor suite or a similar large and complex system. It
+consumes 1% of the ship’s tonnage at a cost of MCr1
+per 100 tons of hull.
+
+Automated Weapon: An Automated Weapon system
+controls a single battery of weapons, which can be up
+to six turrets, four barbettes or a single bay. It conducts
+related sensor tasks and fires either at selected targets
+or according to a pre-set pattern. For example, a laser
+battery can be pre-set to fire at missiles if any are
+detected and at the largest hostile vessel if no missiles
+are incoming. It consumes 1% of the ship’s tonnage at a
+cost of MCr1 per 100 tons of hull.
+
+238
+
+Package
+Non-Starship, Full
+Automation
+
+Functions
+All
+
+Tons
+8%
+
+Cost Per 100 Tons of Hull
+10
+
+Starship, Full
+Automation
+
+All
+
+12%
+
+12.5
+
+Non-Starship Critical
+Systems Automation
+
+Piloting, astrogation, communications, life
+support, manoeuvre, power plant
+
+8%
+
+9
+
+Starship Critical
+Systems Automation
+
+Piloting, astrogation, communications, life
+support, manoeuvre, power plant, jump drive
+
+10%
+
+10
+
+General Systems
+Automation
+
+Communications, life support, general
+internal function
+
+1%
+
+2
+
+Automated Piloting
+
+Piloting and related sensor functions
+
+1%
+
+5
+
+Automated Piloting and
+Astrogation
+
+Piloting and related sensor functions,
+astrogation and related sensor functions
+
+1%
+
+8
+
+Automated Power Plant
+
+Power plant operations
+
+2.5%
+
+5
+
+Automated Manoeuvre
+Drive
+
+Manoeuvre drive operations
+
+2%
+
+5
+
+Automated Jump Drive
+
+Jump drive operations
+
+2%
+
+8
+
+Integrated Engineering
+Automation
+
+All drive functions
+
+5%
+
+10
+
+Automated Weapon
+
+One bay or battery
+
+1%
+
+1
+
+Automated Mission
+
+One major mission-related system
+
+1%
+
+1
+
+

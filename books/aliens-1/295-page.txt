@@ -1,0 +1,59 @@
+2
+
+7
+1
+
+8
+
+3
+5
+
+6
+
+4
+
+DECK 1
+LEGEND
+1. Bridge
+2. Sensors
+3. Power plant
+4. M-drive
+5. J-drive
+6. Probe drones
+7. Life Scanner
+8. Signal processing
+
+ISOMETRIC DECKPLAN KEY
+BUNK
+
+HATCH
+
+FUEL PROCESSOR
+
+FRESHER
+
+IRIS VALVE (WALL)
+
+POWER PLANT
+
+WORKSTATION
+
+IRIS VALVE
+(FOOR/CEILING)
+
+JUMP DRIVE
+
+G-CHAIR
+
+INTERNAL WALL
+
+MANOEUVRE DRIVE
+
+LOW BERTH
+
+HULL
+
+CRATE
+295
+
+

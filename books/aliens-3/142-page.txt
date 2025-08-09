@@ -1,0 +1,30 @@
+1. Base Module
+2. Fuel Processing
+3. Cargo Bay
+4. Vault
+5. Bridge
+6. Workshop
+7. Laboratory
+8. Docking Space
+
+1
+
+2
+
+5
+
+3
+
+4
+
+6
+
+7
+8
+
+DECK 2
+DECK 1
+
+143
+
+

@@ -1,0 +1,38 @@
+11
+
+11
+5
+
+6
+
+12
+4
+
+1
+7
+
+10
+
+8
+9
+1
+
+DECK 2
+
+7
+
+To D e c k 1
+
+LEGEND
+5. Bridge
+6. Sensors
+7. Cargo modules
+8. Power plant
+9. J-drive
+10. M-drive
+1 1 . Tr i p l e t u r r e t s
+12. Airlock
+
+111
+
+

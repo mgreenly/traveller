@@ -1,0 +1,35 @@
+Beseke Class
+Patrol Corvette
+
+DECK 2: FUEL DECK
+
+1
+
+1. Bridge
+2. Barracks
+3. Armoury
+4. Brig
+5. Workshop
+6. Mud Bath
+7. Cargo Bay
+8. Fuel Processing
+9. Docking Space
+
+2
+
+3
+4
+5
+
+6
+7
+
+8
+
+9
+
+DECK 1
+
+275
+
+

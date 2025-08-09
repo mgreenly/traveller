@@ -1,0 +1,185 @@
+UFT LIFEBOAT
+Found on all manned Za’tachk spacecraft, the Uft
+lifeboat is built on a five-ton frame and is designed
+as a last resort to preserve the lives of up to nine
+passengers and crew on distressed spacecraft.
+The Uft will automatically transmit a distress signal
+on all frequencies on launch unless comms are
+deactivated first. Enough fuel and life support is
+provided for three weeks. The Uft is also equipped
+
+with a virtual pilot, negating the need for any
+survivors to be skilled in piloting. Despite being
+designed to save lives, the Uft is an unpopular
+option for most Za’tachk due to its light armour but
+when faced with the certainty of death on the one
+hand and the possibility of life on the other, few
+refuse to make use of this small craft.
+
+TL12
+
+Cost (MCr)
+
+5 tons, Streamlined
+
+—
+
+0.3
+
+Radiation Shielding
+
+—
+
+0.125
+
+Armour
+
+Crystaliron, Armour: 1
+
+0.25
+
+0.05
+
+M-Drive
+
+Thrust 1
+
+0.05
+
+0.1
+
+Fusion (TL12), Power 1.5
+
+Running Costs
+
+Power Plant
+
+0.1
+
+0.1
+
+MAINTENANCE COST
+
+Fuel Tanks
+
+3 weeks of operation
+
+0.1
+
+—
+
+Cockpit
+
+1.5
+
+Cr146/month
+
+Bridge
+
+0.01
+
+Computer/5fib
+
+—
+
+0.045
+
+PURCHASE COST
+
+Computer
+Sensors
+
+Basic
+
+—
+
+—
+
+Staterooms
+
+Acceleration Benches
+
+2
+
+0.02
+
+Software
+
+Intellect
+
+—
+
+—
+
+Manoeuvre
+
+—
+
+—
+
+Virtual Pilot/0
+
+—
+
+1
+
+Library
+
+—
+
+—
+
+0.84
+
+—
+
+Hull
+
+Cargo
+Total: MCr1.75
+
+LEGEND
+1.
+2.
+3.
+4.
+5.
+
+Manoeuvre Drive
+Power Plant
+Cockpit
+Acceleration Benches
+Cargo Hold
+
+2
+1
+
+5
+
+4
+
+None
+
+Hull: 2
+
+MCr1.75
+
+Power Requirements
+Basic Ship Systems
+1
+Manoeuvre Drive
+0.5
+Sensors
+0
+
+1 square = 0.5 Ton
+
+124
+
+Crew
+
+Tons
+
+3
+
+
