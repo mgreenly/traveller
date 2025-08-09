@@ -40,7 +40,40 @@
 - `books/core-rules-2022/`: Primary source for all game rules, character creation, equipment, and gameplay procedures. **ALWAYS CHECK HERE FIRST for any rules questions.**
 - `books/behind-the-claw/`: Primary source for sector lore, history, politics, and detailed system information.
 - `books/starship-operators-manual/`: Comprehensive guide to starship systems, operations, maintenance, crew roles, and detailed ship walkthroughs.
-- **Rule Verification Process:** When answering rules questions:
-  1. Search the relevant book files for the specific rule
-  2. Quote or reference the exact page number when possible
-  3. Do NOT rely on memory of rules from other editions (Classic, MegaTraveller, T4, T5, Mongoose 1st edition, etc.)
+- `books/aliens-1/`: Major alien races (Aslan, K'kree, Vargr, Zhodani) with complete character generation and cultural details.
+- `books/aliens-2/`: Solomani, Droyne, and Hivers with their histories, technologies, and governmental systems.
+- `books/aliens-3/`: Minor races (Darrians, Geonee, Dolphins, Orca, Bwaps) with specialized backgrounds.
+- `books/aliens-4/`: Additional species (Suerrat, Za'tachk, Gurvin, Tezcat) and their unique cultures.
+
+## 6. MANDATORY BOOK ACCESS PROCEDURE
+**CRITICAL:** Before accessing any book content, you MUST follow this procedure to minimize context usage:
+
+### Step 1: Always Read README.md First
+- **For ANY book-related query, FIRST read the relevant `books/[book-name]/README.md` file**
+- These README files contain comprehensive tables of contents with chapter summaries
+- Use the README to identify the exact chapter and page range containing the information you need
+- **DO NOT search through individual page files until you have consulted the README**
+
+### Step 2: Targeted Page Access
+- Only after consulting the README, access specific page files in the identified range
+- Use the README's chapter summaries to verify you're looking in the right section
+- Reference the "Quick Reference" sections in README files for commonly needed information
+
+### Step 3: Rule Verification Process
+When answering rules questions:
+1. **FIRST:** Read the appropriate `books/[book-name]/README.md` to locate the relevant chapter
+2. **SECOND:** Access only the specific page range identified in the README
+3. **THIRD:** Quote or reference the exact page number when possible
+4. **DO NOT:** Rely on memory of rules from other editions (Classic, MegaTraveller, T4, T5, Mongoose 1st edition, etc.)
+5. **DO NOT:** Search through page files randomly without first consulting the README
+
+### Available Book README Files:
+- `books/core-rules-2022/README.md` - Core game mechanics and procedures
+- `books/behind-the-claw/README.md` - Spinward Marches sector guide  
+- `books/starship-operators-manual/README.md` - Detailed ship operations
+- `books/aliens-1/README.md` - Aslan, K'kree, Vargr, Zhodani
+- `books/aliens-2/README.md` - Solomani, Droyne, Hivers
+- `books/aliens-3/README.md` - Darrians, Geonee, Dolphins, Orca, Bwaps
+- `books/aliens-4/README.md` - Suerrat, Za'tachk, Gurvin, Tezcat
+
+**VIOLATION WARNING:** Accessing book page files without first reading the appropriate README will result in inefficient context usage and potential rule lookup errors.
