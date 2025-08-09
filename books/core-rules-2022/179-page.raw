@@ -1,0 +1,211 @@
+STEP 2: INSTALL DRIVES
+
+STEP 3: INSTALL POWER PLANT
+
+To fit a manoeuvre drive, consult the Thrust Potential
+table and decide what Thrust score you want your ship
+to have. The figure below that Thrust score shows
+what percentage of the ship’s hull the manoeuvre
+drive requires.
+
+The Power Plant table illustrates the types of power
+plant available, how much Power they generate and
+their cost.
+
+The heart of a spacecraft is the power plant. Typically
+fusion-based, the power plant meets all the energy
+requirements for every system on the ship, from the
+massive amounts required for jump and manoeuvre
+drives to the expresso machine in the captain’s
+stateroom. Ships are typically built with power plants
+large enough to supply energy to all systems on a ship
+without interruption, although some cheaper vessels
+may require weapons and other systems to be off-lined
+while making a jump, for example.
+
+Once you have your basic hull complete, it is time to
+start filling it! The first items to add are the engines
+so the ship is able to move through space. These are
+divided into manoeuvre and jump drives. Manoeuvre
+drives use gravitic technology that pushes the ship
+through space – it is these that give a ship its Thrust
+score. Jump drives are special systems that allow a ship
+to travel faster-than-light across interstellar distances.
+
+Power Plant
+
+Manoeuvre drives are limited by TL, as shown on the
+table. You cannot select a manoeuvre or reaction drive
+with a higher TL than the shipyard that is building it. So,
+for example, a TL9 shipyard can only install manoeuvre
+drives that are a maximum of Thrust 1.
+Manoeuvre drives cost MCr2 per ton. Reaction drives
+cost MCr0.2 per ton.
+
+Type
+
+Power per Ton
+
+Cost per Ton
+
+Fusion (TL8)
+
+10
+
+MCr0.5
+
+Fusion (TL12)
+
+15
+
+MCr1
+
+Fusion (TL15)
+
+20
+
+MCr2
+
+POWER REQUIREMENTS
+
+Jump drives follow a very similar pattern. Select the
+jump score you wish your ship to have and use the
+Jump Potential table to find the percentage of the ship’s
+hull that the jump drive will consume, then add 5 tons.
+
+There are three main requirements a power plant must
+meet in terms of Power needed by a ship.
+Basic Ship Systems: This includes everything a ship
+needs for day-to-day operations, including artificial
+gravity, heating, lighting and life support. The amount of
+Power needed for basic ship systems is equal to 20%
+of the total tonnage of the hull.
+
+A jump drive must be a minimum of 10 tons.
+
+Manoeuvre Drive: In order to use the manoeuvre
+drive, the ship requires an amount of Power equal
+to 10% of the hull’s total tonnage multiplied by the
+maximum Thrust the drive is capable of.
+
+Jump drives cost MCr1.5 per ton.
+
+Jump Drive: In order to use the jump drive, the ship
+requires an amount of Power equal to 10% of the hull’s
+total tonnage multiplied by the maximum jump number
+the drive is capable of.
+
+Thrust Potential
+
+Manoeuvre Drive Rating
+% of Hull
+Manoeuvre TL
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1%
+
+2%
+
+3%
+
+4%
+
+5%
+
+6%
+
+7%
+
+8%
+
+9%
+
+9
+
+10
+
+10
+
+11
+
+11
+
+12
+
+12
+
+13
+
+13
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+2.5%
+
+5%
+
+7.5%
+
+10%
+
+12.5%
+
+15%
+
+9
+
+11
+
+12
+
+13
+
+14
+
+15
+
+Jump Potential
+Rating
+% of Hull
+Jump TL
+
+
+spacecraft construction
+
+As with manoeuvre drives, jump drives are also
+limited by TL, as shown on the Jump Potential table.
+You cannot select a jump drive with a higher TL than
+the shipyard that is building it. So, for example, a
+TL12 shipyard can only install jump drives that are a
+maximum of jump-3.
+
+179
+
+

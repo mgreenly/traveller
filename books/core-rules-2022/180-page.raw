@@ -1,0 +1,134 @@
+T
+
+It is considered good practice to ensure there is
+enough Power available to use the basic ships
+systems and the manoeuvre drive simultaneously
+– being able to use the jump drive at the same time
+without taking power from other systems is considered
+a good advantage. You should also note that certain
+weapons and types of equipment require additional
+Power, as noted in their descriptions.
+
+STEP 4: INSTALL FUEL TANKS
+
+All ships require fuel to function and the total fuel
+tankage for a ship must be indicated in the design
+plans. There is no cost associated with space allocated
+to fuel tanks but their capacity will influence how often
+the ship must refuel.
+
+JUMP DRIVES
+
+The fuel tankage needed for a jump drive is related to the
+size of the ship and the length of the jump, as follows:
+10% of the total tonnage of the ship, multiplied by the
+maximum jump score of the drive.
+The result of this is the number of tons that needs to be
+dedicated to jump fuel.
+
+POWER PLANTS
+
+spacecraft construction
+
+Power plants require fuel tankage equal to 10% of their
+size (rounding up, minimum one ton). This provides
+enough fuel for the power plant for four weeks. This can
+be extended further by increasing the fuel tankage for
+the power plant (so, doubling it will provide enough fuel
+for eight weeks and so on).
+
+180
+
+STEP 5: INSTALL BRIDGE
+
+All ships must have a bridge containing basic controls,
+communications equipment, avionics, scanners,
+detectors, sensors and other equipment for proper
+operation of the ship. The size of the bridge varies
+depending on the size of the ship and can range from a
+massive deck with multiple crew positions on a capital
+ship to a snug single-seat cockpit in a fighter.
+The size of bridge required and its cost are shown on
+the Bridges table.
+
+
+R
+
+A
+
+V
+
+Bridges
+
+E
+
+L
+
+L
+
+Size of Ship
+
+Size of Bridge
+
+50 tons or less
+
+3 tons
+
+51–99 tons
+
+6 tons
+
+100–200 tons
+
+10 tons
+
+201–1,000 tons
+
+20 tons
+
+1,001–2,000 tons
+
+40 tons
+
+2,001 tons or more
+
+60 tons
+
+E
+
+The cost of any bridge is MCr0.5 per 100 tons (or part
+of) of the ship it is installed within.
+
+COCKPITS
+
+Instead of a bridge, ships of 50 tons or less may install
+a cockpit. This is a self-contained, sealed area that
+contains a single seat and all controls necessary for the
+operation of the ship. Cockpits are typically entered via
+an external hatch or canopy.
+A cockpit consumes 1.5 ton of space and costs Cr10000.
+A dual cockpit provides space for an additional crew
+member, such as a sensor operator or dedicated gunner.
+This consumes 2.5 tons of space and costs Cr15000.
+A cockpit is not designed for long term use and only
+has life support for 24 hours. However, pilots will want
+to leave the cockpit long before then…
+
+STEP 6: INSTALL COMPUTER
+
+Every ship needs a central computer, usually installed
+near the bridge. The computer is the heart of the ship,
+controlling all functions from life support to the complex
+calculations needed to perform a jump.
+Computers are identified by their model number and
+the Computers table indicates their price, capacity
+and Tech Level. In general, larger and more powerful
+computers are advantageous in combat. The
+computers installed in a ship work just like personal
+computers (see page 110) but are considerably
+more powerful because the software needed for ship
+operations requires a great deal of processing power.
+
+R
+
+

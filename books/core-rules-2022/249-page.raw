@@ -1,0 +1,136 @@
+generated using 2D each, with DMs applied based
+upon the results of other codes. These codes establish
+the basic identity of a world, as shown in Reading
+World Profiles. Additional information can be created
+and should be, to more fully describe a world.
+
+CHARTED SPACE: ROUTES AND JUMPS
+In the Charted Space universe, communication
+and trade routes are classified by the type of jump
+drive necessary to travel them. This is simply
+because of refuelling issues – few starships carry
+enough fuel to make multiple jumps in succession,
+so they must make sure to jump only to systems
+where they can refuel; either to a starport or a
+system with a gas giant or water-bearing worlds
+where unrefined fuel can be skimmed.
+
+When creating worlds, a subsector table containing
+world name, location, profiles and other basic data
+should be compiled. This should be available to
+Travellers who journey through the subsector and
+is assumed to be routinely available information. In
+addition, the referee should create other information
+that may be pertinent. This may include details of
+other planets in the star system, radiation emissions
+from the star, types of terrain present on the planetary
+surface, unique encounter tables, data on flora
+and fauna, industrial or agricultural capacity, social
+structure and government, and possibly actual maps
+of the planetary surface.
+
+A jump-1 route has a starport or gas giant in every
+hex, a jump-2 route has at least one one-hex ‘gap’
+between refuelling points (either an empty hex
+or one without a starport or gas giant), while a
+jump-3 route has at least one two-hex gap and so
+on. In this way, a ship’s captain will know that any
+route classified at less than or equal to their ship’s
+jump capability can be travelled with no risk of
+becoming stranded in deep space.
+
+Creating an entire universe is a fun process and can be
+as detailed as you like!
+
+SIZE
+
+Size
+Size
+
+Diameter
+
+Intelligent species (sophonts) are unlikely to evolve
+naturally on worlds smaller than Size 4 or 5. Larger
+planets tend to imply larger populations, as there is
+more room for expansion.
+
+1
+2
+
+1,600km
+3,200km
+
+3
+
+4,800km
+
+4
+5
+6
+7
+8
+9
+10 (A)
+
+6,400km
+8,000km
+9,600km
+11,200km
+12,800km
+14,400km
+16,000km
+
+0
+
+Less than
+1000km
+
+Example
+
+Asteroid,
+orbital
+complex
+Triton
+Luna,
+Europa
+Mercury,
+Ganymede
+Mars
+
+Earth
+
+Surface
+Gravity (Gs)
+Negligible
+0.05
+0.15
+0.25
+0.35
+0.45
+0.7
+0.9
+1.0
+1.25
+1.4
+
+Worlds of Size 1 or less are asteroids, planetoids,
+orbital complexes, space stations and other small
+satellites, and much too small to retain a breathable
+atmosphere. They are uninhabitable by most forms of
+life without technological support.
+
+
+universe creation
+
+The Size code for worlds ranges from 0 to 10 and is
+determined by rolling 2D-2. Size measures a world’s
+diameter in thousands of kilometres and the bigger
+a planet, the higher its gravity. The values for gravity
+in the Size table assume that the world has a density
+similar to that of Earth. Worlds like gas giants have
+a lower gravity than their size would indicate, while
+extremely dense worlds would have a higher gravity.
+
+249
+
+

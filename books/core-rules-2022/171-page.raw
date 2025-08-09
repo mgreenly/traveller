@@ -1,0 +1,119 @@
+REACTIONS
+
+Just as in other forms of combat, those on board
+a spacecraft can perform reactions in response to
+the enemy they are fighting. Reactions can only be
+performed by Travellers assigned to specific duties, as
+described below.
+
+EVASIVE ACTION (PILOT)
+
+The pilot of a spacecraft may dodge incoming attacks,
+so long as the spacecraft has unspent Thrust after
+movement and combat manoeuvring.
+Each point of unspent Thrust will allow the spacecraft
+to attempt to dodge one attack. The attack suffers a
+negative DM equal to the pilot’s skill.
+
+POINT DEFENCE (GUNNER)
+
+Using a turret-mounted laser (beam or pulse), a gunner
+can destroy incoming missiles. Note that a weapon
+used for point defence cannot be used to make attacks
+in the same combat round and vice versa. Point
+Defence may only be performed against missile salvos
+(see page 172) as they are about to make their attack
+roll against a target – missiles are too small and too
+fast to be targeted at greater ranges. A gunner may
+only attempt Point Defence once every round.
+The gunner must succeed at a Gunner (turret) check
+against any missile salvo that is about to make its
+attack roll against their spacecraft. The Effect of the
+check will remove that many missiles from the salvo. A
+turret equipped with two lasers provides DM+1 to this
+check, while a turret equipped with three lasers will
+provide DM+2
+
+DISPERSE SAND (GUNNER)
+
+Using a turret-mounted sandcaster, a gunner can
+attempt to block laser attacks. The gunner must succeed
+at a Gunner (turret) check against a laser weapon and,
+if successful, will add 1D plus the Effect of the check to
+the ship’s armour against that laser attack only. Each
+Disperse Sand reaction uses one canister of sand.
+Sand may also be directed against incoming boarding
+parties. If the Gunner (turret) check is successful, each
+target in the boarding party suffers 8D point of damage
+at Ground scale (so do not multiply it).
+
+
+Once all ships have resolved their attacks, their crew
+can perform one action each in the Actions Step. This is
+done in Initiative order and the actions a crewman can
+perform are determined by the duty they are assigned to.
+
+IMPROVE INITIATIVE (CAPTAIN)
+
+The captain of the spacecraft may perform a
+Leadership check. The Effect of this check (even if it is
+negative!) is applied to the Initiative of the spacecraft
+for the next round only.
+
+JUMP (ENGINEER)
+
+See Jump Travel on page 157. Jumping in combat
+is the same as jumping in normal conditions but the
+astrogation calculations have to be done in a hurry,
+raising the difficulty one level on both the Astrogation
+and Engineer (j-drive) checks to bring the time down to
+1D minutes (within one combat round).
+
+OFFLINE SYSTEM (ENGINEER)
+
+Specific systems and weapons on board the ship can
+be powered down to reduce the energy requirement
+from the power plant, allowing Power to be used for
+other systems. A successful Engineer (power) check (1
+round, EDU) will allow the engineer to shut down any
+number of systems, freeing up Power for subsequent
+rounds. It requires another round to bring any of these
+systems back online.
+
+OVERLOAD DRIVE (ENGINEER)
+
+By overloading the manoeuvre drive, the engineer
+can lend the ship extra speed and manoeuvrability. A
+successful Difficult (10+) Engineer (m-drive) check (1
+round, INT) will increase the ship’s Thrust by +1 during
+the next round. If the check fails with an Effect of –6
+or less, the manoeuvre drive suffers a critical hit with
+Severity 1, as detailed on page 168. This check suffers
+a cumulative DM–2 each time it is attempted after
+the first. This penalty can be removed by performing
+maintenance on the drive, a procedure that requires
+Engineer (m-drive) and 1D hours.
+
+OVERLOAD PLANT (ENGINEER)
+
+A favourite of engineers on action vids, the power plant
+can be overstressed on a temporary basis to provide
+the ship with more Power. A successful Difficult (10+)
+Engineer (power) check (1 round, INT) will increase the
+ship’s current Power by +10% during the next round. If
+the check fails with an Effect of –6 or less, the power
+plant suffers a critical hit with Severity 1, as detailed
+on page 168. This check suffers a cumulative DM–2
+
+space combat
+
+While cheap and versatile, laser weapons are easily
+foiled by dispersed particles or sand as it is often
+called. Sandcasters are designed to create temporary
+defences against incoming laser attacks.
+
+ACTIONS STEP
+
+171
+
+

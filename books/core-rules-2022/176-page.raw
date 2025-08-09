@@ -1,0 +1,136 @@
+SPACECRAFT CONSTRUCTION
+The spacecraft construction system detailed in this
+chapter is your gateway to create your own ships or
+reverse engineer existing designs, allowing you to
+populate the spacelanes of your universe with unique
+craft. These rules will allow you to create the most
+common sorts of ships likely to appear in a campaign
+but if you want to try your hand at much larger or more
+specialised vessels, consult High Guard.
+Throughout the design process, you will keep track of
+two key numbers – the total tonnage of the ship (and
+how much space each added component consumes)
+and the total cost. The mathematics required to create
+a ship are not complex but you may find it handy to
+have a calculator close by!
+
+CONSTRUCTION TIMES
+
+Construction times vary wildly, depending on the size
+and complexity of the spacecraft and the capabilities of
+the shipyard. On average, assume that it takes one day
+per million Credits to build a spacecraft at an average
+commercial shipyard.
+
+STEP 1: CREATE A HULL
+
+The first step in designing a ship is to build its hull – this
+is the body of the ship, its fuselage.
+Decide on the total tonnage of the ship. This will affect
+the performance of the ship and, ultimately, limit what it
+can carry and achieve.
+A basic hull costs Cr50000 per ton. The ship will have 1
+Hull point for every full 2.5 tons of hull.
+
+HULL CONFIGURATION
+
+The configuration of a hull dictates its shape which, in
+turn, affects the capability of the ship. Some ships may
+be capable of entering atmospheres, for example, while
+others may be destroyed if they try.
+
+Hull Armour
+
+176
+
+The hull configuration chosen for a ship can often affect
+its cost as more complex engineering factors must be
+resolved before it can be built, as shown on the Hull
+Configuration table. Once chosen for a ship, the hull
+configuration can never be changed – it is not possible
+to retrofit a new hull configuration.
+
+Hull Configuration
+
+Hull Configuration Streamlined? Hull Points Cost
+Standard
+
+Partial
+
+—
+
+—
+
+Streamlined
+
+Yes
+
+—
+
++20%
+
+Dispersed
+Structure
+
+No
+
+-10%
+
+-50%
+
+Streamlined hulls include hulls that are needles,
+wedges, cones and cylinders in shape. They are
+designed to enter planetary atmospheres and function
+in a similar fashion to conventional aircraft.
+Starting at TL9, all hulls are self-sealing. A self-sealing
+hull automatically repairs minor breaches such as
+micrometeoroid impacts and prevents hull hits causing
+explosive decompression.
+
+INSTALL ARMOUR
+
+All hulls provide some protection from celestial hazards
+but it is possible to add heavier armour for better defence.
+All hulls start with armour Protection +0, although
+this can be improved upon. Dispersed structure ships
+cannot be given increased armour.
+The Hull Armour table shows how much of the hull’s
+tonnage is consumed per point of Protection added,
+along with its costs. A minimum TL is required for each
+type of armour and there is a maximum amount that
+can be attached to a hull – this includes any armour the
+ship had prior to modification.
+
+Armour
+
+TL
+
+Tonnage Consumed
+
+Cost (as percentage of hull cost)
+
+Max. Protection
+
+Crystaliron
+
+10
+
+1.25%
+
+5%
+
+TL or 13, (whichever is less)
+
+Bonded
+Superdense
+
+14
+
+0.80%
+
+8%
+
+TL
+
+
+
