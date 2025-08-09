@@ -35,3 +35,11 @@ The Regina Highport is a marvel of engineering, a city-sized ring station gleami
 *   **Mega-Corporations:** Giants like SuSAG and Makhidkarun have massive corporate campuses here, wielding immense economic and political power.
 *   **The University of Regina:** A prestigious institution known for its research into the Ancients. Its archaeological department often competes with corporate interests for access to newly discovered sites.
 *   **Underworld Syndicates:** Beneath the gleaming surface, powerful criminal organizations control smuggling, illegal tech, and information brokering in the downports.
+
+---
+### Starship Operations
+
+**Berthing Fees:** Class A Starport - 1D × Cr1000 per week
+**Fuel:** Refined fuel available at Cr500 per ton
+**Maintenance:** Full shipyard facilities available
+**Repairs:** Complete repair and overhaul services available

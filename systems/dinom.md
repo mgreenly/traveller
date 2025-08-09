@@ -34,3 +34,11 @@ The downport is a small cluster of domes and landing pads carved into the rock n
 *   **The Dinom Mining Corporation (DMC):** The de facto government of the world. The DMC owns the mines, the starport, and the habitat domes.
 *   **The Workers' Union:** A powerful and often militant union that represents the miners. They are in a constant state of negotiation and conflict with the DMC over pay and safety conditions.
 *   **Independent Prospectors:** A small, rugged community of independents who refuse to work for the DMC. They operate on the fringes, searching for the one big score that will let them leave this rock forever.
+
+---
+### Starship Operations
+
+**Berthing Fees:** Class D Starport - 1D × Cr10 per week
+**Fuel:** Unrefined fuel only at Cr100 per ton (no refining facilities)
+**Maintenance:** Very limited maintenance; basic parts only
+**Repairs:** Emergency repairs only; no major repair facilities

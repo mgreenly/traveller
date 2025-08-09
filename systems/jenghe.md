@@ -35,3 +35,11 @@ The orbital starport is a functional, no-frills station. After docking, traveler
 *   **Regina Colonial Authority:** The official government, appointed by and loyal to the bureaucracy on [Regina](./regina.md). They are often seen as outsiders by the local population.
 *   **Agri-Corporations:** A handful of powerful corporations control the vast hydroponic farms and food processing plants that are the backbone of Jenghe's economy.
 *   **The Settlers' Alliance:** A political movement representing the interests of the original colonists and their descendants. They advocate for greater autonomy from [Regina](./regina.md) and often clash with the Colonial Authority.
+
+---
+### Starship Operations
+
+**Berthing Fees:** Class C Starport - 1D × Cr100 per week
+**Fuel:** Unrefined fuel available at Cr100 per ton; refined fuel at Cr500 per ton
+**Maintenance:** Basic maintenance facilities available
+**Repairs:** Minor repairs only; major work requires shipyard facilities

@@ -31,3 +31,11 @@ In contrast to its neighbor, the Dinomn system is much more welcoming. The view 
 *   **The Imperial Scout Service:** The most powerful and respected faction in the system. They operate the scout base in orbit of Chronos and use Dinomn as a key supply and leave port.
 *   **The Ruling Families:** The "Self-Perpetuating Oligarchy" is composed of a few powerful families who control the planet's primary industries and government.
 *   **The Chronos Tourist Board:** A civilian agency that promotes tourism to the rings of Chronos. They often find themselves at odds with the secrecy and strict regulations of the Scout Service.
+
+---
+### Starship Operations
+
+**Berthing Fees:** Class B Starport - 1D × Cr500 per week
+**Fuel:** Refined fuel available at Cr500 per ton
+**Maintenance:** Good maintenance facilities available
+**Repairs:** Most repairs available; major overhauls possible

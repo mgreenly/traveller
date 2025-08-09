@@ -32,3 +32,11 @@ The downport on the surface is a sprawling complex of gleaming white administrat
 *   **Imperial Administrative Service (IAS):** The dominant force on K'Kirka. These are the bureaucrats who run the subsector, from processing starship registrations to levying taxes. They are professional, by-the-book, and not susceptible to bribes.
 *   **The Advocates' Guild:** A powerful and expensive association of lawyers and legal experts who specialize in navigating the labyrinthine Imperial bureaucracy. For any complex legal matter, such as a high-value salvage claim, hiring a guild advocate is almost a necessity.
 *   **The Subsector Archives:** A massive, heavily secured data repository that contains centuries of Imperial records for the entire subsector. It is a potential source of information for future adventures, holding everything from corporate charters and colonial histories to classified military reports. Access is heavily restricted.
+
+---
+### Starship Operations
+
+**Berthing Fees:** Class B Starport - 1D × Cr500 per week
+**Fuel:** Refined fuel available at Cr500 per ton
+**Maintenance:** Good maintenance facilities available
+**Repairs:** Most repairs available; major overhauls possible

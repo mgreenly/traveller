@@ -34,3 +34,11 @@ The downport on the surface is a jarring experience, consisting of a collection 
 *   **The Wypoc Directorate:** The democratically elected government that rules the system. They are responsible for the unusually high law level, which they see as necessary to maintain order on the frontier.
 *   **Imperial Customs and Excise:** Due to the high law level, the Imperial customs office has a much larger and more powerful presence here than in other frontier systems. They are meticulous and not open to bribery.
 *   **The Free Prospectors' Guild:** A loose affiliation of miners and explorers who resent the Directorate's tight control. They are constantly pushing the boundaries of the law in their search for new resources.
+
+---
+### Starship Operations
+
+**Berthing Fees:** Class E Starport - Free
+**Fuel:** Unrefined fuel only at Cr100 per ton (no refining facilities)
+**Maintenance:** No maintenance facilities; crew must perform own maintenance
+**Repairs:** No repair facilities; emergency field repairs only

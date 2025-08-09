@@ -39,3 +39,12 @@ The downport is a chaotic, sprawling mess of landing pads, temporary structures,
 *   **The Smelters' Union:** A powerful workers' collective that controls the vast industrial zones. They are known for their brutal enforcement of their own laws within their territory.
 *   **The Free-Traders' Alliance:** A loose coalition of independent captains, brokers, and merchants who try to maintain a semblance of order in the chaotic markets. They are a good source of information, for a price.
 *   **Various Warlords:** Numerous smaller, heavily armed gangs who control specific districts or even single city blocks through violence and intimidation.
+
+---
+### Starship Operations
+
+**Berthing Fees:** Class D Starport - 1D × Cr10 per week (plus "protection fees" and bribes)
+**Fuel:** Unrefined fuel only at Cr100 per ton (no refining facilities due to infrastructure collapse)
+**Maintenance:** Very limited maintenance; basic parts only if available
+**Repairs:** Emergency repairs only; no major repair facilities
+**WARNING:** Extremely dangerous conditions. Armed escorts recommended. Expect extortion, theft, and violence.

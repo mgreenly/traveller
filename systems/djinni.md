@@ -28,3 +28,12 @@ The Djinni system is a silent, dangerous place. An Imperial Navy patrol vessel, 
 *   **The Imperial Navy:** The only official faction in the system. They enforce the quarantine without exception and will destroy any unauthorized vessel.
 *   **Illegal Research Teams:** Rumor has it that corporate or academic teams sometimes try to sneak into the system to capture or study the native life form, though few are ever heard from again.
 *   **Salvage Crews:** The system is a graveyard of ships that have fallen victim to the native life or the Navy. This attracts bold and often ruthless salvage crews willing to risk the quarantine for a big score.
+
+---
+### Starship Operations
+
+**Berthing Fees:** No Starport (Class X) - **RED ZONE - INTERDICTED**
+**Fuel:** No facilities - fuel must be skimmed from gas giant at extreme risk
+**Maintenance:** No facilities available
+**Repairs:** No facilities available
+**WARNING:** Unauthorized entry is prohibited by Imperial decree. Imperial Navy patrol vessels will intercept and potentially destroy trespassers.
