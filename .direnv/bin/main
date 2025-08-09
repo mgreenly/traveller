@@ -1,16 +1,16 @@
 #!/bin/bash
 # Check that a commit message was provided
 if [ -z "$1" ]; then
-    echo "Error: gmain requires a commit message"
-    echo "Usage: gmain Your commit message here"
+    echo "Error: main requires a commit message"
+    echo "Usage: main Your commit message here"
     exit 1
 fi
 
 # Concatenate all arguments into a single commit message
 commit_message="$*"
 
-# First run gwip to ensure all changes are committed to wip branch
-gwip
+# First run wip to ensure all changes are committed to wip branch
+wip
 
 # Switch to main branch
 git checkout main
