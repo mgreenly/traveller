@@ -5,6 +5,7 @@ This directory contains essential gameplay aids, reference tables, and detailed 
 ## Table of Contents
 
 ### Rules and Explanations
+- [Starship Expenses](./expenses.md) - Complete breakdown of monthly starship operating costs
 - [Law Levels Explained](./law-levels.md) - Detailed explanation of law levels and their effects on gameplay
 - [Red Systems (Red Zones)](./red-system.md) - Rules and implications of Red Zone travel restrictions
 
