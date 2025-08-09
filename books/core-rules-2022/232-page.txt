@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Tactical Awareness
 
@@ -72,7 +58,6 @@ intelligent manipulation.
 
 232
 
-
 Telekinesis
 
 This basic form of the talent allows the Traveller
@@ -105,7 +90,5 @@ Check: Average (8+) Telekinesis check (1D
 seconds, PSI)
 Reach: Short
 PSI Cost: 1
-
-R
 
 

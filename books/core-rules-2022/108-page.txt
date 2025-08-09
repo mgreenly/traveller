@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Communications technology rapidly merges with
 computer technology at higher Tech Levels. Above
@@ -151,8 +137,5 @@ TL13 (Computer/1)
 Cr500
 
 LASER TRANSCEIVERS
-
-
-R
 
 

@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 These are among the most powerful weapons to appear
 on the battlefield and require special training to use
@@ -202,7 +188,6 @@ FGHP-14
 
 132
 
-
 DAMAGE
 
 KG
@@ -223,7 +208,5 @@ Radiation
 Bulky
 
 Auto 3, Bulky
-
-R
 
 

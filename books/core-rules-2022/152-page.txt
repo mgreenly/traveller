@@ -1,4 +1,3 @@
-T
 
 AIRLOCKS
 
@@ -56,21 +55,6 @@ Ships have landing gear, allowing them to touch down
 ‘in the wild’, which requires an Average (8+), Difficult
 (10+) or even Very Difficult (12+) Pilot check, depending
 
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
-
 on local terrain. They can also land on bodies of water.
 Failing a Pilot check while attempting a landing means
 the ship has landed improperly or even crashed.
@@ -123,7 +107,5 @@ total tonnage multiplied by the ship’s maximum jump
 range. Note that this Power requirement is only needed
 when the ship actually initiates a jump – at all other
 times, the jump drive remains inert.
-
-R
 
 

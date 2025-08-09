@@ -1,0 +1,91 @@
+WEAPONS AND DEFENCES
+Readers of this book, if they ever encounter space
+combat, are much more likely to be involved in
+battles with only two or a few ships, each of which
+has only a few weapons. Having the right weapon
+on hand and defences against hostiles can make
+the difference between surviving an ambush and
+becoming a cloud of debris.
+Calibrate weapons regularly, if the ship has any, as
+part of maintenance. Installation with a misalignment of
+a hundredth of a degree can ensure nonstop misses,
+especially when knocked around by fuel scooping or
+from a hard landing. Single practice shots at low power
+
+CLOSE SUPPORT
+
+Although firing ship weapons into personal
+melee is not recommended, there have been
+times when someone who is sitting at a gunnery
+turret, having been confined to the ship while a
+battle happens outside, wishes to support their
+allies. If one has to do it, lasers are the best
+type of weapon given their accuracy, although
+even lasers have a blast radius caused by
+ejected debris. The exact limit of this depends
+on material struck and the laser’s energy
+content at impact but it is possible to estimate
+the dangerous area and aim so this includes the
+opposition but not the gunner’s compatriots. It
+is much easier to do this when there are several
+metres between those the gunner wishes to
+doom and those they wish to save.
+Rarely will a captain give an order to fire on a
+hostile ship as part of boarding actions. Firing
+will punch holes in the hull and depressurise
+the ship, sometimes while the boarding crew is
+aboard. Any boarding party should wear vacc
+suits in case this happens. If you are boarding
+a ship, you mainly want the ship intact. More
+importantly, this legitimises return fire directed
+at the turret, should the other ship have any
+functioning and crewed weapons.
+
+are generally sufficient to detect and measure this drift,
+allowing the computer to adjust for it when firing. No
+other work is required outside of annual maintenance,
+where the shipyard can correct these errors, which may
+save the crew’s life if the weapons are ever required.
+It is extremely difficult to carry out during actual fights,
+which rarely come with much warning for small ships.
+
+WEAPON MOUNTS
+For the reasons given in Hardpoints and Firmpoints
+on page 9, a 100 ton ship will have at most a single
+weapon mount while a 200 ton ship will have at most
+two. Captains of such ships must carefully select which
+weapons they will carry, if any. While an unarmed ship
+can enter some private ports that forbid visibly armed
+ships, no public starport in the Third Imperium can
+afford such a restriction and there is the option of using
+pop-up turrets to appear unarmed. However, not all
+weapon mounts are equal.
+Firmpoint and hardpoint mounts have different
+standards. Hardpoints generally provide more power
+and structure for heavier recoil. Although firmpoint
+weapons could mount to hardpoints where they would
+underperform, it is a good rule of thumb to assume the
+two types are not compatible.
+
+TURRET
+A slightly external mount that is able to track and
+swivel to point a weapon at a target, turrets are the
+standard option for small ships, easily dismountable
+with standardised fittings allowing quick replacement
+at most starports with the proper equipment (any Class
+C or above and some Class D starports). Up to three
+weapons can be mounted in a standard size turret,
+although it must carry sufficient power couplings, fire
+control and structural reinforcement if it is to carry a
+full trio. Some claim to have mounted no less than four
+weapons onto a standard turret, although the authors
+of this book found no surviving examples in their
+research, suggesting this may not be a wise decision.
+The standard templates for the ships in the Ship
+Walkthrough chapter include turrets only rated for two
+weapons each, with actual purchase and installation of
+weapons left to the ship’s owner post-construction. Many
+
+99
+
+

@@ -1,0 +1,66 @@
+The amount of fuel required for a jump is roughly
+10% of the ship’s volume per parsec travelled; more
+advanced drives can slightly decrease this. This is
+largely due to jumpspace’s increased resistance at
+deeper levels, akin to the pressure experienced by
+submersible vehicles as they increase in depth, such
+that the jump bubble must maintain a greater degree
+of counterpressure.
+There are two different paradigms when constructing
+emitters for the formation of jump fields: jump bubbles
+and jump grids. By concentrating all the lanthanum
+within the jump drive, a jump bubble creates a spherical
+field around the ship centred on the jump drive. This
+allows a ship to vary its effective tonnage from mission
+to mission, making drop tanks and external cargo
+possible, but risks enclosing unaccounted nearby
+debris which could result in a misjump.
+
+1
+
+Whatever the configuration, it is possible to identify
+the species that manufactured a starship or whose
+jump technology influenced it based on the pattern
+of its initial jump field, particularly visible on jump
+
+2
+
+4
+
+3
+
+5
+
+1. Imperial/Solomani/Vilani
+2. Zhodani
+3. Droyne
+4. Aslan
+5. Vargr
+6. Hiver
+7. K'Kree
+
+6
+
+Jump Drives
+
+7
+
+The other configuration is the jump grid, a regular
+mesh of lanthanum conduits embedded in the outer
+hull layer, which disperses the protective effect by
+creating many smaller bubbles along it which merge
+together, bringing the field closer to the hull the less
+concentrated the lanthanum is. Their distributed nature
+permits finer control of the forming jump field, allowing
+the drive to better compensate for external influences
+and permitting a ship to safely jump closer to a gravity
+source. A side effect is that the smaller surface area
+of the jump field must disperse the same amount of
+energy as the bigger bubble, making jump flashes
+brighter and easier to detect.
+
+JUMP GRIDS
+
+91
+
+

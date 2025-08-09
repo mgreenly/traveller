@@ -1,14 +1,5 @@
-T
 
 Turret Weapons
-
-V
-
-E
-
-L
-
-L
 
 TL
 
@@ -155,16 +146,12 @@ Tech Level.
 
 spacecraft construction
 
-A
-
 Weapon
 
 The particle barbette is a very large type of turret,
 consuming 5 tons within a ship.
 
 184
-
-R
 
 While many options can be accommodated by any
 shipyard capable of building or repairing spacecraft,
@@ -181,9 +168,6 @@ A ship with aerofins deployed gains DM+2 to all Pilot
 checks when within an atmosphere.
 Aerofins consume 5% of the ship’s tonnage and cost
 MCr0.1 per ton.
-
-
-E
 
 CARGO CRANE
 
@@ -225,7 +209,5 @@ demountable tanks. Fuel cannot be pumped directly
 from these tanks to the jump drive and so a ship
 must complete a jump before it can use fuel stored in
 collapsible tanks.
-
-R
 
 

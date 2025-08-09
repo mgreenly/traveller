@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Major Cargo lots are composed of 1D x 10 tons of freight.
 Minor Cargo lots are composed of 1D x 5 tons of freight.
@@ -179,8 +165,5 @@ Engineer (Mechanic and Engineer 1D–1 each)
 Wants to be on Board the Travellers’ Ship for
 Some Reason
 Hijacker or Pirate Agent
-
-
-R
 
 

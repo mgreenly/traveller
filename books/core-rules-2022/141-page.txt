@@ -277,7 +277,6 @@ increased by +1
 
 vehicles
 
-
 1D occupants
 All occupants
 take 3D damage take 4D damage

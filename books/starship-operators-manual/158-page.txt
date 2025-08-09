@@ -1,0 +1,89 @@
+T
+
+11. CARGO HOLD
+
+Certain naval architects, chiefly those who have never
+served aboard a spacecraft, dismiss the cargo hold as
+leftover space, to be listed on a specifications sheet and
+forgotten about. They are mistaken. It is the stowage
+space for crew supplies and spare parts, directly affecting
+ship endurance; the lifeblood of any merchant vessel, the
+modular part of any spacecraft and so much more.
+The Animal’s cargo hold is a cubbyhole with no
+external access. Nothing gets in or out unless it can
+fit through an iris valve. This is tolerated because
+the hold is mainly used for implements, supplies and
+prizes not important enough to display, all of which can
+be carried by hand. Refrigerated and other specialenvironment cargo space is supplied by the multienvironment holding tanks, leaving the hold free for
+room-temperature cargoes.
+The Suleiman’s cargo hold is similar, although can
+be accessed from above. It is common to place
+cargoes on hovering or wheeled cargo trolleys that
+can fit through the iris valve, ride the lift down, and be
+pushed into the bay. The version presented here has
+a flat floor cargo hold.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+The Empress Marava’s cargo hold is the main purpose
+of the ship and it shows. Aside from the greater volume,
+there are airlocks of substantial size with large access
+hatches to permit transit of containers, allowing it
+to take on and drop off 4Ds, Tonners and smaller
+containers even in vacuum or hostile atmospheres.
+The two cargo airlocks open onto the middle of the
+hold for redundancy as well as to speed up loading and
+unloading, so important cargo can be stowed to one
+side while maintaining access to the other. A common
+customisation is to remove the staterooms adjacent to
+the cargo hold, using the space for additional capacity.
+1. Cargo area
+2. Lift (Suleiman only)
+3. Small cargoes on trolleys
+4. Preserved prize carcasses (Animal only)
+5. Cargo airlock doors (Empress Marava only)
+6. Tonner cargo containers
+(Empress Marava only)
+7. Cold storage
+(Suleiman and Empress Marava only)
+8. Food
+9. Spare parts for ship maintenance
+10 Control panel (environment, alarms and fire
+extinguisher)
+11. Security camera and fire suppression projector
+
+Ship Walkthrough
+
+11
+
+9
+
+10
+
+8
+
+3
+
+2
+
+1
+
+CARGO HOLD
+
+158
+
+R
+
+

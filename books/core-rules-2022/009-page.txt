@@ -76,7 +76,6 @@ unaugmented Traveller. There are exceptions to this
 but they will be covered later for specific rules and
 circumstances.
 
-
 Skills are the most important aspect of a Traveller and
 discussed in detail on page 42. A Traveller’s proficiency
 in any skill is denoted by their level in that skill.

@@ -1,0 +1,101 @@
+REACTOR PROTOCOL
+
+○
+
+There are those who say that if you are not
+scared of nuclear processes, you do not know
+them well enough to maintain a fission or
+fusion reactor. This is false knowledge. To the
+uninitiated, ‘be scared’ sounds like competent
+reactor technicians must be constantly
+running around in a state of panic, which
+would be the opposite of useful. ‘Be careful’ is
+much more appropriate.
+Study the processes. Practise in safe
+simulations so that when you inevitably mess
+up, you survive and learn. Memorise what to
+do, so you will not spend time you will not have
+during emergencies to look things up. Only try
+the real thing once you can handle simulations
+by rote. Use automation when available;
+no one will be impressed that you can do
+everything robots do but those who know
+how to responsibly oversee fission and fusion
+power plants may be alarmed if you attempt to
+do a robot’s work for no good reason.
+For instance, the most common startup
+problems of fusion power plants can be
+diagnosed mostly by paying attention to the
+plant’s temperature, pressure, neutrino flux and
+power sensors, readouts of which are visible
+on the default display of almost any console
+configured to operate a fusion power plant.
+●
+
+●
+
+●
+
+Power Systems
+
+Failure to reach operating temperature,
+as detected by thermal sensors in the
+chamber, without an increase in pressure
+is usually due to insufficient available
+power supply during pre-heat. Verify that
+the power storage block has sufficient
+available power for startup and check its
+connection to the reactor.
+○ It is not necessary to abort startup while
+troubleshooting this issue while at a
+port if startup power can be provided,
+athough not all ports can: Class E and
+X ports have nothing to generate power,
+while a Class A port might run into
+political or bureaucratic troubles with
+providing power to a docked ship.
+
+●
+
+If this occurs where there is no backup
+to the power storage block, immediately
+shut off power output from the power
+plant until the block is fully charged. This
+should not be an issue, as a power plant
+should not be providing power while
+starting up. Do not wait for confirmation,
+as exhausting a ship’s power with a
+shutdown reactor in deep space is a
+one-way ticket to becoming stranded at
+worst or deeply embarrassed at best.
+Failure to reach operating temperature but
+achieving a significant increase in pressure is
+evidence of a gravitic pressor misalignment.
+Shut down the pre-heat and troubleshoot the
+gravitics, starting by running them section-bysection, and comparing field output strength.
+Any section with a different strength needs to
+be replaced. In extreme emergencies this can
+be overridden but it will permanently damage
+the reactor within minutes.
+Exceeding operating temperature without
+detectable neutrino flux is evidence
+of a failure of the nuclear dampers.
+Shut the reactor down and commence
+troubleshooting. Since a lack of neutron
+manufacture means no neutrons to fuse
+with, this cannot be overridden except in
+cases of partial failure and is inadvisable for
+the same reasons as above.
+Reaching fusion temperature with
+neutrinos detected but the ship’s power still
+discharging is evidence of a failure in the
+electrical conversion machinery. Shutdown is
+recommended but not required, as the plant
+can remain operational at minimum power
+if there is another source of electrical power
+available. If used, ensure the power storage
+block does not remain drained for long.
+
+19
+
+

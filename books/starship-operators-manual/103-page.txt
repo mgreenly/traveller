@@ -1,0 +1,112 @@
+MISSILE
+
+Sensors and
+guidance
+
+M-Drive
+Fusion cells (x6)
+
+Warhead
+
+Some ‘dummy’ missiles are designed explicitly for such
+scare tactics, with no warhead but instead designed to
+miss and be recovered.
+
+SANDCASTERS
+Sandcasters throw collections of small particles using
+large arrays of tiny slugthrowers. Their primary use is
+to block incoming laser fire. Although they cannot be
+fired before the laser hits, it is usually perceptible which
+direction laser fire will come from and since lasers do
+sustained damage over time, sandcasters can block all
+but the very start of an attack. This default use slightly
+varies the angle of fire from particle-to-particle to make
+a more effective blocking cloud.
+There are other, less common types of sandcaster
+loads. Most fire at high velocity, earning sandcasters
+the nickname ‘deadly rainmakers’, although like
+slugthrowers this is substantially less than the speed
+of light, which greatly limits their effective range. Antipersonnel uses are the most well-known, whether
+against would-be boarders or for military ships to give
+nearby troops close air support.
+
+The lower cost of sandcaster ammunition makes them
+more economical than missile launchers but they
+still are frequently disfavoured on commercial ships,
+despite their defensive potential. Nonetheless, they
+even have non-combat roles, such as loading them
+with sprays used for agricultural use or to deploy
+
+PARTICLE ACCELERATORS AND MESON GUNS
+Primitive particle accelerators capable of smashing
+particles together at point blank ranges under highly
+controlled conditions are available even at midindustrial pre-stellar Tech Levels. Those that can
+direct a coherent stream of particles at ship combat
+ranges, in large enough quantities to inflict significant
+damage while being small enough to mount on a typical
+starship, require substantially higher technology. Many
+of the advances are similar to those that make gauss
+weaponry viable and many think of a particle accelerator
+as a coilgun with smaller projectiles and higher energies.
+However, there are nuances that are well understood,
+such as the difference between firing through vacuum,
+where particles must charge neutrally or they would
+force each other apart enroute to the target, versus
+firing through atmosphere, where particles are better
+off charged to deflect the air and use it to keep the
+particle beam together. Although the particles travel
+slower than a laser’s light, they are close enough to
+light speed that they can be used in much the same
+way. Relativistic time dilation does not matter much to
+the particles so long as it does not cause decay before
+the payload arrives at the target.
+One exception comes in the evolutionary line of particle
+accelerators, the meson gun. These fire unstable
+particles that disintegrate fractions of a second after
+generation. They are not actual mesons, although
+the name stuck from early counterintelligence
+operations obscuring it. Without relativity, this would
+happen shortly after exiting the weapon, if not within
+the weapon, giving far too little range to be useful.
+Careful control of speed and thus time dilation causes
+this decay to happen at much more distant ranges,
+spread along a segment of the line of fire. Further
+manipulations using an evolution of the nuclear damper
+causes the particles to decay over a very narrow band
+of time, rather than spread out with an average half-life
+as they normally do. As these particles do not interact
+with matter until they decay, the result, if properly
+aimed, is an explosion along a line segment within
+the target regardless of anything in the way, such as
+
+Weapons and Defences
+
+Sandcaster barrels have variable apertures, using
+mechanisms similar to time-tested iris valves to
+move the magnets that accelerate each particle
+further apart or closer together to achieve larger or
+smaller diameters. This assists with maintenance and
+accommodates variable munition sizes, especially
+for alternative sandcaster ammunition. If a particular
+barrel malfunctions, it can cycle shut to prevent it from
+wasting ammunition then signal the ship’s computer for
+maintenance when the sandcaster is not in use. Minute
+adjustments to part of the barrel can adjust the aim,
+such as shrinking the top or bottom half a little more
+than the other to aim vertically, imparting slightly more
+acceleration in that direction.
+
+‘smart dust’ sensor microdrone swarms.
+One tale tells of a captain who loaded
+confetti rounds into his ship’s sandcasters
+to help announce his ship’s arrival shortly
+after breakout from jump. His ship was
+some distance from port, so traffic control
+misinterpreted this as debris, thought it
+was breaking up from a post-jump mutiny,
+and dispatched marines to rescue the
+passengers. Things escalated from there.
+
+103
+
+

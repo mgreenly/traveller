@@ -1,0 +1,94 @@
+REACTION DRIVES
+Properly defined, reaction drives are any part of a
+spacecraft that moves the spacecraft through direct
+reaction with mass. This excludes gravitics or any
+other reaction with an energy field, as well as another
+spacecraft docking and applying its drives.
+Like jump drives, most reaction drives consume fuel.
+Unlike jump drives, reaction drives deliver relatively
+little movement, and lifters and manoeuvre drives
+render reaction drives obsolete for most purposes.
+Most starship crews will never personally encounter
+reaction drives but it is still useful to know about them.
+It is distressingly common for those with no personal
+starship experience to assume that starship crews
+know about all manner of space systems, even ones
+not used on starships. Reaction drives are particularly
+susceptible to this, especially on worlds where gravitics
+are not available so reaction drives are the only means
+available to reach space.
+When reaction drives are present on a starship, it is
+most often due to one of three reasons, the first two
+of which are more common among ships designed for
+combat. First, reaction and manoeuvre drives have a
+maximum performance generally limited by TL but these
+are separate limits. Having both systems allows a ship
+to accelerate at the sum of the drives’ performances,
+achieving much greater acceleration than is possible
+with either drive alone. Second, some ships use reaction
+drives as an emergency backup for manoeuvre drives
+as their failure modes have little overlap. Most reaction
+drives will continue to function even if the ship loses
+power, while manoeuvre drives can continue without a
+ready supply of reaction mass. Third, reaction drives can
+operate beyond a manoeuvre drive’s operational limit,
+whether in the Oort cloud of a system or light years from
+the nearest star or rogue planet.
+While reaction drives can come with inertial
+compensation, as described in Ship Internal Gravitics
+starting on page 75, most do not. Using them without
+subjects a ship’s occupants to G forces. Technically,
+reaction drives only accelerate themselves and anything
+they are rigidly attached to, such as the ship’s hull,
+which in turn pushes along its contents, such as crew
+and passengers. This acceleration acts like gravity
+proportional to thrust; in most cases this force is
+substantially more than 1G. The uneven distribution of
+
+94
+
+forces and structural weakness of flesh and bone lead
+to several health issues with prolonged exposure to
+high G forces, with more severe effects the greater the
+force and the longer the exposure. The crew’s ability to
+survive, rather than any technological limitation, dictates
+the maximum strength of a ship’s reaction drive.
+One of the simplest ways to illustrate the difference
+between manoeuvre drives and reaction drives is to
+consider why Jump Control software automatically
+locks down any reaction drives during jump. Where
+a manoeuvre drive would do nothing, having no
+significant mass outside the ship to react with, a
+reaction drive works inside a jump field. However,
+extreme care must be taken as any significant exhaust
+would severely destabilise the jump field. As this would
+destroy the ship, there is precedent in Imperial courts
+that any attempt to activate reaction drives while in
+jump amounts to an attempt to destroy the ship, which
+serves as legal justification for lethal force and/or
+mutiny if necessary to stop this attempt.
+
+ROCKETS
+The most common reaction drives expel mass at a
+high velocity. There have been a number of means
+employed to achieve this but they work by the same
+basic principle, where mass is removed from the
+spacecraft in exchange for thrust. Most rockets
+have exhaust nozzles that adjust their diameters for
+optimal performance in atmosphere or space, as well
+as regenerative cooling that uses a small amount of
+propellant to keep the exhaust nozzle from melting.
+When discussing rockets as a means of propulsion,
+a primary concern is their efficiency, in how much can
+they move the attached ship using a given amount of
+fuel. Due to conservation of momentum, the only way
+to increase this efficiency is to increase the speed of
+any expelled mass, referred to as exhaust velocity. As
+a result, most advancements in rocket technology are
+measured by increasing this exhaust velocity through
+direct combustion, accelerating charged particles, or
+any number of other mechanisms. Few ships employ
+gravitics to enhance rocket performance, whether
+because rockets are in use because gravitics are
+
+

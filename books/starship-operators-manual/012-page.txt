@@ -1,0 +1,125 @@
+T
+
+popular for those who want to engage in gas giant or
+underwater mining. Marketing for these ships often
+compares other ships to tin cans, grapes or other
+notably non-pressure-resistant objects.
+
+CONFIGURATIONS
+
+The shape of a hull has a significant impact on the
+craft’s flight characteristics when passing through an
+atmosphere or hydrosphere. While most spacecraft
+spend the vast majority of their time in space, the
+tiny minority of time not in a vacuum is vital. Most
+exceptions travel only from highport to highport,
+relying on small craft when they need to interact with
+a world beneath an atmosphere. A hull streamlined for
+atmosphere manoeuvres well in hydrospheres as well,
+although optimal liquid-surface performance requires
+different configurations and diving any significant depth
+necessitates a pressure-resistant hull. Hull shapes can
+be broken into four categories.
+
+STREAMLINED, AIRFRAME AND LIFTING BODY
+Most small craft and small ships are designed to
+operate within an atmosphere, in order to access
+starports on the ground. Many larger ships also make
+such trips, whether from a need to directly transit
+atmospheres or just out of tradition from the local
+shipyards’ early days of spaceflight. There is some
+debate about the maximum theoretical size of ship that
+could fly in an atmosphere, especially since virtually all
+ships have manoeuvre drives that would let them ‘fly’
+without streamlining.
+
+Hull
+
+Standards bodies do not universally agree about the
+proper degree of distinction within this category. Some
+denote all streamlined ships the same, while others
+distinguish generically streamlined hulls such as bullet
+and clamshell shapes from those with wings or that are
+otherwise specifically airframes, as well as from those
+that go even further and shape the entire hull as one
+giant lifting body.
+Cones, cylinders, disks, domes, needles, rings,
+saucers, spheres and wedges are common shapes
+when wings are not used.
+
+STANDARD UNSTREAMLINED
+
+This typical, default shape is optimised for efficient
+operation in space rather than atmosphere and is thus
+not streamlined. Some call this ‘partially streamlined’
+to distinguish from hull shapes that are even less
+
+12
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+capable in the air. Most shapes in this category come in
+streamlined versions, such as a cylindrical unstreamlined
+hull that can be given rounded edges and otherwise
+reshaped into a streamlined cylindrical hull.
+Boxy and slab-like hulls are common, as are
+unstreamlined versions of non-winged streamlined
+shapes. Spherical hulls without an emphasis on
+streamlining can be included in this classification.
+
+CLUSTER STRUCTURE
+
+This category typically has two or more hulls, possibly
+a main hull and one or more subhulls, bound together
+with struts. These are favoured when certain systems
+must be kept apart from primary crew space for health
+or security reasons. Very rarely could these concerns
+not be dealt with by a more standard hull, although
+this solution usually works well when employed. They
+are used when cost is a concern as creating multiple
+sections separately is faster, cheaper and easier to
+repair than fabricating a singular cohesive hull. Some
+groupings distinguish cluster hulls by how close or
+dispersed the structure is, others by whether there is
+significant bracing.
+Overall shape tends to be less relevant for cluster
+hulls. Certain sculptors, who fashion small depictions
+of starships with no need for functionality, prefer cluster
+hulls for their freedom of expression.
+
+PLANETOID
+This style is the least expensive option for a hull that
+does not have missions requiring passage through an
+atmosphere. Giant rocks are present in any colonised
+system but not just any rock will do. Silicate planetoids
+are preferred over carbonaceous or metallic ones and
+the rock should be solid rather than a rubble pile, but
+finding a suitable one rarely takes much effort. Simply
+locate one of the right size or cut the right size from a
+larger rock, then drill into it. Planetoid hulls are shaped
+like the rocks they came from but when a hull is cut
+from a larger rock, common construction techniques
+typically make the hull somewhere between boxy and
+ovoid. It is common to note if the builder hollowed out
+a low amount of rock, as many shipyards will buffer the
+hull with extra structure and armour.
+It is technically possible to move these hulls through air
+without destroying them but only at low speeds within
+extremely controlled environments with no wind or
+weather at all, such as within a highport’s hangar.
+
+R
+
+

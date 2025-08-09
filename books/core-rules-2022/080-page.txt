@@ -66,7 +66,6 @@ Traveller who make a successful Athletics check
 
 80
 
-
 can reduce the distance fallen for the purposes of
 calculating damage by a number of metres equal to the
 Effect of their check.

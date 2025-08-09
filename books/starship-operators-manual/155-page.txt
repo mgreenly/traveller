@@ -1,0 +1,76 @@
+9. MANOEUVRE DRIVE
+
+Essentially a set of high-powered grav plates stacked
+in sequence, the manoeuvre drive is the technology
+that enables economical intrasystem travel and is
+among the first applications of gravitics. As detailed in
+Manoeuvre Drives starting on page 77, a manoeuvre
+drive does not just provide thrust but directional control,
+with more agility the more the m-drive units are spread
+out. The three example ships illustrate this.
+The Animal is an oddity; unlike other examples, it
+mounts only one manoeuvre drive, with just one thruster
+plate. Based on design records, it is believed this was
+done to avoid interference with the multi-environment
+spaces, as gravitic fields could react poorly with alien life
+carried aboard. As a result, it is the only one to carry a
+manoeuvre drive capable of independent thrust vectors
+from the same thruster plate.
+
+The Empress Marava mounts two independent
+manoeuvre drives with two power distributors, designed
+for a wider variety of missions and intended to offer
+wider possibilities for upgrades. These are mounted
+further apart, granting better agility, although this was
+done to accommodate larger cargoes through the rear
+door rather than concern for performance in a dogfight.
+Like the jump drive, the manoeuvre drive is not the most
+visually spectacular of ship systems; it pulls energy in
+and outputs a different form of energy out without visible
+mechanical motion. As with the other large machinery
+in the engineering section, the average visitor will see
+nothing but large metal boxes, power cables, screens
+with status updates and security cameras with fire
+suppression projectors. Once outside the ship, however,
+the sight of a powerful manoeuvre drive in operation can
+be an awe-inspiring sight.
+
+The Suleiman, optimised for ease of maintenance
+over agility, mounts twin manoeuvre drives that
+share a single power distributor. The drives being
+close together lowers manoeuvrability but this setup
+provides one less component to maintain. This can
+limit potential for upgrades in future, as a new power
+distributor would be needed to handle the higher
+power demands of a 3G or greater drive.
+
+1. Thruster plates
+2. Power distribution system
+3. Cooling system
+4. Bracing
+5. Input power cables
+6. Drive control computers
+7. Status monitors
+8. Security camera and fire suppression projector
+
+8
+
+4
+
+6
+5
+3
+
+Ship Walkthrough
+
+7
+
+1
+
+2
+
+ANIMAL MANOEUVRE DRIVE
+
+155
+
+

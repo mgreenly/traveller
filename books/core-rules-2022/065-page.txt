@@ -36,7 +36,6 @@ Plotting a Standard Jump: Easy (4+) Astrogation
 check (1D x 10 minutes, EDU), with DM- equal to the
 Jump distance.
 
-
 The Traveller is a trained athlete and is physically
 fit. The Athletics skill effectively augments a
 Traveller’s physical characteristics; whatever you

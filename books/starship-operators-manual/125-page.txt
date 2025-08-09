@@ -1,0 +1,108 @@
+micromanipulators, pliers, wrenches, sockets and
+a mallet or, at higher TLs, a small gravity hammer.
+A good engineer tool set should provide small hull
+patches and a portable airlock.
+
+RESUPPLYING A SHIP
+
+Making sure enough of the right tools, filters, fasteners
+and other spare parts are stocked is all about thinking
+ahead. While certain components fail at mostly
+predictable rates, others fail on a more haphazard
+timeline, with the prudent strategy being to keep a
+spare around until needed. This is more of an issue for
+small ships, with less room for redundant systems and
+thus more unpredictable failures.
+Having a workshop aboard ship means stocking a
+smaller diversity of spare parts, as the workshop
+provides the ability to manufacture parts a ship needs
+from common raw materials.
+
+FOOD RESUPPLY
+Food storage and resupply is a vital but often
+overlooked part of maintenance. Many crew know
+little more than that keeping food cold helps prevent it
+from spoiling, a practice dating back to TL0 on many
+worlds. Advances in food preservation allow a lettuce
+leaf harvested at a farm to be almost as fresh months
+later. Food producers apply these at the site of
+production, so a ship only has to provide dry storage,
+refrigerated storage and water.
+
+On top of having enough food, menu fatigue is worth
+avoiding. While some sophonts do not mind eating the
+same thing every day, most require a variety of food for
+good mental health. Purchasing bulk units of one type
+of food to feed the crew cheaply for an entire jump is,
+in most cases, a regrettable mistake. Diverse pre-made
+meal packs, with different tastes for 12 or 24 meals,
+may cost a little more but they are worth it.
+Well-run ships will have the purser and steward work
+in tandem to stock a variety of healthy snacks, tailored
+to the nutritional and preferred needs of those aboard,
+
+Food-producing biospheres do not need resupply,
+eliminating that need being the purpose of their
+existence. They provide raw ingredients, although
+many are tied into automated galleys that make it look
+like finished meals come directly from the biosphere.
+Ships with biospheres still utilise food storage, both for
+ingredients they cannot produce and a backup supply
+of highly condensed rations in case of food production
+failure. Some crews make a ritual of consuming and
+replacing the rations during annual maintenance; a
+common joke is that they do it to remind themselves
+why they do not let the biospheres fail. It can be a
+challenge to produce nutritious food with every meal.
+Fortunately, there are widely distributed recipes that
+work for most sophonts.
+Some private crews make multi-sector voyages to seek
+out new cuisines, as even after thousands of years of
+interstellar civilisation, culinary innovation is always
+happening somewhere. Worlds off the main x-boat
+network are likely either to have recipes that are new to
+the rest of the Third Imperium or be markets for recipes
+at starports with x-boat service.
+
+PREVENTATIVE MAINTENANCE
+Ship crews using annual maintenance are less
+likely to pay attention to preventative maintenance,
+mistakenly thinking that only shipyards perform
+maintenance. Not taking a little time to fix minor
+issues as they occur can lead to major issues that
+take more time. This is why an inspection, if not a
+full maintenance cycle, is highly recommended when
+purchasing a used ship; if the former crew did not
+perform preventative maintenance, the ship may have
+expensive maintenance issues soon.
+While other documents record a complete list of
+preventative maintenance for each individual ship, the
+following can give a general idea of what to look for.
+Filters for air, water, waste and more need replacement
+on a set schedule. Some have internal monitors to let
+crews know when they go bad but all filters have a
+maximum recommended use time. Many companies
+build filters with chemochromic materials that change
+colour in the presence of contaminants, providing
+a colour-scale to show how saturated they are. It is
+vital to keep track of replacement timelines and when
+
+Maintenance and Repair
+
+Any ship jumping from world to world will spend
+somewhere from six to eight days in transit, possibly
+adding one or two if either or both ends involve a long
+trip between the jump limit and the world. This assumes
+that food will reliably be available at the destination; if
+not, multiply this by however many jumps it will take to
+reach food resupply, adding any days spent on worlds
+between jumps. Ships venturing into the unknown
+frequently stock four weeks of food for a return trip.
+
+along with ingredients for a weekly list of meals. Many
+passengers carry their own supplements or food if their
+needs vary greatly from the norm.
+
+125
+
+

@@ -68,7 +68,6 @@ J-Drive
 Power Plant
 Fuel Tanks
 
-
 TYPE: C
 
 —

@@ -1,0 +1,71 @@
+While limiting access to key areas is important, the
+default setting for internal doors during a power
+outage is to be unlocked. This default setting can be
+overridden but this is very rare on any ship with a
+sensible captain – emergency situations where access
+is needed to save lives are more common and often
+deadlier than boarding actions. Most doors, particularly
+iris valves, have redundant power feeds to frustrate
+attackers and booby traps involving environmental
+hazards or explosives are uncommon on small ships.
+Traps involving gravity and depressurisation are more
+common, as they stem from standard systems.
+
+Drawers, cabinets and specific systems can be
+secured via the same controls. External sensors
+tie into the ship’s security, telling the pilot how
+close they are to landing, the captain who or what
+is getting close to the ship and alerting the crew to
+incoming attacks. Shipyards have a wide variety of
+security packages available.
+
+In deciding the best security measures for the ship,
+focus on who should access the area. If it is an area
+like the commons then open access is best but limit
+what functions are available in case a passenger tries
+to use a crew terminal. The bridge has higher security
+on the door than the computer terminals, as those who
+have access typically have authority over the ship and
+may need unhindered access to its systems. A cargo
+hold may have tight security measures near the doors
+for loading and unloading, with only a few cameras in
+the hold. A captain may want to appear welcoming to
+his crew and leave his office door open but may have
+biometric scanners on the drawers of the file cabinets
+where they keep the ship’s important papers.
+
+The captain’s access to open any door on the ship is
+a failsafe, programmed separately from primary door
+configuration routines in case of mutiny or, more often,
+computer malfunction. The captain’s access should be
+as secure as the primary door configuration routines,
+otherwise this becomes just another weakness
+for attackers to exploit. Cheap, relatively low TL
+electronics can defeat voiceprint access and requiring
+biometric access is common if scanners are installed
+on most doors anyway. If not, a passcode known only
+to the captain is typical.
+
+The Computer
+
+do this too, although captains should be aware that
+crew will often seek to make things more convenient
+to themselves, even at the expense of security. Most
+small ships give access to each door either to all
+registered passengers and crew, all crew members or
+specific people, with the captain having non-overridable
+access to all doors. Large ships have more fine-grained
+access patterns reflecting their needs, for example
+giving drive compartment door access only to officers
+and the engineering department rather than the entire
+crew. If there is a pet such as a ship’s cat, that pet will
+usually have its own door access list.
+
+Whatever a ship’s security, it is best to keep valuable
+data, computer access, items and cargo away from
+people who may steal it. If a captain is in doubt about a
+crew or passenger, the captain should limit their access
+
+61
+
+

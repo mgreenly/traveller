@@ -1,0 +1,125 @@
+T
+
+a hand or equivalent under a lifter in operation, for as
+it enters the field, it suddenly feels slightly heavier, as
+if wearing a lightly weighted glove. That is because the
+hand is being pushed against, helping the lifter stay aloft.
+Lifters work in concert with landing gear when
+performing wilderness landings on uncertain terrain.
+The ship slowly sets down, putting more weight on the
+landing gear until either the lifters shut off or the ground
+gives way. If this happens, the lifters reengage to
+keep the ship from getting stuck, which can either find
+another landing spot or hover in place.
+
+Gravitics
+
+There are many videos of ships using lifters to fly low
+to the ground, conducting wilderness deployments and
+recoveries of ground vehicles or low-flying grav vehicles
+without being on the ground. In some cases, this is
+done for mobility, with the pilot intending to be close to
+the ground for as few seconds as possible. Others do it
+for legality as the ship has permission to fly but suffers
+consequences should it touch down. Operationally these
+cases look very similar, except that the former more
+often involves either actual exchange of weapons fire or
+weapons moving into position to fire on the ship.
+
+76
+
+Lifters are very useful for efficient, frictionless
+movement close to the ground but are not the
+speediest mode of transportation. Similar to helicopters,
+their main form of attaining translational motion is by
+inclining the angle at which the force keeping them
+airborne is applied. In low-tech lifters, this is done by
+physically rotating the lifter plate assembly, whereas
+in a more sophisticated lifter’s case it can be done by
+correctly timing the activation of the grav modules that
+make up the plate, using beamforming techniques
+to tilt the angle of the resulting gravity field relative
+to the surface. By doing this, basic lifter craft can
+achieve reasonable speeds on a standard atmosphere
+world. Going faster requires adding further propulsion
+systems, which are more concerned with forward
+velocity than keeping the vehicle off the ground. Most
+lifters, especially low-tech ones, operate in a low
+altitude regime of between half a metre off the ground
+for ‘ground’ vehicles and 50 metres for ‘air’ vehicles, but
+most lifters can in theory reach low orbital altitudes.
+‘Can’ does not mean ‘should’. Riding in unsealed
+vehicles without a vacc suit has clear dangers of rising
+into too thin air. Even with vacuum-rated equipment,
+there are other concerns. Hovering at orbital altitudes
+is distinct from being in orbit as the latter is more
+about achieving orbital speeds than pure altitude.
+Being almost stationary in such an environment can
+result in a severe admonishment from local traffic
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+control at best or, at worst, colliding with something
+moving at orbital velocity and being turned into a
+rapidly expanding cloud of debris. Unless coordinating
+with local traffic control or being around a world with
+no enforced traffic control, most consider it ‘being a
+traffic hazard’ and penalise accordingly.
+As a lifter vehicle climbs in altitude, it needs to increase
+its operational envelope size so that it encompasses
+enough mass to keep it aloft. In doing so, it increases
+its power expenditure; the bigger the envelope, the
+more power it draws to keep operational. To deal with
+this increased draw, the lifter can decrease the strength
+of its generated gravity field but that generates less
+lifting power for a given field size.
+Larger power supplies, lifters manufactured from
+higher-efficiency grav modules and optimised field
+geometries can all increase the altitude a lifter vehicle
+can attain but even an idealised, perfectly efficient lifter
+will inevitably reach a maximum operational altitude
+of roughly one planetary diameter. Worlds with dense
+atmospheres have more available mass to push
+against beyond the surface, so they allow for a slightly
+higher operational ceiling; worlds with thin atmospheres
+allow slightly lower. Beyond this point, a lifter simply
+cannot generate enough lift to keep itself aloft.
+On any modern starship designed for planetary
+landings, lifters are included in the hull, much like
+landing gear. Normally integrated into the ventral hull,
+they are sometimes co-located with the landing gear
+bays but more often spread among the ventral surface.
+These lifter plates provide redundancy and a degree
+of fine control to allow the vessel to take off and land
+vertically with minimal difficulty, as well as to hover at
+any desired altitude.
+Naturally, there have been many ‘creative’
+applications of lifters over the years. One wellknown example is to use lifters to ‘stick’ a ship to the
+ground. A favourite of the Imperial Interstellar Scout
+Service for dealing with hurricanes and other highspeed winds, landed scout ships will often activate
+their lifters with a reversed polarity, attracting rather
+than repelling the ground. In doing so, the scout ship
+more firmly presses itself against the ground and it
+becomes harder for strong gales to blow away the
+ship. This even works to ‘land’ under an overhang
+when touching the ground would be hazardous. This
+technique depends on the exact makeup of said
+ground, not working well on sandy or sooty terrain
+and better suited for solid rock. Starships fare better
+landing on concrete, metal or other solid surfaces.
+
+R
+
+

@@ -1,4 +1,3 @@
-T
 
 Note that these are the crew levels a ship should have.
 When Travellers get their hands on a ship, they may
@@ -42,20 +41,6 @@ look at the Crew Duties section on page 164 will quickly
 demonstrate how inefficient this will prove to be.
 
 Crew Requirements
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 STEP 11: INSTALL STATEROOMS
 
@@ -171,8 +156,5 @@ passengers
 
 1 per 10 High or 100 Middle
 passengers
-
-
-R
 
 

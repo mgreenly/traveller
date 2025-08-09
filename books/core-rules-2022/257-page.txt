@@ -114,7 +114,6 @@ Poor
 
 Unrefined
 
-E
 X
 
 Frontier
@@ -125,9 +124,6 @@ No Starport
 
 None
 None
-
-A
-
 
 Berthing Cost
 
@@ -173,15 +169,12 @@ None
 
 Starport Class
 X
-E
-E
 D
 D
 C
 C
 B
 B
-A
 
 Bases
 

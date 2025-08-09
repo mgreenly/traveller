@@ -4,14 +4,13 @@ FROM node:20-slim
 RUN apt-get update && apt-get install -y \
     # Text processing & search
     jq \
-    yq \
     fzf \
     silversearcher-ag \
     fd-find \
-    # File operations
+    # File operations  
     rsync \
     tree \
-    wc \
+    coreutils \
     diffutils \
     patch \
     # System monitoring
@@ -20,7 +19,7 @@ RUN apt-get update && apt-get install -y \
     # Network tools
     curl \
     wget \
-    netstat-nat \
+    net-tools \
     iputils-ping \
     # Development tools
     make \

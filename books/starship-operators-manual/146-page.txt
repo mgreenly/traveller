@@ -1,0 +1,94 @@
+T
+
+4. LADDER/LIFT
+
+As all ships presented have more than one deck, they
+must provide some means of interdeck transit. Both
+ladders and lifts are used; stairs are not found on any of
+these ships as there is not enough foot traffic to justify
+their use. When new, the Animal, Empress Marava
+and Suleiman have a standard lift and ladder system
+installed between the iris valves of their two decks.
+The Animal’s lift is in a somewhat awkward position,
+being in the corridor running between the main airlock
+and the rest of the ship. Although this can prove
+inconvenient for someone wanting to enter or leave
+the ship while the lift is in operation, it does serve an
+important role; the Animal’s bridge is on the upper
+deck, so a lift must be positioned close to the entrance
+in order to facilitate quick boarding. Both ladder and lift
+are overbuilt, as the Animal’s included air/raft may be
+used to transport anything from hunted game to traded
+cargo, which must then be passed down into the cargo
+bay on the lower deck.
+The Suleiman has a barrier around the base of the
+lift to keep loose cargo from accidentally falling
+under the platform during transit. There are sensors
+under the lift platform for such problems that will
+halt it if anything is under the plate, usually moving
+a short way to allow inconvenient access rather
+than no access. Be sure to check the security
+camera if a lift is malfunctioning, as there may be
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+something blocking the lift on the floor below. Moving
+obstructions can prove complicated, which provides
+a good use-case for remote-controlled grav carts.
+Both the Animal and Suleiman have a separate
+ladder/lift providing access to their turret, a common
+arrangement for roof-mounted turrets. These lifts are
+frequently set to rise quickly due to the urgency of
+reaching the turret when under attack.
+The Empress Marava has a similar issue to the
+Animal, being located in the middle of not only a
+corridor but an intersection. This exacerbates the
+issue of someone trying to traverse the corridors while
+the lift is in use but has proved useful for quick access
+regardless of where someone is on the fore end of the
+lower deck. However, it may have been this issue that
+led to the crew of our example – the Gustus – opting
+to remove the gravitic lift’s platform, leaving only a
+lighted ring where the grav-plate is engaged. The
+platform’s removal can make traversal easier, albeit
+at a risk of walking into a still-active lift but limits what
+can be carried between decks.
+1. Lift platform (Animal and Suleiman only)
+2. Gravitic lift (Empress Marava only)
+3. Emergency ladder
+4. Lift mechanism
+5. Iris valve
+6. Security camera and fire suppression projector
+
+Ship Walkthrough
+
+6
+
+5
+
+4
+5
+
+1
+
+ANIMAL LIFT
+
+146
+
+3
+
+R
+
+

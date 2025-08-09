@@ -1,0 +1,111 @@
+harvesting equipment, reconfiguring the gravity column
+and nuclear damper. It will be less efficient than a
+purpose-built fusion power plant of equivalent tonnage
+and attempting the conversion runs the risk of making
+it unable to serve either purpose, but is an option if
+something destroys the main power plant.
+
+SLUGTHROWERS
+While this category includes chemically propelled
+munitions, most slugthrowers used as ship weapons
+feature electromagnetically or gravitically accelerated
+projectiles. Effective range is short, making these
+useless in most cases; by the time they would be in
+range, one side is defeated and the battle is over,
+although very fast spacecraft such as fighters can
+manoeuvre into range quickly. Limited ammunition
+is another drawback, although most carry enough
+to last for multiple engagements. Typically used for
+orbital bombardment, these have the inertia of a kinetic
+slug and can cope with atmospheric interface better
+than many energy weapons; a laser weapon firing
+through a raincloud or similar will bleed off energy,
+reducing potential damage. However, even purposebuilt bombardment ships often prefer the versatility of
+missiles or the precise fire of meson guns.
+
+TRACTORS/PRESSORS
+
+DEFENCE SYSTEMS
+The best defence is to avoid areas where others are
+shooting, preferably to be nowhere near combat. Alas,
+this is not always possible. In addition to defensive
+weapons such as sandcasters listed above, listed below
+are some active defence measures one can take.
+
+POINT DEFENCE
+
+Shooting incoming projectiles to detonate or deflect
+them before they strike is an art form unto itself. Turretmounted lasers accomplish point defence but there
+are alternatives such as high rate of fire slugthrowers.
+There are special point defence turrets available for
+
+ELECTRONIC WARFARE AND STEALTH
+
+Electronic warfare covers techniques including
+sensory overload and decoy signals, intended to
+confuse enemy sensors. It is primarily used against
+missiles, as it can take but a moment’s course
+correction to send one missile into others in its volley
+or cause it to miss entirely. This can throw off enemy
+targeting at ranges of hundreds or thousands of
+kilometres. Despite the name, ‘electronic’ warfare
+covers magnetic and gravitic techniques and for every
+type of sensor, there is a jammer.
+Where one can establish a data connection to a hostile
+target, one can attempt to hack an enemy ship’s
+computers, known as the ‘DataCaster’ approach. In
+combat, one can assume the enemy ship will ignore
+such efforts – unfortunately, sending data toward a foe
+is useless if the foe is not listening.
+
+NUCLEAR DAMPERS AND MESON SCREENS
+
+‘Nuclear damper’ is a generic term for several devices
+that project nodes and antinodes that enhance or to
+degrade the strong or weak nuclear force, such as by
+projecting fields of quarks that mediate these forces.
+When used in reference to ship defences the term
+usually means ones that degrade the strong nuclear
+force at some distance from a ship, upsetting the
+fine-tuning that allows nuclear weapons to achieve
+supercriticality and cause chain reactions that create
+their explosive power. These devices can also inhibit
+the fusion reactions the weapons rely on for part of
+their destructive power. Meson screens are a variant
+that prevent meson decay, causing incoming mesons to
+skip through the protected ship and explode harmlessly
+outside. As non-military ships rarely encounter these
+weapons, such defences are rarely worth installation.
+Far more small ship crews will be familiar with the
+miniature and lower TL nuclear dampers that are part
+of modern fusion power plants than with versions
+designed for ship defence. Nuclear dampers too shortranged and weak for ship defence are also used in
+antiradiation treatments in well-stocked TL10 medical
+bays. Belters safely mine radioactive ores using nondefence-grade nuclear dampers. Range and power
+issues aside, shipyards cannot repurpose these for
+ship defence because they are too specialised. For
+instance, ones optimised to promote beta decay for
+neutron manufacture will not defuse most nuclear
+weapons but might detonate them.
+
+Weapons and Defences
+
+Among the mechanically simplest of weapons, these
+‘broadcast’ gravity in the direction of the target, to either
+attract or repel it. Installers use reinforced mountings,
+to make sure these units do not tear out of the ship.
+Some of the techniques usable for enhancing radio
+communications are applicable to tractor and pressor
+beams, enhancing range. Smaller versions of these are
+common among belter ships to draw in ores blasted free
+by laser drills, although these are too small for offensive
+use. Generally, only those large enough to mount in
+turrets or larger installations offer combat capabilities.
+
+larger ships, which are incompatible with standard
+turrets but perform better at the expense of only being
+useful for this purpose.
+
+105
+
+

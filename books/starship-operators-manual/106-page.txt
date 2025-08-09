@@ -1,0 +1,127 @@
+T
+
+Nuclear dampers are versatile tools. A nuclear damper
+can prevent a fusion or fission power plant from starting
+up, force one into shutdown or damage it through
+power fluctuations. This is usually not possible in
+space battle, as even the largest damper weapon has
+to compete with the target’s fusion sparkplug and the
+damper has the disadvantage of range. An ultra-heavy
+missile might carry one or a raider craft might use one
+at boarding range but the most common offensive use
+is at starports. A vehicle with a nuclear damper can
+drive up to a ship when the crew is not paying attention
+and prevent them from powering up and leaving. This is
+akin to gravitic restraints, with the benefit that a trapped
+ship cannot power its weapons and fire at starport
+personnel until released.
+
+BLACK GLOBES
+
+Weapons and Defences
+
+These devices of Ancients origin project a spherical
+force field at adjustable radii around the projector.
+This globe absorbs energy passing through in either
+direction, including visible light. Projectiles stop dead
+relative to the globe, their kinetic energy having been
+absorbed. Some of the first examples were set to
+small enough radii that the people who powered them
+up were cut in half. Authorities quickly distributed
+recognition manuals and safe testing procedures to
+keep that from happening again. Most ships have
+standard library software from the Travellers’ Aid
+Society, which includes these manuals, preventing
+future dismemberment.
+
+106
+
+Transferring this energy to capacitors is the main
+weakness of the system as the capacitors can only
+hold so much, although they slowly discharge energy
+while switching off the globe. If the capacitors exceed
+their capacity they shatter, explosively releasing the
+stored energy. A secondary weakness is that energy
+absorption is total and bidirectional. Incoming sensory
+impressions are blocked just as incoming weapons
+fire, so the protected ship is flying blind. Gravitic
+energy is likewise absorbed, preventing manoeuvre
+drives from interacting with the universe beyond the
+globe, so the protected ship is drifting rather than
+flying, hopefully not deep within a gravity well. A
+common workaround is to set globes to flicker, firing
+weapons and drives when the globe will be down,
+although this gives a random chance as to whether
+the globe provides any protection.
+The Third Imperium’s most advanced labs have
+been able to fabricate prototypes, with speculation
+about more advanced forms such as a white globe
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+that radiates energy while in use. These systems are
+generally not available for sale for any number of
+Credits. Favours or theft are required to obtain one.
+
+SOFTWARE ASSISTANCE
+Most cultures that invented computers before
+interstellar contact were already quite familiar with
+computers’ utility for fire control at long ranges. The
+longer ranges and higher velocities of space combat
+only exacerbate the difficulty of directing fire to hit a
+target. Computers are unable to perform as well as
+sophonts in many shipboard tasks but combat stands
+out as the exception.
+Alas, top end military software and the computers that
+run it are expensive. Successful commercial operations
+avoid frequent combat, with the costly repairs it entails,
+so there is much less opportunity to recover these
+costs. The best sharpshooter that money can buy may
+be a program but even military ships can rarely afford
+the highest rated software. Only the personal ships of
+nobles and the similarly wealthy may have it.
+Mid-range and low-end assistance is another story.
+There are countless armed merchant ships where the
+only decent shot aboard is the computer, with crew
+involved only to select and confirm targets. Sensor
+operation and piloting are tasks that computers can
+handle with the proper software, as noted under Drones
+and Virtual Crew on page 64.
+This is rarely adjustable during combat, save to
+select which program is running should a ship have
+more software than available computer power. There
+is usually a best answer for any given situation; for
+instance, unless a jump is happening or will soon
+happen, there is probably no need to allocate resources
+to run Jump Control. The time to decide on appropriate
+software assistance is while in port before heading into
+dangerous territory.
+
+MANOEUVRING
+
+A first year pilot may think their job consists only of
+flying a ship from point A to point B, sitting back if
+and when combat happens since there is no way to
+dodge incoming fire. This is not the case, as a pilot’s
+performance can prevent their ship’s gunners from
+doing their job. During a fight, a good pilot will position
+the ship to allow all weapons to fire on their targets,
+spinning the ship as needed to bring each weapon to
+bear while the others recharge, all while evading in
+non-predictable patterns to minimise successful enemy
+
+R
+
+

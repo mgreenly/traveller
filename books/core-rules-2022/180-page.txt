@@ -1,4 +1,3 @@
-T
 
 It is considered good practice to ensure there is
 enough Power available to use the basic ships
@@ -51,20 +50,7 @@ ship to a snug single-seat cockpit in a fighter.
 The size of bridge required and its cost are shown on
 the Bridges table.
 
-
-R
-
-A
-
-V
-
 Bridges
-
-E
-
-L
-
-L
 
 Size of Ship
 
@@ -93,8 +79,6 @@ Size of Bridge
 2,001 tons or more
 
 60 tons
-
-E
 
 The cost of any bridge is MCr0.5 per 100 tons (or part
 of) of the ship it is installed within.
@@ -128,7 +112,5 @@ computers installed in a ship work just like personal
 computers (see page 110) but are considerably
 more powerful because the software needed for ship
 operations requires a great deal of processing power.
-
-R
 
 

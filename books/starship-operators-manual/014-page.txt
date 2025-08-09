@@ -1,0 +1,107 @@
+T
+
+Solar coatings are little more than an outer layer
+of solar panels, usually serving as backups for the
+primary power plant, sometimes replacing it on space
+stations. Unlike deployable solar panels, they are
+conformal to a ship’s hull and cannot retract, with all
+the drawbacks that implies. While sometimes shiny
+like reflec coatings, they do not offer the same antilaser benefits. Ships with black globe generators,
+as described on page 106, sometimes use solar
+coatings, especially useful while drifting.
+An ‘ablat’ coating is designed to burn off the ship,
+keeping the underlayers protected, meaning it must be
+reapplied regularly. While many believe that one could
+just keep stacking layer upon layer of ablat on the hull,
+even measuring a given level of effectiveness and
+remaining strength in multiples of a standard reference
+coating, an ablat coating is only one layer. Multiple
+layers of the same material either fail to adhere or
+cause the undercoating to become weakened and flake
+easier. How long this one layer can take the heat before
+it burns off depends on the components, which improve
+by Tech Level as better materials are developed.
+‘Anti-layers’ specialise in protection from blasts,
+electromagnetic pulses and kinetic impacts. Nonablative heat shielding is an early form of this,
+necessary for spacecraft without manoeuvre drives to
+safely enter atmospheres. By far the most common
+anti-layer is ‘anti-rad’, better known as radiation
+protection. Basic radiation protection is standard on
+most ships. Protection against weapons specifically
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+designed to overwhelm with radiation is another matter,
+but ships can be built with extra shielding. Even when
+the entire hull does not have this coating, any ship
+weapon that fires significant amounts of radiation will
+have shielding around the weapon’s mount, so that
+firing it does not harm the crew.
+Less often seen are options for camouflage. While
+light emitting diodes and programmable paints can
+change the colour scheme of a ship, holographic hulls
+take it a step further, able to simulate battle damage or
+slightly different shapes. Going even further, extending
+beyond the realm of mere coatings, a hull can be
+built to shapeshift, acquiring the silhouette of another
+ship of the same tonnage. These ships tend to have
+electronics to give off emissions similar to the ship
+they are pretending to be. This is useful for fitting odd
+shapes of cargo, such as the Nishemani pirate ship that
+was built to envelop disabled 100 ton ships, regardless
+of its prey’s exact dimensions.
+Ships with an emphasis on stealth use a polarised
+coating that can switch on or off to absorb or deflect
+sensors. This expensive coating is popular among
+those wanting to hide their ship’s presence, such as
+naval scouts or commerce raiders, not to mention
+corsairs. Some pirates claim the cost for this coating
+pushes them into a life of piracy to pay for it, while
+shipyards refute this claim, stating that most ship
+owners who are interested in this coating were already
+heading for questionable business practices. Blockade
+runners and smugglers favour stealth coatings.
+
+Close
+Slider
+pivot
+
+Pulley system
+
+Control
+panel
+
+Hull
+
+Manual
+control
+hatch
+
+Fixed ring
+
+Rotating ring
+
+Fixed pivot
+
+BULKHEAD
+Open
+
+IRIS VALVE OPENING
+
+14
+
+E
+
+R
+
+

@@ -1,0 +1,67 @@
+Every spacecraft is made to perform a certain range
+of functions. While some fulfil their intended role better
+than others, few are complete failures. Practically
+without exception, additional uses have been found for
+any class of spacecraft. There are inevitably design
+quirks that make a ship hard to use for one purpose but
+perfect for another. A ship designer can only imagine
+how a ship would be used, where people who have
+worked, lived on and refitted a ship can point out
+improvements. More importantly, the lifespan of most
+ships far exceeds the length of time typically spent
+developing a new ship class. A ship designer does not
+always see these quirks manifest before the ship is
+constructed and tested.
+
+TERMINOLOGY
+
+This lack of foresight can be seen in the cramped
+cargo hold access in the Suleiman deckplan in the Ship
+Walkthrough chapter, along with the problematic airlock
+to holding pen route of the Animal class. This book
+also covers how to modify a ship to fix such issues,
+or otherwise work around them, to help you become
+a knowledgeable and confident starship operator
+regardless of the ship you serve on.
+
+SPACECRAFT: A vehicle capable of travelling through
+space.
+STARSHIP: A spacecraft with a jump drive. Also referred
+to as ‘ship’.
+BOAT: A spacecraft that is not a starship.
+DISPLACEMENT TON: A measurement of volume equal
+to one metric ton of liquid hydrogen, roughly 13.5
+cubic metres. When discussing spacecraft, ‘ton’ – if
+not specified or otherwise obvious from context – most
+often refers to a displacement ton.
+
+When dealing with starships, it is useful to know the
+specialised terms used in reference to them. This book
+leans toward common usage by starship crews in the
+Third Imperium. See for example the note about the
+definition of ‘radiation’ on page 30.
+
+DIRECTIONS ABOARD SHIP
+
+Introduction
+
+Not all ships have the same mission. Parts of this book
+speak more to certain ship types more than others.
+For example, neither the Suleiman nor the Animal
+are designed to handle 4A cargo containers but an
+Empress Marava can and often does. Some details of
+sensors and communicators are there to help deal with
+
+the sort of anomalies that a scout such as the Suleiman
+routinely sees, which are less likely to be of use to
+Animal or Empress Marava crews. While Suleimans
+and Empress Maravas rarely deal with live cargo, this
+is more of a concern for the Animal class.
+
+In most languages, the terms for directions aboard a
+spacecraft evolved from those in use on pre-spaceflight
+wet-navy ships. These are not universal. On some ships
+
+5
+
+

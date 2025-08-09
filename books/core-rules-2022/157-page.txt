@@ -44,7 +44,6 @@ again. Astrogation can be done in advance (a jump is
 normally plotted while the ship is travelling out to the
 100-diameter distance).
 
-
 Jump drive not maintained: DM-1 per month
 behind maintenance
 Using unrefined fuel: DM-2

@@ -1,0 +1,84 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+engine, requiring costly replacement after several hours
+of use. More importantly, almost no inhabited world
+capable of controlling its airspace allows the operation
+of open cycle reaction drives anywhere near their world
+where fallout could reach areas they wish to protect,
+although closed cycle drives are allowed. This ban on
+open cycle drives is treated as seriously as the ban on
+the use of nuclear weapons near populated worlds in
+Imperial space, although technically it falls to individual
+worlds to enforce.
+It is generally not efficient to conduct a full fusion
+cycle and use the resulting helium as reaction mass,
+although some drives do. Among the issues is
+maintaining the larger nuclear damper field needed
+to cover the entire engine. Rather, most nuclear
+thermal drives use a separate dedicated reactor to
+heat hydrogen pulled from the same fuel tank that
+services the main power plant and, on starships, the
+jump drive. This allows spacecraft to trade off jump
+capability, operational endurance and reaction drive
+performance. Some fighters make an art of this, the
+same fuel tank allowing for either an extended patrol
+using only manoeuvre drive or high speed but limited
+duration combat operations.
+
+Fuel
+
+Open
+cycle
+
+Reactor
+
+Reaction Drives
+
+Nuclear thermal drives are the most common
+form of reaction drive in modern ships due to the
+widespread use of ‘HEPlaR’, or High Efficiency Plasma
+Recombustion. It is so common that, if one sees a
+ship in the Third Imperium with an unidentified type
+of reaction drive, it is safe to assume HEPlaR unless
+there is evidence to the contrary. The term became
+generic, similar to modern fusion power plants being
+called ‘Fusion+’ even if they do not precisely follow the
+original patented formula.
+Modern use of the term means a cluster of small fusion
+reactors – usually three, four, or six – arranged around
+a central chamber that takes in liquid hydrogen, heats
+it to a plasma and expels it. Not primarily designed to
+capture fusion output as electricity, these small reactors
+use laser-weapon-grade mirrors, superconductors and
+further means to route more than 99% of the output
+energy directly into the propellant. The remainder
+is waste heat, partly used to spin turbines to create
+electricity used to recharge ultracapacitors that start the
+fusion reaction and to manage the system. Like most
+rockets, HEPlaR is fully independent of the ship’s power
+system, needing no external energy to start or maintain.
+
+NUCLEAR THERMAL DRIVES
+
+96
+
+Closed
+cycle
+
+R
+
+

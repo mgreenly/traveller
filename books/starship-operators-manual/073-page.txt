@@ -1,0 +1,79 @@
+SENSOR EMPLACEMENTS – SULEIMAN SCOUT/COURIER
+
+Antenna
+
+Ship-length baseline
+
+Drones
+
+Deployable
+
+Avionics
+
+DEPLOYABLE
+
+MISSILES
+
+Missiles, armed or otherwise, typically have at
+minimum rudimentary sensors for range-finding,
+target-finding and object avoidance. The Scout Service
+has specialised missiles which are all sensors and no
+warhead, typically one-use probes.
+
+DRONES
+
+Better than missiles, the drone is an ideal, reusable
+remote sensor platform. They can go into hazardous
+places and conduct sensing without exposing the
+crew to harm. Drones deployed over a wide area can
+become a planetary satellite sensor network capable of
+spotting targets anywhere in their system.
+
+STARPORT AND
+SYSTEMWIDE SENSORS
+Woe betide the naive would-be smuggler who
+believes that, just because their ship’s sensors have
+limited range, starport sensors must be similarly
+limited. Starport sensors have two advantages over
+starship sensors.
+First, size is no object. A starport can field the largest
+sensors it can afford. This typically means it will affix all
+sensors on antennas and dishes if it has the Credits.
+Second, a host world offers the potential for very large
+aperture synthesis, the ability to link sensors across
+extreme ends of a planetary surface or orbit to form one
+huge virtual sensor. This provides a massive advantage
+in detecting, identifying and locking onto targets. As
+it is composed of many smaller sensors, damage to
+one piece of the compound unit merely degrades its
+capability by a small percentage, while identifying the
+location of a threat.
+Theoretically, a set of sensors separated by long
+distances can increase the resolution of scans. For
+example, two installations set at opposite ends of a star
+system could, in theory, yield a resolution of one metre
+or better at 1,500 parsecs’ distance. The data at that
+range would be thousands of years old but could identify
+alien civilisations expanding toward Charted Space.
+
+Sensors & Communications
+
+Specially designed turrets or barbettes may be
+deployable, with their own sensors for remote data
+gathering or remote attacking. This covers both
+extendible sensor booms, which make the ship a bigger
+target and harder to manoeuvre, as well as detachable
+mounts that are essentially drones whose docking
+points consume a hardpoint. The main difference from
+a generic drone is that detachable mounts usually
+never leave the ship’s immediate vicinity, as the ship
+powers and controls them using short-range tightbeam.
+Both extendable and detachable mounts operate a
+short distance from the ship, so some treat them as
+various means to achieve the same effect.
+
+Dish
+
+73
+
+

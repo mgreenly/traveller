@@ -120,7 +120,6 @@ Events
 11
 12
 
-
 EVENT
 Disaster! Roll on the Mishap table but you are not ejected from this career.
 A patron offers you a chance at a job. If you accept, you gain DM+4 to your next qualification roll but

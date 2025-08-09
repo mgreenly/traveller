@@ -1,0 +1,115 @@
+on page 33. Some of the bag’s contents, in particular
+the disassembled survival rifle, would be useful to a
+hijacker if left unsecured.
+
+OPTIONS
+Not all hulls are identical. A living ship designed only
+to hold one standard atmosphere and a dead metal
+pressure vessel able to handle 100-atmosphere
+pressures are hard to confuse for one another.
+
+SELF-HEALING ORGANIC AND POLYMER HULLS
+Biotech hulls have some ability to regenerate
+themselves, going well beyond the self-sealing
+capabilities of most hulls. Engineered from artificial
+biomass, these hulls contain organic proteins that bond
+together like a body repairing from a cut or scratch.
+While this process takes time, it is a marvel to watch as
+the hull sutures itself back together.
+TL10 polymer hulls heal themselves slower than TL12
+organic hulls. However, it is much easier to mix more
+polymer from their base components and repair on
+the go than for a standard metal hull. New polymer is
+spread or laid over the hull breach and heated to bond
+with the old polymer, creating an airtight seal.
+
+NON-GRAVITY HULLS
+
+Not all spacecraft have artificial gravity. Some utilise
+spin or thrust gravity, while others work with none at all.
+
+Some non-gravity boats are constructed under the
+assumption that they will usually be under acceleration
+provided by reaction drives, thus providing thrust
+gravity. This assumption is true if there is infrastructure,
+such as for passenger shuttles, to transfer to at either
+end of the journey or if the boat is constructed for a
+single one-way journey, such as cargo or colonist
+transfer within a system. This is an expensive
+proposition, so such ships are constructed as cheaply
+as possible, giving a reputation for unreliability. Without
+this infrastructure, the vessel winds up spending
+significant time in orbit or microgravity.
+
+AQUATIC OPTIONS
+
+Most ships can float but many mistake a ship’s space
+worthiness for an ability to go underwater. While going
+underwater requires the ship to be airtight – which
+spacecraft are – a much stronger hull is needed to
+withstand the pressure of ocean water. Most starships
+are built to withstand pressure differentials of up to
+one atmosphere. Diving about 10 metres into a typical
+ocean is equivalent to one atmosphere; the pressure
+increases the further down a ship goes and, unlike
+in space, pushes inward rather than out. Gas giants
+feature high pressure deep in their atmospheres and
+this is why diving a typical starship deep into an ocean
+or gas giant is not recommended. A few starships
+can handle higher pressures thanks to structural
+reinforcement and good external hatch design,
+typically research vessels or system defence boats
+intended for ambushes.
+
+Hull
+
+With spin gravity, a structure – typically a cylinder
+or wheel – rotates such that the centrifugal force on
+someone standing inside it imitates gravity, in a sort of
+inverse of how orbiting a planet works. This simulated
+‘gravity’ tapers off linearly as one progresses toward
+the centre: if there is 1G at the outer rim, there is
+0.5G halfway to the centre and 0G when at the
+axis of rotation. This gradient is more intense on
+smaller ships so it is rarely used, although there are
+exceptions such as laboratory ships that sometimes
+run experiments where this is useful. It is more
+common on cylindrical space stations of a minimum
+of half a kilometre in diameter, where a non-rotating
+central axis facilitates docking, with curved elevator
+tracks accelerating and decelerating passenger transit
+to and from the rotating outer section. Long-term
+residents of such stations acclimatise to the subtle
+differences, such as a Coriolis effect that creates a
+pull to the right or left when moving with or against
+the direction of rotation. Manoeuvring is more difficult
+when employing spin gravity but any modern flight
+control software is more than up to the task.
+
+Ships meant for long-term habitation without any form
+of gravity are rare, as almost all sophonts are optimised
+for existence in a gravity field. The deleterious effects
+of living in different gravities are well-documented and
+typically less than those of living in no gravity. While
+there are treatments and adaptations available, the
+general medical consensus is that most sophonts
+should spend a few hours of each day, preferably the
+majority, in some sort of significant gravity. For humans
+and others who trace their genetic origins to Terra, the
+recommended minimum is 0.05G. This is why worlds
+with less than 0.05G are either not colonised or have
+artificial gravity plates installed. However, exposure to
+microgravity is not immediately fatal to most sophonts,
+so ships without gravity are sometimes constructed,
+especially by worlds unable to build or buy grav
+plates, mainly TL7–8 worlds newly establishing or
+reestablishing spaceflight.
+
+Some aquatic sophonts have found their submersible
+vehicles work well as the basis for spacecraft designs.
+Their spacecraft can easily handle the pressure of
+deep oceans or gas giant atmospheres, making them
+
+11
+
+

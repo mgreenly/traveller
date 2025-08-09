@@ -1,0 +1,95 @@
+JUMP DRIVES
+Although other means of faster-than-light travel have
+been theorised, mostly by speculative fiction authors
+and breathless scientists hoping for significant research
+grants, the jump drive remains the sole means by
+which starships can traverse the distances between
+stars within any reasonable length of time. From the
+weeklong transit to the 100-diameter limit, the jump
+drive and its operational principles have shaped
+interstellar society for millennia. As such, even crew
+uninvolved with the jump drive’s operation should
+have a basic familiarity with them and their operation,
+including crew aboard non-starships.
+
+THE BASICS OF JUMPSPACE
+
+Despite differences in their construction, all jump drives
+are beholden to the laws of jumpspace. Even after
+millennia of use, scientists do not fully understand
+jumpspace, largely due to the difficulties of running
+experiments on something that renders all it touches into
+subatomic particles and energy. Much of the existing
+data on it comes from the work of the Jumpspace
+Institute on HRD/Vincennes and its predecessors,
+although other polities outside of the Third Imperium
+maintain their own research institutes. In spite of their
+efforts, models of jumpspace created using this data are
+incomplete – we know how it behaves but the why of it
+eludes us. However, from these models we can glean
+some basic operational principles of jumpspace and how
+best to avoid its wrath.
+
+JUMPSPACE
+
+Many believe jumpspace comprises the ‘bulk’ in
+which our universe is embedded. A common, if trite,
+analogy is of viewing our universe as a 2D sheet in
+a 3D space, with jumpspace all that is above and
+below it. It is unclear whether jumpspace is part of
+our universe, another universe, a series of universes
+parallel to our own, or something external to our
+universe altogether. This uncertainty gives rise to
+different nomenclatures denoting the reality in which
+we live, with the most common being ‘realspace’.
+Critics regard this term as a misnomer, pointing out
+that jumpspace is very much as real as the space in
+which we live, irrespective of how alien it might be.
+This book uses the term because it is how most of
+our audience already refers to it.
+
+82
+
+COREWARD WAVE
+There are a few spacer’s tales of someone to
+coreward jumping through some sort of massive
+energy wave. They encountered blue sparkles
+in jumpspace at about the time they would have
+passed through the wave, with the duration
+roughly equal to how long it would have taken
+to pass through the wave, had their position
+in jumpspace corresponded to their realspace
+position. If these tales are true then there is or
+once was some sort of curious phenomena,
+potentially useful for navigation within its region,
+somewhere in that direction. Unfortunately for
+would-be researchers, this is far from the Third
+Imperium’s borders, either deep within the Vargr
+Extents or entirely beyond them.
+
+When performing a jump, ships translate from the
+‘surface’ of realspace to a certain ‘height’ in jumpspace,
+called the jumpspace level. Studies prove jumps of
+different distances correlate to different levels, with
+the longer the jump in realspace the deeper a depth
+travelled through jumpspace. No other correlation is
+found between realspace and jumpspace, and studies
+suggest that scientists will not ascertain any. When
+jumping, a ship is removed altogether from realspace,
+such that the concepts of its ‘position’ and ‘speed’
+are meaningless for the duration, until reemergence.
+It is possible that the ship might have position and
+speed within jumpspace but these do not map to
+realspace equivalents and there are no perceptible
+external reference points within jumpspace, making
+determination of location and velocity impossible.
+
+MISJUMPS
+
+Throughout Charted Space, many thousands of
+jumps take place every day without incident. Despite
+the concerns of a few paranoid souls who find the
+strange nature of jumpspace abhorrent and refuse to
+step aboard a ship that ventured into jumpspace, let
+
+

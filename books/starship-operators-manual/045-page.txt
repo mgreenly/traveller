@@ -1,0 +1,110 @@
+often useful in other applications. As with any docking
+space, it is possible to use drone hangars as backup
+airlocks in an emergency.
+
+ESCAPE PODS
+
+Most craft do not carry dedicated escape pods, as
+they tend to place crew who were safe in orbit into
+dangerous situations. The main exception is for military
+or paramilitary ships which might draw a swarm of
+incoming missiles, giving enough time to eject before
+they hit. Most other causes of imminent ship destruction
+either do not give enough warning to eject, present
+a situation such as a crash landing where staying
+inside the ship is more survivable, or are caused by
+something inside the ship that can be ejected such
+as an explosive or poison gas. Re-entry capsules
+are more useful for rapid insertion into dangerous
+situations, such as for an assault or rescue ship.
+Subcraft can be used as escape pods on ships
+if present. An air/raft is among the most common
+subcraft; while it has an open cockpit and is
+underpowered by the terms of space vehicles, it is
+perfectly adequate for limited space manoeuvres
+followed by a suited or rescue-balled descent to
+ground. Subcraft should never be used this way unless
+the parent ship is a hulled wreck that has been fully
+looted of anything that could sustain life or is on an
+intercept course with a planet or other massive object.
+Even in the latter case, first consider whether the
+subcraft’s drive could nudge its parent ship into a stable
+orbit or a course that will miss the object.
+
+FITTING LARGE CARGO
+
+Less common is the Tonner, like a One Cube but three
+metres by two and a quarter metres by two metres,
+taking up a full displacement ton. These are sized to fit
+
+Beyond that is the ‘4 (Interstellar)’ series, which come
+in a range of sizes. These containers are expected
+to be moved by cargo cranes, forklifts or other
+external measures and thus rarely contain their own
+lifters, although some have grav carts permanently
+installed. They require even larger openings than
+Tonners, usually only found on large cargo freighters.
+A small ship capable of ferrying one 4A container
+can often find emergency freight jobs at Class A or
+B starports. It is understood that the ship may try
+to use its remaining cargo volume for other freight
+or speculative trade, which is tolerated so long as
+the ship takes off for its destination within a day and
+does not make any side trips until the container is
+delivered. This is substantially more expensive than
+ordinary freight and used when the cargo cannot wait
+for a ship to happen to be making the run. The cost of
+this scales with the ship’s size so these contracts are
+rarely given to ships greater than 200–400 tons.
+Type codes designate a given container’s form and
+purpose, and follow a simple format. The first digit
+represents what form a container takes: a standard
+box with a hinged door at one end, an open frame, or
+a simple pallet. The second gives an indication as to
+function: whether it has environmental controls, if it has
+grav plates installed to protect fragile cargo, et cetera.
+Some of the more common examples are listed here.
+As with ship mission codes, the second digit depends
+on the first for its meaning and specialist containers
+that do not fit neatly into these categories sometimes
+use multiple ‘function’ digits to clarify their purpose.
+For instance, ‘5’ usually means ‘sealed’ but ‘55’ is the
+opposite of sealed.
+Containers vary in price by size, type and TL, from
+barely Cr50 for a simple 4F00/5 portable steel box up to
+roughly MCr0.5 for a 4A92/F that might act as a noble’s
+stateroom. Between the metallurgy and precision
+required, even the simplest of these containers are
+rarely made to lower than TL5 standards.
+
+Cargo & Docking Systems
+
+Many cargoes come in standardised containers for
+ease of handling. Nearly all starship captains are
+familiar with the standard One Cubes, a one-metre
+cube with tiny spherical wheels set at the bottom and
+indents along the top to allow these to lie flush against
+one another. One of the sides swings open to provide
+access. These are sized to pass through standard
+iris valves and commonly found on all sizes of trader
+ships. Like all standardised cargo container types
+described in this section, cubes with environmental
+controls or other power needs have internal batteries
+with 24 hours of charge, designed to wirelessly
+recharge from common starship or starport chargers,
+passing charge from one container to another.
+
+through cargo doors and only ships with cargo airlocks
+or other large entrances can bring them aboard. This
+is a rare feature among 100-to-200 ton ships, other
+than dedicated trader ships. Many take the presence
+or absence of this feature as the defining element
+determining whether a vessel counts as a ‘trader ship’.
+Fortunately, with good packing, 14 One Cubes can
+often carry the same volume of cargo as a Tonner.
+The Tonner’s slight advantage in space efficiency only
+matters if it can be brought aboard to begin with.
+
+45
+
+

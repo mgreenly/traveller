@@ -1,0 +1,127 @@
+T
+
+grids. Imperial and Solomani ships, as well as preImperial Vilani ships, typically employ a square or
+rectangular mesh sometimes mockingly referred to
+as a checkerboard. Zhodani starships tend to use
+a triangular mesh. Droyne ships utilise a hexagonal
+pattern, with a few pentagons scattered in to allow for
+proper tessellation over their surfaces. Aslan ships
+instead use curving, swirling lines, with whirls and
+spirals reminiscent of the calligraphic yoyeaokhtef
+that adorn their interior walls; Aslan engineers find it
+easy enough to follow these patterns that they are
+no harder to maintain than ‘boring’ Imperial designs.
+Vargr ships rely on an evenly spaced but otherwise
+completely anarchic setup; the trick to maintaining
+these is apparently to treat each section of the hull as
+its own thing and follow the ‘advice’ it gives rather than
+trying to impose a single uniform solution on the entire
+ship, similar to how any large Vargr group works. Hiver
+vessels utilise complex, intricate moiré-like grids with
+overlapping elements, which can be quite dazzling
+to the eye when activating. The K’Kree use a grid of
+parallelograms likened to ‘blades of grass’ on their
+saucer-shaped vessels.
+
+JUMP INTRUSIONS
+
+Jump Drives
+
+A ‘jump intrusion’ is when the jump field collapses
+and intersects the hull, most often mid-jump after
+field inflation. All recorded misjumps that involved
+jump intrusions showed them progressing in either
+a steady advance or a ‘pulsing’ rate with brief
+increases in the rate of intrusion coupled with
+temporary slowing or reversal.
+
+92
+
+While a jump intrusion can cause a wide variety of
+problems, the crew should deal with it like a hull
+breach. The affected areas exposed to vacuum should
+be evacuated and sealed off. This breach may spread,
+so plan according to how long each part of the ship has
+left. If there is a room that projections show will remain
+untouched, plan to gather there. Failing that, meet
+in vacc suits in whatever area will be least affected
+and have materials to patch the breach once out of
+jumpspace; the jump intrusion will vanish immediately
+upon jump exit. The damage is done but it will not
+deteriorate any more. Plan to have a distress beacon
+broadcasting the moment you exit jump.
+If projections show complete collapse of the jump
+field, a ship’s only hope is to have a way to slow
+the jump intrusions down. Most often, it will involve
+stopping whatever caused them in the first place. If
+the intrusions progress significantly, reaching them
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+may require unorthodox methods such as cutting
+through bulkheads or passing through exposed
+areas during a low pulse. If the crew can eliminate
+the source, it may be possible to use the jump field
+subsystem to reinflate the field, especially if there
+is leftover fuel. While past the most critical danger,
+the starship will have suffered heavy damage, likely
+with life support partially compromised. Surviving
+crew and passengers will not be ‘safe’ until aboard a
+rescuing spacecraft or port.
+Prevention is the best cure. Fix malfunctioning
+equipment and do not use it until repaired, despite the
+idea that fixing it would be too expensive or bothersome.
+Some point to statistics or anecdotes that show ships
+with these equipment issues still fly well but that is a
+survivorship bias error, as these statistics and anecdotes
+only include ships not lost to jump intrusions.
+
+MAINTENANCE AND UPGRADES
+When bringing a ship into a starport for annual
+maintenance, the technicians pull each of the drive
+elements and test them individually. Ships that use
+ongoing maintenance instead of annual maintenance
+test units in a rotating schedule between jumps,
+replacing failing or substandard units. This level of
+modularity benefits the jump drive industry.
+Occasionally maintenance issues become apparent
+during the creation of the jump field. Even with
+computer control, the field sometime brushes against
+the hull, causing micrometeorite-like dings. Unclogging
+the hydrogen injectors is another common maintenance
+headache due to large numbers of them, even on
+a relatively small Suleiman hull, which spend most
+of their time exposed to vacuum. While they squirt
+tiny amounts of hydrogen, occasionally larger debris
+sticks and clogs the injectors in a manner akin to
+particles lodged in pores on skin. This results in no
+end of references to engineers giving the ship a spa
+day. Freezing and clogging the injectors is the most
+common means by which impurities in unrefined fuel
+interfere with jumps.
+Upgrading a ship’s jump rating typically means buying
+a new jump drive. If absolutely necessary, a jump
+drive can be rebuilt or upgraded piece-by-piece,
+although it is not recommended as trying to modify
+a non-native component to work with other systems
+can be more expensive than buying a new jump drive
+to begin with. Upgrade the power conditioner first to
+handle the additional power drawn from the power
+plant, then the control system. Most starships have
+drive/shunts designed for multiple jump levels at that
+
+R
+
+

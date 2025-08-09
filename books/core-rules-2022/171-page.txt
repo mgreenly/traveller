@@ -47,7 +47,6 @@ parties. If the Gunner (turret) check is successful, each
 target in the boarding party suffers 8D point of damage
 at Ground scale (so do not multiply it).
 
-
 Once all ships have resolved their attacks, their crew
 can perform one action each in the Actions Step. This is
 done in Initiative order and the actions a crewman can

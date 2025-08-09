@@ -1,4 +1,3 @@
-T
 
 Atmosphere
 Atmosphere
@@ -60,11 +59,7 @@ detailed on page 80.
 
 250
 
-R
-
 Pressure
-
-A
 
 0.00
 0.001 to 0.09
@@ -82,16 +77,6 @@ Varies
 2.5+
 0.5 or less
 Varies
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Survival Gear Required
 
@@ -162,11 +147,8 @@ damage every few minutes (or potentially hours,
 depending on the level of taint), in addition to any
 other effects.
 
-
 Low: The opposite of a Very Dense atmosphere, these
 massive worlds have thin N2/O2 atmospheres that
 settle in the lowlands and depressions and are only
-
-R
 
 

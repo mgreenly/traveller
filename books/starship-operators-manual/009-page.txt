@@ -1,0 +1,118 @@
+SENSOR NODES
+
+As noted in Sensors and Communications, starting
+on page 66, many ships use their entire length as one
+large synthetic aperture array. This means distributing
+cameras, antennas, and other sensor hardware over
+the hull. Typically, these are in small nodes mounted
+beneath external armoured ports which are translucent
+to the signals the sensors are intended to detect.
+
+JUMP DRIVE EMITTERS
+Any spacecraft with a jump drive needs a way to enter
+jumpspace. This takes the form of thousands or millions
+of emitters built into the hull, with a density comparable
+to pores on skin. Each emitter must activate in a
+precise sequence at a rapid pace to make a successful
+jump entry. Although this is notoriously complex, such
+that only computer control can perform the task, there
+is no known alternative. Using a smaller number
+of emitters or taking several milliseconds between
+activations results in only part of the hull being covered
+by the jump bubble before it collapses, resulting in a
+misjump. The presence of jump drive emitters in every
+square metre – with the attendant feeds for power, data
+and jump fuel – is often the easiest way to distinguish
+hull material intended for starships from that planned
+for other spacecraft. For more detail on how jump
+drives work, see page 82.
+
+BASIC RADIATION PROTECTION
+
+Most spacecraft and space station hulls can indefinitely
+protect their inhabitants from ordinary background
+radiation and, if a major solar flare threatens, either
+manoeuvre to place themselves in a shielded location
+or rotate to place most of their hull between the flare
+and the crew. On low TL spacecraft this protection
+comes from mass. Once the technology is available,
+magnetic fields (tiny, low-powered magnetospheres)
+are a more practical solution. Nuclear damper
+technology partially stems from work on these radiation
+protection systems. For more detail, see Radiation
+Protection starting on page 30.
+
+On modern spacecraft, structural reinforcement as
+well as power and surface area limitations mean the
+accepted limit is one ‘hardpoint’ per 100 displacement
+tons, while small craft have a number of ‘firmpoints’.
+Most ship-scale weapons take up one of these points,
+with downrated versions mounted on firmpoints. These
+points are notional until the hardware and fire control
+systems are installed. While the cost of this is often
+negligible next to the cost of the weapon, installing a
+new weapon system to use a spare hardpoint often
+requires minor redesign of a ship. Sophonts have been
+
+For example, a 200 ton Animal could host two weapons
+but only comes with one double turret. Upgrading the
+double turret to a triple turret is easier than adding a
+second turret, thanks to standardised fittings and the
+complications of hull modification. An informal survey
+suggests it is more common for those that have two
+weapons to use their second hardpoint to host a fixed
+mount weapon than add a second turret or barbette.
+More details are in Weapons and Defences, starting on
+page 99.
+
+SELF-SEALING
+Several methods have been developed for hulls
+to automatically seal small ruptures, such as from
+micrometeoroids or light weapons fire. Some weave
+capillaries throughout the hull that extrude sealant
+when breached, while others have small robots either
+constantly patrolling or dispatched when a breach
+is detected. Some employ double hulls – essentially
+crawlspaces – that contain small breaches to the outer
+layer, whereas others seal off the affected area internally.
+
+LANDING GEAR
+
+Any ship intended for orbital interface and landing,
+such as traders intending to use downports, scout ships
+surveying alien worlds or any sort of transport shuttle,
+must mount landing gear. Ships planning to solely
+utilise orbital installations need not bother.
+Most ships use pads or skids that extend and retract
+for landing. Having a pair of skids is simpler than
+maintaining individual pads and legs on each corner
+of a ship but is less effective for wilderness landings.
+Ships with skids are meant to only ever land at
+starports. Some pads, particularly at higher Tech
+Levels, can unfold or extend to present more area
+and thus reduce ground pressure. There are tales
+of Travellers who landed in the wilderness without a
+problem, got out of their ship and began sinking into
+soft ground because the ground pressure of their boots
+was much greater than the ground pressure of their
+ship’s landing gear.
+
+Hull
+
+HARDPOINTS AND FIRMPOINTS
+
+trying to put more weapons on spacecraft for over ten
+thousand years. Using more weapons on a ship results
+in structural damage to the ship, the weapons tearing
+free and/or having insufficient power.
+
+To move short distances over the ground, the ship
+engages lifters to take off, hovering less than a metre if
+the local terrain is flat, then flies where it needs to go and
+lands again. Some ships use wheels but these are rare.
+The most common wheel configuration is three sets,
+either one under the forward centre and each rear corner
+
+9
+
+

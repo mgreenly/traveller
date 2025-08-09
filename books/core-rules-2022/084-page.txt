@@ -1,4 +1,3 @@
-T
 
 Clear Terrain
 
@@ -51,18 +50,6 @@ detailed in the Vehicle Handbook.
 
 84
 
-A
-
-V
-
-E
-
-L
-
-L
-
-E
-
 Animals are defined by a handful of characteristics as
 shown in the example here, a larker – a massive but
 gentle insect found on the open grassy plains where it
@@ -106,9 +93,6 @@ Behaviour
 
 Herbivore, Grazer
 
-
-R
-
 Hits: How much damage the animal can sustain
 before it is killed. All damage is applied to Hits, rather
 than STR, DEX and END as for Travellers. When an
@@ -147,7 +131,5 @@ Armour (+X): The animal has dense layers of fat,
 horny plates or some other form of physical protection.
 It has a Protection score equal to the figure shown in
 the Armour trait.
-
-R
 
 

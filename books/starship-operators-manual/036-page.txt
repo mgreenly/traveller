@@ -1,0 +1,127 @@
+T
+
+Some ships do not have a kitchen, instead carrying
+prepackaged meals and rarely stocking more than
+four weeks of food at a time. These ships tend to
+have longer stays in port, relying on services there to
+do tasks such as laundry. This does afford more time
+to do whatever the ship’s crew came to do, although
+it requires a way to pay the mortgage that does not
+rely on fast turnaround in port. Mercenary ships that
+can count on non-hostile reception at most ports
+sometimes work this way.
+
+THE SAFARI SHIP
+The Animal safari ship is specialised for storage of raw
+food materials, dealing with aspects that most sophonts
+never spend much thought on. Even if the owners
+are more concerned with trophies or live animals than
+procurement of meat and provisions, there are built-in
+options to accommodate the latter.
+
+Life Support
+
+The Animal is not the only ship that performs this function.
+The generic term is ‘safari ship’ and is common enough
+that it gets its own subtype code. The safari ship is
+presented in this book as an example of specialising
+a ship class for an uncommon mission. Any average
+educated sophont in the Third Imperium might guess that
+a scout like the Suleiman would have probe drones and
+good sensors or that a trader like the Empress Marava
+would have extra cargo space but there are many less
+obvious missions ship classes are designed for.
+
+36
+
+The Animal comes equipped with two separate multienvironment holding tanks that shine for their versatility.
+They can turn into simple freezers for storage of bulk
+amounts of perishable food but act as holding pens for
+live animals. Meat gatherers keep the tanks at or near
+freezing, so stored meat can make long journeys where
+needed. Taxidermists and vets keep the tanks at a
+more normal temperature, mostly for their own comfort
+as they work, although vets must accommodate the
+animals’ needs first.
+Each tank floor has a built-in extendable metal table that
+can raise an animal or its carcass to a desired height.
+This allows the cutting of meat for storage, tanning of
+hides for taxidermy and examining tranquillised animals
+by a vet. The launch hangar has a similar table, for
+animals that cannot fit through the ship’s internal iris
+valves. When not in use, these tables retract flush
+with the deck. The ceilings have a wide variety of eye
+plates, tie rings and hooks to aid hunters if they wish to
+string up meat for cleaning, cutting or storage, handy
+for restraining live animals, hanging other equipment or
+securing storage containers from the ceiling.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+In addition, many crews install tool cabinets just outside
+the tanks, although each crew customises the tool
+set for their own needs. A meat gathering group may
+have large bone saws, knife racks, and meat grinders.
+A taxidermist may have bins of fake teeth or eyeballs
+along with tanning equipment. A vet working on live
+animals may have tranquillisers and medicines.
+
+SANITATION
+Keeping a ship clean and liveable is one of those tasks
+that many sophonts prefer not to deal with, automating
+it as much as possible. Common criteria for what
+jobs are best to automate, such as ‘difficult, dirty or
+dangerous’ jobs, often bring to mind sanitation as the
+primary example of ‘dirty’. The fact that one cannot
+readily ‘air out’ an occupied structure in space adds
+some wrinkles to how this is done on a ship.
+
+PLUMBING
+There are a number of pipes in any ship carrying fresh
+water, sewage, liquid hydrogen fuel, gases and other
+substances. Keeping these unblocked and not leaking
+is important. On any but the most titanic of ships, piping
+is never large enough for most adult sophonts to crawl
+inside, so remote options to fix them are vital.
+Pipes are built to not chemically interact with
+whatever is inside them, thus low-TL steel that can
+rust is not an option for water or sewage pipes.
+Pressure sensors are distributed along all piping; an
+unexpected drop or increase in pressure can be a
+sign of a blockage or leak in the line. For example,
+when trying to activate a fire suppression turret in an
+emergency with limited time to conduct diagnostics, it
+can be useful to immediately know whether the turret
+is not firing because the pressure to its supply is off
+or if there is another reason.
+Most ships do not embed piping solidly within the hull
+but instead leave empty space for a ‘pipe runner’, a
+spider-like drone that can crawl along the outside of a
+pipe looking for breaks or blockages. This tool can be
+equipped with one of several tools to safely repair a
+break. Equipped with ultrasonic sensors, a pipe runner
+can detect blockages without opening the pipe and
+use vibrations to break these up. Higher TL versions
+instead use a densitometer and micropressors, which
+are essentially tiny gravitic fingers. Should the blockage
+stick tightly enough that the pipe runner cannot
+dislodge it or if the leak is too large, the recommended
+procedure is to temporarily shut off the flow then use a
+welding tool to cut out and replace the faulty section.
+Blockage-clearing implements are also used to clean
+
+R
+
+

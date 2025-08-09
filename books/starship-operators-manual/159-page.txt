@@ -1,0 +1,74 @@
+12. FUEL PROCESSOR
+
+common to process one wing’s fuel tanks at a time,
+using internal baffles to push the fuel in a loop around
+the tank, with a fixed baffle near the pipes leading to
+and from the processor and a floating baffle further
+along the loop as more fuel is processed.
+
+Fuel scoops and processors greatly extend operational
+range, as they allow a ship to jump without relying
+on infrastructure or devoting more internal volume
+to fuel. They are often tucked away behind access
+panels rather than given a dedicated room, as they
+are monitored remotely with internal mechanisms to
+diagnose and fix any issues. It is rare that an engineer
+must directly interact with these components.
+
+The Suleiman serves as a counterexample; its fuel
+processors are mounted in two separate units on the
+port and starboard sides, which maximises surface
+area and grants redundancy, and they feed directly into
+the two fuel tanks used for the jump drive. In addition,
+it can refine enough fuel for one full jump in 12 hours
+compared to both the Animal’s and Empress Marava’s
+24. However, it also has worse access than either of
+the other ships, or – as some frustrated scouts claim –
+any ship that currently exists. A tight crawlspace must
+be traversed to reach them, the only access points
+to which are found in the bulkheads of staterooms.
+Maintenance via external access is common, although
+obviously problematic if done while underway.
+
+The Animal is unique among the three examples,
+as it mounts its fuel processor in its own dedicated
+space, with a small area for an engineer to stand and
+work. However, as it is one contiguous unit, it lacks
+redundancy. In addition, as fuel for the Animal is stored
+in its wings, it takes longer on average to get to and
+from the processor than in the other two ships. It is
+
+1. Fuel scoop
+2. Electrolysis, heating and gravitic sorting tanks
+3. Filters
+4. Fuel tank connection – unrefined fuel
+5. Fuel tank connection – refined fuel
+6. Impurities output
+7. Status monitors
+
+7
+
+The Empress Marava is a compromise between these
+two. Like the Suleiman, it splits its fuel processors into
+two units and exposes them to the outer hull, where they
+have direct access to the single fuel tank the Empress
+Marava uses. Unlike the Suleiman, they are simple to
+access; their hatches can be found in the ceiling of the
+lower cargo deck, above a ladder to grant easy access.
+
+2
+
+5
+
+4
+6
+
+Ship Walkthrough
+
+3
+
+FUEL PROCESSOR
+
+159
+
+

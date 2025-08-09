@@ -1,10 +1,4 @@
-T
 
-R
-
-A
-
-V
 
 Character Quirks
 Allies and Enemies
@@ -111,14 +105,7 @@ Experienced Combatant
 Elite Non-combatant
 Elite Combatant
 
-
 Skills
-
-L
-
-L
-
-E
 
 D66 Quirk
 
@@ -216,8 +203,6 @@ their children
 
 Experience
 
-E
-
 Drive/Flyer
 Drive/Flyer, Gun Combat, Melee
 Drive/Flyer, Profession
@@ -288,7 +273,5 @@ Average Skill Level Characteristics
 
 +1, +2, +3
 +1, +2, +3
-
-R
 
 

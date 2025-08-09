@@ -1,4 +1,3 @@
-T
 
 D66: This is shorthand for a special way of rolling two
 
@@ -63,21 +62,6 @@ losing technology to war or disaster. On other worlds,
 secret research bases, isolationist colonies or relics of the
 Ancients hold scientific secrets of vast worth.
 
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
-
 Even on a less advanced world, there might be
 examples of higher technology. A warlord on a primitive
 planet might enforce their rule with advanced weapons
@@ -138,7 +122,5 @@ has telecommunications satellites. Computers and
 integrated circuits become ubiquitous. At the time of
 writing, Earth is currently somewhere between TL7
 and TL8.
-
-R
 
 

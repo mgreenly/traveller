@@ -1,0 +1,124 @@
+T
+
+much larger and more expensive. They are shipped
+on cassettes or other hard media as a backup in
+case the executing copies become corrupted. These
+cassettes are also miniature computers themselves,
+running small but vital elements of the program. This
+architecture makes it harder to copy and distribute the
+program, or run multiple copies of the same program
+on the same computer, without paying licence fees
+to its maker. Although art, poetry and other forms
+of creative expression have protections in the Third
+Imperium, software must protect itself. While software
+can still be pirated in theory, in practice it is usually
+more reliable and less expensive to buy more copies
+if needed. This is only true of software designed to run
+on ship’s computers; programs designed for personal
+computers have less protection.
+
+The Computer
+
+Like most software, ship’s software that comes in multiple
+versions is named in the ‘Function/Version’ format. In
+some cases, the benefits of higher versions are clear.
+Jump Control/X can control jumps of up to X parsecs but
+while Virtual Crew/2 visibly outperforms Virtual Crew/1,
+the specifics of how it does better are a little more
+esoteric. As with other software, ship’s software without a
+listed version number has no other version. Manoeuvre
+software might differ from ship-to-ship but the basics are
+the same, with no appreciable room for improvement
+without upgrading the drive hardware it controls.
+
+54
+
+Several basic programs come standard with any ship’s
+computer. Software to control the engines is necessary,
+as is basic interface and navigation software.
+Communications software capable of interfacing with
+every relevant data encoding standard is free thanks
+to the backers of those standards and almost all ship’s
+computers have basic reference libraries. Many are
+extended at the whim of the crew, downloading large
+and freely available packages from starports. There
+are paid library extensions as well, most of them for
+specialty research with limited audiences. Secondary
+nodes come with standard software, from door control
+to life support to power plant management, while
+software to coordinate and interface with these nodes
+comes with the main computer.
+The practice of wide, free distribution of
+communications standards builds on thousands
+of years of Vilani practice. Software-controlled
+communicators that can easily convert between
+known communication standards are typically
+TL8+ and devices at TL7 or lower may only work
+on their world of manufacture without significant
+reconfiguration. This is not a problem for starships,
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+aside from a few extreme low-tech prototypes. It is
+something to keep in mind when buying discounted
+low-TL personal gear, however.
+This practice extends to clock synchronisation.
+Standard transponder beacons, part of traffic control in
+most systems, broadcast local time so incoming ships
+can adjust their clocks upon jump breakout. Where
+these beacons are not present, standard astrogation
+software can deduce current time to within a second as
+part of confirming the ship’s arrival. Ships that do not
+jump for a while typically automatically sync their clocks
+every week, before even a millisecond’s drift can set in.
+While software can be backed up easily, foiling
+run-once-and-self-erase schemes some software
+engineers use to milk unwary ship owners, there is
+some software that becomes useless after a certain
+time due to external factors. The most well-known of
+these are ‘jump tapes’, which allow a ship to operate
+without an astrogator but are only useful for about a
+week after creation, since the data they are based on
+quickly becomes obsolete.
+
+CONSOLES AND CONTROL PANELS
+Many sophonts only ever see these together and so
+use the terms interchangeably. However, given the
+wide variety of control schemes for starships across
+Charted Space, some formal standardisation of
+terminology is useful.
+Technically, a ‘control panel’ is the direct interface
+to some system or device, often switches and/or
+analogue controls. A centrally located control panel
+that houses many different direct interfaces may have
+banks of indicator lights showing the current status
+of each switch. A ‘console’ is a device that interfaces
+between a user and one or more control panels.
+Often, consoles connect to multiple control panels to
+turn devices on and off remotely rather than the user
+having to run between control panels. A console is
+usually a small, dedicated computer that provides a
+more user-friendly interface.
+Some devices do not have user-accessible control
+panels, only being controllable through consoles. In these
+cases, the plugs and interfaces through which the console
+communicates are considered the ‘control panel’. There
+is usually a stripped-down console that can be plugged
+in for diagnostics, sometimes a single one intended to be
+swapped between systems during maintenance.
+
+R
+
+

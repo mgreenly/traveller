@@ -44,7 +44,6 @@ the stresses imposed upon the hull through the use of
 high-powered weaponry and the surface area of a hull
 it is possible to cover with weapons.
 
-
 A ship has one Hardpoint for every full 100 tons of its hull.
 Each weapon system uses one Hardpoints.
 

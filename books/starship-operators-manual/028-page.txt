@@ -1,0 +1,130 @@
+T
+
+light if pointed at a nearby star or large celestial object
+positioned to reflect that star’s light. To provide a useful
+amount of starlight, the ship must be no further away
+from the star than its habitable zone and not in the
+shadow of a celestial body.
+Lighting systems are simple and robust enough
+that, if there is power on the ship and the controls
+are not sabotaged, any room aboard may have
+light. Archaeologists have found that simple
+lights are among the first electrical devices most
+cultures harness with electricity before interstellar
+contact. There have been countless approaches
+to obtain more light from less power, and there
+are a variety of options for replaceable units that
+convert electricity to light such as light-emitting
+diodes, heated filaments, bioluminescence, plasma
+fluorescence and microfusion.
+
+Life Support
+
+Modern ships favour ‘synthstarlight’, indirect lighting that
+replicates the spectrum of visible light as perceived on
+a typical planetary surface. The dominant standard in
+the Third Imperium is a cool, white light based on the
+light of Zan Ki Ond, the star of Capital, diffused through
+a blue sky, with non-visible components diminished or
+eliminated – particularly ultraviolet. This is close enough
+to the light of Sol as seen from the surface of Terra that
+some Solomani claim that this is the actual standard.
+Local environmental controls typically allow a range of
+hues, replicating the same pseudo-starlight at different
+times of day. Generally, the warmer colours of sunrise or
+sunset are preferred for situations where a more relaxing
+environment is called for, such as staterooms or crew
+commons, whereas cooler colours are for spaces where
+more focused work is performed, such as workshops or
+a ship’s bridge. More advanced lighting systems may
+replicate light from different stars as viewed from atypical
+planetary surfaces, often as part of the weeklong
+acclimatisation process most ships undergo.
+
+28
+
+Biospheres use a ‘grow light’ or come standard with
+a filter that provides plants with a softer light that has
+all components needed for photosynthesis. These
+provide light for both shade and sun loving variations
+of plants at the same time, without over or under
+stimulating sensitive plants used to lower or higher
+lighting conditions.
+A resilient trend is to design lighting to make it difficult to
+tell where the light is coming from. This allows the light to
+be brighter than normal human tolerance levels to light
+up more of the room but diffusely reflected by the walls,
+so the crew does not look directly at the light source.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+If the power goes out and no external light gets in, the
+inside of a starship is said to be the darkest place in the
+galaxy. While that may be an overstatement, it highlights
+the need for backup emergency lights. These lights
+should be regularly tested. Although off most of the time,
+they must keep the ship lit long enough for the duration
+of an emergency. Typically dimmer than normal lighting
+to conserve power, they often incorporate dedicated
+rechargeable batteries. While full white light is better
+during an emergency, some lower-budget ships tint
+emergency lights red on the excuse that this reminds
+everyone there is an emergency. Non-human ships use
+other colours that the crew can all see well, such as
+yellow on Vargr ships.
+
+TEMPERATURE CONTROL
+
+Space is an insulator. Aside from blackbody radiation,
+a ship in vacuum will not lose heat the way a hot object
+in an atmosphere or underwater might. However, a
+ship in orbit around or at the same orbital distance as
+a typical habitable world will absorb more heat from
+the local star than it would if parked on the surface of
+that world, under the protection of its atmosphere. Ship
+systems will often malfunction outside of a broad range
+of temperatures but the limiting factor is more often the
+crew themselves, who have a far more limited working
+temperature range. Given this reality, most systems are
+built to function optimally within the crew-limited range.
+Heating is rarely a problem so long as the power is
+on. Many ship systems naturally generate heat as a
+byproduct of operation. This includes the fusion power
+plant, which is all about making materials extremely
+hot, although the amount is small enough that this is
+often not the primary generator. Supplementing this
+are electric heating units distributed throughout the
+crew-accessible portions of the ship. Central heating is
+technically more efficient but sophonts typically demand
+localised thermal management. This is a small enough
+percentage of the total power budget that crew comfort
+wins out in essentially all cases; even when a ship was
+designed with central heating, this is typically retrofitted
+within its first decade. On large ships, sometimes the
+first warning sign that someone venturing through
+accessways receives that they have left the portion
+of the ship designed for crew comfort is that it gets
+substantially hot or cold.
+Cooling is more of an issue. Modern ships route
+‘waste’ helium from the power plant into tubes running
+throughout the ship at very low pressure, relative to
+the fusion plant’s interior, to lower the temperature,
+absorbing heat then venting it. Ships without fusion
+power plants will often store and use some other
+coolant, treating it as a form of fuel; a common choice
+
+R
+
+

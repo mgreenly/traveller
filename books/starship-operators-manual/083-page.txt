@@ -1,0 +1,111 @@
+alone enter themselves, the jump drive has proven
+a reliable technology in use for over ten millennia.
+It is entirely possible to live, work and die aboard
+a starship without ever encountering unexpected
+behaviour. However, there are always exceptions.
+Called misjumps, these are a constant risk for starship
+crews, one that any captain wishing to keep their ship
+and crew intact will make great efforts to avoid. These
+efforts are mostly successful; the vast majority of
+misjumps are due to faulty equipment, unrefined fuel,
+early jumps or operator error.
+Nonetheless, it is occasionally possible for even the
+best-maintained ship with the finest crew to suffer
+from the capricious whims of jumpspace. A crew’s
+helplessness makes misjumps worse, as when one
+strikes there is little recourse but to glare at the
+astrogator and hope for a safe emergence.
+
+TIME CONSTANT
+All these properties stem from perhaps the strangest
+characteristic of jumpspace: Constant time. In
+realspace, the speed of light ‘c’ is a constant that
+governs all motion. As one approaches c, it becomes
+increasingly harder to accelerate further. In jumpspace,
+time governs motion, not speed. In stark contrast to
+the speed of light, the more one diverges from this
+time constant the harder it becomes to diverge further.
+As speed equals distance over time, by making time
+constant and unbinding speed, both it and distance can
+be freely varied under the relationship ‘distance over
+speed equals time’, allowing arbitrarily high speeds far
+beyond c in order to satisfy it.
+
+SPEED = DISTANCE/TIME
+TIME = DISTANCE/SPEED
+
+While purposefully minimising the time in jump might
+seem like an appealing idea, deviations from the ideal
+time not only show a correlation to scatter from the
+
+JUMP DRIVE OPERATION
+
+In spite of the jump drive’s ubiquity, the exact principles
+and rules that jumpspace operates under remain poorly
+understood. Although there are countless theories, all
+most crew need to know is what the jump drive does,
+not why or how. The complexities of astrogation and
+fine details of the structure of the jump drive one can
+find in detail in other literature, although this book
+attempts to cover the broad strokes.
+As any astrogator will tell you, no two jumps are the
+same. The crew should remove from duty any astrogator
+who tries to repeat the exact same process for a new
+jump as a previous jump, believing that because it
+worked once it will work again. Nonetheless, any given
+jump can be broken down into five broad steps:
+● TRANSIT – The journey to the 100-diameter limit,
+allowing a safe jump entry.
+● PLOTTING – The planning and creation of a viable
+jump plot to take a starship from origin to destination.
+● INITIATION – Jump field creation and entry into
+jumpspace.
+● TRAVEL – The time spent within jumpspace on the
+way to the destination.
+● EMERGENCE – Exit from jumpspace.
+In an environment with as many unknowns as
+jumpspace, it should come as no surprise that there
+is no end of superstition and tradition associated
+with starships. Many Vilani practice jump dimming to
+maximise the available power even on ships with ample
+power, making jump dimming technically unnecessary.
+The Aslan will often light a candle in the ship’s shrine
+or knock on a viewport before jump initiation, symbolic
+versions of announcing their entrance. The Droyne
+place gold coyns below the bolts that hold a jump drive
+to the floor, whereas traditionalist Vargr beat the first
+crew member to come aboard. Some Solomani believe
+any ship that has not had a bottle of Terran champagne
+broken across the hull to be bad luck and so on. There
+may be as many traditions as there are starships in
+existence. While these do not appear to affect operation
+of the jump drive itself, a starship’s crew can see
+requests to skip them as an indiscretion at best, actively
+tempting fate at worst. As always with culturally sensitive
+topics, get to know the crew well enough to judge their
+probable reaction before making this suggestion.
+
+Jump Drives
+
+This rather strange property of a ‘time constant’ makes
+jumpspace utterly hostile to matter. The physics we
+know cannot take place under the rules of this foreign
+space. In order to survive it, jumping ships detach a
+small pocket of realspace, bringing it with them as they
+enter jumpspace, as a jump field. Beyond protecting the
+starship from nonexistence, the jump field establishes
+the relationship between time in jumpspace and
+realspace. While we cannot measure the passage of
+time in jumpspace, if such a concept is even meaningful,
+the ‘time constant’ as observed from within the jump field
+is ascertained to be approximately 168 hours.
+
+desired realspace target point but are directly related
+to the odds of misjump and thus to be avoided. This is
+not to say it cannot be done, just not recommended.
+Keeping it to one week helps avoid misjumps,
+which when not simply disastrous are far more timeconsuming than the hours this technique can save.
+
+83
+
+

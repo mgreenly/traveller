@@ -1,0 +1,60 @@
+FOREWORD
+This is a book about starship operations.
+Starships are part of the central focus of
+Traveller, which is about working together to
+solve problems and have adventures. The
+primary intent of this book is to provide context
+and detail for life aboard a starship, whether to
+inspire entire campaign plots or simply add detail
+to slice-of-life scenes. However, there is more to
+this book than just that.
+From its first release in 1977 to the publication
+of this book, there have been several editions
+of Traveller. Each gives a different spin on how
+to play games by telling tales of Travellers in
+space. Doubtless there will be more editions
+after these words have been committed to ink.
+While the basics remain the same, such as the
+use of jump drive to travel faster than light, each
+edition emphasised different details, leading
+to confusion, and conflicts when players have
+attempted to take material from different editions
+to weave the tale they wish to tell.
+This book is meant, in part, to smooth
+over such conflicts. It takes material from
+Mongoose’s works, my own Traveller5, and
+more, weaving them together into a coherent
+story extending where possible from real
+world science, including developments since
+1977. For example, while we do not have
+artificial gravity yet it seems likely,
+
+2
+
+assuming it is possible, that it may extend from
+quantum gravity manipulation, which implies
+certain details of how it would work in practice.
+We know that gravity propagates by waves
+and that signals propagated by waves can be
+shaped by beamforming techniques. It is likely
+these same techniques would be applied to
+manufactured gravity.
+Since the focus of this book is on the narrative
+and the content is intended to be useful across
+editions, a minimum of game mechanics are
+present. Sharp-eyed readers will find a few
+exceptions but these have been phrased to be
+adaptable to your edition of choice.
+Keep in mind that this is only a story. The
+Official Traveller Universe is but one story that
+can be told with the Traveller rulesets and even
+then, the contents of this book are presented
+from the perspective of certain individuals in
+the Third Imperium in 1105. If you wish to run
+a campaign in a different setting, whether a
+different time or place in the OTU or in some
+other universe entirely, use as much or as little
+of this as you want.
+Keep travelling,
+
+

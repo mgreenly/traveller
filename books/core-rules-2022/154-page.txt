@@ -1,4 +1,3 @@
-T
 
 Non-commercial ships usually follow the same
 schedule of one week in jump and one week in a
@@ -14,16 +13,6 @@ ship costs Cr1000 every Maintenance Period. This
 cost covers supplies for the life support system as well
 as food and water, although meals at this level will be
 rather spartan.
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Fuel: Fuel costs Cr500 per ton for refined fuel or Cr100
 per ton for unrefined fuel. Fuel is required for both the
@@ -67,8 +56,6 @@ Power Plant
 
 spacecraft operations
 
-A
-
 Each person on board a ship who is not in a low berth
 will cost an additional Cr1000 every Maintenance
 Period in life support costs.
@@ -76,8 +63,6 @@ Period in life support costs.
 Poor Maintenance
 
 154
-
-R
 
 Fuel Leak
 Drive Damaged
@@ -108,7 +93,6 @@ Salary: Medic
 Salary: Gunner
 Salary: Marine
 
-
 Maintenance Period Cost
 
 Varies on ship
@@ -122,7 +106,5 @@ Cr2000
 Cr3000
 Cr1000
 Cr1000
-
-R
 
 

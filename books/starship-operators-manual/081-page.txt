@@ -1,0 +1,97 @@
+To have manoeuvre drives but not jump drives implies
+TL9, so fusion power is available but not as efficient
+as at later TLs. Ships are often designed with four
+weeks’ worth of power plant fuel. TL9 means 1G thrust;
+even if there were no time dilation as one approaches
+the speed of light, it would take several months to
+accelerate to that velocity. Being unable to reach light
+speed, a ship would take a minimum of a few years to
+cross just one parsec.
+The most common solution is to reach some small
+fraction of light speed then drift, either using ramscoops
+to glean fuel from the interstellar medium or scanning for
+and grabbing occasional rogue icy bodies on the way to
+keep life support going. To do this, the crew must reserve
+enough fuel to power a months-long deceleration into a
+passing star system to scavenge for water if not enough
+fuel was found or to decelerate into the destination star
+system. Few of these efforts reach their destination within
+the lifetimes of those who built the ships.
+This has proved an expensive and risky approach, so
+a civilisation almost never attempts it once contacted
+by interstellar society and it gains access to jump
+drives; by the time the Third Imperium learns of such
+an effort, there are only historical records of it. Some
+have attempted this even with jump drives available, to
+traverse regions of space that starships struggle with
+for a lack of places to refuel a jump drive but it generally
+proves more viable to set up ‘jump bridges’, stations in
+interstellar space that ships can jump to and refuel at.
+
+TRACTOR/PRESSORS
+
+Tractor/pressors are rarely present on a ship without
+a specific purpose. Certain patrol and pirate ships
+famously use them to secure targets for boarding.
+
+Small, short-ranged tractor beams, ‘microtractors’ or
+‘microgravitics’ when speaking generally, have a range
+of everyday applications. Belters use small, short-range
+tractors to pull in ore chunks they blast loose from
+planetoids. High TL medikits come with a handheld
+unit that allows a doctor to manipulate internal organs
+without breaching the skin, paired with sensors that
+allow the doctor to see inside. At even smaller scales,
+some high TL cleaning tools and robots employ
+microtractors to sweep up dust.
+Micropressors have found particular application when
+employed in rings or spheres to squeeze things,
+known as ‘gravitic focusing’. This is a critical enabler of
+portable fusion power, being the primary way to keep
+plasma contained. Plasma, fusion and meson guns
+use this to cram their destructive payloads into narrow
+beams. Meson communicators do likewise, although
+more for power efficiency than to damage their target.
+
+GRAVITIC SIGNALS
+
+Just as it is possible to transmit radio at low enough
+power to not cause an electromagnetic pulse, gravity
+waves can be generated at low enough power that they
+cause no significant motion but instead solely transmit
+data. Called ‘wireless gravitic connection’, gradio is
+the more commonly used name. While any functioning
+grav vehicle engine, lifter plate or manoeuvre drive
+is capable of sending gravitational pulses, encoding
+signals into tiny fluctuations in these pulses or detecting
+them requires a higher TL.
+A more widespread form of gravitic signal
+manipulation is gravitic lensing. A strong point source
+of gravity bends spacetime around it which can focus
+a diverging laser or radio beam into something that
+disperses much less, which has applications for both
+weapons and communications.
+
+Gravitics
+
+Manoeuvre drives and their cousins spread
+their reaction over a large volume of effect. With
+beamforming, gravity waves can be focused to impose
+significant force on an object, although there is always
+a maximum effective range. When used to pull an
+object this is a ‘tractor’. When used to push an object
+this is a ‘pressor’ or ‘repulsor’. Fundamentally, this is
+the same system, although lower TL versions are only
+able to act in one of the modes.
+
+Less well known but more widely employed are rescue
+ships, whether in space or to pluck people out of
+hazardous situations on a world’s surface. Some use
+these systems to assist with boarding and loading while
+at untrusted landing sites, keeping their ship far enough
+from the ground to make getting aboard difficult without
+assistance from the ship or some means of flight.
+
+81
+
+

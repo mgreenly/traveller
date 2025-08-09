@@ -1,4 +1,3 @@
-T
 
 Computer Weave (TL10): Computer weave can be
 
@@ -33,16 +32,6 @@ Magnetic Grapples (TL8): Magnetic plates in the boots
 of the armour allow the user to walk normally on a
 spacecraft without artificial gravity. Costs Cr100.
 
-R
-
-A
-
-V
-
-E
-
-E
-
 Self-Sealing (TL11): Self-sealing systems can be added
 to any armour (except ablat) when it is being made. The
 armour can seal breaches and repair minor damage. This
@@ -71,9 +60,6 @@ costs Cr20000.
 equipment
 104
 
-
-L
-
 Medikit (TL10): An internal medical scanner and drug
 injector, the medikit can be installed in combat armour,
 battle dress or a vacc suit. It automatically applies first
@@ -87,10 +73,6 @@ Mesh
 
 Flak Jacket
 
-L
-
 Jack
-
-R
 
 

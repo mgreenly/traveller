@@ -83,7 +83,6 @@ Fuel scoops allow an unstreamlined ship to gather
 unrefined fuel from a gas giant (streamlined ships have
 fuel scoops built in automatically).
 
-
 Each ton consumed by fuel processors costs Cr50000.
 Fuel processors require 1 Power per ton.
 

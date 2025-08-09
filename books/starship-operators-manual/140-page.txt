@@ -1,0 +1,79 @@
+T
+
+1. SENSORS
+Most ships have small sensor/communicator units
+distributed over the hull, forming an antenna the size of
+the entire ship. Being ship-wide, these tend not to be
+noted on deckplans.
+What is noted on deckplans are any large sensor
+units distinct from the ship’s primary computer,
+customarily mounted on the edge of the ship,
+usually under an armoured cover. For many nonmilitary ships, advanced sensors are seen as a
+needless expense, with the resulting space usage
+so tiny that even processing nodes do not show up
+on deckplans. This is not the case for our example
+ships, for differing reasons.
+Of the three examples, the Animal most often uses
+its sensors at relatively close range, although most
+hunting competitions with any notion of fairness will
+ban use of shipboard sensors unless all entrants
+have access to similar-quality sensors aboard
+similar-size ships. However, the Animal is designed
+to support safaris in extreme wilderness conditions
+where such regulations rarely apply.
+That the Suleiman has the most complex sensor
+array of the three should come as no surprise given
+its original mission, although the use of the electronic
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+warfare capability is not immediately clear to those
+who think it primarily an explorer. Even when it travels
+to places thought to be uninhabited, there is always a
+risk of pirates or others who cannot let visitors escape
+alive. Then there is the ‘courier’ part of its ‘scout/
+courier’ mission, often carrying packages important
+enough that others may wish to waylay them. This
+may not always be through direct violence as simply
+jamming a courier’s communications can prevent it
+from completing its mission. As a result, the Suleiman
+mounts a military-grade sensor suite.
+The Empress Marava’s sensors are more general
+purpose, from detecting would-be pirates and finding
+otherwise hidden downports, to scanning planetoids
+for mineral deposits. Some captains strip out the
+processing nodes to wrest a few more tons of cargo
+space and slightly lower maintenance costs, although
+this ship typically undertakes such a variety of missions
+that they will frequently be useful.
+
+1. Sensor processor
+2. Data input from sensors
+3. Radio transceiver antenna array
+4. Radio-translucent outer cover
+
+Ship Walkthrough
+
+Hull
+
+140
+
+E
+
+3
+
+ANIMAL SENSORS
+
+R
+
+

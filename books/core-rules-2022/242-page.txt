@@ -1,4 +1,3 @@
-T
 
 The size of the Starport provides a bonus to finding
 a supplier.
@@ -7,16 +6,6 @@ Class B: DM+4
 Class C: DM+2
 
 DETERMINE GOODS AVAILABLE
-
-V
-
-E
-
-L
-
-L
-
-E
 
 MAKING A LIVING
 
@@ -60,8 +49,6 @@ dealing with outsiders.
 
 trade
 
-A
-
 Goods are divided into two categories; Common and
 Trade Goods. Common Goods can be purchased on
 any world. Trade Goods can usually only be found on a
@@ -76,8 +63,6 @@ a quantity of randomly determined goods equal to the
 
 242
 
-R
-
 For illegal goods, a local broker or fixer will
 have a Streetwise skill of 2D/3 and gain DM+2
 on negotiations but charge 20% of the gross
@@ -88,7 +73,6 @@ government agent or double-crosser. The referee
 should determine resulting events, which should
 remind the Travellers why it is best to tread
 carefully when dealing in illegal goods.
-
 
 They don’t.
 
@@ -111,7 +95,5 @@ Goods table, the supplier has the following goods
 available: Common Electronics, Common Machine
 Parts, Common Manufactured Goods, Common Raw
 Materials, Common Vehicles, Common Ore, Advanced
-
-R
 
 

@@ -1,0 +1,123 @@
+T
+
+the bridge but some may require manual overrides.
+First try to establish the direction of flow of the pipe as
+cutting off the valve after the break may increase the
+pressure, causing the pipe to burst. Follow the pipe
+against the flow to the closest manual valve and, once
+closed, the leak should lessen then stop. Next, find
+out if the pipe is vital to the operation of the ship. If it
+is simple and quick to repair the pipe by replacing it
+or applying a patch, perform the repair then open the
+valve. Otherwise, most vital systems can survive a brief
+interruption in supply but there are limits. For example,
+shutting a coolant pipe will stop that pipe from leaking
+but may cause the ship’s engine to overheat and
+explode if left for too long.
+
+Maintenance and Repair
+
+A hull breach can be thought of as a leak, albeit larger
+and more urgent than most. In the event of a hull
+breach, sealing off the affected compartment may be
+the only way to stabilise the ship. If near the breached
+area, heading toward the middle of the ship is often the
+best option. Be sure to check the cameras of affected
+areas for any crew or passengers in the compartment
+before closing airlocks or hatches to prevent further
+decompression. If trying to fix a hull breach manually,
+make sure to have all the necessary tools and patches
+before heading out to repair it.
+
+128
+
+Sparking wires and blown fuses are never good but
+electrical problems can manifest as dimmer than
+normal lighting, an indicator that blinks faster than
+normal, computer terminals that flash instead of
+staying on, or a mild electric shock when one touches
+a surface. While some may seem more urgent than
+others, handle all electrical problems quickly to ensure
+the ship is still operating normally. A faulty wire is an
+electrocution risk but can give a wrong readout on
+other vital systems, causing false alerts or hiding critical
+problems. An exposed and uninsulated wire could
+connect with something conductive, like metal or water.
+Electrically-charged metal decking can be especially
+dangerous, as it can prevent attempts to approach and
+fix the source of the problem. Shield high voltage areas
+as they can cause instantaneous death.
+When repairing wire, be sure to turn off any electrical
+input before starting repair and ascertain if the wire
+is broken or corroded. If not broken but possessing
+damaged shielding, coat the affected area with a nonconductive material. Broken or corroded wires need
+replacement. When dealing with a bundle of cables,
+they typically have various colour insulating plastics
+around each wire, used to identify what needs to attach
+to what. A full replacement cable may be more viable
+when available, either as a spare part or manufactured
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+CUTTING CORNERS
+One recorded incident became widely distributed
+for both engineering and comedic purposes. It
+shows a passenger finding a leak, calling it in
+via the nearest intercom but instead receiving
+a generic request for them to handle it. This led
+to the passenger looking around for anything
+to fix the pipe, finding some duct tape, fixing
+the piping with the duct tape, then promptly
+informing a ship’s engineer who was passing by.
+Unfortunately, the head engineer, in an attempt to
+save money, had previously switched the ship’s
+original piping with discount pipes that reacted
+with the ship’s discount duct tape and was starting
+to melt and burn by the time the engineer showed
+up, causing a panic to put out the fire.
+The ship’s internal documentation had never
+been updated to reflect the replacement of the
+pipes, so there was no way the passenger could
+have known before conducting emergency
+maintenance. The incident never went to court
+but there was universal agreement among
+legal scholars that the passenger would never
+have been found at fault, especially since they
+promptly informed the ship’s engineer afterward.
+Less than 10 years later, the ship would be lost
+when its manoeuvre drive abruptly failed while
+taking off. Based on analysis of the wreckage,
+the reason was a failed attempt by the ship’s
+engineer to reuse the drive as a gravitic forge.
+There were no notes about these modifications
+in the ship’s computer, although they were at
+least a week old, which should have provided
+adequate time to document them.
+
+in the ship’s workshop. If neither the schematic nor
+a full replacement is available and there is neither a
+colour nor shape guide, this is probably not a repair that
+untrained crew should attempt, even in an emergency.
+
+DECKPLAN REVISIONS
+
+The ‘optimal’ deck layout for any given class of ship
+is often a highly subjective matter. Many new ship
+captains have issues with the deckplans of the ship
+they just acquired. Minor interior alterations are a
+
+R
+
+

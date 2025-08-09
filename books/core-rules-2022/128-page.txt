@@ -1,20 +1,6 @@
-T
 
-R
-
-A
 
 Antique Pistol
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Rifle
 
@@ -37,9 +23,6 @@ Shotgun
 
 Body Pistol
 
-
 Submachine Gun
-
-R
 
 

@@ -1,0 +1,107 @@
+Despite only being able to apply maximum thrust in
+a narrow cone directly behind it, thrust vectoring is
+one of the manoeuvre drive’s most useful attributes,
+as it allows a single drive to control not only lateral
+translation but also the attitude of the craft. By
+mounting two manoeuvre drives and vectoring them
+independently, a ship can control its pitch, roll and
+yaw. If only mounting one manoeuvre drive it will allow
+different thrust vectors in the same plate, resulting in
+lower agility due to a shorter moment arm.
+This thrust vectoring, being core to proper control of a
+spacecraft, is one of the chief duties of a spacecraft’s
+avionics. Translating a command from the pilot in the
+form of a joystick tilting, a sound or a neural impulse
+into the direction and strength of an m-drive’s thrust is
+far from trivial. This is complicated further by a need
+for balancing; although many mount m-drives so their
+combined thrust axis acts through the spacecraft’s
+
+HIGH GRAVITY WORLDS
+A ship can use manoeuvre drives and lifters
+together. This is more common when taking off
+from high gravity worlds.
+A ship with manoeuvre drives rated to provide
+1G of thrust would usually have lifters rated
+the same. When landing on a 1.25G world,
+the manoeuvre drive may angle its thrust
+downward, providing 25% thrust – 0.25G –
+which adds to the lifters’ 1G to counteract the
+world’s gravity. Lifters can be ‘overcharged’
+for several minutes, long enough to move far
+enough from a planet that the manoeuvre drive
+alone can take over, although this risks burning
+lifters out if done for too long at a stretch.
+
+The directional nature of the m-drive’s thrust is the
+reason why most starships intended for planetary
+landings include lifters. The drop-off in thrust when
+attempting vertical take-offs or landings would make
+it so that few civilian ships would have enough thrust
+to lift off the ground. Additionally, while the m-drive is
+always mounted along the ship’s thrust axis, it is rarely
+mounted in the exact centre of mass, which renders
+many ships unable to reliably hover using the m-drive
+alone. Lifters are placed to facilitate hovering, liftoff
+and landing. In situations like these, lifters allow a
+starship to move off the ground without flipping over
+and either speed up enough to generate sufficient lift
+for flight or, in the case of non-streamlined designs,
+brute force their way into space. This is why spacecraft
+flip 180o when reaching the mid-point of their journeys
+as while they could apply thrust in any direction, the
+drastically reduced output makes it that reorienting the
+ship remains the most efficient and quickest way to
+complete a journey.
+Thruster plates couple to any mass within range, a
+spherical radius proportional to the object’s mass
+and size such that larger objects can be reacted with
+from longer distances. Consequently, if an object
+is within operational range of a thruster plate, it will
+be pushed against and help accelerate the plate. In
+star systems, the star or stars are the main objects
+the drive pushes against but if outside their range,
+the interplanetary medium can also be used, albeit
+with very low efficiency as the drive struggles to
+‘grab’ onto it due to its diffuse nature. The effect is
+even worse with the interstellar medium – without
+expensive, power-hungry modifications of no use to
+most ships, manoeuvre drives are ineffective when
+far from any significant mass that would attract a
+useful density of particles.
+M-drives produce visible ionisation effects when in
+operation, the colour and pattern depending on exact
+details of manufacture, while brightness depends on
+thrust used. It is possible to identify the exact model
+of a drive based on the spectra of its emissions,
+so disguising this is another reason why pirates
+sometimes rig lights around their drives. When ships
+from a wide array of manufacturers gather a rainbow
+of colours coming from manoeuvre drives can be
+seen. Shades of blue are the most common for ships
+made in the Third Imperium, thus the infrequently used
+
+Gravitics
+
+Ships with drives rated for 1G can use this trick to
+take off from worlds up to just short of 1.5Gs, with
+increasingly precise angling needed to counteract
+higher gravities. The planetary Size code A
+denotes the largest worlds generally deemed
+habitable, with a maximum just short of 1.5 Gs.
+This is not a coincidence, although the long term
+effects of high gravity on unaccustomed sophonts
+is a consideration. If the ship only has 1G of
+thrust, avoid landing on worlds with Size code B
+or higher unless there is good reason to believe
+that ship can take back off again.
+
+centre of mass, they can change this by the fullness
+of the cargo hold or fuel tanks and location of those
+on board. Accounting for this and adjusting the drives
+to compensate is one of the most computer-intensive
+processes that a ship’s avionics must account for.
+
+79
+
+

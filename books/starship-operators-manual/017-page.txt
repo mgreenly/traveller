@@ -1,0 +1,92 @@
+POWER SYSTEMS
+After the hull, power is the most vital system on any
+ship. Without it, a ship is an inert mass drifting through
+space, unable to do anything. The excessive demands
+of the manoeuvre and jump drives necessitate the
+generation of large amounts of power. With excess
+energy available, standard life support systems have
+adapted to use it and thereby minimise their mass
+consumption, greatly extending ship endurance.
+As with the rest of the book, the technical explanations
+in this chapter are merely mostly accurate summaries.
+Those wishing to construct their own power plants
+should consult more specialised manuals and avail
+themselves of expert assistance. The best place to
+experiment and build one’s first unit is in the classroom,
+or at least under close supervision of tutorial software
+written for this exact purpose and tested to resolve
+common misunderstandings.
+
+COMMON POWER SYSTEMS
+Fusion power plants are the dominant standard for
+spacecraft, with solar power the second most common
+method, as these require minimal amounts of mass to
+function. This limitation is one of the biggest differences
+from planetary power plants, where mass is supplied
+more easily. These are not the only options but most
+starship crew, even non-engineers, should at minimum
+know the basics of these two processes.
+While large, older or alien ships may have
+more bespoke designs, nearly all modern ships
+manufactured within the Third Imperium use some
+evolution of the Fusion+ process introduced by Cleon I.
+Aside from using the same liquid hydrogen fuel as the
+jump drive, making storage simpler, the main practical
+impact is that any given power plant engineer has
+worked on something similar previously. This makes its
+impact easy to underestimate. Before Fusion+, fusion
+plants from Vland and Terra could be as different from
+each other as they were to fission.
+Fusion+ is associated with the Third Imperium for
+historical reasons, as many took the technology and
+distributed, copied or independently reinvented it
+throughout Charted Space. Fusion+ was invented
+
+in -28 by Cleon’s cousin, Aldin Zhunastu, while
+employed by Zhunastu Industrial Laboratories,
+which was the part of the company that Cleon had a
+controlling interest in. Historical reports are muddied
+as to exactly how much involvement Cleon had in the
+actual creation and early development but it is clear
+that the commercial success of Fusion+ starting in
+-10 was instrumental to the rise of Cleon’s fortunes
+and the founding of the Third Imperium. This strong
+association is a large part of the reason why advanced
+fusion processes developed in the Third Imperium
+continue to be called ‘an evolution of Fusion+’ rather
+than a completely new process, so long as they are
+broadly similar to previous models.
+The basic process behind Fusion+ is as follows:
+1. Heat hydrogen atoms to a plasma state, contained
+by an array of magnetic and gravitic pressors, so
+they break into protons and electrons.
+2. Use nuclear dampers to stimulate beta decay,
+turning half of the protons into neutrons, releasing
+neutrinos that escape and positrons that annihilate
+with electrons.
+3. Ram lone protons into neutrons, turning them into
+deuterium nuclei and releasing energy as photons.
+4. Use gravitic separation to separate the deuterium
+nuclei from the lone protons and neutrons.
+5. Ram them into more neutrons, turning them into
+tritium nuclei and releasing energy as photons.
+6. Use gravitic separation to separate the tritium
+nuclei from the deuterium nuclei and neutrons.
+7. Ram them into protons, turning them into helium
+nuclei and releasing energy as photons.
+8. Use gravitic separation to separate the helium
+nuclei from the tritium nuclei and protons.
+9. Let the helium nuclei cool down enough to accept
+their electrons back.
+10. Vent the helium.
+As should be readily apparent, this process is highly
+dependent on the availability of gravitics and nuclear
+dampers, which is why even inefficient prototypes do not
+appear before TL9. Sensor operators across Charted
+Space are familiar with escaping neutrinos and a
+common way to scan for an operating fusion power plant
+is to look for something giving off lots of neutrinos.
+
+17
+
+

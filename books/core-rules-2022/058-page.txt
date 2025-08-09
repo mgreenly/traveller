@@ -52,7 +52,6 @@ then make all Engineer checks involving jump drives at
 
 58
 
-
 DM+1 but would still make all other Engineer checks at
 DM+0 (in other words, with no penalty). A Traveller can
 have multiple specialities in a skill – they might have

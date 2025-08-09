@@ -1,4 +1,3 @@
-T
 
 TRAVELLER RULE ZERO
 
@@ -26,20 +25,6 @@ merely a framework. If any rules conflict with a
 referee’s vision for their universe, even if that
 universe is the official Charted Space setting, then
 they must give way and be altered to fit.
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 A campaign is a series of adventures, charting the
 continuing escapades of a group of Travellers, and is
@@ -99,7 +84,6 @@ sessions to complete.
 
 4
 
-
 type the Travellers go beyond the borders of Charted
 Space, looking for objects, planets and civilisations of
 value or curiosity. The Travellers will have to be highly
@@ -121,7 +105,5 @@ Element Class Cruisers includes the Naval Campaign
 Sourcebook, which provides everything needed to run a
 ‘bridge crew’ style of campaign, where the Travellers will
 be the senior officers of a mighty capital ship!
-
-R
 
 

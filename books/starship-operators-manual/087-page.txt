@@ -1,0 +1,115 @@
+between the systems may have changed enough
+that the ship needs a new solution. One downside of
+relying on jump tapes is that the ship can only jump to
+destinations that have jump tapes available.
+
+JUMP INITIATION
+
+When all the plotting is finished and the ship is at the
+calculated departure location for the specific jump plot,
+the next step is to initiate the jump, usually by pressing
+a button. Once pressed, a series of events must occur
+to propel the ship into jumpspace so it can travel to its
+destination. This starts by activating the drive/shunt
+subsystem, including the jump drive emitters installed
+over the entire hull of the ship. The power plant then
+pushes a great amount of power through the lanthanum
+and grav modules in those emitters.
+Once the power is flowing through the drive/shunt system,
+hydrogen is pumped by the jump field subsystem on
+the hull of the ship, expanding it out to a large bubble if
+employing a bubble-configuration drive, or a conformal
+jump field if using a jump grid – see Jump Field, starting
+on page 90. The majority of fuel designated for a jump
+is used during this process to create the jump bubble.
+Many compare this to children blowing bubbles from
+soapy water, making the external view of jump initiation
+fascinating to watch. The crew can only observe the
+bubble forming from the limited view inside the ship.
+The jump will not start until the jump field is
+completely formed. Outside observers will only
+see the field engulf the ship then seemingly pop,
+making the ship and everything else inside the field
+disappear, like the universe’s largest stage magic
+trick. From the crew’s point of view, once the field
+fully forms and blocks out the outside universe, the
+ship is in jumpspace until the field dissolves at the
+end of the jump.
+
+Bypassing these checks never saves significant time
+but does increase the consequences if one happens
+to have less than enough fuel upon trying to jump. A
+ship that began the jump process with insufficient fuel
+would find that part of its hull suffered misjump since
+the setup could not complete and eventually returned
+
+A rare variant on the process is the use of ‘drop tanks’,
+externally mounted tanks that rapidly inject hydrogen
+fuel into the jump bubble and then ejected so their
+tonnage need not be brought along. This ejection
+often involves their partial or total destruction, as
+they operate in close proximity to an expanding jump
+bubble, making them uneconomical for commercial
+ships. Those who plan to use drop tanks should check
+with the system they are jumping from to see if the
+local area allows discarding them and if there are any
+conditions such as using jump points designated for
+drop tank use, especially if there are plans to return.
+In addition to protecting the starship during its weeklong
+jump, the jump field serves the crucial purpose of
+determining the ship’s destination. As the jump drive
+activates, transitioning the ship into jumpspace,
+fluctuations induced in the jump field as it forms make it
+possible to give a ship the ‘push’ in jumpspace towards
+its intended destination.
+
+JUMPSPACE TRAVEL
+
+Due to the temporal constant of jumpspace, the average
+time of a jump is approximately 168 hours. It is possible
+to bracket the ideal jump time more precisely via careful
+astrogation and precise jump drive operation. A skilled
+astrogator can select jump vectors that minimise the
+energy of the tumble setting up the ship’s course,
+which in turn ensures it deviates less. Similarly, a
+well-calibrated jump drive can energise its drive/shunt
+and jump field systems in greater accordance to the
+astrogator’s plot, with fewer random fluctuations. A
+well-trained starship crew is therefore capable of greatly
+reducing not only the chance of misjumps but variations
+in transit time and exit point scatter of jumps.
+The ongoing mental welfare of the crew is of concern
+during these week-long jumps. Preparing the crew to
+sit through a jump is vital, as a whole week with little to
+nothing to do can create problems. Studies suggest that
+smaller crews find it harder, on average, to handle this
+boredom. Many captains create work schedules with
+detailed tasks to keep the crew busy and active during
+the trip. Maintenance on the ship’s systems, particularly
+the manoeuvre drive and sensors, is a common choice
+as they will not see use during jump travel.
+
+Jump Drives
+
+Creation and inflation of the jump field is an extremely
+rapid process, happening faster than any sophont can
+react to. Only computers have a chance of performing
+all the steps in time. As such, jump entry is impossible
+without Jump Control software, which performs safety
+checks such as making sure there is enough fuel before
+attempting to begin. Without disabling these checks,
+attempting to jump without enough fuel causes the
+computer to display an error message.
+
+to realspace as particles and radiation, while the rest
+remained behind. The less fuel that is provided, the
+less of the ship would enter jumpspace, to a minimum
+of the outer skin where the jump emitters are. Some
+claim from a certain point of view that disabling the
+safety checks allows for jumping with less fuel than is
+otherwise needed but surviving such a jump would be
+nearly impossible.
+
+87
+
+

@@ -149,7 +149,6 @@ Far Neighbour World
 Close Gas Giant
 Far Gas Giant
 
-
 Distance
 
 10,000km

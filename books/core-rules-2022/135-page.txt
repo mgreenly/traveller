@@ -33,7 +33,6 @@ TL10: Ultraviolet lasers and improved display
 technology removes the tell-tale ‘red dot’ of a
 vislight laser.
 
-
 authentication in some fashion (scanning the
 user’s DNA or iris patterns, entering a password,
 transmission of an unlocking code from a comm)

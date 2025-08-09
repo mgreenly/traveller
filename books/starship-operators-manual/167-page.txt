@@ -1,0 +1,142 @@
+I
+In-system Jumps
+In Charge of Cargo
+Information
+Inside
+Internal Gravitics
+Interstellar Manoeuvre Drives
+Ion Cannons
+Is it a Sophont?
+
+89
+123
+107
+42
+75
+80
+104
+63
+
+J
+Jammer
+Jump Field
+Jump Drive Emitters
+Jump Emergence
+Jump Initiation
+Jump Intrusions
+Jumpspace
+Jumpspace Jetsam
+Jumpspace Travel
+
+69
+90
+9
+88
+87
+92
+82
+88
+87
+
+L
+Landing Gear
+Lasers
+Laundry and Dishwashing
+Life Scanner
+Lights
+Lines, Liners and Trade Routes
+Long Term
+Low Berths
+
+9
+101
+37
+70
+27
+47
+48
+39
+
+M
+Maintenance and Upgrades
+Manual Cargo Handling
+Mass Sensor
+Medical Caution
+
+92
+52
+72
+38
+
+Metals: Circa TL7
+Mini-kitchen
+Misjumps
+Missiles
+Missiles and Torpedoes
+Mutiny
+
+13
+111
+82
+73
+102
+108
+
+N
+Neural Activity Sensor
+Neutrino Detector
+Non-Animal Live Cargo
+Non-Gravity Hulls
+Nuclear Dampers and Meson Screens
+Nuclear Thermal, Rocket
+
+71
+69
+50
+11
+105
+95
+
+O
+Ortillery Ships
+Outside
+Oxygen and Ventilation
+
+66
+42
+25
+
+P
+Particle Accelerators and Meson Guns
+Passenger-Brokers
+Passenger Staterooms
+Personal Preference
+Physical Security
+Placement, Weapon Mounts
+Planetoid
+Plasma and Fusion Guns
+Plotting
+Plumbing
+Point Defence
+Profit Sharing
+Programs and Brains
+Proximeter
+
+103
+112
+111
+112
+60
+101
+12
+104
+85
+36
+105
+117
+62
+72
+
+167
+
+

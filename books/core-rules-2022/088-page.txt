@@ -1,4 +1,3 @@
-T
 
 A small cute creature commonly found in pine forests
 inside the trunks of trees, they make popular pets and
@@ -43,24 +42,9 @@ Omnivore, Hunter
 Encounters and dangers
 88
 
-A
-
-V
-
-E
-
-L
-
-L
-
-E
-
 Ruuta
 
 Nibbon
-
-
-R
 
 The ruuta is a small ball covered in mottled down.
 There are no apparent eyes or other features apart
@@ -105,7 +89,5 @@ Small (-4)
 Behaviour
 
 Scavenger, Filter
-
-R
 
 

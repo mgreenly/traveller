@@ -1,0 +1,78 @@
+performing routine system checks and alerting the
+crew to any abnormalities, so the sophonts can focus
+on their mission. Virtual crew have supported many a
+sophont as they navigated the stars, sometimes simply
+to have something to talk with during the voyage.
+Many of the virtual crews on the market today are
+designed to be portable across a wide variety of
+spacecraft and computers. Although this is necessary
+for a given piece of software to be sold at all, this
+does result in a loss of optimised function, as
+software cannot capitalise on the features of a ship
+if some other ship lacks those same features. Ship’s
+brains – robotic brains built into a spacecraft’s hull
+– do away with this restriction. As they are expected
+to only run on one spacecraft throughout their entire
+service life, they can adapt to the ship they are
+mounted to and maximise their efficiency. In addition,
+standard virtual crews do not coordinate between
+disparate systems particularly well. Gunnery software
+may have to react to piloting software’s decisionmaking, instead of the two working together. Ship’s
+brains can control the ship’s systems at a higher
+level and can operate them all in concert.
+For tasks that a virtual crew cannot handle,
+drones are a relatively inexpensive less-than-totalreplacement option, useful for many functions a
+sophont might find difficult, dangerous or tedious.
+Repair drones, for instance, move throughout a ship
+and just outside, looking for and patching holes in the
+ship’s hull, either remotely controlled or run by the
+ship’s computer. They are a combination tool chest,
+diagnostic engine, troubleshooting assistant, ship’s
+computer interface and helping hand. These drones
+are usually miniature grav vehicles interacting with
+the ship’s gravity, although spider-like walker designs
+also exist. Some drones even mimic humans or have
+similar manipulators, to make use of existing tools
+designed for human-like hands.
+
+Belt mining is another task which frequently uses
+drones. Laser drills are the most common mining
+tool, notorious for shedding copious amounts of heat
+in use. Planetoids are often not fully mapped, with
+hidden gas pockets, voids and other unstable features
+discovered during mining, sometimes explosively.
+Between those and the danger of being in space, it
+is much safer to operate a drone from aboard a ship
+than to send crew outside with a laser drill. One crew
+member can operate a swarm of drones, much like
+conducting an orchestra.
+Probe drones are familiar to most who have served on
+a scout ship. They are miniature sensor packages that
+deliver value by being somewhere the ship is not. This
+can be for convenience, such as a drone monitoring
+weather on one side of a world while the ship is busy
+on the other or it can be for safety, dropping one into a
+live volcano or sending it to investigate an unidentified
+energy signal. To facilitate this, they are cheap and
+disposable. A Suleiman’s workshop is capable of
+manufacturing replacement probe drones if given
+suitable raw materials.
+Engineering robots are less common than virtual
+crews or repair, mining or probe drones. They are
+essentially repair drones upgraded with autonomous
+diagnostic and problem-solving software, able to run
+without constant direction from the ship’s computer
+since one of their duties is to maintain and repair
+said computer. Running with just one engineering
+robot and no other mechanical talent on the crew is ill
+advised as when something happens to that robot the
+ship can quickly become stranded. Using two robots
+to maintain and repair each other often fails in practice
+as most units on the market have programs rather
+than brains, so they lack a sophont’s ability to adapt to
+unexpected circumstances.
+
+The Computer
+65
+
+

@@ -1,4 +1,3 @@
-T
 
 Gaining access to the ship’s records requires
 an Average (8+) Electronics (computers) check.
@@ -59,21 +58,6 @@ security robots who respond automatically to alarms.
 Gravity: It is possible to alter the artificial gravity on
 board. Reducing gravity to zero will limit actions to
 
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
-
 the level of an attacker’s Athletics (dexterity) skill (see
 Zero Gravity on page 81). Gravity can also safely be
 increased up to 3G with an Electronics (computers)
@@ -89,7 +73,5 @@ to an airlock, then the air can be vented from that area.
 Travellers in that area must make a STR check to hang
 on and not be blown out into space and will also begin
 to suffocate.
-
-R
 
 

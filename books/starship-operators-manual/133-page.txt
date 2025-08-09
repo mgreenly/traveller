@@ -1,0 +1,46 @@
+1 square = 0.5 Ton (1.5m x 1.5m x 3m)
+
+LEGEND
+
+1. Sensors
+2. Bridge
+3. Office
+4. Ladder/Lift
+5. Stateroom
+6. Docking Space
+7. Airlock
+8. Power Plant
+9. Jump Drive
+10. Manoeuvre Drive
+11. Cargo Hold
+12. Fuel Processor
+13. Turret
+14. Commons
+15. Multi-Environment
+Holding Tanks
+
+15
+5
+
+5
+7
+
+4
+
+6
+
+15
+
+5
+
+5
+
+12
+
+11
+
+Deck 1
+
+133
+
+

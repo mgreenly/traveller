@@ -1,0 +1,129 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+JUMP FIELD
+The most prominent feature of the jump drive is the
+thick conduit running from the ship’s power plant.
+The cables inside it connect directly to the power
+conditioner, the subsystem responsible for interfacing
+the jump drive with the ship’s power plant. It takes in
+the power used to warm up the drive for a jump and,
+more crucially, handles and directs the astonishing
+power surge of the overclocked power plant. To survive
+such enormous energies delivered in a short time,
+many jump drives employ a bank of zuchai crystal
+energy sinks tuned and balanced for the ship. This
+seeps in excess energy and releases it as required.
+While other energy sink designs are employed in
+lower Tech Level jump drives, a majority of designs
+favour zuchai-based arrays for their compact size and
+efficient, reliable charge/discharge cycles.
+
+Jump Drives
+
+The control subsystem closely observes the workings
+of the power conditioner, which monitors the status
+of the zuchai energy sinks. While able to store
+tremendous charge, zuchai crystals can be saturated,
+leading to their violent decomposition. It is the control
+subsystem’s job to dynamically allocate the incoming
+energy to prevent sink saturation and distribute
+the proper power flow to the field and drive/shunt
+subsystems. The control subsystem runs thorough
+diagnostics before and after a jump as imperfections in
+the crystalline lattices of zuchai energy sinks can cause
+stresses during charge/discharge and can lead to the
+catastrophic destruction of the drive.
+
+90
+
+Beyond administering the power conditioner, the
+control subsystem contains the drive’s jump governor,
+which allows it to operate below its maximum factor.
+Without it, a jump-4 drive would only be capable
+of jumping four parsecs, no lower. Without a jump
+governor, an astrogator can still attempt shorter jumps
+by aiming the jump line to intersect the destination’s
+100D limit but this is more difficult. The danger is
+slipping right past the target to whatever spot lies at
+the maximum distance in that direction, which is rarely
+conveniently close to a source of fuel with which to
+make another jump. Despite its importance, the jump
+governor is merely a subset of the control subsystem
+and not a separate component, especially as a jump
+drive can work without it.
+By using modified high-intensity gravitic modules to
+'bend' local spacetime in the appropriate ways, the
+drive/shunt subsystem 'pinches' volumes of spacetime
+and, once the jump bubble subsystem enlarges
+and manipulates the volumes into a single one that
+encompass the entire starship, sends it through
+jumpspace. This energy-intensive process is the culprit
+of the significant power needs of jump.
+
+Jump fields are only possible due to the special
+properties of lanthanides, in particular lanthanum itself.
+The atomic structure of lanthanides repels jumpspace,
+making it able to generate a tiny ‘bubble’ of realspace,
+a property not shared by most other stable elements,
+although barium has sometimes been used to lesser
+effect. Certain heavier elements have also been
+reported to display this property, but these are isotopes
+with extremely short half-lives, synthesised during
+jump to last long enough to be tested, making them
+impractical for use in starship construction.
+Expanding this bubble to a useful size requires that
+a large amount of electricity be driven through the
+lanthanide in conjunction with an internal pressure,
+provided by injecting a gas to blow it up to size, up
+to a maximum diameter determined by the enclosed
+object’s volume. This is not trivial, as interactions
+between matter and field can cause ripples that
+catastrophically destabilise it – see Jumpspace
+Jetsam on page 88.
+Hydrogen is used to avoid these instabilities. Its atomic
+structure, the closest possible to a point-mass, allows
+for clean and homogenous interactions with the field,
+keeping chaotic ripples to a minimum; other elements
+with heavier masses and larger nuclei cause too many
+and too strong instabilities, an effect only made worse
+by using molecules instead. Hence the importance of
+using properly refined fuel: keeping contaminants to a
+minimum ensures stable field formation.
+When a starship initiates a jump a series of jump
+emitters, part of the drive/shunt subsystem, undergo
+this process. The lanthanum in the drive/shunt is
+energised, creating a realspace pocket which is then
+inflated by the field subsystem through the injection of
+hydrogen. The emitters’ gravitic modules distort local
+space as specified by the astrogation plot, inducing a
+so-called ‘tumble’ that will steer the ship towards its
+destination as it enters jumpspace. Most compare the
+process to simultaneously conducting thousands or
+millions of orchestras that have to seamlessly merge
+upon reaching a specific note.
+About 90% of a jump’s fuel is consumed during jump
+entry, primarily to create the jump field, with the
+remainder used to maintain it during jump travel. If
+a ship runs out of power mid-jump or the jump field
+system is otherwise rendered inoperative, the ship will
+not be immediately endangered, but the longer this
+situation lasts, the higher the risk of jump intrusions
+– see page 92 – or outright jump bubble collapse.
+
+R
+
+

@@ -1,16 +1,7 @@
-T
 
 10
 
-R
-
 rogue
-
-L
-
-L
-
-E
 
 ADVANCEMENT
 DEX 6+
@@ -111,7 +102,6 @@ Engineer
 Vacc Suit
 Melee
 
-
 Ranks and bonuses
 
 1D
@@ -125,8 +115,6 @@ Ranks and bonuses
 traveller creation
 
 Skills and training
-
-E
 
 SURVIVAL
 INT 6+
@@ -142,16 +130,12 @@ DM-1 for every previous career
 
 40
 
-V
-
 Career progress
 
 Criminal elements familiar with the rougher or more
 illegal methods of attaining goals.
 
 10
-
-A
 
 RANK
 
@@ -200,7 +184,5 @@ Recon 1
 —
 
 —
-
-R
 
 

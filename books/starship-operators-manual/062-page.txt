@@ -1,0 +1,127 @@
+T
+
+to the ship’s systems before a problem can occur. Most
+computers are set to automatically recognise hostile
+boarding parties, locking all doors and terminals in their
+path. High-value cargo can be hidden behind doors that
+close flush with the walls, though care must be taken to
+shield them from pirates’ sensors.
+
+STOWAWAYS
+
+Stowaways present a special case of physical security,
+as they are usually not hostile – although some are,
+pretending to be innocent until they can hijack the ship
+– but consume life support that was not budgeted for
+and present safety concerns, sometimes legal liability.
+
+The Computer
+
+It should be standard practice to internally scan
+a ship before or just after departure from port, to
+check for stowaways, wildlife, contaminants and
+anything else the ship may have unintentionally
+picked up. In particular, landing gear wells should
+be checked. Cargo containers should be inspected
+upon acceptance or loading, to verify cargo and look
+for hidden extras. Make sure that all passengers who
+were onboard upon arrival have departed before
+leaving port, save for any who booked passage for the
+next leg of the ship’s voyage. In addition to security
+measures to prevent unauthorised boarding – it is
+easier and safer to prevent stowaways than to deal
+with them – all entrances and exits at port should be
+logged, with a tally run before departure to flag any
+discrepancies. It is best practice to automate these
+checks to make sure they always happen. Manual
+double-checks are routine on large ships, although
+small ships often do not have the crew to spare.
+
+62
+
+Once underway, excessive oxygen consumption is
+often the first sign of a stowaway and can give a rough
+idea of location. Thermal and high-sensitivity acoustic
+hand scanners are the most commonly available
+tools to track down the precise location. Stowaways
+encountered underway are often scared and not fully
+rational, having made the decision to stow away in the
+first place, so an empathetic but cautious approach will
+produce better results than threats.
+Remember, stowaways begin by lying to the crew
+by not declaring their presence. They are not
+friends. Although some crews think it is traditional
+to put stowaways to work, this is not recommended.
+Sabotage concerns aside, stowaways are generally
+untrained labour, often still getting used to life aboard
+ship and much more likely to injure themselves or
+damage equipment. Many believe they have all
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+manner of rights; while slavery is illegal, execution of
+stowaways is legally justified in the Third Imperium as
+they endanger ship and crew.
+If they are discovered before entering jumpspace
+and a more humane fate is desired, either return to
+port to offload them or put them in vacc suits with a
+beacon, eject them and notify the local port. If they
+are discovered after entering jump, best practice
+is to give them basic passage in locked quarters
+– separately, if several are discovered – or low
+passage, then upon arrival hand them over to the Port
+Authority or kick them out. Whatever the resolution, if
+someone not aboard owns the ship, the entire incident
+including handling of the stowaways must be logged,
+documented and reported.
+Stowaways who are honest, work hard if offered
+work and get the crew to like them, may reach their
+destination free and clear with a bit of pocket change,
+which is usually the best possible outcome.
+
+ARTIFICIAL INTELLIGENCE
+
+Even in organic sophonts, there are many kinds of
+intelligence. Skills with maths and logic are not the same
+as a knack for poetry or puns, while neither is identical to
+an ability to understand emotional cues. Some sophonts
+train in multiple kinds of intelligence, while others focus
+only on specialising in a few skills. Scientists from across
+Charted Space have not decisively determined how best
+to categorise these types of intelligence. It may be one
+of those things that sophontic intelligence is unable to
+determine about itself.
+With that in mind, the categories of artificial intelligence
+likewise blur. However, there are a few useful
+distinctions one can make. These terms technically
+apply to non-artificial intelligences too as almost all
+sophonts and even sub-sophont animals have ‘task
+resolver trained brains’.
+
+PROGRAMS AND BRAINS
+Positronic and bioelectric computers are more often
+trained than programmed, while other types are more
+often programmed than trained. Learning computers
+are generally called ‘brains’.
+While sophisticated programs can seem intelligent,
+their creators have anticipated countless scenarios
+and laid out procedures to deal with them, this list of
+procedures being a program. Unexpected behaviour
+can emerge from extremely complex procedures but
+this list does not change itself in reaction to input. At
+
+R
+
+

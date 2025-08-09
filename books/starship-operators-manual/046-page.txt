@@ -1,0 +1,160 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+4X Cargo Container Types
+
+Cargo & Docking Systems
+
+Type
+Code
+
+46
+
+Name
+
+Details
+
+00
+
+General Purpose The standard cargo container configuration. A simple box, typically corrugated, with a
+hinged door at one end. Not necessarily airtight.
+
+05
+
+Sealed
+
+08
+
+Solid Breakdown Like type 00 but with no door. Typically constructed around some uniform substance,
+such as metal ingots, broken down on delivery. The broken-down boxes take up
+roughly one quarter the tonnage of their assembled states.
+
+24
+
+Damped Tunnel
+
+A corrugated metal box, with hinged doors on two opposing ends. This configuration
+mounts grav plates in three perpendicular sides or more of the container to act as
+inertial compensators. This often stores fragile or volatile cargo. This container is not
+necessarily airtight.
+
+25
+
+Sealed Damped
+Tunnel
+
+A type 24 that is vacuum rated, preventing contamination of the cargo.
+
+29
+
+Airlock Tunnel
+
+A tunnel configuration – two doors on opposing ends – with both doors replaced
+with simple airlocks. These exist for the sake of easy transport for colonial assets,
+assembling facilities on-site from standard-sized components.
+
+30
+
+Powered Box
+
+A box with one door which has starship-grade power feeds. Often used to ship things
+that need continual power, such as specialised life support.
+
+32
+
+Controlled
+Environment
+
+Same as type 05 but has environmental controls, capable of maintaining any
+temperature between -35o and 50oC. Often used to refrigerate fruits and vegetables.
+
+47
+
+Powered Side
+Door
+
+This configuration includes the power feeds of type 56 in a vacuum-rated container,
+with a folding door mounted on one side. This configuration is sometimes utilised by
+Q-ships, disguising weapon mounts as externally mounted cargo containers.
+
+50
+
+Open Top
+
+Type 00 with no door and the top panel removed. Used for grain or other
+particulate cargoes. Some use it as an ad-hoc animal pen if they cannot afford a
+more secure solution.
+
+55
+
+Open Frame
+
+An open box frame with structural cross members. Typically used as frames or
+scaffolding.
+
+56
+
+Powered Open
+Frame
+
+This is a type 55 with extensive power feeds that are capable of conducting starshipscale power loads. This configuration often houses a fusion reactor or heavy
+equipment.
+
+70
+
+Tank
+
+An open frame with a cylindrical tank used to transport fluids and gases. Not rated for
+greater than one atmosphere of pressure.
+
+72
+
+Reefer Tank
+
+Type 70 with environmental controls that can maintain a temperature range outside of
+-35o and 50o C.
+
+75
+
+Sealed Tank
+
+An open frame with a cylindrical tank that can handle much higher pressures than the
+more common type 70.
+
+90
+
+Habitat
+
+A stateroom, office or other liveable space in a box. Type 90 bears little to no
+environmental controls or life support of its own and rarely contains freshers.
+
+92
+
+Controlled
+Habitat
+
+With dedicated environmental controls, full life support and vacuum rating, type 92 is
+often configured as a full-fledged stateroom if sized 4C or, if 4B or 4A, one of higher
+quality commensurate with the space provided. This configuration can handle a
+temperature range of -35o and 50oC and has standardised waste disposal and water
+hookups alongside its power feed.
+
+Same as type 00 but airtight when closed. Will protect against loss of air to vacuum.
+Has no other life support or environmental controls.
+
+R
+
+

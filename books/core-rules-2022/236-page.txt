@@ -1,4 +1,3 @@
-T
 
 x
 
@@ -6,14 +5,6 @@ psion
 
 Qualification: PSI 6+
 DM–1 for every previous career
-
-V
-
-E
-
-L
-
-L
 
 Wild Talent
 Adept
@@ -126,9 +117,6 @@ psionics
 5
 6
 
-
-E
-
 ADVANCEMENT
 INT 8+
 EDU 8+
@@ -141,16 +129,12 @@ Choose one of the following:
 
 Skills and training
 
-A
-
 Career progress
 
 A career for Travellers who choose to focus on their
 psionic potential instead of more conventional lifestyles.
 
 236
-
-R
 
 RANK
 
@@ -200,7 +184,5 @@ Deception 1
 —
 
 —
-
-R
 
 

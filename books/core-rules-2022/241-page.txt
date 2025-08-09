@@ -88,7 +88,6 @@ World is TL of 5 or less:
 + Travellers’ highest Naval or Scout rank
 + Travellers’ highest SOC DM
 
-
 DM-2
 DM-1
 DM+0

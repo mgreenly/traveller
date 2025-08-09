@@ -41,7 +41,6 @@ Price table. The trader does not have to accept this
 price but if they reject the deal, they cannot deal with
 that supplier again for at least a month.
 
-
 Result
 
 -3 or less

@@ -1,0 +1,86 @@
+T
+
+or one under the rear centre and each front corner. They
+are only useful on streamlined ships without lifters, which
+rely on traditional aerodynamic lift to leave the ground
+and can only land at downports with long runways. Even
+in these cases, it is often simpler to design the ship to
+land on its manoeuvre or reaction drive, an arrangement
+called a ‘tailsitter’, as the engine is at the bottom of the
+ship rather than the rear.
+Points of contact with the ground are often the most
+reinforced on a ship. In terms of protection from small
+arms they are equal to bulkheads, although using them
+for cover in a firefight is not recommended as they
+often have gaps that bullets can pass through, as well
+as risking damage to the less-reinforced inner parts of
+the landing gear. Stability and ground clearance are
+typical design concerns; well-designed, well-maintained
+landing gear will insulate the ship from minor ground
+tremors and allow sophonts to walk under the ship.
+
+Hull
+
+CONTROL CENTRE
+
+10
+
+This refers to any system by which the ship may be
+controlled. The most common form, a ‘bridge’, takes the
+form of a room fulfilling this function through one or more
+control stations. Alternative forms may be a cockpit on a
+small craft or a robotic ship’s central computer. Whatever
+form it takes, it is the ship’s nerve centre. Many designs
+make it the most defensible part of the ship. On smaller
+ships, it is the default location that crew gather during
+missions for constant updates, as most ship actions
+can be performed there. This focus of staying on the
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+bridge leads directly to its frequent use as an informal
+commons, especially on ships without extensive
+facilities, such as the Suleiman class.
+In certain military designs, the bridge is at the ship’s
+centre for protection. This would be of little help in any
+serious combat for most small ships, particularly any
+with only one or two decks, which lack enough volume
+to have a large protected core. Otherwise, it is useful to
+place this area near the bow to give direct lines of sight
+to nearby close hazards and aid with docking, landing
+or manoeuvring. Comfort and security can argue for
+placing the bridge in the bow of non-combat ships. In
+one case, a trader’s competitor gained access to their
+virtual cockpit and booted up a flight simulator. The
+trader’s crew thought they took off and did a perfect
+jump entry, only to be awoken 12 hours after their
+supposed departure by starport security banging on
+their airlock wanting to know why they were still on the
+pad and not answering hails. The competitor beat them
+to the next system, winning a significant contract.
+On all but the most relaxed-security ships, access to
+the bridge is limited to one or a few entrances, with
+iris valves to maintain pressure if there is a hull breach
+elsewhere. These will usually be set to open for crew
+only; non-crew are only permitted as accompanied
+guests and must leave before the last crew leaves
+the bridge, in the rare situations where the bridge is
+unoccupied for any length of time. This protects not
+just the crew stations but also the vehicle emergency
+kit described under Emergency Rescue Equipment
+
+R
+
+

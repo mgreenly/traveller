@@ -44,7 +44,6 @@ make direct comparisons (and purchases) between the
 two. For example, Tech Level 10 Combat Armour costs
 Cr96000 in Traveller. In 2300AD, it would cost Lv96000.
 
-
 SELLING EQUIPMENT
 
 Travellers are likely to accumulate equipment

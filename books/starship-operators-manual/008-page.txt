@@ -1,0 +1,73 @@
+HULL
+A ship’s hull is its most important component. If there
+is only a hull, there is at least a hulk that, in most
+systems, one can apply for salvage rights to. Without
+a hull, there is at most a collection of parts and debris.
+Destruction of a ship’s hull is generally recognised as
+destruction of the ship.
+Starship hulls are not a simple mass of inert metal. Jump
+drive emitters, sensor nodes, lifters along the bottom
+of the ship and other such systems are woven through
+material thick enough to hold an atmosphere against both
+the vacuum of space and enemy action. Some starship
+technicians consider the hull to be alive, with coolant runs
+and structural ribs in place of blood and bones.
+
+FEATURES
+
+‘spacecraft’. Notably, most grav vehicles which can
+reach space lack some of these features; partly the
+reason why they are not referred to as spacecraft.
+
+ARTIFICIAL GRAVITY AND INTEGRATED LIFTERS
+
+While going without artificial gravity is technically an
+option, it is so common that most people treat it as a
+standard feature of all spacecraft. Lifters are marginally
+rarer but are essential on any spacecraft intended to
+land. Both systems rely on gravitic technology to function
+– see the Gravitics chapter on page 74 for more detail.
+‘Artificial gravity’ in common parlance refers specifically
+to grav plates, as other methods such as spin or thrust
+gravity can only mimic gravitational acceleration.
+
+ELEMENTS OF LIFE SUPPORT
+
+Most spacecraft and space station hulls share the
+same features, available from TL9 if not earlier. These
+have been refined over thousands of years and are
+considered essential to any vehicle worth the title of
+
+As discussed more in Life Support, starting on page 25,
+space is an extremely hostile environment. Thus, most
+hulls supply the environmental conditions necessary to
+keep occupants alive. These systems are among the
+most reliable on a ship and consume negligible power.
+
+Void
+
+Soil
+
+Air
+
+Fire
+
+Water
+
+8
+
+LIGHTING
+
+FRESHER
+
+HEATING
+
+AIR FILTER/VENT
+
+WATER DISPENSER
+
+AIRLOCK
+
+Gas
+
+

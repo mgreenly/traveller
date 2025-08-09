@@ -39,7 +39,6 @@ rest, which means that the Traveller may never heal
 naturally and will even get worse if their END DM is
 currently negative (and it probably will be…).
 
-
 An unconscious Traveller may make an END
 check after every minute. If successful, they regain
 consciousness. If they fail, they must wait another

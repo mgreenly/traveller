@@ -1,0 +1,79 @@
+T
+
+The Computer
+
+DRONES AND ROBOTS
+
+64
+
+The terms ‘drone’ and ‘robot’, although often
+used interchangeably, refer to two different types
+of automaton. The first is a shell that must be
+controlled by some outside force, whether that
+be software running on a computer outside the
+drone or a sophont with some control apparatus,
+while the latter can operate autonomously.
+Robots are noticeably more expensive but
+typically more capable. A common setup is for
+one advanced robot to supervise a small group
+of drones. Some robots may exceed the skills
+of even a well-trained sophont, although they
+are expensive to the point that it usually takes
+decades to recoup their cost.
+Robots are limited in their ability to react to
+unexpected situations, which bankrupts most
+efforts to entirely replace sophont labour with
+robots. Some remark on how much continued
+demand exists for sophont workforces despite
+thousands of years of living with automation. This
+is the primary reason why. Automation can assist
+sophonts, greatly reducing the need for their
+labour but not completely eliminating it.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+sophonts, so SDG-313F transponder-brains are not
+sophonts and using them does not amount to slavery,
+although there is not a universal consensus on this.
+
+DRONES AND VIRTUAL CREW
+
+A ship’s computer is a smart tool, assisting crew in their
+tasks or doing tasks on their behalf. Some ships take
+this to extremes with software packages that provide
+a virtual crew to handle piloting, sensor operation and
+gunnery, along with drones to handle tasks such as
+engineering that require moving around the ship and
+interacting with its systems. Astrogation must still be
+done by a sophont but some ships can theoretically fly
+with an astrogator alone.
+Robots and virtual crews are more valuable on ships
+performing questionable deeds, as fewer crew mean
+less morals to overcome and fewer people to keep
+secrets, to the point that a mostly automated small
+ship will automatically draw suspicion at most ports. A
+ship controlled by its computer increases the potential
+damage from attacks on the ship’s computer, so any
+captain with a mostly drone crew needs very good
+computer security to keep from being hacked out of
+command. While there are some downsides to having
+a mostly virtual crew, they can make up for deficiencies
+in skills the crew lacks. Ships that exist to ferry a small
+team to their target such as special forces or a research
+group may have a virtual crew take care of the ship,
+
+R
+
+

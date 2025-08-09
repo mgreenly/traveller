@@ -1,0 +1,208 @@
+TYPE: S
+
+SULEIMAN SCOUT/COURIER
+TL12
+
+Tons Cost (MCr)
+
+Crew
+Pilot, Astrogator, Engineer
+
+Hull
+
+100 Tons, Streamlined
+
+—
+
+6
+
+Armour
+
+Crystaliron, Armour: 4
+
+6
+
+1.2
+
+M-Drive
+
+Thrust 2
+
+2
+
+4
+
+J-Drive
+
+Jump 2
+
+10
+
+15
+
+Power Plant
+
+Fusion (TL12), Power 60
+
+4
+
+4
+
+Running Costs
+
+Fuel Tanks
+
+J-2, 12 weeks of operation
+
+23
+
+—
+
+MAINTENANCE COST
+
+10
+
+0.5
+
+Cr3079/month
+
+Bridge
+
+Hull: 40
+
+Computer
+
+Computer/5bis
+
+—
+
+0.045
+
+PURCHASE COST
+
+Sensors
+
+Military Grade
+
+2
+
+4.1
+
+MCr36.9405
+
+Weapons
+
+Double Turret (empty)
+
+1
+
+0.5
+
+Craft
+
+Docking Space (4 tons)
+
+5
+
+1.25
+
+Power Requirements
+
+Air/raft
+
+—
+
+0.25
+
+Basic Ship Systems
+
+Fuel Processing Plant (40 tons/day)
+
+2
+
+0.1
+
+20
+
+Fuel Scoops
+
+—
+
+—
+
+Probe Drones x10
+
+2
+
+1
+
+Workshop
+
+6
+
+0.9
+
+Jump Drive
+
+Staterooms
+
+Standard x4
+
+16
+
+2
+
+20
+
+Software
+
+Manoeuvre
+
+—
+
+—
+
+Sensors
+
+Library
+
+—
+
+—
+
+2
+
+Jump Control/2
+
+—
+
+0.2
+
+Fuel Processor
+
+Intellect
+
+—
+
+—
+
+2
+
+11
+
+—
+
+Systems
+
+Cargo
+
+Manoeuvre Drive
+20
+
+SULEIMAN
+SCOUT
+COURRIER
+
+135
+
+

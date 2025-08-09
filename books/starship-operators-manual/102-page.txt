@@ -1,0 +1,112 @@
+T
+
+the desired intensity. More advanced versions use
+variations on this such as bouncing light between thin
+reflective layers individually less than a micron thick,
+one accepting electrons from another and creating
+photons in the process that stimulates more electrons
+until the light finds its way out the side. Some speak
+of ‘masers’ where this energy is in the microwave
+frequencies or ‘grasers’ for gamma ray frequencies but
+the basic principle remains the same.
+Lasers come in ‘beam’ and ‘pulse’ varieties, which
+either fire one continuous beam or break up the energy
+into separate pulses. The latter do more damage
+because vaporised material tends to reflect and absorb
+some of the energy of a continuous beam; firing in
+pulses gives the material time to disperse, allowing
+more energy to strike the target. Either way, the fact
+that this damage is done over time rather than in one
+concentrated burst means sandcasters can be an
+effective defence against ship lasers.
+Since the ‘projectile’ of a laser is light, all the tricks
+to manipulate light will work on a laser so long as
+they can handle high intensities. This is the primary
+reason why people rarely attempt to bounce weapongrade laser beams off mirrors to achieve indirect fire.
+In particular, this includes using gravitic lensing to
+focus the beam so it remains at deadly intensities
+over much longer ranges, although there is almost
+never a gravitic lens at the target.
+
+Weapons and Defences
+
+Lasers are by far the most common turret-based
+weapon. This is partly due to their use in point defence,
+as heavier lasers do not track quickly enough to shoot
+down missiles. Laser drills not intended as weapons
+have seen use in countless combats as a beam
+powerful enough to shred asteroids is entirely capable
+
+A
+
+V
+
+E
+
+Reflective Mirror
+(100%)
+
+Electron
+
+L
+
+L
+
+E
+
+of shredding ships, if it can hit. Hybrid approaches
+that ‘detune’ a laser for mining then ‘retune’ if combat
+happens have seen limited application, generally
+winding up stuck in one mode and becoming ineffective
+beam lasers or very expensive laser drills.
+
+MISSILES AND TORPEDOES
+A logical extreme of drone warfare puts warheads on
+disposable craft that hurtle toward a target. Larger
+versions are missiles intended for bigger targets, called
+torpedoes. There are a variety of warheads, from simple
+kinetic-kill intended to capitalise on a missile’s velocity to
+explosive penetrators, nuclear, electromagnetic pulse,
+decoys, shrapnel interceptors and more.
+Missiles have two properties. First, a large volley of
+missiles is the most reliable way to destroy a target
+in one hit, from beyond the range where most other
+weapons can respond. Second, missiles are expensive
+and a ship can only carry so many at a time, making
+them uneconomical for most commercial ships. Missiles
+are generally designed to burn themselves out in
+operation with no expectation of recovery. Most missilelike objects intended to be recovered are referred to as
+‘probe drones’ or other terms to reflect the difference.
+There have been cases where the cost of a volley of
+missiles exceeded the price of the asset they destroyed.
+One of the defences a small ship has against this is
+being less expensive than the missiles and not being
+worth expending one. Ship captains intent on annoying
+those who possess said swarms would do well to keep
+this in mind and limit how annoying they are.
+Given their cost, missiles have a reputation as a ‘high
+end’ weapon. Common pirates are unlikely to be able
+to afford them, if they even have means to obtain
+resupply. It is a well-known gambit to fire one missile
+– easily shot down – to convince a ship to surrender.
+
+LASER WORKINGS
+Atom
+
+Photon
+
+Reflective Mirror
+(99%)
+
+Laser
+beam
+
+Quartz flash tube
+
+102
+
+R
+
+R
+
+

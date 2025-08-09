@@ -1,0 +1,109 @@
+partially full, a temporary airlock is deployed around
+the service entrance, then fuel tank compartments are
+drained and filled one-by-one to allow the technician
+or drone to move through them without being directly
+exposed to the fuel. A completely full tank must be
+partially drained first, such as by the leak that needs
+repairing in the first place. Even hostile environment
+vacc suits do not protect from the extreme cold
+temperatures and high pressures of liquid hydrogen.
+The tank compartments have cryogenic insulation
+to keep the liquid hydrogen cool, commonly using
+a simple double hull for vacuum insulation. This
+cryogenic lining is covered in a self-sealing nonhydrogen-reactable coating that will react to stress
+and close punctures automatically. When an area
+needs replacement, first the exact area to be replaced
+must be designated, typically by drawing a boundary
+on a virtual model of the fuel tank. Using this model,
+a piece of the exact shape and size required is
+manufactured and then put into place after the old
+section is cut away. A coating is applied to the seam
+between the new piece and the surrounding fuel
+tank, which is traditionally given one full day to bond
+before being tested to make sure it will hold. While
+higher TL materials can set faster, taking less than
+a day is widely seen as endangering the ship by not
+allowing the tank coating to fully bond, although it is
+understandable during emergency repairs.
+
+FUEL SCOOPING AND PROCESSING
+Fuel scoops refer to systems that quickly mine the
+environment around a ship for fuel. There are three
+types of fuel scoops. Atmosphere-type scoops quickly
+filter hydrogen from hydrogen-rich atmospheres such
+as on most gas giants. Fluid- or water-type scoops filter
+out water from a potentially mixed liquid, most often
+sea water, then electrolyse hydrogen from it. Ice-type
+carves chunks of ice out of comets, heating the ice to
+its melting point then feeds melted water into the fluid-
+
+Most ships that have fuel scoops have all three but
+there are exceptions, so when posting to a new ship it
+is good to confirm which it has. The speed of scooping
+comes at the expense of impurities in the obtained
+resource, meaning that fuel scoops obtain unrefined
+fuel, which is problematic for jump drive use and, if
+used over long periods, can present maintenance
+headaches for fusion power plants and hydrogenusing reaction drives if not refined. Most ships with
+fuel scoops have a fuel processor that removes these
+impurities, turning unrefined fuel into refined fuel that
+presents no such troubles.
+Fuel processing uses much the same heating and
+filtering processes described in Water Recirculation
+on page 30, along with gravitic density sorting similar
+to how a fusion power plant separates helium from
+hydrogen. Even on large ships, it is common for the
+same crew to maintain both fuel processors and water
+treatment facilities, using such similar skills and tools
+that the unwary can temporarily forget which system
+they are tending.
+Scooping fuel goes much faster than processing fuel
+unless the fuel processor is far larger than it needs
+to be. It is common to scoop fuel quickly and then
+spend the entire trip to the jump location processing
+it, possibly even longer. Even without scooping,
+unrefined fuel is more widely available at ports than
+refined fuel is, leading many to view fuel processors
+as an investment.
+It is technically possible to use atmosphere-type fuel
+scoops to skim hydrogen from a star, at rates akin to
+skimming from a gas giant. While this can be more
+convenient than hunting down cometary ice – let alone
+travelling to the Kuiper belt or Oort cloud – doing so
+entails all the predictable hazards of travelling close to
+a star, in particular requiring more heat and radiation
+shielding than most ships possess and as such is
+generally reserved for the desperate or foolhardy even
+on ships equipped to survive the process. The result
+should be considered unrefined fuel, although the usual
+contaminants – mostly helium – are different from those
+found in gas giant atmospheres.
+Large ships may have scoops on subcraft rather than
+scooping fuel themselves – taking advantage of the
+square-cube law and allowing redundancy – but small
+ships do their own scooping. Scooping fuel can be
+one of the most challenging operations a pilot will
+perform, which means that large ships may have a
+
+Power Systems
+
+Pipes carry liquid hydrogen into and out of the fuel
+tanks. In addition to being insulated similarly to the
+tanks, they incorporate gravitics to help push and pull
+fuel. Articulated baffles inside the tanks further assist
+flow, preventing sloshing and backwash. These baffles
+can divide the tank into multiple compartments, helpful
+when unrefined fuel is being refined, allowing a ship to
+quickly scoop fuel from a world’s surface or gas giant’s
+atmosphere and refine it one compartment at a time en
+route to the jump limit. This internal division is useful
+to limit leaks should the tanks be breached, similar to
+compartmentalisation of the hull.
+
+type processor. The melting is done inside a miniature
+airlock to add pressure, as water ice sublimates to gas
+if sufficiently heated in a vacuum.
+
+23
+
+

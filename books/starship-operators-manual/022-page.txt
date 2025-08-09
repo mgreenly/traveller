@@ -1,0 +1,83 @@
+Power Systems
+
+T
+
+22
+
+At lower TLs where superconducting batteries are not
+available, reversible electrolysis fuel cells are used
+instead. Available from late TL8, these pass hydrogen
+and oxygen through a membrane to extract water and
+electrical power. The process can be reversed when
+there is excess power available. Conversion efficiency
+is high but not 100%, thus why superconducting
+batteries are preferred at higher TLs. These designs
+are usually sealed, closed-cycle devices where the
+hydrogen, oxygen and water are stored in dedicated
+tanks attached to the fuel cells, although some designs
+share these three components with the ship’s general
+supply. Fuel cells are less prone to sudden overheating
+or explosion so long as the membranes and tanks do
+not leak. When they do, it is recommended to discharge
+the leaking cell as soon as possible. Electricity can be
+stored elsewhere and leaking water is famously much
+harder to ignite than leaking hydrogen and oxygen.
+
+FUSION FUEL TANKS
+Fuel tanks are one of the biggest systems in most
+starships, requiring 10% of the ship’s volume per
+parsec of range. The portion needed to run a typical
+fusion power plant is a small fraction of that needed for
+jumps but since both systems take liquid hydrogen, the
+same fuel tank system is used. This affords the ship
+much longer endurance between refuelling if it does not
+maximise the use of its jump drive, although the ship
+can risk becoming stranded if there is too little fuel left
+to jump and no means of refuelling.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Given that they take so much volume and sometimes
+spend long periods empty, designers developed a
+variety of alternative fuel tanks, such as high-purity tanks
+often found on starports. Some collapse to provide extra
+cargo volume when not carrying fuel. Some are mounted
+externally, carrying one jump’s worth of fuel and dropped
+just as the jump field is forming.
+Keeping fuel tanks in working order is vital to the
+power systems of the ship. A leaking tank causes
+problems, both from the spill and running out of fuel
+sooner than expected. Ships have been rendered
+dead in space from a relatively small fuel leak that no
+one did anything about.
+Many ship designers consider fuel storage filler space,
+breaking it into areas spanning several decks in odd
+shapes to fill volumes between the hull’s outer skin and
+the often-boxy rooms and corridors of crew-accessible
+space. This is especially true in streamlined ships, a
+practice dating to pre-spaceflight aircraft, which often
+store their fuel in their wings as those are too thin for
+anyone to sensibly enter. Thus, most fuel tanks are
+custom-designed for the layout of their ship and firmly
+embedded as part of the hull.
+Because of this, fuel tank maintenance involves
+assembling patches from standard materials and parts
+more than replacing entire tanks. There is normally one
+or more service entrances per tank for a technician or
+drone to access it. If a fuel tank must be entered while
+
+R
+
+

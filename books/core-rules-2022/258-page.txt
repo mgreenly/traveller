@@ -1,4 +1,3 @@
-T
 
 Quality: This determines both the condition of the port
 itself and the level of competence of the staff. Quality
@@ -41,20 +40,6 @@ Limited repair facilities can only fix Hull damage.
 Use the following modifiers when determining whether
 a highport is present: DM+1 if TL9–11, DM+2 if TL 12+,
 DM+1 if Population 9+, DM–1 if Population 6–
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 CHARTED SPACE: STARPORTS AND THE LAW
 Technically, a starport is Imperial territory
@@ -105,13 +90,10 @@ Bases on page 259.
 
 COMMUNICATIONS
 
-
 If the planet is below Tech Level 3, then there will be
 no telecommunication system whatsoever except for
 whatever facilities the starport offers. If it is between
 TL4 and TL6, then it has radio and telephone
 communications between major cities at least but
-
-R
 
 

@@ -1,0 +1,113 @@
+ARMOUR TECHNOLOGIES
+Improved technologies directly impact the materials
+available to construct spacecraft hulls. Some break
+this down for each Tech Level but it is more useful
+to consider broad ranges, within which high or low
+technology versions can be considered advanced or
+prototype forms of the main technology. Even on ships
+with hulls thin enough that they are not considered
+‘armoured’, these materials provide basic protection
+against the rigours of space travel.
+In each case, where windows are used in place of
+external cameras feeding viewscreens, there are
+transparent options of comparable strength. These
+are usually slightly weaker, so these portions of the
+hull are built thicker. Entirely transparent hulls are very
+rare for multiple reasons, primarily that the sensor
+nodes and jump emitters that must cover the hull
+would prevent perfect transparency. There have been
+enough comparisons made to inhabited spaceborne
+greenhouses to curb most efforts to create such a hull.
+
+METALS: CIRCA TL7
+
+Prior to the utilisation of crystaliron, the most useful
+materials for armour are raw elemental material, alloys
+or composites. This goes back to TL1 and is why most
+primitive civilisations have a ‘bronze age’, ‘iron age’ and
+so forth. Each metal that replaces the previous age is
+stronger and more durable. By the point that spaceflight
+becomes practical at TL6, electrically extracted
+aluminium is available, commonly replaced by steel or
+titanium alloys at TL7 and carbon fibre laminates at TL8.
+
+CRYSTALIRON: CIRCA TL10
+
+BONDED SUPERDENSE: CIRCA TL14
+Collapsing the molecular structure of iron produces
+a material completely unknown to nature, outside of
+degenerate stars such as white dwarfs and neutron
+
+That is as good as it gets for most ships, although
+there are prototypes of a refinement to the superdense
+bonding process that seems likely to become the
+standard for TL16 armour. This is referred to as
+‘molecular bonded’ or ‘hullmetal’ armour.
+
+COATINGS
+
+Although many hulls utilise some form of decoration,
+such as paint at lower TLs, with anodised metals and
+holographic displays becoming available later, coatings
+refers to those that optimise aspects of the ship to
+better serve its intended role. Most of these options are
+mutually exclusive.
+Reflec coatings help protect a ship by reflecting light
+and heat. This gives the ship added protection against
+laser weapons, which are one of the more common
+forms of spacecraft armament. However, this is both
+an expensive modification and can hamper a ship’s
+stealth, as the same reflective properties that defend
+against laser weapons make the ship far more visible
+to most forms of spacecraft sensor. Although perfect
+stealth is impossible, lower detectability can still buy
+valuable time to evade a pursuer. As a result, most
+ships will favour sandcaster batteries to defend against
+lasers, as they are cheaper and more versatile. See
+page 103 for details on sandcasters.
+Similarly, a ‘slick’ coating can keep the enemy from
+using tractors and pressors to pull or push the ship.
+The idea originally started from people coating a
+wall or piece of machinery with a coating of oil so
+any grappling hooks, ropes or chains would slip off.
+The modern version for starships involves a coating
+of gravitic circuitry that provides the same kind of
+protection making tractors and pressors, detailed on
+page 105, slip off the hull. This is especially helpful
+where piracy is prevalent, to keep traders from being
+grabbed and their cargoes plundered. However, where
+piracy is prevalent, legal shipyards may instead stop
+selling slick coating to help law enforcement catch
+pirate ships more easily.
+
+Hull
+
+Synthetic crystal production, initially created to make
+artificial gems such as sapphires and diamonds
+in industrially useful sizes and shapes, eventually
+becomes able to grow perfect metals. Entire slabs
+of armour can be single crystals of iron interspersed
+with precisely positioned impurities, creating a
+material without any internal structural weakness.
+More critical to the practical adoption of crystaliron are
+the crystal growth and shaping tools to repair such
+armour, at shipyards if not in the field, after inevitable
+micrometeorite damage, deformation from the heat
+of atmospheric entry, and other wear. Some divide
+crystaliron into grades: ‘dense’ at TL10, crystaliron
+proper at TL11 and composites at TL12.
+
+stars. This ‘superdense’ often sees use in buildings
+before vehicles and one of the Third Imperium’s earliest
+uses was making hard-to-forge currency in a project
+named ‘gravcoins’, an evolution of which is still in the
+design of modern Imperial Credits. Bonded superdense
+has its electron bonds reinforced by electric currents and
+nuclear dampers in a refinement to the gravitic forge.
+As with other armour technologies, this is divided into
+grades: lite metal at TL13, superdense proper at TL14
+and vlite metal – short for ‘very light metal’ – at TL15.
+
+13
+
+

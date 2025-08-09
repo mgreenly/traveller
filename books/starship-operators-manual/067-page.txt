@@ -1,0 +1,75 @@
+FINE DETAIL
+
+SHAPE & STRUCTURE
+
+BASIC OUTLINE
+information. Handling one additional set would require
+some adjustment but might be doable. Handling 1,000
+additional sets would be overwhelming.
+
+When this fails, many overlook or do not report anomalies.
+Studies conducted into how something so clear in
+hindsight escaped notice rarely produce any satisfying
+conclusion. After-action analysis usually proves timeconsuming and inconclusive, even when the sensop
+took pains to have the algorithms explain why they made
+the decisions they made. This assumes the missed
+data did not lead to disaster – missing a hostile intent on
+destroying the ship tends not to leave an intact enough
+report to extract logs from.
+When this succeeds, the invisible becomes visible.
+Crews can make accurate predictions and safely act
+upon them. This happens so often that people take it
+for granted, which is a testament to how well and how
+routinely sensors work.
+
+APPROXIMATE JUMP LIMIT
+
+HOW COMMUNICATORS WORK
+One cannot simply shout across the vacuum of
+space. Among other problems, the lack of air does
+not conduct sound. To speak from one ship to another
+or between ship and port, it is necessary to encode
+communications in some other medium such as radio
+and transmit it, relying on the recipient to be able to
+receive and decode. In most cases aside from genuine
+first contact, both sides will possess one or more
+mutually understood mechanisms.
+To explain radio communications simply, keep in mind
+three basic components: Transmitters, receivers and
+radio waves. This is the bare minimum needed to send
+a signal. Advanced systems have other components but
+we will first focus on these. Non-radio communicators,
+such as laser or meson, work by similar principles.
+Transmitters send out high frequency radio waves.
+First, the information to be sent is turned into digital
+data. In the case of computer data that is already
+digital this is straightforward, while there are many
+schemes for translating analogue signals such as
+voice and pictures into digital forms. This data is
+encoded into radio wave patterns by varying the phase,
+amplitude or frequency. These variations are a code
+that only a properly configured receiver can pick up
+and understand. High frequency means sending more
+waves in a given amount of time, thus being able to
+send more data per unit time than a low frequency
+signal. Changing the amplitude means making these
+
+Sensors & Communications
+
+From the sensop’s point of view, running sensors
+means working in concert with machines, looking for
+patterns and anomalies they cannot recognise within
+far more data than the sensop can manually process.
+Coming up with new algorithms and programming
+them into the computer on the fly is part of the process.
+There are libraries of time-tested algorithms one can
+consult but there always seem to be new problems or
+variations not handled by the existing code, although
+some sensops are particularly talented at applying
+existing patterns to new cases.
+
+BASIC OUTLINE
+
+67
+
+

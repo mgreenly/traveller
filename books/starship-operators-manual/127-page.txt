@@ -1,0 +1,69 @@
+‘Emergency maintenance’ is an action that would
+normally be assigned to available maintenance crew
+but, due to unforeseen circumstances, is instead being
+conducted quickly by the nearest available crewmember.
+In an emergency, crew may need to turn valves, cut off
+breakers, unplug electronics and other such tasks. It is
+a peculiar type of emergency repair when there is time
+to wait for properly trained personnel, equipment and
+replacement parts to be available.
+
+REPAIRS AND DOCUMENTATION
+Hastily attempting repairs during an emergency
+may cause more problems than waiting and doing it
+with a level head. If it seems necessary to perform
+
+Non-engineering crew repairing these systems without
+telling anyone interferes with the engineer’s duty and
+puts the ship in danger. However, some repairs are
+time sensitive. If no engineers are available, inform
+them of the work done at the earliest opportunity so
+they can document it. Proper documentation of repairs
+is not ‘just some old Vilani superstition’, nor is it the
+cultural influence of Bwaps. It saves lives.
+Leaks are probably the most reported issue aboard a
+ship. Solids, liquids, gas or plasma could be leaking
+from a pipe or storage vessel and providing a good
+description of the leak helps identify the problem.
+The most dangerous leak on most ships is from the
+liquid hydrogen fuel tanks or fuel lines. Liquid hydrogen
+is cold enough to cause many materials to become
+brittle and shatter under the slightest pressure, and
+hydrogen mixing with an oxygen atmosphere is highly
+explosive under a wide range of pressures. Dealing
+with a liquid hydrogen leak is of paramount importance.
+Once a leak is located, the most common emergency
+maintenance procedure is to trace the pipe and find the
+closest cut-off valve. Most can be closed remotely from
+
+Maintenance and Repair
+
+Staying calm is essential during an emergency, both
+to keep your own efforts focused and to serve as
+an example for any who might look up to you. First,
+evacuate any areas under immediate threat if necessary
+and feasible. Leading passengers and fellow crewmates
+away from the emergency may not take much skill but
+does require familiarity with the ship’s layout. If unable
+to make it to a safe location, quick thinking to remedy
+the situation may save lives, not to mention the ship.
+Next is to identify the type of emergency. Emergencies
+stemming from faulty wiring, leaks, hull breaches and
+malfunctioning equipment can cause much larger
+problems if not maintained. If you are experiencing an
+emergency, calmly evaluate your relative position to
+keep yourself safe, the extent of the emergency, the
+likelihood of it becoming worse, and what needs to be
+done to keep the problem from spreading.
+
+emergency maintenance on a vital system, find
+an engineer immediately. Ideally, notify the chief
+engineer as their primary duty is to track all vital ship
+systems and assign other engineers to repairs. This
+is not an inconvenience or imposition; it is their job,
+especially since non-engineers should not have to
+perform emergency maintenance.
+
+127
+
+

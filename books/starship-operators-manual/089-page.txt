@@ -1,0 +1,111 @@
+Starting about one hour before the ship exits
+jumpspace, the jump field begins to exhibit some
+well-defined changes, most notably ‘jump rumblings’
+which are vibrations that anyone on the ship can feel.
+Only those who are asleep or floating in a zero gravity
+area may not notice them. Most engineers, navigators
+and ships’ sensops train to identify these changes
+and crews will take advantage of this warning to try to
+have a full complement awake and at stations when
+the ship emerges.
+Two things happen upon emergence from jumpspace.
+There is a detectable pulse of gravity as the ship
+suddenly appears in realspace. Any remaining
+ionised hydrogen in the jump field generates an
+electromagnetic pulse or ‘jump flash’ which is
+detectable at a similar range to the gravity pulse
+before the hydrogen begins to disperse. If any impact
+with the jump field consumed a significant quantity
+of matter, it will usually return to realspace at this
+time and may contribute to the exiting jump flash.
+The remains of the matter consumed during initial
+inflation are generally left at the point of jump entry,
+contributing to that entry flash instead.
+The ship emerges at minimum 100-diameters from
+any large mass but retains the realspace vector it
+had when it entered the jump. The astrogator’s job is
+to compare the velocity that the destination will have
+upon arrival relative to what the ship has upon jump,
+to ensure the ship emerges into the target system
+with a safe and sane vector. Many believe astrogators
+compute in seven dimensions; three of position, three
+of velocity and one of time. When this is not possible,
+it may be the job of the pilot to do some quick
+manoeuvring to avoid collisions, although emerging
+in close proximity to another object is unlikely save
+around the busiest of worlds.
+
+IN-SYSTEM JUMPS
+It may come as a surprise to those who have never
+lived in a system with multiple populated worlds that
+jump drives are commonly used for in-system transit.
+For any two points in the same system that would
+otherwise take many days to travel, a ‘microjump’ can
+reduce transit time to one week. Unless one counts
+the outer limits of Oort clouds, solar systems are tiny
+fractions of a parsec in diameter. Despite this small
+distance, in most respects an in-system jump acts like
+a one-parsec jump. It is also a common way of testing
+new models of jump drive.
+A relatively obscure but potentially life-saving trick of
+the astrogation trade is the so-called ‘null jump’. In an
+emergency, such as in the middle of a pitched battle,
+it is possible to initiate a jump without any inputted
+astrogation solution. No ‘push’ is given to the jump field,
+so the ship’s path collapses into a point. The jump drive
+consumes fuel equivalent to a one-parsec jump. About
+one week later, the ship breaks out into realspace where
+it left. This point is where the ship’s vector would have
+carried it for the jump’s duration, unaffected by gravity.
+Stars and star systems are always in motion. A week
+of such motion would displace the ship from its starting
+point by hundreds of millions of kilometres, requiring a
+lengthy transit back to the mainworld or other refuelling
+point. There is the possibility of ending up more than
+1,000 diameters from the star’s gravity well, leaving
+the m-drive nonfunctional. Jump Control software can
+predict the distance and direction of this displacement
+and help an astrogator plot a jump path that
+compensates for it but sometimes there may be no time
+to run these calculations before triggering a null jump.
+This technique can shake off would-be pursuers by
+making them believe the ship jumped to another
+system but there is a risk. If potential assailants are still
+in the area upon jump exit, the hapless ship will have
+jumped right back into danger, likely without enough
+fuel to attempt a second jump to safety.
+
+JUMP DRIVE SYSTEMS
+
+Jump Drives
+
+Misjumps often result in higher, lower, or patterned
+concentrations of hydrogen, resulting in detectable
+differences in the electromagnetic pulse. Because
+of this pattern, the Third Imperium has a small
+bounty for logs of misjumps as they help achieve
+higher performing jump drive creation. This bounty
+encourages starports to render emergency aid to
+misjumped ships, as they receive a percentage of it.
+Unfortunately, the regulations are complex enough, on
+top of the inherently unpredictable nature of misjumps
+and what can be usefully logged from them, that the
+bounty is essentially random when it is paid at all,
+although it is rarely enough to make up for the danger
+of a misjump. In particular, if the logs suggest the
+misjump was due to a preventable and well-studied
+error such as poorly maintained drives, using unrefined
+
+fuel or jumping inside the 100D limit, this reduces the
+bounty. The crew must survive the misjump to be paid,
+which is the biggest deterrent to those who would
+deliberately misjump seeking this bounty.
+
+Every jump drive comprises four basic subsystems,
+although they may take different forms; the power
+conditioner, the control subsystem, the drive/shunt
+subsystem and the jump bubble subsystem.
+
+89
+
+

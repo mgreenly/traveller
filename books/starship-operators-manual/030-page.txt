@@ -1,0 +1,93 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+accomplish this using mass, while magnetic fields form
+miniature magnetospheres on higher TL spacecraft.
+Most modern spacecraft store anti-radiation pills for
+crew and passengers in the event the spacecraft is
+caught unprotected in a severe solar flare or other
+major radiation source. Long-term care, capable of
+being provided by any medical bay aboard a modern
+spacecraft, can eventually reduce a sophont’s lifetime
+accumulated radiation dose to essentially zero, although
+other measures must be taken to reverse damage.
+The practical effect of this is that radiation can be
+ignored except in extreme circumstances, such as
+being fired upon by weapons specifically designed to
+inflict high doses of radiation or being outside a ship
+when a solar flare strikes.
+
+WATER RECIRCULATION
+Water is rarely consumed utterly by any of its many uses
+aboard ship, whether imbibed, employed in washing and
+general hygiene, maintaining a comfortable humidity, or
+putting out fires. Instead, it is transformed into another
+state that can be reclaimed and treated once more to
+become pure water. Thus, it is more correct to say that
+a ship has a certain amount of water than that it uses
+water at a rate optimally balanced by the reclamation
+rate. While there is inevitably inefficiency and loss
+over time, new water can be made from hydrogen
+and oxygen, two things any modern spacecraft has
+in significant quantities. This could in theory eliminate
+water storage needs but it is often more convenient to
+store spare oxygen as water, break off the oxygen as
+needed and recycle water using techniques developed
+for planetside municipal water systems.
+
+Life Support
+
+RADIATION
+
+30
+
+For all its hazards, radiation is one danger that
+jumpspace is completely safe from. Jumpspace
+emits zero radiation, so far as the Third
+Imperium’s most sensitive detectors have been
+able to measure.
+By radiation, ship crews mean particle radiation,
+such as alpha or beta. Electromagnetic radiation
+is light, lasers and so on. Gravitational radiation
+is gravity or ‘spacetime curvature’. Acoustic
+radiation is sound. These other phenomena
+have propagation properties similar to particle
+radiation, which is why physics labels them as
+other kinds of radiation but ship crews do not.
+
+A basic water treatment unit relies primarily on filtration,
+removing anything but water molecules and similarly
+sized particles, using micromanipulators as part of
+the filter screens to slide off accumulated junk to keep
+the filters clear. This combines with magnetic traps to
+pull out any particles with an electric charge, followed
+by evaporation and condensation to remove particles
+with significantly different thermal properties than
+water. Gravitic manipulation is employed during the
+condensation step to pull out anything with significantly
+different density, as well as to encourage the water
+to condense. One notable difference from typical
+planetside treatment is that the filtration step is relied
+upon to remove all biological material in the water,
+eliminating the need for any further anti-biological
+measures. The other steps are more to remove dirt
+and dissolved salts, which means multiple redundant
+layers of filtration, triple at a minimum, along with active
+monitoring to alert if any of the layers malfunction. Even
+
+R
+
+

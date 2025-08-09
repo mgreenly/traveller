@@ -77,7 +77,6 @@ SOC 10 or SOC +1, whichever is higher
 11
 12
 
-
 EVENT
 Disaster! Roll on the Mishap table but you are not ejected from this career.
 You are assigned to a planet with a hostile or wild environment. Gain one of Vacc Suit 1, Engineer 1,

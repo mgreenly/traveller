@@ -1,0 +1,90 @@
+T
+
+Power Systems
+
+This process requires active regulation. If the fuel
+shuts off, the reactor is cracked and plasma escapes,
+the nuclear dampers shut down so protons resume
+repelling each other and no more neutrons are
+manufactured, or any other failure scenarios occur,
+the process ceases. There is no significant explosion
+from vented plasma. Even deliberate sabotage,
+unless it directly damages the reactor, leaves most
+parts in working order.
+
+18
+
+Any fusion power plant includes a rechargeable power
+storage block to provide power to heat hydrogen
+and run the operation until it starts generating power,
+referred to as a ‘black start’. By far the most common
+mistake operators make is to tap this block for any
+other purpose. In an emergency, if the reaction is
+generating enough power that this will be recharged
+and a momentary burst of power will help, this is
+forgivable. In most cases, those conditions are unmet,
+so diverting this power either is useless or makes
+things worse. Fusion power plants have safeguards to
+prevent draining this block when the plant is shut down,
+requiring deliberate effort to bypass.
+The main problem with fusion reactions is that they
+need an extremely high energy density to achieve
+temperatures in the hundreds of millions of degrees.
+This tends to have deleterious effects on both matter
+and the reaction itself. Without gravitics and nuclear
+dampers, the only way to reach the desired energy
+density is with high-energy lasers or magnetic
+compaction, and the only methods to keep the plasma
+confined are magnetic fields and wishful thinking.
+This requires more energy to control. Due to these
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+factors, the lowest TL advanced fusion reactors are
+heavy and bulky, unsuitable for starship use. Improper
+maintenance can cause a high TL reactor to revert to
+these processes and need shielding installed.
+Gravitic containment is helpful in preventing the
+reaction from touching the reactor, which would shut
+down the plant by supercooling the reacting plasma.
+Nuclear dampers allow lowering the interatomic binding
+forces between particles. This in turn allows fusion
+reaction pathways to take place at lower temperatures
+at a corresponding loss in efficiency. A modern fusion
+reactor is hot but not at star-core temperatures, many
+topping out at tens of thousands to a few million
+degrees. The limiting factor is the physical structure of
+the reaction chamber, with higher TL chambers more
+resistant to thermal flux, allowing a higher reaction
+temperature with less required damping as well as
+more useful extraction of power.
+Solar power is much less varied. When strong light
+strikes a material manufactured with carefully controlled
+impurities, it dislodges electrons across part of a circuit.
+If both sides of this material are properly wired, the
+electrons have an easier time returning to where they
+came from by following the wires rather than crossing
+back through the material. This forms a current that
+can be tapped for electrical power. The primary
+variance is in the exact materials used which affect
+the wavelengths of light absorbed, amount of voltage
+generated per square metre, useful lifespan and more.
+The light of a nearby star constitutes a strong light,
+although small voltages can be generated from typical
+indoor lights. Distant starlight or the light of jumpspace
+
+R
+
+

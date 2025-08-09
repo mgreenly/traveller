@@ -1,4 +1,3 @@
-T
 
 Random Targets
 
@@ -118,23 +117,10 @@ unprofitable missions.
 A wise patron, therefore, will always offer the
 Travellers a little more than they can get by trading.
 
-
-A
-
-V
-
 Random Opposition
 
 D66 Target
 11
-
-R
-
-E
-
-L
-
-L
 
 D66 Opposition
 
@@ -230,8 +216,6 @@ rival ship
 
 66
 
-E
-
 Target is in deep
 space
 Target is in orbit
@@ -276,7 +260,5 @@ based on the culture and technology of the planet. The
 referee should roll for a new encounter every six hours
 on average (more often if the Travellers are moving
 great distances or attracting attention).
-
-R
 
 

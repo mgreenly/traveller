@@ -1,0 +1,57 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+11
+9
+
+Ship Walkthrough
+
+3
+
+7
+
+6
+2
+1
+
+5
+
+8
+
+POWER PLANT
+
+154
+
+E
+
+6. Plasma monitors
+7. Control computer
+8. Fuel pipes
+9. Power cables
+10. Helium exhaust
+11. Security camera and fire suppression projector
+
+1. Reaction tank
+2. Gravitic containment plates
+3. Nuclear damper nodes
+4. Power storage block
+5. Fuel injectors
+
+10
+
+L
+
+4
+
+R
+
+

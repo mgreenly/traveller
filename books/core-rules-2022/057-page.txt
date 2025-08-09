@@ -26,7 +26,6 @@ Events
 11
 12
 
-
 EVENT
 Disaster! Roll on the Mishap table. However, you are not ejected from this career.
 You have the opportunity to escape the prison. If you take this opportunity, roll either Stealth 10+ or

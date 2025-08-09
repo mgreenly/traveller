@@ -89,7 +89,6 @@ stands to gain.
 
 PASSENGERS
 
-
 Travellers considering taking passengers on their own
 ships should consult the Spacecraft Operations chapter
 for the requirements needed to do so.

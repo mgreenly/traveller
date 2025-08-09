@@ -1,4 +1,3 @@
-T
 
 7
 
@@ -7,12 +6,6 @@ merchant
 ASSIGNMENTS
 
 Choose one of the following:
-
-E
-
-L
-
-L
 
 Merchant Marine
 Free Trader
@@ -106,9 +99,6 @@ Streetwise
 Deception
 Persuade
 
-
-E
-
 ADVANCEMENT
 INT 7+
 INT 6+
@@ -134,16 +124,12 @@ Broker: You work in a planetside brokerage or starport.
 
 traveller creation
 
-V
-
 Mustering out benefits
 
 Qualification: INT 4+
 DM-1 for every previous career
 
 34
-
-A
 
 Career progress
 
@@ -153,8 +139,6 @@ they may work for independent free traders who carry
 chance cargoes and passengers between worlds.
 
 7
-
-R
 
 RANK
 
@@ -203,7 +187,5 @@ SOC +1
 Captain
 
 —
-
-R
 
 

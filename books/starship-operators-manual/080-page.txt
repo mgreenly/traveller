@@ -1,0 +1,88 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+ANIMAL SAFARI SHIP - SHIP THRUSTS
+
+Ship thrust
+M-Drive
+position
+
+GRAV VEHICLES
+
+Gravitics
+
+There exist lesser forms of manoeuvre drives,
+such as grav vehicle engines. As far as starship
+crews are concerned, these can be considered
+less powerful, less expensive manoeuvre drives
+that operate closer to gravity sources. On
+large ships that carry many grav vehicles and
+engineers, it is common for junior manoeuvre
+drive engineers to maintain and repair the
+grav vehicle engines, as they have fewer parts
+and less that can go wrong. Certain relatively
+powerful grav vehicle engines, capable for use in
+going from a world’s surface to orbit and even its
+moons, are known as ‘gravitic drives’.
+
+80
+
+Manoeuvre drives being far more powerful and
+far more expensive than grav vehicle engines, it
+should come as no surprise that they outperform
+grav vehicles. Even a basic 1G m-drive is faster
+than all but the fastest g/racers in Charted Space,
+although not necessarily more agile. Those who
+forget how much more expensive ships are than
+grav vehicles can sometimes be reminded of the
+difference in performance. This causes no end
+of nightmares for planetary defence forces using
+grav vehicles to intercept smugglers and is one of
+the chief reasons why system defence boats exist.
+
+slang ‘blue rainbow’ for the backside of an Imperial
+Navy fleet. When a noble or planetary ruler says, ‘not
+until I see the blue rainbow,’ they are demanding the
+departure of whatever navy ships are present. Even
+within regions that rely on different material sources
+for their m-drives, resulting in different spectra,
+manufacturers may seed other elements or rig lights
+so their drives seem more Imperial. This is not unique
+to the Third Imperium, as some Vargr insist on having
+a different colour for each thruster plate, while some
+Aslan engineers see anything other than yellow as a
+sign of an underpowered drive.
+Low-TL sophonts seeing a spacecraft for the first time
+often mistake this glow for the exhaust of a reaction
+engine. For crew who often visit low-TL worlds and
+interact with the locals, it may be a good idea to
+memorise a brief explanation of the difference they
+can recite every time someone asks. Given the danger
+from the ionisation effects’ heat, these sophonts have
+one important detail correct – do not stand directly
+behind an m-drive in operation.
+
+INTERSTELLAR MANOEUVRE DRIVES
+There have been attempts to optimise and use
+manoeuvre drives for interstellar flight, most often for
+colony ships without jump drives. The chief limitation
+historically is fuel, which seems counterintuitive on
+first glance as the main point of manoeuvre drives is
+freedom from fuel limitations.
+
+R
+
+

@@ -1,0 +1,129 @@
+T
+
+waves stronger or weaker, while altering the phase
+means altering the timing of these waves relative to
+some point in time, typically the start of a batch of data.
+
+Sensors & Communications
+
+Once encoded, the signal is transmitted via an
+antenna. If transmitting the signal via radio, the
+antenna is a piece of wire that runs an electric
+potential back and forth to generate alternating electric
+and magnetic fields. As the signal heads outward
+from the antenna, the receiver picks up the signal
+through its own antenna and decodes it back into data
+a computer can use. Radio receivers have antennas
+of specific lengths, in which alternating electric and
+magnetic fields of the right frequencies will induce an
+alternating electric potential, which the circuits of the
+receiver act upon. Multiple transmitters can set up
+overlapping fields which cancel out in most directions
+but reinforce in another; this is called ‘beamforming’
+or ‘beam steering’ when used to reinforce the signal
+toward a specific recipient. Artificial gravity can create
+small lens-like deformations in spacetime to reinforce
+the signal in a specific direction or enhance signals
+coming from a specific direction, a process known as
+‘gravitic microlensing’.
+
+68
+
+Starships have both a transmitter and receiver to
+communicate with other ships and worlds. The
+transmitters will encode data for uplink to send it across
+the expanse of space. Receivers then pick up the signal
+and decode the data. In the case of radio, standard
+practice is to have multiple antennas, some of which
+are configured as transmitters and some as receivers,
+switching how many are on each role depending on
+how much the ship wishes to transmit. In the event of an
+emergency, most starships have a clearly visible distress
+signal button on the comms panel.
+Encoding and decoding standards vary from region to
+region. Typically, a given homeworld that reached TL5
+prior to interstellar contact will have developed one
+set of standards, that are then used by its colonies as
+well as nearby homeworlds that were less than TL5
+on first contact and had radio standards introduced to
+them. One well-known example is the Imperial standard
+emergency distress broadcasts, Mayday and S.O.S.
+from Sol and Gashimeku Kaalariin, known as Signal
+GK, from Vland. Signal GK was known throughout the
+First Imperium but the Solomani signals were unknown
+outside of Sol prior to Solomani discovery of jump
+drive. These days, all three are recognised throughout
+the Third Imperium and beyond, although they might
+not all be known far from Imperial space.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Likewise, local transmission encoding standards are
+known and widely distributed. This is widely useful
+information that is free to distribute and has usually
+had centuries to propagate so most communications
+software is able to automatically detect and employ any
+widely used standard in or near the sector of origin.
+Someone crossing the Third Imperium all the way from
+the Solomani Rim to the Spinward Marches might
+occasionally need to download a software update, freely
+available alongside map data from any Class A, B or C
+starport. This is so prevalent and ingrained that any new
+communications standard is not widely recognised until
+these software updates are in distribution. Every world
+within a sector’s radius that sees any traffic will have
+the update within a year. Only the scouts, who have
+specialised software to analyse and decrypt unknown
+transmission protocols, should ever be in a situation
+where local radio standards are initially unknown.
+In some cases, the signal must go through other
+components before reaching the correct receiver
+to clarify, boost, or secure the transmission. Some
+planets erect antenna towers separate from receivers
+designed to maximise the strength of both sending and
+receiving, to retransmit the signal so it can reach its
+destination. A ship’s comms may be routed through an
+orbital satellite network that will then direct the signal
+toward the receiver they are trying to contact. It is rare
+that its receiver absorbs the entire strength of a signal.
+Any significant TL5 or higher civilisation creates a radio
+‘footprint’ from unabsorbed portions of its broadcasts,
+expanding out from the world. The farther away from
+the primary signal, the longer it takes and the more
+it distorts, until it finally disappears and becomes
+indecipherable. It is quite common for a new colony in
+a previously uninhabited system to be discovered a few
+years after founding when its first broadcasts meant for
+internal consumption cross the parsecs to settlements
+in adjacent systems. This happens often enough that
+new colonies that are serious about stealth will ban
+radio transmissions outright.
+Comms within a ship use the same principle on a much
+smaller scale. Whether there are wall-mounted comms
+in one area of the ship sending signals via wire instead
+of through the air or if each of the crew has a radio on
+their arm, their main purpose is to keep the crew in
+constant communication.
+
+ACTIVE AND PASSIVE SENSORS
+
+Regardless of their operating principles, sensors split
+into two types: Active or passive. Active sensors send out
+signals – often referred to as a ‘ping’ – then try to detect
+a return signal reflected from a target. Passive sensors
+
+R
+
+

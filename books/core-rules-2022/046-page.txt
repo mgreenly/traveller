@@ -1,4 +1,3 @@
-T
 
 LIFE EVENTS
 
@@ -22,20 +21,6 @@ Benefits are gained when a Traveller leaves a career. A
 Traveller gets one Benefit roll for every full term served
 in that career. You also get extra Benefit rolls if you
 reached a high rank.
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 There are two columns for Benefit rolls in each career
 – the Cash column and the Other Benefits column. You
@@ -116,8 +101,5 @@ available to humans.
 an Archduke or the Emperor, perhaps, or Imperial intelligence.
 6 – Ancient Technology: You have something older than the Imperium or even something older
 than humanity.
-
-
-R
 
 

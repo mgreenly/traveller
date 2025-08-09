@@ -1,0 +1,94 @@
+T
+
+COLD GAS
+Cold gas thrusters store gas at high pressure then vent
+it. They are similar to a rocket, except the propellant
+is not significantly heated. The gas is not moving at a
+substantial velocity, generating no significant amount
+of thrust. This approach is only useful for short-range
+manoeuvring and changing facing, although is majorly
+less damaging to its surroundings than other forms of
+reaction drive, especially if used in port in close proximity
+to other ships. Given its inability to impart significant
+thrust, many consider this not a proper reaction drive.
+Directing helium vented from power plants and
+opening pressurised airlocks to depressurise in
+a given direction fall under this category. Some
+spacecraft use a small reserve of helium, recharged
+from the power plant as necessary, as a backup
+means of changing facing, particularly to counter spin
+imparted on the craft by external forces.
+
+SAILS
+
+Deflecting masses of particles flowing around a
+vehicle to provide propulsion is, by some measures,
+the defining technological advancement of TL2
+when applied to waterborne vessels. Almost every
+civilisation that independently achieved spaceflight
+has experimented with the same principle, even if
+solar winds are much thinner than the winds of any
+significant atmosphere.
+
+Reaction Drives
+
+Some sails are simply large, thin and light structures
+that cover a large area. Others are partially or entirely
+magnetic fields, as solar winds typically consist
+largely of ions that magnetic fields can readily deflect.
+Either way, pushing away from the local star is easy,
+
+98
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+while getting closer involves ‘tacking’, deflecting the
+wind to approach at an angle, going back and forth
+so the overall course heads toward the star. Orbital
+mechanics play into this as well. Accelerating or
+decelerating on a vector perpendicular to the direction
+the star is in can cause a spacecraft to drift toward an
+orbit further away or closer in.
+Sails are arguably the closest thing to a truly
+reactionless drive presently available. They take no
+fuel, although they are much slower than most other
+options so fuel to power life support over the extended
+voyage is a consideration.
+Some systems set up lasers to push sails quickly
+between worlds, forming an interplanetary mass transit
+system. Laser-pushed sails have been considered as an
+alternative to jump drive for interstellar flights, although
+beam dispersion over light years means this would be
+an extraordinarily slow process. It would take hundreds
+or thousands of years, long enough that many efforts are
+prevented by concerns over whether those who would
+send forth these craft could keep the laser shining for the
+entire duration. Many other efforts have been terminated
+once jump drive became available, by ships visiting the
+craft in deep space to ‘rescue’ those aboard, loot the
+ship or commit simple vandalism.
+Sails not pushed by lasers are mostly used for nobles’
+or high society spacecraft, where their inefficiency
+and the unusual piloting skills required are seen as an
+upper crust affectation, much like waterborne sailing
+on Regina. Some ships bring sails as a backup drive,
+particularly those exploring unknown or potentially
+hostile systems that may watch for signs of manoeuvre
+drives but ignore other data that might signal incoming
+ships out of complacency or hubris.
+
+R
+
+

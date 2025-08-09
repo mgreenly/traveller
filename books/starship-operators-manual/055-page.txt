@@ -1,0 +1,78 @@
+The most common ship-duty-related use of neural
+augmentations is to run console software. These
+equate to other consoles depending on how distracted
+the user is while interfacing with the ship. Being able
+to engage in a firefight unhindered while using neural
+console software is comparable to a hand controller.
+Merely being able to walk around while using it is like a
+portable controller. Anything beyond that is effectively
+
+a general console. Technically all neural consoles
+are system consoles, linking the ‘computer’ that is a
+sophont’s brain to the ship’s computer.
+General consoles are further categorised by type of use:
+● WORKSTATIONS, intended for use by crew only,
+allow the user to interact with the ship’s computer
+and pull up data that can be customised for the
+user’s needs. These consoles give information
+about the entire ship and access to control panels
+throughout. They are most often found on the
+bridge and in staterooms.
+● PUBLIC DATA STATIONS are akin to workstations but
+intended for passengers and guests. They allow
+for basic information to be pulled from the ship’s
+computer, unlike the tertiary nodes sometimes
+provided to passengers that have no access
+to ship systems. This information is typically
+limited to expected times of arrival, atmospheric
+conditions aboard ship and the ship’s schedule,
+although some will have information on the power
+plant or similar systems available in hope of
+soothing nervous passengers. Some have access
+to read data from the ship’s sensors, particularly
+on science ships where ‘passengers’ are there to
+gather data and perform analysis.
+● OPERATING CONSOLES are technical interfaces
+dedicated to a device on the ship. The most
+well-known operating consoles are often found
+in a ship’s engineering section, being used for
+sensors, jump drive, power plant operation and
+maintenance. Sometimes a lost crewmember
+or passenger will complain when they cannot
+access the music library on the main computer, not
+realising they are on a console dedicated to only
+one system aboard the ship. An operating console
+
+The Computer
+
+A console can be physically installed on or near a
+control panel, in another part of the ship such as the
+bridge, or carried around for remote access, which
+helps determine the type of console it is:
+● GENERAL CONSOLES are installations too large to
+carry by hand, typically fixed in position, using their
+size to present easily accessible information and
+options. A ship’s bridge is primarily a collection
+of general consoles, although these can appear
+throughout a ship.
+● PORTABLE CONTROLLERS and HAND CONTROLLERS
+are devices that grant remote access to the ship’s
+computer, hand controllers being roughly hand
+size or smaller while portable controllers are
+anything larger, typically arm or chest size. Portable
+controllers do not have direct access like a general
+console but usually have a full keyboard and
+screen. A hand controller is not as powerful but has
+the advantages of versatility and size.
+● A SYSTEM CONSOLE is an interface between two
+computers so they can interact and perform
+tasks in tandem. A system console is helpful for
+complex algorithms that take more processing
+power than one computer can do alone. It can
+link remote computers so a user can control
+components on both. Usually, this requires a
+hard-wired connection.
+
+55
+
+

@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Increase EDU by +1
 
@@ -68,7 +54,6 @@ Admin, Advocate, Animals (training or veterinary), Art
 Language (any), Medic, Navigation, Profession (any),
 Science (any).
 
-
 Graduation: INT 6+. If 10+ is rolled, graduate with
 honours.
 Graduation Benefits
@@ -114,7 +99,5 @@ SOC by +1 as well.
 • Graduation allows automatic entry into the military
 career the academy is tied to, so long as it is the first
 career attempted by the Traveller after graduation.
-
-R
 
 

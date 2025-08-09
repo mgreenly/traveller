@@ -1,0 +1,105 @@
+most, programs can accumulate a long series of inputs
+and discern patterns from them but only those they
+recognise. For example, highly sophisticated chatbots
+designed to carry on spoken or written conversation
+can never learn to paint.
+Brains change themselves in reaction to input. This
+allows them to learn but causes them to degrade
+over time. The exact means of decay depends on the
+hardware. The primary way that positronic brains fail
+is from hardware gradually degraded by miniscule
+antimatter-matter reactions. While there are libraries
+devoted to the number of ways that organic brains
+malfunction over time, how long they last varies.
+Anagathic-boosted organic sophonts have the best
+longevity, typically numbering a few centuries.
+Brains can be further divided into ‘trained’, ‘recorded’
+and ‘programmed’.
+A ‘trained brain’ may have been created with a certain
+configuration to give it certain knowledge and thoughts
+but the majority of its learning reflects changes from
+input data. The pre-existing knowledge and thoughts
+are referred to as ‘instincts’ or sometimes ‘genetic
+memory’, especially when talking about naturally
+evolved organic intelligences.
+Bioelectric brains can be recorded but not positronic or
+quantum. These ‘recorded brains’ can then be replayed
+on other devices, typically other bioelectric brains or
+electronic computers. They start operations with their
+intended knowledge and thus are more consistent and
+reliable than trained brains. Most wafers are recorded
+brains, which is part of the reason they only work for
+certain genetic profiles. The highest fidelity recordings
+are personality wafers, while other wafers come from
+lower fidelity recordings. The key difference is that
+recorded brains stay functionally the same as their
+initial recordings, while trained brains do not.
+
+Another way to group artificial intelligences is by what
+they do.
+Task assistants help someone to do a task. They have
+no initiative. When left alone, they are utterly inert. A
+database is a prime example. When asked a question it
+will answer but does nothing if not prompted.
+Task enablers allow a task to be done. Some can
+be set to perform a task under pre-set conditions. A
+factory’s artificial intelligence, running machines to
+stamp out part after part using templates designed
+before the factory started operations is one example.
+Task resolvers can act on their own. They typically have
+orders to follow and other limits on their initiative but
+they can be thought of as additional crew. Virtual Crew
+software is an example, as are personality wafers.
+
+IS IT A SOPHONT?
+
+If it is not a trained brain, it is not a sophont. This
+keeps personality wafers from being accorded the
+legal status of sophoncy, save for ‘permanent’ or
+otherwise long-lasting recordings. Some worry that
+this technically disqualifies newborn natural organic
+sophonts. However, the amount of input they receive to
+reconfigure their brains to being able to independently
+survive quickly renders such worries moot.
+If it is never a task resolver, it is not a sophont. Constant
+initiative is not necessary to demonstrate this, just
+some of the time. These qualities are necessary but
+not sufficient to demonstrate sophonthood. In the Third
+Imperium, sophonthood is a legal distinction which
+only the Imperial government may rule on, so any
+questionable cases should defer to the government’s
+ruling. Imperial courts have a well-defined, if little
+used, procedure for non-sophont entities desiring legal
+sophont status to demonstrate they are acting on their
+own initiative and capable of learning. Court records
+show that most such cases fail on these grounds.
+SDG-313F transponder-brains are a useful example.
+They are limited versions of Cymbeline brains, which
+are task resolver trained brains of sub-sophontic
+intelligence. SDG-313F transponder-brains are
+passive, so are not task resolvers. Rarely do they learn
+and grow significantly beyond their initial programming
+and their architecture is not bioelectric, making them
+programmed brains. Task enabler programmed brains
+are not task resolver trained brains. In the eyes of
+Imperial law, only task resolver trained brains can be
+
+The Computer
+
+Some complex pieces of software change themselves
+over time in response to input, making ‘programmed
+brains’. The exact line between ‘program’ and
+‘programmed brain’ is fuzzy but hinges on the
+presence or absence of a significant capacity for selfmodification without explicit prompting or guidance.
+Attempts to create trained brains this way have failed
+– if a brain is allowed too much leeway to change
+itself it eventually breaks, becoming unresponsive
+or unusable. In practice, programmed brains act like
+recorded brains in most aspects, save that they run on
+computers other than bioelectric.
+
+TASK ASSISTANTS, ENABLERS AND RESOLVERS
+
+63
+
+

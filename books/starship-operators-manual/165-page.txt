@@ -1,0 +1,96 @@
+1. Empty tank (Animal only)
+2. Live capture tank (Animal only)
+3. Frozen meat (Animal only)
+4. Storage areas (Animal only)
+5. Control panel (Animal only)
+6. Access panel (Animal only)
+7. Fabricator cabinet (Suleiman only)
+8. Wired gravity hammer (Suleiman only)
+9. Tool cabinet (Suleiman only)
+10. Holographic design station (Suleiman only)
+11. CNC machine (Suleiman only)
+12. Low Berths (Empress Marava only)
+13. Passengers (Empress Marava only)
+14. Security camera and fire suppression projector
+
+16. LANDING GEAR AND LIFTERS
+These systems rarely appear on deckplans but
+are essential all the same. Lifters can cover the
+entire ventral surface of the ship, while landing gear
+struts are often mounted at the corners. Among the
+three example ships, despite similarities in function
+between different landing gear, there is some
+difference to be found.
+
+The Animal, although expected to land in rough
+terrain, is also meant to carry significant loads. This
+necessitates a compromise approach as complicated
+landing gear would better handle rough terrain but not
+bear as much load. As a result, the landing pads are
+relatively simple, which can limit versatility. However,
+it can still actuate these pads independently, which
+
+Despite the Suleiman’s much smaller size and
+expected load, it has quite possibly the most
+sophisticated landing gear of the three. Only the
+Suleiman is expected to deal with virtually any
+landing site across Charted Space. It mounts landing
+gear under each corner of the ship’s triangular hull,
+as this maximises the base and renders tipping
+virtually impossible. On the landing pads, there are
+expandable panels to increase the surface area and
+thus decrease ground pressure, preventing sinking
+into muddy or unsteady ground. Unlike most landing
+gear that fold away when not in use, the Suleiman
+keeps the landing pad flat as it enters or leaves the
+craft. This, combined with a sophisticated platform on
+the pad itself, allows the ship to stay level on uneven
+terrain by independently retracting each landing gear
+and adjusting the pads. Its lifter array is notable for its
+relatively high strength.
+The Empress Marava, although capable of operating
+beyond pre-prepared landing pads, does not expect
+to land in the wilderness in the same way as the
+Animal or Suleiman. As a result, its landing gear is
+optimised to handle the much higher loads that almost
+60 displacement tons of cargo can bring to bear. This
+requires simplicity, as the more complicated actuated
+pads of the Suleiman or crouching ability of the Animal
+would impede its load-bearing capacity (although the
+latter would be useful for loading cargo, the Empress
+Marava already mounts loading ramps in both its rear
+cargo door and airlocks). While not intended to land
+on rough or uneven terrain, it is capable of doing so;
+although Empress Maravas have been known to be
+abandoned after they could not take off from what
+previously seemed to be a safe landing site.
+
+Ship Walkthrough
+
+The enclosure the landing gear retracts into is not
+‘inside’ in all but the most technical sense. Few
+designs pressurise this space or provide access from
+inside, leaving maintenance to be performed while
+the ship is landed. Would-be stowaways hitching
+rides on landing gear typically wind up crushed or
+suffocated, should they survive long enough for the
+ship to leave the atmosphere. Anyone agile enough
+to avoid being crushed and with enough foresight
+and resources to wear a vacc suit usually has an
+easier time simply boarding the ship.
+
+allow it to not only adapt to uneven terrain but also
+‘crouch’ closer to the ground. This can ease loading
+of larger cargoes into the rear without need of a crane
+or gravitic assistance. The considerable wingspan
+of the Animal presented some difficulties as if the
+landing gear were mounted too far out, it could not
+land outside of flat ground but if they were mounted
+too far in, it could risk tipping. Thankfully, the outboard
+sections of the Animal proved lightweight enough that
+this was rarely a concern, the occasional megafaunal
+avian using them as a perch notwithstanding.
+
+165
+
+

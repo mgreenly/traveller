@@ -1,4 +1,3 @@
-T
 
 Name: We recommend naming your Traveller
 before anything else. Trust us on this!
@@ -12,18 +11,6 @@ each and then consult page
 Modifiers (DM)
 
 12
-
-R
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Armour: This provides protection against
 attacks and, sometimes, radiation. See page
@@ -48,13 +35,8 @@ Weapons: Weapons can be gained during
 Traveller creation or purchased while adventuring.
 See page 124 for their characteristics.
 
-
-A
-
 Equipment: Anything that you carry that is not
 armour or a weapon is noted here. A full list of
 equipment can be found on page 97
-
-R
 
 

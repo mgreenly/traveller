@@ -1,0 +1,110 @@
+a single filtration layer will suffice temporarily but should
+not be relied upon long term. Another difference is that
+chemical disinfectants and coagulators are rarely used
+since they become another form of consumable and
+may have unfortunate interactions with sophonts the
+system’s designers are not familiar with, not just nonhumans but humans of different ancestries.
+Pure water is distributed throughout the ship. Where
+additives are desired for specific uses, such as
+additional minerals and vitamins, they are added at the
+outlets for those uses rather than to the general supply.
+As with temperature, humidity levels in a stateroom
+are adjustable from controls in the stateroom. Luxury
+staterooms and special environment areas have their
+own mostly dedicated water supply and filtration,
+although these always have backup links to the ship’s
+main water supply, usually sealed but accessible in
+case of malfunction or leaks. Water imported to or
+exported from a dedicated supply is treated before
+being introduced to the main supply.
+
+WASTE PROCESSING
+
+grade minerals, may sort the rubbish after heating,
+using systems akin to asteroid mining ore equipment to
+recover ore-grade minerals but smaller and processing
+at slower rates. These minerals are thoroughly
+sterilised, using further heat and ultraviolet light, before
+being routed to systems that will use them.
+Spacecraft that never visit jumpspace will dump waste
+at port if they can store it until then, while those that
+ride aboard starships will hook up to and use the
+starship’s waste disposal system.
+The amount of waste produced can be reduced through
+optimal diet but only so much, especially for passengercarrying ships where the initial load and the prior day,
+up to three days in extreme cases, depends on what
+the passengers had before boarding. This diet must
+be balanced for the individual, not just the species, as
+there is no one optimal species-wide diet. It requires
+access to optimal foods, generally requiring at minimum
+a monthly resupply at a high population or agricultural
+world if the ship is not equipped to make its own food.
+
+Garbage, whether disposed of via receptacles in most
+rooms of any ship or debris filtered out of the air or
+water supply, has two main forms of treatment.
+
+On ships that have them, biospheres often double as
+an elaborate waste treatment unit.
+
+Humans and similar size sophonts produce around
+a sixth to a third of a cubic metre of refuse per day,
+combining solid and liquid. Some staterooms allocate
+half a displacement ton to waste storage, more than
+sufficient to store waste from two sophonts for a portto-port trip, including travel time to and from the jump
+limit as well as a maximum eight days in jump. Ships
+thus equipped are designed to offload refuse while in
+port, although if necessary they can dump it in space.
+As noted in Jumpspace Travel on page 87, dumping
+garbage during jump is widely considered a bad idea,
+although a small percentage of ships do it anyway.
+
+A common nightmare to deal with is fire aboard a
+vehicle, since even the earliest wooden boats. Water
+may work against a wood fire but it just splashes
+around the oil in an oil fire and can likewise make an
+electrical fire worse. These problems are made more
+severe aboard a spacecraft by radiative heat. Inside a
+planetary atmosphere, with no walls to contain it, heat
+from fires radiates away. In a room, particularly a wellinsulated one as on most ships, heat is contained and
+builds up, igniting more things that add yet more heat.
+This can cause built-up heat to spill out through doors
+and bulkheads, which can ignite objects in other rooms,
+leading to the entire ship becoming a burned-out hulk.
+Interior fires are not to be trifled with.
+To suppress a fire, at least one of the three things that
+feed it must be cut off: fuel, heat and oxygen. A competent
+naval architect will limit flammable materials as much as
+possible and implement safeguards for materials storage
+and handling. When this fails, or when crews bring aboard
+flammable materials regardless, suppression efforts fall
+to the other two. Heat is complicated, as cooling systems
+aboard spacecraft are optimised to dissipate heat output
+from normal operations, not from an active fire. Dispersing
+heat throughout the spacecraft can lower a fire’s intensity
+but too much heat can cause ignition elsewhere aboard
+ship. This means the preferred method of disposing of
+fires on a ship is to remove oxygen.
+
+Life Support
+
+Most ships have a treatment unit instead. Waste is
+routed to one of two central bins for redundancy and to
+allow one to self-clean while the other remains in use.
+Ships large enough to fully employ two bins will have
+more than two. A bin heats the rubbish to bleed off
+volatiles and reclaim water, which usually account for a
+majority of the volume, then eject the remainder, either
+in jump or at port. On a small ship this rarely accounts
+for more than a quarter of a displacement ton for the
+entire ship. Even on the volume and price budgets
+of large ships, this system is typically accounted for
+under staterooms, commons and bridge. Advanced
+waste treatment facilities, more often found on ships
+with biospheres or workshops capable of using ore-
+
+FIRE SUPPRESSION
+
+31
+
+

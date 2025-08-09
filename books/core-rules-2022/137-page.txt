@@ -101,7 +101,6 @@ Armour: Similar to the armour worn
 by Travellers, this is how well the
 vehicle can resist damage.
 
-
 137
 
 

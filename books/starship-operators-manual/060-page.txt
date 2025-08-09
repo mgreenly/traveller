@@ -1,0 +1,131 @@
+T
+
+Most people have heard the basic advice about
+defence against social engineering – since it directly
+attacks users, it is something that people must defend
+against themselves. Anyone who asks for someone
+else’s password is either lazy, incompetent, or trying
+to break security. Likewise, if someone asks someone
+else to use the latter’s access to do an action such
+as installing a file or unlocking something, the latter
+person must perform the authentication, authorisation
+and nonrepudiation steps. This is often inconvenient
+enough that if there will be more than occasional such
+requests, the requester should usually have access
+to do the task without bothering anyone else. Most
+attacks on this vector try to convey a sense of urgency,
+claiming there is no time to perform these steps,
+particularly authentication.
+
+The Computer
+
+There is not much that most crew can do directly about
+cracking, as vulnerabilities come with the ship’s software.
+Defence against this form of attack is one reason why
+critical ship software is often purchased from reputable
+vendors rather than copied for free, as reputable vendors
+have thoroughly tested their wares to reduce or eliminate
+flaws. Those who administer a ship’s computer can
+lock down and turn off options the ship is unlikely to or
+should not use. For example, those who never carry
+large volumes of survey data or mail rarely have a need
+to enable high-volume data transfer. Likewise, alarms
+can be set to notify said administrator upon detection of
+unusual patterns. Naval architects or sufficiently paranoid
+computer administrators will often choose to isolate
+systems from each other to limit the harm caused by one
+vulnerability. The deliberate absence of connection for this
+purpose is known as an ‘air gap’.
+Attacking a computer requires some means of access.
+Attackers further than docking range are limited
+to communications with the computer and social
+engineering attacks on authorised users, both of which
+can be locked down. Attackers with physical access to
+a computer have more options. Many computers are
+configured to allow low-level access that can override
+all other users, only to those with physical access and
+correct authentication, both of which the defenders are
+supposed to have. This is termed ‘root access’. Certain
+attacks taught in espionage organisations start by
+gaining authentication and physical access, such as by
+installing hard-to-detect hardware to monitor inputs to
+obtain passwords and provide physical access to users
+who are not themselves physically present.
+If keeping an attacker out of a computer fails, a
+common last-ditch response option is deletion and
+recovery. If a ship’s computer’s data is routinely backed
+
+60
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+up and these backups are secure, the data can be
+restored from the latest backup after removing the
+attacker. This requires setting up a backup system,
+making sure the backups happen and keeping them
+secure. Most shipyards set ship’s computers to do this
+automatically, so the administrator merely needs to
+know how to restore from backup if necessary. When
+buying a used ship, it is a good idea to make certain
+these backups have not failed or been deliberately
+disabled. It is customary to delete old backups upon
+transfer of ship ownership, as former owners should no
+longer have control over the ship.
+
+PHYSICAL SECURITY
+
+Door locks are sturdy enough to resist bashing in and
+difficult to unlock without tricking their control circuitry
+but they also alert the bridge if they think someone is
+attempting an unauthorised bypass. Once the computer
+identifies someone in need of apprehension, it is almost
+impossible to escape tracking while aboard the ship.
+Cameras and microphones are not the only tools to do
+this – even hiding in a low berth or cryoberth is logged
+and recorded. Also, atmospheric monitoring can find
+people hiding aboard. Iris hatches and particularly
+sensitive doors have sturdier locks, whether to deter
+theft or give crew more time to react.
+Video and audio recording comes standard in all
+rooms except staterooms and can only be cut off with
+permission. Most staterooms do not have cameras for
+privacy’s sake, but cameras and microphones outside
+can usually pick up evidence of any crimes that happen
+inside, given the short list of acts deemed criminal
+in Imperial space (murder on a ship is hard to hide,
+use of nuclear weapons even more so). Corridors or
+cargo holds have cameras installed in more prominent
+areas to provide records for thefts and cargo handling.
+Some cameras zoom in on any movement they detect,
+while others stay zoomed out to record a larger area.
+This video feed is saved to the main computer, both
+for current reference and documentation of incidents.
+Some ships wipe the recordings every week or month,
+while mission-oriented ships keep recordings of an
+entire operation as a log for their employers. Very few
+ships deliberately keep logs for more than several
+months, although if automatic log deletion has been
+disabled, security recordings can stretch back for years
+without significantly impacting data storage.
+Video security ties into the door and iris valve security
+system, and much of its concerns tie into cybersecurity,
+particularly in availability and confidentiality. A captain
+can remotely lock and unlock all the doors in the ship
+or give and revoke access to sensitive areas. Any crew
+to whom the captain gave administrative access can
+
+R
+
+

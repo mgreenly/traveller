@@ -1,4 +1,3 @@
-T
 
 Regeneration
 
@@ -54,21 +53,6 @@ viewing it from a distance), having the mental image
 implanted in one’s mind (via telepathy) by another
 person who has visited the destination or by viewing
 the location through clairvoyance.
-
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Energy and Momentum: Teleportation involves
 serious restrictions on movement in order to ensure
@@ -136,7 +120,5 @@ Cost
 Cr1000
 Cr4000
 Cr10000
-
-R
 
 

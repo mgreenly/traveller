@@ -1,0 +1,127 @@
+T
+
+No matter how sophisticated, software cannot deal
+with circumstances the creators did not design it to
+handle. Automated systems may dismiss an anomaly
+that a sensop would realise is an approaching meteor
+storm. Handling these is a job best left to something
+that can react to them.
+Computers are fast and generally non-discriminatory.
+A computer monitoring a sensor feed will never miss
+anything the sensors detect. However, a major part
+of a sensop’s job is filtering this flood into a trickle of
+information. The ship’s pilot may need to know about
+close objects and potential collisions but when landing
+on a world or making a pass through a ring system,
+an endless stream of proximity alert warnings and
+collision alerts is not conducive to maintaining an alert
+watch. The sensop is the command crew’s last line
+of defence, filtering everything the computer detects
+for usable information, usually done through adjusting
+the software’s assessment criteria with the sensop’s
+judgement of what is important. The sensop will need
+to adjust the computer back to a default mode once
+the unexpected passes.
+On some ships, the sensop will serve as the chief
+computer technician, working in close conjunction
+with the ship’s engineers to fix problems, maintain the
+sensors themselves and ensure proper read-outs from
+monitoring systems. This steers them towards monitoring
+the computer for attempted attacks. Missile attacks have
+similar concerns, as the sensop conducts electronic
+warfare to spoof and divert the missiles.
+
+Crew Roles
+
+‘EVERYONE’ DUTIES
+
+120
+
+On small ships, some roles that need no specialised
+training are shared by the crew, whether explicitly or
+implicitly. The captain may not assign them formally
+and separately, particularly where they do not pay
+specific crew for these positions, but they must be
+completed anyway.
+Security is the most common of these. Every sophont
+has working senses, with which they can monitor their
+immediate surroundings. They can report evident
+threats, whether or not they are equipped and trained
+to fight. Most sophonts can throw a punch or claw if
+they have to, while few hostile boarders will pass on
+capturing or killing a crewmember because they do not
+put up a fight. Non-combat aspects of security include
+not letting outside parties access to the ship’s computer
+and keeping information hidden from prying eyes.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Cargo handling is the next most common. Every
+sophont, with or without assistive technology, is able to
+move and carry a load. When at port, many vital ship
+functions temporarily become unnecessary. The ship
+can usually use the port’s air and life support, many
+systems are powered down and sensors are rarely
+useful, which leaves many crew with no other duties.
+Unloading or loading cargo and seeing off departing
+passengers or finding new ones are tasks that most
+merchant captains would prefer to be done quickly.
+The only duty that absolutely cannot be shared is that
+of a ship’s captain, if only because ports list just one
+person in that role on documents, even for crews that
+try a more democratic approach.
+
+STEWARDS
+The steward rounds out commonly distributed tasks.
+While cooking, cleaning and tending to the morale of
+passengers is a well-recognised job, many crews never
+consider that the crew also requires these, especially
+those that do not take passengers. Some crews pass
+around cooking and cleaning duties, while others let them
+fall to those happiest to do them. No small number of
+crews, with no naturally talented stewards among them,
+rely on pre-packaged foods. Reluctantly and only when
+they can no longer deny the need, they hire cleaners
+while at port, frequently combined with maintenance.
+These crews often struggle with morale, the captain trying
+various styles of leadership to inspire the crew but not
+actually dealing with interpersonal problems.
+If a ship will be carrying passengers, sufficient stewards
+are vital. Failing to meet this requirement can cause
+disaster, yet many overlook or brush it off due to having
+no ‘hard’ duties. A steward’s duties are many:
+• Advertise for passengers. Others can do this but
+advertising passenger berths takes more than just
+posting a note on the starport’s datanet. At minimum,
+they obtain and post reviews from previous
+passengers. On a low TL world, this may include
+using billboards but at higher TLs this may mean
+renting advertising space or buying media ads.
+● Accept payment. A good steward checks for
+counterfeit currency, makes certain any local transport
+taxes are covered by the passenger fee rather than
+coming out of the ship’s share and ensures all checks
+clear prior to departure. This is easy on high TL
+worlds, possibly painful in low TL systems.
+● Perform initial security checks of passengers. A good
+steward is the difference between an uneventful
+jump and a passenger pulling out a snub pistol on a
+tour of the bridge. A great steward will manage to do
+this without alienating anyone, preventing walkouts
+and keeping the staterooms full.
+
+R
+
+

@@ -1,4 +1,3 @@
-T
 
 12
 
@@ -7,12 +6,6 @@ scout
 ASSIGNMENTS
 
 Choose one of the following:
-
-E
-
-L
-
-L
 
 SURVIVAL
 END 5+
@@ -113,9 +106,6 @@ Science
 Stealth
 Recon
 
-
-E
-
 ADVANCEMENT
 EDU 9+
 INT 8+
@@ -138,16 +128,12 @@ unknown worlds and uncharted space.
 
 traveller creation
 
-V
-
 Mustering out benefits
 
 Qualification: INT 5+
 DM -1 for every previous career
 
 44
-
-A
 
 Career progress
 
@@ -157,8 +143,6 @@ and maintain communication ships which carry information
 and messages between the worlds of the galaxy.
 
 12
-
-R
 
 RANK
 
@@ -213,7 +197,5 @@ Pilot 1
 —
 
 —
-
-R
 
 

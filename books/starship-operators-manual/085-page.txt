@@ -1,0 +1,66 @@
+in attacks to avoid getting a reputation as savage
+bloodthirsty killers; pirates are not paid for cargo they
+do not take. Slavers have it harder.
+To prevent a ship from jumping for whatever reason,
+the only ways to do so are to drain the fuel, disable
+the power, or punch a hole through the jump drive.
+The most common way to do such is through
+insertion of a saboteur at port. Other methods are
+faked maintenance crews for ships that do portside
+maintenance, and weapons fire, although the latter
+risks destroying the ship. At most ports any ship
+powering up their jump drive is assumed to be
+attempting to self-destruct, with the safest response
+being to evacuate the immediate area.
+
+A starship’s astrogator has the unenviable task of
+planning and calculating jumps, which is oftentimes the
+last of their calculations during transit to the 100D limit.
+It is their job to analyse the ship’s intended destination,
+the relative position and movements of relevant
+celestial bodies, and the pilot’s course to the 100D limit
+before deciding on the best trajectory. The astrogator
+will take these factors into account and use both local
+charts of the origin system and remote charts of the
+destination to verify that the projected course will not
+cross any 100D limits save for the destination world or
+star. They may take a few hours crunching numbers
+with the ship’s computer, before taking hours more to
+
+The basic principles behind plotting a jump are
+relatively straightforward. In theory, anyone could do
+them with enough computer aid to perform the required
+calculations. In practice, most starship crews will tacitly
+agree that astrogation is more art than science.
+Plotting a course to a neighbouring star system with
+nothing in between seems simple; one only needs to
+plot the start and end point, as there are no other gravity
+wells in the way. Unfortunately, there is always the
+potential for a rogue object. More powerful jump drives
+might enable routes that pass near or through other star
+systems. Even if a star system is present on a map, it
+represents a small amount of material with a lot of space
+all around, usually easily avoided by the astrogator.
+Sometimes, however, an astrogator has to plan a
+jump through an actual intervening star system. This
+requires manipulation of the jump field to arc the jump
+around the intervening gravity wells. Standard Jump
+Control software packages automatically calculate this
+arc, taking predictive data starting from the last known
+coordinates of any worlds in the destination system and
+projecting their trajectories to a safe emergence.
+
+Jump Drives
+
+PLOTTING
+
+validate those numbers, then a moment to give these
+numbers to the engineer to operate the drive. They
+are responsible for confirming location upon jump exit,
+which will be the next time they have solid data to work
+with; while in jump, a ship is completely cut off from the
+universe and thus unable to sense and communicate.
+
+85
+
+

@@ -44,7 +44,6 @@ Life Sciences Toolkit: The life science toolkit
 
 Life Sciences Toolkit
 
-
 contains tools to aid the performance of tasks with the
 Science specialities of biology, genetics and xenology.
 It contains biological sampling equipment, optical and

@@ -1,0 +1,78 @@
+T
+
+CRAWLSPACES
+Although the inner and outer hulls of a ship receive
+the most attention, there is a region between them
+that deserves special mention. Found directly beneath
+the outer hull, between bulkheads of the inner hull and
+decks, a ship’s crawlspaces act as damage buffers
+and cable runs. These are rarely marked on formal
+deckplans, as most of a ship’s crew will never need to
+access them. They do not exist inside all walls; many
+are too thin, while others are solid. Builders construct
+them with an eye toward thermal and/or sonic isolation
+of the adjacent spaces. The crawlspace is often used
+for routing pipes and cables.
+
+Hull
+
+The crawlspace exists outside of the life support
+systems within the inner hull. Although typically
+airtight, the crawlspace is invariably at the extremes
+of the temperature range and may even lack artificial
+gravity. Some may think to don a vacc suit before
+entering the crawlspace and this is the recommended
+procedure, particularly while performing damage
+control. However, this can make an already cramped
+environment near-impossible to navigate. Even if the
+engineer foregoes a vacc suit to manoeuvre more
+easily, a respirator should be worn as these spaces can
+easily develop a hostile environment due to the lack of
+
+16
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+fans or purification equipment. They are more at risk
+of sudden depressurisation, even if not normally kept
+depressurised. For these reasons, maintenance on
+systems within the crawlspace is often left to the most
+junior engineer if it cannot be done via drone. Anyone
+going into a crawlspace should ensure that someone is
+on standby before entering – becoming trapped there is
+a poor way to die.
+Crawlspaces have become infamous for many of these
+reasons, although enterprising engineers can make
+good use of them. Especially on small ships, they
+allow an engineer to access almost any point on the
+ship with or without permission, as most crawlspace
+access is through direct removal of hull panels. This
+is slow but effective. Many an engineer’s wrench
+suddenly cracking across their head has foiled a
+would-be boarder. Their infamy leads most to ignore
+them. Smugglers try to take advantage of this, storing
+goods several metres clear of any access hatches,
+although starport inspectors looking for contraband are
+quite familiar with this trick, bringing their own drones
+to search these places. This can allow stowaways to
+hide aboard ship, assuming the engineer is lax in their
+maintenance, although anyone considering this should
+be careful to bring a good respirator or leave a hull
+panel partially open. Refer to page 62 for more detail
+about stowaways.
+
+R
+
+

@@ -1,0 +1,98 @@
+T
+
+Although fuel scoops could be mounted on the dorsal
+side, as the processors can be found on the top deck,
+this is rarely done as the low pressure created during
+pitch-up manoeuvres would limit fuel intake.
+
+13. TURRET
+A minority of ships are designed expressly for combat
+but most come with hardpoints installed. Some are
+for the sake of combat, even for just token attempts
+at self-defence. Others use them for directional
+sensors or mining equipment, particularly laser drills.
+While hardpoints can mount a range of weapon
+configurations, by far the most common is the turret.
+Instead of regular doors, iris valves are almost
+universally used for turret areas, even on many alien
+ships, for security and because turrets are often a
+focus of enemy fire. Most explosive items aboard a ship
+are found in the turrets, whether ammunition such as
+missiles or ultracapacitor banks for energy weapons.
+These items are usually kept on the turret’s side of the
+partition to limit damage should they be set off.
+
+Ship Walkthrough
+
+As the Animal is intended for hunting expeditions,
+the mounting location of the turret has limited combat
+effectiveness. Although the dorsal side’s centreline is
+an extremely common choice for single-turret ships, the
+Animal’s flat hull means the turret has limited depression,
+much to the dismay of those attempting to use shipscale weapons to hunt or provide ground defence. Many
+who install a second weapon on their Animal do so on
+the ventral side to avoid this weakness. Gaining line of
+sight from the dorsal turret to ground targets requires
+either being at long range, tilting substantially, or flying
+
+160
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+inverted. As the Animal lacks lifters on its dorsal side,
+flying inverted is ill-advised but possible for those skilled
+enough. The Finicky Platypus’s pilot is quite practised
+at this manoeuvre and the ship mounts a pulse laser for
+use in taking down megafauna.
+The Suleiman has a similar mounting location but, unlike
+the Animal, it is on a sharply angled hull. This allows the
+turret to be depressed to a much greater extent, allowing
+fire upon targets at almost point blank range while landed.
+The IISS installs weapons on their Suleimans but they are
+expected to tackle such a range of missions that no single
+loadout would suffice. A missile rack might be installed
+for drone deployment, a mining laser for taking samples,
+a beam laser for self-defence and so on. As a result, a
+vessel will usually leave the shipyard with empty turrets
+for future modification. In addition, when a Suleiman is
+assigned for detached duty, all weapons are uninstalled
+by default. This is partly a cost-saving measure and partly
+to prevent crews – who still represent the IISS – from
+getting into trouble immediately. The Dark Poni featured
+here has a beam laser.
+The Empress Marava has two turrets installed, one
+each on the port and starboard sides. This is a common
+choice for ships designed from the start to have two
+turrets, as opposed to retrofits like a two-turret Animal.
+They are mounted quite far forwards, which gives
+the Empress Marava good convergence of fire for a
+trader. The two turrets were also mounted in this way
+to provide cover for the cargo airlocks and to fend off
+pirates in space and displeased locals at port. The
+turrets are occupied by beam lasers out of the shipyard.
+This example, the Gustus, replaced its beam lasers
+with mining lasers, as some of its recent passenger
+service has been belt mining expeditions for those who
+have never been offworld.
+
+1. Gunner’s seat
+2. Control grip
+3. Primary display
+4. Customisation controls
+5. Ultracapacitor banks
+
+R
+
+

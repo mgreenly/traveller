@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Any technological society runs on computers, with
 access to them as basic as the right to air and water.
@@ -61,7 +47,6 @@ it then wanted to run Intelligent Interface (which has
 Bandwidth 1) then they would have to swap it out with
 one of the existing software packages.
 
-
 Note that Processing does not limit how much software
 a computer can store and have ready to use, just how
 many software packages can be active and useable at
@@ -72,7 +57,5 @@ regardless of available Bandwidth.
 Software packages of more than Bandwidth 1 cannot
 be copied easily, as they require a non-trivial amount of
 bandwidth to transfer.
-
-R
 
 

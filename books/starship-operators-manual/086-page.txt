@@ -1,0 +1,123 @@
+T
+
+Part of the finesse of an astrogator’s job is
+compensating for these unknown or semi-known
+variables, as explorers did not always finely map
+interstellar space and most rogue planets, planetoids
+and comets are almost undetectable. Charts will show
+reported navigational hazards as well as data gathered
+from long-range telescopic observation from ports but
+any jumping ship risks arriving at an uncharted mass
+without a skilful astrogator. Machines are not good at
+this part, although chance favours them occasionally.
+
+ASTROGATION
+
+In theory, jumps happen in straight lines with no
+arcs. Astrogation is simply a matter of calculating
+a straight-line shot at a distance of parsecs.
+
+Jump Drives
+
+If only things were so easy.
+
+86
+
+On rare occasions, they can be this simple
+but usually there is some rogue body in the
+way, sometimes entire solar systems. Jump
+into them and you wind up stopping at their
+100D limit instead of the destination’s. Detour
+around them, and the ship is off course. The
+solution is to deviate a tiny fraction of a degree,
+hitting perhaps 100.01D but no closer to take
+advantage of spacetime’s slight bend, magnified
+by jumpspace, in the presence of strong gravity
+fields. Unbend spacetime and the line of travel is
+‘straight’ but is rarely how observers in realspace
+apply that term. This manoeuvre relies on nearperfect knowledge of every rogue body enroute
+to a destination, knowledge that – thanks to
+lightspeed limitations – is virtually impossible
+to acquire. Projecting these objects forward
+in time can result in some approximation but
+requires complex n-body simulation to achieve
+anything close to an accurate result. These
+skillsets translate well to in-system navigation
+as well; SDBs may carry astrogators to plan an
+interception course.
+All told, a successful jump plot can require keen
+knowledge of technical software, a working
+knowledge of astrophysics, a willingness to
+take in uncountable variables and to utilise
+an intuition honed over years. This is why
+astrogation takes training.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+The greater amount of potentially interfering objects
+along with the need for a much finer degree of control
+over the drive’s jump field account for the increasingly
+higher bandwidth consumption of Jump Control
+software as jump distance increases.
+While uncommon, it is possible for an astrogator to
+end up in a situation where there is no valid, safe jump
+solution from a specified origin. The solution to this is
+simple and only slightly annoying: let the captain know
+and ask for a new origin point without the complicating
+factors before reaching the unusable origin point.
+While the computer handles that, the astrogator must
+determine the best place to finish the jump based
+on other criteria such as pirate prevalence and the
+time spent in transit. All of this decision-making, as
+well as the technical expertise and skill required
+are what justify an astrogator’s comparatively high
+salary. Unless filling multiple roles aboard a vessel,
+astrogators ‘only work once every week and loiter
+around the rest of the time’ according to some jealous
+crewmates. However, they are the first person fingers
+point at whenever arrival in a new system goes awry,
+whether due to misjumps or pirates, to the point
+that the reminder of the potential consequences of
+a mistake can offer yet another complicating factor
+when calculating a jump. While for most the week in
+jump is often a time to take a breather and relax, most
+astrogators will admit that they can never feel quite at
+ease while still in jumpspace, counting down the hours
+until breakthrough.
+Although astrogation normally involves plotting a
+course that ends 100-diameters from a star or planet,
+this is a much larger target than some arbitrary point
+in deep space. This is what an astrogator must target
+when jumping to an ‘empty’ region of space. This
+is the primary reason why there is well-preserved
+documentation of how to jump to deep space
+calibration points, from the early days of interstellar
+travel on Terra when it was the only option. Jumping
+to specific destinations under such conditions requires
+extremely precise coordinates, generally obtained from
+the group that maintains whatever is at the point or,
+especially when the destination’s owners are hostile,
+from an observatory ship one parsec away – roughly
+3.26 light years. Even with coordinates, astrogating to
+such a smaller target is naturally more difficult.
+Ships without trained astrogators can use ‘jump
+tapes’, pre-plotted astrogation solutions that will fly
+a specific ship from one system to another, good
+for only a limited time, typically a week or less from
+manufacture. After that time, conditions in and
+
+R
+
+

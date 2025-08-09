@@ -1,4 +1,3 @@
-T
 
 5
 
@@ -13,14 +12,6 @@ Journalist: You report on local or galactic events for a
 news feed, the TAS or other organisation.
 Performer: You are an actor, dancer, acrobat,
 professional athlete or other public performer.
-
-E
-
-L
-
-L
-
-E
 
 SURVIVAL
 SOC 6+
@@ -119,7 +110,6 @@ Deception
 Stealth
 Streetwise
 
-
 Ranks and bonuses
 
 1D
@@ -134,15 +124,11 @@ traveller creation
 
 Skills and training
 
-V
-
 Mustering out benefits
 
 ASSIGNMENTS
 
 30
-
-A
 
 Career progress
 
@@ -150,8 +136,6 @@ Individuals who are involved with the media, whether
 as reporters, artists or celebrities.
 
 5
-
-R
 
 RANK
 
@@ -200,7 +184,5 @@ SOC +1
 —
 
 —
-
-R
 
 

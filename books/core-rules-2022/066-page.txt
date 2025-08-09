@@ -1,4 +1,3 @@
-T
 
 Broker
 The Broker skill allows a Traveller to negotiate trades
@@ -8,8 +7,6 @@ Negotiating a Deal: Average (8+) Broker check (1D
 hours, INT).
 Finding a Buyer: Average (8+) Broker check (1D
 hours, SOC).
-
-R
 
 skills and tasks
 
@@ -42,15 +39,6 @@ check (1D days, EDU).
 Transmitting a Formal Surrender: Average (8+)
 Diplomat check (1D x 10 seconds, INT).
 
-
-E
-
-L
-
-L
-
-E
-
 This skill is for controlling ground vehicles of various
 types. There are several specialities.
 
@@ -66,8 +54,6 @@ in such situations.
 
 Deception
 
-V
-
 Drive
 
 Carouse
@@ -76,8 +62,6 @@ Drinking Someone Under the Table: Opposed Carouse
 check (1D hours, END). Difficulty varies by liquor.
 Gathering Rumours at a Party: Average (8+) Carouse
 check (1D hours, SOC).
-
-A
 
 •
 
@@ -133,7 +117,5 @@ starports and other spacecraft.
 Requesting Landing Privileges at a Starport:
 Routine (6+) Electronic (comms) check (1D
 minutes, EDU).
-
-R
 
 

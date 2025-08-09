@@ -75,7 +75,6 @@ against the weather.
 TL7: The TL7 version can be pressurised. There is no
 airlock – the tent is depressurised when opened.
 
-
 equipment
 
 grav belt is equipped with artificial gravity modules,

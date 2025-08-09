@@ -196,7 +196,6 @@ Rating
 % of Hull
 Jump TL
 
-
 spacecraft construction
 
 As with manoeuvre drives, jump drives are also

@@ -1,0 +1,86 @@
+GRAVITICS
+No matter their specialisation, all engineers aboard
+a starship should be passingly familiar with the field
+of gravitics. Much like electronics, gravitics can be
+found in all facets of a modern interstellar spacecraft’s
+operation, with applications ranging from propulsion
+to life support and sensors to lifts. The introduction
+of gravitics represents a paradigm shift similar to the
+introduction of electronics; something that might not be
+entirely surprising once one considers that both entail
+the production, manipulation and exploitation of one of
+the universe’s fundamental forces.
+Those growing up on worlds of TL9 or higher find the
+seemingly effortless hovering of g/cars and air/rafts
+a familiar sight. It is easy to forget, having become
+so accustomed to these machines, how miraculous
+they seem to sophonts from low-tech worlds. In the
+absence of gravitics, all means of flight are rather
+laborious, be it air or space. To remain aloft, aircraft
+require either constant forward power which their
+wings translate to lift, some means of flotation, or
+constant downward thrust.
+In stark contrast, gravitics not only permit a craft to take
+off and land vertically but also allow the vehicle to do
+so without need for reaction mass. All that is required
+is power for the drive and nearby mass to interact with.
+This combination of operational flexibility, compact
+nature and low operational costs have caused gravitics
+to revolutionise space travel, dropping the cost of
+transporting materials to less than a thousandth of what
+was possible before its development.
+Gravitics is widely deemed the first of the great inventions,
+followed by nuclear dampers and then jump drives.
+Historical records from every world that independently
+developed rocketry prior to interstellar contact note
+the complexity of rocket science, which tails off after
+introducing gravitics. This stems from the fact that early
+chemical-based reaction drives are barely capable of
+achieving orbit around most worlds, needing a high
+degree of precision engineering to make such systems
+work. This fades from public consciousness once
+easier alternatives such as gravitics become available.
+
+74
+
+GRAV PLATES
+The basic component of all gravitic applications is the
+gravitic module, a tiny device that can couple itself to
+nearby gravity fields and, through them, apply force
+against the mass generating the field. There are
+many variations on the mechanism, although they all
+exploit how gravity and energy work at extremely tiny
+distances, as explained by the Consolidated Theory of
+Gravity, or Lida Agidu Migekka in Vilani.
+The most commonly encountered form of these gravitic
+devices is the grav plate, an arrangement of a series of
+grav modules as a flat or slightly curved array. A single
+grav module, made up of millions of nanometres-wide
+units, may be only several square micrometres and
+one square metre might have billions of these modules.
+
+TESTING GRAV PLATES
+When purchasing replacement grav plates from
+second-hand sources, a brief power-on test
+to see them hover at 1G is not sufficient. The
+proper way is to insist upon a power-on test
+for a minimum of five minutes, then touching
+the plate’s housing with a damp rag. If it can
+output a consistent 1G for the entire test and
+does not feel warm, it is acceptable, whereas
+any significant warmth or wavering in output is
+cause for rejection.
+When grav plates degrade, they tend to do so in
+patches; one grav module fails, causing increased
+resistive heating which heats neighbouring
+modules, causing them to degrade in turn. This
+makes replacement of individual grav plates far
+more feasible but does raise the question of what
+to do with failed plates. Many manufacturers
+offer a discount on new plates if turning in older
+ones at the same time. However, reuse is entirely
+possible. For example, there is a similarity to
+the failure mode of grav plates and the resistive
+heating used in commercial hot plates.
+
+

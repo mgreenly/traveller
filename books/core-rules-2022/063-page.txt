@@ -40,7 +40,6 @@ to the next – for better or worse. The DM gleaned from
 one check and then applied to the next is shown on the
 Task Chain table.
 
-
 Previous Check
 
 Failed With

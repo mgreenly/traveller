@@ -1,0 +1,92 @@
+Air & Fire
+Suppressant
+
+Heaters
+
+Air
+
+Power & Data
+Conduits
+
+Water &
+Sewage
+Fuel
+Fuel
+
+Coolant
+
+Sonic
+Dampening
+Vacuum
+
+is the same liquid hydrogen that powers jump drives
+and fusion power plants, given how widely available
+it is. This flow is adjustable on a per-room basis to
+provide more or less cooling for individual tastes.
+Technically this is per-wall, so rooms next to another
+that is being super-cooled will experience chill from the
+adjoining wall. Superior life support, such as for luxury
+staterooms, may employ miniature double-hull style
+arrangements, imposing a vacuum between rooms to
+eliminate this effect – which can also help with sonic
+isolation. Lesser life support systems have solid walls
+except for any pipes, or employs a double wall without
+maintaining a vacuum.
+
+The air temperature aboard a ship is less of a comfort
+concern than the crew’s temperature, which clothing
+can affect; thick multilayer uniforms aboard a warm
+ship can overheat the crew, while thin uniforms on a
+ship running cold to reduce its infrared signature can
+increase the likelihood of sickness. A ship may choose
+to run cold in certain circumstances such as venting
+heightened amounts of helium on the side opposite the
+
+The Imperial Navy publishes uniform standards for
+dressing humans and other sophonts into easy-to-use
+guides, freely available to all, distilling thousands of
+years of experience from before the Third Imperium. This
+has the side effect that uniforms used by civilian crews
+within the Third Imperium are often reminiscent of naval
+uniforms. The publicly available guides have subtle
+alterations from the standards the Navy uses to avoid
+accidental replication so civilian uniforms remain only
+‘reminiscent of’ and are not confused for naval uniforms.
+
+RADIATION PROTECTION
+Stars are radioactive. Any naturally evolved sophont
+grew up in a radioactive environment. Sophonts with a
+body that naturally uses trace amounts of potassium,
+such as any human, are radioactive. These are tiny
+amounts relative to what it takes to damage most
+sophonts but measurable even at industrial prespaceflight Tech Levels.
+
+Life Support
+
+At lower TLs, particularly before the advent of practical
+fusion power, this heat is often vented using large
+radiator vanes extending from the hull, maximising
+the surface area available to radiate heat. Typically
+fragile and prone to degradation, they are nonetheless
+required to prevent the ship’s interior from becoming
+unliveable. Later advancements to materials science,
+thermal control and power generation make these
+protrusions unnecessary, although ships that run hot
+still require the extra surface area.
+
+enemy it is trying to hide from. A one-uniform-fits-all
+policy may be detrimental to the crew due to individual
+temperature preferences. This is one reason why most
+non-military captains prefer to allow their crew to dress
+as they like, within basic standards of decency. Others
+employ uniforms that have layers and functionality to
+customise to the individual’s specifications.
+
+Planetary atmospheres and magnetospheres provide
+substantial protection that is not available on spacecraft
+and must be compensated for. As noted in Basic
+Radiation Protection on page 9, low TL spacecraft
+
+29
+
+

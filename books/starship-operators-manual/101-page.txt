@@ -1,0 +1,113 @@
+about surviving an attack by a spinal mount weapon
+is, do not put the ship in the line of fire. Assuming that
+‘if it fires and hits, the crew will be dead’ is a useful
+approximation and can be sufficient motivator to talk a
+way out of a situation before it comes to that.
+Bay and spinal mount weapons are used in the
+defences of larger spaceports. The most well defended
+Imperial worlds have spinal grade meson cannons
+buried deep underground, where they can fire through
+the planet to destroy threats anywhere nearby, even on
+the far side of the world. Only other meson weapons or
+special operations infiltrating the weapon sites stand a
+chance of disarming the defences. Smaller spaceports
+may have barbettes or turrets, if they have defences at
+all. Unarmed spaceports are frequent buyers of surplus
+turret weapons unloaded by ship captains, although
+most spaceport administrators are aware those
+captains often wait until they are in distress before
+parting with their weapons and accordingly offer low
+prices or favours in lieu of Credits.
+
+PLACEMENT
+Although the majority of this book’s audience will only
+use the weapon mounts that come with their ship, if
+any, some will wish to install new ones. There is a
+question of where to mount them, the answer to which
+can be complicated.
+
+Consider a spacecraft with two turrets, one each on the
+dorsal and ventral sides, both limited to a 180° arc of
+fire. These turrets, mounted on flat parallel sections of
+the hull, grant almost 360o coverage, barring a narrow
+plane between the sections. However, only one turret
+could fire on a target at any given time, thus having
+no convergence. Alternatively, these turrets could be
+mounted on a section of the hull more sharply angled
+forwards. This would limit coverage to the aft but would
+allow both turrets to fire upon targets, granting greater
+convergence to the fore. Some roughly liken this to
+primitive fauna using either monocular or binocular
+vision. The Empress Marava’s starboard-fore and port-
+
+For the overwhelming majority of spacecraft with
+more than one weapon mount, prioritise convergence.
+Although coverage is critical for point defence against
+missiles and light craft, most engagements take place
+at a long enough range that manoeuvring and spinning
+to allow every turret to fire on target is feasible. Nonmilitary exceptions are practically non-existent.
+
+TYPES OF WEAPONS
+An exhaustive treatise on the many kinds of weapons
+used in space combat over the millennia would be larger
+than this book. To usefully classify the vast and diverse
+array of shipborne weapons in Charted Space, it is
+necessary to group many types into a few categories.
+One common equation relevant to weapons engineers
+is for kinetic energy, KE = ½mv2. In Galanglic, ‘the kinetic
+energy of a projectile is equal to half the mass times
+velocity squared’. Armament engineers have to work
+backwards from that. They have a maximum energy
+budget, minus inefficiencies in the weapon’s launch
+mechanism. Energy requirements for a (physical)
+projectile increase linearly as the mass goes up but
+quadratically as velocity increases. Space warfare
+demands the highest possible muzzle velocity achievable
+to allow accuracy at long range, even at the cost of
+projectile size, thus one can trace the history of weapon
+development as incremental increases in muzzle velocity
+coupled with substantial decreases in projectile size.
+Missiles propel enormous warheads, hence why more
+than half of a missile is its m-drive. Slugthrowers suffer
+as well, as there is generally a minimum size requirement
+per projectile due to constraints of the specific launching
+systems. Bombardment slugthrowers tend to use heavier
+projectiles and lower velocities, while dedicated space
+combat slugthrowers like sandcasters go as small as
+possible. Plasma and fusion weapons take this further,
+firing a minimally sized gas at outrageous velocities
+and relying on temperature to do additional damage.
+Particle and meson weapons reach the extreme of what
+is possible, such as firing individual particles at high
+fractions of light speed. Lasers sidestep the issue by using
+massless photons that travel at lightspeed.
+
+LASERS
+
+These fire beams of coherent photonic energy, the
+simplest forming it by bouncing energy back and forth
+through a chamber with mirrors on either end until
+the energy is all going in the same direction and has
+
+Weapons and Defences
+
+To ease the process, consider each weapon mount in
+terms of its arc of fire. Fixed mounts will have a limited
+degree of movement, while turrets or barbettes will
+have almost unlimited arcs, stopped only by the hull.
+Spacecraft with only one weapon mount will find the
+decision trivial; the firing arc should cover the forward
+axis to ease aiming and, if a turret is mounted, cover
+as much of the ventral or dorsal side of the craft as
+possible. Dorsal mounts are usually preferred as
+they facilitate firing while landed. Ventral mounts are
+desirable if using the spacecraft for ground attack,
+generally only a concern for mercenary or military units.
+
+fore turrets are a compromise between coverage and
+convergence, albeit on the port and starboard surfaces
+rather than ventral and dorsal.
+
+101
+
+

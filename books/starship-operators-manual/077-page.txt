@@ -1,0 +1,88 @@
+Bracing
+
+Thruster plate
+
+MANOEUVRE DRIVE
+
+Power
+distributor
+system
+
+Thrust control
+module
+
+Cooling
+systems
+
+As with any auxiliary propulsion system, starships flying
+solely under lifter power are rather ponderous, most
+reaching top effective speeds of about 25 kilometres
+per hour, which is not ideal for rapid transportation but
+sufficient for moving around a starport. Lifters are ideal
+for moving things easily and cheaply but in no particular
+hurry from place-to-place. For longer-range travel,
+particularly to cross the vast distances of space, a ship
+needs a larger system such as manoeuvre drives.
+
+MANOEUVRE DRIVES
+
+At any busy starport, one can watch as ships prepare
+to take off and head towards the planet’s jump limit.
+One will most likely see a vessel gently hover up a
+few metres into the air before it starts to accelerate
+onwards through the outbound flight corridor, the glow
+of its engines shrinking as it climbs up the atmosphere.
+
+The advent of manoeuvre drives is the point where the
+prospect of true space travel turns from a tantalising
+dream into a practical and, more importantly,
+
+Entering a spacecraft’s engine room, the first major
+difference one will note between a manoeuvre drive
+and a lifter is its bulk. M-drives are visibly larger
+than a lifter of equivalent output. A manoeuvre drive
+has significant length, width and depth, comprising
+multiple thruster plates, a thrust control module,
+coolers for both, a power distributor system, as well
+as the appropriate bracing and structural elements.
+The first four are often arranged in an approximate
+cylindrical configuration and sealed inside a housing
+containing an inert atmosphere under normal
+operation, unlike lifters or grav plates.
+The thruster plate consists of multiple layered grav
+module arrays. This allows significantly more force
+than lifters can exert at the cost of more power usage,
+generating significant amounts of waste heat which the
+system must remove to prevent drive degradation.
+The coolers are packed conformal to the thruster plate
+and thrust control module. Grav modules fresh from the
+factory and earmarked for manoeuvre drives are almost
+100% efficient devices and do not generate appreciable
+amounts of heat. Modules with lower efficiency
+frequently become lifter or grav plates. However,
+continual use will degrade the thruster plate, made
+worse by the relatively high power consumption. Thus,
+heavily used thruster plates run hot and risk a cascade
+
+Gravitics
+
+This scene, common to those accustomed to space
+travel, is only possible thanks to the manoeuvre drive,
+commonly abbreviated ‘m-drive’. In the smallest of star
+systems, such as those around M type main sequence
+stars, planets are still many millions of kilometres
+from one another at best. Even with modern HEPlaR
+reaction drives – see page 96 – limited burn endurance
+makes travel via reaction drive a long and complicated
+affair, requiring finely plotted and executed courses to
+make the most of their propellant.
+
+economical reality. Another product of gravitic
+technology, manoeuvre drives are sometimes termed
+‘souped-up lifters’, a moniker that is only superficially
+correct. In truth, they are different beasts in both
+construction and operation.
+
+77
+
+

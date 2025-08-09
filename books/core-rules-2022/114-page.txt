@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Most of these supplies require a Traveller with the
 Medic skill to use properly. These items are, in the
@@ -51,7 +37,6 @@ function for up to one week on its own but a berth
 is usually connected to a vehicle’s or ship’s power
 supply. Costs Cr50000 with a mass of 200kg.
 
-
 Medikit (TL8+): There are different types of medikit
 available at different Tech Levels. All medikits
 contain diagnostic devices and scanners, surgical
@@ -72,7 +57,5 @@ TL12: Grants DM+2 on Medic checks performed for
 first aid. Costs Cr5000.
 TL14: Grants DM+3 on Medic checks performed for
 first aid. Costs Cr10000.
-
-R
 
 

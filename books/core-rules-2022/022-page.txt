@@ -1,4 +1,3 @@
-T
 
 1
 
@@ -20,16 +19,6 @@ rival organisations.
 
 traveller creation
 
-V
-
-E
-
-L
-
-L
-
-E
-
 Law Enforcement
 Intelligence
 Corporate
@@ -50,16 +39,12 @@ ASSIGNMENTS
 
 22
 
-A
-
 Career progress
 
 Law enforcement agencies, corporate operatives, spies
 and others who work in the shadows.
 
 1
-
-R
 
 1D
 1
@@ -205,8 +190,5 @@ Investigate 1
 Gun Combat 1
 —
 —
-
-
-R
 
 

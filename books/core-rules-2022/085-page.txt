@@ -40,7 +40,6 @@ Large (+X): The animal is extremely large and presents a
 huge target. All ranged attacks made against the animal
 gain a DM equal to the score listed in the Large trait.
 
-
 Psionic (X): The animal has a PSI characteristic equal
 to the score listed in the Psionic trait. The referee
 should determine which talents it has access to as

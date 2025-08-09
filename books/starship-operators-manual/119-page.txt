@@ -1,0 +1,112 @@
+its borders. Vilani megacorporations rate all their ship
+crew through the Sishekarek but the guild will certify
+any skilled individual who passes an exam and pays
+a nominal fee, typically Cr300–800 depending on the
+position. This provides an opportunity for individuals who
+came by their ship skills in an informal or illicit manner to
+receive an official rating.
+Small ship captains will find qualification records
+useful to check but may not trust them wholeheartedly.
+It is uncommon but possible to forge qualifications,
+especially when the legitimate record issuer is half a
+sector away. More than one captain has signed on a
+crewmember with a spotless record, only for them to
+fail abjectly and leave after a single jump, willingly or
+forcibly. While large ships can absorb these losses, a
+free trader would rather not lose their only engineer
+as a fraud after committing to a jump to a backwater
+world where a replacement may be hard to find. Less
+common are those who wish to learn from experience
+rather than schooling and believe that life among the
+stars is easy. Some may think that just memorising this
+book is sufficient to become a star trader.
+Crew looking for work should be honest about
+skillsets and goals; apply for a working passage as
+an apprentice instead. Apprentices will learn far more
+under an experienced crew and have fewer major
+responsibilities. The pay will be minimal but there
+is less chance of winding up penniless in a strange
+system or condemning an innocent crew to death by
+misjump. Many crew, even some captains, got their
+start in space this way.
+
+THE PHANTOM POSITIONS
+People familiar with crew positions on media about
+large and/or military ships often notice the distinct
+absence of two of these positions on small ships;
+the sensor operator (sensop) and communications
+
+COMMOS
+
+On non-military ships, the ship’s computer typically
+handles communications but a captain can assign
+someone to this task. This person rarely has anything to
+do but open and close a single communication channel
+on command. Captains assigning this duty should be
+aware of this and not assign crew who are mischievous
+when bored. Most do not recommend assigning this role
+as a punishment as it often results in consequences that
+amount to lesser forms of sabotage. Commos are more
+often present on ships travelling to regions where the
+typical population does not speak Vilani and Galanglic.
+While computer-based translators are standard for
+these situations, having someone who speaks the
+local language can help avoid faux pas that a machine
+translation may stumble into. A hybrid approach, having
+a crew who can swap language libraries as needed, is
+common among augmented crew.
+In theory, commos also aid in communicating at very
+long ranges, clearing up weak signals and punching
+through jamming. However, outside of military missions,
+the solution to these issues tend to be either ‘move
+closer’ or ‘they are distorting a fake distress call, which
+means this is a trap’.
+
+SENSOPS
+
+On military vessels, sensor operators are invaluable.
+From electronic warfare shielding their ship from
+oncoming missile salvos to watching for wouldbe ambushers, they are the eyes and ears of any
+armada and can easily be the difference between
+victory and defeat.
+Most other ships concern themselves with getting
+from point A to point B. Rather than oncoming missile
+salvos, they care about predictable trajectories of
+oncoming planetoids or how best to weave through the
+constellation of ships near a starport. In these roles,
+sensor operation is a solved problem, managed by
+the automated systems that come standard with any
+spacecraft. Many believe the sensop is simply not
+required, relegated to the same obsolescence as coal
+stokers, powder monkeys or any other ancient obsolete
+job; software engineers program the computer for any
+expected circumstances or contingencies.
+
+Crew Roles
+
+The wise captain will be sure to place any new crew
+through a simulation to test competence under normal
+operating conditions. Running through the most
+common procedures can take under an hour and
+will give the captain a much better idea of the new
+hire’s strengths. Asking basic questions during a job
+interview is a good idea; if an alleged engineer does
+not know which component stores power for jump in
+a jump drive, they are probably not competent to act
+as the ship’s sole engineer. A good captain knows the
+fundamentals of every role on the ship but someone
+who obtained a ship without this experience and needs
+a crew quickly may be able to ask questions based on
+the relevant sections of this book.
+
+operator (commo). Some crew view these positions as
+‘busywork’, tasks assigned to low-performing crew to
+make them feel valuable. Commo somewhat earns this
+reputation, sensop less so.
+
+This argument may even hold water, right up until
+unexpected circumstances occur.
+
+119
+
+

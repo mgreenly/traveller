@@ -1,0 +1,94 @@
+THE COMPUTER
+A ship’s computer is its brain. Many of the tasks a
+starship performs would not be possible without a
+computer, most notably jumping to other star systems.
+Even tasks that can be done without a ship’s computer
+are typically quicker and more convenient with its help.
+It is so vital to ship operations that a ship’s computer is
+distributed throughout the hull. The ship’s computer can
+easily be one of the most expensive components of a
+ship, especially since it does not take much time at a
+starport to upgrade the hardware and almost no time to
+upgrade the software, making it a common money sink
+for ship owners with lots of cash but not much patience.
+Each major system in a ship has its own computer,
+possibly multiple if the system is distributed and/or large
+enough, acting as secondary nodes to the ship’s main
+computer. Certain large ships take advantage of this,
+upgrading secondary nodes to take some of the load
+off primary central processing units. This is possible but
+rarely done for small ships, as the result is typically in
+excess of what most small ships can make use of. Many
+small ships take the opposite approach, using virtual
+machines and firewalls to run virtual secondary nodes,
+which individually need little processing power to run a
+small ship’s system, on the same physical hardware.
+
+PRIMARY AND SECONDARY NODES
+A ship’s computer can be divided into primary and
+secondary nodes, the latter more numerous than the
+former even on small craft. Primary nodes handle
+ship-wide functions such as directly controlling the
+manoeuvre and jump drives, as well as reaction drives
+if present. They run supervisory software to monitor
+and control the secondary nodes. Secondary nodes
+handle system-specific duties such as life support and
+power distribution, as well as ancillary low-bandwidth
+tasks such as a passenger’s game program when
+those are not run on personal computers. The need
+for these secondary nodes is driven by the ship’s size
+and complexity, while the primary nodes scale with
+the ship’s performance. For example, a small jump4 attack ship with high performance fire control and
+automated defences has much more powerful primary
+nodes than an unarmed jump-1 megafreighter. The
+secondary nodes tend not to change without major
+
+changes to the ship’s hull and thus are sometimes
+seen as part of the hull, so the term ‘ship’s computer’
+usually refers just to the primary nodes.
+A ‘node’ refers to a processing unit, local memory and
+associated circuitry that can be compared to a personal
+computer in architecture. Primary nodes are usually
+more powerful than secondary nodes, as maintaining
+heat and oxygen levels aboard a small ship does not
+take as much computation power as plotting an orbital
+intercept course to dock with a highport, let alone
+plotting an interstellar jump.
+For safety, primary nodes are at different locations
+throughout the ship. A typical arrangement is to
+have three primary nodes: one on the bridge, one in
+engineering and one near the ship’s centre. These
+either rotate which is the true primary or do their
+operations in triplicate, using a best-of-three model
+to trap individual errors. While extremely reliable, this
+limits the ability to install extra parallel processing
+to handle additional tasks. This is why software that
+does not need to run on the primary nodes will rarely
+be run on them. It is possible to use supercomputers
+with substantial parallel processing power as consoles
+separately from computers used to control the ship’s
+systems and some science ships do this to run complex
+analysis software that only needs to draw data from the
+ship’s sensors, not to control them.
+Jump Control software has proven remarkably resistant
+to compression, with known expansion as it becomes
+capable of handling longer jumps, so it became a
+standard by which spacecraft computers are measured.
+Most starships have no use for more than the minimum
+computer needed to run their Jump Control, as it only
+runs when entering jump, freeing computing resources
+for other tasks at other times. Ships that might want to
+do something else while entering jump, such as ships
+expecting to fight their way to the jump limit, will have
+higher-powered computers to run Jump Control and
+other software simultaneously.
+
+SHIP SOFTWARE
+
+While similar in concept to communications, editing,
+entertainment and other personal software, the
+programs that run on a ship’s primary processors are
+
+53
+
+

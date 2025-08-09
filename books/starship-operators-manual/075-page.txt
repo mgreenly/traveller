@@ -1,0 +1,112 @@
+Grav plates affect all mass within their operational
+envelope, a roughly ellipsoid volume centred on
+the plate, dimensions varying depending on design
+constraints and power application.
+Grav plates are, in spite of their mechanical simplicity,
+complex devices to manufacture. Even with the
+development of the Consolidated Theory of Gravity,
+grav modules require very precise manufacturing
+techniques normally developed at the end of TL8 or
+early TL9 to exploit the quantised nature of gravity.
+Arrayed and sealed into the final grav plate, they prove
+to be a very reliable, robust solid-state device of simple
+maintenance, in contrast to their difficult manufacture.
+The production of grav plates is quite similar to that
+of microprocessors. Even the best manufacturing
+techniques are not perfect, especially when there are
+billions of components per square metre to print. When
+grav plates leave the factory, they are rated in a similar
+method to processors based on observed performance
+as compared to the theoretical maximum. Ones with
+minimal failed units and low thermal output sell at a
+premium, while those that generate more heat and less
+gravity sell at a discount.
+
+INTERNAL GRAVITICS
+The most immediately noticed application of grav
+plates is creating artificial gravity environments aboard
+spacecraft or on worlds with weak surface gravities,
+making long-term habitation by sophonts feasible
+without the inconveniences and health risks of low
+gravity or freefall. Conversely, they can generate a
+gravity field of equal strength but opposite direction
+to negate a world’s surface gravity, creating rooms or
+vertical accesses where a person may move as if they
+were in freefall. This is great for planet-based training
+of spacers, to say nothing of recreational applications
+at theme parks and other venues. Some leverage this
+to actuate a lift platform with little of the infrastructure
+mechanical lifts require.
+
+Grav plates, however, cannot change their fields
+arbitrarily without specialised modifications and
+therefore are ill suited for dealing with sudden or violent
+accelerations. Grav plates take a few seconds to ‘warm
+up to speed’ when turned on or changing intensity, so
+collisions, scrapes, weapon impacts and other such
+surprises are all things the inertial dampers are too
+ponderous to adequately deal with, whereas planned
+accelerations are easily handled. For this reason,
+grav plates are rarely set up to accommodate more
+acceleration than the spacecraft’s manoeuvre drive can
+generate, though this can cause problems with craft
+that utilise auxiliary reaction drives for additional thrust.
+
+LIFTERS
+
+Beyond their basic applications in life support, the
+second most commonly encountered form of gravitics
+is the lifter. Lifters have often been called ‘grav plates
+with their polarity reversed’, which, while not technical
+language, is an acceptable summation of how low
+power, early lifters work.
+It is a common misconception among many lay sophonts
+that gravity drives such as lifters, g-drives, and m-drives
+are ‘inertialess’ and so they violate Agaashir’s Law of
+Reciprocal Motion or, among the Solomani, Newton’s
+Third Law of Motion. This is incorrect; they very much
+do obey conservation of momentum. It is by pushing
+against the ground that they generate lift.
+As solid-state machinery, lifters have no moving parts
+but there are noticeable cues that they are in operation.
+Lower-tech lifters make a characteristic low-volume,
+high-pitched, faintly perceptible whine as the individual
+grav modules flick on-and-off at a high frequency. An
+always-present sign of lifter operation is a soft but
+persistent breeze emanating from beneath the vehicle,
+akin to a downward thrust far too gentle to lift the vehicle.
+This effect explains the strange sensation when putting
+
+Gravitics
+
+Gravitic physics leads to a consequence, that of lumpy
+gravity. Grav plates have an ellipsoid area of effect.
+Except for Droyne vessels, most ships are not made
+out of half-ellipsoid rooms, so grav plates tend to
+have overlapping fields. This is mitigated during ship
+design by using either large overlapping grav plates
+with uneven application of power or many low-power
+overlapping plates to ensure 0.9-1.1 G everywhere
+within a vessel. Some pleasure craft and liners go so far
+as to use centrally-generated gravity or one large grav
+plate underlying the entire floor for an even gravity field,
+but this tends to be expensive and difficult to repair.
+
+An equally important use for these basic grav plates
+is inertial compensation; by having three sets of grav
+plates arranged orthogonally, it is possible to combine
+their pulls in any direction within their area of operation.
+If a vehicle equipped with such a setup is aware it will
+suffer an acceleration, the compensators can create an
+equal and opposite acceleration inside it, ‘cancelling’ its
+apparent effects for those aboard. Certain manoeuvre
+drives and lifters link into oversized grav plates
+designed to accelerate every atom of the ship and its
+contents equally to reduce or eliminate felt acceleration.
+However, the usual approach is to accelerate the hull,
+lifter, or drive unit rigidly connected to the hull. This
+brings along its contents, similar to reaction drives.
+
+75
+
+

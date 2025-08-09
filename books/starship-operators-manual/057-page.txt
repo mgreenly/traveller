@@ -1,0 +1,116 @@
+for this and are often quite proud of knowing the status
+of the entire ship simply by listening. Dolphin ships take
+this a step further and can generate an entire tactical
+display of the ship and its surroundings.
+
+Do not try to use an existing sophont’s brain
+as a bioelectric ship’s computer. Those who
+try this tend to do so out of an obsession with
+cutting corners and short-term cost savings.
+They ignore that most sophont brains are
+incapable of the scale of computation needed
+for even Jump Control/1, without significant
+augmentation. The brain winds up as a
+permanently installed crew member, often
+one that did not volunteer and consequently
+hates whoever caused its condition. Giving a
+starship the ability to hate and then becoming
+the object of its hatred often leads to a reduced
+life expectancy. Further, in the Third Imperium
+such involuntary installation is treated as a form
+of slavery, resulting in lengthy incarceration or
+execution of those responsible.
+
+Some consoles control and report on many aspects
+of the ship at one time. Others are simplified for basic
+operations, allowing the computer to execute multiple
+commands at the touch of a single button or command.
+A simplified sensor operator’s console might display the
+result of a general scan around the ship that is always
+running when the ship is not docked, whereas one that is
+set to be more technical will give options for scanning a
+specific area of space, picking which sensors to use, and
+configuring power levels and frequencies to monitor.
+
+COMPUTING HARDWARE
+
+Those who actively wish to ‘become one with
+the ship’ should consider neural augmentation
+instead of direct internment.
+
+●
+
+often restructure themselves over time to learn.
+Learning computers must be trained more than
+programmed, so they are often flooded with large
+sets of data as part of their creation. Cymbeline
+transponder-brains are an example of this.
+BIOELECTRIC computers use chemical decision
+gates, prompted by electric potential delivered by
+living neurons. This is how most sophont brains
+work. For this reason, those who make these
+computers walk a fine line to make sure they are not
+creating anything that could be legally considered a
+sophont. Traditional programming techniques are all
+but impossible on this architecture. Like positronic
+devices, bioelectric devices can learn, so they are
+trained for their tasks.
+
+HOW COMPUTING SOFTWARE WORKS
+
+Not everything is processors. Data comes from
+somewhere and goes somewhere as input and output.
+Any program is limited to acting on the input it receives
+and acting via the output allowed. A simple TL7 hand
+calculator lacks the ability to explode or fire weapons.
+In all cases, computers are highly complex systems
+built out of basic elements, where processes and data
+can be considered separate from the hardware. Most
+familiar to Imperial readers are architectures built
+upon Boolean logic, a Galanglic term deriving from
+the Solomani phrase for basic binary logic, reinvented
+countless times over the ages.
+
+The Computer
+
+Ship’s computers run on the same basic principles as any
+other. There are a variety in use across Charted Space,
+with Tech Level variations and local preferences, although
+the hardware can be distilled into six general types:
+● ELECTRONIC computers have electrons directed
+within circuits. These circuits are primarily
+metal, with electric fields changing how current
+flows through certain points. For instance, an
+electronic touchscreen interface changes its
+electric potential at the location touched, which
+triggers the nearest sensors. Most computers are
+electronic and are vulnerable to electromagnetic
+pulses, unlike any other type.
+● PHOTONIC and FIBRE OPTIC computers manipulate
+photons in light channels. These light channels
+act as circuits, although they are typically
+some sort of translucent crystal where optical
+properties can change based on the intensity of
+light or electric signals.
+● FLUIDIC COMPUTERS CONTROL liquids or gases
+flowing through miniature pipes and valves. Fluidic
+devices are sensitive to temperature variations.
+● MECHANICAL computers use clockwork gears, cams,
+levers and springs. These are invariably the largest,
+with higher maintenance costs to replace worn-down
+elements. Although they can be produced at lower
+Tech Levels, the results are rarely practical beyond
+relatively basic mathematics.
+● POSITRONIC and QUANTUM computers use the
+flow of subatomic particles within carefully
+micro-engineered three-dimensional structures.
+Processes that require selecting from large arrays
+of possibilities or learning over time are easier to
+implement on this architecture, although traditional
+programming techniques are more difficult.
+Early quantum computers are programmed
+like electronic ones but positronic ones more
+
+57
+
+

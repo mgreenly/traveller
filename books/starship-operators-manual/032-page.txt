@@ -1,0 +1,84 @@
+T
+
+Life Support
+
+This is one of the few times in which being aboard
+a spacecraft can make things simpler. Fires behave
+differently in zero gravity. In the absence of forced-air
+ventilation, fires use convection to obtain additional
+oxygen to burn. Convection requires a thermal
+differential where more-dense cool air sinks and
+less-dense hot air rises within a gravity field, causing
+fresh oxygen to feed into the flame. Turning off gravity
+disrupts this cycle, reducing the amount of combustion.
+This slows the spread significantly, buying time to start
+putting the fire out.
+
+32
+
+However, venting rooms on fire to the exterior is rarely a
+viable option. Safety interlocks on airlocks prevent both
+doors from being open at the same time; while these
+can be overridden, that takes time rarely available in
+an emergency. This would only be useful for a fire that
+happens to be near an airlock or where there is a chain
+of ventable rooms from fire to airlock. Non-airlock-rated
+doors alongside this chain may be damaged or blown
+open. Venting into jumpspace is widely considered even
+worse as jump fields are filled with thin hydrogen, with
+which heated oxygen might react.
+There exists a solution which attacks both heat and
+oxygen – frozen carbon dioxide powder, known as ‘dry
+ice’. It works well enough to quickly extinguish most
+fires, after cutting off power if the fire may be electrical.
+Dry ice powder, chilled from carbon dioxide obtained
+from air treatment units, is stored near liquid hydrogen
+fuel and piped to miniature turret-like projector systems
+throughout the ship, which are often co-located with
+internal security cameras. The volume contained in
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+ELECTRICAL FIRES
+
+If the fire may be electrical, turn off the power
+first. Not only does this shut off energy that may
+be feeding the fire but sufficiently high voltages
+can arc up a stream of carbon dioxide. If
+electricity is flowing into where the fire is, turning
+it off first may save your life.
+
+pipes throughout the ship exceeds that of any separate
+dry ice tankage to assist with on-the-spot availability.
+Severe damage can disrupt this delivery system,
+usually making the projectors inoperable, leaving
+nothing to route the dry ice to.
+The projectors can be set to fire automatically on any
+heat source above a certain threshold or be manually
+controlled with security interlocks from a nearby control
+panel, the bridge, or engineering. When judging the
+quantity of dry ice to dispense, the projectors first try
+to chill the fire out of existence, then displace enough
+oxygen to cut off the fire that way, then consider that
+dry ice expands when heated into gaseous carbon
+dioxide and direct contact is dangerous to most
+sophonts. Some projectors are hooked up to the ship’s
+water system as well, with dedicated fire recognition
+software taking input from security cameras to
+determine whether water or dry ice will work better.
+
+R
+
+

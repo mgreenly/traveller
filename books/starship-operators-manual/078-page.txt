@@ -1,0 +1,68 @@
+T
+
+R
+
+A
+
+Gravitics
+
+E
+
+L
+
+L
+
+E
+
+failure under high output. Active cooling minimises this
+degradation, extends the useful lifespan of thruster
+plates and prevents one plate’s cascade failure from
+taking out other plates.
+
+Extremely specialised craft can forego the thrust
+control module entirely by gimballing the thruster plate,
+transforming the plate into an oversized thrust control
+module. This allows greater manoeuvrability at the cost
+of additional volume taken up by the gimballing system,
+which will not fit inside most standard engineering spaces.
+
+The thrust control module is a smaller set of a series
+of grav modules individually gimballed to allow three
+directions of freedom. This gimbal must transfer
+high variable-directional thrust loads to the ship’s
+frame and as such is the most mechanically complex
+portion of m-drives, as well as the only non-solidstate component. It is usually sized to provide up to
+10% of primary output alone but is intended to ‘warp’
+the thruster plate’s output, allowing the main drive
+to provide off-axis thrust. This combination is less
+efficient at roughly one minus the sine of half the
+angle, dropping to just over one-quarter of normal
+thrust at 90o and zero at 180o. When needing thrust
+far beyond 90o, such as reverse thrust, deactivate the
+thruster plate and the thrust control module’s 10%
+provides enough thrust.
+
+Manoeuvre drives usually mount at the aft of a ship, as
+ships use sideways thrust more often to adjust a ship’s
+attitude than to laterally accelerate the ship. Even on
+a single drive, the thrust control module can apply
+thrust off-axis to apply torque to the ship. A few mount
+manoeuvre drives on the sides, typically for increased
+agility at some expense of maximum thrust. Mounting
+to fore rarely provides any advantages and is much
+more visible. Internal mounting to muffle the glow is
+possible but its ionisation emissions still need to be
+routed outside the ship, making the drive less efficient.
+Rarely do engineers mount the drive precisely at the
+centre of mass, as the ship will need a secondary thrust
+control module to allow paired off-axis thrust.
+
+SULEIMAN M-DRIVES
+
+78
+
+V
+
+R
+
+

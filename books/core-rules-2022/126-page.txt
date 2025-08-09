@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Despite advances in energy weapons and other offensive
 technologies, accelerating a small piece of metal to high
@@ -223,7 +209,6 @@ RIFLES
 
 126
 
-
 Zero-G
 Auto 3,
 Scope
@@ -237,7 +222,5 @@ Scope
 —
 Bulky
 Auto 3
-
-R
 
 

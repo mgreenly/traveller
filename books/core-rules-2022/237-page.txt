@@ -113,7 +113,6 @@ Events
 11
 12
 
-
 MISHAP
 Severely injured (this is the same as a result of 2 on the Injury table). Alternatively, roll twice on the
 Injury table and take the lower result.

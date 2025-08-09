@@ -1,0 +1,128 @@
+T
+
+current supplies will run out. Crew have fallen ill and
+occasionally died because of a dirty filter, which is
+preventable with proper planning and scheduling.
+Checking gauges may seem tedious, yet it is vital to
+make sure they are in working order and report what
+they are monitoring to keep the ship running. Many
+times a freighter started a jump thinking they had full
+tanks of fuel, only to find the sensor was faulty. While
+the common practice of tapping the gauge only works
+on older spring loaded pointer style indicators, many
+believe this still works on electronic versions. This is
+generally incorrect, as electronic gauges require full
+computer diagnostics to tell if they are working properly.
+
+Maintenance and Repair
+
+Loose fasteners are common aboard a ship, easily
+checked and tightened. Manufacturers use fasteners
+of one kind or another for chairs, tables, hull and
+almost all parts of the ship. While not all bolts and nuts
+tighten or look the same, most fasteners are required
+to be a minimum of hand tight with some requiring a
+certain amount of torque. A fastener that refuses to stay
+tightened due to worn threads or a persistent vibration
+could be hinting at larger issues. The application of a
+threadlocker compound rarely solves these problems.
+
+126
+
+General cleaning may seem redundant if only a few crew
+are aboard but dust gathers in areas of low activity and
+clogs both filters and machinery. A build-up of oily residue
+in a drive area may seem harmless but could cause crew
+to slip and fall during a critical time while they are trying
+to fix or shut down something else. It clogs air filters and
+overworks ventilation and life support systems, eventually
+causing a breakdown of key machinery. A puddle may
+seem harmless to the untrained observer but may signify
+an irradiated coolant leak. Making sure to remove any
+dust and debris from walkways and important areas can
+help prevent any future issues and increase efficiency of
+the crew during their duties.
+Please check the guidelines for the ship’s preventative
+maintenance list and schedule. Failure to follow the
+list can result in skipping a vital component that is in
+desperate need of emergency maintenance.
+
+CREW MAINTENANCE DRILLS
+
+Drills are a form of preventative maintenance
+performed on a starship’s crew, covering general
+practice such as pilot simulator runs and gunner target
+practice, as well as emergencies including fire, hull
+breaches and injuries. Announced drills are either
+routinely scheduled or started when convenient, such
+as during jump when little else is going on. They can be
+administered individually or involve the entire crew.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+This gives the crew an opportunity to see how
+things should work. If unexpected complications
+do not arise, the run should meet all requirements
+and objectives. Failure in such a drill is a cause
+for concern, indicating that the failing crew needs
+immediate remedial training and should retake the
+drill before assignment to other duties. If the pilot
+crashes in a simulation of a routine approach, that is
+not a good sign for the ship’s next port of call.
+Software typically generates drills, sometimes aided
+by a trained instructor. The ship’s captain or chief
+engineer sets the limits on possible scenarios; within
+those limits, the software can configure any potential
+issues. If it says the crew is fighting K’Kree pirates while
+undergoing a partial drive failure and internal comms
+malfunction, that is what they must attempt. Failure here
+is not necessarily a bad thing, as the goal is familiarity
+with unlikely scenarios. In some ways, failure can be
+desirable as a crew that always passes these drills with
+little effort most likely has the scenario restrictions set too
+narrowly, which may leave them inadequately prepared if
+something truly unanticipated occurs.
+Fire, breach and suit drills typically have physical props.
+Roping passengers in to act as judges or hazards
+is typically good fun during jump, if the passengers
+understand what is happening and agree to participate.
+However, recruiting passengers against their will or
+surprising them during a drill can cause them to act in
+self-defence, perhaps with lethal force. Passengers
+who are not informed or do not agree to participate
+should be kept away from these drills. In most cases,
+an announcement such as, ‘We are doing something in
+the cargo hold for a while, so please stay out until we
+are done’ will suffice.
+For small ships, unannounced drills happening at
+random times are widely considered a sign of a poorly
+run ship. Running too many unannounced drills may
+cause the crew to think that any emergency is just
+another drill and does not require a serious response.
+Make it clear at the start that it is a drill and only conduct
+them when no other important business is going on.
+
+EMERGENCY MAINTENANCE
+
+While this book is a handy resource, reading while
+attempting to fix a problem may cause more issues. If
+called on to handle emergencies, crew must familiarise
+themselves with the ship’s systems and procedures in
+advance, so they do not respond too slowly and place
+themselves in jeopardy.
+
+R
+
+

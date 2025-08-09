@@ -1,4 +1,3 @@
-T
 
 6
 
@@ -20,8 +19,6 @@ Ground Assault: You are kicked out of a spacecraft in
 high orbit and told to ‘capture that planet’.
 
 traveller creation
-
-V
 
 Support
 Star Marine
@@ -110,15 +107,6 @@ Melee (blade)
 Tactics (military)
 Gun Combat
 
-
-E
-
-L
-
-L
-
-E
-
 SURVIVAL
 END 5+
 END 6+
@@ -137,8 +125,6 @@ DM-2 if you are aged 30 or more
 
 32
 
-A
-
 Career progress
 
 Members of the armed fighting forces carried aboard
@@ -147,8 +133,6 @@ in space, defend the starports and bases belonging to the
 navy and supplement ground forces such as the army.
 
 6
-
-R
 
 BENEFITS
 Armour
@@ -167,7 +151,5 @@ Admin
 Advocate
 Diplomat
 Leadership
-
-R
 
 

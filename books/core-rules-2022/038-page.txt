@@ -1,4 +1,3 @@
-T
 
 9
 
@@ -11,16 +10,6 @@ Automatic qualification if your SOC is 10 or higher
 ASSIGNMENTS
 
 Choose one of the following:
-
-V
-
-E
-
-L
-
-L
-
-E
 
 SURVIVAL
 INT 4+
@@ -128,7 +117,6 @@ Streetwise
 Gambler
 Jack-of-all-Trades
 
-
 Ranks and bonuses
 
 traveller creation
@@ -143,8 +131,6 @@ absolutely no useful function in society.
 
 38
 
-A
-
 Career progress
 
 Individuals of the upper class who perform little
@@ -152,8 +138,6 @@ consistent function but often have large amounts of
 ready money.
 
 9
-
-R
 
 RANK
 
@@ -202,7 +186,5 @@ Leadership 1
 Minister
 
 —
-
-R
 
 

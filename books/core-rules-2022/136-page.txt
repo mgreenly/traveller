@@ -76,7 +76,6 @@ Hypersonic
 
 ROUGH TERRAIN
 
-
 Speed Band Number
 0
 1

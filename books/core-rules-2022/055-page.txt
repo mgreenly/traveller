@@ -84,7 +84,6 @@ example, if a Traveller had Electronics (computers) 1
 and was trying to learn Electronics (computers) 2, this
 would require two successful Study Periods.
 
-
 traveller creation
 
 At this point, the Traveller must succeed at an Average

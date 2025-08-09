@@ -1,0 +1,106 @@
+CALL FOR RESCUE
+A starship with damaged or inoperable
+communications has many options to signal
+for rescue. The most important thing to
+remember is that potential rescue ships have
+fully operational communication systems, so an
+emergency signal does not have to be powerful
+to be heard. In descending order of practicality,
+common options are:
+1. Any active sensor. Turn it on, point it at the
+mainworld and keep flicking it on and off.
+Sending SOS or Signal GK works well but
+even random flickers can be interpreted as a
+sign of distress.
+2. Weaponry. Yes, really. A defocused beam
+laser makes a fine way of getting attention
+at extreme range. Take care not to shoot
+rescuers with a full-power beam when they
+come within range.
+3. Any portable comm system. Tape it up to a
+viewport or throw it out of an airlock. Vacc
+suits and rescue balls all have emergency
+transceivers, many crewmembers will have
+personal communicators and starship
+emergency kits are supposed to have a
+set of GK pucks, palm-sized orange disks
+designed for this exact purpose.
+4. A spark-gap radio. If the ship has no
+communications devices or anything
+onboard that can generate signal, create
+a simple spark-gap signaller with a power
+source, vacc tape, a piece of wire and nonconductive gloves. Tape one end of the wire
+to the positive terminal. Touch the other
+end to the negative terminal while wearing
+gloves. This will generate a brief burst
+of unmodulated radio waves. Repeat as
+needed, ideally in front of a viewport so the
+transmission escapes into space.
+
+Food storage is vital to support life on a starship, almost
+as much as air. While most staterooms have miniature
+kitchens that have some storage space for food, the bulk
+of storage will be in the cargo hold. The average sophont
+eats around two kilograms of food per day. Most food
+with packaging weighs approximately 1,000kg/m3. One
+displacement ton, which is 13.5 cubic metres of food, is
+
+Thus, the main concerns when buying food at starports
+are quality, convenience and price. For a crew without
+a competent steward or cook, pre-packaged meals are
+more important than the finest of raw ingredients. A
+purser should always make sure the food is good quality
+and not expired, even if the price is low. Cheap, expired
+meals risk the added cost of medical treatment before
+the crew can go back to work and low-quality meals risk
+crew morale, which is critical for ship operations.
+While subsisting on pre-packaged foods is an option,
+many crews prefer to prepare their own meals from
+raw ingredients. Whether one descends from the
+Vilani shugilii or not, personally preparing food for
+crew bonding is one of those rich traditions going back
+well before spaceflight.
+However, the Vilani developed their shugilii for good
+reason; on most worlds, even Vland, native life is
+simply incompatible with the digestive systems of
+sophonts whose ancestors hail from other worlds.
+Special preparation techniques are needed to make
+ingredients edible, mostly ways of breaking down or
+denaturing proteins, identifying and reliably removing
+toxins, and making the taste palatable. On modern
+ships, these tricks form the essence of the galley.
+Having or not having a galley places a sharp
+distinction on the food portion of life support. Without
+a proper galley, a ship is limited to food obtained from
+civilisation of some sort, usually a starport, and is
+vulnerable to accidents destroying or spoiling the food
+stores. With a proper galley, a ship’s crew can forage
+for ingredients on most life-bearing worlds. Paired with
+wilderness refuelling, this extends the length of time a
+ship can be away from port, although it must still carry
+spare parts for maintenance.
+For some, the most visible reminder that space is ever
+at a premium aboard a ship is the galley. Where a
+planetside kitchen might be wide and open, a galley
+will stack ovens and cupboards and rarely have much
+unused counter space. Even small galleys aboard ships
+have an industrial, mass production feel. Having a single
+washer/dryer unit for plates and cups as well as laundry
+can strike some as unhygienic, despite all the studies
+showing the results to be as clean as separate units.
+
+Life Support
+
+FOOD STORAGE AND PREPARATION
+
+thus about 13,500 kilograms and will last the average
+sophont 6,750 days. Ships typically store food for their
+maximum expected occupancy for as long as they have
+reactor fuel or more, often four weeks. A four-person
+crew thus needs 112 person-days of food, less than 0.02
+tons. Given the trivial storage requirement, buying and
+storing long-shelf-life supplies as backups is common.
+
+35
+
+

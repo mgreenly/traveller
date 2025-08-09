@@ -1,0 +1,115 @@
+unavailable or because the reaction drive is an augment
+to a manoeuvre drive which this might interfere with.
+Some rockets have an ‘atmospheric mode’, wherein
+they hook fuel scoops to the reaction drive and use air
+as reaction mass, usually heating it before expelling it.
+This doubles the cost of the reaction drive, only works
+within a thin or thicker atmosphere or a hydrosphere
+and requires that the spacecraft have fuel scoops. The
+result is perhaps the fastest, most agile in-atmosphere
+performance manufactured in Charted Space, at a price
+that is almost never worth it for this capability alone,
+although there is always some reason that makes the
+price almost irrelevant.
+● Some spacecraft use this method to achieve orbital
+speed. As this greatly saves on fuel, this may be
+the most practical means of achieving orbit where
+these rockets are available and gravitics are not.
+● Ships that frequently pursue blockade runners,
+system defence fighters and similar sometimes
+have this feature built in during construction to
+sustain maximum acceleration for longer periods.
+● Racing and emergency response craft sometimes
+justify reaction drives on account of speed being
+their primary mission.
+
+CHEMICAL
+
+The lowest TL form of rockets, these burn fuel that
+has energy bound up in its molecules and vent the
+combustion products. There are many subdivisions of
+chemical rockets; solid or liquid fuel, monopropellant
+or bipropellant, pump fed or pressure fed. None
+of these subdivisions are significant compared to
+the performance gains from switching to electric or
+nuclear thermal rockets.
+
+ELECTRIC
+
+Known as ion rockets, these accelerate charged
+particles at very high velocities, akin to crude particle
+beams but without the range – or damage, unless the
+
+Early electric rockets have very limited thrust, being
+woefully insufficient to achieve orbit, only able to
+adjust orbit and escape to interplanetary space.
+However, they are much more efficient with their
+output than chemical rockets. World-to-world transfers
+in an inner solar system with an early electric drive
+providing constant thrust are possible, while a
+chemical reaction drive of similar TL would have
+nowhere near the necessary endurance.
+A few spacecraft employ advanced electric rockets
+capable of generating a full G of thrust or a significant
+fraction, thrusting at this level for most of their journey.
+Most of these use a tailsitter design with ‘down’ pointing
+in the direction of thrust, for the sake of artificial gravity
+without gravitics. The controls and layout are designed
+to facilitate zero gravity operations as well, for those
+times when the spacecraft is not in motion.
+Some differentiate ‘nuclear electric’ from other types,
+as the greater density of power available from a
+fission or fusion power plant makes greater thrust
+and endurance possible. This helps distinguish it from
+nuclear thermal propulsion.
+
+NUCLEAR THERMAL
+
+The hotter the exhaust, the faster the propellant leaves
+the ship, the more efficient the rocket. The highest
+temperatures achievable are associated with fusion
+processes. Nuclear thermal propulsion takes this to
+its logical conclusion, using a fission or fusion reactor
+to directly heat the propellant rather than convert the
+reactor’s output to electricity.
+Those who misunderstand nuclear processes
+sometimes believe the exhaust of a nuclear thermal
+rocket is inherently radioactive but this is not practical
+for multiple reasons. To illustrate this, it is best to
+distinguish between two types of nuclear thermal
+rockets. ‘Open cycle’ rockets have no shielding
+between the nuclear process and the fuel, so the
+reaction mass is directly exposed to the fusion or
+fission processes and picks up radioactive elements.
+‘Closed cycle’ ones have substantial shielding –
+blocking alpha and beta particles while allowing
+as much heat as possible – so the exhaust is not
+substantially radioactive.
+
+Reaction Drives
+
+On many worlds these barely reach orbit, sometimes
+requiring designs that discard sections of the
+spacecraft on the way up. This makes access to space
+far less economical, which is the main reason why
+practical exploitation of a solar system beyond a single
+colonised world and its moons tends not to happen
+before the world can manufacture its own gravitics at
+TL9. Some TL7–8 systems have managed to come
+up with relatively high performing versions of electric
+or nuclear thermal rockets and there are rumours of
+Ancients chemical fuels with a high enough energy
+density to make chemical rockets competitive with early
+nuclear thermal rockets.
+
+target is almost touching the engine. As with chemical
+rockets, electric rocket varieties are similar enough to
+not merit discussion of the subdivisions available.
+
+Open cycle rockets would be more efficient if one
+looked solely at power and mass per unit thrust.
+However, operating in this manner irradiates the
+
+95
+
+

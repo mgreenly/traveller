@@ -33,7 +33,6 @@ to show off, or anything else you can imagine. The
 referee is free to set the difficulty of the skill check to
 reflect the attempted action.
 
-
 Attacking with ranged weapons mounted upon a
 vehicle uses the same rules as detailed in the Combat
 chapter, with the following exceptions:

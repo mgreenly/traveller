@@ -1,0 +1,80 @@
+T
+
+10. JUMP DRIVE
+
+As any starship crew knows, the ‘jump drive’ extends
+beyond the central unit shown on deckplans out across
+a ship’s hull; the many emitters that propel a ship into
+jumpspace, and in grid-type drives the jump grid. In
+this way, the entire outer hull could be considered the
+‘jump drive’. The central unit is mainly energy storage
+and distribution system, with dedicated computers, and
+in bubble-type drives the lanthanum alloy core of the
+drive/shunt system.
+
+R
+
+Ship Walkthrough
+
+ANIMAL JUMP-DRIVE
+
+156
+
+L
+
+L
+
+2
+
+4
+
+1
+
+E
+
+E
+
+1. Zuchai crystal array
+2. Power input
+3. Power output
+4. Jump computer
+5. Status monitors
+6. Security camera and fire suppression projector
+
+2
+
+5
+
+V
+
+An engineer may notice more robust power conduits,
+greater density of jump emitters or higher-grade zuchai
+crystals but none of these are particularly noteworthy.
+As a result, the jump drives on our three example ships
+are largely identical.
+
+To an untrained eye, the drive on a naval jump-6
+courier and the jump-1 drive aboard a Beowulf free
+trader may look almost identical, aside from their bulk.
+
+3
+
+A
+
+5
+
+1
+
+2
+
+4
+
+4
+
+5
+
+1
+
+R
+
+

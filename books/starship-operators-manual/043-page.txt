@@ -1,0 +1,117 @@
+behind the vents. It is under more pressure while the
+airlock is depressurised but can cause an explosion at
+any pressure if penetrated. Fortunately, the pressure
+containment vessel acts like armour, so even if an
+errant slug strikes, most small arms fire is unable to
+penetrate it. Deliberately using an armour-penetrating
+projectile to rupture this vessel and cause an explosion
+in an airlock on one’s way out of a ship can backfire.
+
+equipment such as rescue balls and emergency
+vacc suits will always be found within the airlock. To
+prevent unauthorised access and limit environmental
+wear on personal vacc suits, they are kept in sealed
+lockers when not in use, usually assigned one per
+crew member and secured by keypad or biometrics to
+prevent fumbling with physical access tokens in the
+event of an emergency.
+
+Although early airlocks could take almost an hour to
+complete a full cycle, airlocks of TL9 and above can
+cycle in a minute or less. This time is reduced further
+by there being no need to acclimate to pressure
+differentials. Modern vacc suits can comfortably operate
+at a range of internal pressures, typically matching
+the environment that the user has just emerged from,
+eliminating the risk of decompression sickness.
+
+In addition to regulating pressure, airlocks can
+decontaminate an object before it is allowed on the
+ship. This is great for worlds that have known viruses,
+pollen and other irritants that can be harmful to the crew
+if brought aboard. The scanners in these areas are so
+precise that they can track microscopic parasites and
+bacteria. They routinely disinfect open wounds, as a tiny
+scratch could lead to a deadly infection if not treated
+before coming aboard. The airlock uses lasers, water and
+other detergents as needed to remove these and other
+hazardous substances before they can multiply in the
+confines of the ship and make the crew sick. Stewards or
+other crew who like to keep a clean ship find the dust and
+debris filtering extremely helpful, especially when paired
+with less hygienic crewmates or passengers.
+
+Airlocks are typically situated at or near the outer
+hull, preferably close to the ground. On many small
+ships they are at a minimum distance to the bridge
+to facilitate rapid boarding and take off. As a result,
+although most airlocks are a simple horizontal corridor
+with hatches on either end, some integrate access
+points above or below their main chamber. The same
+systems used for interdeck access can be applied,
+with an emphasis on resealing behind the user. For lift
+platforms this is trivial but stairs and ladders can both
+be complicated. Airlocks on a ship’s bottom or lower
+sides may hinge the floor or a wall, forming a boarding
+ramp or staircase when open. Ladders are less
+common for this but can help reach a horizontal airlock
+hatch that is well above the ground.
+
+Vacc suits are stored close to airlocks for
+expediency’s sake, typically either within the airlock
+or in lockers directly outside. The latter is common
+among exploration ships, who may wish to perform
+maintenance on their vacc suits while the airlock is
+in use or aboard ships with more than one external
+airlock leading to a common foyer. This setup allows
+more room for the crew to don their suits and prevents
+the airlock from becoming any larger than it needs
+to be. However, it will take up more tonnage and
+may limit access to the crew’s preferred suits should
+the area depressurise. In either case, emergency
+
+This decontamination process only affects the outer
+vacc suit or similar protection. Entering with a vacc
+suit on may lead to parasites and pathogens getting
+aboard if they ride inside the vacc suit. Some medical
+professionals insist that crew take off their vacc suits
+or disrobe when coming back from missions with a
+known pathogen exposure risk; this becomes standard
+procedure if routinely exploring unknown environments.
+Cargo airlocks and docking spaces do this too but
+simple cargo bay doors or ramps do not usually come
+with decontamination equipment, so crews on ships
+with these must stay vigilant when visiting areas with
+tainted atmospheres.
+
+SUBCRAFT DOCKS
+
+Subcraft are more common on larger ships, many of
+which stay in orbit and rely on them to make trips to a
+world’s surface. Small ships more often land directly
+
+Cargo & Docking Systems
+
+Completely internal airlocks exist as well. These are
+typically used to access subcraft or cargo bays, which
+may become depressurised over the course of their
+normal operation. Adding an airlock allows the crew to
+always access these areas, where they would normally
+need to repressurise the entire bay to permit access.
+Certain laboratories or other areas with potentially
+hazardous atmospheres include airlocks for safety.
+
+It is a mark of one new to space travel to be surprised
+by the sometimes noisy and aromatic decontamination
+process when passing through an airlock. Lower
+TL scanners often have cues that indicate when an
+inhabitant is being scanned, either through the whirring
+of a camera’s actuator or the light of a laser scanner.
+Most advanced models do away with this but some
+keep it intentionally. Projectors line the walls in several
+rows from floor to ceiling, hissing as they release the
+liquid or gases needed for decontamination.
+
+43
+
+

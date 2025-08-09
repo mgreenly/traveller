@@ -1,0 +1,92 @@
+MAINTENANCE AND REPAIR
+Many think of ship maintenance and repair as
+something an engineer or shipyard does while
+inconveniencing the crew, once a year or so. However,
+it is vital for all crew to have a basic understanding of
+simple maintenance and repair, especially on small
+or shorthanded ships. In an emergency, an untrained
+member of the crew may need to perform maintenance
+or repair in order to move the ship to a shipyard for
+major repairs and upgrades.
+
+ANNUAL VERSUS
+ONGOING MAINTENANCE
+
+‘Annual maintenance’ refers to putting into port for
+two weeks once per year, paying for a year’s worth
+of maintenance and having it all done at that time.
+If done properly, the ship should not need major
+maintenance for another year. Any Class A or B
+starport worth the classification can perform this
+service, using imported parts if they do not have
+a high enough TL to manufacture them locally.
+Ships with custom high-TL components still require
+maintenance at high-TL starports.
+By contrast, most of this book’s readers will have
+an engineer who does maintenance continuously
+throughout the year with a monthly parts budget,
+termed ‘ongoing maintenance’. This works just as well
+as annual maintenance, with minimal downtime and
+more ease in identifying problems before they become
+a serious concern. This is less practical for most noncommercial and/or large ships made in lower quantities,
+as their parts are frequently in shorter supply.
+The main advantages of annual maintenance are that
+the ship is not running while maintenance is performed,
+making it easier and safer to perform tests, and
+reducing the crew’s task load. Annual maintenance is
+recommended for ships without a workshop, although
+many small ship captains ignore this.
+Where to perform ongoing maintenance can be a
+challenge. Performing maintenance or repairs on a stillrunning reactor or drive has similarities to performing
+open-heart surgery without any form of anaesthesia.
+A ship resting in port can offline its systems with little
+
+124
+
+consequence, providing another point in favour of
+annual maintenance, although it is possible for ships
+to work around this by disassembling and overhauling
+systems not in use. In particular, the crew can work on
+the manoeuvre drive in jumpspace and the jump drive
+in realspace, although any engineer considering this
+would do well to finish their work before the ship needs
+to move; a trader sitting at the 100D limit without a
+functioning manoeuvre drive makes a tempting target.
+Most power plants have multiple reactors, primarily to
+allow for partial function should damage or accident
+disable one, but this allows an engineer to shut one
+down for maintenance while the others remain active.
+When turning these systems offline, most ships
+will keep to lockout-tagout procedures, the practice
+of making certain that all systems that can injure
+personnel are disabled while under maintenance.
+This is usually accomplished with physical locks on all
+relevant controls to prevent activation. Software locks
+can be used too but are seen as easier to accidentally
+unlock. This may be the primary difference between
+annual and ongoing maintenance. At the logical
+extremes, annual maintenance locks out the entire
+ship while ongoing maintenance does not. The truth
+is always in between; during annual maintenance
+some systems can still operate, while competent
+engineers performing ongoing maintenance still lock
+out systems occasionally but make an art of optimising
+and scheduling them to minimise disruption to ship
+operations. Some disruption is inevitable and safety
+procedures may seem like unnecessary formalities,
+but they should usually be complied with as most are
+written in the blood of dead crew.
+Another reason some ships favour annual
+maintenance is that maintenance requires tools which
+not all ships carry. This is an ill-advised cost-cutting
+measure as it leaves the ship unable to conduct
+emergency repairs but this has not prevented some
+captains from going without anyway. A properly
+stocked engineering section should have a standard
+starship engineer tool set for each engineer on
+board. The exact contents vary but a typical set
+includes multispectral vision goggles, an iris valve
+opener, a display and probes to test electronic and
+gravitic equipment, soldering gear, programmable
+
+

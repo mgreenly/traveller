@@ -1,0 +1,100 @@
+T
+
+6. DOCKING SPACE
+Many popular small ships are designed with an
+exploratory vessel separate from the main ship and
+these examples are no exception. All three have
+a docking space for an air/raft; the Animal has an
+additional docking space for a launch, while the
+Suleiman carries disposable probes.
+The Animal is likely the most interesting, courtesy of the
+aforementioned launch. Fitting a relatively large craft on
+a small ship resulted in a number of compromises; for
+one, the launch carries an ATV, causing maintenance to
+become even more complicated. With no way to remove
+the ATV from the launch while docked, any tools or
+spare parts must first be brought into the docking space,
+then into the launch and then the ATV’s hangar. Repairs
+are typically delayed until the launch can be moved
+outside, usually at a starport with adequate facilities.
+Comparatively, the air/raft dock is a much simpler affair,
+consisting of a sliding door on the dorsal side of the ship.
+However, its location just behind the Animal’s turret can
+make docking while in combat complicated.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+their means of access and, besides probe drones being
+much smaller, it is not unheard of for both deployment
+and retrieval to occur simultaneously. As a result, there
+will typically be two access hatches connecting to the
+same storage airlock. One will be a small-scale launch
+tube, using either electromagnetic or gravitic propulsion,
+where the other will typically be a long docking arm to
+reach for and clamp to approaching drones.
+Unlike the Animal and Suleiman, the Empress Marava
+allows its air/raft to be docked through a front-facing
+docking space on the lower deck, which means the
+air/raft can be docked in either nose-in or nose-out
+orientation. Whichever is used depends on the pilot’s
+preferences, many of whom are quick to defend them.
+Pilots that expect a stressful situation on landing will
+generally dock nose-out to facilitate rapid deployment,
+while those on ships with less exciting missions prefer
+the greater ease of docking nose-in.
+
+1. Air/raft (Empress Marava and Suleiman)
+2. Docking space hatch (Empress Marava and
+Animal)
+3. Launch (Animal only)
+4. Vehicle part storage
+5. Overhead docking space hatch (Suleiman only)
+6. Docking clamps
+7. Decontamination scanner
+8. Decontamination projector
+9. Vent for air filtration and pump
+10. Security camera and fire suppression projector
+
+The Suleiman’s air/raft docking bay – other than its
+position next to a workshop, making maintenance much
+easier – is largely identical to the Animal’s, including
+proximity to a dorsal turret. It is, however, unique in
+that it carries a number of probe drones. These are
+slightly distinct from vehicle docking bays, mostly in
+
+8
+
+10
+
+Ship Walkthrough
+
+3
+
+150
+
+R
+
+9
+2
+
+4
+
+6
+
+ANIMAL DOCKING SPACE
+
+7
+
+

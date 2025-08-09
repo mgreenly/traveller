@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Hostile Environment Vacc Suit: Hostile
 Ablat: A cheap alternative to reflec, ablat armour
@@ -108,7 +94,6 @@ suit covering the torso and upper arms and legs. Jack
 is better than ordinary clothing or bare skin when
 defending against blades but is useless against guns.
 
-
 Chameleon, IR (TL 12): This technology can be added
 
 to any full-body suit. It selectively bleeds heat to match
@@ -122,7 +107,5 @@ IR chameleon, vislight chameleon layers the surface of
 the armour with light-bending technology, making the
 wearer nearly invisible to the naked eye (DM-4 to spot).
 Vislight chameleon costs Cr50000.
-
-R
 
 

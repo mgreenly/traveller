@@ -44,7 +44,6 @@ Immediate Effects
 501–800 rads
 801 rads or more
 
-
 None
 1D damage, Nausea (-1 to all checks
 until medical treatment received)

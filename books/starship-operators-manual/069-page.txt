@@ -1,0 +1,117 @@
+do not send anything, as they detect signals emitted
+from targets, potentially including active sensor pings or
+reflected environmental signals such as sunlight.
+
+some ships, especially military, this information will be
+overlaid on viewports throughout the ship to give crew
+better situational awareness.
+
+Active sensors allow collection of more detailed
+information about the ship’s surroundings but make
+the ship more visible, where passive sensors are
+quieter but do not allow as much information. Passive
+scanners can track and range most objects near
+a ship in space. However, the greater precision
+that active sensors afford and the presence of
+transponders render stealth useless. This means that
+most ships run with active sensors.
+
+JAMMER
+
+COMMON SENSORS
+
+SOUND SENSOR
+
+Most starships install standard sensor suites. A
+discerning ship’s captain might want to know what
+each of those sensors does and any competent sensop
+should already know.
+
+RADAR AND LIDAR
+Radar is an umbrella term for a large class of basic
+tracking sensors. Radar – Radio Detection And Ranging
+– projects focused radio pulses in sweeping scans of an
+area and interprets the returned signals or echoes for
+information about an object’s size, distance and speed.
+Lidar is an optical version of radar. Many variants exist,
+for optimised long range and ground penetration.
+
+VISUAL SENSOR
+
+The visual spectrum remains the predominant way to
+display information from other sensors as all the data
+in the world is useless if the crew cannot interpret it
+easily, and vision is a primary sense for most known
+species that build starships. As a result, although the
+raw information is still available at a sensop’s console,
+all of a ship’s sensor input typically collates into a single
+visual display, with different sensors colour-coded. On
+
+Another sensor group found on most ships is a set of
+shielded microphones. While sound does not carry in
+a vacuum, ships are often in enough of an atmosphere
+to make it worth carrying, proving especially useful
+in monitoring for would-be intruders while in port.
+Advanced models are capable of identifying a variety of
+sounds, referencing a vast database to discern whether
+a rumble from a dormant volcano was a harmless
+twitch or a sign of imminent eruption. Most models are
+capable of acting as makeshift external speakers. Ship
+captains have found many uses for this feature, from
+threatening locals away from the hull to piping out a
+preferred music playlist when relaxing outside.
+
+NEUTRINO DETECTOR
+
+A simple case filled with a transparent variety of
+superdense, built around a specialised nuclear damper
+field. Without the nuclear damper, this case would have to
+be much larger, well beyond what a small ship can fit. The
+speed of light through superdense is much slower than
+the speed of light through vacuum, so neutrinos moving at
+the latter speed are moving faster than the former. When
+their course takes them through the box, this causes them
+to emit Cherenkov radiation – typically blue light – by a
+mechanism similar to sonic shock waves when objects
+move through air faster than the local speed of sound.
+Early TL versions use water or ice instead of superdense
+but the speed of light through these is faster, although still
+less than through vacuum, causing the light to be dimmer
+and the system less accurate.
+This system is crude next to what is in dedicated science
+ships and facilities, often picking up cosmic rays and
+other background radiation as interference, though it is
+a reliable early warning system for solar flares. It detects
+the presence of nearby stars as a backup for visual
+confirmation, such as when coming out of jump in the
+shadow of a large planet. It is not sensitive enough to
+reliably detect power plants except at very close range.
+
+Sensors & Communications
+
+One piece of equipment seldom mentioned is the
+scope. This is essentially a telescope, capable of
+seeing objects very far away, with a multispectral
+camera on the back end receiving light in wavelengths
+from infrared through ultraviolet. There is often some
+bias in the selection of frequencies, centred on
+whatever the sensor’s builders or expected operators
+consider their primary visual spectrum. Improved
+gravitic lensing is one of the primary ways this gets
+better at higher Tech Levels, until at TL14 it becomes
+‘visor’ technology, being much better correcting
+distortions that alter photons’ paths enroute from
+detectable objects, which includes gravitic lensing.
+
+The jammer directly affects sensors. By distorting
+the ship’s emissions and scrambling active sensor
+signals, it makes a ship harder to detect. As a result,
+this muddles the ship’s location; others will know
+that the ship is there but it will be harder to hit. Basic
+jamming capability is available at TL10, while a
+countermeasures suite is available at TL13, with an
+improved version at TL15.
+
+69
+
+

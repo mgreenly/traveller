@@ -26,10 +26,11 @@ The monthly mortgage payment is calculated by dividing the total purchase price 
 
 ### Life Support
 **Cost**: Cr1000 per occupied stateroom + Cr1000 per person not in low berth  
+**Luxury Life Support**: Higher costs for enhanced passenger comfort  
 **Frequency**: Every Maintenance Period  
-**Rules Reference**: Core Rules 2022, page 154
+**Rules Reference**: Core Rules 2022, page 154; Starship Operator's Manual, page 41
 
-Covers supplies for environmental systems, food, and water. Meals at this level are described as "rather spartan."
+Covers supplies for environmental systems, food, and water. Meals at this level are described as "rather spartan." Luxurious life support systems for high passengers can result in higher costs.
 
 ### Low Berth Support  
 **Cost**: Cr100 per occupied low berth  
@@ -50,23 +51,38 @@ Required for both jump drives and power plants. Unrefined fuel carries risks dur
 ### Maintenance
 **Cost**: 0.1% of total purchase price per year (÷ 12 for monthly)  
 **Frequency**: Every Maintenance Period (monthly), annual shipyard service  
-**Rules Reference**: Core Rules 2022, page 154
+**Rules Reference**: Core Rules 2022, page 154; Starship Operator's Manual, pages 124-125
 
 Regular maintenance prevents critical failures. Skipping maintenance risks equipment breakdowns and potential critical hits to ship systems.
 
-*Example: MCr37 Free Trader = Cr3,083 per month*
+**Examples from Starship Operator's Manual:**
+- Animal Safari Ship (MCr61.227): Cr5,103/month
+- Suleiman Scout (MCr36.9405): Cr3,079/month  
+- Empress Marava Far Trader (MCr54.1582): Cr4,513/month
+
+**Major Modifications**: Deckplan changes during annual maintenance can double or triple costs  
+**Rules Reference**: Starship Operator's Manual, page 129
 
 ### Crew Salaries
 **Standard Rates per Maintenance Period:**
 - Pilot: Cr6000
-- Astrogator: Cr5000  
+- Astrogator: Cr5000 (comparatively high salary due to specialized skills)
 - Engineer: Cr4000
 - Steward: Cr2000
 - Medic: Cr3000
 - Gunner: Cr1000
 - Marine: Cr1000
+- Purser/Quartermaster: Officer rates (comparable to pilot)
+- Loadmaster: General crew rates
+- Broker: Engineer or officer rates depending on role
 
-**Rules Reference**: Core Rules 2022, page 154
+**Dual Role Pay**: Crew performing multiple roles receive 75% pay for each role  
+**Rules Reference**: Core Rules 2022, page 154; Starship Operator's Manual, pages 86, 116, 123
+
+### Robot Crew Alternative
+**Robot Maintenance Costs**: Monthly maintenance expenses for robots used as crew replacements  
+**Cost-Benefit Analysis**: Compare monthly robot maintenance vs crew salary + life support costs  
+**Rules Reference**: Starship Operator's Manual, page 117
 
 ### Berthing Fees
 **Cost**: Varies by starport class (weekly rates)
@@ -81,6 +97,19 @@ Regular maintenance prevents critical failures. Skipping maintenance risks equip
 Roll once per starport and record for future visits. Costs are due weekly and vary wildly between locations.
 
 ## Additional Considerations
+
+### Food and Supply Operations
+**Monthly Food Resupply**: Required every four weeks for ongoing operations  
+**High Population/Agricultural Worlds**: Preferred resupply locations  
+**Menu Planning**: Variety prevents "menu fatigue" on long voyages  
+**Four Week Supply**: Standard storage for unknown destination travel  
+**Rules Reference**: Starship Operator's Manual, pages 102, 125
+
+### Emergency Equipment Costs
+**Vehicle Emergency Kits**: Required safety equipment replacement  
+**Medical Supply Restocking**: Anti-radiation pills, first aid supplies  
+**Safety Equipment Maintenance**: Life support redundancy systems  
+**Rules Reference**: Starship Operator's Manual, pages 34, 125
 
 ### Cargo Operations
 - **Speculative Trade**: Purchase goods at one world, transport and sell at another

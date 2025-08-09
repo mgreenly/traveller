@@ -1,4 +1,3 @@
-T
 
 COLLISIONS
 
@@ -41,18 +40,6 @@ VEHICLE WEAPONS
 These are among the more common weapons fitted
 to vehicles in an effort to bring heavier firepower to
 the battlefield.
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 All these weapons require the Heavy Weapons
 (vehicle) skill. Note that, for these weapons, ranges
@@ -109,9 +96,6 @@ Light Autocannon
 
 142
 
-R
-
-
 TL
 8
 6
@@ -158,7 +142,5 @@ Blast 10
 Auto 3
 AP 10
 Auto 3
-
-R
 
 

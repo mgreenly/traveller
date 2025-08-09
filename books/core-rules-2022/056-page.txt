@@ -1,4 +1,3 @@
-T
 
 13
 
@@ -80,17 +79,6 @@ Melee (blade)
 Athletics (strength)
 Athletics (strength)
 
-
-V
-
-E
-
-L
-
-L
-
-E
-
 SURVIVAL
 END 7+
 STR 8+
@@ -122,8 +110,6 @@ Fixer: You can arrange anything – for the right price.
 
 56
 
-A
-
 Career progress
 
 Every society has its bad apples and even in the far future
@@ -131,8 +117,6 @@ punishments usually take place within faceless institutions
 where criminals can be conveniently forgotten.
 
 13
-
-R
 
 RANK
 
@@ -182,7 +166,5 @@ Deception
 Streetwise
 Stealth
 Admin
-
-R
 
 

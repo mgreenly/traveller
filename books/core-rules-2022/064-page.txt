@@ -1,18 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Each Skill is described using the following format.
 For example, Erik and Kathya are trying to force open
@@ -66,7 +52,6 @@ set a Task Difficulty and then decide whether a
 Boon or Bane need be applied. Any necessary
 Dice Modifiers will be suggested by the rules.
 
-
 Description: What the skill does.
 Specialities: If the skill has several specialities, they are
 listed here. When a Traveller reaches level 1 in a skill,
@@ -113,7 +98,5 @@ Riding a Horse into Battle: Difficult (10+) Animals
 the Traveller can control the horse for a number of
 minutes equal to the Effect before needing to make
 another check.
-
-R
 
 

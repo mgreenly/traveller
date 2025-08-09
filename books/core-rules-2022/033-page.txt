@@ -75,7 +75,6 @@ Events
 11
 12
 
-
 EVENT
 Disaster! Roll on the Mishap table but you are not ejected from this career.
 Trapped behind enemy lines, you have to survive on your own. Gain one of Survival 1, Stealth 1,

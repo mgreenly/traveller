@@ -1,8 +1,15 @@
 #!/bin/bash
+# Remember the current directory
+original_dir="$PWD"
+
+# Change to the git repository root directory
+cd "$(git rev-parse --show-toplevel)"
+
 # Check that a commit message was provided
 if [ -z "$1" ]; then
     echo "Error: main requires a commit message"
     echo "Usage: main Your commit message here"
+    cd "$original_dir"
     exit 1
 fi
 
@@ -29,3 +36,6 @@ git checkout wip
 
 # Reset wip branch to exactly match main (this makes wip identical to main)
 git reset --hard main
+
+# Return to the original directory
+cd "$original_dir"

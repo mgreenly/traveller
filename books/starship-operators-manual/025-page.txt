@@ -1,0 +1,93 @@
+LIFE SUPPORT
+Every spacecraft, even shuttles that only travel
+between a world’s surface and orbit, must provide
+certain minimum services to keep their crew and
+passengers alive and functional. Should any of
+these systems fail, the crew – and eventually the
+ship – will diminish. Even entirely robotic ships must
+make concessions to life support functions, such
+as scrubbing dust, shielding against radiation, and
+providing thermal regulation.
+
+THE BASICS
+The following systems are present on virtually all
+spacecraft. Even robotic spacecraft not designed to carry
+living beings have uses for most of these, in particular
+radiation protection. Artificial gravity, as detailed in the
+Gravitics chapter, is not technically part of the basics
+as a lack of gravity is less immediately fatal than a lack
+of air. Most spacecraft place internal artificial gravity
+controls with general environmental controls.
+Although some elements of life support can be
+controlled by their occupants – with safeguards in
+place to prevent involuntary manslaughter – much of
+a ship’s life support will be under centralised control.
+This is used to match a ship’s overall environment,
+such as might be found in passageways or common
+areas, to a given world. When travelling from one
+world to another, as starships often do, the shipboard
+environment may be slowly changed from the origin
+world’s environment to the destination’s, giving time
+for passengers to acclimatise.
+
+OXYGEN AND VENTILATION
+The most well-known hazard of space is a lack of
+breathable air. Humans consume over half a kilolitre
+of oxygen per day, which at typical concentrations
+means going through about 11 kilolitres of air,
+assuming a standard nitrogen/oxygen mix, per day. A
+lack of oxygen will kill a typical adult human in about 7
+minutes. These numbers are within a factor of 10 for
+most other known sophonts. Thus, oxygen circulation is
+of primary importance to life support.
+Short-term air storage is not a major concern.
+Starships are highly buffered through large open
+spaces. It is theoretically possible for an Empress
+
+Marava with standard atmosphere mix, a full standard
+human crew, no passengers and an empty but
+pressurised cargo hold to take off, go through a jump
+and land with no functional air circulation. Attempting
+to do so would showcase the reason why starships
+have life support systems.
+Given that six-person crew with no filtration and a
+10-day transit from ground-to-ground, operating the
+ship from the cargo bay and ignoring all other life
+support needs for this example, oxygen content will
+drop by 10 percent, equivalent to almost a kilometre
+above sea level on a 1G surface gravity world with a
+standard atmosphere. This is manageable. What is
+less manageable is the carbon dioxide buildup. In short
+order, the air will begin to become stale and the partial
+pressure of CO2 will begin to rise.
+Ordinarily, starship air has a carbon dioxide
+concentration of less than a tenth of a percent. On
+average, humans breathe out a kilogram of CO2 per
+day, less if doing nothing but lying in a bunk sleeping.
+That six-strong crew would generate 60 kilograms
+of CO2, increasing its concentration to about five
+percent. This will cause headaches, dizziness, impaired
+judgement and possibly unconsciousness. It might go
+unnoticed as it would slowly take effect over the 10
+days, although it would be immediately noticeable to
+anyone walking in from a room with fresh air. Should
+the CO2 concentration rise to six percent, it would be
+lethal. Without ventilation fans or other air circulation,
+CO2 will pool at low points in the ship’s gravity, where
+it can easily exceed six percent concentration and risk
+killing anyone who walks in without holding their breath.
+Those who find themselves in this situation are
+advised to break out the vacc suits and oxygen
+candles that are there precisely to keep this sort of
+emergency from getting worse.
+In the interest of delaying such an emergency, one
+of the main things that a shipyard will check during
+maintenance is the air filtration system. On some ships,
+the number of dedicated sensors is higher on the
+ventilation system than the jump drive. While standard
+staterooms have the same equipment as the normal
+ship-wide ventilation, many luxury staterooms have
+
+25
+
+

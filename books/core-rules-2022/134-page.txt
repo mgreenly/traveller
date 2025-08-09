@@ -1,20 +1,4 @@
-T
 
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
-
-R
 
 The Explosives skill is used with explosives. Multiply
 the damage of the explosives by the Effect of the
@@ -105,6 +89,5 @@ explodes only along the horizontal axis.
 Pocket Nuke
 
 134
-
 
 

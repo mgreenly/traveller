@@ -1,0 +1,106 @@
+SPECIALISED AND EXOTIC SENSORS
+TRANSPONDER MODES
+Most transponders across Charted Space
+can switch between active, passive and
+covert modes, with military or otherwise
+state-affiliated ones capable of full IFF mode.
+The crew is never supposed to turn off
+transponders without full IFF, although covert
+mode is close enough for most purposes.
+ACTIVE: An active transponder is always on and
+sending out pings. While the other modes only
+transmit directionally in response to the received
+ping, active mode broadcasts omnidirectionally.
+PASSIVE: A passive transponder does not send
+out any pings but will respond if pinged. Many
+starports responsible for traffic control will
+routinely ping empty space, making this setting
+less than useful for sneaking up on worlds.
+COVERT: A covert transponder does not send
+out any pings. It will only respond to pings with
+authorised command codes; for ships with
+Third Imperium compliant transponders, their
+codes are known to Imperium warships and
+licensed starports. It responds directionally,
+so as not to give away the ship’s location to
+pirates. Depending on how isolationist the local
+world is, this may allow a ship to sneak past
+local defence forces.
+
+CHEMICAL ANALYSER
+
+Sometimes called a ‘sniffer’, ‘multispectrometer’
+or ‘multispec’, the analyser uses an array of small
+spectrometers to quickly analyse the chemical profile
+of whatever is right in front of it, most often a world’s
+atmosphere. From this analysis, it can provide basic
+information such as percentage of diatomic oxygen
+molecules and the presence of trace contaminants.
+Using this and other data, a sensop might be able to
+determine if a world has biological hazards, chemical
+corrosives or even a civilisation. It can also warn of
+sudden shifts, such as if a ship is about to run into an
+acid cloud. Higher TL versions extend how far forward
+it can analyse to improve the quantity of data, along
+with adding densitometers and other capabilities,
+although even at TL15 this remains far shorter ranged
+than the ship’s other sensors. These instruments are
+notably poor at analysing solid materials beyond the
+surface layer, unless obtaining samples and grinding
+into dust for analysis. An analyser can measure trace
+gases around a planetoid or even space. Hydrographic
+versions exist, optimised to analyse oceans.
+
+NEURAL ACTIVITY SENSOR
+
+An advancement of the life scanner, this sensor can
+detect neural activity. Although it is largely an analysis
+suite, unlike the life sensor this does have some direct
+sensing capability, using very sensitive electromagnetic
+field detectors as well as direct psionic detectors. As
+a survey sensor, it can tell a scout crew if a world has
+creatures with brains and how advanced those brains are.
+As a search and rescue sensor, it can inform users if and
+where to find the injured and casualties. Certain marines
+and pirates use it to locate crew on a ship they are about
+to board, to take out all possible resistance. Some of
+the most bloodthirsty pirates use it to aim their ship’s
+weaponry, killing everyone on the ship before they board
+to take their prize. As of TL15, this sensor is not advanced
+enough to imitate advanced telepathy, fictional dramas
+about using it as an interrogation device notwithstanding.
+
+FIELD SENSOR
+Some animals and sophonts have a sense
+called awareness, which is the ability to see
+electromagnetic fields. This sensor is its analogue,
+multi-spectrum detectors sensitive to electric and
+magnetic fields. In addition to being a backup for life
+and neural activity sensors, crews use this sensor for
+
+Sensors & Communications
+
+FULL IFF: Full control of the transponder, with
+facilities to automatically interrogate and respond
+to allied ships’ transponders, no matter how it
+is configured for civilian and enemy vessels. In
+addition to just turning it off fully, vessels with
+an IFF-capable transponder can set up false
+identities. At extreme ranges where a pirate
+ship’s sensors might only have a transponder
+signal to go off of, this can disguise a 2,000 ton
+frigate as a 200 ton merchant trader to ships with
+lazy sensops. Full IFF is generally restricted to
+naval vessels and accredited mercenaries but
+is a standard feature on IISS vessels. This is
+supposed to be removed prior to them being sent
+on detached duty but is sometimes overlooked.
+
+Beyond the standard packages are specialised and
+exotic sensors. A ship’s captain might find these on
+custom ships, special-purpose surveyors, military
+reconnaissance vessels, or alien craft.
+
+71
+
+

@@ -1,0 +1,101 @@
+their own dedicated and improved ventilation system
+to give the highest quality of air, optimised minute-byminute to the current activities of the occupants, such
+as giving more oxygen during exercise.
+
+may be subject to spaceport regulations such as being
+unable to board passengers or not being permitted to
+take off at all. Vacc suits and rescue balls do not count
+as life support for this purpose.
+
+Designers distribute redundant air storage and
+treatment units across even small ships, in case one
+malfunctions. One per airlock, stateroom, engineering
+space, medical bay and bridge is standard, with some
+passenger-focussed ships adding one per common
+area. Ships with many rooms may share one unit per
+group of staterooms or equivalents such as brigs and
+barracks; one large air treatment unit for a block of
+brigs is common, both for efficiency and because it
+allows placement that does not require a maintenance
+technician to enter a cell to service the unit.
+
+More numerous than air filtration systems are the air
+circulation systems, microgravitic units that ensure air
+keeps flowing gently through vents. These are shortrange unfocused tractors, sometimes supplemented by
+fans. Constant strong breezes would be an annoyance
+to most sophonts but pockets of unbreathable carbon
+dioxide floating around are invisible. Given the presence
+of artificial gravity, most ships use circulation designs
+that stem from pre-spaceflight mining technologies to
+deal with ‘bad air’, though needing far less power per
+volume served. More sophisticated ventilation, such
+as in luxury staterooms, actively scans the air to find
+and quickly remove unwanted contaminants. Some
+captains request specialised air circulation systems to
+be mounted behind the captain’s chair so they can look
+impressive with a breeze blowing from behind, more
+often triggered by a subordinate or program monitoring
+the captain’s communications than by a button push or
+other explicit action on the captain’s part. Exercise rooms
+make more common use of this directional ventilation
+capability, to cool the room’s users and remove odours.
+
+While all ships store air as a backup, particularly as
+part of airlock systems, most modern ships have what
+amounts to highly refined algae to break carbon dioxide
+into oxygen. As noted under Water Recirculation,
+‘reserve’ oxygen is most often stored bound up into
+water. So long as power and water are provided and
+the algae kept safe, a ship can keep its crew breathing
+indefinitely. Oxygen storage for immediate use is
+primarily in high pressure tanks, with oxygen candles
+as a backup. Any ship burning oxygen candles can
+be considered to be using emergency supplies, as
+it implies a crisis no matter how the captain may try
+to spin the situation. Should this captain attempt to
+operate their ship without functional life support, they
+
+LIGHTS
+Keeping the darkness of space away is vital to avoid
+accidents. Areas the crew traverses daily can seem
+very different when unlit. External windows only provide
+
+Iradiance (W/m2/nm)
+1.5
+
+SYNSTARLIGHT SPECTRUM
+TERRA VERSION
+
+Life Support
+
+1
+
+0.5
+
+0
+
+250
+
+500
+
+750
+
+1000
+
+1250
+
+1500
+
+1750
+
+2000
+
+2250
+
+2500
+
+Wavelength (nm)
+
+27
+
+

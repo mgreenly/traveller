@@ -56,7 +56,6 @@ a Blast weapon but targets may dive for cover. Cover
 may be taken advantage of if it lies between a target
 and the centre of the weapon’s Blast.
 
-
 Stun: These weapons are designed to deal non-lethal
 damage, incapacitating a living target rather than killing
 it. Damage is only deducted from END, taking into

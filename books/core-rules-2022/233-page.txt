@@ -48,7 +48,6 @@ Check: Average (8+) Awareness check (1D
 minutes, PSI)
 PSI Cost: 3
 
-
 PSI points may be converted to STR points on a
 temporary basis. The Traveller makes the commitment,
 reduces their available PSI by a specified number of

@@ -1,20 +1,7 @@
-T
 
 4
 
 drifter
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
 
 Career progress
 
@@ -124,7 +111,6 @@ Stealth
 Streetwise
 Survival
 
-
 Ranks and bonuses
 
 traveller creation
@@ -136,8 +122,6 @@ Note: Use you assignment skill table for basic training,
 not service skills.
 
 4
-
-E
 
 SCAVENGER
 Pilot (small craft)
@@ -194,7 +178,5 @@ Leadership 1
 Warlord
 
 —
-
-R
 
 

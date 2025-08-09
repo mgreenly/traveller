@@ -1,0 +1,108 @@
+standard service offered as part of annual maintenance
+by Class A or B starports, since it involves partially
+disassembling the ship anyway.
+Costs depend on the nature of the revisions. If they are
+performed during the annual maintenance, and their
+cost scales alongside this, it is common to price this
+service as a modifier to the cost of that maintenance.
+Any changes that move major systems, such as drives
+or power plants, or involve changes to the outer hull,
+such as sensors, weapons and airlocks, will at the very
+least triple the maintenance cost, and usually charges
+will be much higher. Any changes not involving these
+components may only double the costs. This only
+covers moving around existing components; adding,
+removing or resizing components has a different price
+and schedule. If a ship has a salvaged component,
+it can be installed as a deckplan revision, with the
+exception of standard turret weapon mounts. Being
+relatively easy to remove and install, turret weapons
+are often installed for free with purchase so long as the
+ship has space available. Barbette mounts and larger
+weapons do not get this benefit.
+The owner must submit all planned revisions before the
+work begins. There is no capability to accommodate
+changes once work starts, save by paying full price and
+starting the work period anew. Many a noble paid the
+extra cost without blinking but raged at the prospect
+of being without their ship for one more day, not
+comprehending why their request caused such delays.
+
+Those who wish to avoid these costs should purchase
+a ship built for their preferred missions. While a
+shipyard can theoretically modify any ship to a
+shipowner’s or crew’s needs, researching the options
+can keep the cost down. For example, it is less
+expensive to build a Seeker than to build a Suleiman
+
+When modifying a ship, care must be taken to leave the
+ship spaceworthy. One noble loved his Animal-class so
+much that rather than trade it in or buy a second ship,
+he paid many times extra on a low-tech world (which
+lacked trained safety inspectors, who had objected to
+his plans at the first starport he tried) to have a large
+hatch installed between the launch hangar and the
+holding tank so he could put a large live animal in there.
+This seemed to work until the hatch seals gave way
+while the hangar doors were open in orbit, resulting in
+explosive decompression.
+
+SHIP RETIREMENT
+
+A starship with good maintenance that never suffers
+much damage and serving a purpose that remains
+viable can theoretically last for 1,000 years or more.
+The very few actual 1,000-year-old ships typically
+serve mundane roles for which demand never went
+away or are maintained as functioning museum
+ships. Most examples rarely have any original parts
+aside from sections of the hull, with enough replaced
+material to make a new ship several times over.
+When wanting greater capability beyond what it is
+practical to modify a ship for, the ship’s owners can sell
+it or have another vessel constructed. Ships whose
+owners fail to pay their mortgages wind up sold off if
+they are not stolen, lost, or destroyed first. This change
+in ownership does not directly affect the lifespan of a
+ship, although statistically ships that transfer owners
+this way see poorer maintenance overall.
+Excessively damaged or worn down ships eventually
+wind up in the hands of shipbreakers, performing
+what is sometimes termed ‘final annual maintenance’
+as the procedure is quite similar; systems are
+dismounted and extensively tested, although with
+an eye toward resale rather than reinstallation.
+There are occasions where, for legal, financial or
+sentimental reasons, the owners want to retire and
+replace a damaged ship with another but wish to act
+as if it was the same ship. In these cases, the new
+ship gets priority for reusable components of the old
+vessel and transfers the nameplates over. However,
+the Imperial registry is for a new ship with the same
+name, recognised as a separate entity.
+
+Maintenance and Repair
+
+These revisions are expensive because of the extra
+work involved. For example, converting two adjacent
+staterooms into one large luxury stateroom will require
+removing a wall and entirely rearranging the interior.
+While this may seem simple, the shipyard will have to
+move wiring, pillars, pipes, air ducts and extend larger
+items. While adding a new airlock may appear easy, a
+standard airlock may not fit the area so the shipyard will
+need to resize it, not to mention altering the outer hull,
+starting with moving any sensor nodes and jump drive
+emitters, then tuning them to work optimally in new
+locations. Even replacing the sink in the galley with a
+deeper one often requires restructuring the piping and
+widening the cabinet.
+
+and then convert it into a Seeker. Regardless, many
+small ship owners find themselves in possession of a
+ship not optimised for their intended purpose, in which
+case conversion may make more sense.
+
+129
+
+

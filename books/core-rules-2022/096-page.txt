@@ -1,10 +1,5 @@
-T
 
 Urban Encounters
-
-A
-
-V
 
 D66 Encounter
 11
@@ -69,17 +64,6 @@ Media team or journalist
 Encounters and dangers
 96
 
-R
-
-
-E
-
-L
-
-L
-
-E
-
 Security Patrol
 Ancient building or archive
 Festival
@@ -99,7 +83,5 @@ Unusually empty or quiet street
 Public announcement
 Sports event
 Imperial Dignitary
-
-R
 
 

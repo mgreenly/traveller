@@ -1,22 +1,7 @@
-T
 
 3
 
-R
-
 citizen
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Career progress
 
@@ -145,7 +130,6 @@ Drive
 Survival
 Recon
 
-
 Ranks and bonuses
 
 traveller creation
@@ -204,7 +188,5 @@ Advocate 1
 Director
 
 SOC +1
-
-R
 
 

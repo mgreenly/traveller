@@ -1,4 +1,3 @@
-T
 
 8
 
@@ -20,10 +19,6 @@ Flight: You are a pilot of a shuttle, fighter or other
 light craft.
 
 traveller creation
-
-V
-
-E
 
 SURVIVAL
 INT 5+
@@ -51,10 +46,6 @@ Cr10000
 Cr20000
 Cr50000
 Cr50000
-
-L
-
-E
 
 ADVANCEMENT
 EDU 7+
@@ -135,9 +126,6 @@ Pilot (small craft)
 Astrogation
 Electronics
 
-
-L
-
 Mustering out benefits
 
 Qualification: INT 6+
@@ -145,8 +133,6 @@ DM-1 for every previous career
 DM-2 if you are aged 34 or more
 
 36
-
-A
 
 Career progress
 
@@ -157,8 +143,6 @@ lawless elements in the interstellar trade channels.
 
 8
 
-R
-
 OFFICER
 (COMMISSIONED ONLY)
 Leadership
@@ -167,7 +151,5 @@ Pilot
 Melee (blade)
 Admin
 Tactics (naval)
-
-R
 
 

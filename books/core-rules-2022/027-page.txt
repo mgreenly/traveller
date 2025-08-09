@@ -122,7 +122,6 @@ Events
 11
 12
 
-
 EVENT
 Disaster! Roll on the Mishap table but you are not ejected from this career.
 Political upheaval strikes your homeworld and you are caught up in the revolution. Gain either

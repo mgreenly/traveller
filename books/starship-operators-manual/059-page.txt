@@ -1,0 +1,113 @@
+●
+
+Once all of that is done and the individual
+identified, go through the list of people approved
+to access the door. IF (any of them match) THEN
+(open the door) ELSE (leave the door closed).
+
+All the above, including many further levels of detail
+omitted here, is done in a fraction of a second. Those
+crew who configure the access lists only need to think of
+it as ‘door control’ and need not consider all these layers.
+Tricking the cameras into thinking there is a personlike object with features matching an authorised
+person will open a door. To counter this, the cameras
+are difficult to deceive and the list of features is hard
+to fake. Likewise, eye injury or an eye-covering mask
+may prevent a door from opening for an authorised
+person, instead alerting the bridge to an unrecognised
+person-like object. This feature can be disabled for
+a costume party or when the crew is wearing vacc
+suits that do not show their faces well. Some ships
+assign permissions to certain vacc suits with easyto-recognise identifiers, assuming that only their
+assigned person will wear them.
+
+SECURITY
+
+Despite the centrality of a ship’s computer to its
+operation, there are those, especially from low-TL
+worlds, who dismiss the importance of cybersecurity,
+focusing instead on securing the actual ship. Likewise,
+there are those who believe that sufficient cybersecurity
+can guard against any threat, remote or physical. They
+are both mistaken. Computer security and physical
+security are intrinsically linked – when one fails, the
+other is soon to follow.
+
+CYBERSECURITY
+
+It is easy to overbalance confidentiality over
+availability or vice versa. Such a system should not
+be considered secure and usable. It does no better
+to forbid anyone, even a ship’s engineers, from ever
+starting up the ship’s main power plant than to allow
+anyone, perhaps a pirate on a nearby ship, to shut
+that power plant down at any time.
+
+Likewise, most attacks are along one of three lines:
+● FORGERY: Guessing or stealing someone’s
+credentials without that user’s active assistance.
+● SOCIAL ENGINEERING: Tricking an authorised user
+into opening access or providing secure information.
+● CRACKING: Exploiting flaws in the system.
+While there are more insidious attacks, they are rarely
+encountered outside of a military context. Most small
+ship crew need only defend against these three forms.
+Anti-forgery advice mostly falls upon those who set up
+and administer computer systems but an understanding
+of the basics can limit complaints. Most flavours of
+authentication use one of three factors: something the
+user knows, something the user is, or something the
+user has. If a system needs extra security, use more
+than one of these factors. Requiring two passwords
+is not much better than requiring one, but requiring a
+password in addition to a biometrics check or keycard
+is far more secure.
+Media portrayals aside, good quality biometric scanners
+require signs of life, not just the presence of a specific
+body part. Aside from deterring bloody-minded pirates
+trying the simple solution, it is harder to forge a living
+organism with just the right eyeball or thumb than
+to print an inorganic replica of an organ. High TL
+biomanufacturing facilities are capable of this but even at
+high TLs, most attackers do not have their own factories
+with which to grow custom tools for each attack.
+It is widely known to not publicly post access information
+such as passwords, except for systems supposed to be
+open to anyone who can see the postings. While a certain
+minimum complexity is needed to prevent guessing, such
+information should not be so complex that those who
+require access cannot remember it. Group accounts with
+shared authenticators should not be used if possible,
+instead assigning roles and permissions to individual
+accounts. If a computer uses biometrics, they should
+make sure to use a form that will be recognised through
+typical conditions, such as not using a voiceprint scanner
+that will not recognise a sick crewmember. If using
+physical tokens such as a keycard, there should be a
+system by which a given token can quickly and easily be
+declared missing or stolen.
+
+The Computer
+
+Cybersecurity is the art of keeping computer systems
+secure. The three basic principles of cybersecurity are:
+● AVAILABILITY: Information should be available to
+those who are supposed to have access to it.
+● CONFIDENTIALITY: Information should not be
+available to those who are not supposed to have
+access to it.
+● INTEGRITY: Information should be correct and
+trustworthy, protected from corruption and
+unauthorised changes.
+
+There are three main steps to accomplish these ends:
+● AUTHENTICATION: Prove that a user is who the user
+claims to be.
+● AUTHORISATION: Confirm or deny whether a given
+user has the authority or right to do a certain thing.
+● NONREPUDIATION: Maintain trustworthy evidence of
+what each user did.
+
+59
+
+

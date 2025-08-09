@@ -1,0 +1,85 @@
+8. POWER PLANT
+
+In many ships within the Third Imperium, particularly
+smaller ones, the power plant, jump drive and
+manoeuvre drives are co-located in the engineering
+section, for the sake of convenience. As the manoeuvre
+drive is traditionally aft, this places the jump drive and
+power plant there too. Note that a great deal of tradition
+is involved here, as there is no one place aboard a ship
+that the power plant must be.
+
+6
+
+2
+3
+
+The Animal’s power needs, greater than the other two
+vessels, demanded a compromise between two schools
+of thought within naval architecture; whether it is better
+to use an array of individual cells or combine them
+into one larger power plant. It carries two individual
+power plants, either one of which is sufficient to run
+the ship’s essential systems, which when combined
+can run most of the ship’s systems simultaneously,
+allowing either to be turned offline for maintenance or
+repair without putting crew at risk. The corridor between
+these two plants allows easy access to either, rendering
+maintenance significantly easier but their close proximity
+can result in one hit disabling both.
+
+1
+
+ANIMAL AIRLOCK
+8
+
+4
+9
+
+3
+
+5
+1
+7
+
+2
+
+SULEIMAN AIRLOCK
+
+6
+
+1
+
+The Empress Marava’s power plant resembles the
+Animal’s, despite its much lower power demands.
+It is likewise divided into two but they are located in
+disparate locations to port and starboard. This was
+likely done to accommodate larger cargoes but also
+allows for greater survivability. However, the limited
+power generation of each can handle little more than
+basic life support, so any crew anticipating meaningful
+combat would be well-advised to upgrade them.
+
+Ship Walkthrough
+
+2
+7
+
+The Suleiman, perhaps as a result of Vilani influence,
+echoes the original Fusion+ design. All individual cells are
+concentrated into a single plant, leading to an appearance
+not entirely dissimilar to internal combustion engines.
+Although this resulted in impressive redundancy and
+ease of maintenance, it lacks something in capacity.
+Should the manoeuvre and jump drive be used at full
+draw at the same time, essential ship systems must be
+throttled, including sensors and weapons. This is rarely
+a severe problem but is enough of one that some crews
+have opted to install high-efficiency power cells to charge
+the jump drive instead of relying on the power plant.
+
+EMPRESS MARAVA AIRLOCK
+
+153
+
+

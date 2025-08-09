@@ -1,0 +1,124 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+SIZE CLASSES
+the direction of forward motion aligns with the ship’s
+gravity, perhaps making ‘fore’ and ‘dorsal’ the same. In
+some cases there is no distinct ‘port’ or ‘starboard’, while
+others designate ‘fore’ based on some feature that is
+along an edge of the ship such as a primary docking bay.
+BOW: Nose of the ship. The direction the ship is usually
+moving in when underway. FORE is toward the bow.
+STERN: Rear of the ship. The direction the ship is
+usually moving away from when underway. AFT is
+toward the stern.
+DORSAL: Top surface of the ship, relative to ship’s gravity.
+VENTRAL: Bottom surface of the ship, relative to ship’s
+gravity.
+PORT: Left side of the ship, when facing the bow and
+the dorsal side is above you.
+STARBOARD: Right side of the ship, when facing the
+bow and the dorsal side is above you.
+
+SHIP TYPES
+There is a widespread but technically incorrect trend to
+refer to the Suleiman as ‘the Type S class’, and to the
+Animal as ‘the Type K class’. In truth, there is no such
+thing as ‘the’ Type S or Type K. A ship’s type refers
+to its primary mission. The Imperial Navy controls the
+most widely used registry of mission types, such as C
+for cruisers. Further codes distinguish subtypes, such
+as CL or CA. The registry of mission types changes
+from time-to-time, so outside the core mission type
+codes, a ship that had one type code some time ago
+might have a different one now.
+
+Introduction
+
+It has become common to assign mission type codes
+to civilian ships to achieve universal coverage. A
+Suleiman is a scout, therefore its mission code is S, so
+it is a Type S. The Serpent class is a scout, therefore
+it is a Type S as well. However, the Suleiman class is
+much more widely known, so mostly when people hear
+‘Type S’ they think of a Suleiman.
+
+6
+
+This is particularly relevant to the Empress Marava
+class. Trader ships are Type A. Jump-2 capable
+trader ships are Type A2. The Empress Marava is
+a well-known Type A2 but so is the Hero, a jump-2
+version of the Beowulf. Since ‘the Type A2 class’
+could refer to either the Hero or the Empress
+Marava, not to mention other jump-2 capable trader
+ship classes of similar specification, 'the Type A2
+class’ is ambiguous on top of being incorrect.
+
+Starships are traditionally referred to as being in
+the adventure, battle, fleet or world classes. Their
+definitions have varied but are as follows in the modern
+Third Imperium:
+● Spacefaring vessels less than 100 displacement
+tons are small craft. Being too small to have
+functioning jump drives, they cannot be starships.
+● Any spacecraft at least 100 displacement tons
+without a jump drive is a big craft, if there is a need
+to distinguish it from small craft, but is often just
+called a boat. Patrol boats and system defence
+boats, most often run by local law enforcement
+and military respectively, tend to be those of most
+concern to Travellers. Others are more often
+concerned with transport boats, asteroid mining
+boats and other such components of a high
+technology system’s economy.
+● Any ship of less than 2,500 displacement tons is
+sometimes referred to as adventure class. This is
+by far the majority of all ships in Charted Space
+and scouts, traders, personal ships and others go
+in this category. Most used starship sellers deal
+exclusively in this size.
+● Larger than the adventure class but smaller than
+250,000 tons is the battle class. Here lie battleships,
+cruisers, most large transports and freighters,
+jump tenders and other ships that operate within
+established interstellar infrastructure. In many cases,
+the complete list of systems they will ever visit is
+known before construction begins. Most medium
+and high population worlds with much interstellar
+trade see routine visits by ships this large.
+● Beyond that but smaller than 1,000,000
+displacement tons is the fleet class. Only large
+polities such as the Third Imperium build ships
+of this size for military use. More common are
+the largest of freighters and transports built by
+megacorporations, plying the wealthiest trade
+routes where efficiencies of scale can be fully
+exploited. Most large colony ships fall in this class.
+● All larger ships make up the world class.
+These are rare titanic things of legend, be they
+superweapons or carriers of entire populations.
+Even among those who travel the stars for a
+living, most never encounter one outside of
+fictional or historical depictions.
+As with ship type codes, these terms were originally
+military, but usage spread over time. They remain in use
+even if a 500,000 ton colony ship might not lead a fleet
+and a 200,000 ton freighter will seek to avoid battle.
+
+R
+
+

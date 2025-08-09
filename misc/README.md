@@ -5,9 +5,11 @@ This directory contains essential gameplay aids, reference tables, and detailed 
 ## Table of Contents
 
 ### Rules and Explanations
+- [Combat Rules](./combat.md) - Combat mechanics and procedures
 - [Starship Expenses](./expenses.md) - Complete breakdown of monthly starship operating costs
 - [Law Levels Explained](./law-levels.md) - Detailed explanation of law levels and their effects on gameplay
 - [Red Systems (Red Zones)](./red-system.md) - Rules and implications of Red Zone travel restrictions
+- [Skill Checks](./skill-checks.md) - Skill check procedures and difficulty levels
 
 ### Equipment
 - [Personal Gear](./personal-gear.md) - Equipment statistics and availability

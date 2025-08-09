@@ -1,4 +1,3 @@
-T
 
 SKILLS PACKAGES
 
@@ -9,18 +8,6 @@ ensures your group will at least have basic competency
 in the situations that will come up in the campaign.
 
 traveller creation
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 When you have collectively decided which skill package
 is most suitable for the style of play and campaign you
@@ -83,8 +70,6 @@ Gunner 1, Medic 1 Persuade 1, Pilot 1, Stealth 1
 
 50
 
-R
-
 Electronics 1, Medic 1, Leadership 1, Heavy
 Weapons 1, Gun Combat 1, Gun Combat 1, Stealth
 1, Recon 1
@@ -97,7 +82,6 @@ Skills:
 
 Admin 1, Advocate 1, Deception 1, Diplomat 1,
 Electronics 1, Persuade 1, Stealth 1, Streetwise 1
-
 
 Advocate 1, Astrogation1, Broker 1, Diplomat 1,
 Electronics 1, Medic 1, Pilot 1, Streetwise 1
@@ -114,7 +98,5 @@ Skills:
 
 Broker 1, Deception 1, Electronics 1, Medic 1,
 Persuade 1, Pilot 1, Stealth 1, Streetwise 1
-
-R
 
 

@@ -1,0 +1,99 @@
+T
+
+split between steady and reliable main pilots versus
+hotshot subcraft pilots, while small ships have those
+hotshots as their main pilots. While this stereotype
+is far from universally true, it does contribute to the
+lesser degree of service that small ships receive at
+certain starports. Some small ships only ever go from
+starport to starport, reserving their fuel scoops and
+processors for an emergency.
+Ironically, this is part of the reason why unrefined fuel
+is more widely available at smaller ports – if almost all
+ships will only buy unrefined fuel, there is little market for
+a starport to run its own fuel purification. Still, having a
+fuel refinery is one of the requirements to be declared a
+Class A or B, and in some cases even Class C, starport.
+Larger ports more often service ships that only go from
+port to port and thus do without their own fuel processors
+to have more cargo and/or passenger space.
+
+Power Systems
+
+While fuel scooping and processing is standard practice
+for non-commercial ships, many traders or passenger
+liners prefer to buy their fuel at a port instead. There
+are three primary reasons for this, the first being time.
+Although fuel scooped from natural sources is ‘free’,
+it is a significant time investment; 2–4 hours to scoop
+and 24 to process is typical, compared to the 1-2 hours
+to refuel at a port. For most commercial ships, time
+is money. Second, some systems do not allow fuel
+scooping, out of environmental concern – particularly
+with oceanic refuelling – or a desire to control their
+revenue sources. Some systems seed CAPTOR
+(CAPtive TORpedo) mines within their oceans and
+gas giants to secure this restriction with lethal force.
+Finally, wilderness fuel scooping can be dangerous.
+Even without a port’s interference, dangers such as
+turbulence from gas giants or local large fauna can kill
+a ship as surely as a torpedo strike. Commercial ships
+rarely see the risk as worth it compared to paying a few
+thousand extra Credits at a port.
+
+24
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+A final word to the wise: Always run purchased fuel
+through the ship’s purifiers, unless desperately
+short on time or lacking purifiers. If nothing else,
+test the fuel prior to addition. While there are tank
+sensors and filters available for feeding in unrefined
+fuel, most fuel systems bypass this for any fuel the
+crew tells it is refined, whether through controls or
+feeding via a separate port marked ‘refined fuel’. This
+allows significantly faster fuel throughout, but any
+contaminants will go straight into the refined section
+and remain undetectable until mixed, contaminating
+tons of bad fuel before the crew can notice and reach
+the external cut-off. This will clog up internal piping
+and fuel intakes, crashing reactors, reaction drives and
+jump drives until the tanks are fully cleaned, a process
+that can take anywhere from hours to weeks.
+There are anecdotes of starport crews across Charted
+Space dealing with corsairs or pirates who demanded
+fuel service by topping them up with a few tons of
+cement, animal slurry, or human waste from the port’s
+septic tanks. While these appear to be mostly fictional,
+the fact remains that this is an efficient and cheap way
+to immobilise a small ship with an inattentive crew while
+disabling all non-battery-powered weaponry. It pays to
+be polite to the staff at a backwater Class C port one
+is obtaining ‘refined’ fuel from or, failing that, to check
+their work before trusting it.
+Ramscoops or plasma scoops are essentially
+‘plasma-type’ fuel scoops designed to obtain fuel from
+interplanetary and interstellar mediums. These require
+the ship to travel through large volumes of space
+to obtain significant fuel from the very thin material.
+Plasma-type scoops also work well harvesting coronal
+mass ejections, for those able to wait for them. These
+scoops are most often encountered on spacecraft
+intended to travel from star to star without jump drives.
+
+R
+
+

@@ -57,7 +57,6 @@ Traveller’s Movement score.
 Some aliens and animals have different Movement
 scores and this will be noted in their descriptions.
 
-
 A Traveller may make a skill check or do something
 else as a Minor Action if it does not require their full
 attention, concentration, complicated physical or mental

@@ -1,0 +1,127 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+SHIP-LENGTH BASELINE
+surveys where electromagnetic fields might indicate
+the presence of interesting things underground, such
+as a soon-to-be volcano.
+
+GRAV SENSOR
+
+This device detects the gravity profile of objects at lightsecond distances. It is not effective for mapping internal
+structures, although it can tell if something appears to
+be unusually hollow or dense and sees occasional use
+in prospecting. It can detect the use of gravitic drives
+or jump entry and exit flashes; as such, military craft or
+starports use it to detect ships trying to remain hidden.
+It can detect if someone is intentionally modulating
+their gravitics to send data using any known encoding
+mechanism. Any grav vehicle engine, lifter plate or
+manoeuvre drive is capable of transmitting as a byproduct of normal operation.
+
+MASS SENSOR
+
+This device measures the gravity profile of a planetary
+object a ship is orbiting. Unlike the grav sensor,
+it detects gravitic devices as large masses, often
+confusing a gravitic object with a larger mass. To the
+unskilled, a ship’s boat has a gravity profile that can
+have the same mass signature as a large planetoid.
+This sensor is typically included in survey sensor
+packages and specialised survey drones, which rarely
+encounter gravitic devices other than their host ship,
+which can subtract this known quantity from the data.
+
+Sensors & Communications
+
+PROXIMETER
+
+72
+
+This close-range sensor detects objects near the hull
+of the ship. It has two general uses, as an accurate,
+close-up altimeter and as an alerting mechanism when
+small threats such as asteroids or boarding parties
+approach the ship. This is typically an analysis suite
+tapping into visual, radar and other sensors, particularly
+the mass sensor if present.
+
+RADIATION SENSOR
+
+This is an advanced version of the basic neutrino sensor,
+which can detect a broad spectrum of fission, fusion and
+antimatter by-products. It can pinpoint source locations
+and level of hazard, even from orbital distances. Its
+primary use is to locate operating power plants.
+
+SENSOR EMPLACEMENTS
+Sensors are usually distributed on the surface of the
+hull, especially with civilian ships and typical sensor
+suites. However, there are many options depending on
+the ship’s intended use or need.
+
+By distributing sensors across the hull, they form a
+synthetic aperture array with a cross sectional area of the
+entire ship. This is standard for most sensor packages,
+as it is a simple way to gain a large detection area. On
+average, there is only a 10-fold difference in maximum
+dimension and thus maximum resolution between a
+100 ton trading ship and a 100,000 ton freighter, without
+specialised deployable sensor booms or fleets of drones
+to act as a distributed sensor. These ship-wide units
+are invariably arrays of identical detectors that, like the
+portion of the jump drive distributed over the hull, can
+be individually tested and replaced as needed. Even the
+most basic sensors distributed over a 10 ton smallcraft
+hull pull in a lot of data per second, more than a sophont
+can process all at once.
+
+DISH
+Some survey vessels and recon ships use dishes to
+collect sensor data. These take up volume and cost but
+provide better data to the target sensor.
+
+ANTENNA
+
+Especially on large military vessels, ships can mount
+huge antennae on the hull, typically in clusters. It is rare
+to see this on small ships, as there is not enough area
+to make it worthwhile. This is an option for sensors that
+cannot integrate with the hull.
+
+BAY
+
+For those sensors which are simply too big to fit into
+an antenna cluster but cannot be distributed over the
+hull, there are sensor bays, outfitted specifically for one
+highly tuned and powerful type of sensor.
+Commonly referred to as ‘observatories’, bay-mounted
+scopes greatly increase magnification and traverse.
+These are the primary instruments of truly long-range
+observation, some capable of observing other galaxies.
+They can survey an entire star system minus any
+parts temporarily occluded by celestial bodies and
+are capable of seeing ships at much longer ranges
+than a typical ship’s sensors. Nothing stops a ship
+with enough spare tonnage from mounting its own
+observatory but most see 100 tons as the minimum
+necessary. Many compare observatories with a ship
+designed around it to a military capital ship designed
+around its spinal mount weapon.
+
+R
+
+

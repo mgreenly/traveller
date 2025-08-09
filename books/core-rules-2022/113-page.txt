@@ -48,7 +48,6 @@ only help if the difficulty of the task is less than a certain
 value. In combat, add up any negative DMs to determine
 the effective difficulty of the attack or action.
 
-
 equipment
 
 EXPERT SKILLS

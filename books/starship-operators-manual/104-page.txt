@@ -1,0 +1,121 @@
+T
+
+armour, other ships, or even kilometres of solid rock.
+Unfortunately, meson weaponry is usually too large or
+expensive for practical application aboard small ships.
+The meson gun’s ability to bypass any armour or
+other defensive systems mean there are virtually no
+reliable countermeasures to meson weaponry prior to
+the invention of the meson screen, aside from making
+sure you are not hit by one. Because of this, the meson
+gun earned its Vilani name Gashukubi, translating to
+‘certain death’, from the fate of the Vilani scouts who
+first met with this weapon. The name proved prophetic;
+it was the development of the meson gun by the Terran
+Confederation combined with development of the
+jump-3 drive, made manifest in the Indomitable-class
+battleship, which eventually ended the Interstellar Wars
+in the Confederation’s favour.
+
+ION CANNONS
+
+A special type of particle accelerator, ion cannons do
+not inflict much damage – radiation or otherwise –
+but instead overload a target’s power systems. The
+mechanism of operation is quite similar, differing mainly
+in the type of particles and that they typically carry a
+strong electrical charge.
+Usable with fewer consequences than other weapons,
+they are only supposed to interrupt power temporarily with
+no lasting damage. However, just as ‘stun’ weapons for
+personal combat are more accurately described as ‘less
+lethal’, so too can ion weaponry cause problems in certain
+circumstances. For example, disrupting power, thus
+shutting down the manoeuvre drive, on a ship landing on
+or taking off from a world may lead to a fatal crash.
+
+Weapons and Defences
+
+PLASMA AND FUSION GUNS
+
+104
+
+Plasma and fusion guns have similar results but
+operate differently, although both are a distant
+descendent of slugthrowers in that they physically
+propel mass to hit a target. Optimised for extremely
+high speed and low-mass delivery of graviticallyconfined plasma, these weapons cause damage both
+through direct impact energy like a rail cannon and the
+input of additional thermal energy.
+Plasma guns consist of three main components. The
+plasma source provides and superheats gas to high
+but non-fusing temperatures. It squeezes through a
+high gravity column, which pushes on the sides of
+the plasma to minimise movement except along the
+intended direction of travel. The end of this column
+accelerates this ‘plasma laser’ at the target. The result
+falls apart a few seconds after leaving the weapon’s
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+RADIATION
+
+Notably, particle weapons, as well as certain
+other types, dose their targets with high amounts
+of radiation in addition to dealing conventional
+damage. Radiation damage remains somewhat
+controversial despite thousands of years of use,
+as it has different applications. Specifically, it
+sickens and debilitates sophonts, causing them
+to suffer if they do not die outright. Lingering
+radiation can leave a ship and its cargo unusable
+as salvage, which is one of the reasons these
+weapons are unpopular among pirates.
+Anti-radiation treatment is possible but takes time
+and can be expensive. Most shipboard medical
+bays, particularly on non-military ships, are
+only equipped to treat radiation sickness slowly.
+Ship crews that expect to frequently encounter
+high radiation, whether in combat situations or
+operating near stars that have a high incidence
+of solar flares, often upgrade their medical bays
+to deal with this. Nuclear dampers can mitigate
+the worst of radiation damage but they are of
+little use for decontamination.
+
+emitter if it does not strike a target, which limits
+effective range. If it does hit, the coherent plasma bolt
+does more damage than a dispersed cloud would.
+Fusion guns are all of the above but have an
+additional component. Plasma weapons lose damage
+at range as the superheated gas radiates and cools.
+Fusion guns handle this by including an integrated
+nuclear damper in the weapon to lower the minimum
+temperature to the point the plasma is self-burning
+and maintains heat for much longer. The increased
+fusion rate lasts long enough to hit a target, unless
+an opposing nuclear damper defending the target
+overrides this by dramatically increasing the fusion
+rate so the bolt burns out before impact.
+Viewed as compromise weapons, these have projectile
+mass, energy and an effective range between lasers
+and slugthrowers.
+A fusion weapon can be used as an emergency
+power plant, in the same way as an m-drive can be
+used as a gravitic forge. It takes work, adding energy-
+
+R
+
+

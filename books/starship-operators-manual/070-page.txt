@@ -1,0 +1,125 @@
+T
+
+DENSITOMETER
+This passive gravitic sensor maps interior or subsurface
+structures. The data only gives hints of structure and
+the resolution is poor but it can indicate veins of ore,
+metal deposits, caverns, gas deposits and so on. When
+scanning ships it clearly distinguishes between dense
+machinery and voids, such as staterooms and empty
+cargo holds, although identifying specific contents is
+trickier. The grav and mass sensors listed further on are
+specialised forms of this sensor.
+
+LIFE SCANNER
+
+Certain animals and sophonts, as well as psionic
+talents, have the ability to detect life at a short
+distance. Called a life detector, it is a technological
+analogue of that sense. It is an analysis suite, not
+directly detecting ‘life’ but rather looking for subtle
+patterns in infrared and signals that other sensors
+gather, although there is little practical difference. It is
+capable of differentiating and describing types of life in
+range. This is popular with the Scout Service, who use
+it to survey life on a world’s surface. Often mounted to
+cutters utilised by station crews for rescue missions, it
+can locate survivors on a stricken vessel as well as be
+used for interdiction and inspection duties.
+
+Sensors & Communications
+
+COMMUNICATOR
+
+70
+
+Every ship has a communication suite budgeted as
+part of the standard sensor package, which many
+frequently take for granted. Comms have simple
+operations, as the captain tells the computer to
+open communications with a ship or starport and the
+computer complies. Still, there are some nuances to
+comms known to the best communication operators,
+known as ‘commos’. Military communications suites
+named ‘CommCasters’ can network a squadron’s
+computers into a unified battle network, which enables
+devastating concentrated firepower.
+Below TL15, this is usually broadcast radio, occasionally
+laser where wide broadcasts are not desirable. Wireless
+gravitic connection, known as ‘gradio’, is like radio but
+using gravitic pulses rather than electromagnetic. Gradio
+is uncommon as a general-purpose communicator,
+mainly because it requires carrying basic radio
+technology anyway to speak to all starports that do not
+have gradio. At TL15, meson technology becomes the
+communicator of choice, especially for military ships,
+although many still use radio for broadcasts. The meson
+communicator’s ability to ignore planetary masses
+and most forms of interference, not to mention being
+impossible to intercept, gives fleet commanders better
+command of their ships.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+These suites include transponders, which usually
+must be on at all times unless a ship wishes to be
+mistaken as hostile. Some systems allow captains to
+turn these off when not near a starport to avoid pirates.
+Recognised friendly military ships are always allowed
+to turn off their transponders.
+Countless individuals have attempted to hack their
+transponders, found it more difficult than expected,
+wound up wrecking it and attempted to blame random
+damage. Authorities are so used to this that, absent
+overwhelming evidence, they will assume deliberate
+destruction to hide whatever the transponder would
+have shown, which by itself is grounds to seize the ship
+throughout the Third Imperium. Unless facing the death
+penalty for actions the transponder would testify to,
+attempting to falsify this is probably not worthwhile.
+Upon ‘discovering’ that the transponder is ‘broken’ or the
+ship suffers severe comms damage while near a world
+with functioning traffic control, the legal path is as follows.
+1. Improvise a signal output device out of whatever is
+available. It does not have to be official, just enough
+signal that the ship is visible and not a hazard to
+navigation. Switching on any active sensor will meet
+this requirement. Failure to do this will result in the
+vessel being classified as a derelict and may legally be
+claimed by whichever salvage crew reaches it first.
+2. Proceed to the mainworld’s orbit at no more than 1G
+while maintaining a sensor watch, eyeballs to windows
+if nothing else. If another vessel enters visual range
+and approaches, cut thrust immediately. When reaching
+a highport before any other vessel draws near,
+approach it and attempt to establish communications
+but do not dock without permission.
+3. Do NOT land. Attempting to land outside of a
+downport when there is local traffic control to contact is
+taken as evidence of smuggling. Landing at a downport
+without permission may be a crime. Wait for a patrol
+craft. Only attempt landing in an extreme life support
+emergency or if given permission.
+4. Expect the authorities to impound the vessel until
+they can confirm its past itinerary, usually within two
+to three weeks. Authorities will not detain the crew,
+as they consider the ship enough of a hostage. Most
+authorities quickly remove all the evidence they can
+then allow repairs to take place, installing a new
+transponder and restoring the ship to spaceworthiness.
+
+R
+
+

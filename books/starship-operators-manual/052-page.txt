@@ -1,0 +1,122 @@
+T
+
+the multi-environment holding tanks. Some Animals
+remove the launch to be able to load megafauna onto
+the ship for holding or processing. If expecting to haul
+cargo, make sure the ship has simple loading and
+unloading access routes.
+
+MANUAL CARGO HANDLING
+Some cargo is packaged in small and light enough
+containers that a sophont can easily carry it. Some
+captains only deal in such cargo, refusing upgrades
+that would lighten the chore of loading and unloading.
+Preferring manual handling is rare but there is some
+cargo that needs a hands-on approach due to value,
+security, or general lack of enough bulk to call for
+automated approaches.
+Lowering the gravity can make it easier to move items,
+although keep in mind the difference between weight
+and mass – if an object is slow to start moving, it will
+be just as slow to stop. Using grav carts to isolate
+weightlessness to individual items, limiting the potential
+for chaos, is often a better approach.
+
+Cargo & Docking Systems
+
+GRAV CARTS
+
+52
+
+Little more than a floating flat bed, grav carts, often
+referred to as g/carts, are one of the most common
+tools seen in cargo handling. They capitalise on lifter
+technology, expanded on in the Gravitics chapter, to
+lighten the workload of a stevedore or loadmaster.
+Despite their ubiquity, most people rarely think about
+them until they are not available. When cargo needs
+moving, ‘where’s the g/cart?’ is a common question,
+asked in anticipation of strained muscles or worse if
+heavy cargo is moved without assistance. Many crews
+that haul cargo soon learn to grab g/carts before trying
+to move anything more than a One Cube.
+G/carts consist of a lifter array on the underside and
+a grav plate on top. The former is used to manoeuvre
+the g/cart and provide clearance from the deck,
+the latter to better secure any cargo against rough
+handling. Although the lifter array could in theory
+traverse almost any height, practical use typically
+limits them to a maximum of half a metre above
+the ground. The main reason is safety – a cargo
+crane that suffers a power failure can lock in place,
+preventing any damage to carried cargo, while a grav
+cart can only fall, damaging the cargo and crushing
+whatever is beneath.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+G/carts are as varied as they are useful. They can
+be sized for anything from a One Cube to a 4A,
+occasionally permanently attached to the container.
+Well-designed g/carts utilise a series of micropressors
+to lift a container before slipping underneath, keeping
+the force even to prevent twisting.
+Control interfaces vary, the most common being
+a slight extension that allows an operator room to
+stand, along with a set of manual controls. This is
+more crew-intensive but allows for finer control.
+Alternatively, they can rely on remote operation,
+either from a user’s portable controller or a
+ship’s computer. This allows for larger and more
+complicated cargo movement procedures to be
+undertaken by just one stevedore but presents a
+vulnerability that clever thieves can exploit. That
+is not to say it is easy to hack a grav cart. Some
+manufacturers take great pains to add as much security
+as they can, ranging from a given g/cart being limited
+to one controller with both password and biometric
+protection for the sake of three-factor authentication, to
+restricting grav cart communications to tightbeam.
+G/carts come in a variety of styles beyond the simple
+cargo-moving carts and medical-use g/tretchers. Some
+luggage and small boxes have g/cart components
+built into their bottom, with either a control panel
+somewhere on its surface or a separate handheld
+device. Self-guiding styles can be programmed to go
+between sections of a ship to carry things for the crew,
+which can be useful aboard larger ships to transport
+reports, medicines, food and other items. When
+moving over grated metal decking such as catwalks,
+g/carts occasionally have issues of momentary
+imbalance due to the grating not giving a smooth,
+consistent surface to press against; many self-guiding
+g/carts take such areas slowly.
+There are operational concerns with grav carts,
+particularly inertia. Although the cargoes it carries will
+become weightless, they will not become massless.
+In keeping with the Second Law of Motion, particularly
+massive containers that may take some time to
+accelerate up to speed will take just as much time
+to slow back down. Grav carts are thus severely
+limited in their top speed for safety reasons, although
+impatient crews can override them. This is the most
+important way in which g/carts are distinguished from
+microtractors and micropressors, which are handheld
+devices that do not have significant velocity or inertia
+independent of their operators.
+
+R
+
+

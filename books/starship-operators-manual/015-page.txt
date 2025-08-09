@@ -1,0 +1,105 @@
+INTERNAL TRANSIT
+
+Corridors are as old as caves. Doors are almost
+as ancient. Sliding doors are more common than
+swinging on ships, as the latter require space to
+be kept clear, while the former are easier to open
+or close against a pressure differential. However,
+neither is as easy to make airtight nor as compact
+as the iris valve, so these are found anywhere where
+it is necessary to stop changes in atmosphere. As
+they are harder to bypass than doors, they have also
+
+UNRESPONSIVE DOORS
+
+If a door will not open when you think it should,
+first make sure it would be safe for you to go
+through the door. If you do not have a vacc suit
+on and this is an airlock or leading to a damaged
+section of the ship, the door may be trying to
+save your life by not opening. If your ship uses
+access control devices, verify that you have
+yours and that it is operational. Should your ship
+use biometrics, check you are clean: grease,
+lubrication oil or carbon dust can obscure facial
+features and fingerprints. Many times, it is easier
+to check if there is another usable passage.
+For an iris valve, find the iris crank opener that
+should be stored next to the valve, probably
+under the intercom terminal. Insert it into
+the slot at the corner of the door and turn it
+counterclockwise. If the iris valve begins to open,
+continue until you hear it latch, then remove the
+opener. Do not step through an unlatched iris
+valve unless in an extreme emergency. If it does
+not rotate, the door is bolted or jammed. Beating
+on the plates with the iris crank opener should
+be audible on the far side and attract attention if
+there is anyone beyond.
+
+Another consideration is corridors, sometimes known
+as passageways. As there is only so much space
+inside a ship, most of which is given to various
+important systems, space for accessways is always
+at a premium. Corridors must be carefully laid out if
+they are to connect everything, rather than just jam
+room next to room and force people to tromp through
+the engineering space to go from the bridge to the
+commons. Cargo bays are notoriously prone to this sort
+of misuse, as most plans show them empty and they
+are rarely completely filled, leading to problems when
+the ship does take on all the cargo it can fit. Some large
+ships feature moving corridors, replacing sections of
+floor with conveyor belts to move people along a long,
+straight corridor but on small ships this is impractical.
+Handholds or other protrusions line these corridors
+on ships or sections of ships designed without
+gravity. On ships with gravity these may still be
+present but usually tucked away so as not to impede
+movement, automatically emerging should gravity
+fail. Groups of handholds are independently powered
+by a fusion cell (see Power Cells on page 21), so
+this mechanism will work even if the ship suffers
+extensive damage. Handholds can also be found on
+the hull exterior, although are rarely retractable on
+unstreamlined spacecraft.
+Trains and other internal mass transit options are only
+practical for large structures in space, well beyond
+the scope of this book. Even many large freighters
+and military capital ships are too small. Anything large
+enough to justify extensive internal mass transit is not
+so much a ship as a habitat, potentially an outpost or a
+colony. Some single-use colony ships, designed to be
+disassembled at their destination, have internal mass
+transit designed for expansion upon turning the ship
+into the colony’s initial infrastructure.
+
+Hull
+
+If the above does not work, use the ship’s
+internal comm network to call the bridge for help.
+All areas that can be locked off have a minimum
+of one fixed mount comm nearby. Should that
+fail, this is a potential emergency and more
+extreme measures such as deconstructing the
+door are warranted. You may be being trained by
+your crew to deal with emergencies; if so, treat it
+as a real emergency.
+
+become standard for security-conscious thresholds,
+such as bridge entrances. Dents or foreign objects
+that keep an individual plate of an iris valve from
+moving only stop that plate, allowing the rest to
+slide. These tend only to prevent full opening, not
+full closing, so anyone who wishes to damage an iris
+valve to force it open is better off breaking a plate. All
+doors aboard a typical ship, iris valves included, are
+motorised, opening and closing either under control
+of the ship upon detecting an authorised person or
+from a nearby control panel. Manual backups in case
+of power loss are usually present, save for the most
+secure of doors such as airlocks.
+
+15
+
+

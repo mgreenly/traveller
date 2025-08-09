@@ -1,0 +1,109 @@
+reserve this for their ‘core’ crew who go on adventures
+beyond their jobs, while other crew expected to perform
+only their jobs receive standard salaries but are free to
+come and go at port.
+Even for ships operated entirely by individuals,
+crew role lists still commonly exist. This is why the
+Suleiman listing in this book shows pilot, astrogator
+and engineer roles, despite the fact that having three
+separate individuals performing those duties is by no
+means common.
+Some say this is a more meaningful distinction between
+‘large ships’ and ‘small ships’, although others believe
+it less useful for classification since it can change from
+ship to ship, and between captains on the same ship.
+Does the crew have an astrogator or someone with
+other duties who performs astrogation as needed? If
+the ship is armed, does the crew have one or more
+gunners or just people with other duties who operate
+the guns as needed?
+This division informs the use of automated crew – see
+Drones and Virtual Crew on page 64. Large ships
+replace certain roles with software or robots capable
+of performing the job, viewing it as an investment
+with payoff in the formula (price of robot) / ((replaced
+crew’s monthly salary and life support cost) – (monthly
+maintenance cost of robot)). Small ships have a harder
+time with this, as the captain must replace each person
+performing multiple roles with a combination of software
+and robots; an engineering robot may be less capable
+of cooking a meal or keeping an eye on the sensors
+compared to a person trained as an engineer.
+
+Ship’s articles are documents that serve as a ship’s
+constitution or charter. These set up the responsibilities
+of a ship’s captain and crew in an easily accessible
+format. They are less common among smaller ship
+crews, who often see them as an unnecessary
+formality. Captains use them to stop arguments about
+pay, watch structures or codes of conduct long before
+they start, and they also clearly lay out a captain’s
+authority to maintain discipline, including what
+punishments may be issued as procedures to record
+crew complaints and disciplinary actions.
+Most articles start as copies of larger ships’ articles
+or boilerplate materials but are modified over time as
+larger ships can often afford to turn away crew who do
+not agree with aspects of the ship’s articles but smaller
+vessels may not have this luxury. On these ships, hiring
+crew can involve minor changes to which all crew must
+agree and hiring crew is often done as a collective
+effort on smaller ships. Articles aboard larger ships are
+more set in stone, written in dense legalese; attempting
+to hide objectionable aspects of a ship’s working
+environment from prospective crew is usually the remit
+of ships belonging to large corporations, not least
+because attempting this without the backing of security
+or military forces is profoundly unwise.
+Ironically, this results in some pirate ships having
+excellent crew conditions; irritating those who
+have already demonstrated wilful disregard for the
+law decreases one’s life expectancy. There are
+recommended practices for those who wish to remain
+on the right side of the law and avoid underhanded
+tactics. Under no circumstances start work on a ship
+without a contract, ideally written in plain language and
+checked with a lawyer. The contract must give the basic
+wages of all crew positions, as well as specifying which
+are only on duty for certain shifts and what conditions
+can require off-shift duty. It should also clearly lay out
+the expected duration of contract and conditions for
+termination. Any changes to the contractual period must
+be by mutual consent only. Requests for termination
+should have enough notice for the ship to reach the
+next major port where it can get replacement crew.
+
+PROFIT SHARING
+A good rule of thumb for more comfortable
+employment, if one can find it, is to ask if the ship
+practises profit sharing – not to be confused with ‘ship
+shares’, which represent fractional ownership of a
+ship. Should a ship make more profit than expected,
+the excess is shared among the crew as well as the
+owners. As profit sharing can limit a corporation’s
+
+Crew Roles
+
+Automated crew found on small ships fall into one of
+three scenarios:
+● First is the rich loner captain who does not want a
+sophont crew.
+● Second amounts to an automated troop transport,
+carrying a team of sophonts that must be able to
+adapt to conditions encountered on the ground with
+the space portion of the trip not expected to present
+danger or difficulty. The missions assigned to this
+team often involve some degree of secrecy, so they
+use automation to reduce the number of sophonts
+that must keep the secret.
+● Third and most common is when a small ship crew
+comes into possession of a much larger ship but is
+not comfortable switching to large ship procedures.
+Filling positions with robots allows the remaining
+crew to continue using small ship crew procedures.
+
+SHIP’S ARTICLES
+
+117
+
+

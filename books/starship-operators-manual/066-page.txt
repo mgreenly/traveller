@@ -1,0 +1,91 @@
+ENSORS AND
+
+S COMMUNICATIONS
+In a poetic sense, sensors are the eyes and ears of
+the starship. Just as a suddenly blinded and deafened
+person must take care navigating safely, a ship without
+sensors is vulnerable to the dangers of in-system
+travel. For this reason, all but the most primitive or
+damaged starships have a sensor package.
+Certain built-in facilities on starships qualify as
+‘sensors’, although they are not part of any sensor
+package. A conspicuous one is a porthole or window,
+by which any sophont with an eye can spot objects
+sufficiently large or close. Another is the closed-circuit
+security camera network, by which crew may monitor
+every surface, corner, nook and cranny of the ship.
+Yet another is the ‘weather’ sensor network attached
+to various points along the hull, which are simple
+monitors that give alerts when there is a problem with
+air pressure, excessive wind speed, when the ship is
+submerged, or if there is an unhealthy level of radiation.
+Sensors analyse the physical state of a star system
+and collate a huge amount of detail into intuitive
+reporting, monitoring and alerting. Some sensors
+catalogue the resource potentials of unknown worlds.
+These form the backbone of an initial fly-through
+survey of a system by the Scout Service. Others
+can hunt out a pirate’s nest by looking for minute
+anomalies on a planetoid’s surface. Still more can
+estimate the complexity of a civilisation by measuring
+the particulates in a world’s atmosphere.
+
+THE TYRANNY OF DISTANCE
+
+Naval battles fight at ranges of tens of thousands of
+kilometres. Jump drives enter and exit a system at
+hundreds of thousands of kilometres from a planetary
+surface. The average distance from one world to
+its nearest neighbour in a system may measure in
+hundreds of millions of kilometres. Only artificial
+senses, such as a ship’s sensors, can gather useful
+data at these ranges.
+Fortunately, space is empty. Dust and micrometeorites
+are rarely significant enough to occlude signals,
+especially within a star system. This means that it is
+theoretically a simple matter to see whatever interesting
+signal is out there if a big enough sensor is in line of
+
+66
+
+sight. Even large ship sensors usually cannot detect
+individual ships at typical jump distances, although it is
+a simple matter for most starports.
+Instead, most ships can only detect the outline of a
+sensor contact from a few million kilometres, which is
+often the basic information needed to classify it as a
+ship or not a ship. More detail requires getting much
+closer. Naval weapons with longer ranges would find it
+difficult to hit their targets, let alone confirm they were
+firing at enemies.
+
+ORTILLERY SHIPS
+
+This does not include ortillery fired at planetary
+targets with known locations. There exist ships
+designed to jump in, send munitions at a world
+and jump out before the planet can muster any
+response, hoping that local defences do not
+manage to detect and destroy the bombardment.
+It does not include missiles, which circumvent
+the problem by carrying their own sensors to use
+when they move close to a target.
+
+AUTOMATION AND ANALYSIS
+This leads to one of the main problems for sensor
+operators, often referred to as ‘sensops’. Most of the
+time, sensors report the same thing minute-by-minute
+for days on end. It is impossible for most sophonts
+to give this data their full attention for six or eight
+hour shifts but computers can handle this task easily.
+However, computers can only report things a user tells
+them to, while most of the interesting data from sensors
+is interesting precisely because it is unanticipated.
+Further driving automation is the sheer amount of data
+coming in at any given second, even on a small ship
+with only basic sensors. By analogy, optical sensors
+such as eyeballs and retinal neurons allow sophonts to
+input data from this book. The brain is able to handle
+the input of these sensors and process it into usable
+
+

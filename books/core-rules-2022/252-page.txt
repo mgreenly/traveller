@@ -1,4 +1,3 @@
-T
 
 Population
 Population
@@ -84,20 +83,7 @@ The Common Contraband column on the Government
 table determines goods such a government is likely to
 restrict but should not be taken as a universal rule.
 
-
-R
-
-A
-
-V
-
 Description
-
-E
-
-L
-
-L
 
 —
 A tiny farmstead or a single family
@@ -112,9 +98,5 @@ Present day Earth
 —
 Incredibly crowded world
 World-city
-
-E
-
-R
 
 

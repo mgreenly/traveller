@@ -1,0 +1,96 @@
+ARGO AND
+
+C DOCKING SYSTEMS
+Airlocks, hangars and docking bays exist to transfer
+items to and from a ship. In most cases, a ship would
+be useless without some way for sophonts and cargo to
+board and disembark.
+
+DOCKING OPTIONS
+
+Docking is the first step to transferring cargo and
+passengers to another ship or starport. There are three
+general means of travel between ships, including from
+a ship to a port or vice versa.
+
+OUTSIDE
+Origin and destination may not be in contact at all. They
+may be floating next to one another in space or parked
+at a downport. One exits the origin ship, crosses the
+intervening distance, then enters the destination ship.
+If the intervening space is hazardous, such as vacuum
+or a volume into which hostile fire is being directed,
+protection is advised. This includes most boarding
+actions, where entry into the destination ship can be
+difficult, particularly if the target ship does not wish to
+be boarded. At the other end of the spectrum is simply
+walking into a ship on the ground through an open
+cargo hatch or ramp.
+Unlike the other two options, this does not allow one
+ship to move another ship without tractor beams or other
+indirect means, so they are not considered ‘docked’.
+
+DOCKING TUBE
+The most common form of this is a pressurised tube
+connecting the two ships, large enough that items or
+crew can pass between them in a controlled space.
+When not in use, this tube can retract into the hull
+around the airlock, extending only when needed.
+Traversing between ships is much easier in this
+contained area, greatly lowering the risk of floating off
+into space and other hazards. Since almost all ships
+have standard airlock sizes, connecting tubes have
+little difficulty mating to other ships’ airlocks.
+This technically includes cases where one ship is
+attached to another like a limpet to grant armoured
+protection to passage between the ships. It also
+includes docking clamps, which often incorporate tubes
+
+42
+
+and nets for hauling otherwise unattached cargo. Nets
+are especially useful for tenders that carry non-jump
+spacecraft from star-to-star and other ships that carry
+large, irregularly shaped cargo.
+Care must be taken when engaging reaction,
+manoeuvre or jump drives while docked with another
+object, as the combined mass and volume will be
+propelled by the drive, lowering overall performance.
+Reaction and manoeuvre drives can suffer from a
+misaligned thrust axis, causing unwanted attitude
+changes. This is a more critical issue for jump drives
+since attempting to propel more than the drive is rated
+for tends to result in either no jump or misjumps. Nets
+intended for this contain jump emitters, extending the
+jump field to include the net and everything within.
+
+INSIDE
+The destination is inside the origin or vice versa. There
+is no intervening space to cross, just a single opening,
+be it an airlock’s outer door, cargo hatch, hull breach or
+something else.
+While less flexible than nets or external clamps in
+terms of the size of ship or cargo that can be taken,
+this arrangement is simple enough that it is far more
+common, with no effect on manoeuvre or jump drives
+as those are rated based on external volume rather
+than mass. It has the advantage of being able to take
+cargo up or down through an atmosphere without risk
+of damage, which is not possible with most external
+docking solutions.
+
+AIRLOCKS
+
+Entering a starship usually requires going through an
+airlock. The concept stems from low-TL locks that move
+floating vessels between bodies of water at different
+elevations, pumping water in or out while enclosed
+around a vessel to allow it to float in at one level, wait
+for the change, then float out at the other. Airlocks are
+much the same, except transiting between areas of
+different pressure and/or atmospheric composition.
+This is typically accomplished by pumping air into and
+out of the airlock’s internal volume, which can lead
+to a notable weak point – a high-pressure air tank
+
+

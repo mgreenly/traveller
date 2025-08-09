@@ -1,15 +1,26 @@
 #!/bin/bash
+# Remember the current directory
+original_dir="$PWD"
+
+# Change to the git repository root directory
+cd "$(git rev-parse --show-toplevel)"
+
 # Switch to wip branch if not already there
 current_branch=$(git rev-parse --abbrev-ref HEAD)
 if [ "$current_branch" != "wip" ]; then
     git checkout wip 2>/dev/null || git checkout -b wip
 fi
 
-# If there are any changes, add and commit them
-if ! git diff --quiet || ! git diff --cached --quiet; then
-    git add -A .
+# Always add all changes from the git repository root, then check if there's anything to commit
+git add -A
+
+# If there are any staged changes, commit them
+if ! git diff --cached --quiet; then
     git commit -m 'wip'
 fi
 
 # Force push the wip branch to github
 git push --force-with-lease github wip
+
+# Return to the original directory
+cd "$original_dir"

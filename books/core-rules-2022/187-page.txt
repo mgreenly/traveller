@@ -24,5 +24,4 @@ allows for two Travellers to use the Mechanic skill
 on board the ship with DM+2.
 Workshops cost MCr0.15 per ton.
 
-
 

@@ -1,6 +1,4 @@
-T
 
-R
 
 •
 
@@ -72,20 +70,7 @@ attacks on stationary targets.
 Firing Ortillery: Average (8+) Gunner (ortillery)
 check (1D minutes, INT).
 
-
 •
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 Screen: Activating and using a ship’s energy screens
 like Black Globe generators or meson screens.
@@ -140,7 +125,5 @@ Heavy Weapons (artillery) check (1D seconds, DEX).
 Firing an Artillery Piece Using Indirect Fire: Difficult
 (10+) Heavy Weapons (artillery) check (1D x 10
 seconds, INT).
-
-R
 
 

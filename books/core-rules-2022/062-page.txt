@@ -1,4 +1,3 @@
-T
 
 OPPOSED CHECKS
 
@@ -33,21 +32,6 @@ someone or throwing a punch takes 1D seconds, while
 prepping an air/raft for flight might take 1D minutes,
 
 62
-
-
-R
-
-A
-
-V
-
-E
-
-L
-
-L
-
-E
 
 looking for rumours on the street might take 1D hours
 and repairing a damaged component on a ship might
@@ -119,7 +103,5 @@ Repairing a damaged
 ship
 Combing a city for a
 missing person
-
-R
 
 

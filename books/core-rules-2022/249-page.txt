@@ -119,7 +119,6 @@ satellites, and much too small to retain a breathable
 atmosphere. They are uninhabitable by most forms of
 life without technological support.
 
-
 universe creation
 
 The Size code for worlds ranges from 0 to 10 and is
