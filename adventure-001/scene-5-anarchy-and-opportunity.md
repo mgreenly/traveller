@@ -1,6 +1,6 @@
 ## Scene 5: Anarchy and Opportunity
 
-**Location:** [Rech](../systems/rech.md), The Lawless World (Law Level A)
+**Location:** [Rech](../systems/rech.md) Downport District, The Lawless World (Law Level 3)
 
 > **Read Aloud:** Rech is a smog-choked ball of industrial grey and polluted brown. The orbital starport is a barely functioning wreck, a patchwork of competing factions and jury-rigged repairs. The shuttle ride down is terrifying. The downport is a chaotic, sprawling mess of landing pads and temporary structures, policed by heavily armed thugs at faction checkpoints. The rule of law here is whatever the person with the biggest gun says it is.
 
