@@ -31,7 +31,7 @@
 - `ships/`: Starship data sheets.
 - `systems/`: Star system data sheets.
 - `factions/`: Faction data sheets.
-- `misc/`: Rules references, tables, and gameplay aids.
+- `rules/`: Rules references, tables, and gameplay aids.
 - `lore/`: In-universe locations, encounters, and establishments.
 - `players/`: Player character data sheets. There are 6 player characters in the campaign.
 - **MAINTENANCE:** After changing any of the above files, check if this file (`CLAUDE.md`) needs to be updated to reflect the changes.

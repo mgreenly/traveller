@@ -17,7 +17,7 @@ model: sonnet
 - `adventure-001` - Adventure 001 files
 - `adventure-002` - Adventure 002 files (if exists)
 - `lore` - In-universe locations and encounters
-- `misc` - Rules references and tables
+- `rules` - Rules references and tables
 - `players` - Player character sheets
 
 ---

@@ -24,7 +24,7 @@ Welcome to **"The Long Haul"**, a high-stakes Traveller RPG campaign set in the 
 
 ### Reference Materials
 - **[Lore & Encounters](./lore/README.md)** - Locations, establishments, and reusable encounters
-- **[Rules & Tables](./misc/README.md)** - Game mechanics, equipment, and reference materials
+- **[Rules & Tables](./rules/README.md)** - Game mechanics, equipment, and reference materials
 
 ---
 

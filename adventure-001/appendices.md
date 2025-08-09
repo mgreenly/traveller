@@ -91,7 +91,7 @@ Hidden within the data core's encrypted partition is a folder labeled "Insurance
 ---
 ## Appendix E: Reusable Encounters
 
-This adventure uses several modular, reusable encounters that can be found in the `/misc` directory. They are designed to be dropped into any adventure in this campaign.
+This adventure uses several modular, reusable encounters that can be found in the `/rules` directory. They are designed to be dropped into any adventure in this campaign.
 
 *   [**Starport Customs Encounter**](../lore/customs-encounter.md): A task chain for dealing with Imperial customs, with paths for honest travellers, smugglers, and those willing to offer a bribe.
 *   [**The Extra Mile Outfitters**](../lore/the-extra-mile-outfitters.md): A reliable gear shop run by a retired Scout, with options for acquiring illegal equipment.
