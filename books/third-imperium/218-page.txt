@@ -1,0 +1,262 @@
+BATTLESHIP
+
+CLASS: VOROSHILEF
+
+The pride of Dimanaam Shipyards is the
+Voroshilef-class battleship, a hardy, versatile,
+well-armed capital ship that is built to last. The
+Voroshilef is designed with a war of attrition in
+mind. In naval circles, it is called the ‘doomsday
+dreadnought’ not because it is more capable
+than other ships but more so because it is not.
+Its designers assert that its slightly lower Tech
+Level makes it invaluable in the event of a large,
+drawn-out interstellar conflict. At TL13, crews will
+be better able to maintain the Voroshilef with parts
+on hand and would not have to rely on the ready
+
+TL13
+
+TONS
+
+COST (MCR)
+
+200,000 tons, Close Structure,
+Reinforced
+
+—
+
+13500
+
+Radiation Shielding
+
+—
+
+5000
+
+Armour
+
+Crystaliron, Armour: 3
+
+7,500
+
+2025
+
+M-Drive
+
+Thrust 6
+
+12,000
+
+24000
+
+J-Drive
+
+Jump 4
+
+20,005
+
+30007.5
+
+Power Plant
+
+Fusion (TL12), Power 266,580
+
+17,772
+
+17772
+
+Hull
+
+Crew
+Captain, Pilots and
+Flight Officers x28,
+Astrogator, Medics
+x16, Maintenance
+x133, Engineers
+x475, Administrators
+x66, Officers x148,
+Gunners x556,
+Marines x200
+
+Fuel Tanks
+
+J-4, 8 weeks of operation
+
+83,556
+
+—
+
+Bridge
+
+Holographic Controls
+
+60
+
+1250
+
+Command, Holographic Controls
+
+80
+
+1875
+
+Core/80 (primary)
+
+—
+
+95
+
+Core/70 (backup)
+
+—
+
+80
+
+Running Costs
+
+Computer
+Sensors
+
+Weapons
+
+Screens
+Ammunition
+
+218
+
+availability of TL15 replacements and materials.
+Hubris in the Admiralty has made the Voroshilef
+programme a controversial one. The Imperium
+mostly builds ships designed to win short battles
+with overpowering force. Only the most pragmatic
+officers of the flag are willing to entertain the
+notion that the Imperium could get drawn into
+a long, difficult conflict. Should the project take
+hold, Dimanaam expects to massively expand its
+shipyard and attract a large labour force to build
+many more ships of the class.
+
+Hull: 161,333
+
+Improved x2
+
+6
+
+8.6
+
+MAINTENANCE COST
+
+Distributed Arrays x2
+
+18
+
+18
+
+MCr9.98744/month
+
+Enhanced Signal Processing x2
+
+4
+
+16
+
+PURCHASE COST
+
+Countermeasures Suites x2
+
+4
+
+8
+
+MCr119849.28
+
+Particle Accelerator Spinal Mount
+(TL13)
+
+23,800
+
+9600
+
+Large Missile Bays
+(reduced size x3) x24
+
+8,400
+
+4500
+
+Medium Meson Gun Bays x10
+
+1,000
+
+1,000
+
+Small Fusion Gun Bays x30
+
+1,500
+
+240
+
+Plasma Barbettes x120
+
+600
+
+600
+
+Triple Turrets (pulse lasers) x500
+
+500
+
+2000
+
+Triple Turrets (sandcasters) x200
+
+200
+
+350
+
+Type II Point Defence Batteries x20
+
+400
+
+200
+
+Meson Screens x40
+
+400
+
+800
+
+Nuclear Dampers x20
+
+200
+
+200
+
+Missile Storage (69,120 missiles)
+
+5,760
+
+—
+
+Sandcaster Storage (8,000 barrels)
+
+400
+
+—
+
+Power Requirements
+Basic Ship Systems
+40,000
+Manoeuvre Drive
+120,000
+Jump Drive
+80,000
+Sensors
+22
+Weapons
+22,940
+Fuel Processor
+2,000
+
+

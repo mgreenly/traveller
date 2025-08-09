@@ -1,0 +1,118 @@
+T
+
+the way down. Maybe the plasma gun misfired, or the
+bullet somehow missed every vital organ. However it
+happens, the Traveller’s LCK is permanently reduced
+by the amount of points expended. If LCK reaches 0
+then every random bad event that can possibly happen
+will befall the Traveller and their life may not be worth
+living. The Referee should feel free to torment the
+unlucky individual as much as they please.
+Note that LCK cannot be used to affect someone else
+in this manner. If a Traveller fails their LCK check, their
+friends cannot try to get lucky on their behalf.
+If this option is used, it may be desirable to allow
+Travellers to regain their LCK. This is not a matter of
+spending money; instead the Traveller will have to
+undertake good works, visit remote temples to ask the
+gods why they survived and generally go out of their
+way in an adventure-material-creating sort of way. Even
+then regaining LCK should be a difficult business.
+
+EXAMPLES OF USING LUCK
+The Travellers are caught in a meteorite shower and
+risk being struck. This is essentially a random event,
+since the meteorites move so fast it is beyond the
+means of the Travellers to avoid them. Normally a
+straight 2D roll might be used to see if any given
+Traveller is hit but if LCK is in use, this roll can be
+modified by the Travellers’ LCK DM.
+Not being hit by meteorites: Average (8+) LCK
+Check (1 minute).
+
+Characteristics
+
+On another occasion, the Travellers disturb an angry
+creature. It is in the middle of them and the choice of
+who to bite is essentially random. All the Travellers
+might be asked to make an opposed Average (8+) LCK
+check, with the one with the lowest Effect getting bitten.
+
+6
+
+MORALE (MRL)
+
+The Morale (MRL) characteristic represents a mix of
+courage, motivation, determination and sense of ethics.
+It functions in a similar manner to END, although in
+a psychological manner rather than physical. MRL is
+useful in games with a lot of combat but can also be
+applied to many other situations. It provides a way to
+adjudicate situations where the Traveller insists they
+will do the most effective thing regardless of tedium,
+discomfort and distractions… or hostile gunfire.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+MRL is determined, like other characteristics, by rolling
+2D. It is increased by +1 for every successful term the
+Traveller has completed in a military service (e.g. army,
+navy or marine) or every two successful terms they
+completed in a disciplined but non-military service (e.g.
+scout, merchant or agent).
+MRL checks are used in combat or when trying to
+overcome fear-inducing situations but can have other
+applications. For example, if a Traveller insists that
+they are going to spend 10 hours a day working on
+a boring project, MRL can be used to determine if
+they stick at it. MRL checks should not be used in
+place of good roleplaying but can be a useful tool
+for a Referee whose Travellers insist on undertaking
+unrealistic actions.
+
+MORALE CHECKS
+
+A Morale check is called for when a significant obstacle
+or setback is encountered. This may or may not be
+combat related; realising that the Travellers will have
+to traverse right around the mountain before even
+beginning to climb might be disheartening enough to
+make a group of climbers quit.
+Typically, the Referee will call for a MRL check when a
+group of combatants takes significant casualties (1020% of its numbers), or when they see allies fleeing.
+A MRL check may also be called for when an
+individual is wounded in combat or facing a
+particularly fearsome foe.
+A MRL check might also be required if a Traveller is
+unexpectedly hurt or encounters unanticipated danger.
+For example, if a Traveller is suddenly struck by an
+unexpected blow, they may flinch rather than reacting
+boldly. Similarly, when a sniper’s bullet narrowly misses
+their head, a Traveller might dive for cover rather than
+finishing what they are doing.
+The MRL of a group can be averaged from the values
+of everyone involved or, for large-scale military units,
+assigned according to the experience and training of
+the personnel involved. As a rule, group Morale will
+affect the whole group – if everyone else runs away,
+a high-Morale individual will normally find it prudent
+to do likewise. He may decide to stay and fight alone,
+however, in which case an individual MRL check (at
+his own level, not that of the group) can be used at
+the Referee’s discretion.
+
+R
+
+

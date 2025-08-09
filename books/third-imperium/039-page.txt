@@ -1,0 +1,83 @@
+Survey Branch Mission Types
+Survey Class
+
+Description
+
+Class I
+
+Conducted from a distance of 1–2 parsecs, determines the basic stellar and planetary data of
+a star system. Duration: 1 day.
+
+Class II
+
+In-system survey of primary and subsequent stars and all planetary bodies of notable size.
+Duration: 1 week.
+
+Class III
+
+Detailed examination of notable planetary bodies. Landing parties launched when necessary.
+Duration: 10 weeks.
+
+Class IV
+
+Detailed survey of system mainworld and other habitable zone bodies. Probes and landing
+parties launched to confirm data. Duration: 30 weeks.
+
+Class V
+
+Detailed probes and surveys of all planetary bodies in a star system, including landing parties
+to confirm data. Duration: 5–10 years.
+
+Exploration is often seen as the most glamourous
+branch of the Scout Service but it is also the most
+dangerous. More scouts serving in Exploration are lost
+than from any other branch. Exploration scouts are
+sent into charted but unexplored systems, their mission
+to perform cursory surveys and close examinations of
+planetary bodies if irregularities or anomalies are found.
+They may also be called upon to perform contact
+and liaison missions if sophonts are encountered.
+Newly discovered sophonts are often left alone if
+the Scout Service determines that a species should
+be allowed to develop at its own pace and without
+Imperial interference. Worlds with such populations
+are sometimes interdicted. Such missions may last
+centuries or even millennia if necessary.
+
+The Scout Service is overseen by Administration
+and Operations offices that report to each branch.
+Administration is responsible for the upkeep of the
+service, making sure that it has the starships, small
+craft, vehicles, gear and other resources that it needs
+to do its many jobs. Administration also recruits new
+members to the service, often from far-flung worlds of
+the Imperium. The IISS, more than any other military
+service, is known for its diversity and inclusion policies.
+The service actively recruits alien sophonts from all
+Imperial worlds – and sometimes those beyond its
+borders – and is known for providing or even devising
+special equipment to accommodate those from exotic
+
+Imperial Military Forces
+
+The one thing all three branches have in common is
+the Type-S scout, the modern version of which is the
+Suleiman-class. The Communications branch uses
+them to transport information to worlds that are off the
+x-boat routes, keeping them in the loop and ensuring
+that every Imperial world has access to current
+information. The Survey and Exploration branches use
+
+them as utility starships, performing any number of
+necessary tasks. Type-S scouts are sometimes named
+by their crews but officially they only have call signs:
+a single letter (C for Communications, S for Survey or
+E for Exploration), six numerical digits followed by a
+hyphen and a random letter. Survey scouts also use
+the Donosev-class survey scout ship, a 400-ton ship
+with more advanced sensors, which enables them to
+collect the detailed data required.
+
+39
+
+

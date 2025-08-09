@@ -1,0 +1,42 @@
+Well-established cultures tend to have uniform
+technology distribution, at least throughout the major
+population centres. If a world can cheaply produce
+TL9 goods there is little point in trying to sell TL7 items
+in the shops of the capital. However, on less well
+developed worlds or in regions away from the cities,
+folks make do with simple mechanical devices and the
+odd imported must-have.
+The Tech Level of a world is best thought of as ‘this is
+what you can buy in the starport shops and main cities’.
+This technology will trickle out into the countryside
+but since the infrastructure to support it may not exist,
+its life span will be limited. It is not uncommon to
+encounter hybrid technologies in the fringe and outback
+regions, with what are essentially mid-tech railroads
+connecting high-tech cities. Some trains are pulled
+by advanced fusion-powered locomotives; most use
+simpler petrochemical-fuelled versions.
+
+Technology mix can be quite extreme, with animaldrawn carts sharing streets of frontier towns with
+grav vehicles, or local officials using high-tech hand
+computers as light sources when candles burn
+out. A good rule of thumb is that older, more stable
+societies have an even distribution of technology
+right up to the fringes, whilst newer colonies or
+worlds with a troubled history have to make do with
+whatever the locals can get.
+The general characteristics of a world tend to determine
+its settlement pattern, which in turn influences
+technology distribution and economy. A major industrial
+base requires population concentrations or enormous
+automation; more scattered communities can make
+advanced items only on a cottage-industry base, if at
+all. The critical point for a significant planetary economy
+– one that is relevant on the interstellar scale – is
+Population code 7 (tens of millions), assuming most of
+this population is grouped into fairly large cities.
+
+Interpreting UWP Data
+123
+
+

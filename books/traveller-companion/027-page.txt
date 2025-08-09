@@ -1,0 +1,137 @@
+Affinity
+
+Degree of Affinity
+
+Notes
+
+0
+
+None
+
+No Affinity towards the Traveller. This may be an enemy or just someone who does
+not care at all what happens to the Traveller, depending on Enmity.
+
+1
+
+Vaguely well
+inclined
+
+About as well inclined towards the Traveller as any random stranger with a social
+conscience is likely to be. They will take minor actions to help, largely out of
+common courtesy, but not go to much trouble on the Traveller’s behalf unless there
+are benefits to the action.
+
+2
+
+Positively inclined
+
+Will probably help in a safe and easy manner if asked, even without reward, but will
+not take much risk.
+
+3
+
+Very positively
+inclined
+
+Will take modest risks on the Traveller’s behalf or offer help without being asked, if
+they realise their friend could benefit.
+
+4
+
+Loyal friend
+
+Will do almost anything to help the Traveller but may have higher loyalties to their
+own family, cause or service, or to other close friends.
+
+5
+
+Love*
+
+Will probably put the Traveller’s interests before their own or that of others.
+
+6
+
+Fanatical**
+
+Will do whatever the Traveller asks of them (or what they think the Traveller would
+want), no matter what risks are involved. May also expect others to do the same.
+
+* Love might be romantic or in the manner of a close family member, comrade through some traumatic event, or the like. Someone
+who owes a debt of honour to the Traveller, even if they do not like the Traveller all that much, might also have an affinity value of 5.
+** This level of affinity is rare and may not be healthy for either party. A deluded stalker might have an affinity value of 6 but
+other considerations make them dangerous.
+
+Degree of Enmity
+
+Notes
+
+0
+
+None
+
+No Enmity towards the Traveller. This may be because they do not know who the
+Traveller is, or because the Traveller has done nothing to offend them.
+
+-1
+
+Mistrustful
+
+Vaguely ill-disposed towards the Traveller (or perhaps everyone in general) but
+will not go out of their way to impede them. Someone with an Enmity value of -1
+is unlikely to take an action that will have serious consequences for the Traveller
+unless there is some great benefit.
+
+-2
+
+Negatively
+inclined
+
+May engage in acts of petty spite for no gain, just to annoy and upset the Traveller.
+Someone with an Enmity value of -2 will probably stop short of actions that would
+seriously harm or kill the Traveller.
+
+-3
+
+Very negatively
+inclined
+
+Will go to some trouble to impede the Traveller, just out of spite. Does not care
+much what happens to the Traveller and will more than likely feel they deserve
+anything they get.
+
+-4
+
+Hatred
+
+Will do almost anything to get one over on the Traveller. Might actively plot against
+the Traveller for the sake of revenge or causing further harm even if there is little or
+no gain involved.
+
+-5
+
+Bitter hatred*
+
+Will actively plot or take serious risks to cause the Traveller harm at
+any opportunity.
+
+-6
+
+Blinded by hate**
+
+May engage in self-destructive actions in order to harm the Traveller or put
+innocents at risk.
+
+* Bitter hatred can also represent an obligation to destroy the Traveller. The reasons might be personal or on behalf of
+someone else. Alternatively, the enmity might be due to the Traveller’s opposition to a cause. It might even be altruistic after
+a fashion – someone who genuinely believes the Traveller is a bad guy who must be stopped may be just as determined to
+destroy them as someone who hates the Traveller on a personal level.
+** Someone with this much hated may be willing to harm others to get to the Traveller and may extend their enmity to his
+friends and comrades.
+
+Allies, contacts, rivals and enemIes
+
+Enmity
+
+27
+
+

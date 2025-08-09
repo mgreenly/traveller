@@ -1,0 +1,37 @@
+THE WORLD MAP GENERATOR
+
+Below the jump map is a world map generator, which
+produces a map using the traditional ‘triangles and
+hexes’ format used in Traveller since its first publication.
+The map is a flat representation of a geodesic; if it
+were folded together the upper triangles would meet
+at the north pole and the lower ones at the south.
+Clearly Imisaa is a rather forbidding place, with
+terrain composed mainly of deserts, mountains and
+deep chasms. Its main features are clearly obvious
+and there may be something interesting about that
+giant canyon… sometimes adventure ideas are
+sparked by symbols on the map and sometimes
+Travellers will insist on investigating whether or not
+there is actually anything there.
+
+USING THE WORLD BUILDER
+The world builder tool is found at the bottom of the
+information box in a link named Traveller5 World
+Builder. It can be used to expand on known data
+about a star system or mainworld, or create one
+from scratch. The Referee has control over starting
+data and can specify details needed for a particular
+adventure, or can use the world builder tool to create
+an entirely random star system.
+As an example, we might decide to create a random
+world. Some data has to be decided upon by the
+Referee, starting with its sector location. If a sector
+that has already been generated is selected, the world
+builder allows the Referee to choose which world to
+develop and automatically uses its data.
+
+Travellermap and the Wiki
+131
+
+

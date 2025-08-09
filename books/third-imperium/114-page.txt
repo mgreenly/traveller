@@ -1,0 +1,123 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Personal Energy Shield
+
+There are times when armour is needed but the
+appearance of having armour is not. Nobles
+visiting hostile territory, military officers inspecting
+undisciplined militia, diplomats making first contact
+and others may require defensive armour without
+looking as if they are geared up for combat. The
+personal energy shield creates an invisible gravitic
+field around the wearer, which repels ballistic and all
+energy attacks except lasers. The shield is powered
+by a small, unobtrusive battery that may be worn at
+the belt or beneath the clothing in order to conceal its
+presence. A standard battery provides six hours
+of protection.
+A skilled wearer can overload the battery to get more
+Protection by making a Difficult (10+) Electronics
+(computers) check to recalibrate the device. Success
+with an Effect of 0-3 provides Protection +18 but
+reduces the battery life by one half. Effect of 4–5
+provides Protection +24 with one half the battery
+life. An Effect of 6+ provides Protection +24 with no
+reduction in battery life. The Traveller must reattempt
+the calibration with each recharge of the battery.
+
+Armour Type
+
+Protection
+
+TL
+
+Rad
+
+Kg
+
+Cost
+
+Required Skill
+
+Personal Energy Shield
+
++12
+
+15
+
+—
+
+1*
+
+Cr320000
+
+None
+
+* The weight of the personal energy shield is that of the battery.
+
+apge
+
+Stun Rifle
+
+A non-lethal weapon, designed to inflict a massive
+shock to the target or targets, incapacitating them.
+The stun rifle employs similar technology to that of
+the stunner (see page 116 of the Central Supply
+Catalogue), inflicting more damage and providing a
+blast option. When set to blast, the stun rifle receives
+the Blast trait. Blast shots inflict reduced damage of 3D
+and consume two charges from the magazine.
+
+Weapon
+
+TL
+
+Range
+
+Damage Kg
+
+Cost
+
+Magazine
+
+Power Pack Cost Traits
+
+Stun Rifle
+
+13
+
+20
+
+4D/3D*
+
+Cr3000
+
+200
+
+Cr500
+
+5
+
+* Weapon does 4D of damage when set to single target and 3D when set to blast.
+
+114
+
+Blast 3*, Stun, Zero-G
+
+R
+
+

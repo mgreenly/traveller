@@ -1,0 +1,93 @@
+T
+
+Both set off on the dash but after two steps Damien
+turns and runs back into cover. Cassandra now has to
+decide whether to turn back or keep going, and how to
+extricate her terrified friend from danger.
+On another day, Arix the Accountant is being bullied
+by a local thug and decides to stand up to him. This
+goes badly: Arix is punched to the ground. Arix gets
+up and has another go, and gets knocked down again.
+Arix decides that he will never give in and will keep
+on getting up no matter how many times he is beaten.
+The Referee thinks this is not in keeping with Arix’s
+persona as a penpushing interstellar accountant and
+asks for a MRL check. Arix passes and clambers
+defiantly to his feet. Whether or not he gets knocked
+down again is another matter…
+
+SANITY (STY)
+Sanity is a useful characteristic to have in games
+with a supernatural element or those that involve a
+lot of cybernetics. Travellers experiencing a strange
+electronic world might be driven mad by it, temporarily
+or permanently. Sanity could also be used to model
+the effects of post-traumatic stress disorder on
+Travellers who had unpleasant experiences in service
+or during an adventure.
+
+Characteristics
+
+Sanity is determined by a straight 2D roll. A Traveller
+with a STY characteristic greater than zero is
+essentially sane and responsible for their actions,
+although they might be a little unstable or have
+hang-ups that cause unusual behaviour. Sanity can
+be temporarily or permanently reduced to zero, at
+which point the Traveller may develop some serious
+form of mental illness.
+
+8
+
+STY checks may be called for upon witnessing deeply
+shocking events or things disturbing to the mind of
+mortals. One such is jumpspace, which is said to cause
+insanity if viewed for even a short time.
+If a Traveller fails a STY check under most
+circumstances, he takes damage to his STY
+characteristic much like physical damage affects
+STR, DEX and END. Most events will cause D3
+or 1D damage but some particularly horrific or
+traumatic events will cause more harm. If STY
+is not reduced to zero, it will return to its normal
+value over time. If it does reach zero, more serious
+consequences befall the Traveller.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Long-term exposure to traumatic situations will
+also reduce sanity, although typically at a low rate.
+Travellers engaged in trench warfare might be
+required to make a STY check once per week, or
+lose a point of STY.
+In some cases, a STY check will be all-or-nothing. If
+it is passed, the Traveller has dealt with the incident
+and is not suffering any long-term harm. If the check
+is failed, there will usually be a specific response. For
+example, Travellers confronted with a particularly weird
+creature might be required to make a STY check or flee
+in terror. Some psionic talents may have similar effects.
+If STY is reduced to zero on a temporary basis, the
+Traveller loses the ability to act rationally. Temporary
+insanity can take the form of panic or catatonia, or
+perhaps utter confusion leading to an inability to act
+coherently. It may also manifest as violence, possibly
+against the wrong recipient. The form of temporary
+insanity will usually be dictated by the nature of the
+insanity-causing event.
+
+R
+
+

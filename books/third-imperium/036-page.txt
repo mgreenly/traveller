@@ -1,0 +1,72 @@
+PAX IMPERII
+9
+
+DECK 1 – FUEL DECK
+
+14
+
+21
+8
+12
+
+8
+
+19 15
+4
+
+5
+20
+
+16
+
+12
+
+7
+
+7
+30 26
+
+17
+
+18
+
+1. M–Drive
+2. J–Drive
+3. Power Plant
+4. Meson Screens
+5. Nuclear Dampers
+6. Airlock
+7. Small Ion Cannon Bays
+8. Small Railgun Bays
+9. Triple turrets
+(long range beam lasers)
+10. Triple turrets
+(long range pulse lasers)
+11. Triple turrets (sandcasters)
+12. Point Defence Batteries
+13. Fuel Processor
+14. Docking Spaces
+15. Medical Bays
+16. Stables
+17. Vaults
+18. Workshops
+19. Low Berths
+20. Railgun Shots
+21. Sandcaster Barrels
+
+6
+13
+3
+10
+
+29
+2
+
+11
+1
+
+36
+
+DECK 2
+
+

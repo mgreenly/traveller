@@ -1,0 +1,61 @@
+V
+
+ECTOR-BASED
+SPACE COMBAT
+
+The Space Combat chapter of the Traveller Core
+Rulebook provides a relatively simple and exciting way
+to resolve deadly fights between spacecraft. However,
+there are certain limitations to the rules presented there.
+The rules do not allow spacecraft to retain momentum
+from one space combat round to the next. Thrust is
+instead abstracted as a maximum speed per combat
+round. In a game where ships may accelerate
+continuously for many hours when travelling to or from
+the 100-diameter jump limit or another planet in the
+same system – before turning around and decelerating
+continuously, starting at the halfway point until they
+reach their destination – many battles could involve
+ships moving at very high speeds.
+
+When several ships are involved in a fight, they may
+wish to travel in directions other than straight towards
+or directly away from their adversaries, or multiple ships
+may start a battle from widely-separated areas. Thus, a
+system that only tracks range along a one-dimensional
+axis prevents realistic ranges from being calculated
+among the various participants.
+The purpose of these supplementary rules are to add the
+ability to calculate range between any number of ships
+in a space combat scenario by using a map, and to allow
+the accumulation of velocity over time. Suggestions
+for using a physical map and virtual tabletops (VTTs)
+are included. That said, some elements of realism are
+ignored for the purposes of simplicity:
+• Combat (like interstellar maps in Traveller) is
+treated as two-dimensional — all ships and
+interstellar bodies are treated as being on the
+same flat plane.
+• Spacecraft facing is ignored. It is assumed that ships
+may pivot to any needed direction over the course
+of each six-minute space combat round, even when
+expending their full Thrust during a round.
+• A map using either hexagons or squares is used
+and spacecraft are generally treated as being in
+the centre of the space they occupy.
+• Simplifications have been made to the movement
+of missiles to avoid adding unmanageable levels of
+complexity during combat scenarios that may have
+many salvoes seeking targets simultaneously.
+• The gravitational effects of large bodies are
+ignored, since Traveller assumes that spacecraft
+capable of only Thrust 1 are able to move freely in
+the gravity wells of planets.
+These rules may be viewed as an add-on to the Space
+Combat chapter, with each round divided into steps:
+Manoeuvre, Attack and Actions. Steps are further
+divided into phases.
+
+169
+
+

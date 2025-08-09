@@ -1,0 +1,90 @@
+ANIMAL ENCOUNTERS
+Travellers may encounter all manner of animal life
+during the course of their adventures. It is relatively
+easy to figure out where a given creature fits into the
+local ecosystem and how dangerous it is likely to be
+but, occasionally, Travellers might encounter something
+very odd or which does not fit the usual description
+of an animal. There is always a reason for any given
+feature an animal possesses but nature sometimes
+moves in very mysterious ways.
+Resilient Animals
+The physical nature of some creatures means
+that some weapons do not adversely affect them
+very well, or at all. Some creatures are resistant to
+particular types of injuries, which modifies any armour
+Protection they have.
+Reduced Damage indicates a weapon’s damage
+dice should be reduced to D3, retaining any plus
+or minus. Thus, a handgun normally doing 3D-3
+damage would do 3D3-3.
+Minimum Damage indicates a weapon delivers only
+one point of damage per dice, ignoring any plus or
+minus. Thus, a handgun normally delivering 3D-3
+damage and a powerful rifle normally doing 3D+2 would
+both deliver only three points of damage as their bullets
+pass through the creature with equally poor effect.
+
+ANIMAL TRAITS
+
+The following Traits can apply to any creature, although
+some are obviously unsuitable for certain environments.
+Clever: Clever animals can learn to operate simple
+devices. They will know what effect they are trying to
+achieve but have no understanding of the principles
+behind it. For example, a Clever creature might observe
+Travellers operating the cargo hoist in their ship and
+learn that it can ride the containers into the ship, or lift
+one up to obtain a higher vantage point. Cleverness
+combined with aggression creates a very dangerous
+predator capable of stalking Travellers through doors
+they think are secured; less violent creatures can still
+cause havoc by playing with the controls of a vehicle. A
+Clever animal can figure out how to use a simple device
+or control such as a door panel on a 2D roll of 10+,
+made each time it sees someone perform the task.
+
+Composite (x+y): Composite creatures are
+actually made up of multiple parts than can operate
+independently. For example, a creature may appear
+to be a single organism until disturbed, at which point
+several parts detach themselves and attack intruders.
+Composite creatures are rare and often confuse
+observers into thinking they are entirely separate
+organisms. Hits for a Composite creature refer to
+its main body, if it has one. Detached parts have a
+quarter of this amount but harming them does no
+damage to the main body. The number of component
+parts is denoted in the format x+y, where x is the
+number of critical, or main, components and y is the
+number of detachable parts.
+Dispersed: Dispersed creatures do not have the
+usual concentration of functions into large organs but
+instead disperse life processes throughout their bodies.
+Dispersed creatures take Reduced Damage from most
+weapons but full damage from blades and fire – they
+can be cut apart or burned but poking them full of holes
+or bashing their squashy appendages has little effect.
+Energy: Creatures composed of pure energy are
+postulated to exist, although their life processes are so
+exotic as to defy explanation. Energy creatures are not
+affected by conventional weapons.
+Explosive (x,y): Explosive animals contain substances
+that burn hotly or even explode when exposed to the
+atmosphere. Such organisms tend to be extremely
+exotic and rare, since exploding on contact with air
+would normally be an evolutionary liability. An Explosive
+creature’s capabilities are denoted in the format:
+(damage, radius) so one listed as Explosive (1D, 3m)
+causes 1D damage to everything in a three metre
+radius if it is exposed to atmosphere.
+Floater: Floaters are very low-density creatures which
+drift on air currents without actually being able to fly. By
+definition they have little structure and are not resilient,
+and thus usually also possess the Gossamer trait.
+Floaters can move under their own power but only at a
+rate of one metre per combat round.
+
+93
+
+

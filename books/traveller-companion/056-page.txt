@@ -1,0 +1,115 @@
+T
+
+How difficult an item is to slip through security depends
+on its size and how much like a weapon it appears. If
+scanners are in use, the composition of the weapon
+also matters. The modifiers here assume an object
+is no larger than a typical handgun and shaped like a
+recognisable weapon. The following DMs are applied if
+the weapon differs from this basic type:
+Weapon is disassembled or concealed (weapon is
+concealed inside some innocent looking object, or is
+in parts dispersed where they will seem to be normal
+components of the Traveller’s luggage): DM+4
+Weapon does not look like a weapon (weapon is
+disguised somehow): DM+2
+Weapon is very small (small knife, tiny high-tech
+projectile or energy weapon): DM+1
+Weapon is small (compact handgun, body pistol or
+similar weapon): DM+0
+Weapon is large (Bulky handgun, very small
+submachinegun): DM-2
+Weapon is very large (submachinegun or laser
+carbine): DM-4
+Weapon is extremely large (Rifle or light
+machinegun): DM-6
+Note that in this case ‘large’ and ‘extremely large’
+simply mean the weapon is big enough to be difficult
+to conceal and will tend to attract notice even if it is
+disguised as something else.
+
+Combat
+
+DIRECT SEARCHES
+
+56
+
+Direct searches are available at any Tech Level and
+are not always intrusive. At the most basic, security
+personnel may be simply looking for weapon-shaped
+objects or strange bulges in clothing. They will also try
+to ‘read’ people to see who looks a little bit ‘off’. Anyone
+who stands out – such as being unduly nervous – may
+be searched more diligently. A member of an alien
+species or culture with unusual or difficult to read
+mannerisms may attract more or less attention than
+more typical starfarers.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+To get past a simple visual search – i.e. the guards
+are simply looking people over to see if they are
+behaving oddly or carrying something they should
+not – requires an opposed Persuade or Stealth check
+against the Recon skill of the guards. DM-2 applies
+to the Travellers’ check if the guards are unusually
+alert. Very alert guards, or those who are looking for a
+weapon they are sure is there somewhere, will conduct
+a diligent search, inflicting DM-4.
+Direct searches take time and are typically used where
+technical means are not available or where suspicion
+has been aroused. Arguably, Travellers will encounter
+a simple visual search any time security personnel look
+at them but if they seem to be going about their normal
+business and do not have weapons on display they will
+not attract attention and the ‘search’ can be assumed
+to have been nothing more than a cursory glance.
+Essentially this means that unless the Travellers are
+stupid or careless they will not have to make a check
+every time a security officer walks by.
+
+TECHNOLOGICAL SEARCHES
+Technological weapon searches become possible at
+TL4, with metal detectors used to spot items. Metal
+detectors, as the name suggests, can only detect
+items that contain metal. A ceramic knife, or body pistol
+made from non-metallic components, will automatically
+pass the scanner. Note that handgun ammunition is
+normally of metal, so a non-metallic weapon needs to
+be accompanied by non-metallic ammunition.
+Metal detectors are all-or-nothing devices. If any
+significant amount of metal is present the detector
+will pick it up if it is calibrated properly. If the detector
+is triggered, security personnel will investigate and
+a direct search will be made. On some occasions
+a metal detector will be badly calibrated and metal
+objects will not be detected. This is a matter of good
+luck or judgement on the Travellers’ part however,
+and can be done by making a Very Difficult (12+)
+Streetwise check to pick a time when the detectors are
+not working properly.
+At TL7, complex scanners become available which
+include metal detection, ultrasound or ‘soft’ X-ray
+imaging to build up a picture of what is under clothing
+or inside luggage, and higher-tech sensors such
+as nuclear magnetic resonance devices which can
+tell what materials are present. Chemical detection
+systems can spot explosives (and other compounds) by
+sampling the air around a Traveller. This includes most
+propellants used in firearm ammunition.
+
+R
+
+

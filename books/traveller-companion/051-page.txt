@@ -1,0 +1,99 @@
+RANDOM FIRST BLOOD
+
+Instead of always applying damage to END first, the first
+damage sustained in any combat is applied to a random
+physical characteristic and further damage after that can
+be allocated to any physical characteristic. This makes
+a low END Traveller more survivable.
+
+ALTERNATIVE INITIATIVE
+
+Under this system, combat still takes place in sixsecond rounds but there is no strict initiative order to
+actions. Instead, everything that takes place in a given
+round is assumed to be a mad scramble with many
+things happening at once. All actions are resolved
+and then the effects are implemented simultaneously.
+Thus, a Traveller riddled with bullets as they swing their
+sword may still land a blow, or two combatants might
+shoot one another and collapse simultaneously.
+This is not unrealistic. It is very rare for a weapon
+to instantly ‘switch off’ a target, so a Traveller
+committed to an action will carry it out before any
+wounds they receive in the process take effect.
+However, it does take time to cover a gap between
+two combatants, so ranged attacks against targets
+who are not already in close combat with the shooter
+are resolved before the melee attack.
+
+If the difference between the two combatants’ modified
+initiative scores is less than 6, their actions are more
+or less simultaneous. The faster Traveller may get off a
+shot a split second before the axe swinging at his head
+arrives but not in time to stop it.
+For example, Arix the Accountant opens a door in an
+enemy base and is spotted by a guard. The guard
+draws his pistol and turns to face Arix, intending to
+shoot him on sight. Arix steps back and slams shut the
+heavy crystalliron door. Arix wants to act before his
+opponent, for obvious reasons. He rolls initiative using
+his INT modifier of +1 at a difficulty level of Average (8+)
+and gets an 8 on the dice. With his INT modifier, this
+gives Arix an Effect (and thus a base initiative) of +1.
+The guard’s Initiative roll comes up 9 on the dice.
+With his DEX modifier this gives an Effect of +2.
+However, he is carrying out a complex action; drawing
+and pointing his weapon as he turns. A -6 modifier is
+imposed, giving a final modified initiative of -4.
+The difference between +1 and -4 is 5 – not quite
+enough! Arix slams the door and leans on it,
+breathing heavily. For a second his buddies think he
+closed it in time but then they see the blood seeping
+through his jacket…
+
+MATERIAL DESTRUCTION
+
+In order to damage or destroy an object it is necessary
+to hit it with a weapon or place explosives such that
+they will cause harm. This presents little problem if
+the Traveller is not interrupted. Attacks with hand
+weapons on large inanimate objects (e.g. vehicles
+or buildings) will usually hit them; Travellers simply
+need to work out how much damage they deal. It is
+necessary to roll to hit when attacking from a distance,
+say with firearms or artillery fire, and explosives must
+be planted using the appropriate skill.
+
+Combat
+
+In a situation where a Traveller wants to do something
+before someone else can act, such as shooting an
+opponent as they are drawing a weapon or rushing
+forward to attack with a knife, an opposed Initiative
+check is made using the following procedure:
+• Roll initiative as normal, using DEX or INT. The
+Effect of this check is the Traveller’s base initiative.
+• If the Traveller has to take one very short action
+(e.g. stabbing with a hand weapon or pointing a
+gun), subtract -2 from the base initiative.
+• If the Traveller has to take a longer action (e.g.
+drawing a weapon or crossing 2–3 metres to
+attack with a hand weapon), subtract -4 from the
+base initiative.
+• If the Traveller has to take a complex or multiple
+action, (e.g. drawing a weapon and turning to
+point it at someone behind him, or drawing a
+sword whilst charging at the target), deduct -6
+from the base initiative.
+
+If the difference between the two combatants’ initiative
+is 6 or more, the faster combatant may carry out their
+action and resolve its effects before the slower one
+can do anything. If the slower combatant is rendered
+incapable of acting (either by circumstances or
+incapacitation) their action will not occur. If the slower
+combatant is hurt but not incapacitated, DM-2 is applied
+to their actions during that turn.
+
+51
+
+

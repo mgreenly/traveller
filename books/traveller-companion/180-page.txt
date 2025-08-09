@@ -1,0 +1,87 @@
+STARSHIP WEAPONRY
+Some of the weapons in this chapter are likely only to
+be encountered in relic or prototype form, although they
+may be in use by some advanced civilisations. Others
+are simpler and might be encountered in the hands
+of anyone from pirates to naval vessels. Not all need
+be mounted on ships and may be present as part of a
+planetary defence network.
+
+ANTIMATTER STREAMER
+An antimatter streamer is a crude particle beam
+weapon which fires a stream of heavy antimatter
+particles. This causes severe explosive effects on the
+target, although the beam dissipates (spectacularly)
+over short distances. An antimatter streamer is
+a bay-sized weapon, with a maximum range of
+Medium. Damage is attenuated at this distance;
+each dice of damage is treated as D3 at Medium
+range. Closer targets take full damage. Conversely,
+the dissipating spray of antimatter increases the
+likelihood of a successful hit at longer rangers; the
+streamer gains DM+2 to attack rolls at Short range
+and DM+4 at Medium range.
+
+PLASMA/FUSION CARRONADE
+
+A carronade is a short-ranged plasma weapon firing
+a stream (more accurately a spray, since the stream
+tends to spread out quickly) of superheated gas.
+The weapon is named for an archaic short-barrelled
+cannon also referred to as a ‘smasher’. Carronades
+are primarily used aboard fast ships intended to close
+to very short range and deliver a powerful strike. They
+are most effective against lightly armoured vessels, as
+the main drawback of carronade weapons is their poor
+performance against armour.
+Other than close-in firepower, carronades also have
+the advantage of being relatively cheap. A carronade
+consumes four hardpoints on a ship’s hull and cannot
+be fitted to vessels with less than four. More advanced
+ships can make use of fusion carronades, which are
+similar but use more energetic plasma.
+
+180
+
+HULLCUTTER
+
+A hullcutter is a large and powerful weapon firing a
+beam of exotic particles designed to simply cut enemy
+ships into pieces. It is possible that this weapon is a
+precursor of the disintegrator beam, which can cause
+an entire ship to dissolve into its constituent atoms.
+Early hullcutters require a large bay but on extremely
+advanced ships they can be fitted into smaller mounts.
+
+DISINTEGRATOR
+Shipboard disintegrator weapons are a very rare spinal
+mount and typically associated with the Ancients
+or other old, powerful civilisations. Their stream of
+energised exotic particles cause a reaction in the atoms
+and molecules of the target. As atomic bonds fail, the
+ship’s matter begins to drift apart in fragments varying
+in size from a turret or bridge down to single atoms. In
+some cases, atoms recombine and release small highenergy explosions. Maximum range for disintegrator
+weapons varies according to their Tech Level.
+
+GROUND DEFENCE GUNS
+
+Whilst missiles are the standard mid-tech weapons
+for defence against spacecraft, supplemented or
+supplanted by energy weapons at higher Tech
+Levels, some cultures prefer conventional or
+hypervelocity guns. These can endanger a ship
+stationary in orbit and guns can certainly make a
+landing site very unhealthy. Standard artillery can
+be used to bombard a landing site to deny it to the
+enemy or inflict damage but much higher-velocity
+weapons are needed to hit a moving ship.
+The earliest effective ground defence guns appear at
+TL4. These are essentially a larger version of antiaircraft guns, firing an explosive shell at relatively high
+velocity. Early guns of this sort can only fire on targets
+approaching their defended area; they cannot attack
+orbital targets. Ground defence weapons are usually
+mounted in fixed fortifications but can be carried aboard
+maritime ships or extremely large vehicles.
+
+

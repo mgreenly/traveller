@@ -1,0 +1,93 @@
+D
+
+ISEASES,
+TOXINS AND CHEMICALS
+
+The mechanics for dealing with the effects of harmful
+substances are very similar, despite their origins being
+quite different. We will use the term ‘agent’ as a catchall to describe these substances.
+Agents can harm the victim in various ways. Some
+interfere in the body’s natural processes whilst others
+damage specific organs. Some biological agents
+actively grow within the body, such as fungal spores,
+whilst others cause diseases by viral or bacterial
+infection. The details can vary significantly but for the
+purposes of Traveller we are primarily interested in how
+the agent is introduced to the body, the effects of the
+agent, the time between exposure and the beginning of
+the effects and whether the effects can be resisted.
+It may also be important to know if an agent can
+be passed from one person to another. As a rule
+of thumb, diseases and biological agents can
+often cause one host to infect other people but
+non-biological agents generally cannot. There are
+exceptions to both, however. The notes on any
+specific agent will indicate its capabilities.
+Agents can be divided into three basic types:
+Biological agents are of natural origin, in that they
+are created by life processes even if those processes
+have been manipulated to create the agent. Viruses
+and bacteria, parasites and biological toxins such as
+snake venom all fall into this category, although they
+have different capabilities. Most biological agents are
+destroyed by heat (and sometimes cold) or radiation
+– often including ultraviolet light – and will rapidly
+become harmless if supporting life processes are
+terminated. For example, a virus living in a person’s
+body will usually cease to be dangerous within a few
+hours after the death of the host.
+Chemical agents are typically inert, i.e. they cannot
+reproduce themselves but can usually survive
+conditions that would destroy a biological agent. Toxic
+chemicals remain toxic unless their nature is changed,
+perhaps by reaction with a neutralising agent.
+
+Energy-Based agents cause harm by damaging
+living cells. The most obvious example is nuclear
+radiation but various exotic forms of energy might exist
+in a Traveller universe. Energy-based agents might
+harm the victim directly, such as when a Traveller is
+exposed to radiation in a solar flare, or might irradiate
+an object which is then ingested or comes in contact
+with skin. This is why radioactive fallout is dangerous
+– radioactive dust can be breathed in or ingested, or
+lie in contact with the skin and thus allow its radiation
+to cause damage to the victim. Protection against
+secondary hazards of this sort requires preventing
+contact, perhaps by using a sealed suit and breathing
+system. Direct radiation is harder to protect against,
+requiring a material that absorbs the energy to be
+placed between target and agent.
+
+DELIVERY METHOD
+
+The delivery method of the agent is important, since
+avoiding exposure is the surest method of protection.
+Some agents cannot affect a victim without getting into
+the bloodstream. Skin is an effective barrier against
+many such agents, providing it is not broken. Others
+need to be ingested or inhaled and in many cases
+will not have any effect unless they pass through the
+respiratory or digestive system.
+Ingested agents are the easiest to defend against.
+If not eaten or drunk they cannot affect the victim.
+Detection of many chemical agents is fairly easy due
+to their odour or other characteristics. Some toxins
+cannot be smelled or tasted and require the use of
+technological sensors to detect.
+Injected agents can be delivered by medical injection
+but are more often encountered on the stingers or
+fangs of hostile wildlife, or delivered as darts, needles
+or bullets by projectile weapons. To have effect,
+injected toxins must enter the bloodstream. This
+normally requires breaking the skin or contact with
+an open wound. Weapons that do no damage (other
+than to deliver a chemical payload) will penetrate most
+normal clothing but will be stopped by any form of
+armour useful against projectiles. A weapon that does
+some normal damage will fail to inject its toxin if it is
+stopped by armour.
+
+71
+
+

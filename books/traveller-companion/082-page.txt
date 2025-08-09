@@ -1,0 +1,114 @@
+EFFECTS OF TEMPERATURE
+Injury from extremes of temperature tends to be
+localised, such as when a Traveller burns a hand or is
+splashed with cryogenic fluids. Such injuries are treated
+like weapon damage. Armour and/or insulation can help
+and it is up to the Referee to decide whether armour
+is of any use. A Traveller using heatproof gauntlets
+to handle a hot object should be able to count their
+Protection against it.
+However, if a Traveller is immersed in the source of the
+damage (this is what Fire weapons are designed to do),
+then it is much harder to protect against harm. Armour
+does not work well against such attacks. Most body
+armour is reasonably fireproof but counts at only half
+Protection against Fire attacks and cryogenic fluids.
+Natural resilience and armour from, say, a
+creature’s thick hide, counts as full Protection,
+as does a sealed full-body suit like a vacc suit.
+Naturally, armour specifically intended to protect
+against such attacks, such as a fireproof suit or
+Reflec, defends at full Protection.
+
+Temperature Damage
+Example
+
+Damage
+
+Small flame, e.g. lighter
+
+1 per round
+
+Moderate flame, e.g. wood fire
+
+1D per round
+
+Small intense flame, e.g. blowtorch
+
+2D per round
+
+Steam or burning building
+
+1D per round
+
+Jet of live steam or Furnace
+
+3D
+
+Molten metal or rock
+
+6D
+
+Liquid carbon dioxide
+
+1D per round
+
+Liquid nitrogen
+
+2D per round
+
+Liquid hydrogen
+
+3D per round
+
+This assumes brief contact, such as a gobbet of lava
+spitting at a nearby geologist or an unwary engineer
+sticking his hand into a jet of live steam from a cracked
+pipe. If a Traveller is immersed in the threat, damage
+dice are tripled before any reduction for armour
+Protection is considered.
+
+82
+
+LONG-TERM EFFECTS
+The comfortable range of temperatures for humans
+who do not have protective equipment is not great. It
+is possible to tolerate quite extreme temperatures (e.g.
+inside a meat locker or near a furnace) for a short time
+in shirtsleeves without ill effect but temperature can be
+insidious and within a fairly short period the Traveller
+will begin to suffer harm.
+Note that a Traveller wearing an environmentallycontrolled suit is not exposed to outside temperature
+and will be immune from all effects so long as the
+suit continues to function. Extremes of temperature
+will drain power fast and may overload the suit
+beyond what it can handle.
+
+HYPOTHERMIA
+A Traveller dumped in the arctic in his shirtsleeves has
+minutes to live at best and fairly unpleasant ones at
+that. However, with suitable clothing, plenty of highcalorie food and care not to get wet, it is possible for a
+human to cope with very low temperatures.
+A Traveller exposed to cold conditions with inadequate
+protection will gradually begin to suffer from
+hypothermia and related effects such as frostbite. How
+long this takes depends on the temperature. The effects
+are much the same – hypothermia is hypothermia
+whether it is caused by sitting in shirtsleeves in a
+cold room or trudging through arctic wastelands with
+inadequate clothing. Cold severe enough to cause
+immediate injury is treated as any other form of
+damage; these rules cover situations where a Traveller
+is being slowly chilled to death.
+Hypothermia is held at bay by making successful END
+checks. If successful, the Traveller does not suffer
+from ill effects until the next time a check is required.
+Difficulty of the check depends upon temperature and
+the interval between checks is also determined by the
+conditions. On a failed check, END is reduced by -1
+and this new value is used for subsequent checks.
+If END reaches zero the Traveller begins to suffer
+from acute hypothermia and loses D3 points from the
+highest of STR or DEX until both reach zero.
+
+

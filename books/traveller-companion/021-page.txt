@@ -1,0 +1,177 @@
+SCHOLAR
+
+SPACER (CREW)
+
+STR
+
+—
+
+INT
+
++1
+
+BENEFITS
+
+STR
+
+—
+
+INT
+
+—
+
+BENEFITS
+
+DEX
+
+—
+
+EDU
+
++1
+
+DEX
+
++1 EDU
+
+—
+
+END
+
+—
+
+SOC
+
+—
+
+Cr50000, 3 Contacts
+(academics or publishing
+professionals)
+
+END
+
+—
+
+—
+
+Cr35000, 2 Contacts
+(crewmates or portside
+staff)
+
+SKILLS
+
+Art 0, Diplomat 0, Drive 0, Electronics (computers)
+1, Investigate 2, Medic 0, Navigation 0, Science
+(any) 3, Science (any) 1, Persuade 1, Profession 0
+
+SOC
+
+SKILLS
+
+Athletics (any) 1, Electronics (any) 1, Engineer
+(any) 1, Gunner 0, Mechanic 1, Medic 0,
+Persuade 0, Pilot 0, Steward 1, Vacc Suit 3
+
+The Traveller’s career revolved
+around discovery and obtaining
+knowledge. They may have
+been a field researcher, a
+theoretical scientist, or perhaps
+just someone whose curiosity
+led them far from home.
+
+SCOUT
+STR
+
+—
+
+INT
+
++1 BENEFITS
+
+DEX
+
+—
+
+EDU
+
+—
+
+END
+
+—
+
+SOC
+
+—
+
+SKILLS
+
+Cr25000, 3 Contacts
+(spacers or contacts on
+distant worlds)
+
+Astrogation 1, Carouse 0, Drive 0, Electronics
+(computers) 1, Engineer (any) 1, Gun Combat 0,
+Investigate 0, Jack-of-all-Trades 1, Medic 0, Pilot
+(starship) 1, Recon 0, Streetwise 1, Vacc Suit 1
+
+SPACER (COMMAND)
+STR
+
+—
+
+INT
+
++1 BENEFITS
+
+DEX
+
+—
+
+EDU
+
+—
+
+END
+
+—
+
+SOC
+
+—
+
+SKILLS
+
+Rank 2 (lieutenant or
+4th officer), Cr75000, 1
+Ally (former colleague or
+government official)
+
+Admin 1, Advocate 0, Astrogation 1, Broker 0,
+Electronics (sensors) 1, Gunner 1, Leadership
+0, Persuade 0, Pilot (starship) 2, Tactics 0,
+Vacc Suit 1
+The Traveller was an officer
+aboard a naval or commercial
+starship, serving as part of the
+bridge or flight crew.
+
+alternate character creation
+
+The Traveller served aboard
+an exploration or survey
+starship, gaining a broad
+selection of shipboard and
+problem-solving skills.
+
+The Traveller was a
+crewmember on a naval or
+commercial starship, working
+in the technical and supporting
+branches of the crew rather
+than flying the ship.
+
+21
+
+

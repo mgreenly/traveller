@@ -1,0 +1,193 @@
+T
+
+MILITARY (OFFICER)
+
+A
+
+V
+
++1 BENEFITS
+
+BENEFITS
+
+DEX
+
+—
+
+EDU
+
+—
+
++1 Rank 2 (captain),
+SOC — Cr60000, Gauss Pistol,
+1 Contact (former
+colleague or subordinate)
+
+END
+
+—
+
+SOC
+
+—
+
+INT
+
+DEX
+
+—
+
+EDU
+
+END
+
+—
+
+—
+
+E
+
+Cr10000, 3 Contacts
+
+SKILLS
+Art (any) 3, Athletics 0, Broker 0, Carouse 2,
+Deception 1, Gambler 0, Persuade 1, Profession
+0, Steward 1, Streetwise 1
+The Traveller makes a
+living from some kind of
+performance, be it dance,
+acting, music or something
+far more exotic. The Traveller
+might be an itinerant busker
+or concert pianist; a renowned
+vid star or professional extra in
+local performances.
+
+The Traveller is a former
+officer in an armed force of
+some kind. This may be a
+formally organised army or
+paramilitary group, militia or
+mercenary force.
+
+ROGUE
+
+NOBLE
+
+alternate character creation
+
+L
+
+PERFORMER
+INT
+
+Admin 1, Athletics (endurance) 1, Diplomat
+1, Drive 0, Electronics 0, Gun Combat (any)
+1, Leadership 2, Medic 0, Recon 1, Stealth 0,
+Tactics (military) 1
+
+20
+
+L
+
+—
+
+—
+
+STR
+
+—
+
+INT
+
++1 BENEFITS
+
+BENEFITS
+
+DEX
+
+—
+
+EDU
+
+—
+
++1 Minor noble title such as
+SOC — Knight, Dame, or Ritter,
+Cr100000, 3 Contacts
+(nobles, administrators
+or military)
+
+END
+
+—
+
+SOC
+
+-1
+
+STR
+
+—
+
+INT
+
+DEX
+
+—
+
+EDU
+
+END
+
+—
+
+SKILLS
+
+E
+
+STR
+
+STR
+
+SKILLS
+
+R
+
+—
+
+Admin 1, Advocate 1, Art 0, Broker 0, Carouse 1,
+Deception 0, Diplomat 2, Gambler 0, Leadership
+2, Persuade 1
+
+The Traveller is a member
+of the elite social classes,
+which may or may not
+be explicitly nobility. The
+Traveller must have SOC
+10+ to take this background
+option. This package
+assumes a get-things-done
+type of noble rather than
+someone who rests on their laurels.
+
+Cr10000, 2 Contacts
+(underworld connections)
+
+SKILLS
+Athletics 0, Deception 1, Electronics 0, Gambler
+1, Gun Combat 0, Melee (any) 1, Persuade 0,
+Recon 1, Stealth 2, Streetwise 2
+The Traveller has made a
+career, or at least a living,
+on the fringes of society. His
+actions might not actually
+be illegal but are generally
+disreputable. Most rogues are
+willing to undertake at least
+mildly illegal actions; some are
+notorious criminals.
+
+R
+
+

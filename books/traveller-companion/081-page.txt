@@ -1,0 +1,60 @@
+WATER SHORTAGE
+
+Under fairly normal conditions, a typical human needs
+about three litres of water each day. Hot conditions
+increase this amount by a factor of two to three. If
+adequate water is not available, a Traveller can survive
+36 hours without suffering serious ill effects. After this
+they must make an Average (8+) END check every
+three hours or suffer a reduction of -1 END. For every
+check after the first, then a cumulative DM-1 applies.
+The difficulty is reduced to Routine (6+) if some (but
+not enough) water is available and increased to Difficult
+(10+) in hot or dusty conditions, such as a desert.
+Once END has reached 0, the Traveller collapses.
+He loses D3 points from the higher of STR or DEX
+(randomly chosen if they are identical) per hour until
+those, too, reach zero and they die.
+For example, Ed the Explorer is lost in the wilderness
+with starvation rations for five days. He has END
+9 so can go for nine days without food without
+suffering serious ill effects (he will be pretty miserable
+however) and 18 more days with DM-2 to all physical
+activities and no natural healing. After 27 days, he
+will begin to suffer serious effects. Ed loses one point
+to the higher of STR or END each day. This is not
+damage in the physical sense; it is the deterioration of
+his body’s capabilities as it tries to survive by feeding
+on itself. If either STR or DEX get to zero he will
+collapse and be unable to take any significant action
+as his body uses up its last reserves.
+
+If Ed has brought five days’ worth of rations with him,
+he can use them at any point in this process. He
+can alternate days where he eats and days where
+he does not, eat all his rations then tough it out, or
+suffer for several days before eating anything, eat
+for five and then begin to starve again. The effect is
+the same – minimal rations are not enough to reset
+his ‘starvation clock’.
+If Ed was rescued after 14 days (i.e. he ate his rations
+but was found just before true starvation set in) and
+was properly fed for two days before becoming lost
+again, he would be able to survive only two days
+before starvation sets in once more – his reserves are
+not yet rebuilt. What he needs is a couple of weeks
+in a nice hotel with a cooked breakfast every day and
+unlimited access to the buffet.
+If Ed were not rescued at all, he would be able to
+operate reasonably well for 21 days and then could
+stumble around the wilderness for a few more days
+after starvation set in, eating the odd beetle and leaf
+but gradually becoming weaker and weaker. Once
+STR or END reached 0, he would be unable to move
+and become even weaker each day until his body just
+gave up from lack of food.
+
+Starvation and Thirst
+81
+
+

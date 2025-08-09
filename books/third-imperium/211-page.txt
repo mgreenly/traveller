@@ -1,0 +1,67 @@
+ARGUSHIIGI ADMEGULASHA BILANIDIN
+
+7
+
+6. Particle Accelerator
+Spinal Mount
+7. Triple Turrets (pulse lasers)
+8. Triple Turrets (sandcasters)
+9. Small Missile Bays
+10. Missile Storage
+11. Sandcaster Storage
+12. Nuclear Dampers
+13. Docking Spaces
+14. Briefing Rooms
+15. Fuel Processor
+16. Laboratories
+17. Libraries
+
+8
+
+6
+
+13
+24
+23
+
+1
+DECK 4
+
+21
+
+24
+6
+
+24
+9
+
+13
+18. Mail Distribution Array
+19. Medical Bays
+20. Workshops
+21. Staterooms
+22. High Stateroooms
+23. Common Areas
+24. Airlocks
+
+10
+
+DECK 5
+11
+15
+
+12
+19
+22
+
+16
+14 17 20
+13
+
+1 SQUARE = 10 TONS
+
+DECK 6
+
+211
+
+

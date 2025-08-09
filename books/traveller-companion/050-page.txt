@@ -1,0 +1,122 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Combat
+
+Reload Threshold
+
+50
+
+Weapon Type
+
+Example
+
+Standard Capacity
+
+Mode of Operation
+
+Manual Repeater
+
+Pump-action shotgun or revolver
+
+6
+
+Normal Attack
+
+Semi-Automatic
+
+Carbine or Semi-automatic pistol
+
+12
+
+Normal Attack
+
+Light Automatic
+
+Submachinegun or Assault Rifle
+
+30
+
+Burst
+
+Support
+
+General-Purpose Machinegun
+
+50
+
+Autofire
+
+Rapid Fire Weapon
+
+Vulcan Machinegun
+
+250
+
+Rapid Fire
+
+Very Rapid Fire Weapon
+
+VRF Gauss Gun
+
+1,000
+
+Very Rapid Fire
+
+Weapons that carry less than the standard
+ammunition load have an increased Reload
+Threshold. A weapon that has around two thirds
+normal capacity increases reloading threshold by 1.
+One third capacity increases it by 2.
+
+USING END
+
+For example, Cassandra is using a semi-automatic
+pistol converted to full-automatic fire and has loaded
+a 24-round extension magazine before the fight. This
+is a roughly 50% increase in her normal ammunition
+capacity so reduces Reload Threshold by -1, to 1.
+If Cassandra takes careful aimed shots, her Reload
+Threshold is in theory reduced by -1 but cannot go
+below 1. However, she blazes away in full-automatic
+mode. This moves her two rows down the table from
+her weapons’ normal mode of attack, increasing the
+Reload Threshold by +2, to 3. Cassandra rolls a 5 on
+her first attack’s ammunition dice. She still has at least
+one attack’s worth of ammunition left in her weapon.
+
+A Traveller’s END DM can be deducted from the
+damage taken in each attack. If the END DM is
+negative, this much damage is instead added to each
+attack. This can make combat more dangerous for
+low END Travellers.
+
+The Endurance of a Traveller represents their natural
+toughness and ability to shrug off at the harm they suffer.
+
+NATURAL RESILIENCE
+
+KNOCKOUT BLOW
+
+If a Traveller’s END is reduced from its starting value to
+0 by a single attack, the character they are knocked out
+instantly, despite them still having two characteristics
+above zero. This is a good rule to introduce when the
+Travellers are facing a large number of weaker foes.
+
+R
+
+

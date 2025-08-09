@@ -1,0 +1,100 @@
+TARPORTS
+AND SPACEPORTS
+
+S
+
+By convention, the most important port in a star
+system is designated the starport. This can be
+slightly inappropriate, such as when the grandly
+named ‘starport’ is actually a marked field with a few
+huts nearby, or where a mid-tech world designates
+an airport, sea port or railway nexus as its port for
+lack of anything better.
+
+The orbital component of a Class A port is often
+a large city in space. There may actually be no
+downport as such; multiple planetside spaceports
+might be served by the central highport. Alternatively,
+a large surface facility may also exist. If this is the
+case, it will be a major economic hub for the planet
+located at or close to the capital.
+
+The starport code for a world gives a general indication
+of the level of service available and also tends to
+indicate its size. It is possible to find a very high-quality
+but tiny port but this sort of setup is not commercially
+viable so it is unlikely to become the system’s main
+port even if all larger facilities are of much lower quality.
+Thus, whilst the starport is generally thought of as the
+‘best’ port in a system, a better term might be ‘most
+suitable for general traffic’.
+
+Where a low-population or economically unimportant
+world has a high-end port, this usually indicates the
+port was set up to support trade passing along a
+nearby route. Often the host world gets a very small
+slice of revenue from the port and sometimes none at
+all. A Class A or B downport on a low-tech world may
+be an island of high-technology culture surrounded
+by wilderness or frontier settlements. Relations
+between portside and indigenous populations may
+not be good. In some cases the downport is a token
+settlement, with the highport being essentially a
+separate culture in orbit.
+
+In the Third Imperium universe, starports are
+considered to be Imperial territory (at least, within
+the Imperium; other cultures have different practices)
+whereas spaceports belong to the host government.
+This is, however, subject to variation. In most cases,
+the highport and downport are both run by a single port
+authority, usually a corporate body. Occasionally both
+are run by separate organisations whose interactions
+can cause problems for visitors.
+Certain general characteristics are indicated by the
+starport code.
+Class A: An ‘A’ code is assigned to excellent-quality
+installations, usually with construction yards attached.
+The size of a port’s shipyards can vary considerably.
+Small-ship construction is commonplace, building
+vessels of common types up to 1,000 tons or so.
+Some ports can build larger vessels but many such
+craft are built at specialist yards. These may or may
+not be co-located with a major starport but the facility
+will need a port of some kind.
+A Class A port can conduct starship overhauls and
+modifications, and sells both refined and unrefined
+fuel. Class A ports are major trade centres in their
+own right and may have offworld goods unavailable
+elsewhere on the planet. They usually consist of a
+large orbital component (the highport) and a planetary
+component (the downport).
+
+Class B: Code B is assigned to large or high-quality
+(sometimes but not always both) installations. Ports
+serving systems that see a lot of interstellar traffic
+usually grow into a Class B installation. To qualify for
+this code, a starport must be capable of conducting
+maintenance and overhauls, and must have facilities
+for refining starship fuel. It will usually have yards
+capable of constructing non-starships such as
+shuttles and launches. Class B ports are often
+important trade centres.
+Class B ports must also have at least a reasonably
+capable orbital component. As a general rule, the
+downport component of a Class B port will see more
+traffic than the highport and most ships will either
+land at the downport or dock at the highport but
+conduct business planetside.
+Class C: Code C is assigned to ‘average’ starports,
+which can vary considerably. To qualify, a port must
+have at least a basic orbital facility, although this might
+be nothing more than a docking station with a shuttle
+service planetside. Both refined and unrefined fuel
+are usually available but starship building facilities
+are highly unlikely to be present, and only fairly basic
+maintenance or repairs are possible.
+
+133
+
+

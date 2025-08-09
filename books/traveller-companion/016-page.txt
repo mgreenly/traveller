@@ -1,0 +1,206 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+FRINGE
+
+COLONIST
+
+STR
+
+—
+
+INT
+
+—
+
+BENEFITS
+Cr1000, Blade
+
+STR
+
+—
+
+INT
+
+—
+
+BENEFITS
+
+DEX
+
++1 EDU
+
+-2
+
+DEX
+
+—
+
+EDU
+
+-1
+
+Cr5000, Rifle or Carbine
+
+END
+
+—
+
+-2
+
+END
+
++1 SOC
+
+—
+
+SOC
+
+SKILLS
+
+SKILLS
+Athletics (strength) 1, Drive 0, Gun Combat
+(slug) 1, Jack-of-All-Trades 1, Mechanic 0, Medic
+0, Navigation 0, Profession 0, Recon 0 Survival 2
+
+The Colonist package is
+available to Travellers who
+hail from frontier worlds and
+underdeveloped regions
+of more settled ones. The
+Traveller’s homeworld must be
+at least marginally habitable
+– those from rockball worlds
+should use the Belter package
+instead. Colonists generally have to be tough and
+resourceful, and able to handle the challenges their
+harsh environment throws at them without relying too
+much on technological assistance.
+
+Athletics (dexterity) 1, Deception 1, Gambler 0,
+Gun Combat 0, Melee (unarmed) 1, Recon 0,
+Stealth 0
+The Fringe package is
+available to Travellers who
+grew up on the fringes of a
+mid- or high-tech society.
+They may not necessarily be
+criminals but will have lived
+in a world where crime (and
+violence) is common.
+
+LOW-TECH
+STR
+
+—
+
+INT
+
+—
+
+BENEFITS
+
+DEX
+
+—
+
+EDU
+
+-3
+
+END
+
++2 SOC
+
+—
+
+Cr5000, Blade, Club or
+Dagger
+
+SKILLS
+
+alternate character creation
+
+DEVELOPED WORLD
+
+16
+
+STR
+
+—
+
+INT
+
+DEX
+
+—
+
+EDU
+
+END
+
+—
+
+—
+
+BENEFITS
+
++1 Cr10000, Portable
+SOC — Computer
+
+SKILLS
+Admin 1, Advocate 0, Art 0, Diplomat 0, Drive
+(wheel) 1, Electronics (comms or computers)
+1, Flyer 0, Profession (any) 1, Science (any) 1,
+Streetwise 0
+The Developed World
+package is available to
+Travellers who grew up in a
+relatively civilised environment
+such as a city on a mid- or
+high-tech world. Skills are
+skewed more toward making
+a living than surviving in a
+hostile environment, with a
+variety of educational options available.
+
+Animals (any) 1, Athletics 0, Carouse 0, Gun
+Combat (archaic) 1, Language (local dialect) 2,
+Melee (any) 1, Navigation 0, Profession (any
+suitable) 2, Recon 0, Steward 0, Streetwise 0
+Survival 1,
+The Low-Tech package is
+available to any Traveller
+who grew up in a TL3 or
+lower society. This could be
+a frontier or backwater area
+of a more developed world
+if the Traveller belonged to
+a minority group. Low-Tech
+citizens are not necessarily
+barbarians, although many offworlders might call them
+that. Note that hailing from a Low-Tech background
+does not necessarily translate to total ignorance of
+technological items and Travellers may have seen and
+know how to operate equipment not readily available
+in their society. Low-Tech Travellers are unlikely to
+receive an education into the complex mysteries of the
+universe but are in general tougher and more resilient
+than those raised in a ‘softer’ environment.
+
+R
+
+

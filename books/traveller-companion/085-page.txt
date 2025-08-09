@@ -1,0 +1,127 @@
+The normal difficulty to avoid a mishap is an Average
+(8+) check for a vehicle with a suitable adaptation.
+The difficulty might be increased for a particularly
+hazardous area, or reduced for a vehicle with very
+good terrain-handling characteristics such as two or
+more applicable adaptations.
+
+VEHICULAR MISHAPS
+
+If circumstances indicate a mishap has occurred, the
+Vehicle Mishaps table can be used to determine its
+nature. The Referee is encouraged to flesh out possible
+hazards for specific environments, using the table as
+a starting point. Roll 2D and add the vehicle’s Speed
+Band, then subtract the driver’s skill level.
+
+Vehicle Mishaps
+2D
+
+Hazard
+
+4 or less
+
+Scary near-miss, passengers and crew
+are shaken but no serious harm is done.
+
+5–6
+
+Control loss leads to the vehicle suffering
+cosmetic damage and becoming stuck.
+Extricating it will take 2D person-hours
+(i.e. the result of a 2D roll divided by the
+number of people working).
+
+7–8
+
+Minor component failure – broken lights
+or windows, damaged tyre, or failed
+engine component. The problem can be
+fixed or jury-rigged with the vehicle’s own
+tools and spares. Make an Average (8+)
+Mechanic check each hour to complete a
+workable repair.
+
+9–10
+
+13 or
+more
+
+Serious control loss results in a collision
+and 1D damage to everyone aboard. The
+vehicle is stuck as per 5–6 and suffers a
+component failure as per 7–8.
+The vehicle crashes and is immobilised,
+at least temporarily. It may or may
+not be repairable locally. Everyone
+aboard suffers 2D damage and several
+components are put out of action.
+
+Grav vehicles and aircraft flying above terrain hazards
+can ignore them and are subject only to wind and
+weather effects. Flying at an altitude where terrain can
+pose a hazard, such as between buildings or along
+a valley, does not reduce speed but requires care.
+Navigating lightly cluttered airspace (a few mountain
+peaks or very tall buildings) requires a Routine (6+)
+Flyer check every 4D minutes. Cluttered airspace
+such as a heavily forested valley with crags requires
+an Average (8+) Flyer check every 2D minutes.
+These checks are subject to a negative DM equal
+to the vehicle’s Speed Band (see the Traveller Core
+Rulebook, page 130).
+A vehicle with collision-avoidance equipment (an
+Enhanced or Advanced Autopilot will have this) can
+be relied upon to get the Travellers safely through
+the hazardous area at one Speed Band less than
+its cruising speed. If the Travellers wish to inflict a
+hair-raising and violent passage on themselves the
+automatics will keep them alive at cruising speed but
+the experience will not be pleasant and anyone who is
+not properly strapped into a seat risks being bashed off
+the interior fittings every couple of minutes.
+
+Airborne Hazards
+2D
+
+Hazard
+
+6 or less
+
+Urgent evasive manoeuvre required.
+Unpleasant for everyone aboard but no
+serious hazard.
+
+7–11
+
+Minor collision with flying creature, tree
+branch or similar object. A Routine (6+)
+skill check is required to maintain control.
+
+12–14
+
+Collision with a branch, rock, creature
+or antenna. 1D damage is applied to the
+vehicle and an Average (8+) skill check
+required to maintain control.
+
+15 or more Collision results in heavy damage
+to vehicle requiring an immediate
+emergency landing. In addition, a
+Difficult (10+) skill check is required to
+maintain control.
+
+Terrain, Conditions and movement
+
+11–12
+
+Navigational difficulties put the vehicle in
+a place where there is no way forward.
+Backtracking around the obstruction will
+take 1D hours.
+
+FLYING IN CLUTTERED AIRSPACE
+
+85
+
+

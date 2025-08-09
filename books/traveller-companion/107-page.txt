@@ -1,0 +1,76 @@
+EXOTIC ENVIRONMENT ANIMALS
+The following creatures exist in an environment that
+would kill unassisted humans. Their home conditions
+may include low atmospheric pressure or a hazardous
+gas mix, or other dangerous characteristics.
+
+Hequib Ukide
+The hequib ukide is known by various names on
+different worlds but most database entries use the
+earliest known reference. This is an anglicised variant
+of a phrase in the language of an obscure minor race,
+which rather prosaically translates as ‘The Large
+Crustacean That Threatens Our People’. The origins
+of the hequib ukide are unknown but small populations
+can be encountered on many worlds.
+A full-grown hequib ukide resembles an eight-legged
+lobster with an elongated body, with a pair of powerful
+pincers and a secondary set of smaller arms below
+its mouth. The hequib ukide can thrive in very thin or
+trace atmosphere worlds and can even function in
+hard vacuum for a time. Once its resources run down
+it will become dormant, prolonging survival by several
+months. It is thought these creatures have travelled
+between star systems in this manner.
+
+Hequib ukide are normally solitary, meeting to mate
+once every few years then rapidly separating. Their
+young are carried in a sac within the torso until they are
+able to feed themselves, then dropped as the hequib
+ukide trundles slowly on its way. Feeding is a constant
+activity, with the secondary arms shovelling loose
+matter into the creature’s maw as it moves. Most of this
+matter is inert on many worlds but a hequib ukide can
+extract nutrition from any organic material it encounters.
+If turned loose on a world with a higher oxygen
+concentration and plentiful organic matter, the hequib
+ukide enters a feeding frenzy. It will eventually eat itself
+to death but in the meantime can be highly destructive.
+These creatures are also attracted to rich sources of
+organic matter in their home environment, such as
+trash dropped by Travellers or a badly sealed waste
+dump port on a starship. The hequib ukide will fight
+to get at such a rich source of food, where normally it
+would simply trundle on its way.
+Animal
+
+Hits
+
+Speed
+
+Hequib Ukide
+
+16
+
+3m
+
+Skills
+
+Melee 0, Recon 0, Survival 1
+
+Attacks
+
+Pincers (2D)
+
+Traits
+
+Armour (+2), Vacuum
+
+Behaviour
+
+Omnivore, Filter
+
+Animal Encounters
+107
+
+

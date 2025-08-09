@@ -1,0 +1,90 @@
+T
+
+RANSPONDERS,
+REGISTRY AND MORTGAGES
+
+The device known as a transponder aboard a
+starship is more than an automatic identification-andcommunication system. It is a complex security system
+which contains (supposedly) tamper-proof information
+on the ship’s status, registry and ownership.
+The transponder itself is intended to automatically
+identify the ship whenever it is ‘pinged’ or
+communications are made. The transponder
+automatically appends the ship’s name, port of registry
+and class to every communication, recorded along with
+the communication itself by the receiving vessel.
+Transponders can operate in one of four modes,
+although not all are available to some users.
+Active: The transponder sends out a ‘ping’ every few
+seconds, containing the ship’s basic data. This mode is
+used in safe areas where there is no need for a vessel
+to avoid detection. An active transponder advertises the
+ship’s presence to other vessels, enabling early course
+changes to avoid the risk of collision.
+Passive: The transponder does not ‘ping’ but will
+respond if pinged by another transponder. This mode
+is used where shipowners would prefer to remain
+inconspicuous as much as possible, such as in
+frontier systems where piracy is common. Starports
+typically maintain an active ping, which reveals
+vessels as they approach.
+IFF: Identification-Friend-or-Foe mode is used only
+by naval and paramilitary vessels. The transponder
+will not respond unless it receives a ping from a
+transponder with the correct challenge codes.
+Responses are low-power and directional, reducing
+the chance of detection. Although IFF does serve to
+tell friendly craft from potential hostiles, it is primarily
+used for squadron station-keeping and small craft
+operations, allowing members of the same force
+to track one another and maintain station without
+alerting all ships in the area to their presence. An IFFmode transponder will not respond automatically to
+a challenge from another system that does not have
+the right codes but will alert the operator and give the
+opportunity to authorise a response.
+
+Covert: It is not generally possible to turn off a
+transponder, at least not without modifying it somehow.
+However, it is possible to activate ‘covert’ mode. This
+prevents the transponder from responding when pinged
+and is used in an emergency to hide from hostiles.
+Any activation of covert mode is automatically entered
+into the ship’s logs and will have to be explained if the
+log is examined. Most civilian ships have an override
+code built into their transponder which will respond
+to an interrogative pulse from a suitably equipped
+vessel even in covert mode. Naval vessels have this
+capability, although its effectiveness depends on which
+codes have been supplied. When the override codes
+for shipping in the region fall into the wrong hands, they
+have to be changed as no merchant vessel can hide
+from a pirate who can simply ask their ship where it is.
+The transponder will also respond to an interrogative
+pulse from a suitably equipped vessel with a short
+version of the ship’s logs. This is simply a set of
+validation codes indicating when a ship docked at a
+starport and when it left, and an indication of when it
+jumped and re-entered normal space (but not where).
+The ‘short log’ as it is known is automatically updated
+with port codes at Class A and B ports. Most Class C
+and some Class D ports also supply a code. A ship
+with a few gaps in its port entry and exit code log will
+not be seen as suspicious but the short log can be
+used by patrol vessels to identify ships that might
+reward a boarding and search.
+One other piece of data carried by a ship’s
+transponder is its mortgage status. It can be difficult
+for a ship working the backwaters to make mortgage
+payments on time, so this function is handled by the
+transponder’s dedicated computer system. Payments
+can be made electronically to an internal escrow
+account, a one-way transaction; the mortgage payment
+fund cannot normally be accessed by the crew. When
+the ship enters a port tied into the interstellar banking
+system, its transponder system delivers the payment
+which is then forwarded to the recipient. Most Class A
+and B ports have this capability.
+
+165
+
+

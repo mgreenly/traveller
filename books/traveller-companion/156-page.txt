@@ -1,0 +1,93 @@
+T
+
+RAVELLING
+IN NORMAL SPACE
+
+Getting from place-to-place is an integral part of
+Traveller – as its very name suggests. Sometimes
+the journey is a means to get to an adventure or
+interesting incident; on other occasions the journey is
+an adventure in its own right.
+Traveller assumes that spacecraft use a reactionless
+drive which does not directly require fuel. If the ship
+has a working manoeuvre drive and its power plant
+is functional (which does require fuel) then the ship
+has thrust and can manoeuvre. Drives that require
+reaction mass would require vastly more fuel than
+standard manoeuvre drives. This would greatly limit
+their range unless the ship spent most of its voyage
+between planets coasting. It also makes navigation a
+much more complex task.
+The transit times given in the Traveller Core Rulebook,
+and the formulae they are derived from (which also
+appear in earlier versions of the game) assume a
+vessel accelerating to the midway point of a journey
+and then decelerating the rest of the way. This
+requires constant thrust.
+It is not, however, possible to exceed the speed of
+light by these means. Lightspeed is bypassed by using
+jumpspace to transit between points but this does not
+require actually reaching the velocity of light either. In
+fact, a ship can jump at any speed or on any heading
+– it is not necessary to be aimed at the target in the
+physical universe, only to set up the jump correctly.
+A ship trying to reach lightspeed using the standard
+manoeuvre drive will encounter time dilation effects
+and an exponential increase in the amount of energy
+required to increase speed. Once speed reaches a
+significant fraction of the speed of light, it will take
+much longer (i.e. the same thrust over a much greater
+period of time) to increase speed further. Even with
+a reactionless drive, it would take infinite time to
+reach lightspeed. Indeed, accelerating beyond a
+certain speed would be a death sentence for the
+crew; if insufficient fuel remained to slow down again
+they would be trapped aboard their hurtling starship,
+unable to leave since any lifeboats launched would be
+travelling at the same speed as the parent vessel.
+
+156
+
+WHERE DO WE WANT TO GO?
+
+Spacecraft, starships, satellites and stations tend to be
+in predictable places within a star system. It is possible
+to run into a research ship out in the distant moons
+of a gas giant, or a pirate vessel hiding somewhere
+unexpected, but for the most part political, economic
+and military factors all conspire to keep ships close to
+inhabited worlds or transit corridors between them.
+Orbital space around an inhabited world is the most
+crowded region of a star system. If a world has no
+atmosphere, it is theoretically possible to orbit at very
+low altitude so long as the craft is going fast enough.
+A stable orbit balances forces against a craft or object;
+gravity pulls it towards the body but its velocity keeps it
+in orbit. This can be thought of as a fast-moving object
+falling in a curve that ends over the horizon.
+An orbit can be circular or highly elliptical, so long
+as the dynamic balance of forces is such that the
+object neither crashes into the planet or escapes
+into deep space. A craft with functioning drives can
+apply course corrections at need and can force itself
+to remain in a powered orbit that would not be stable
+once the engines were cut off. More commonly,
+craft will set up an orbit that will remain stable for a
+reasonable period. This is partially for safety in case
+of a drive malfunction and partly because orbital traffic
+controllers do not like ships whizzing about all over
+the place in their crowded area of operations.
+Objects in low orbit will experience drag from the upper
+layers of the atmosphere if the world has one, but this
+is not large. Unpowered satellites can remain in low
+Earth orbit for many years providing they are above an
+altitude of about 400 kilometres. Low orbit for Earth is
+considered to extend out to about 2,000 kilometres; in
+the Traveller universe low orbit is typically defined as
+within around 1,000–2,500 kilometres of the planetary
+surface. Most highports and other space installations
+are located around the upper limit of low orbit and a
+common spacer’s rule of thumb is ‘anything lower than
+the highport is in low orbit’.
+
+

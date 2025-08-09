@@ -1,0 +1,124 @@
+T
+
+A small but reasonably heavy thrown object can
+be assumed to do 1D damage. Something heavier
+like a rock that requires both hands to throw would
+normally do 2D. This assumes a short fall or an
+object thrown by muscle power. Larger or heavier
+objects will do more damage.
+
+GRAVITY AND RELATED EFFECTS
+
+Vehicle or starship-sized objects will normally crush
+something as insignificant as a Traveller into a pulp.
+For expediency, the Referee may invoke this ‘meat
+paste’ rule for anyone hit by a falling object the size of a
+vehicle or starship.
+
+62
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Worn armour does not help against collisions with
+large objects. It will protect normally against a thrown
+rock or similar object but larger objects will crush
+armour and inflict damage right through it. Flexible
+armour has no effect on impacts with large objects
+but there are exceptions:
+• Rigid armour such as battle dress or a hostile
+environment suit protects at full value against
+crushing impacts.
+• A Traveller wearing a hard hat or suitable helmet
+may count this at full value against damage
+inflicted by an object falling from above.
+
+DAMAGE FROM FALLING OBJECTS
+
+A Traveller who has no warning cannot avoid
+something falling on them, except by blind luck.
+In the situation where a Traveller is caught in a
+meteorite shower or under falling rocks, the Referee
+might call for an Average (8+) check with no skill or
+attribute applying (Luck could be used if it has been
+used as an additional characteristic). A Traveller who
+fails the check takes a number of dice damage equal
+to the negative Effect of the roll. Armour will usually
+protect in this case.
+
+The damage inflicted by a falling object depends upon
+its mass and local gravity conditions. The object will
+usually suffer the same amount of damage but this is
+rarely relevant:
+• Light objects include relatively small but dense
+items like a rifle magazine or can of soup.
+• Medium objects are equivalent to a fist-sized rock.
+• Heavy objects are equivalent to a head-sized rock.
+• Very Heavy objects are equivalent to a large rock
+that can be picked up in both hands.
+
+However, if the Traveller looks up in time or is
+otherwise warned, they have two chances to mitigate
+or avoid damage. Both of these apply to falling
+objects and other collisions.
+
+Larger objects the size of vehicles (anything that
+requires more than one person to lift it fits into this
+category) are also rated light to very heavy but are
+considered to be Destructive objects when hitting a
+Traveller. Any modifier to damage is also multiplied by
+ten, so a light vehicle falling six metres in heavy gravity
+will do 6D+6 damage, multiplied by 10:
+• Light vehicles are equivalent to a motorcycle or
+large animal like a horse.
+• Medium vehicles are equivalent to a small family
+car or very large and heavy animal such as a rhino.
+• Heavy vehicles are equivalent to a minibus or
+similarly large vehicle, or an elephant.
+• Very Heavy vehicles are equivalent to an
+articulated truck or gigantic animal such as a
+whale. Being hit by a falling whale is grounds for
+both using the ‘meat paste’ rule and asking some
+questions about the Traveller’s lifestyle.
+
+First, the Traveller may dive, roll, scramble or otherwise
+get out of the way. This requires an Average (8+)
+Athletics (dexterity) check. If the object is vehiclesized or larger, DM-4 applies. A starship-sized object
+increases the penalty to DM-12. Of course, a falling
+boulder the size of a merchant starship falling at great
+speed is not only a starship-sized object, it is also a
+fairly significant geophysical event.
+If the Traveller makes their check, they get out of the
+way and suffer no damage. If they fail, they suffer
+the damage determined on the Falling Objects table.
+However, it is possible to mitigate the effects to
+some extent.
+A Traveller about to be hit by a falling object or
+otherwise involved in a collision may attempt an
+Athletics (dexterity) check (with no penalties for the
+size of the object) to roll with the collision, try to bounce
+off rather than take the full impact, or at least to cover
+their head and take the worst of it on their arms rather
+than skull. If the check is successful, damage from the
+collision is reduced by 1 point per dice.
+
+There is really no way a Traveller can survive being
+hit by a falling spaceship. However, for completeness
+we will consider various starship-grade objects in
+case a collision between a train and a horse occurs
+and someone absolutely insists on rolling all the dice.
+
+R
+
+

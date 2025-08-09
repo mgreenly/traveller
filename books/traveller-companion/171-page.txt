@@ -1,0 +1,33 @@
+USING A SQUARE GRID
+
+For example, on a square map, a ship starting at rest
+and expending Thrust 4 could set their speed as follows:
+• To move as fast as possible towards the ‘east’, it
+would apply Thrust 4 in the positive-X direction,
+resulting in a speed of (4, 0).
+• To move as fast as possible in the ‘northwest’
+direction, it would apply Thrust 2 in the negative-X
+direction, and Thrust 2 in the positive-Y direction,
+resulting in a speed of (-2, 2).
+• To move in a somewhat ‘east-by-northeast’
+direction, it could apply Thrust 3 in the positive-X
+direction and Thrust 1 in the positive-Y direction,
+resulting in a speed of (3, 1).
+
+USING A HEX GRID
+
+On a hexagonal map using a horizontally oriented X
+axis and northwest-southeast direction as the Y axis, a
+similar (but not identical) set of movements is possible:
+• Moving as fast as possible in the eastward
+direction is the same: apply Thrust 4 in the
+positive-X direction, resulting in a speed of (4, 0).
+• Moving as fast as possible in a roughly ‘southeast’
+direction would simply mean applying Thrust 4
+in the negative-Y direction and none in the X
+direction, resulting in a speed of (0, -4).
+
+Vector-Based Space Combat
+171
+
+

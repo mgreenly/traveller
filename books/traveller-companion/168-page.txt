@@ -1,0 +1,115 @@
+T
+
+CONTAINER-LAUNCHERS
+A conventional missile rack mounted in a turret contains
+12 missiles (four on a small craft firmpoint). These
+are loaded one at a time into the launcher. Containerlaunchers offer a greater ‘surge’ missile capacity,
+although once expended they cannot be reloaded in
+time to fire again in a typical combat.
+A container-launcher can be fitted on a hardpoint (not
+a firmpoint) and contains four missiles or one torpedo
+in a ready-to-launch configuration. These can be fired
+individually or all at once, enabling a craft to make a
+single overwhelming missile attack.
+The container-launcher system costs Cr50000 plus the
+cost of weapons (for standard missiles this is Cr250000
+each) and can be used aboard any ship that has other
+missile weapons such as a turret-mounted missile
+rack. Ships that do not have such weaponry lack the
+requisite electronics for arming and guidance, which
+must be fitted at a cost of Cr150000.
+Container-launchers are used on some military ships to
+create a surge capacity for missile combat, or to carry
+additional interceptor or dogfight missiles. As usual, one
+standard missile can be replaced with two interceptors
+or four dogfight missiles and can be launched all at
+once if desired. These systems are also used by civilian
+ships as a deterrent or to facilitate an escape as an
+attacker deals with a swarm of missiles.
+
+Missiles and Torpedoes
+
+CONDUCTING MISSILE COMBAT
+
+168
+
+When a ship is under missile attack, defence is
+conducted in stages. Area defence can be conducted by
+any ship within range or along the ‘threat axis’ between
+the target and launching platforms. This is typically
+the target and any escorts or screening fighters. Area
+defence is conducted using interceptor missiles.
+Each interceptor missile can target one incoming
+missile or torpedo. Each hit destroys one missile.
+Torpedoes are tougher – each successful hit will
+destroy a torpedo on a 1D roll of 4+.
+Point defence can then be conducted by the target
+ship and any close escorts it may have. Each dogfight
+missile launched can target one missile or torpedo. A
+dogfight missile will destroy a missile on a 1D roll of a
+3+ and a torpedo on a 5+.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Close-in defence is the last chance to stop missiles
+and is conducted with beam weapons, point defence
+clusters and the like. The surviving missiles in a salvo
+are targeted as per the point defence rules on page
+162 of the Traveller Core Rulebook. Any that survive
+these layers of defence and any attempts at electronic
+warfare may attack the target ship.
+
+ESCORTS
+A vessel may also be protected from missile or small
+craft attack by close escorts. A close escort acts as a
+‘goalkeeper’ for the target ship, firing at missiles and
+small craft as they fly past. If the attacker attempts a
+‘rollback’ strategy whereby the escorts are targeted
+first, this leaves the big ships unengaged in which case
+the escorts are still doing their job. Close escorts can
+only engage threats to their charge, otherwise they
+cease to be acting in the close escort role. Returning
+to this role from another operation requires 1D combat
+rounds to move back into position.
+A vessel cannot have more than 10% of its tonnage as
+close escorts. This tonnage can be made up of small
+craft or starships, or any mix of both.
+Close escorts can target incoming small craft, missiles
+or torpedoes with their weapons, or with dogfight
+missiles. Each close escort, fighter, or small craft can
+target one missile per dogfight missile launched, plus
+at least one with its guns. Small craft with multiple
+weapons gain DM+1 to attack per additional weapon
+but can still only target one missile each. Larger vessels
+may target one threat (missile, torpedo or small craft)
+per turret and gain DM+1 per additional weapon in the
+turret to their attack rolls. Hits destroy missiles and
+torpedoes are tougher – each successful hit will destroy
+a torpedo on a 1D roll of 4+. Attacks with weapons
+other than guided missiles suffer DM-2 to attack when
+targeting threats directed against another vessel.
+It is a common tactic for some ships in a task force to
+act as ‘force escorts’, positioned between high-value
+vessels and likely threats. Force escorts carry out
+area defence with interceptor missiles, after which an
+incoming salvo is engaged by close escorts and then
+the target itself using point defence weapons (dogfight
+missiles and the guns of close escorts) before the
+target itself finally engages in close-in defence with its
+short-range weapons.
+
+R
+
+

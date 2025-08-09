@@ -1,0 +1,160 @@
+T
+
+When Profession is gained during a career, the
+speciality and sub-speciality chosen must be
+relevant to the Traveller’s background or career.
+Sport, worker and colonist would be available to
+almost anyone, but specialisms like crewmember are
+only available to someone who would realistically
+have a chance to learn these skills.
+The Profession skill is divided into the following
+specialties:
+
+Broad skills and specialities
+
+Colonist: This covers daily life on frontier and low-tech
+(TL3 or less) worlds. The Traveller will be competent in
+basic tasks required to establish a colony and live dayto-day, such as building basic structures like houses
+and barns out of available materials.
+
+44
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+and procedures, and will not make embarrassing
+‘noob mistakes’ or be scared by normal phenomena
+such as jumpspace entry. This speciality can be used
+when making a check to resist the effects of a bad
+jump entry or exit.
+Sport: This covers professional and recreational
+sports and similar activities, although it specifically
+excludes combat sports. Tackling someone on the
+playing field is part of a game; doing something
+similar in a bar brawl requires the Melee skill.
+Similarly, where there is crossover with another skill,
+only the lower of the two can be applied. For example,
+a character with the motorsport sub-speciality at
+level 2 knows a great deal about competitive driving
+and setting up a car but performance on the track is
+limited by his Drive (wheel) skill.
+
+Crewmember: This covers daily life aboard a starship.
+The Traveller will know where to find tools and
+emergency equipment, and how to operate standard
+systems. He will also possess basic shipboard skills
+such as how to correctly peg down a shipping container
+or clean a fuel filter without damaging it.
+
+Worker: This is a catch-all for work-related
+professional skills suited to a mid or high-tech
+environment. It includes most of the specialities listed
+in the Traveller Core Rulebook.
+
+Freeloader: This covers ways of obtaining items
+without buying or making them. This does not always
+indicate illegal activity but freeloading is often a
+morally grey area.
+
+Colonist/Ranching: Looking after herds or flocks.
+This speciality has some overlap with the Animals
+skill but deals more with tasks like rounding up cattle,
+slaughtering animals and ensuring herds are safe
+from bad weather.
+
+Hostile Environment: The hostile environment
+speciality covers operating in dangerous environments
+such as high and low gravity, underwater and in areas
+where special protection is needed such as biohazard
+and radiation threat zones. The Vacc Suit skill is
+still needed to work in a suit but a Traveller’s hostile
+environment speciality can be used when carrying out
+tasks that are made more difficult by the environment,
+and to avoid hazards.
+Spacer: This covers the basics of living and working
+aboard spacecraft or space stations. Someone with
+the spacer speciality will be familiar with spacer slang
+
+The Profession skill is then subdivided into the following
+specialities and sub-specialities:
+
+Freeloader/Scrounging: Covers a multitude of sins,
+mostly concerned with covertly obtaining something
+and getting away with it. This includes some legal
+activities, like searching a junkyard for spares.
+Freeloader/ Scrounging can be used to abstract a
+few petty thefts for subsistence purposes or to find a
+suitable component in a starship scrapyard.
+Scrounging up something to replace that busted-up
+fuel flow regulator valve: Difficult (10+) Profession
+(freeloader/scrounging) check (2D hours, INT)
+
+Colonist
+
+Freeloader
+
+Hostile Environment
+
+Spacer
+
+Sports
+
+Worker
+
+Farming
+
+Scrounging
+
+Contaminent
+
+Belter
+
+Atmosphere Surfing Armourer
+
+Ranching
+
+Security
+
+Low-G
+
+Crewmember
+
+Golf
+
+Biologicals
+
+High-G
+
+Motorsports
+
+Civil Engineering
+
+Underwater
+
+Racquet Sports
+
+Construction
+
+Team Ball Sports
+
+Hydroponics
+
+Track & Field
+
+Metalworking
+Polymers
+
+R
+
+

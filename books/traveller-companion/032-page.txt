@@ -1,0 +1,47 @@
+PRE-CAREER OPTIONS
+The following pre-career options are available in
+addition to University and Military Academy, which are
+described in the Traveller Core Rulebook.
+
+COLONIAL UPBRINGING
+Those who grow up in the outback of a developed
+world or on a new colony do not always have the
+option to follow a normal career path. A youngster with
+dreams of joining the navy or becoming an interstellar
+entertainer may instead find themselves stuck on the
+farm for another couple of years, and even then it may
+not be easy to get into a prestigious service.
+A colonial upbringing provides slightly more than the
+usual set of skills, as learning starts early. On the
+downside, education tends to be lacking and transition
+into a career can be difficult. A Traveller who had a
+colonial upbringing may find it a little easier to get
+into certain careers as their specialist skills may be
+in demand, but suffers DM-2 on all attempts to get
+into any career not listed for a recruitment bonus.
+In addition, a Traveller from a colonial background
+suffers DM-1 on all checks to achieve commission or
+promotion throughout his entire career.
+Travellers from a colonial background receive DM+1 to
+qualify for the Rogue or Scout careers.
+
+32
+
+Entry: Automatic if homeworld is TL8Skills: Animals 0, Athletics 0, Drive 0, Gun Combat
+0, Mechanic 0, Medic 0, Navigation 0, Recon 0,
+Profession 0, Seafarer 0, Survival 1.
+Graduation: INT 8+. DM+1 if END 8+. If 12+ is rolled,
+graduate with honours.
+Graduation Benefits:
+• Increase one skill already gained at level 0 to
+level 1.
+• Gain any two other skills listed above at level 1 or
+increase one skill already possessed by one level.
+• Gain Jack-of-all-Trades at level 1.
+• ‘Honours’ graduates gain Leadership 1 and may
+increase any other skill gained at level 0 to level 1.
+• Increase END by +1, and decrease EDU by -D3.
+The Traveller is aged 22+2D3 years when entering their
+first career.
+
+

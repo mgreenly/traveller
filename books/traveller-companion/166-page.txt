@@ -1,0 +1,94 @@
+T
+
+If no payment is received for a long time, the mortgage
+holder might declare the ship suspect and put out an
+alert. However, it may simply be that the mortgage
+payment is sitting in the internal escrow account waiting
+for suitable planetfall. If this is the case, the ship’s
+transponder will indicate that payments are available
+and patrol vessels will not flag the vessel as ‘skipped’.
+A skip alert will attract the attention of skip tracers and
+other official or freelance investigators, who can be a
+nuisance for the crew. The alert can be cancelled at a
+suitably equipped starport, even if the payment will take
+time to reach the mortgage holder. Delays of this sort
+can be exploited at both ends but for the most part the
+system works well enough.
+
+TRANSPONDER MODIFICATIONS
+
+Transponders, Registry and Mortgages
+
+The transponder can be modified, although this is
+illegal. The most common modifications are to remove
+a mortgage default flag from the code or disable the
+automatic response system. The latter allows the ship
+to run completely ‘dark’ and prevents any ship from
+overriding the transponder. It is normally used by
+smugglers and pirates, and being caught with a dead
+transponder will require a lot of explaining.
+
+166
+
+Disabling the transponder can be done without
+reprogramming it, although removing all the tie-ins
+and connections to the communications system is a
+lengthy business. A physical disconnect, usually with
+an on/off switch in a concealed location, will take 2D
+days of work to accomplish and requires a Difficult
+(10+) Electronics (comms) check. Failure indicates the
+system is still partially active and will respond to pings
+in a garbled fashion guaranteed to attract attention.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Reprogramming the transponder is a tricky business
+but once completed the Travellers will have control over
+the device. They can remove a default flag or alter the
+short logs without difficulty once the security is cracked.
+Other changes, such as setting up a fake transponder
+identity, are lengthy tasks in their own right.
+Cracking the security is a Formidable (14+)
+Electronics (computers) check requiring 2D3 days of
+work. Highly illegal toolkits containing ready-prepared
+software patches are said to be available but these
+are hard to come by and tend to be tailored to one
+specific type of vessel. Once security is breached,
+changes can be made but each change requires
+a Difficult (10+) Electronics (computers) check to
+accomplish without leaving traces. If this check is
+failed, any interrogation of the transponder beyond a
+standard passing vessel ping will indicate the logs or
+transponder response have been doctored.
+A ship can have more than one false identity
+programmed into its transponder. Setting this up
+requires a Very Difficult (12+) Electronics (computers)
+check and takes D3 days. This must be accompanied
+by a successful Average (8+) Admin check to invent
+a plausible identity. If the Admin check is failed, the
+ship’s identity will seem implausible or ‘thin’, although
+this may well be enough to get by in the backwaters.
+Failing the Electronics check results in a garbled mess
+of code which will have to be restarted.
+Transponder packages are sometimes sold on the
+black market, usually for upwards of MCr1 each. Some
+are copied from real ships, others custom-prepared.
+A few are stolen from Naval Intelligence, having been
+created for covert-operations vessels, which can lead
+to complications when someone tries to use one.
+
+R
+
+

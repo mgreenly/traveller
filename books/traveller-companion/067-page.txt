@@ -1,0 +1,118 @@
+VACUUM EXPOSURE AND
+EXTREMELY LOW PRESSURE
+
+PARTIAL EXPOSURE AND
+SUIT BREACHES
+
+Minimal Pressures can be tolerated (at great
+discomfort) for a Traveller’s END in minutes providing
+they have air to breathe, e.g. from an emergency mask
+and bottle. If they have not, they will die of hypoxia long
+before the lack of air pressure harms them. However,
+in the case where a Traveller is, say, trying to cross a
+low-pressure compartment wearing just a firefighter’s
+air supply (i.e. they have bottled air but no pressure
+suit) they will be uncomfortable but unharmed for the
+period above. After this, END is reduced by 1 point per
+minute. Unconsciousness occurs when END reaches 0,
+at which point damage is taken alternately by STR and
+DEX until the Traveller dies.
+
+A breached vacc suit will cause exposure to vacuum
+with the effects described previously. Most suits have
+a measure of self-sealing capacity and the internal
+pressure of the Traveller’s body will often push their
+flesh against a small breach and partially seal it, so that
+only the local area is exposed.
+
+The following effects assume a Traveller is totally
+exposed, i.e. wearing nothing more protective than
+normal clothing. Breathing equipment is not relevant
+here – low pressure causes damage by exposure
+whether or not the Traveller has enough air to breathe.
+Protection requires a sealed pressurised suit. Correctly
+speaking, low pressure and vacuum exposure should
+be combined with hypoxia/suffocation effects but a
+vacuum-exposed Traveller is in enough trouble already.
+
+Partial Vacuum cannot be tolerated by unprotected
+humans for long, whether they have an air supply or
+not. The fact that there is a little air pressure enables
+the Traveller to survive a while longer but not much.
+A Traveller who is exposed to partial vacuum suffers
+1D damage per round, with unconsciousness and
+death occurring as above.
+
+To cause explosive decompression from a vacc
+suit, it would be necessary to shred it, shatter the
+helmet or at least rip it right open, very suddenly.
+Most of the ways this might happen would render
+decompression effects academic.
+Less severe suit breaches are possible without
+killing the suit’s occupant, or at least leaving enough
+of them to suffer decompression effects. Rapid
+decompression is possible if a helmet or limb seal failed
+catastrophically, or the faceplate shatters. In this case,
+the suit would still offer some protection if it covers at
+least part of the wearer. Otherwise, the Traveller will
+usually still be able to breathe as air leaks out. They
+will be partially exposed to vacuum but able to continue
+functioning, perhaps conducting a self-rescue.
+
+Vacuum Damage
+Suit Breach
+
+Hard Vacuum
+
+Partial Vacuum
+
+Minimal Atmosphere
+
+No Protection
+
+2D damage per round
+
+1D damage per round.
+
+1 Point of damage per minute after
+END in minutes
+
+Suit with Major Breach 2D-4 damage per round
+
+1D-2 damage per round
+
+1 point of damage Reduction per 90
+seconds after END x 2 in minutes
+
+Suit with Minor Breach 2D-8 damage per round
+
+1D-4 damage per round
+
+1 point of damage Reduction per 120
+seconds after END x 3 in minutes
+
+ATMOSPHERE AND VACUUM
+
+Hard Vacuum is even more dangerous. Travellers
+exposed to hard vacuum suffers a cumulative 1D
+damage each round, suffering 1D damage the first
+round, 2D the second and so on. A typical person will
+be unconscious in one to three combat rounds (about
+6–18 seconds) and dead soon afterwards.
+
+The previous effects assume a Traveller in their
+shirtsleeves, exposed to the hazard. However, partial
+protection is possible. A Traveller in a sealed vacc suit
+is completely safe but if their suit becomes damaged
+they may be partially exposed. A minor suit breach
+such as a gunshot wound (or several) allows the suit to
+continue providing some protection. A major suit breach
+such as a rip caused by jagged debris or knife slash
+allows the suit to offer a minimal level of protection. In
+some cases, a suit may have a minor malfunction and
+cause a body part to be slightly exposed. This is not
+very serious except over long periods.
+
+67
+
+

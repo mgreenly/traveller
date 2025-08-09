@@ -1,0 +1,130 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Government Response
+2D+ DM
+
+Response
+
+6 or less
+
+No response. Warrants will remain outstanding if the Travellers return, but no pursuit undertaken
+
+7–9
+
+Extradition request forwarded to worlds within 2D parsecs
+
+10–12
+
+Bounty Set
+
+13–15
+
+Large Bounty Set, Agents Despatched
+
+16–18
+
+Huge Bounty Set, Agents Despatched
+
+19 or more
+
+Huge Bounty Set, Special Task Force Established
+
+An extradition request indicates that other worlds
+are notified that the criminal is wanted. If there is an
+extradition treaty in place, other worlds will attempt to
+detain the criminal and ship them back for trial.
+If Agents are despatched, this indicates that D3 law
+enforcement agents or contracted bounty hunters (or
+assassins) are sent to look for the criminal. Contracts
+and assignments are usually for a year, although in
+some cases are extended repeatedly.
+A Special Task Force consists of 2D agents whose
+sole job is finding the criminal and bringing them in or
+eliminating them, backed up by whatever intelligence
+and support services are available. Such a task force will
+usually have warrants requesting assistance from other
+world governments, which may or may not be honoured.
+
+Legalities and Lawbreaking
+
+EXTRADITION TREATIES
+
+144
+
+Within a multiworld polity such as the Third Imperium,
+DM+4 applies when determining whether treaties
+exist. Note that this increases the distance over which
+an extradition treaty is likely to exist, as well as the
+chance of one existing at all.
+
+WEAPON-RELATED CRIME
+The Law Level of a world indicates how much formal
+law exists within the jurisdiction of its government.
+A very low Law Level generally means there is no
+formal ban on certain weapons but this does not mean
+‘anything goes’. Even if there is no law against it,
+someone wandering down the street with a plasma gun
+will attract attention and suspicion. Business owners
+will have their own rules about who can bring what onto
+their property and as a rule anyone with something
+worth stealing will be opposed to strangers bringing
+heavy firepower into their shop or onto their land.
+
+Extradition treaties may exist between worlds and a
+government will typically attempt to establish treaties
+with nearby worlds. Local politics may mean treaties
+automatically exist or cannot exist, depending on
+relations between the world governments. Unless
+such a factor exists, an extradition treaty is in place
+on a 2D roll of 8+, with the average of the two worlds’
+Law Level as a positive DM and their distance apart in
+parsecs as a negative DM.
+
+This means it is possible to be told ‘you can’t bring
+that in here’ even if the planet has no law against
+that weapon. Those who ignore such a warning may
+well find themselves under fire. A low Law Level often
+translates to high levels of personal armament and the
+willingness to establish a security force either to protect
+a single business or the community as a whole. Those
+that think ‘no laws’ means they can do as they please
+may find a whole town united against them.
+
+For example, Marduk (Law Level 6) is 2 parsecs from
+Thebus (Law Level 0). The average of these Law
+Levels is 3. Subtracting 2 for their distance apart gives
+DM+1, applied to a 2D roll. On 8+ an extradition treaty
+exists between the two. Oghma is just 1 parsec from
+Marduk and has Law Level 4, which would suggest
+DM+4. However, Oghma is a cess-pit of slavers with no
+regard for anyone else’s laws, so the Referee decides
+that no treaty would be in place.
+
+Weaponry and combat-related equipment can be
+grouped into five categories, determined by its
+ability to win fights and cause large numbers of
+casualties. These categories do not supersede Law
+Level prohibitions but can be used by the Referee
+to determine how seriously weapons infractions are
+viewed. A Traveller might be able to buy a particular
+weapon on a low-law world but could later run into
+trouble if caught with it. Penalties increase depending
+upon the category of the weapon.
+
+R
+
+

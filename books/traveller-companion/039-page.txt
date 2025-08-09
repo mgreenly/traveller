@@ -1,0 +1,188 @@
+RANK AND BONUSES
+
+RANK
+
+MAINSTREAM BELIEVER
+
+SKILL OR BONUS
+
+0
+
+Lay Person
+
+—
+
+1
+
+Initiate
+
+Science (belief)
+
+2
+
+Lay Preacher
+
+Persuade
+
+3
+
+Priest
+
+—
+
+4
+
+Senior Priest
+
+SOC +1
+
+5
+
+Bishop
+
+—
+
+6
+
+Archbishop
+
+SOC +1
+
+RANK
+
+MISSIONARY/HUMANITARIAN
+
+SKILL OR BONUS
+
+0
+
+Junior Project Worker
+
+—
+
+1
+
+Project Worker
+
+Jack-of-all-Trades
+
+2
+
+Team Leader
+
+Leadership
+
+3
+
+Project Leader
+
+—
+
+4
+
+Project Coordinator
+
+Admin
+
+5
+
+Department Director
+
+—
+
+6
+
+Director
+
+SOC +1
+
+RANK
+
+HOLY WARRIOR
+
+SKILL OR BONUS
+
+0
+
+Hopeful
+
+—
+
+1
+
+Fighter
+
+Gun combat (any)
+
+2
+
+Combat Leader
+
+Leadership
+
+3
+
+Force Commander
+
+—
+
+4
+
+Area Commander
+
+Tactics (military)
+
+5
+
+Movement Sub-Leader
+
+—
+
+6
+
+Movement Leader
+
+—
+
+1D
+
+MISHAP
+
+1
+
+You are ambushed by opponents of your belief system. You must roll on the Injury table and
+leave this career.
+
+2
+
+You direct someone to the True Path but this angers a friend or relative of theirs. Gain an Enemy.
+
+3
+
+You are caught on the periphery of a scandal. Lose 1 rank and one Benefit roll but you are not
+ejected from this career.
+
+4
+
+You have been following false teachings! Lose 1 skill level from either Profession (religion) or
+Science (belief). You do not have to leave this career.
+
+5
+
+Your faith is shaken (or you develop a conscience about your false religion). Lose all Benefit rolls
+gained thus far in this career but you do not have to leave this career.
+
+6
+
+You come into conflict with a splinter group of your own religion, which maintains your version is
+the wrong one. Gain D3 Rivals.
+
+additional careers
+
+MISHAPS
+
+15
+
+39
+
+

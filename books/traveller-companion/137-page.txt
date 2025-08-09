@@ -1,0 +1,106 @@
+Passenger Ports have minimal cargo-handling
+facilities but are geared to either large personnel
+movements or luxurious travel, often associated with
+resorts or major tourist destinations. Political centres
+usually have a specialist passenger port, with more
+conventional trade running through other installations.
+
+TRADE NEXUS
+
+Private Ports are owned and operated by a political
+or economic body which may or may not permit use
+of the facility by outsiders. A private port differs from a
+corporate freeport in that it exists to serve the interests
+of the owning group rather than making money from
+interstellar traffic. Some ports allow outsiders to use
+part of the facilities, either at greatly increased prices
+or subject to a lower quality of service than those with
+access to the main facility. A true private port is restricted
+to a select group. This might be heads of a government,
+leaders of a church, direct couriers going to and from
+the headquarters of an organisation, or even a single
+very rich individual. Private ports tend to be small and,
+by definition, not capable of handling large volumes of
+commercial traffic. Some private ports can only berth
+specific types of ship while others are more general and
+in some cases offer very luxurious facilities.
+
+A trade nexus typically has a booming commercial
+market, with cargoes energetically traded in high
+volumes. This has the effect of forcing down prices,
+although often only for those who can afford to buy
+in bulk. Smaller ships can benefit from picking up the
+odd bits and pieces left over from these trades but
+cannot compete with big shipping operators for the
+prime bargains. A trade nexus can therefore actually
+be a less attractive market for small-ship operators
+than it might seem, although this is counterbalanced
+by the greater availability of goods.
+
+Some ports become an important focus for trade, either
+temporarily or on a long-term basis. This may result
+in the port seeing more traffic than its starport code
+would suggest, although when traffic expands there will
+eventually be investment and upgrades.
+
+EFFECTS OF PORT FEATURES
+
+The typical effects of various features can be found on
+the Port Feature Effects table.
+
+Port Feature Effects
+Effects
+
+Freeport, Corporate
+
+Personal purchases and starship consumables typically cost 10–20% more than normal.
+
+Freeport, Independent
+
+DM+D3 added to checks to determine buying price and subtracted from rolls to find
+cargo. Determine the DM anew for every cargo.
+
+Ruins
+
+Effects vary depending upon the nature of the ruins.
+
+Specialist Port, Industrial
+
+DM-4 on checks to find cargo and passengers. Freight (raw materials or industrial
+goods) will always be available but lot sizes are multiplied by five. For example, a
+major freight lot normally is 1Dx10 tons; at an industrial port it is 1Dx50 tons.
+
+Specialist Port,
+Launch Facility
+
+DM-3 on all checks to find passengers, freight and cargo. All cargo sizes and
+passenger numbers are halved.
+
+Specialist Port, Makeshift
+
+DM-1 on all checks to find passengers, freight and cargo. All cargo sizes are halved.
+
+Specialist Port, Military
+
+Civilian ships may be heavily restricted and subject to additional security checks.
+Otherwise, the port functions as normal.
+
+Specialist Port, Passenger Passenger numbers are tripled. Checks to find freight or cargo are subject to DM-3.
+Specialist Port, Private
+
+Outsiders may not be permitted to use the port at all. Fees may be payable, or prices
+higher, for those permitted.
+
+Trade Nexus
+
+DM+2 on all checks to find cargo and passengers. Twice the usual number of lots
+are available. When determining the size of each lot, roll 1D and multiply the normal
+amount by x1D. DM-2 applies to purchase price for lots over 100 tons.
+
+Starports and Spaceports
+
+Feature
+
+137
+
+

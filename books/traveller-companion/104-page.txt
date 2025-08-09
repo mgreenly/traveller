@@ -1,0 +1,126 @@
+T
+
+These creatures require an aquatic environment. They
+may live entirely underwater or in an interface zone
+where they interact with land or air creatures.
+
+Vent Swarmer
+
+Vent swarmers are small creatures, typically no more
+than two centimetres in length. They are naturally
+found in chemical-rich waters such as those close to
+ocean-floor geothermal vents and often form colonies
+close to outlet pipes from industrial premises or seabed
+settlements. They are not harmful in their own right but
+can clog machinery or damage piping. Their presence
+in large numbers tends to attract predators which
+creates a secondary hazard.
+Swarmers are highly active, darting about in
+concentrations of dozens of creatures amid an overall
+population of thousands. Depending on the chemical
+content of the waters they frequent, some swarmer
+communities can interfere with sensors, and most
+create sufficient disturbance that the surrounding
+waters are constantly murky due to seabed sediment.
+They are of little value as a food source due to their
+unpleasant taste and possibility of contamination, and
+are widely regarded as a major nuisance.
+
+Animal Encounters
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Cuttlehorror
+
+AQUATIC ANIMALS
+
+104
+
+R
+
+Animal
+
+Hits
+
+Speed
+
+Vent Swarmer
+
+1
+
+2m
+
+Skills
+
+None
+
+Attacks
+
+None
+
+Traits
+
+Small (-6)
+
+Behaviour
+
+Omnivore, Eater
+
+The cuttlehorror was named, perhaps a little overdramatically, for its resemblance to a Terran cuttlefish.
+The cuttlehorror is vastly larger however, and does
+not seem to have any ability to change colour. At an
+average of around 10 metres long, the cuttlehorror
+is larger on average than a great white shark and
+inhabits a similar ecological niche. However, whilst
+the great white does not deserve its reputation as a
+people-killer, the cuttlehorror truly does.
+Cuttlehorrors are normally solitary creatures, as
+befits their highly destructive nature. They will attack
+almost anything that ventures into their territory and
+have been known to range widely searching for
+something to kill. Cuttlehorrors often attack even when
+not hungry and apparently kill for the fun of it. They
+have been known to take on submarines and surface
+vessels, and are astonishingly persistent even when
+their intended target is made of metal.
+Animal
+
+Hits
+
+Speed
+
+Cuttlehorror
+
+60
+
+8m
+
+Skills
+
+Melee (natural) 1, Recon 1
+
+Attacks
+
+Bite or Ram (4D)
+
+Traits
+
+Large (+3), Ornery
+
+Behaviour
+
+Carnivore, Killer
+
+R
+
+

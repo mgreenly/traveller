@@ -1,0 +1,54 @@
+CORPORATE-SPONSORED FAR TRADER
+5
+10
+
+4
+8
+12
+
+12
+
+10
+
+11
+14
+
+10
+
+15
+
+6
+7
+3
+
+2
+
+2
+
+1
+9
+DECK 2
+
+1. M–Drive
+2. J–Drive
+3. Power Plant
+4. Bridge
+5. Sensors
+6. Airlock
+7. Fuel Processor
+
+8. Double Turret
+9. Single Turret
+10. Staterooms
+11. Common Area
+12. Cargo Airlocks
+13. Loading Belt
+14. Cargo Scoop
+
+DECK 1
+
+1 SQUARE = 0.5 TONS
+
+123
+
+

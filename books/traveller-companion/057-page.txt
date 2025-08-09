@@ -1,0 +1,93 @@
+From TL7 upwards, weapon detection suites become
+steadily more sophisticated. The base difficulty to
+get any weapon through security is Average (8+); the
+Persuade or Stealth skill can be used depending on
+whether the Traveller wants to hide the item and hope it
+is not discovered or rely on it not being recognised. The
+Tech Level of the detection suite is used as a negative
+DM on this check, so slipping a handgun through a TL8
+detection suite requires an Average check at DM-8.
+Modifiers for size and concealment still apply.
+For ‘stealth’ weapons designed to defeat security, a
+DM+1 applies for every two full Tech Levels of the item,
+in addition to the previous modifiers.
+Laser weapons do not use explosives and may not
+be shaped like standard firearms, so gain DM+2
+to defeat conventional scanners. However, from
+TL9 upwards detection suites contain an energy
+emissions detector that will be set off by a powerpack
+– the same applies to the batteries in gauss weapons
+and other powered weaponry. This will trigger a
+direct search unless the power unit is convincingly
+disguised as something innocuous.
+As a baseline, it is reasonable to assume that most
+starports where weapons are restricted have at
+least TL12 detection equipment. Better detectors
+may be used on higher-tech worlds; lower-tech
+operators will usually import them if they hope to
+restrict weapons use.
+For example, Cassandra wants to slip a gun into the
+heavily secured starport. She chooses a TL10 body
+pistol and dismantles it, concealing it throughout
+her luggage inside items that look innocuous on a
+scanner. The port has TL12 detection equipment, so
+Cassandra is trying to make an Average (8+) Stealth
+check at DM-12. She gains DM+5 (half her stealth
+
+weapon’s Tech Level) plus DM+4 because the weapon
+is dismantled and concealed in parts, and another
+DM+1 because she is using a smaller than average
+weapon. This is a net DM-2, making the Stealth check
+a tricky challenge but doable.
+
+GETTING CAUGHT
+Travellers who get caught with weapons they are not
+supposed to have may face serious consequences.
+However, they might be able to reduce those
+consequences. If the weapon is within one Law Level
+of what is allowed (for example a small submachinegun
+in an area where handguns are allowed), the Traveller
+may face only a token fine and refused entry provided
+they can provide a suitable excuse. A gun carelessly
+left in a bag from the Travellers’ last stop – a lawless
+freeport – will attract less official displeasure than a
+disassembled body pistol the Traveller was clearly
+trying to smuggle into a secured area.
+The Traveller thus has a chance to blag their way
+out of the situation and escape with only a token
+fine (3D x Law Level in Credits) and a stern warning.
+To do so, the Traveller must make an Easy (4+)
+Persuade or Diplomat check with the world’s Law
+Level as a negative DM.
+The Traveller will not be permitted entry to the secured
+area with the weapon. It may be confiscated, or
+returned to allow the Traveller to put it in his ship’s gun
+locker where it belongs. The Traveller will be subject to
+greater scrutiny when they next present themselves at
+security, assuming they are allowed entry at all.
+
+The Travellers’ fate is determined by rolling 2D on the
+Sentencing table (see the Traveller Core Rulebook,
+page 225), at DM-4.
+
+Combat
+
+Getting caught with very illegal weapons, or where the
+Travellers are obviously trying to smuggle weaponry
+into an area rather than just making a dumb mistake,
+is grounds for arrest and a first-hand encounter with
+the local judicial system. Any weapon two Law Levels
+or more above what is legal (such as a military gauss
+rifle in an area where only shotguns are permitted), or
+which seems to be intended for criminal purposes, will
+result in automatic arrest.
+
+The Travellers may be able to circumvent this
+process by various means, such as presenting faked
+(or even real!) diplomatic identification documents,
+bribing or suborning the guards, or otherwise
+sidestepping the problem.
+
+57
+
+

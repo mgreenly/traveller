@@ -1,0 +1,76 @@
+GAS GIANT OPERATIONS
+Skimming fuel from a gas giant is a common practice,
+requiring a rapid transit through the upper atmosphere
+to force gases into a scoop. These are then processed
+to extract hydrogen which is compressed until
+sufficient liquid hydrogen is available for use as fuel.
+Skimming is a common means of refuelling a fleet
+before advancing to attack a target world – going into
+action with dry tanks means the fleet cannot escape
+by jumping away from a bad situation.
+Not surprisingly, many powers seek to deny the
+enemy this capability, and on a smaller scale patrol
+vessels are often stationed at a gas giant to catch
+pirates or other criminals trying to avoid the starports.
+This can result in a dangerous game of cat-andmouse in a gas giant’s atmosphere.
+A gas giant’s atmosphere can be considered to
+consist of layers of increasing density. These are
+usually separated by temperature inversions which
+can interfere with the operation of a ship’s sensors.
+The deeper layers of a gas giant’s atmosphere
+are inaccessible to starships as the pressure and
+turbulence encountered there would destroy any
+known ship. However, the upper layers can be used
+for skimming or to conceal a ship.
+As a general rule, the deeper in the atmosphere a
+ship goes, the harder it is to detect and the faster
+it can fill its tanks with liquid hydrogen. However,
+turbulence is greater at these depths, imposing
+difficulties in controlling the ship.
+1 – Wisp: The outer layer of a gas giant’s atmosphere
+is too thin to skim for fuel or fully conceal a ship but
+does impose some drag on a vessel or object in orbit.
+Powered course corrections from time-to-time will be
+necessary to prevent an orbit from decaying, although
+this is likely to take days or even weeks to become a
+serious problem. A ship that loses power in the Wisp
+zone has plenty of time to repair its systems.
+
+2 – Extreme Shallow: The upper layers of the
+atmosphere are not subject to much turbulence. It
+is possible to skim fuel in the extreme shallows but
+it will take 10 times as long as in the Deep zone.
+Power loss will result in orbital decay in 8D hours.
+There are no serious turbulence effects at this level
+and no penalty to Pilot checks.
+3 – Shallow: The Shallows are reasonably safe to
+operate in and allow skimming for fuel at half the
+normal rate. Orbital decay will occur in 2D hours if
+power is lost. All Pilot checks are made with DM-1
+in the Shallows.
+4 – Deep: Fuel skimming and commercial exploitation
+such as petrochemical harvesting is normally done in
+the Deep zone. Skimming is at the normal rate and
+conditions tend to be sufficiently turbulent that Pilot
+checks are made with at DM-2. A vessel that loses
+power in the Deeps will start to fall immediately, hitting
+the top of the Extreme Deep layer in 2D minutes.
+5 – Extreme Deep: Few vessels venture into the
+Extreme Deeps other than specially built research
+craft and warships optimised for hiding in a gas giant’s
+atmosphere. Turbulent conditions impose DM-3 on all
+Pilot checks. A vessel without power in the Extreme
+Deeps will be tossed about by incredible winds,
+suffering 2D damage every round. It will fall to the top
+of the Depths in 2D minutes.
+6 – Depths: Very few vessels have returned from the
+Depths of any gas giant world. Any ship at this depth,
+other than those specially constructed to survive there,
+suffers 2D damage each round, increasing to 6D if the
+ship is unstable due to power loss. A vessel will enter
+the Abyssal Depths in 2D minutes if falling without
+power. All Pilot checks are made at DM-4 in the Depths.
+
+163
+
+

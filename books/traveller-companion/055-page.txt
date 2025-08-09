@@ -1,0 +1,105 @@
+Wound Effects
+Location
+
+Major Wound
+
+Severe Wound
+
+Head
+
+DM-1 on all checks.
+
+DM-2 on all checks.
+
+Arms
+
+DM-1 on all checks involving the arms.
+
+DM-1 on all checks involving the arms.
+
+Torso
+
+DM-1 on all physical checks; speed
+reduced by 1m.
+
+DM-2 on all physical checks. Traveller can only crawl
+unless supported.
+
+Legs
+
+Speed reduced by 2m. DM-1 on all
+movement-based checks.
+
+Leg disabled; Traveller can only hobble slowly with
+support. No movement-based activity is possible.
+
+UNUSUAL CREATURES
+Some creatures do not obey the usual rules for
+damage. For example, dispersed creatures without
+the organs most animals have might be more difficult
+to stop than their END score suggests. For example,
+a crippling wound to a dispersed creature’s tentacle
+might be sufficient to disable it and allow the Travellers
+to escape; in this case the effect of the wound is more
+important than the damage delivered, as the creature
+will not be rendered unconscious by loss of END points
+in the conventional manner.
+For another example, the Travellers are investigating
+a derelict space station whose inhabitants have been
+turned into zombie-like creatures by alien spores
+infesting their nervous system. After seeing Cassandra
+riddle a couple of them with pistol bullets to no effect,
+Mike the Marine realises they need to be shot apart
+to stop them. He takes careful aim and blasts one (a
+former dock worker with an END of 8) in the leg with
+his shotgun. Rolling damage, Mike gets a total of 17
+points – enough for a Crippling wound. The sporezombie’s leg is completely out of action. It continues
+to crawl towards Mike, who can now easily avoid its
+advance providing he maintains a brisk walking pace.
+
+Meanwhile, Arix the Accountant has found a plasma
+gun. He is not a great shot but manages to hit one of
+the spore-zombies. A roll for hit location comes up a 1;
+the head. Rolling damage for his 1DD weapon, Arix gets
+a 4, 40 points of damage! The spore-zombie’s head is
+completely vaporised along with a chunk of its torso and
+a nearby wall. What remains of the spore-zombie is no
+longer a threat. Arix nods in grim satisfaction.
+
+SPECIFIC LOCATIONS
+The Traveller Core Rulebook assumes that Travellers
+are shooting at the centre of body mass and that
+limbs or heads are hit more or less by accident. If a
+Traveller wants to shoot or strike at a specific body
+part they may try to do so. Hitting a specific location
+is tricky even with an aimed shot and is subject to
+DM-2. If using more rapid-fire modes of combat,
+DM-6 is used instead. Failure indicates the target
+has been completely missed.
+The main benefits of shooting at specific locations are
+to bypass cover or armour, for example shooting an
+opponent in the leg if his torso is armoured. A wound
+to a specific location will have the effects noted under
+Wound Effects, depending on its severity.
+
+WEAPON SCANNERS
+AND SEARCHES
+
+Combat
+
+Getting past weapon scanners is not a combat action –
+unless something goes very badly wrong, perhaps – but
+it can be important if combat occurs within a secured
+area. There are essentially two ways weapons can
+be detected: by technical means (scanners) and by a
+search made by security personnel.
+Attempts to bypass security by having weapons
+brought in elsewhere or by negating the security (such
+as by bribing guards to allow a person or container
+to pass unsearched) are not covered here. We are
+purely concerned with attempts to sneak a weapon
+past the security station.
+
+55
+
+

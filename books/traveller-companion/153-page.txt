@@ -1,0 +1,125 @@
+Misjumps
+
+JUMPSPACE CURRENTS
+
+2D
+
+Outcome
+
+2 or less
+
+The ship is lost in jumpspace or emerges
+as fragments and subatomic particles.
+
+3–4
+
+The ship misjumps 1D x 1D parsecs
+in a random direction. Its jump drive is
+completely wrecked upon emergence
+and the passengers and crew risk
+lasting psychological effects.
+
+5–6
+
+The ship misjumps 2D parsecs in a
+random direction. Its jump drive is
+severely damaged upon emergence.
+
+7–8
+
+The ship misjumps 1D parsecs in a
+random direction.
+
+9–10
+
+Duration increased or decreased
+by 1D days. Jump drive requires
+extensive recalibration (D3 days of
+work) but no repairs.
+
+11–12
+
+Very rough jump, emergence is at 100
+x 2D diameters from the target world.
+
+If a Misjump occurs, roll 2D on the Misjumps table
+below using the combined Effect of the Engineer and
+Astrogation checks as a DM.
+
+JUMP DRIVE CONCEPTS
+
+The following concepts require no changes to existing
+ship designs and could be implemented on a local
+scale within a setting that otherwise closely resembled
+the Third Imperium universe. A one-off phenomenon
+could be used to move Travellers to a new location, or
+investigating it might be the focus of their mission.
+
+Some currents can be entered by any ship capable of
+making a jump. Others require a more powerful drive
+to enter. So, a current rated as jump-3 would require
+a ship capable of making a three parsec jump.
+Lesser drives would not be able to enter the current
+and might be damaged in the attempt. Alternatively,
+a lesser jump drive might not be able to navigate the
+current properly and might be deposited back into
+normal space anywhere along its length rather than
+safely reaching its destination.
+A current might be rated more highly in one direction
+than another, perhaps being accessible at one end by
+any jump capable ship but requiring a jump-3 capable
+ship to return. This might have interesting applications
+for the settlement of the region at the far end.
+
+WEIRDER JUMPSPACE
+
+In the Third Imperium universe, jumpspace is a
+mysterious and somewhat scary place but there
+are few jumpspace phenomena. Some do exist,
+such as regions where misjumps are more common
+than usual, but in general jumpspace is a reliable
+mechanism for getting from one place to another. It is
+possible to add in additional ‘jumpspace weirdness’
+without harming the universe too much.
+One option is to assume that there is only one
+jumpspace ‘place’ and that everything that has ever
+entered jumpspace is there, all at the same time. A
+properly working jump drive keeps ‘everything else’
+out of a ship but one that is poorly maintained or has
+suffered damage might not perform so well. This might
+account for reports of mysterious signals received
+whilst in jump, or wild tales of ships emerging with
+what appeared to be collision damage.
+
+THE JUMP DRIVE
+
+Introducing a totally different interstellar drive system
+to a Traveller campaign might impose unexpected
+changes on the universe, or might make using
+existing starship designs impossible. This might well
+be desirable if a campaign is being built from the
+ground up but it is not always possible to foresee the
+implications of large-scale changes. Rather than doing
+away with the concept of the jump drive and replacing
+it with something else, it may be desirable to impose
+some slightly different characteristics on the universe
+or the performance of the drive, opening new options
+without having to redesign every starship.
+
+A current is a jumpspace phenomenon which typically
+links two specific points in normal space. A jumpspace
+current allows a ship to rapidly transit between its
+entry and exit points using a normal jump, so a oneweek jump made at the entry point to a current can
+allow a ship to travel hundreds or even thousands of
+parsecs. However, this can damage the ship’s drive
+or even destroy it if it is not properly calibrated for that
+particular current. Some currents are one-way; others
+can be transited in both directions, and the capability
+of the jump drive required to make the transit can vary
+depending on direction. Some currents have multiple
+entry and exit points, and some exit points may require
+a higher jump number to access than others.
+
+153
+
+

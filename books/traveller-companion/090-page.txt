@@ -1,0 +1,116 @@
+T
+
+Areas of bedrock may be fairly smooth, especially
+if they originated as lava flows, but typically there
+will be crevices and uneven areas which make
+movement at speed hazardous. Bedrock or the
+bottom of a meteorite crater can be navigated at 75%
+of off-road speed without undue hazard.
+Regolith is uncompacted material such as dust and
+small rocks covering bedrock in a layer that may be
+very deep. It is not unduly hazardous to move on in
+and of itself but can conceal hazards such as dust
+pools or crevasses. Regolith slows movement to
+50% of off-road speed.
+Rocky terrain includes crater walls and generally
+uneven areas. Parts of a rocky region may be entirely
+impenetrable to vehicles and could pose a severe
+threat of falls or suit damage to personnel on foot. Best
+speed through even the most navigable parts of a rocky
+region is 25% of off-road speed.
+
+ATMOSPHERIC CONDITIONS
+
+Terrain, Conditions and movement
+
+Atmospheric conditions cause a variety of problems for
+Travellers. Very thin or dense atmospheres can cause
+breathing difficulties, requiring a respirator or similar
+equipment. However, there are more subtle hazards
+that can result from local atmospheric conditions;
+hazards that might not be recognised in time.
+
+90
+
+Thin atmospheres tend not to carry dust particles
+and moisture as readily as thicker air. Erosion will
+be less evident and clouds are likely to be thin and
+wispy. This can improve visibility but also reduces the
+temperature regulating effects of a thick cloud base.
+Night-time temperatures will drop quickly, although
+the air will usually be dryer so frost and ice are less
+likely to form. Rain will fall closer to the water sources
+it evaporated from, resulting in dry areas, and dust will
+also fall out of the air more quickly. Travellers trying to
+predict the movement of an ash cloud from a volcano,
+for example, may find their calculations quite wrong.
+Strong winds are unlikely to be common and flying
+creatures will have to be very light if they exist at all,
+assuming local gravity conditions are similar to those
+of Earth. Similarly, vegetation may grow taller and be
+generally more spindly than Travellers might expect
+since wind effects are minimal.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+A thin atmosphere makes winged aircraft problematic
+but can make operating grav craft safer than elsewhere
+since they are unlikely to be blown around or
+encounter visibility-reducing conditions. Conversely,
+a dense atmosphere will have many opposite effects,
+increasing erosion and regulating temperatures a
+little more evenly. Wind effects can be quite extreme,
+with pressure changes sometimes sufficient to cause
+damage. Dense-atmosphere worlds with a fair amount
+of surface water can be very wet, with thick clouds
+carrying large quantities of water far inland and
+dumping it in spectacular storms.
+Hurricanes and similar phenomena are also likely to
+be more intense on a dense-atmosphere world than
+on Earth and what constitutes a windy day on a dense
+atmosphere world might by quite different to what the
+Travellers are expecting. Wind is not normally that
+much of a hazard to a vehicle or starship but trying to
+drive an ATV on ice in extreme wind conditions, or land
+on a narrow starport pad in very gusty conditions, might
+be a real challenge. Some dense atmosphere worlds
+are sufficiently violent that small objects are routinely
+flung around by the wind. It may be that outside a few
+sheltered locations, an otherwise habitable world might
+be simply too windy to be useful.
+Modest winds pose no unusual problems for flying
+vehicles or spacecraft but high winds and storm
+conditions can make take-off and landing difficult and
+can even bring down grav vehicles.
+High Winds impose DM-2 on Pilot or Flyer checks
+Storm Winds impose DM-4 on Pilot or Flyer checks
+Hurricane Winds impose DM-6 on Pilot or Flyer
+checks and make winged flight all but impossible
+Hurricane Plus conditions are rare but can occur on
+some worlds. All Pilot and Flyer checks are subject
+to DM-8 and most vehicles cannot take off at all.
+Starships have the mass to give them some stability
+but operations are highly dangerous all the same
+Very Thin atmospheres alter these DMs by +3
+Thin atmospheres alter these DMs by +2
+Dense atmospheres alter these DMs by -2
+Super-Dense atmospheres alter these DMs by -4
+Thus a hurricane in a Thin atmosphere world imposes
+DM-4 on Pilot checks; a storm on a Dense atmosphere
+world imposes DM-6.
+
+R
+
+

@@ -1,0 +1,58 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+SPACER ’FLU
+
+Nature: Common ailment, droplet infection (inhaled)
+Difficulty: Average (8+)
+Stage 1: After an incubation period of 2D days, the victim begins to display mild flu-like symptoms. STR and
+END are each reduced by D3 to a minimum of 1.
+Stage 2: After 2D days, check to see if the disease progresses to Stage 2. A Stage 2 patient appears to
+have recovered from what might be mistaken for a cold. STR and END return to normal and the Traveller
+feels well. Note that this means a Traveller who fails the END check will actually seem to recover.
+Stage 3: After 2D days, the disease progresses to Stage 3. There is no END check – a Stage 2 patient
+progresses to Stage 3 automatically. Stage 3 is accompanied by the return of acute ’flu symptoms
+accompanied by fever, vomiting and headache. The disease is rarely fatal in its own right but STR and END
+are each reduced by 2D for the duration of Stage 3, which could kill a weak Traveller. After 2D days of total
+misery, the disease runs its course and the patient recovers.
+Notes: As people move around and despite the best that medical science can do, there is always a ’flu virus
+making the rounds. This one is hugely unpleasant but rarely fatal for people in generally good health.
+
+TILT FEVER
+
+Nature: Common ailment, droplet infection (inhaled)
+Difficulty: Routine (6+)
+
+Diseases, Toxins and Chemicals
+
+Stage 1: After an incubation period of 1D days, the victim begins to suffer inner-ear problems resulting in a
+loss of balance and general inability to stand upright without clinging to something. The victim suffers DM-2
+to all actions other than purely mental ones.
+
+78
+
+Stage 2: After 1D days, check to see of the disease progresses to Stage 2. If so, the Traveller suffers acute
+disorientation and hallucinations, reducing DEX, INT, EDU and SOC by 1D each. This stage lasts 1D days
+before ending abruptly. There is no third stage.
+Notes: Tilt Fever is a droplet-borne infection picked up from other people. It is debilitating and can be highly
+dangerous in some occupations as onset is sudden, with no obvious symptoms before Stage 1 manifests
+itself. Recovery is complete once the disease progresses through Stage 2. Tilt Fever will prevent a pilot
+from operating a vehicle of spacecraft safely, and has been cited as one of the most common reasons for
+requiring a replacement at short notice.
+
+R
+
+

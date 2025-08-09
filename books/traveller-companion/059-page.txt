@@ -1,0 +1,108 @@
+Very dense worlds can have higher than average
+gravity for their size – although normally no more than
+one or two categories higher. Similarly, some worlds
+are composed of low-density materials and may have
+gravity a category lower than indicated.
+
+OPERATING IN MICROGRAVITY
+
+Sometimes referred to as zero-gravity, microgravity
+is a situation where gravitational forces are minimal.
+However, this does not mean objects lack mass or
+inertia. A cargo crate that has started moving will still
+crush a Traveller and require some force to get it
+moving or to stop. Operating in microgravity can be
+tricky and sometimes dangerous.
+Microgravity is encountered aboard space craft
+without artificial gravity (or devices like spin sections
+to simulate it) and when operating on or around very
+small bodies like comets or small moonlets. For
+example, Deimos, one of the moons of Mars, has a
+surface gravity of 0.0004G and can be considered a
+microgravity environment.
+One of the hidden hazards of microgravity is that
+objects do not fall. That means something moving
+towards a Traveller will get there eventually; it will not
+drop to the deck and stop. Similarly, a Traveller who
+loses contact with other objects can end up stranded
+just centimetres from something they could grab or
+push themself off. It is possible to jump off a small
+body like an asteroid and simply float away into the
+void. Thus it is commonplace for spacers to use tethers
+when working in such an environment, even if thrusters
+and reaction packs are available for manoeuvring.
+
+Microgravity is an entirely alien environment for most.
+Objects do not behave as they ‘should’ and even
+concepts like up and down can become confused.
+
+OPERATING IN LOW GRAVITY
+
+At the higher end of the low-gravity spectrum,
+operating in low gravity is not difficult even for those
+unaccustomed to it. Little mistakes are common, such as
+failing to estimate how fast an object will fall or moving
+too quickly and losing balance, but the single biggest
+problem for most is poor contact with the ground.
+Those raised in a normal gravity environment tend to
+take it for granted that they will be firmly rooted when
+they carry out an action. However, this may not be
+the case unless they take due care, which can lead to
+overbalancing even when doing something as simple
+as reaching for an object on a shelf or opening a
+refrigerator door. Steps also tend to be quite long and
+bounding, which can result in a lack of coordination
+between legs and body.
+For every 0.25G difference between the gravity a
+Traveller is used to and the gravity they experience,
+DM-1 is imposed on all physical actions. Assume a
+‘home’ gravity of 1G for most people living and working
+in space, as most space stations and a starships are
+maintained at this level. The DM is increased by +1 for
+every level of the character’s highest relevant skill, up
+to DM+0. Normally this will be Athletics (dexterity) or
+Vacc Suit but others may be used if applicable.
+
+FIGHTING IN LOW-G AND MICROGRAVITY
+Fighting in low gravity can be a tricky business
+for those not used to it. Objects do not fall in the
+expected manner, projectiles follow a flatter path
+and it is very hard to absorb any sort of force without
+being pushed or disorientated. In low gravity there is
+less force holding a Traveller to the ground and it is
+therefore much more difficult to establish a solid base
+to fight or shoot from.
+Hand weapons are particularly difficult to use as they
+require interaction with the environment (usually the
+ground) to enable the user to generate force. An
+inexperienced combatant might send himself bouncing
+off the walls instead of delivering a powerful cutlass
+blow. Most projectile weapons generate sufficient recoil
+to send the firer spinning and for this reason energy
+weapons such as lasers are often favoured by those
+expecting to fight in low gravity conditions.
+
+GRAVITY AND RELATED EFFECTS
+
+Despite the fact that microgravity is sometimes called
+‘free-fall’, there is no such thing as falling in the
+conventional sense in this environment. It is, however,
+possible to float at some speed for a considerable
+distance and smash into something. The Traveller
+does not accelerate as they would in a true fall but will
+be helpless to avoid a collision unless they can grab
+something or otherwise arrest their movement. Thus it
+is reasonable to say that actions taken in microgravity
+have permanent consequences and need to be
+considered in that light before acting. Those who want
+to jump from one handhold to another need to be very
+skilled and not make any mistakes.
+
+Anyone who does not have experience of microgravity
+(indicated by the possession of skills such as Athletics
+(dexterity) and Vacc Suit) suffers DM-2 on all physical
+actions, even if firmly anchored.
+
+59
+
+

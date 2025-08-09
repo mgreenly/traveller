@@ -1,0 +1,172 @@
+ARGUSHIIGI
+ADMEGULASHA BILANIDIN
+(THE LIBRARIAN OR ‘LIBBY’)
+TL14
+Systems
+
+CLASS: AZHANTI HIGH
+
+LIGHTNING CRUISER
+
+TONS COST (MCR)
+Briefing Rooms x7
+
+28
+
+3.5
+
+Fuel Processor (4,000 tons/day)
+
+200
+
+10
+
+Fuel Scoops
+
+—
+
+1
+
+Laboratories x5
+
+20
+
+5
+
+Libraries x4
+
+16
+
+16
+
+Mail Distribution Array (TL13)
+
+20
+
+10
+
+Medical Bays x6
+
+24
+
+12
+
+Workshops x4
+
+24
+
+3.6
+
+Standard x401
+
+1,604
+
+200.5
+
+High x1
+
+6
+
+0.8
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/5
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Advanced Fire Control/1
+
+—
+
+12
+
+Anti-Hijack/3
+
+—
+
+10
+
+Electronic Warfare/2
+
+—
+
+18
+
+Evade/3
+
+—
+
+2
+
+Intellect*
+
+—
+
+16
+
+Virtual Gunner/2
+
+—
+
+10
+
+Common Areas
+
+401
+
+40.1
+
+Cargo
+
+317
+
+—
+
+Staterooms
+Software
+
+Crew
+Captain, Pilots x3,
+Astrogator, Engineers
+x295, Maintenance
+x30, Medics x6,
+Gunners x 393**,
+Administrators x30,
+Officers x37
+**Gunners may be reduced
+depending on how many
+are allocated to the Virtual
+Gunner software. Note that
+increasing the number of
+virtual gunners increases
+the bandwidth used by
+the software. Refer to
+High Guard for more
+information.
+
+*The ship’s Intellect program is a TL15 prototype that approaches the
+functionality of a Conscious Intelligence. It answers to the name ‘Libby’
+and may be treated as a computer-bound NPC with INT 13 and EDU
+13, with a range of skills that can be uploaded, changed and improved
+(typically in the skill level 2–4 range).
+
+ARGUSHIIGI
+ADMEGULASHA
+BILANIDIN
+
+209
+
+

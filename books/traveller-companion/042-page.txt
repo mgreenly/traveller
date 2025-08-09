@@ -1,0 +1,185 @@
+T
+
+GAINING SKILLS
+
+To gain a skill at level 0 costs 1 Experience point.
+Gaining level 1 from level 0 costs 1 more, and after
+that the cost is doubled, as shown on theGaining
+Skills table. Each skill level must be bought in turn,
+including skill 0.
+
+Gaining Skills
+
+V
+
+E
+
+L
+
+L
+
+E
+
+To increase a physical characteristic, the cost in
+Experience points is equal to the new level, as shown
+on the Gaining Characteristics table. For mental
+characteristics, the cost is double the new level.
+
+Gaining Characteristics
+Characteristic
+Value
+
+Cost to Gain (STR,
+DEX, END)
+
+Cost to Gain (INT,
+EDU)
+
+1
+
+1
+
+2
+
+2
+
+2
+
+4
+
+3
+
+3
+
+6
+
+4
+
+4
+
+8
+
+5
+
+5
+
+10
+
+6
+
+6
+
+12
+
+7
+
+7
+
+14
+
+8
+
+8
+
+16
+
+Cost to Gain
+
+0
+
+1
+
+1
+
+1
+
+2
+
+2
+
+3
+
+4
+
+4
+
+8
+
+5
+
+16
+
+9
+
+9
+
+18
+
+6
+
+32
+
+7
+
+10
+
+10
+
+20
+
+x2 each level
+
+11
+
+11
+
+22
+
+12
+
+12
+
+24
+
+13
+
+13
+
+26
+
+14
+
+14
+
+28
+
+15
+
+15
+
+30
+
+Physical and mental characteristics may also be
+increased by appropriate activity. Gym work, sport and
+general exertion are good for physical characteristics
+(STR, END and DEX) while study and problem-solving
+can be used to train the mind (INT and EDU). SOC
+cannot be trained; a Traveller who wants to improve
+his SOC will have to do it in-game and spend a lot of
+Credits in the process.
+
+Training and Experience
+
+A
+
+Skill Level
+
+INCREASING CHARACTERISTICS
+
+42
+
+R
+
+R
+
+

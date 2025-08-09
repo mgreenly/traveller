@@ -1,0 +1,87 @@
+THE JUMP DRIVE
+The standard means of interstellar travel in the Third
+Imperium universe is the jump drive. This translates
+the vessel into an alternate place or state, a private
+pocket universe just for that ship. A jump is generally
+considered to take approximately 150–180 hours
+(roughly a week) and covers up to one parsec (a
+parsec is 3.27 light years) per jump number per week –
+i.e. a jump-3 ship can transit up to three parsecs (9.81
+light years) in a week during a normal jump.
+A standard jump drive uses fuel equal to 10% of the
+tonnage of the vessel per parsec. Thus a 500-ton jump3 ship needs 50 tons of fuel per parsec and can jump
+one to three parsecs at a time. It is possible to carry
+fuel for multiple jumps but there are practical limits on
+how much of a ship can be given over to fuel tankage.
+Jump travel is not without its hazards. Even a wellmaintained vessel on a known route can suffer a
+misjump. A minor misjump might shorten or lengthen
+the duration of the jump and/or change its direction and
+distance by a huge amount. More serious misjumps
+can damage or destroy a ship as well as altering the
+exit point. There are also tales of very strange things
+happening in jumpspace, including unintelligible
+radio signals and strange phenomena that can drive
+crewmembers insane.
+In the Third Imperium universe the jump drive obeys
+certain well-understood rules:
+• A jump takes approximately seven days, typically
+plus or minus a day, and a jump capable vessel
+can cover any distance up to the ship’s jump
+number in parsecs in that time.
+• A jump requires fuel equal to 10% of the ship’s
+mass per parsec.
+• The ship is completely cut off from the outside
+universe whilst in jumpspace.
+• Jumping within a gravity well is dangerous.
+Using the jump drive is never without at least some
+risk but hazards can be minimised by following certain
+guidelines. Most spacers will not even consider
+engaging a jump drive when within 100 diameters of a
+planet, star, or other massive object. Even something
+as small as another ship can cause a serious
+misjump incident.
+
+The 100-diameter limit is more a useful rule of thumb
+than physical law. A very dense but small object has
+sufficient gravity to make jumps hazardous beyond 100
+diameters. However, for an average rocky planet the
+100-diameter rule is a good guideline. Most spacers
+calculate a safe jump as ‘100 plus a bit’. Jumping
+within 10 diameters of a massive object is extremely
+dangerous and would only be attempted in the most
+desperate of circumstances.
+
+JUMP MASKING
+
+A jump whose emergence point is too close to
+an object with strong gravity can have serious
+consequences. Whilst it is possible (but very risky) to
+jump from within 100 diameters of an object, it is not
+usually possible to jump directly into an area ‘masked’
+by the 100-diameter limit of an object. Occasionally
+a ship does emerge within this limit but this causes
+damage to the jump drive and can sometimes cause a
+ship to disintegrate on emergence.
+It is not possible to hit a precise emergence point
+within the 100-diameter limit. Most commonly,
+attempting to do so will cause the ship to precipitate
+out of jump (with damage to the drive) at the 100
+diameter limit. Sometimes the ship will misjump
+instead and end up somewhere entirely different. The
+duration of the jump is not affected by any shortening
+of the distance covered due to jump masking – it is not
+possible to make a jump in a couple of days by aiming
+for a distant point and being precipitated out of jump
+by an intervening object.
+Jump masking has some important implications for
+interstellar travel. A star like our sun has a 100-diameter
+limit of about 140,000,000 kilometres, or a little less
+than one Astronomical Unit. This means that virtually
+every location in the solar system inside Earth’s orbit is
+masked by the sun. In other words it is not possible to
+jump directly to Mercury or Venus; the only way to get
+there is by sublight travel.
+
+149
+
+

@@ -1,0 +1,140 @@
+LIGHT CRUISER
+
+CLASS: STARBURST OF EXTREME HEROISM
+
+TL15
+Craft
+
+TONS COST (MCR)
+Docking Space (254 tons)
+
+280
+
+70
+
+Modular Cutters x5
+
+—
+
+51.435
+
+Air/raft
+
+—
+
+0.25
+
+Standard x171
+
+684
+
+85.5
+
+High
+
+6
+
+0.8
+
+Emergency Low Berths x84
+
+84
+
+84
+
+Low Berths x20
+
+10
+
+1
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Advanced Fire Control/2
+
+—
+
+15
+
+Anti-Hijack/3
+
+—
+
+10
+
+Auto-Repair/2
+
+—
+
+10
+
+Battle System/2
+
+—
+
+24
+
+Broad Spectrum EW
+
+—
+
+14
+
+Electronic Warfare/1
+
+—
+
+15
+
+Launch Solution/3
+
+—
+
+16
+
+Point Defence/2
+
+—
+
+12
+
+Common Areas
+
+172
+
+17.2
+
+Cargo
+
+97
+
+—
+
+Staterooms
+
+Software
+
+STARBURST
+OF EXTREME
+HEROISM-CLASS
+LIGHT CRUISER
+
+231
+
+

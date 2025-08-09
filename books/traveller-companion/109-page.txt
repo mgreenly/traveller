@@ -1,0 +1,99 @@
+Alga Worm
+
+The alga worm is a thick, segmented creature which
+can be mistaken for a section of conduit or piping,
+native to exotic atmosphere worlds. Specimens grow
+to a maximum of one metre in length and are more
+typically 40–60 centimetres long. Alga worms are more
+or less harmless in their own environment, except
+perhaps as a trip hazard, but their tissues react with
+oxygen in a violent and messy manner. When exposed
+to a reasonable concentration of oxygen – about 10%
+of a normal-pressure atmosphere – an alga worm will
+undergo an exothermic reaction which can lead to the
+animal cooking itself or even exploding.
+Alga worms are harvested for the concentrated
+chemicals that build up in their tissues. This
+practice has been widely condemned as cruel and
+is outlawed on some worlds. Transporting worm
+carcasses is an additional problem; many ‘unofficial’
+harvesting operations lack the equipment to properly
+treat the worm’s tissues and as a result accidents
+are not uncommon.
+
+Kasman (Kashmanuggidagi)
+The kasman was clearly known in the days of the First
+Imperium, although the original Vilani name has since
+been corrupted into something more pronounceable.
+The kasman is an omnivore native to corrosiveatmosphere worlds, with resemblance to an armoured
+bear, and is protective of its territory. Kasman are
+usually encountered in family groups of two adults and
+two to six juveniles in various stages of development.
+Kasman are large but agile and possess a powerful
+set of claws. Their own armoured skin is more or
+less impervious to these claws, so fights between
+kasman are normally a matter of knockdown blows,
+driving the loser off rather than killing it. Such
+fights are quite common as family groups test the
+boundaries of one another’s territory.
+Animal
+
+Hits
+
+Speed
+
+Kasman
+
+45
+
+6m
+
+Skills
+
+Melee (natural) 1, Recon 0,
+Survival 1
+
+Animal
+
+Hits
+
+Speed
+
+Attacks
+
+Claws (4D)
+
+Alga Worm
+
+4
+
+1m
+
+Traits
+
+Armour (+3), Large (+1)
+
+Skills
+
+None
+
+Behaviour
+
+Omnivore, Hunter
+
+Attacks
+
+None
+
+Traits
+
+Explosive (1D, 2m)
+
+Behaviou
+
+Omnivore, Filter
+
+Animal Encounters
+109
+
+

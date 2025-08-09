@@ -1,0 +1,105 @@
+Alversen's Nightmare
+
+The nightmare is a long, sinuous creature with thickly
+muscled hind legs and three more sets of smaller
+limbs along its body. The front pair are positioned for
+digging, the others for pushing its body though the
+resulting tunnel. The nightmare’s head is protected by
+a thick bony plate, giving it a nightmarish (hence the
+name) aspect. The way it moves above ground in a
+series of sinuous rushes and its generally disgusting
+slime-covered aspect causes a mix of revulsion and
+terror in most observers.
+Nightmares are carnivorous and will often tunnel into
+an area then hide below the surface before striking
+at livestock or even people. They are hard to kill and
+extremely aggressive. Rumours of nightmares nesting
+in groups have never been proven.
+Animal
+
+Hits
+
+Speed
+
+Alversen’s
+Nightmare
+
+30
+
+4m
+
+Skills
+
+Melee (natural) 1
+
+Attacks
+
+Bite (2D)
+
+Traits
+
+Armour (+4), Large (+1), Strange
+
+Behaviour
+
+Carnivore, Pouncer
+
+Rajjers
+
+Rajjers are herd creatures resembling large deer,
+although rather than antlers they have forwardcurving horns like a bull and a set of tusks that allows
+them to present a set of sharp points to an aggressor.
+They are normally found in small herds of around
+20–30 individuals, grazing on ground vegetation and
+nibbling at bushes. Rajjers are normally docile and
+will wander away from Travellers who get too close.
+They are not territorial and will share a region with
+other herds or entirely different species if grazing is
+good and they are not threatened.
+A low-level threat will be countered by one or more
+males, which will attempt to drive off interlopers
+with a display of stamping and a strange neighing
+bark that many humans find comical. This is
+unfortunate, as the warning is very serious. Rajjers
+have a matriarchal society and at a command
+from the dominant female one or more males will
+become suicidally aggressive. This command may
+be pheromonal or a combination of behaviour and
+stance but is thought by some to be telepathic.
+A Rajjers that has been triggered in this manner
+gains the Rage and Tough traits. It is thought that the
+dominant female can calm an enraged male but little
+research has been done on the subject.
+Animal
+
+Hits
+
+Speed
+
+Rajjer
+
+30
+
+8m
+
+Skills
+
+Melee (natural) 1, Recon 0,
+Survival 0
+
+Attacks
+
+Kick and Gore (2D)
+
+Traits
+
+Large (+1)
+
+Behaviour
+
+Herbivore, Grazer
+
+Animal Encounters
+95
+
+

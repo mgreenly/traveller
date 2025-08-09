@@ -1,0 +1,129 @@
+GRAVITIC SHIELDING
+Gravitic Shielding becomes available – in a primitive
+form – at TL16. Initially, it is useful only as a rather
+crude defensive system but more advanced and
+controllable systems have other uses.
+Gravitic shielding creates a region of twisting
+gravitational forces close to the ship’s hull. This
+has no effect on energy weapons but may rip apart
+a small craft or missile closing with the shielded
+vessel or deflect a kinetic weapon. It is theorised
+that sufficiently powerful gravitic shielding might be
+able to deflect particle weapons and even lasers, but
+the technology to achieve this is unimaginably far in
+advance of any known civilisation.
+If the shielded vessel is struck by a missile, torpedo
+or small projectiles (i.e. rail-gun bullets) there is a
+chance that the hit is negated by the shield – bullets
+are scattered or deflected before impact, while
+missiles are destroyed or flung away from the ship.
+
+The field cannot affect lasers sufficiently to cause a
+miss at the ranges over which the field is projected
+but more advanced versions will stop plasma or fusion
+weaponry. An active gravitic shield will also damage
+small craft and vessels nearby – any craft at Close
+range suffers damage each round.
+These shields also provide protection from high
+gravity fields such as those encountered near
+a Black Hole. Gravity fields of less than the G
+Tolerance value on the Gravitic Shield table will not
+affect a ship with an active shield.
+A shielded vessel may still fire its own beam weapons
+but missiles and small craft cannot be launched or
+recovered with the shield in operation. The shield can
+be turned off at any time for an entire round.
+Gravitic shielding consumes 1 Power and 0.5 tons per
+5 tons of the ship’s hull. The cost listed in the Gravitic
+Shield table is per ton of the shielding system itself.
+
+Gravitic Shielding
+Type
+
+TL
+
+Cost
+
+Destroy Missile (1D) Deflect Plasma or Fusion (1D) Damage to nearby vessels G Tolerance
+
+Primitive
+
+16
+
+MCr2.5 6+
+
+None
+
+1D
+
+10
+
+Basic
+
+17
+
+MCr5
+
+4+
+
+None
+
+2D
+
+20
+
+Standard
+
+18
+
+MCr10
+
+2+
+
+6+
+
+4D
+
+50
+
+Enhanced 19
+
+MCr15
+
+Automatic
+
+4+
+
+8D
+
+100
+
+Advanced 20
+
+MCr20
+
+Automatic
+
+2+
+
+16D
+
+250
+
+21
+
+MCr25
+
+Automatic
+
+Automatic
+
+32D
+
+Possibly Infinite
+
+Superb
+
+179
+
+

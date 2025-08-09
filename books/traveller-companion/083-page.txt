@@ -1,0 +1,146 @@
+Reduced END is regained at the rate of D3 points per
+hour spent in a warm place, unless it reached zero as a
+result of hypothermia. In this case, the Traveller needs
+medical care and regains one point to each reduced
+characteristic per day of rest.
+Travellers wearing basic cold-environment protection
+treat the conditions as one category less serious.
+Travellers wearing excellent arctic clothing treat the
+conditions as two categories less serious.
+
+Hypothermia
+Temperature
+or Conditions
+
+END Check
+Difficulty
+
+Time Interval
+
+Normal or
+fully protected
+
+No danger of
+hypothermia
+
+None
+
+10º to 0ºC
+
+1 hour
+
+Routine (6+)
+
+-1º to -10º
+
+30 minutes
+
+Average (8+)
+
+-11º to -20ºC
+
+15 minutes
+
+Difficult (10+)
+
+-21º to -30ºC
+
+5 minutes
+
+Very Difficult
+(12+)
+
+-31º or lower
+
+2 minutes
+
+Formidable (14+)
+
+HEATSTROKE
+Heat concentrated enough to cause immediate physical
+injury is dealt with as normal damage. However, when
+a Traveller is operating in a hot environment for a
+protracted period they may suffer from the effects of
+heatstroke. This is modelled much like hypothermia,
+with a reduction in END. Protective equipment such as
+reflective clothing works well against radiant heat, such
+as that coming directly from the sun or an open furnace
+door but is less use against heat absorbed from hot air
+or water surrounding the Traveller.
+Travellers operating in an environment up to a little
+above body temperature may be uncomfortable and
+require more to drink but will otherwise suffer no ill
+effects. Higher temperatures are a problem. Travellers
+wearing basic protection (e.g. loose light-coloured
+clothing and a hat in the desert) treat conditions as one
+level less severe, while those with excellent protection
+(e.g. a reflective anti-heat suit) treat the conditions as
+two levels less severe.
+
+Heatstroke
+Temperature
+or Conditions
+
+Time Interval
+
+END Check
+Difficulty
+
+Normal or
+fully protected
+
+No danger of
+Heatstroke
+
+None
+
+40–50ºC
+
+4 hours
+
+Routine (6+)
+
+51–60ºC
+
+2 hours
+
+Average (8+)
+
+61–70ºC
+
+1 hour
+
+Difficult (10+)
+
+71–80º
+
+20 minutes
+
+Very Difficult (12+)
+
+Over 81ºC
+
+1 minute
+
+Cannot be
+tolerated
+
+Recovery from heatstroke requires a cool environment,
+rest and plenty to drink. Reduced END is regained
+at the rate of D3 points per hour spent in tolerable
+temperatures, unless it reached zero. In this case the
+Traveller needs medical care and regains one point to
+each reduced characteristic per day of rest.
+
+Effects of Temperature
+
+Each time an END check is failed, END is reduced
+by -1. Once it reaches zero, the Traveller becomes
+badly disorientated and collapses soon after. The
+higher of STR or DEX is then reduced by one point
+at the indicated interval (randomly chosen if they are
+identical). If both reach zero, the victim will die.
+
+83
+
+

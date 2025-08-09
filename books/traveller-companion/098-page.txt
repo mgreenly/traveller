@@ -1,0 +1,128 @@
+T
+
+A stingstorm is a mob of small creatures resembling
+very small flying lizards. Often known as stormers,
+these creatures are aggressively territorial and will
+attack quite large creatures. Individually puny (and
+less than three centimetres long), they are capable of
+bringing down a large animal or human.
+A mob of stormers makes a confusing target and although
+individuals are easy to kill there are many of them. Some
+will be attached to the target, nipping and biting, while
+others fly about screeching. One tactic stormers like to
+use is to crash themselves into the head of the prey,
+latching on with their tiny claws for a few seconds then
+flying off leaving a mass of scratches behind.
+Wounds inflicted on a stingstorm (as the swarm is
+known) represent casualties and Stormers driven off.
+When enough damage is done to ‘disable’ the swarm
+(enough hits are inflicted to make a normal creature
+unconscious), the Stormers will usually retreat. A
+Stingstorm can attack only as a mass of tiny nips but
+blood loss and damage to fingers or eyes can be serious.
+
+Animal Encounters
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Peak Floater
+
+Stingstorm
+
+98
+
+R
+
+Animal
+
+Hits
+
+Speed
+
+Stingstorm
+
+34
+
+8m
+
+Skills
+
+Persuade 1
+
+Attacks
+
+Many Small Nips (D3)
+
+Traits
+
+Flyer (very slow), Ornery,
+Particulate
+
+Behaviour
+
+Carnivore, Intimidator
+
+Peak floaters have been described as ‘jellyfish of
+the air’, which is a reasonable approximation of their
+appearance. A floater consists of a central gasbag
+and numerous tendrils, which have poisonous stingers
+along their length. These cannot harm a Traveller
+through clothing but will inject a nasty venom into
+surface tissues they contact, causing swelling and
+pain. The gasbag is filled with an extremely lowdensity gas produced by natural reactions within
+the creature, which are themselves fuelled by exotic
+compounds. Rupturing the bag releases the gas,
+resulting in a burst of flame or a small explosion which
+scatters parts of the creature. These will also burst
+into flame, creating a minor fire hazard.
+Peak floaters typically drift around hilltops or
+mountains where the air is cold, feeding on insects
+caught by their sticky tendrils. These are gently
+dragged over bushes and other vegetation, and can
+be brought into contact with Travellers this way. These
+creatures are of very low intelligence, just drifting and
+feeding, and will not take any sort of deliberate action.
+They can, however, be a real problem when their
+numbers grow beyond a handful.
+Animal
+
+Hits
+
+Speed
+
+Peak Floater
+
+6
+
+1m
+
+Skills
+
+None
+
+Attacks
+
+Sting (1D)
+
+Traits
+
+Explosive (1D, 1m), Floater,
+Gossamer
+
+Behaviour
+
+Carnivore, Eater
+
+R
+
+

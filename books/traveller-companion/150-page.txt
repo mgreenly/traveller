@@ -1,0 +1,120 @@
+T
+
+Very large stars mask huge volumes of space. A
+giant star might have a diameter of 100,000,000 to
+1,000,000,000 kilometres, and would mask an area 100
+times greater. Even the outer planets might be masked,
+requiring a long transit to and from a safe jump point.
+Systems with multiple stars may also experience
+significant jump masking, with some worlds having
+periods when they are masked and others when they
+are not as a result of relative orbital positions.
+Calculating the masked radius for a gas giant requires a
+definition of its radius, which is usually taken as the point
+at which atmospheric pressure reaches 1 atmosphere.
+For a large gas giant (e.g. Jupiter) this is around 6070,000 kilometres. For a small gas giant (e.g. Uranus
+or Neptune), a figure of around 25,000 kilometres is
+common. This means that a small gas giant has a
+100-diameter limit of some 2,500,000 kilometres; for a
+large gas giant it will be around 6,500,000 kilometres.
+This has implications for shipping to a port located on
+a gas giant moon. The moons of Jupiter have orbital
+radii ranging from 128,000 kilometres to 24,000,000
+kilometres, with the larger moons being closer in. It is
+possible that a mainworld that is also a gas giant moon
+would be masked, requiring ships to make a long transit
+in and out from the jump point. This might have strategic
+advantages but it adds time to a merchant ship’s trip
+which will harm trade, stunting economic growth of a
+world located there, unless it was sufficiently rich in
+resources to be a must-go trade destination.
+
+THE JUMP DRIVE
+
+Jumping within 100 diameters of an object imposes
+DM-4 on Engineer (j-drive) checks, and jumping within
+10 diameters imposes DM-8. It is still possible to make
+such a jump and survive… possible, but not likely.
+
+150
+
+Lagrange points, where the gravity of two objects
+create a net zero force, are actually subject to greater
+gravitational forces than normal – the fact that two
+forces cancel one another out does not mean there is
+no force on a ship jumping at that point. It is extremely
+dangerous to jump from a Lagrange point; an additional
+DM-2 is applied to Engineer checks on top of the
+normal DM for jumping within a gravity well.
+The main implication of jump masking is to create areas
+where starships must proceed at sublight speeds,
+making them vulnerable to piracy and other hazards.
+Worlds within a jump-masked area are likely to be less
+economically developed than those with quicker access
+to interstellar trade, although this does not mean all
+jump-masked worlds are backward.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Jump-masked worlds and gas giant moons are
+an ideal location for sensitive outposts, prisons
+and bases. Traffic volume will be lower due to the
+difficulty of getting to and from the location, and if
+there is an attempt to attack or escape from the
+installation the warning time will be greater. Jumpmasked areas of a star system are often largely
+forgotten about – many spacers have a blind spot
+towards places they cannot easily go – and so make
+ideal hiding places for pirates or secret caches.
+
+JUMP PRECIPITATION
+Jump precipitation can occur if a plot is too tight and
+the ship hits the 100-diameter limit before emergence,
+or if the jump shadow of an unpredicted object lies
+across the vessel’s path. This usually happens due
+to very poor astrogation, creating a path which takes
+the ship through the 100-diameter shadow of a star or
+planet. It can also occur if there is an uncharted object
+such as a rogue planet on the ship’s course. A vessel
+would have to be very unlucky to be precipitated out of
+jump by a comet or other relatively small object, but it
+does happen from time-to-time.
+A ship that is precipitated out of jump in this manner still
+takes the normal time for a jump; it just does not go as
+far. Thus a vessel attempting a six-parsec jump but is
+precipitated out of jumpspace by an object encountered
+1.5 parsecs from the starting point still takes the normal
+time for the jump. The crew may have no warning that
+this has occurred until they re-enter normal space.
+
+JUMP VARIANCE
+
+When a jump is plotted, the astrogator attempts
+to refine all of the vastly complex calculations and
+variables involved into a ‘jump plot’ that will bring the
+vessel out as close to the 100-diameter limit of the
+destination as possible. The ship’s engineer then
+attempts to implement the plot in such a way as to
+get as close as possible to the astrogator’s theoretical
+model. Jump navigation is not a 100% precise science
+however and there will always be some variance.
+Assuming the plot from the astrogator and entry into
+jumpspace set up by the engineer are both good (both
+skill checks are made) then the vessel will arrive a safe
+margin short of the 100-diameter emergence limit after
+approximately 160 hours +/- 20 hours.
+
+R
+
+

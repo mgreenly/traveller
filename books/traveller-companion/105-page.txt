@@ -1,0 +1,101 @@
+Bootwrap
+
+Another creature whose scientific name is unknown
+to most Travellers, the bootwrap is a shallow-water
+dweller resembling a spongy mass one to three metres
+in diameter. It is possible that there are numerous
+species of similar creatures; bootwraps have been
+reported in both fresh and seawater areas. The primary
+danger they pose to Travellers is a tendency to bunch
+and clamp around an object that comes into contact
+with the bootwrap’s upper surface.
+The bootwrap is an extremely primitive creature, with
+life functions dispersed throughout its structure. Any
+tissue that touches organic material tightens around
+it and begins to digest its catch. This can take days in
+the case of a boot or vehicle tyre but during this time a
+Traveller might be endangered by rising tides or other
+hazards. Pulling a foot free of a bootwrap requires an
+immediate Difficult (10+) STR check. If this is failed,
+the check increases to Very Difficult (12+) and the
+Traveller may make a new attempt every hour until
+they escape or are dissolved. Killing the bootwrap is
+difficult due to its dispersed structure, although much
+of one could be cut away until the small remaining part
+is relatively easy to remove.
+Animal
+
+Hits
+
+Speed
+
+Bootwrap
+
+12
+
+0
+
+Skills
+
+None
+
+Attacks
+
+Slow Digestion (1 per day)
+
+Traits
+
+Dispersed, Small (-2)
+
+Behaviour
+
+Carnivore, Filter
+
+Pointer Fish
+
+The pointer fish is a harmless cold-water fish with an
+unusually strong ability to detect electromagnetic fields.
+They are attracted to seabed cables and underwater
+operations of any kind, as well as naturally occurring
+magnetic fields. Pointer fish will align themselves with a
+magnetic field and follow it, sometimes without regard
+to obstacles. This can create concentrations of fish at
+choke points, which in turn attracts predators.
+Pointer fish have been introduced to many ecosystems
+as part of aquaculture projects – they can be ‘herded’
+by submersibles fitted with electromagnets which
+makes harvesting and population monitoring relatively
+easy. Pointer fish also breed in the wild and can
+unbalance an ecosystem if not kept under control.
+Animal
+
+Hits
+
+Speed
+
+Pointer Fish
+
+4
+
+8m
+
+Skills
+
+None
+
+Attacks
+
+None
+
+Traits
+
+Small (-3)
+
+Behaviour
+
+Herbivore, Grazer
+
+Animal Encounters
+105
+
+

@@ -1,0 +1,109 @@
+PACKAGE-BASED CREATION
+These rules replace the standard Traveller career rules
+in their entirety. Instead of rolling on the career tables,
+the Traveller chooses a set of packages which contain
+the skills he wishes to obtain.
+Traveller creation is carried out in the following stages:
+• Create and assign characteristics
+• Choose a background package
+• Choose a career package
+• Finalise the Traveller
+Any of these stages can be used instead of the
+normal process of Traveller creation, at the Referee’s
+discretion. For example, a Traveller might be
+assigned characteristics using this system, then pick
+a background option (also from this system) before
+following the normal career-based Traveller creation.
+Note that under this system skill levels all stack, up to
+the usual maximum level of four. So, a Traveller might
+gain Carouse 2 from his career to add to Carouse 1
+from his background, giving Carouse 3.
+
+CREATING CHARACTERISTICS
+Characteristics are determined by any of the methods
+available, as chosen by the Referee.
+
+BACKGROUND PACKAGES
+
+A background package replaces the Traveller’s
+normal background skills and their first term,
+representing a person who has reached adulthood
+and completed an apprenticeship, training, education
+and/or their first few years in employment. The
+Traveller is now aged 22 and can begin a normal
+career, or instead take a career package.
+
+Once a background package has been assigned, the
+Traveller is assumed to be 22 years old and ready to
+enter a career or start the campaign. It includes all
+benefits the Traveller has earned up to age 22 (the end
+of their first term) and replaces all life events and other
+sources of additional skills.
+
+BELTER
+STR
+
+-1
+
+INT
+
+—
+
+BENEFITS
+
+DEX
+
++1 EDU
+
+-1
+
+Cr2500, Vacc Suit
+
+END
+
+—
+
+—
+
+SOC
+
+SKILLS
+Astrogation 0, Carouse 0, Electronics 0, Jack-ofAll-Trades 1, Mechanic 0, Medic 0, Profession
+(belter) 2, Recon 0, Science 0 Vacc Suit 1
+The Belter package is
+available to Travellers who
+spent their early years in a
+belter community or similar
+environment, such as a remote
+outpost on a gas giant moon
+or an undeveloped rockball
+planet. It assumes a lifestyle
+where the young Traveller
+would have to be familiar with vacc suit operations;
+someone who grew up in a more civilised environment
+such as an orbital highport or aboard generation
+starship should use the Space Habitat package instead.
+
+alternate character creation
+
+Background packages are designed to speed up
+Traveller creation by providing a set of skills and other
+benefits associated with the Traveller’s homeworld
+and upbringing, reflecting the skills a young person
+would acquire growing up in such an environment.
+In some cases the package includes adjustments to
+characteristics. These cannot reduce a characteristic
+below 1 or increase it above 15.
+
+If a background package is taken, the Traveller
+receives no other skills or advantages for his
+homeworld, upbringing and education. A Traveller
+may only select one background package but can
+choose the most applicable. Note that background
+skills for any given package are set and replace the
+usual 3+EDU modifier for Travellers created using the
+Traveller Core Rulebook.
+
+15
+
+

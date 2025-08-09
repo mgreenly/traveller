@@ -1,0 +1,93 @@
+For example: two ships on a x10 scale map have been
+accelerating towards each other for several rounds.
+They have reached a range of 9 spaces (58.320
+kilometres at this scale); one ship has a vector of (+15,
+0) and the other has a vector of (-12, 0). Moving them
+to a x1 scale map would put them at a distance of
+90 spaces. The first ship’s vector would be rounded
+up to (38, 0) and the second ship’s vector becomes
+(-30, 0). This same process would be used if moving
+from a x1,000 scale map to a x100 scale map. At any
+map scale beyond x1, the Initiative, Acceleration and
+Movement phases would happen as defined in the
+above rules but combat actions will not occur until the
+scale has been reduced to x1.
+
+DOGFIGHTING IN VECTOR-BASED
+SPACE COMBAT
+
+Because the scale of even the 1x scale map is still
+quite large at 648 kilometres per space, and ships
+may be travelling at vastly different speeds even
+when they cross paths, additional conditions are
+needed to allow ships to dogfight.
+Both ships must end their movement for a round in the
+same space, with the same vectors. The ship with the
+higher initiative will be better able to match positions
+and speeds in order to achieve this, but Improve
+Initiative rolls by the ship’s captain can potentially make
+up the difference if it is close.
+At that point, if both ships’ wish to dogfight, then
+proceed to the Dogfighting rules presented in the
+Traveller Core Rulebook. If neither wishes to dogfight,
+then treat the ships as being at Short range.
+
+As described in the Traveller Core Rulebook, resolve the
+dogfight fully before returning to space combat rounds.
+
+In most cases, firing range should be determined
+based on the final positions of ships in a combat
+round, that is, after all ships have performed their
+movement for the round, and attacks and damage
+resolution happen in the Attack step, in initiative order.
+However, in some cases, it might happen that two
+fast-moving ships could approach each other and
+pass by at a relatively short range during the middle
+of their movement. In such cases, it makes sense to
+allow firing to happen at the closer range, and for the
+ships to decide when to shoot, which could override
+the initiative order – they must determine whether it is
+better to wait until the last possible moment in order to
+fire at the shortest possible range, or to fire first at a
+longer distance and risk missing.
+When two ships look like they will pass by each other
+in a given combat round, the Referee may choose to
+resolve their movement together in order to provide
+an opportunity for the ships to take advantage of
+potentially shorter range. A good way to approximate
+this is to drop a temporary token at the final space
+the ships will move to this round and then move the
+ships roughly along their respective paths until they
+reach the closest point. At any time, each ship can
+declare it wishes to fire.
+At that point, leave the ships where they are on the
+map, and proceed to the Attack Step phase of the
+combat round; resolve these attacks at the initiative of
+the ship that decided to fire, even if this means skipping
+the initiative of the ship who hesitated. Once the firing
+ship has resolved its attacks and any damage done,
+the Referee should continue the movement of the
+passing ships, which might allow the hesitant ship to
+fire at an even closer range, should they survive the
+other vessel’s attacks.
+If the Referee judges that the passing ships’ paths
+cross in the same map space at the same time, they
+may allow a single six-second round of Dogfighting
+as they pass each other. Use an opposed Pilot check
+described in the Dogfighting section above if one of the
+ships wants to avoid the dogfight.
+
+Vector-Based Space Combat
+
+If only one of the ships wishes to keep out of
+dogfighting range, have the ships’ pilots do an opposed
+Pilot (Dexterity) check, allowing any unused Thrust to
+be used in this step as a +DM on a one-for-one basis.
+If the pursuing pilot fails the opposed check, treat the
+ships as being in Short range.
+
+SHIPS THAT PASS IN THE NIGHT
+
+177
+
+

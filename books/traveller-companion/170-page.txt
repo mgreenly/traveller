@@ -1,0 +1,75 @@
+T
+
+The primary methods employed to achieve vectorbased space combat are:
+• Instead of using Range Bands, the position of each
+ship and object is tracked on a map. Hexagonal
+maps are preferred but a square grid can be used,
+and the term ‘space’ is used to denote a single hex
+or square. The map scale is such that each point
+of Thrust applied modifies a spacecraft’s speed
+by one space per round in a given direction. The
+current vector (speed and direction of movement)
+is tracked for each ship.
+• During each Manoeuvre step, an Acceleration
+phase is added immediately before the Movement
+phase, in which each ship declares the changes to
+its current vector.
+• Because of the scale of the map, specific rules are
+added for entering into dogfighting range and for
+determining the firing range of spacecraft passing
+close to one another during a round.
+
+MAP SETUP
+
+Vector-Based Space Combat
+
+There are two initial decisions to be made when setting
+up a map for vector-based space combat: whether a
+physical or virtual map is to be used and whether to
+use squares or hexagons as the spaces on the map.
+Each have advantages and disadvantages.
+
+170
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+A physical map can be ideal for playing in-person
+but the size may become challenging when a battle
+involves ships with high acceleration or when the
+battle takes place over a wide area. VTT software
+such as Roll20 can allow you to make maps of any
+size, although VTTs can struggle when a map is overly
+large. VTT maps also provide a way to easily measure
+distances and track speed and direction numbers on
+virtual tokens so they can be seen by all Travellers.
+A map using squares allows speed to be tracked in
+two perpendicular directions, the traditional Cartesian
+X and Y axes, with positive numbers indicating
+movement in the ‘north’ and ‘east’ directions and
+negative numbers for ‘south’ and ‘west’. Hexagonal
+axes effectively have three ‘axes’. We recommend
+orienting the hexes such that one axis provides a
+straight line between the major opposing sides and
+treating that as the X axis, and using the ‘northwest/
+southeast’ line as your Y axis. In this way, movement
+in the third axis can be treated as a positive or
+negative combination of the X and Y axes. Whether
+using hexagons or squares, speeds can be recorded
+in the format (X, Y), where X and Y are replaced with
+the positive or negative speed along those axes.
+
+R
+
+

@@ -1,0 +1,117 @@
+RAVITY AND
+RELATED EFFECTS
+
+G
+
+The gravitational forces experienced in an
+environment can have very significant effects on
+Travellers. The following general definitions are
+useful as a starting point.
+Gravity is rated in G, equivalent to the average
+surface gravity on Earth. 1G of surface gravity
+produces an acceleration on a falling object of 9.81
+metres per second squared, usually rounded up to a
+convenient 10m/s squared.
+Microgravity is defined as ‘no significant gravitational
+effects’ such as deep space or orbit around a planet, far
+enough out that its gravity does not significantly affect
+objects or people. Note that space vessels in orbit
+are held by gravity but still experience no significant
+gravitational effects on the crew.
+Minimal Gravity is defined as where there is a
+significant (noticeable) gravitational pull but less than
+0.2G. In the Sol system, the surface of Pluto has
+a gravity of 0.05G; Titan has 0.14G and the Moon
+(Luna) has 0.17G. Most asteroids and moons have
+minimal gravity conditions.
+Very Low Gravity is between 0.2–0.4G and might
+be encountered on a small planet like Mercury
+(0.39G), or a larger but not very dense one like Mars
+(0.38G). Very low gravity is sufficient to retain an
+atmospheric envelope, although not a substantial
+one. Small planets (Size 3 or less) typically have very
+low gravity conditions and can retain only a trace
+atmosphere. This is not sufficient to breathe even
+with a compressor mask and a pressure suit would be
+necessary for humans.
+Low Gravity is between 0.4–0.7G and is sufficient to
+support a decent atmosphere, although it would be
+too thin for humans to breathe unaided. A pressure
+suit would not be necessary in such an atmosphere,
+although operating without one would be uncomfortable.
+A compressor mask or air supply is necessary.
+Standard Gravity falls in the range 0.7–1.4Gs and
+allows the normal range of human activities without
+many problems. Earth’s gravity is rated as 1G, with
+Neptune (1.14G) and Saturn (1.11G) being higher
+and Venus (0.91G) and Uranus (0.88G) being lower.
+
+58
+
+Normally a standard-gravity world can retain any
+atmosphere type but extremely dense types are
+unlikely. However, large worlds have deep enough
+atmospheres to be extremely dense at low altitudes
+even if gravity is not especially high.
+High Gravity, ranging from 1.4–1.8G, is tolerable
+by humans for extended periods but unaccustomed
+individuals will tire quickly and accidental injuries are
+likely. High gravity worlds tend to have thick,
+dense atmospheres.
+Extreme Gravity (upwards of 1.8G) is dangerous
+and not commonly encountered (Jupiter’s ‘surface’
+gravity of 2.33G is an exception but it is not possible
+for humans to survive there so the point is academic).
+Note that humans can tolerate much higher forces
+for short periods, especially if they are oriented
+properly or have the correct equipment. For example,
+a race driver may walk away from a crash in which
+he momentarily experienced as much as 250G and
+fighter pilots can remain conscious in a brief 9G turn.
+However, just a couple of G in the wrong direction
+(forcing blood into the brain instead of out of it) can
+cause ‘red out’ and render the same pilot helpless.
+Low and high gravity conditions are primarily
+important to Travellers with a propensity for falling off
+things but unusual gravity makes all manner of tasks
+increasingly tricky. It also affects the sort of plants
+and animals that exist in the environment. High
+gravity worlds typically have vegetation that clings
+to surfaces whilst creatures tend to be squat and
+compact. Lower gravity environments produce taller
+creatures and plants.
+
+Gravity Types
+World Size Code
+
+Gravity Type
+
+0
+
+Microgravity
+
+1–2
+
+Minimal
+
+3–4
+
+Very Low
+
+5–6
+
+Low
+
+7–8
+
+Standard
+
+9–10
+
+High
+
+Unusually large, dense planet
+
+Extreme
+
+

@@ -1,0 +1,114 @@
+T
+
+Thus the average starship has more than sufficient
+margin to skim fuel from a gas giant’s atmosphere but
+this is not enough to dive deeper than the upper layers
+(to hide from hostile vessels, for example) without
+some risk to the vessel.
+Ships specifically designed or heavily modified for
+high-pressure operations can typically withstand 100
+Atmospheres of pressure (about one kilometre of water
+depth), which is enough to hide on the bed of a shallow
+sea. Three times as much pressure could be tolerated
+with increasingly rapid leakage and danger of serious
+structural failure, which could cause a cascading hull
+collapse. It might be possible to build a starship for
+extreme pressure operations, for example to dive to the
+bottom of a gas giant’s atmosphere, but this would be
+inefficient and extremely expensive.
+Getting water out of a spacecraft can be a challenge
+unless it has been adapted for the task. The vessel’s
+internal life support systems are not likely to be set
+up for removing loose water but a clever crew might
+be able to rig additional hoses to make use of the
+ship’s existing systems.
+
+ATMOSPHERE AND VACUUM
+
+It is possible to undertake a set of modifications,
+readying a starship for underwater operations. This
+has the effect of tripling the tolerable depths and
+adding pumps to remove leaked water and usually
+includes the addition of an underwater manoeuvring
+system. A modified ship is thus capable of operating at
+a ‘safe’ depth of up to 300 metres and with some risk
+down to about 900 metres.
+
+70
+
+By way of comparison, the continental shelves on Earth
+are mostly less than 150 metres beneath the surface,
+with an average depth of 60 metres, thus having a
+pressure of about 6–15 Atmospheres. A standard
+starship could sit on the bottom more or less indefinitely
+but might suffer some leaks. A modified one could be
+based there, or operate directly out of a seabed city.
+Average ocean depth on Earth is about 3,700 metres,
+giving a pressure of about 370 Atmospheres. This is
+too much for even a hardened spacecraft to tolerate but
+the seabed is not flat. A ship could probably locate a
+seamount or ridge to lie upon. Exploring the very deep
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+oceans in a starship is not feasible, unless one were
+specially developed to handle immense pressures; a
+better alternative might be to use a submerged starship
+as a base for deep-diving submersibles or robotic craft.
+
+UNDERWATER ENVIRONMENTS
+
+Water and other dense fluid mediums create a difficult
+environment for combat and other operations. The
+problem of breathing must of course be solved and
+in addition water resistance makes many actions
+impossible. Most conventional firearms will work
+underwater but a projectile loses energy very quickly in
+a dense medium. Some weapons, such as spearguns
+and specialist firearms, are reasonably effective
+underwater but ranges are still short.
+Plasma weapons and similar devices pose a severe
+threat to the user and anyone within a radius of three
+metres. Firing any plasma weapon underwater causes
+an explosion of superheated vapour that causes half
+the weapon’s normal damage to the user and those
+close by and an almighty bubble of gas heading for the
+surface. The weapon is likely to be destroyed, whilst
+anyone more than three metres away will not be greatly
+harmed. The typical plasma gun is a 1DD weapon, i.e.
+damage is usually rolled on one dice multiplied by 10.
+In this case, a plasma gun would be treated as doing
+10D damage and therefore inflicts 5D on its user.
+Lasers suffer an extreme shortening of range; even
+those keyed to wavelengths that travel well underwater
+are inefficient compared to lasers firing through air or
+vacuum. Similarly, most hand weapons are useless as
+they cannot gain enough momentum to be effective.
+Small sharp blades and stabbing implements retain
+their usefulness, however.
+When firing any laser or projectile weapon underwater,
+other than one adapted to this environment, range is
+reduced to a tenth of normal. Specialised underwater
+weapons reduce their range by a fifth instead.
+All close combat attacks are subject to DM-4 when
+fighting underwater and blunt weapons are useless.
+A long sharp blade can still be used to cut or stab but
+it is awkward. The Referee may choose to disregard
+the penalty if a Traveller is fighting with a specialised
+underwater weapon or knife.
+
+R
+
+

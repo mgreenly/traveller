@@ -1,0 +1,108 @@
+Krvn
+
+Krvn-Espaan
+
+Krvn are vaguely arachnoid creatures originally
+thought to be native to a single world in the Spinward
+Marches. They have since been identified on several
+widely spaced planets and it is thought they were
+transplanted as beasts of burden in the distant past.
+An adult krvn has six primary legs plus four smaller
+manipulators which can provide additional stability,
+and a central body around one metre in length. Krvn
+are not strong enough to be ridden but can pull a sled
+or carry a light pack at considerable speed, even over
+swampy terrain or snow.
+
+Some populations of krvn live in a symbiotic
+relationship with a warm-blooded species known as the
+espaan. These are small, furry creatures resembling
+a six-legged starfish, which attach themselves to the
+undersides of worker krvn and direct their actions. It
+is not clear how they interact with breeders in the nest
+but espaan are known to live in krvn communities and
+presumably contribute to the functioning of the nest.
+
+Krvn are omnivorous and capable of burrowing
+through dense soil. Their nests contain dozens,
+perhaps hundreds, of workers and one or more large
+breeders which are rarely seen aboveground. Krvn are
+sometimes mistaken for the much more dangerous
+chamax, to which they bear a vague resemblance.
+Domestication is not really possible as such but a krvn
+worker will respond to simple commands (usually in the
+form of prods delivered manually or by a small harness)
+in a docile and hard-to-spook way. This makes them
+useful for some forms of work but they cannot be
+trained to carry out complex tasks.
+
+Espaan are more intelligent than krvn workers and
+can direct them in complex tasks. They are also more
+territorial than a typical krvn nest and may send a
+force of workers to attack a quite distant settlement if
+the espaan consider it is a threat. Krvn-espaan nests
+are less regular in layout than sole-krvn constructions,
+making effective use of variations in soil composition
+rather than simply digging random tunnels. These nests
+tend to be bigger and more successful than a sole-krvn
+nest, making the symbiosis an effective one.
+Animal
+
+Hits
+
+Speed
+
+Espaan
+
+4
+
+2m
+
+Skills
+
+Survival 1
+
+Attacks
+
+None
+
+Animal
+
+Hits
+
+Speed
+
+Traits
+
+None
+
+Krvn
+
+16
+
+8m
+
+Behaviour
+
+Omnivore, Gatherer/Eater
+
+Skills
+
+Stealth 1
+
+Attacks
+
+Bite (1D)
+
+Traits
+
+Armour (+2)
+
+Behaviour
+
+Omnivore, Gatherer
+
+Animal Encounters
+99
+
+

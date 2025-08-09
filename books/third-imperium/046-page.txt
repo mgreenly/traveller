@@ -1,0 +1,163 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+The Nobility
+
+Noble Ranks
+
+46
+
+SOC
+
+Noble Title
+
+Appellation
+
+10
+
+Gentleman Sir or Madam. If in service to a knight, some
+or Lady
+append their name with the suffix, esquire or
+simply esq.
+
+None.
+
+11
+
+Knight
+
+Sir or Lord. Some female recipients use Dame.
+
+None for honour nobles. Up to 100km2
+for rank nobles on their homeworld only.
+
+12
+
+Baronet
+
+Baronet followed by the family name.
+
+None for honour nobles. Up to 100km2
+for rank nobles on their homeworld only.
+
+12
+
+Baron
+
+The Right Honourable Baron (or Baroness),
+followed by the family name, which is preceded
+by haut, hault or von. For example, Baron Jarem
+haut-Devereux.
+
+None for honour nobles. Up to 100km2
+for rank nobles on any world of the
+Imperium.
+
+13
+
+Marquis
+
+Illustrious Sir for honour nobles, Your Excellency
+for rank nobles, followed by the rank and world
+name over which the marquis (or marquess)
+presides. For example, Your Excellency, the
+Marquis Ankod. Note that a marquess is a female
+marquis while a marquioness is a female married
+to the marquis or marquess who holds the title.
+
+Typically none for honour nobles. For
+rank nobles, a large fief on a world with
+a Class A or B starport or an entire world
+of any starport type.
+
+14
+
+Viscount or The Right Honourable Count (or Countess),
+Count
+followed by the name of the most prestigious
+world over which the count presides. For
+example, the Right Honourable Count Ganad.
+
+One powerful star system or 2–3
+systems of various power and prestige.
+
+15
+
+Duke
+
+Your Grace, followed by the prefix ‘of’ and the
+name of the subsector or sector over which the
+Duke (or Duchess) presides. For example, Your
+Grace, the Duke of Aramis.
+
+One subsector or, in the case of the
+Sector Duke, an entire sector.
+
+16
+
+Archduke
+
+Your Grace, followed by the name of the domain
+over which the Duke (or Duchess) presides. For
+example, Your Grace, the Archduke of Ilelish.
+
+One domain (four sectors).
+
+17
+
+Emperor
+
+Your Imperial Majesty.
+
+One empire.
+
+In addition to the more formal appellations listed above,
+‘Your Grace’ or ‘Your Majesty’ may be used in reference
+to nobles ranked Baron or above. For Knights, simply
+‘My Lord’ or ‘Madam’ will suffice.
+It should be noted that the Imperium is a vast place and
+there is a great deal of variation among its worlds. In
+some societies, noble titles may be conflated to convey
+immense importance (for example, ‘Your Most Illustrious
+and Accomplished Eminence’) while on more egalitarian
+worlds, such appellations are often done away with
+altogether. Variety is the spice of life and Travellers
+are likely to encounter many different situations when
+it comes to the nobility and their acceptance – or lack
+thereof – by the worlds over which they preside.
+
+Fief
+
+The Emperor may award noble patents of all ranks
+but those ranked marquis and above are members of
+the peerage and may only receive a patent from the
+Emperor. Knights and baronets may be granted patents
+by archdukes but only within their domains. This
+enables the archdukes to build allegiances within their
+domains without the aid of the Emperor.
+
+RANKS WITHIN THE RANKS
+
+Noble rank and the origin of patent are only half the
+story. There is a complex hierarchy within the nobility
+guided as much by tradition as the letter of the law.
+Honour nobles have lower status than rank nobles,
+especially when the rank noble gained the title
+hereditarily instead of through service. For example,
+
+R
+
+

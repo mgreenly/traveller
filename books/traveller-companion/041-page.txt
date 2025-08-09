@@ -1,0 +1,83 @@
+TRAINING AND EXPERIENCE
+It is possible for a Traveller to improve his skills or
+characteristics by being taught, by diligent practise, or
+as the result of experience gained in the field. All three
+methods are abstracted by the use of Experience Points.
+Experience Points may be awarded by the Referee at
+the end of an adventure or for ongoing study undertaken
+by a Traveller. Experience takes two possible forms:
+Dedicated Experience and General Experience.
+Dedicated Experience points are allocated to a
+specific endeavour and cannot be assigned anywhere
+else. General Experience can be allocated as the
+Traveller sees fit, subject to Referee approval and
+common sense. A Traveller who has just finished
+an adventure that involved a lot of academic and
+technical skills, plus a certain amount of running
+around and getting healthy exercise, could justify
+putting a General Experience Point into a physical
+characteristic or technical skill (even one he did not
+personally use but saw others using). Claiming that
+the experiences he had on the adventure helped him
+learn to speak Hiver or become a better astrogator
+would be silly and should be rejected by the Referee.
+Experience Points are gained using the
+following guidelines.
+
+ADVENTURE EXPERIENCE
+
+At the end of an adventure or group of encounters,
+an award of 1 General Experience Point would be
+reasonable, with a bonus point for good roleplaying
+or a particularly dynamic Traveller. The Referee
+may choose to allocate no points to a Traveller who
+did little or failed to become properly involved in
+the game. For a very long adventure, experience
+may be given at suitable plot breaks for segments
+equivalent to a standard adventure.
+These points must be allocated immediately to a skill
+or characteristic the Traveller is trying to develop. They
+cannot be held in a ‘pool’ for allocation all at once.
+
+TRAINING
+Travellers who are into self-improvement or learning a
+new job can gain experience through training or study.
+The typical Traveller who reads the odd journal, tries
+out a few things from time-to-time and occasionally has
+a burst of dedication and puts in some actual work,
+will gain 1 Dedicated Experience point per six months
+of game time. However much a Traveller may protest
+that he studies avidly in every available minute, few
+can keep up full-time study alongside their day job
+of crewing a starship, defending the free galaxy or
+whatever it is they do for a living.
+If the Morale characteristic is in use (see page 5), it
+can be used to adjudicate situations where a Traveller
+wants to spend an unrealistically large amount of
+time training or studying. If the Luck characteristic is
+in use (page 4), taking time off and unwinding can be
+rewarded with regaining expended LCK points, creating
+a tradeoff between intense personal development and
+living a fulfilling and rewarding life.
+A Traveller who is in full-time training, perhaps taking
+time to study at a planetary university or college, gains
+one Dedicated Experience point per four months of
+study, or 3 points per year.
+In the case where one Traveller is teaching another
+a skill they know, the student may make an Average
+(8+) INT check with a negative DM equal to the skill
+level being learned every four months. Thus, a roll
+to learn a skill at level 0 is made without penalty; at
+level 2 the penalty is DM-2, and so forth. If the roll is
+successful, the trainee gains 1 Dedicated Experience
+point. It is entirely possible to learn nothing; some
+people are just not good students.
+It is only possible to teach another Traveller to a
+level one below your own skill level. So a Traveller
+with Vacc Suit 1 can train someone up to level 0, a
+Traveller with Vacc Suit 3 can train someone up to
+Vacc Suit 2 and so on.
+
+41
+
+

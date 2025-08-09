@@ -1,0 +1,65 @@
+MINE WARFARE
+Laying contact-detonated mines in open space is more
+or less pointless. The chances of a ship encountering
+one is infinitesimally small unless the minefield is so
+incredibly dense that it would be detected a long way
+off and would in any case be prohibitively expensive.
+However, the idea of laying passive booby-traps to
+deter ships from using an area of space remains an
+attractive one. A minefield can act as a deterrent or
+tripwire, indicating that a vessel is present without the
+need to keep a patrol ship on station. Minefields are
+useful in defending orbital space, where there is more
+chance of a ship encountering one, although contactdetonated mines are still of questionable value.
+
+TYPES OF MINE
+
+The typical space mine is of a CAPTOR (CAPtive
+TORpedo) type and consists of a containerlauncher with basic sensors, which carries one
+or more missiles or torpedoes. Mines can be set
+to automatically launch weapons at any vessel in
+proximity which does not transmit the correct codes,
+or to make a challenge and/or warning before
+firing. They can also, in many cases, be directly
+commanded from a station or mine warfare vessel.
+CAPTOR mines typically carry torpedoes rather than
+missiles, as they are intended for local area defence
+and denial rather than long-range combat. Standard
+designs typically carry two or four torpedoes. Mines
+are generally considered disposable and likely to be
+destroyed once detected, so reloads are a waste
+of resources. Once its munitions are expended, a
+
+160
+
+container-launcher can be recovered and re-armed if it
+survives but since the main expense is its weapons, the
+loss of the launcher is not significant.
+Explosive mines are of little use in orbital or free
+space but can be effective in an atmosphere. It is
+not feasible to mine the atmosphere of terrestrial
+planets because of the extreme low orbital mechanics
+required but gas giants can be cheaply mined in
+this manner. A suitably large detonation – often a
+small nuclear device – can cause a shock wave that
+will endanger nearby ships or cause a control loss.
+However, the liberal seeding of nuclear munitions
+across nearby space is generally frowned upon,
+not least because there are those who are willing to
+disarm and steal the mines for sale and use elsewhere.
+CAPTOR mines have an attack range of Medium (out
+to 10,000 kilometres) but are typically set to launch at
+ranges of under 1,000 kilometres. This gives the target
+virtually no chance to evade or respond other than by
+point-defence fire against the salvo.
+‘Breaking the kill chain’ is a common tactic for dealing
+with minefields, destroying the mines before they can
+fire. However, mines are a very small target if engaged
+with starship weaponry, imposing DM-6 on attacks.
+Typically, the mine will expend all its torpedoes in one
+attack, making it pointless to fire at it after launch.
+A salvo of torpedoes uses the usual missile rules.
+Mine-launched torpedoes are Smart weapons and deal
+6D of damage.
+
+

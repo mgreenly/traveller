@@ -1,0 +1,126 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Strange Animal
+Gossamer: A Gossamer creature has virtually
+no structure and few solid parts for a weapon
+to damage. Gossamer creatures take Minimum
+Damage from most weapons – stabbing, crushing,
+impaling, projectile and even laser weapons do
+Minimum Damage.
+Gigantic: Gigantic creatures normally exist in liquid
+environments, although there are exceptions from
+time-to-time. The smallest creature considered to be
+Gigantic might weigh 100,000 kilograms – equivalent
+to a Blue Whale. A creature with the Gigantic trait
+is treated as a Spacecraft scale object (see page
+157 of the Traveller Core Rulebook) for purposes of
+dealing and sustaining damage.
+Ornery: Ornery creatures are unnecessarily
+aggressive and might attack in response to trigger
+behaviour that cannot be predicted. They will seem
+to kill for no reason, slaughtering livestock and
+eating only a small proportion of the kills. Ornery
+creatures will attack Travellers (or even vehicles)
+on a roll of 8+ on 2D, increasing to 10+ on 2D if the
+creatures are heavily outnumbered.
+
+Animal Encounters
+
+Particulate: A Particulate animal is made up of small
+and more or less independent components; a swarm
+of bees or ants could be considered to be a single
+particulate creature. Some highly exotic organisms
+are made of particles, making them very difficult
+to kill. Fire-based attacks have full effect; all other
+weapons do Minimum Damage.
+
+94
+
+Strange: Strange creatures are disturbing to humans
+and most other sentients who see or hear them. They
+may make sounds or project a low-level telepathic
+field that causes unease, or simply look ‘wrong’ in a
+way that inspires fear and even madness. Strange
+creatures range from normal animals that move in a
+particularly sinister way to something straight out of
+a horror movie. Any Traveller encountering a Strange
+creature must make a Difficult (10+) END check. If it is
+failed, roll 2D on the Strange Animal table and apply
+the Effect of the failed check.
+
+2D + Effect
+
+Result
+
+0 or less
+
+The Traveller panics or faints and is out
+of action for 3D rounds.
+
+1–3
+
+The Traveller recoils in horror and must
+flee for 1D rounds.
+
+4–6
+
+The Traveller is shocked and confused
+by the creature’s appearance and
+freezes for 1D rounds.
+
+7–9
+
+The Traveller is shocked or confused,
+and is unable to act for 1 round.
+
+10+
+
+The Traveller is momentarily shocked,
+and suffers DM-4 on Initiative checks.
+
+Tough: Tough animals are unusually resilient. They
+take Reduced Damage and when disabled or killed
+there is a chance that the creature will rally and
+continue the fight. 1D rounds after the creature goes
+down, the Referee should roll 2D. On 8+ the creature
+regains a quarter of its normal Hits and continues to
+act as normal. It is unusual for a creature to be able to
+do this more than once but at the Referee’s discretion
+a Tough creature can keep rallying until it fails, at
+which point it will expire.
+Toxic (range, damage): Toxic animals have some
+noxious substance within their tissues or on their
+skin. This is not the same thing as a venomous
+creature introducing a toxin with a bite; it is a more
+unusual situation in which the creature may spit or
+bleed acid or some other dangerous substance, or
+undergoes a change when it dies which causes its
+carcass to become hazardous.
+Vacuum: Very few creatures can exist in a complete
+vacuum and those that do tend to be very strange. A
+greater variety of organisms live in partial vacuum or
+extremely low pressure environments and some of
+those can survive a complete vacuum for a time. This
+trait indicates the ability to function in hard vacuum
+even if the creature cannot live there indefinitely.
+The following creatures can be found on worlds with
+a breathable atmosphere and conditions that humans
+would at least find tolerable with assistance.
+
+R
+
+

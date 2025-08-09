@@ -1,0 +1,67 @@
+SYLEAN-CLASS BATTLESHIP
+10
+14
+11
+4
+15
+
+15
+
+9
+
+14
+8
+
+12
+
+13 23
+
+20
+
+18
+19
+
+22
+25 24 25
+26
+28
+27
+
+14
+16
+6
+
+21
+
+DECK 6
+17
+
+15
+DECK 4
+10. Docking Space
+11. Workshop
+12. Meson Screens
+13. Nuclear Dampers
+14. Small Missile Bays
+15. Medium Particle Beam Bays
+
+DECK 5
+16. Particle Barbettes
+17. Missile Storage
+18. Sandcaster Barrel Storage
+19. Low Berths
+20. Repair Drones
+21. Fuel Processor
+22. Armouries
+
+23. Medical Bay
+24. Bridge
+25. Sensors
+26. Military
+Countermeasures Suite
+27. Point Defence Batteries
+28. High Staterooms
+
+19
+
+

@@ -1,0 +1,90 @@
+ACIDS AND OTHER CORROSIVES
+Corrosive substances can come into contact with a
+Traveller through being squirted or splashed, or as
+a gas cloud. Armour will protect against a corrosive
+substance to some extent, although it will be degraded
+to uselessness over time.
+Weak acids such as those found in the atmospheric
+vapour of less lethal hell-worlds cause relatively
+little damage providing they are not breathed in. If
+a corrosive agent is inhaled, treat the effect as one
+level more serious.
+Once a Traveller is exposed to an acid (or other
+corrosive substance) it will attack each round until it
+has neutralised itself by reacting with the Traveller’s
+armour or skin. Damage drops by one dice each round
+until the acid is consumed. If the acid is attacking
+armour, each dice of damage that is resisted destroys
+one point of Protection.
+This assumes the Traveller is splashed with a small
+quantity of the substance or exposed to vapour. If the
+victim is immersed or splashed with a large quantity of
+the agent, damage is tripled.
+
+If a Traveller is hit again a second time by acid, or
+remains within an acid cloud, this new attack begins
+at its full value and begins to drop from there. Much as
+with Fire attacks, only the most serious corrosion attack
+currently ongoing is considered, so remaining within
+an acid cloud means the victim is exposed to the full
+strength of the agent each round.
+Conventional (i.e. non-sealed) armour will protect
+against acid splashes at its normal value until dissolved.
+Conventional armour is no use against vapour; only a
+sealed suit (e.g. a vacc suit) offers protection from skin
+contact or breathing corrosive vapour. Armour of this
+sort will still be degraded by vapour.
+Some hostile-environment suits are treated to resist
+acid exposure. Corrosive agents of Typical or lesser
+strength will affect them but only over a period of hours.
+After 1D hours of exposure, begin checking for suit
+failure each hour. Roll 2D: on a 12+ the suit will fail; the
+acid then begins to attack the Traveller within. For each
+check after the first, the chance increases by +1, i.e.
+the chance of failure is 11+ on the second check, 10+
+on the third and so on.
+Strong and Very Strong acids will attack even acidhardened suits more quickly. Roll for suit failure every
+10 minutes of exposure.
+
+Damage
+
+Comments
+
+Mild
+
+1 per round
+
+Mildly caustic substance, e.g. cleaning products, mildly acidic
+atmospheric vapour
+
+Weak
+
+D3 per round
+
+Most weak laboratory acids, dilute naturally occurring acids
+
+Typical
+
+1D per round
+
+Most naturally occurring corrosive agents in their normal state
+
+Strong
+
+2D per round
+
+Concentrated laboratory acids, corrosive vapour found in some hellworld atmospheres
+
+Very Strong
+
+3D per round
+
+Very powerful acids
+
+Diseases, Toxins and Chemicals
+
+Type
+
+79
+
+

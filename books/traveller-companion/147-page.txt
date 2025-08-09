@@ -1,0 +1,134 @@
+If the Travellers do not have the appropriate licensing
+in place, they can get around this problem in a variety
+of ways. Documentation can be forged or dealers can
+be bribed. However, military arms are a lucrative item
+and few dealers will risk their license – or a long prison
+term – for a few Credits. Again, services rendered
+might be a way to get around the problem.
+
+UNDER THE COUNTER WEAPONS
+
+Alternatively, the Travellers could find a dealer who
+does not care about niceties of licensing. Finding
+someone who will sell weaponry to anyone, either
+under-the-counter in an otherwise reputable outlet or
+from a back-alley ‘dealership’, requires some effort.
+This can be the subject of an adventure, or can be
+abstracted using the Arms Dealers table.
+
+If the Travellers are caught with a Category 4 or 5 item,
+even somewhere it is not illegal, they may be required
+to present documentation to show it is legally owned.
+This can happen when a free trader is boarded by a
+customs party, for example. It is sometimes possible to
+blather through such a situation, for example if there are
+a lot of security threats in the region and the Travellers
+have a good reputation for honest trading. If not, items
+will be confiscated and the Travellers may be arrested.
+
+The Travellers should make a Streetwise check,
+subtracting the world’s Law Level.
+Clean weapons come with plausible documentation
+(which may actually be real) and no associations
+with crime or dangerous previous owners. Hot
+weapons have no documentation and are subject to
+a number of complications.
+Roll 2D on the Hot Weapons table for the item’s ‘story’.
+
+When the Travellers buy from a less-than reputable
+source, they can expect to pay extra. Roll 2D and add
+the world’s Law Level. Asking price is increased by
+10% times the result of this roll and may be increased
+further by other considerations such as the Travellers’
+relationship with the seller.
+
+If weapons are used in a crime, the category of the
+weapon is applied as a DM on the Sentencing table
+(see the Traveller Core Rulebook, page 225).
+Note that weaponry carried as part of a properly
+documented cargo is unlikely to get the Travellers
+into trouble, provided it is not headed for a destination
+where it is illegal. Resale as cargo at a starport is
+entirely legal even if the weapons would be illegal to
+own on that world – an item that stays in a shipping
+container is not the authorities’ problem.
+
+Arms Dealers
+Highest ‘Clean’ Category Available
+
+Highest ‘Hot’ Category Available
+
+0 or less
+
+Unavailable
+
+Category 1
+
+1–4
+
+Category 1
+
+Category 2
+
+5–8
+
+Category 2
+
+Category 3
+
+9–12
+
+Category 3
+
+Category 4
+
+13–16
+
+Category 4
+
+Category 5
+
+17 or more
+
+Category 5
+
+Almost Anything
+
+Hot Weapons
+2D
+
+Complication
+
+2–3
+
+Item is defective or missing parts. This will not be immediately apparent. If multiple items are bought
+it may be possible to cannibalise some to get others working.
+
+4–5
+
+Item was used in a serious crime. Being caught with it will lead to arrest and possibly prosecution.
+
+6–7
+
+Item is not in great condition but is functional and has no major complications.
+
+8–9
+
+Item was stolen from a notable source such as a large arms firm or mercenary unit, which is quietly
+seeking its return.
+
+10–11
+
+Item was taken from the bodies of previous users, whose associates are seeking revenge.
+
+12
+
+The item is in good working order but the price is very high. Multiply price by 3.
+
+Legalities and Lawbreaking
+
+Streetwise Check
+
+147
+
+

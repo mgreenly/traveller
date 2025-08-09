@@ -1,0 +1,145 @@
+Mine
+
+Cost (MCr)
+
+Tonnage
+
+TL
+
+Hull Points
+
+CAPTOR Mine, Small (2 torpedoes)
+
+0.5
+
+1
+
+10
+
+2
+
+CAPTOR Mine, Medium (4 torpedoes)
+
+0.8
+
+2
+
+10
+
+3
+
+CAPTOR Mine, Large (6 torpedoes)
+
+1.1
+
+2.5
+
+10
+
+5
+
+Nuclear Proximity Mine*
+
+0.25
+
+1
+
+7
+
+4
+
+Nuclear Laser Mine*
+
+0.75
+
+1.5
+
+8
+
+4
+
+* Although nuclear mines are relatively cheap, they are difficult to obtain and highly illegal for civilians, and subject to many
+treaties for military use.
+
+CAPTOR MINES
+
+A CAPTOR mine is armed with two, four or six torpedoes
+in disposable container-launchers, plus a basic
+electronics pack that allows it to detect, track and launch
+at targets within 10,000 kilometres (Medium range).
+Mine-launched torpedoes are subject to the usual DM-2
+to attack ships under 2,000 tons, except when launching
+from within 1,000 kilometres. At this short range the
+torpedo can be fired directly at the target’s projected
+position, and with a short transit time to target there is
+little chance for manoeuvres to throw off the mine’s aim.
+The tonnage of the mine is determined by its missile
+capacity. If a mine is to be reloaded, the cost is Cr50000
+per torpedo plus the cost of the weapons themselves
+(Cr150000 each a standard torpedo).
+
+NUCLEAR PROXIMITY MINES
+
+Within an atmosphere such as that of a gas giant, a
+nuclear detonation will also produce a pressure wave
+which can damage a starship. Damage is 6D within 100
+kilometres, dropping by 1D per 100 kilometres thereafter.
+
+NUCLEAR LASER MINES
+Nuclear laser mines use a small nuclear warhead to
+‘pump’ a one-shot x-ray laser. Effective range is short
+but the weapon is powerful compared to standard
+lasers and has greater reach than a simple proximity
+bomb. The laser suffers DM-2 to hit a moving target
+beyond 10,000 kilometres and has a maximum range
+of 25,000 kilometres. These ranges are reduced by ¾
+if deployed in an atmosphere. Radiation effects (and
+blast effect if used in a gas giant atmosphere) are the
+same as nuclear proximity mines. Damage from a
+nuclear-powered laser is 5D.
+
+MINEFIELD DENSITY
+Torpedo-armed mines have a large danger radius but
+at orbital distances there is still a great deal of space
+to cover. The density of a minefield determines the
+chance of encountering a mine. A vessel that spends
+an extended time in the minefield much check every 1D
+hours to see if a mine is encountered.
+The Minefield Density table indicates the number of
+mines required per planetary Size digit to create a
+field of a given density. Small gas giants are treated
+as being Size 50; large gas giants are Size 150 for the
+purposes of minelaying operations.
+The Pilot check to avoid encountering a mine is
+subject to DM+2 if the Travellers’ vessel is under 100
+tons displacement. There is no modifier for a ship
+above this but below 1,000 tons in displacement.
+The check is made at DM-2 if the Travellers’ ship is
+1,000–10,000 tons in displacement and DM-4 for
+ships above 10,000 tons.
+
+Mine Warfare
+
+A nuclear proximity mine is a one-shot weapon
+armed with a small nuclear warhead and a very basic
+electronics package. Such weapons are prohibited
+in most areas, other than for military use. They are
+useful mainly where there is an atmosphere to create
+a blast effect. A nuclear detonation will create an
+electromagnetic pulse (EMP) which will disrupt sensor
+and electronic systems; the round after a nuclear
+detonation occurs, all checks involving electronic
+systems are made with DM-6 by the target ship unless
+it has hardened computer systems. The DM increases
+(goes up) by +2 each round thereafter. A nuclear
+detonation can white out sensors and cause a temporary
+control loss which can be lethal in a dangerous
+environment such as a gas giant’s atmosphere.
+
+Weapons of this sort are extremely crude and of limited
+use but the threat of their presence can be enough to
+make vessels avoid a gas giant for refuelling.
+
+161
+
+

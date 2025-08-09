@@ -1,0 +1,101 @@
+Oieite’aiy
+
+The oieite’aiy has various names in different languages
+but official databases typically use the original
+Trokh (Aslan) designation. Oieite’aiy are aggressive
+pentapods which hunt in small packs of three to six
+individuals. About the size of a Terran wolf, they have
+four normal legs and an additional longer and more
+powerful hind leg which provides incredible springing
+ability. Oieite’aiy normally attack their prey as a team,
+with some individuals inducing it to run before others
+spring from the sides and knock it down. Once downed,
+the prey animal is allowed to stand before being
+knocked down again, rapidly inducing exhaustion.
+Oieite’aiy favour open terrain but can be encountered
+in hilly or cluttered areas. Packs are not territorial in the
+long term; they migrate over long distances apparently
+at whim. However, a pack will defend its current hunting
+ground against most interlopers, although occasionally
+a warning display comprising a great deal of leaping
+and snarling is sufficient to make new arrivals withdraw.
+Animal
+
+Hits
+
+Speed
+
+Oieite’aiy
+
+16
+
+6m
+
+Skills
+
+Melee (natural) 2
+
+Attacks
+
+Spring and Bite (2D)
+
+Traits
+
+Tough
+
+Behaviour
+
+Carnivore, Pouncer
+
+Brown Forester
+
+A creature somewhat similar to the Terran brown bear,
+the brown forester is normally encountered in small
+family groups. Powerfully muscled and covered in thick
+fur, this animal favours wooded uplands and can be
+quite territorial. According to some reports they are
+semi-intelligent; sufficiently so that unwary hunters are
+sometimes lured into an ambush.
+Claims of shaped stone tools used by these creatures
+attracted interest a few years ago but have been
+dismissed as a hoax. However, brown foresters are
+clever creatures and quiet for their size. They have
+been known to sneak into camps or settlements to
+steal food, sometimes inadvertently taking important
+items that are not edible, such as tools or components
+of a field stove. These items are often found chewed,
+smashed or thoroughly ‘investigated’ by these
+inquisitive and powerful animals.
+Animal
+
+Hits
+
+Speed
+
+Brown Forester
+
+34
+
+6m
+
+Skills
+
+Melee (natural) 1, Stealth 1,
+Survival 1
+
+Attacks
+
+Claw or Bite (2D)
+
+Traits
+
+Clever, Large (+1), Tough
+
+Behaviour
+
+Omnivore, Gatherer
+
+Animal Encounters
+101
+
+

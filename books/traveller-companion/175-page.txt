@@ -1,0 +1,65 @@
+It can be helpful for Travellers to use temporary tokens
+to visualise where their ships would move if they do not
+apply any Thrust at all this round – this can help them
+determine how much Thrust they want to apply this
+round, and in which direction. A simple coin could be
+used on a physical map, leaving the ship’s miniature
+or counter in place and counting out the movement
+to place the coin in the space where the ship will end
+up this round if it simply coasts along; a supply of
+temporary tokens can be useful to have at the edge of
+a VTT map for this purpose as well.
+If missiles are in flight, then after all ships have
+applied Thrust, add the missiles’ maximum Thrust (10
+or 15, per the Traveller Core Rulebook or High Guard)
+to their current speed (see ‘Missiles in Vector-Based
+Combat’).
+Once all ships and missiles have applied Thrust
+and recorded their new vectors, proceed to the
+Movement phase.
+
+MOVEMENT PHASE
+
+Because all movement is treated as simultaneous,
+and all vectors for this round were recorded in the
+Acceleration phase, ships and missiles can be moved
+in any order. Spacecraft move a number of spaces
+according to their vectors. For example, a ship with
+X and Y vectors of (3, -5) moves three spaces in the
+positive-X direction, and five spaces in the negative-Y
+direction. It does not matter if you execute the X or Y
+portion of the ship’s movement first, as it will end up in
+the same space either way.
+
+MISSILES IN VECTOR-BASED SPACE COMBAT
+
+Missile-firing ships can potentially fire multiple salvoes
+of missiles at different targets, round after round.
+When using vector-based space combat rules, ignore
+the Missile Flight table in the Traveller Core Rulebook,
+and use these rules instead.
+Missiles can take several rounds to arrive at their
+targets and if several ships are all firing missiles,
+that might result in many additional and necessary
+tokens on the map. Tracking and plotting vectors for
+all these missiles could slow the game to a crawl, so
+instead of tracking vectors for each salvo of missiles,
+only its speed is tracked, increasing each round
+according to its Thrust, and the firing ship simply
+moves the missiles that far in the direction of its
+target during the Movement phase.
+Create a new token for each new salvo. The token
+name or associated sticky note should include:
+• The name of the firing ship and the salvo’s target
+• The number of missiles in the salvo
+• If using non-Standard missiles from High Guard,
+the type of missiles in the salvo
+• The current speed derived from the firing ship
+(missiles start with their firing ship’s vector)
+• The number of rounds of Thrust left for the missile
+to find its target (starts at 10)
+
+Vector-Based Space Combat
+175
+
+

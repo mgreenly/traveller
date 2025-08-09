@@ -1,0 +1,120 @@
+T
+
+When a spacecraft applies thrust, its existing
+vector (the direction and speed it is going) changes
+gradually according to how much thrust is available
+and the direction it is applied. Massive objects
+require a lot more thrust to change speed or direction
+but even a small amount will have an effect. This
+can be useful, for example it is possible to launch a
+probe in the direction of a distant planet and shut off
+its drive; it will coast until it gets there. This can also
+be dangerous – a vessel that is tumbling as a result
+of an accident will keep tumbling forever unless
+something stops it, and a ship without power close to
+a star will fall into it unless somehow stopped.
+Gravity has an effect on vessels and objects,
+pulling them towards the source of the gravitational
+field. If the correct speed and distance from a
+planet or star can be determined, a vessel or other
+object can be put into orbit; gravitational pull draws
+it into a curved path around the gravity source but
+is not enough to drag it down.
+
+TRAVELLING IN NOMAL SPACE
+
+Note that most orbits are not circular. An ellipse
+is more common and many orbits are imperfect,
+requiring occasional corrections. An object in an
+imperfect orbit may eventually escape and head
+off into deep space or fall to the planet below, but
+this does not happen quickly. A ship that has lost
+power may remain in orbit for weeks, months… even
+centuries. Only the most unstable orbits, or those that
+brush the upper atmosphere, will decay quickly. For a
+ship with plenty of fuel little of this matters; corrections
+can be made as needed.
+
+158
+
+In deep space, away from gravitational fields, things are
+simpler but still not easy. In an atmosphere, an aircraft
+can bank and turn quickly, while ground vehicles use
+friction with the ground to effect a similar fast turn. For a
+space vessel, changing direction is a slower process.
+Most space vessels have a main drive which applies
+thrust in one direction, and smaller manoeuvring units
+to point the ship. Changing direction is a matter of
+realigning the ship and then using the main drive to
+thrust in the chosen direction. However, the ship retains
+momentum in whatever direction it was going and must
+cancel this or include it in the new course calculations.
+The former solution is fine for ships with fuel and
+time to waste. When a direction change is wanted
+the vessel flips 180° and thrusts until it has come to
+a stop, then accelerates in the new direction. This is
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+crazily inefficient, so a good navigator calculates a
+course well ahead of time to get the ship going where
+needed with a minimum of thrust. This usually means
+changing direction early and using local gravity fields.
+A well-planned course saves a lot of fuel and time
+compared to a seat-of-the pants approach, and combat
+manoeuvres are even more fuel-intensive.
+Note that it is possible for two objects or ships to be ‘at
+rest relative to one another’ despite both moving. This
+simply means they have the same course and speed.
+Even if they are screaming towards a third object at
+enormous speed, each would appear stationary to the
+other – this makes docking much simpler!
+
+ORBITAL MECHANICS AND
+INTERPLANETARY TRAVEL
+MADE SIMPLE
+Transit times between bodies in a planetary system
+can be important to an adventure. There are two
+ways of dealing with this. One involves a great deal
+of mathematics to model the relative motion of bodies
+and the trajectory of a ship travelling between them.
+The other is to use ballpark figures and adjust them as
+necessary to fit the needs of the adventure.
+For example, the average distance between Earth
+and the Sun is 1 Astronomical unit (AU), or about
+150,000,000 kilometres. Mars orbits an average
+of 1.52 AU, or about 228,000,000 kilometres, from
+the Sun. This does not mean that Earth and Mars
+are 78,000,000 kilometres apart. Since both orbit
+at different speeds, there are times when they are
+relatively close together (in astronomical terms) and
+others when they are on opposite sides of the sun.
+The actual distance can thus vary between around
+47,000,000 kilometres and 401,000,000 kilometres,
+averaging about 225,000,000 kilometres.
+Getting from Earth to Mars is not a simple matter of
+crossing the distance between the two in a straight line.
+In fact a space vessel needs to transit from where Earth
+is now to where Mars is going to be when it arrives.
+This can be further than the distance between the start
+and end point, especially if the vessel needs to make
+a course change along the way. Even ignoring orbital
+eccentricity and other factors that could complicate
+this calculation still further, a hard, number-crunching
+approach will slow down a game unnecessarily.
+
+R
+
+

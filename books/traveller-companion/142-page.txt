@@ -1,0 +1,80 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Starports and Spaceports
+
+Port Defence
+
+142
+
+Result
+
+Defences
+
+Notes
+
+2 or less
+
+None
+
+The port has no defences of its own, relying on personal weaponry and
+armament of visiting starships.
+
+3–5
+
+Minimal armament
+
+The port has a handful of basic anti-starship weapons such as missiles or
+a laser turret.
+
+6–8
+
+Light armament
+
+The port has a light armament of civilian starship weaponry such as laser
+and missile turrets.
+
+9–11
+
+Standard armament
+
+The port has an extensive armament of civilian weaponry, plus a handful of
+defensive craft such as fighters.
+
+12–15
+
+Heavy armament
+
+The port mounts a few large military systems such as small bay weapons
+and has a flotilla of fighters.
+
+16–19
+
+Very heavy armament
+
+The port has some armour and a scattering of bay weapons, as well as a
+small force of system defence boats.
+
+20 or more
+
+Fortress
+
+The port is heavily armoured and equipped with many starship-grade bay
+weapons, plus a flotilla of fighters and system defence boats.
+
+R
+
+

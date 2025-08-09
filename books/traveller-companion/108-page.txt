@@ -1,0 +1,141 @@
+T
+
+The rather dramatically named death-cloud
+resembles a cloud of dust particles floating freely
+on an airless or trace atmosphere world. The cloud
+adheres to surfaces it contacts – including a vacc
+suit or starship hull – and slowly digests any matter
+it encounters there. Death-clouds cannot eat through
+metal but will eventually cause airlock seals to fail or
+rupture polymer power conduits.
+If a cloud gets inside a vehicle or structure, it will attack
+organic matter first. This makes the death-cloud an
+insidious threat rather than an instant one but getting the
+cloud out of a vehicle can be a problem. Showering will
+remove particles from a Traveller’s skin but this will put
+them in the water supply where they may be consumed
+or come into contact with other Travellers. It is possible
+that there are ships drifting in space whose crew were
+entirely eaten away by a cloud in the water supply,
+although the process would take a very long time.
+It is not clear how a death-cloud moves or senses
+food sources. Some scientists postulate that the
+cloud may be a particulate intelligence, with each
+mote in contact with the others. If this is the case then
+a large enough cloud might be capable of advanced
+thought or even communication, but there is no
+evidence to prove this. Clouds cannot be harmed by
+most weapons, though particles can be incinerated or
+dissolved in corrosive liquid.
+
+Animal Encounters
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Shade
+
+Death-Cloud
+
+108
+
+R
+
+Animal
+
+Hits
+
+Speed
+
+Death-Cloud
+
+4
+
+2m
+
+Skills
+
+None
+
+Attacks
+
+Digestion (1 per hour)
+
+Traits
+
+Particulate, Vacuum
+
+Behaviour
+
+Omnivore, Eater
+
+The animals popularly known as shades are possibly
+some kind of free energy phenomena, although they
+behave in a manner that suggests they are in some
+way alive. Most of the science connected with these
+creatures is of an amateurish sort – few reputable
+scientists even believe they exist and no detailed
+study has been carried out. Exactly what a shade is
+remains an open question. Some believe they are
+beings from another universe or dimension, touching
+this universe through a portal. Others claim they are
+supernatural in nature.
+Shades typically manifest as a pool of darkness
+floating in the air and are sometimes described
+as some kind of energy well. Light and heat will
+flow into a shade, apparently obeying the laws of
+thermodynamics, causing an area of dimness and
+cold. If this contacts a Traveller, they will suffer 1D
+damage per round, reduced to 1D3 if inside a vacc
+suit or similarly protected armour. The shade will drain
+the suit’s batteries rapidly and they seem to gravitate
+towards such mid-level energy sources. This makes
+shades dangerous to spacefarers operating outside a
+vessel or on a hostile planet.
+A shade can be dissipated or eliminated by intense
+heat, light or other energy, although whether this
+harms the animal or simply feeds it to the point
+where it withdraws, sated, is unknown. Point sources
+such as lasers have no apparent effect on the shade;
+what is needed is a large energy source such as a
+searchlight or bonfire.
+Animal
+
+Hits
+
+Speed
+
+Shade
+
+Unknown
+
+4m
+
+Skills
+
+None
+
+Attacks
+
+Contact (1D per round)
+
+Traits
+
+Energy, Vacuum
+
+Behaviour
+
+Inexplicable
+
+R
+
+

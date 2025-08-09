@@ -1,0 +1,135 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Very Bad Jump
+The INT check determines if psychological effects
+are present. These typically include unease, irritability
+and paranoia, but in some cases can lead to a
+complete breakdown. Anyone who fails the INT check
+will be irritable, nervous and generally out of sorts
+for the whole duration of the jump. This manifests as
+difficulty in concentrating as well as a tendency to be
+on edge which often makes interactions with other
+Travellers unpleasant. DM-2 applies to all checks
+associated with mental or interpersonal activities. The
+Traveller will be visibly on edge and may appear to
+be behaving suspiciously or in a paranoid fashion.
+Memory lapses, covering a few minutes to an hour or
+two, are also possible.
+An Effect of -6 or worse indicates the Traveller is
+suffering from serious mental effects. These manifest
+as acute paranoia, blackouts and hallucinations.
+A Traveller in this state might harm themselves or
+someone else, or take a potentially dangerous action
+such as locking a hatch that the rest of the crew
+need to access a critical area.
+Psychological effects last throughout the jump and
+for 1D days afterward.
+
+VERY BAD JUMPS
+
+THE JUMP DRIVE
+
+If both variance tables indicate a Bad Jump, or the
+ship misjumps, the effects are magnified. Both checks
+(INT and END) must be made as above, but DM-2
+applies to both. In addition, there may be other effects
+on the ship and its passengers.
+
+152
+
+On the Very Bad Jump table, DM-4 applies if Bad Jump
+was indicated by both variances tables. DM-2 applies
+if the Very Bad Jump was caused by precipitation due
+to hitting the 100-diameter limit. Normal misjumps are
+rolled without DM. DM+2 applies if the ship jumped
+whilst under significant gravitational effects (typically
+this means jumping within the 100-diameter limit of
+an object). DM+4 applies if the ship jumped whilst
+under serious gravitational effects (typically this means
+jumping from within the 10-diamerter limit of a planet or
+other body). Only one modifier is used – the Referee
+should use the highest applicable to the ship.
+
+2D
+
+Effect
+
+2 or less
+
+No additional effects
+
+3–5
+
+Jump drive requires lengthy
+recalibration (taking 2D days) after
+emergence
+
+6–8
+
+Jump drive requires minor repairs after
+emergence
+
+7–9
+
+Jump drive requires major repairs after
+emergence
+
+10–12
+
+Jumpspace intrusions occur, jump drive
+destroyed upon emergence
+
+13 or more
+
+Severe jumpspace intrusions occur,
+jump drive destroyed upon emergence
+
+Jumpspace intrusions are extremely serious. The ship’s
+jump field becomes unstable, allowing pockets of jump
+space to enter the ship. This will destroy any matter it
+encounters, such as bulkheads, wiring and Travellers.
+The intrusions are usually stable, so will be limited
+to a particular location for the whole of the voyage.
+However, additional intrusions can occur at any time
+or existing ones may spread. A ship may be slowly
+consumed by the intrusions, with Travellers forced to
+retreat to unbreached compartments and hope the ship
+emerges into normal space before it is lost entirely.
+A ship suffering jumpspace intrusions suffers damage
+equal to 2D-2 as a percentage of its Hull per day.
+This matter is completely destroyed, requiring a
+major rebuild if the ship survives. A severe intrusion
+consumes 2D+10% of the ship’s Hull per day.
+
+MISJUMPS
+
+A Misjump occurs if the sum of the Effect achieved by
+the astrogator and engineer is 0 or less. This means
+that if one fails their check but the other makes theirs
+by a greater margin, the Misjump is averted, although in
+this case the effects of a Bad Jump should be imposed.
+If the sum of the Effects is 0 or less, a Misjump
+has indeed occurred and if both checks are failed
+a Serious Misjump has happened. All Misjumps
+are accompanied by the effects of a Bad Jump and
+Serious Misjumps are accompanied by the effects
+of a Very Bad Jump. This is in addition to the effects
+noted on the Misjumps table.
+
+R
+
+

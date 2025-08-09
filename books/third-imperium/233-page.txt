@@ -1,0 +1,64 @@
+STARBURST OF EXTREME HEROISM-CLASS LIGHT CRUISER
+
+12. Meson Spinal Mount
+13. Triple Turrets
+(long range beam lasers)
+14. Triple Turrets (missile racks)
+15. Triple Turrets (sandcasters)
+16. Armouries
+17. Barracks
+18. Briefing Rooms
+19. Brig
+20. Medical Bays
+21. UNREP System
+22. Workshops
+23. Docking Space
+24. Staterooms
+25. High Staterooms
+26. Emergency Low Berths
+27. Low Berths
+28. Common Areas
+29. Bridge
+30. Sensors
+31. Distributed Arrays
+
+12
+
+14
+
+13
+
+30
+
+24
+
+27
+26
+
+28
+
+25
+
+18
+
+29
+
+17 20
+
+23
+
+31
+16
+
+19
+
+21
+DECK 4
+
+DECK 3
+
+1 SQUARE = 10 TONS
+
+233
+
+

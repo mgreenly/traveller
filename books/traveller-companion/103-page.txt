@@ -1,0 +1,57 @@
+Sesquipin
+
+The sesquipin is a large and very odd-looking flying
+creature, which many Travellers find quite disturbing.
+It appears to have three bodies, each of which has a
+claw-tipped prehensile tail. In fact two of the bodies are
+better described as organ and muscle nodes. These
+secondary nodes are about the size of a large dog,
+whilst the central body is approximately four times as
+large. The central body contains the digestive organs
+and main cardio-respiratory system, with a smaller
+secondary heart and lung in each of the secondary
+nodes, connected to the main body by a segment of the
+long upper wing-membrane.
+
+A shorter pair of lower wings, tipped in vicious talons,
+attaches directly to the central body. These are
+capable of very fine control for rapid manoeuvering
+or can act as hands, whilst the long upper wing
+makes an augmented flapping motion powered by the
+extra muscle nodes. This movement looks distinctly
+unnatural to most observers but provides excellent
+lifting capability. Sesquipins operate in flocks of 10–30
+individuals, mobbing their prey and tearing it to shreds
+with their lethal claws.
+Animal
+
+Hits
+
+Speed
+
+Sesquipin
+
+16
+
+4m on ground
+
+Skills
+
+Melee (natural) 1, Recon 1
+
+Attacks
+
+Claws or Bite (2D)
+
+Traits
+
+Flyer (slow), Strange, Tough
+
+Behaviour
+
+Carnivore, Killer
+
+Animal Encounters
+103
+
+

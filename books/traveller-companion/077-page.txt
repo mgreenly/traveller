@@ -1,0 +1,41 @@
+WEAPONISED ANTHRAX
+
+Nature: Bioweapon (inhaled spores)
+Difficulty: Very Difficult (12+)
+Stage 1: After an incubation period of 1D days, the victim begins to display flu-like symptoms. STR and END
+are each reduced by 1D to a minimum of 1.
+Stage 2: After D3 days, check to see if the disease progresses to Stage 2. If the END check is made, the
+victim begins to recover at the rate of one point of STR or END (determine randomly which) every day of
+rest and good medical care. Stage 2 is accompanied by severe respiratory distress. STR and END are each
+further reduced by 1D each. If either reaches zero, the patient will die.
+Stage 3: After D3 days, the patient must pass a Very Difficult (12+) END check. If it is failed, the patient
+dies of respiratory failure. If the check is passed, the patient continues to suffer acute respiratory
+distress for 2D days before beginning to recover. STR and END recover at a rate of one point each per
+day after the end of Stage 3.
+Notes: Anthrax is caused by a naturally occurring bacteria. It can cause skin infections but is most
+dangerous when inhaled. To be really dangerous, Anthrax or some similar bacterial agent must be
+weaponised, i.e. it must be combined with a delivery system enabling it to enter the victims’ respiratory
+system. Other spore-carried respiratory infections are similar, with a greater or lesser fatality rate.
+
+NEURODART TOXIN
+
+Nature: Biological poison, ingested or injected
+Difficulty: Automatic fail injected, Average (8+) if ingested
+Stage 1: Almost instantaneously after the toxin enters the bloodstream (this takes 1D minutes if the toxin
+is ingested) the victim suffers neurological disruption beginning with tingling sensations and occasional
+vomiting. DEX and INT are reduced by 2D each. If either reaches zero, the victim loses consciousness. If
+both reach zero the victim will die.
+
+Notes: Neurodart toxin gets its name from the fact it is often used to coat projectiles from ‘needle’ or ‘dart’
+guns which are not designed to cause damage beyond delivering the toxin. Some creatures have the
+ability to project similar darts or may secrete a toxin to coat thorns. Neurodart toxins are often derived from
+shellfish and the like, and may be ingested in their natural state. If so, it is possible to resist the effects. Direct
+injection into the bloodstream cannot be resisted but is not usually fatal – at least, not directly.
+
+Diseases, Toxins and Chemicals
+
+Stage 2: DEX and INT begin to recover at the rate of one point each per hour after exposure.
+
+77
+
+

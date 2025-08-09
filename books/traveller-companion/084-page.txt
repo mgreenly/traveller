@@ -1,0 +1,93 @@
+T
+
+ERRAIN,
+CONDITIONS, AND MOVEMENT
+
+Terrain can be more than an impediment to movement.
+It can be hazardous in a variety of ways, albeit most of
+which are passive in nature. Terrain can also conceal
+dangers and multiple hazards can co-exist. It is
+possible to encounter an aquatic arctic region with an
+atmospheric hazard, all of which adds up to significant
+difficulty for anyone living or working there. Terrain and
+local conditions can also affect speed of movement,
+even for grav vehicles. A mountain range is not much
+of an obstacle for an air/raft flying high above it but a
+g-carrier threading a path between the peaks and along
+valleys will have to slow down or risk a disaster.
+The movement speeds given in this chapter are a
+guideline only. As a rule, a person can walk about one
+kilometre in 10 minutes, or six kilometres in an hour, in
+easy terrain. A speed of about 35 kilometres per day
+is possible when marching or hiking in a disciplined
+fashion whilst carrying a load such as an infantryman’s
+equipment or camping gear. Difficult terrain will greatly
+reduce these distances in addition to increasing the
+risk of mishap. Some terrain can only be crossed with
+technological assistance or extensive preparation,
+although in many cases a Traveller might cope for a
+short while; it is possible to make a quick dash between
+a building and a vehicle in arctic conditions that would
+kill someone trying to hike a few kilometres. It may
+be possible to swim, scramble or otherwise proceed
+through terrain impenetrable over longer distances. Any
+such short-range endeavour is a risk of course but this
+is what adventures are made of.
+
+VEHICLES IN HAZARDOUS TERRAIN
+Any vehicle or conveyance that makes contact with
+terrain may be slowed or endangered by it. This applies
+also to vehicles passing so close to the ground as to be
+affected by ground features. Thus an air/raft threading
+its way between bushes and trees is slowed as much
+as a wheeled vehicle.
+Listed speeds for ground vehicles and watercraft
+assume good conditions – flat ground, calm water or
+perhaps a road. A vehicle with off-road capability can
+travel at its road speed on any reasonably flat, firm
+surface. Rougher terrain will slow the vehicle and/or
+
+84
+
+endanger it if it tries to go faster. A vehicle without offroad capability, such as a normal ground car, is limited
+to 25% of its normal road speed at the absolute best,
+except on the flattest and firmest of terrain. ‘Indoor’
+vehicles such as starport baggage trolleys might be
+able to manage 10% of road speed at most but will be
+stopped or damaged by the slightest obstruction. These
+speeds are subject to further reduction by terrain.
+For example, a normal ground car has a normal Speed
+Band of Medium (100–200 kilometres per hour). It
+is limited to 25% of its road speed when driving on
+reasonably flat grassy fields, i.e. 25–50 kilometres per
+hour. This is still quite a high speed for an unmodified
+car to be going cross-country and may not be
+advisable. When struggling through tougher terrain
+that limits speed to 50%, this reduction is applied to
+the already reduced speed, dragging top speed down
+to just 12–25 kilometres per hour. It might be quicker
+to walk, especially if there is a danger of the vehicle
+becoming stuck or suffering a disaster.
+Hazardous terrain imposes two effects upon vehicles.
+The first is a reduction in speed. A vehicle that is forced
+to crash through scrubby bushes or labour through
+heavy seas will be slowed no matter how hard the crew
+tries to go faster. Hazardous terrain also imposes a
+risk of mishap or disaster. At the Referee’s discretion,
+some vehicles may not be slowed as much as others, if
+at all. A submarine running deep will not be affected by
+surface chop; a motorcycle may be able to slip between
+bushes that would slow down an ATV.
+
+TERRAIN ADAPTATION
+
+Vehicles well adapted to the terrain will not be affected
+as badly by hazards, although they can still encounter
+conditions that slow or endanger them. A vehicle that
+has good adaptations suited to the terrain – such as
+an ATV with an additional aquatic drive negotiating a
+swamp – halves the normal movement penalty and, in
+the event of mishap, allows the driver a chance to avoid
+it using his appropriate vehicle skill.
+
+

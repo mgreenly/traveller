@@ -1,0 +1,147 @@
+T
+
+Research Installations are large and important
+facilities dedicated to scientific research. Some are
+secret, some less so, but most tend to be secure and
+located in a remote area. Some installations conduct
+a range of research while others specialise. Research
+installations are usually indicated by a Greek letter,
+e.g. Research Station Gamma or Research Station
+Omicron. These names give away nothing about the
+nature of the research conducted there. Some are more
+open about their affiliation or nature, with designations
+such as the Windon Institute or Imperial Long-Range
+Communications Research Centre. A modest-sized
+research station may be co-located with the starport, or
+the installation might be the only port in the system.
+
+Starports and Spaceports
+
+Scout Bases, or Exploration Bases, are variable
+in size and importance. Some are little more than
+outposts used for refuelling exploration ships or
+monitoring an unusual world. Exploration bases
+exist to support operations in a particular area and
+may have specialist vessels such as rescue tugs
+or mobile laboratories. Other scout bases are quite
+large and general or specific in purpose, including
+training installations and regional command centres.
+Scout bases are often co-located with small
+starports; in some cases the port is run by scout
+personnel as part of their duties.
+
+140
+
+Shipyards or spacecraft construction facilities are
+normally present at high-end starports but major
+shipbuilding yards tend to be large installations in their
+own right. They may be co-located with a starport
+(not necessarily a Class A port) or have their own
+spaceport. Most construction facilities are relatively
+small, with big freighters, liners and battleships being
+built in a number of specialist yards.
+Way Stations are the equivalent of naval depots but
+geared to exploration or the activities of the Scout
+Service. They have extensive facilities and large
+amounts of shipping present. Most major Scout
+Service missions begin at a way station and specialist
+or very long-range (or just plain large) scout vessels
+are located there. Way stations may also serve as
+concentration points for survey and courier vessels,
+and are always administrative hubs.
+
+STARPORT LAW AND DEFENCES
+Starports are an obvious target for raiders and
+criminals, since they typically represent the most
+intensive economic activity in an entire solar system.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Most ports have some form of law enforcement and
+at least rudimentary defences against attack. In a
+small port, especially an independent freeport, this
+might be on an ad-hoc basis, with business owners
+maintaining guards and everyone fighting to defend
+whatever parts of the port they consider important
+in the event of an attack. Larger installations have
+more organised defences.
+A starport operated by the host government will
+likely have the same Law Level as the planet it is on,
+or perhaps one or two Law Levels lower if a strict
+government wants a more permissive, welcoming
+environment to encourage trade. Where a port is
+independent of the host government, such as most
+ports in the Third Imperium universe, its operators
+will set their own laws.
+Commonly, the highport component will have a set of
+laws geared to the ‘interstellar norm’ and the downport
+will correspond to local Law Level. Sometimes the
+downport will have an ‘interstellar’ Law Level as well,
+with local law applying once the extrality line is crossed.
+To randomly determine the Law Level of a port, roll 2D
+and subtract the result from the Law Level of the host
+government, applying the following DMs:
+
+Class A port
+
++7
+
+Class B or F port
+
++5
+
+Class C or G port
+
++3
+
+Class D or H port
+
++1
+
+Class E port
+
+0
+
+A result lower than 0 indicates no law beyond personal
+defence of property. Set Law Level to 0.
+
+LAW ENFORCEMENT AND SECURITY
+To determine the level of law enforcement and security
+available at a port, roll 2D on the Port Enforcement
+table, with the following DMs:
+
+Class A port
+
++6
+
+Class B or F port
+
++3
+
+Class C or G port
+
+0
+
+Class D or H port
+
+-3
+
+Class E port
+
+-6
+
+R
+
+

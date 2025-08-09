@@ -1,0 +1,95 @@
+When using a VTT, set the map scale to 648 kilometres
+per square or hex and if possible, set the measuring
+tool to use Euclidean measurement, rather than
+counting squares or hexes. If this is not an option, then
+counting hexes is acceptable for a hex map and for
+a map of squares, the next most accurate results will
+result by setting diagonal distances to 1.5 squares.
+This means that in order to be at Adjacent or Close
+range, ships must occupy the same space, and other
+ranges are as follows for either squares or hexes:
+
+In subsequent rounds, Thrust may be applied to
+add to or subtract from a ship’s current vector, in
+any combination. For example, a ship with Thrust 4,
+currently moving at a vector of (4, -2), might apply
+Thrust 4 to its X-axis movement, changing its vector
+to (8, -2). Alternatively, it might maintain its movement
+along the X axis and reverse Thrust along the Y-axis,
+changing its vector to (4, 2) if all four of its Thrust is
+used to do so. Or it could split the Thrust 4 between the
+X and Y axes, resulting in vectors such as (6, -4), (3,
+-5), or (1, -1). In later rounds, vectors can be increased
+further and further until ships are moving at very high
+speed. This adds a level of complexity and strategy that
+should make battles very engaging.
+
+The default scale for a space combat map, whether
+using squares or hexagons, is 648 kilometres per
+space, as this is the distance travelled by a spacecraft
+acceleration at 1G continuously for the duration of a
+six-minute space combat round. This allows speeds to
+be calculated easily when applying Thrust: each point
+of Thrust increases or decreases speed by one space
+per round in a given direction, whether X, Y, or either Z
+or X/Y when using a hex map.
+
+Range in spaces
+
+Adjacent or Close
+
+0 (same space)
+
+Short
+
+1 (or 2, see below)
+
+Medium
+
+15
+
+Long
+
+38
+
+Very Long
+
+77
+
+Distant
+
+78 or more
+
+A map size of 100 spaces or more in the ‘long’
+direction (assuming a rectangular map) is helpful to
+provide enough room for ships to close from (or flee
+to) Distant range. However, if all ships in the combat
+are relatively slow (Thrust 1 or 2 maximum) and it
+makes more narrative sense to start them closer
+together, a smaller map can be practical. Fast ships
+need room to move!
+Because the centre-to-centre distance between two
+spaces at this scale is only a little farther than the
+limit of Short range (1,296 kilometres instead of 1,250
+kilometres), at the Referee’s discretion it can be helpful
+for gameplay purposes to rule that the maximum limit of
+Short range is two spaces distance instead of only one.
+Whether using a VTT or physical map, it can be helpful
+to add a table on the side of your map with the above
+range table, or to create a cheat sheet to make it easy
+to see the range limits at a glance. For a physical
+map, the distances can be translated into inches or
+centimetres according to the square/hex scale of the
+map, such that ranges can be determined with tape
+measures (measure centre-to-centre of each space,
+with the Referee settling any disputes).
+
+Vector-Based Space Combat
+
+MAP SCALES
+
+Range Band
+
+173
+
+

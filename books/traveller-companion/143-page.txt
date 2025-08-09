@@ -1,0 +1,124 @@
+EGALITIES
+AND LAWBREAKING
+
+L
+
+Sometimes Travellers have to break local laws to get
+something done or will fall foul of the authorities for
+some reason. The threat of punishment for engaging in
+illegal activity can be used as an adventure motivator –
+perhaps the Travellers are offered dismissal of trumpedup charges in return for their assistance with a problem
+the colony director has.
+Legal complications can be used to keep the
+Travellers’ behaviour in check. This is easiest when
+there is an interstellar polity with effective inter-world
+law enforcement but there are still options out on
+the wild frontiers. So long as any form of interstellar
+communication exists, world governments have the
+option to pursue those who break their laws. This is
+unusual in the case of minor offences but those who
+commit serious crimes may be subject to extradition or
+pursuit by agents of the offended government.
+If Travellers leave a world without answering for their
+crimes, or their crimes are discovered after they leave,
+the authorities will decide what to do about them. Their
+response depends on the local Law Level and severity
+of the crime. The Crimes table indicates the type of
+crime and its severity, along with the associated DM
+applied to sentencing. This table is an expansion of the
+one on page 225 of the Traveller Core Rulebook.
+The level of severity of a crime can be moved one
+(or in extreme cases, two) categories either way by
+aggravating or mitigating circumstances. For example,
+a petty theft offence committed by someone who
+
+was starving might be downgraded to Trivial or even
+Insignificant. The same theft from a charity or highprofile individual might be considered more serious.
+Likewise, an armed robbery carried out with a fusion
+gun would also be viewed as more serious.
+As a general rule, crimes that disrupt economic activity
+or damage the financial well-being of a large number
+of people tend to be considered very serious. It is also
+possible that a crime’s severity might be increased
+or decreased due to a PR exercise, perception of the
+perpetrator or victim, or other factors.
+The DM given in this table can be used on the
+Sentencing table (page 225 of the Traveller Core
+Rulebook) but is also used to determine the world
+government’s response if the Travellers skip
+town with unpaid parking tickets or a warrant for
+arrest after their murder spree, as shown on the
+Government Response table.
+Bounties are set at Cr1000 x 2D + the severity DM of
+the crime. A Large Bounty is five times as great and
+a Huge Bounty is 25 times as great. Bounties are
+usually offered for the return of the criminal in a state
+fit to stand trial, although if they are killed resisting
+arrest the bounty is usually payable. If the criminal has
+already been sentenced to death or is likely to be, a
+dead or alive bounty may be offered.
+
+Crimes
+Severity
+
+Example
+
+DM
+
+Insignificant
+
+Technically illegal behaviour that causes no real harm
+
+Law Level -10
+
+Trivial
+
+Littering, minor driving offences
+
+Law Level -8
+
+Very Minor
+
+Assault, petty theft
+
+Law Level -5
+
+Minor
+
+Destruction of property, significant theft
+
+Law Level -3
+
+Moderate
+
+False identity, armed robbery
+
+Law Level -2
+
+Serious
+
+Manslaughter, major fraud or financial/economic crime
+
+Law Level -1
+
+Very Serious
+
+Murder, extremely serious fraud, significantly impairing starport operations
+
+Law Level +0
+
+Appalling
+
+Mass murder, serial killing
+
+Law Level +2
+
+Horrific
+
+Once-in-a-generation atrocity
+
+Law Level +5
+
+143
+
+

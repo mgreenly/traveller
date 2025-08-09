@@ -1,0 +1,117 @@
+T
+
+Inhaled agents will affect anyone who breathes them
+in. They generally take the form of a vapour but can
+be a toxic gas, cloud of spores or dust. A Traveller who
+is aware of a gas cloud may try to hold their breath
+and run clear of it. To do so they must be aware of
+the gas and make an immediate Athletics or Survival
+check. Difficulty is at the Referee’s discretion and will
+be higher if the Traveller must do something strenuous
+such as force a heavy door, or if they are hit and take
+damage. This check must be made each round the
+Traveller is exposed to the airborne agent.
+If the Traveller fails the check at any point, or fails to
+notice the threat, they breathe in the gas and suffer
+whatever effects may apply. A Traveller in a sealed
+suit or who is wearing a respirator is immune to the
+effects of most gases.
+Contact agents may also be dangerous if breathed but
+their primary mode of attack is by contact with skin or
+mucous membranes such as eyes, throat and so forth.
+Contact agents are usually in liquid or gaseous form
+but may be spores, dust or even a large object such as
+a strange monument made from a toxic metal.
+
+Diseases, Toxins and Chemicals
+
+Some creatures (and certain weapons) spray a
+noxious chemical at enemies. Such a spray must hit
+the target, usually in the face. This requires an attack
+roll and is ineffective against Travellers wearing a fullface helmet or mask, although a coating of liquid can
+make it hard to see.
+
+72
+
+Other gases require only contact with eyes to have
+some effect, e.g. tear gas. A Traveller in a sealed suit
+is immune but while a respirator will protect against
+breathing in the gas and the effects thereof, eye
+protection suitable to keep out gases is required. Thus
+a respirator mask with integral goggles will protect
+the user from tear gas and the equivalent chemical in
+liquid spray form, while a visored security helmet will
+stop the spray but not gas.
+Some powerful chemicals need only be absorbed
+through skin contact. A complete suit such as a vacc
+suit or battle dress gives protection so long as it is kept
+sealed and suitably decontaminated after exposure.
+Other protection is marginally effective. Measures such
+as covering as much skin as possible with clothing or
+donning a breathing mask may be sufficient to reduce
+exposure. A Traveller attempting such measures may
+achieve partial protection.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+A Traveller who is exposed to a skin-contact agent
+may try to make an Athletics (dexterity) check to avoid
+intoxication (by rushing into clear air). The difficulty
+is decreased by one for partial protection as noted
+previously and by an additional level if conditions are
+not favourable for gas weapons (e.g. a windy day).
+Radiant Agents are propagated by electromagnetic
+radiation and may be powerful enough to penetrate
+protection or intervening solid objects. The only effective
+means of defence are barriers (such as protective
+clothing or walls) and distance. Radiant agents can
+usually be detected by appropriate instruments in time
+to avoid moving into the danger area.
+If a Traveller is exposed, they may still resist the effects
+of the agent.
+
+DETECTION OF AGENTS
+Many agents can be detected by simple means.
+Gas or spore clouds may be obvious to the naked
+eye, although it may not be obvious that a mist or
+dust is toxic. However, observation combined with
+a knowledge of local conditions is often sufficient to
+warn Travellers. If they know local swamps are prone
+to clouds of toxic gas and they see a strange mist
+over the nearby pond, they should be able to figure
+out what is happening.
+Other agents are relatively obvious but in other ways.
+Many chemical toxins have an appearance or smell
+that can give warning before full exposure occurs
+and Recon and Survival skills are useful in providing
+a warning. However, more subtle toxins may be
+difficult to detect. An experienced outdoorsman
+may know the signs of local hazards, or rules of
+thumb about which plants and animals are safe to
+eat. Likewise, those used to working with chemicals
+will know that this combined with that produces
+something dangerous and will be alert to the
+possibility in a way a layman would not.
+Figuring out that a toxic or harmful agent may
+be present requires a Difficult (10+) Science check
+(the speciality or sub-speciality depends upon the
+type of agent). Success indicates the Traveller has
+realised an agent is likely to be present in the local
+environment, although this does not necessarily mean
+a specific threat has been spotted.
+
+R
+
+

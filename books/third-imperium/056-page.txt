@@ -1,0 +1,219 @@
+MEGACORPORATE COURIER
+
+CLASS: INTELL
+
+Despite the excellent record of the x-boat network,
+many megacorporate officers do not trust the scouts
+to carry their most sensitive information. The Intellclass courier is designed to carry encrypted data,
+small prototypes and other essential capital between
+star systems quickly and efficiently. The design
+substitutes a secure vault in lieu of a cargo hold.
+
+and staterooms are provided to accommodate a
+skeleton crew in case corporate officers are not
+comfortable with an AI carrying sensitive data and
+cargo across multiple sectors. Eight low berths
+are included to ship key personnel from one
+megacorporate office to another or to provide a
+rotating 1- to 2-person crew.
+
+Megacorporate offices are spread out across
+Imperial space and this ship can bridge the gap
+quickly with its jump-5 capability. State-of-the-art
+virtual crew software enables the ship to operate as
+a drone, with no crew at all if desired. A small bridge
+
+The class is named for important Imperial financial
+centres and famous corporate events and
+transactions. Intell is the largest city on Capital and
+its primary business and financial centre.
+
+TL15
+
+TONS
+
+COST (MCR)
+
+200 tons, Sphere
+
+—
+
+8
+
+Emissions Absorption Grid
+
+4
+
+8
+
+M-Drive
+
+Thrust 2
+
+4
+
+8
+
+J-Drive
+
+Jump 5
+
+30
+
+45
+
+Power Plant
+
+Fusion (TL12), Power 150
+
+10
+
+10
+
+Fuel Tanks
+
+J-5, 4 weeks of operation
+
+101
+
+—
+
+Running Costs
+
+Bridge
+
+Small
+
+6
+
+0.5
+
+MAINTENANCE COST
+
+Computer
+
+Computer/20
+
+—
+
+10
+
+Cr10100/month
+
+Sensors
+
+Civilian
+
+1
+
+3
+
+PURCHASE COST
+
+Systems
+
+Fuel Processor (40 tons/day)
+
+2
+
+0.1
+
+MCr121.2
+
+Fuel Scoops
+
+—
+
+1
+
+Mail Distribution Array (TL13)
+
+20
+
+10
+
+Vault
+
+12
+
+6
+
+Standard x1
+
+4
+
+1
+
+Low Berths x8
+
+4
+
+0.4
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/5
+
+—
+
+0.5
+
+Library
+
+—
+
+—
+
+Virtual Crew/2
+
+—
+
+10
+
+Common Areas
+
+2
+
+0.2
+
+Cargo
+
+0
+
+—
+
+Hull
+
+Staterooms
+Software
+
+Crew
+Optional Pilot,
+Astrogator,Engineer
+
+Hull: 80
+
+Power Requirements
+Basic Ship Systems
+40
+Manoeuvre Drive
+40
+Jump Drive
+100
+Sensors
+1
+Fuel Processor
+2
+
+* Configurable common area cost is multiplied by 1.5.
+
+MEGACORPORATE
+COURIER
+
+56
+
+

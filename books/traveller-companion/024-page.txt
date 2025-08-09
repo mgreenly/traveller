@@ -1,0 +1,196 @@
+T
+
+Skill Level Costs
+Level
+
+Cost
+
+Combined Cost
+
+0
+
+3
+
+3
+
+1
+
+6
+
+9
+
+2
+
+9
+
+18
+
+3
+
+12
+
+30
+
+4
+
+15
+
+45
+
+5
+
+18
+
+63
+
+6
+
+21
+
+84
+
+SKILL LEVEL COSTS
+
+Each skill must be bought one level at a time,
+including level 0. With the exception of Jack-of-AllTrades, all skills cost the same to learn and develop,
+the cost of obtaining a skill based on its new level.
+The Jack-of-All- Trades skill costs five times the value
+listed on the Skill Level Costs table.
+The usual limit of level 4 applies to all skills unless the
+Referee chooses to remove it. The Skill Level Costs
+table includes skill increase costs beyond level 4 for the
+sake of completeness.
+As a guideline, taking one skill at level 3, two at level
+2 and three at level 1 plus six skills at level 0 costs a
+Traveller 111 points. The Traveller would also have
+some free level 0 skills as a result of his background.
+
+alternate character creation
+
+RANK AND OTHER BENEFITS
+
+24
+
+Rank and other benefits are bought with points like
+anything else the Traveller wants to have. All items
+in the Rank and Benefits table are bought outright
+rather than by level.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Negative values indicate a points gain for taking a Rival
+or Enemy. No more than three Rivals or Enemies can
+be taken by the Traveller.
+Benefit Item permits the Traveller to choose any of the
+standard benefit items for their career (or any career
+if the free point-buy method is being used). Examples
+include: gun, blade, weapon, TAS Membership,
+Armour, Combat Implant and so forth. Items must be
+physical – a Traveller cannot take ‘gun’ more than once
+and receive skill levels instead, and cannot take any
+benefit that alters a characteristic. Ship shares are not
+available under this system.
+Each point allocated to Equipment Allowance
+gives the Traveller Cr2000 to spend on starting
+equipment. The Referee should adjudicate what
+is available – grav tanks, battle dress and a fleet
+of combat robots are not really appropriate as
+starting equipment. The allowance must be spent
+on equipment and cannot be converted to cash but
+need not all be spent before play starts. A Traveller
+who has not spent his whole allowance can be
+assumed to have some gear stashed away or on
+back order from the manufacturer.
+Each point allocated to Starting Cash gives the
+Traveller Cr1000 in cash.
+
+VERY QUICK POINT-BUY
+
+A Traveller with straight 7s for all characteristics costs
+84 points. Giving this Traveller one skill at level 3, two
+at level 2, three at level 1 and six at level 0 costs 111
+points for a total of 195 points. If very quick point-buy
+is desired, take this as a starting point and allocate the
+remaining points (55 remaining out of 250 for a typical
+Traveller) as desired.
+
+Ranks and Benefits
+Benefit
+
+Cost
+
+Benefit
+
+Cost
+
+Rank: Commission
+
+25
+
+Contact
+
+5
+
+Rank 1
+
+5
+
+Ally
+
+10
+
+Rank 2
+
+10
+
+Rival
+
+-5
+
+Rank 3
+
+15
+
+Enemy
+
+-10
+
+Rank 4
+
+20
+
+Benefit Item
+
+5
+
+Rank 5
+
+25
+
+Equipment Allowance
+
+1
+
+Rank 6
+
+30
+
+Starting Cash
+
+1
+
+R
+
+

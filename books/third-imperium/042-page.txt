@@ -1,0 +1,182 @@
+T
+
+The final phase is to provide cover for ZRC during the
+return jump to Gaen Luum.
+
+THE MINERS’ UNION
+
+The union are a rough-and-tumble bunch, many of
+whom are former soldiers. They are not in the business
+of fighting wars but Arvlaa Gam is a tough world and its
+laissez-faire industrial sector is not above fighting over
+resources. In short, an assault on the mercenaries will
+not be the first time they have engaged in combat. They
+are not nearly as organised as a qualified mercenary
+unit but underestimating their abilities would be unwise.
+Their morale is initially high but drops quickly if they
+encounter setbacks.
+
+CHARACTERISTIC VALUE
+
+DM
+
+Force Name
+
+Miners’ Union
+
+—
+
+Unit Size
+
+Two platoons
+
+—
+
+Unit Type
+
+Infantry
+
+—
+
+Unit TL
+
+10
+
++1
+
+Mobility Type
+
+Infantry
+
+-3
+
+Combat
+
+5
+
+-1
+
+Bombardment
+
+0
+
+—
+
+Aerospace
+
+0
+
+-2
+
+Support
+
+3
+
+-1
+
+CEI or DEI
+
+5
+
+-1
+
+Morale
+
+8
+
+0
+
+Reputation
+
+3
+
+-2
+
+IMPERIAL MILITARY FORCES
+
+THE OPPOSITION
+
+42
+
+The goal of the miner’s union is to disrupt the ZRC
+operation on Arvlaa Gam and to prevent it from
+extracting lanthanum from the mine. If they can
+accomplish this with sabotage, thereby avoiding armed
+conflict, they will do so. However, if the mercenaries
+do their jobs well, and they prevent the miners’ union
+from accomplishing their goals, the union will become
+increasingly frustrated, eventually resorting to a more
+direct approach.
+If the Travellers do not set up listening posts or some
+other form of surveillance, they are likely to be taken by
+surprise. Thanks to Tukera, the miners are equipped
+with high-tech submersibles, surface watercraft and
+weapons with which they intend to attack the ZRC
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+mining platform, killing anyone who resists and
+imprisoning the others, possibly to ransom them back
+to ZRC. The attack is likely to be multi-faceted, with the
+mercenaries forced to defend multiple sites at once.
+
+TICKET SUCCESS INDICATORS
+
+This ticket has the following success criteria:
+1: CRITICAL: Secure the mining platform, mining
+equipment and protect all ZRC personnel from attack.
+2: IMPORTANT: Prevent sabotage to all ZRC gear
+during deployment and departure.
+3: ROUTINE: Determine in advance whether an attack
+is planned and by whom.
+4: ROUTINE: Keep the ZRC staff informed with daily
+briefings and situation reports.
+One Critical, one Important and two Routine objectives
+give a maximum TSI of 11. The Travellers must run
+an airtight security operation to achieve all of these
+objectives. Simply going to and from Arvlaa Gam and
+waiting for someone to attack is likely to result in a
+lower score.
+
+Intelligence Services
+
+There are intelligence agencies at all levels of
+Imperial government. Much as worlds are allowed
+to govern themselves, they are also allowed to
+gather their own intelligence provided they do not
+act against the interests of the Imperium itself.
+Likewise, members of the Imperial bureaucracy at
+the planetary, subsector, sector and sometimes even
+the domain level operate networks of agents who
+perform surveillance activities, engage in espionage,
+analyse collected data and use the obtained
+information to inform their decisions.
+Intelligence agencies assume many forms from
+immense bureaucratic organisations down to small
+cabals of informers. The Imperial Army, Scout
+Service and Navy each have intelligence-gathering
+arms. Army Intelligence is primarily concerned with
+gathering strategic information about the worlds of
+the Imperium and those of its potential enemies.
+Internally, Army Intelligence keeps track of political
+movements, insurrections, terrorist groups and
+others whom they may be called upon to oppose.
+They also keep up-to-date cartographic information
+on all Imperial worlds and those of foreign polities
+near Imperial borders.
+
+R
+
+

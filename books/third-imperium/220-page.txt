@@ -1,0 +1,32 @@
+VOROSHILEF-CLASS BATTLESHIP
+
+DECK 1
+1. M–Drive
+2. J–Drive
+3. Power Plant
+4. Airlocks
+5. Triple Turrets
+(pulse lasers)
+
+1
+
+DECK 2
+
+2
+
+2
+1
+
+DECK 3
+
+2
+5
+3
+
+4
+
+1 SQUARE = 100 TONS
+
+220
+
+

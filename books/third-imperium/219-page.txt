@@ -1,0 +1,231 @@
+BATTLESHIP
+TL13
+Systems
+
+Craft
+
+Staterooms
+
+Software
+
+CLASS: VOROSHILEF
+TONS
+
+COST (MCR)
+
+Fuel Scoops
+
+—
+
+1
+
+Fuel Processor (40,000 tons/day)
+
+2,000
+
+100
+
+Repair Drones
+
+2,000
+
+400
+
+Barracks x200
+
+400
+
+20
+
+Brigs x4
+
+16
+
+1
+
+Briefing Rooms x8
+
+32
+
+4
+
+Armouries x107
+
+107
+
+26.75
+
+Medical Bays x16
+
+64
+
+32
+
+UNREP System (1,000 tons/hour)
+
+50
+
+25
+
+Workshops x67
+
+402
+
+60.3
+
+Launch Tube (50 tons)
+
+500
+
+250
+
+Recovery Deck (50 tons)
+
+500
+
+250
+
+Docking Space (250 tons)
+
+275
+
+68.75
+
+Docking Space (1,000 tons)
+
+1100
+
+275
+
+Docking Space (16 tons)
+
+18
+
+4.5
+
+Deployment Shuttles (50 ton) x5
+
+—
+
+178.8795
+
+Heavy Fighters (50 ton) x20
+
+—
+
+1326.6
+
+Air/Rafts x4
+
+—
+
+1
+
+Standard x935
+
+3,740
+
+467.5
+
+High x3
+
+18
+
+2.4
+
+Emergency Low Berths x464
+
+464
+
+464
+
+Low Berths x410
+
+205
+
+20.5
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Auto-Repair/2
+
+—
+
+10
+
+Advanced Fire Control/2
+
+—
+
+15
+
+Anti-Hijack/3
+
+—
+
+10
+
+Battle System/2
+
+—
+
+24
+
+Broad Spectrum EW
+
+—
+
+14
+
+Electronic Warfare/2
+
+—
+
+18
+
+Launch Solution/3
+
+—
+
+16
+
+Point Defence/2
+
+—
+
+12
+
+Common Areas
+
+938
+
+93.8
+
+Cargo
+
+2,413
+
+—
+
+VOROSHILEFCLASS
+BATTLESHIP
+
+219
+
+

@@ -1,0 +1,120 @@
+T
+
+As a rule, a shattered faceplate, major failed seal,
+or a suit torn open by debris or a blade weapon will
+allow the Traveller to continue to function – or, at least,
+remain conscious and suffer as they die of vacuum
+exposure. A smaller breach such as a minor seal
+failure or gunshot wound will allow air to escape rapidly
+from the suit but it will continue to provide sufficient
+protection that the Traveller will remain conscious and
+be able to act, so may well be able to self-rescue.
+A Minor Suit Breach exposes the wearer to outside
+conditions but reduces damage by 4 points per
+dice (i.e. hard vacuum causes a cumulative 2D-8
+damage per round).
+A Major Suit Breach exposes the wearer to outside
+conditions but reduces damage by 2 points per
+dice (i.e. hard vacuum causes a cumulative 2D-4
+damage per round).
+Slight Exposure caused by a minor suit malfunction
+such as a faulty glove seal causes minor localised
+effects. The Traveller takes one point of damage after
+his END in minutes, repeated at the same interval.
+A Minor Breach in a vacc suit occurs when there is a
+short tear, failed seam or puncture wound resulting
+from a gunshot or similar occurrence. A Major Breach
+occurs when a suit’s faceplate is shattered or the suit
+has a significant hole in it such as that caused by a
+slashing weapon doing six or more points of damage
+above the suit’s Protection.
+
+ATMOSPHERE AND VACUUM
+
+HIGH PRESSURE
+
+68
+
+High pressure can also be a problem, although
+it is more likely to be a plot element or additional
+complication than a direct hazard. After operating in
+a very high pressure environment, Travellers have to
+undergo careful decompression which can take several
+hours. This is not the stuff of exciting adventures in
+the far future. Thus deep water and extremely dense
+atmospheres are normally tackled in a manner that
+protects the Travellers from them, such as deep-diving
+suits, submarines or special exploration starships.
+Extreme environments like this are an all-or-nothing
+proposition. If the Travellers remain protected, they
+are fine. If not, they die almost immediately. This can
+be useful for creating threats, tension and barriers in
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+an adventure but it does limit what the Travellers can
+do in such an environment. Less extreme situations
+are unlikely to be immediately harmful and may be
+encountered in the course of a game.
+High-pressure atmospheres can make it difficult to
+breathe and have a tendency to force their way into
+suits and vehicles through seals that would keep
+atmosphere inside against a vacuum. This is why
+spacecraft do not make good submarines – keeping
+air pressure in against a vacuum means operating
+at a differential of one Atmosphere (i.e. the mean
+pressure of Earth’s atmosphere at sea level),
+whereas even just a few tens of metres down, water
+pressure on the hull of a submerged vessel (and
+all of its weak points) can be many times as much.
+Extreme pressure can flatten a hull but seals will
+normally fail long before this occurs.
+On a world with normal gravity, water pressure
+increases by one Atmosphere for every 10 metres
+below the surface. Gas pressure increases much
+more slowly with depth; for a standard atmosphere
+world with gravity equivalent to that of earth, the
+pressure at a depth of 10 kilometres below the surface
+is around 2.9 atmospheres. At 50 kilometres, where
+the earth’s crust meets the mantle, pressure would be
+52 Atmospheres. At 100 kilometres, pressure would
+be around 500 Atmospheres.
+By way of comparison, atmospheric pressure at ‘sea
+level’ (if such a thing existed) on a gas giant planet such
+as Jupiter is estimated at around 990 Atmospheres.
+Modestly high pressures are not directly harmful to
+people but can cause secondary issues. A fluid depth of
+30 metres exerts just 3 Atmospheres of pressure (plus
+one for normal air pressure) but this is enough that
+divers breathing bottled air risk nitrogen narcosis. This
+produces an effect somewhat like drunkenness due to
+the narcotic and anaesthetic effect of many gases at
+high pressure. Nitrogen is the most common problem
+since it makes up most of a standard air mix.
+At a depth of 60 metres underwater, with about 7
+Atmospheres of pressure on a diver, there is an
+increasing risk of oxygen toxicity; the result of the body
+retaining too much oxygen. A normal air mix at high
+pressure will produce this effect, so those operating
+under high pressures require a lower partial pressure
+of oxygen. Similar effects can be encountered when
+breathing very high concentrations of oxygen under
+normal pressures – which means that high-oxygen
+atmospheres can actually be unsafe for humans to
+breathe as well as posing a serious fire hazard.
+
+R
+
+

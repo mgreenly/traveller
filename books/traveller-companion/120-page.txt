@@ -1,0 +1,70 @@
+INTERPRETING UWP DATA
+The Universal World Profile allows a great deal of
+information to be presented in a very compact form.
+However, like all attempts to be concise, it requires
+generalisation. It is easy to read off the code and
+assume every world with a given Atmosphere code or
+Law Level will be exactly the same, but this is a misuse
+of the UWP. It is not intended to detail exactly a world
+and its society down to the last nuance but instead is
+meant to be a starting point for the Referee’s creativity.
+Some inferences can be made from the UWP,
+particularly about the physical characteristics of a
+world, but beyond this there is room for considerable
+variation – one B687484-9 world is not necessarily like
+another. That said, the UWP is invaluable when the
+Travellers decide to suddenly veer off the adventure
+path and land at some backwater world the Referee
+has not yet written up. The vanilla-flavour interpretation
+of the UWP can be used when there is no time or need
+for anything more detailed. Indeed, sometimes only
+part of the UWP will be needed.
+Often, Travellers are only interested in the starport.
+If they visit a highport – perhaps to trade or buy stuff
+with the payoff of their last mission – then typically
+it will not matter what sort of world it orbits. The
+planet in this case is little more than scenery but the
+UWP allows the Referee to present the right colour
+of scenery. If the Travellers land planetside, then
+the question of whether they can wander around in
+the open air or must stay inside a sealed structure
+becomes important. Further detail is needed when the
+Travellers actually go outside the starport.
+
+THE THREE HS
+Travellers as a rule are not unduly concerned with
+precise details and will typically classify worlds as one
+of the ‘three Hs’ – Habitable, Hazard and Hostile. Often
+this is all the Referee or Travellers will need to know,
+especially if the visit is a short one.
+
+120
+
+Habitable is shorthand for ‘fairly to very welcoming,
+with breathable air and enough water to support
+vegetation’. To qualify as Habitable, a world must be
+‘liveable without too much effort’. Planets with plenty
+of water and greenery may still be considered Hazard
+worlds if they have severe weather, unpleasant
+temperatures, serious atmospheric taints or other
+factors that make them less pleasant than the
+UWP code might suggest. Those that are more or
+less habitable but have factors requiring caution or
+equipment like a filter mask are sometimes classified
+as ‘Borderline’ rather than Hazard.
+Hazard has various degrees of meaning, ranging from
+a near-habitable world to one with an unbreathable
+atmosphere and significant natural hazards such as
+volcanoes or meteor showers. The majority of worlds
+fall somewhere in this category and as a result many
+Travellers invent sub-classifications. The commonest
+of these are Rockballs, Exotic worlds, Tainted worlds,
+Desert worlds and Water worlds.
+Hostile worlds are ‘out to get you’, in the sense that
+there is serious threat to life. This can be obvious,
+such as a corrosive atmosphere, or more insidious.
+Examples include apparently habitable worlds where
+the entire ecosystem wants to kill and eat visitors or
+where certain diseases are endemic.
+
+

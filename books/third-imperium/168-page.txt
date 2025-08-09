@@ -1,0 +1,100 @@
+Explorer Mini-Sub
+The Explorer mini-sub is designed to fit into the rear
+compartment of the expeditionary crawler, which deposits it
+into the ocean via a deployment ramp/recovery deck. This
+nifty little submersible is camouflaged to avoid detection by
+the local sophonts. The holding tank can contain up to 250
+kilograms of biomatter, mineral samples or whatever else
+the crew scoops out of the ocean with the manipulator arm.
+
+EQUIPMENT AND WEAPONS
+
+Autopilot (advanced), Communications System (advanced),
+Computer/3, Fire Extinguishers, Holding Tank (1 space),
+Hydrographic Sampler, Navigation System (improved),
+Sensors (improved, underwater).
+
+ARMOUR
+FRONT 4
+
+REAR
+
+4
+
+SIDES
+
+4
+
+TL
+
+12
+
+SKILL
+
+Seafarer (submarine)
+
+AGILITY
+
++1
+
+EQUIPMENT
+
+SPEED (CRUISE)
+
+Slow (Very Slow)
+
+Autopilot (skill level)
+
+0
+
+RANGE (CRUISE)
+
+200 (300)
+
+Communications (range)
+
+1,000km
+
+CREW
+
+1
+
+Navigation (Navigation DM)
+
++2
+
+PASSENGERS
+
+1
+
+Sensors (Electronics (sensors) DM)
+
++1
+
+CARGO
+
+—
+
+Camouflage (Recon DM)
+
+-4
+
+HULL
+
+30
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+SHIPPING
+
+5 tons
+
+COST
+
+Cr559950
+
+168
+
+

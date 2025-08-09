@@ -1,0 +1,107 @@
+Spotting a threat requires a Difficult (10+) Recon or
+Survival check. The difficulty is reduced to Routine (6+)
+if the Traveller has studied the environment or been
+informed that an agent may be present – after a couple
+of brushes with spore or gas clouds, the Travellers will
+become adept at spotting them.
+Complex or subtle toxins can usually be detected
+using chemical or biological instruments. Diseases,
+on the other hand, generally require observation
+of symptoms or analysis of samples. Since many
+diseases have a period in which they can be
+transmitted before they exhibit symptoms, there is a
+real danger that an infected Traveller can spread a
+disease, especially if they move over a wide area and
+come into contact with many people.
+
+EXPOSURE, DELAY AND INTERVAL
+
+When a Traveller is initially exposed to an agent, it
+is necessary to determine if they are affected by it.
+In some cases the agent takes effect immediately
+but often there is a delay before symptoms appear.
+This may be due to the growth of spores, damaging
+effects of a chemical, incubation of a disease or many
+other factors but the effect is the same. In the case of
+radiant weapons, the process is slightly different as
+the cumulative dose of radiation is what matters. In
+such cases the Referee should impose the effects of
+exposure when the full dose has been taken, i.e. when
+the Traveller has ceased to be exposed. The exception
+is where ongoing exposure will produce symptoms
+which will warn a Traveller of what is happening and
+enable them to prevent further exposure.
+
+Once a Traveller has been affected by an agent,
+there may be a delay – sometimes quite a long one
+– before the first effects appear. This may be the only
+set of effects but many agents will produce repeated
+effects over time. This is referred to the Interval of the
+agent. The affected Traveller usually has a chance
+to resist the effects each time they are applied and,
+if successful, the agent no longer affects them. The
+same process is used for diseases; much of the time
+a Traveller’s body will eventually fight off the disease
+if it does not kill them in the meantime. Persistent
+diseases do exist but even then there is usually a cure
+if advanced medical assistance is available.
+
+For agents that may affect the victim more than once,
+or over time, the Interval value indicates the time
+between incidents. If the victim has a chance to resist
+the effects, they may attempt to resist each time the
+effect is applied and once an effect is resisted the
+Traveller will – in most cases – no longer be affected
+and may begin to recover. Occasionally an agent
+may continue to attack the Traveller even after being
+successfully resisted, such as a poison still present in
+the body. In such cases, outside intervention is required
+to remove the threat, otherwise it is only a matter of
+time before the victim succumbs.
+
+RESISTING AN AGENT
+
+When a Traveller is exposed to any agent, they get
+a chance to resist its effects. It may or may not be
+obvious that they have failed to resist the agent. For
+example, most diseases have an incubation period
+before symptoms present themselves and some
+chemical agents do not have an immediate effect. A
+Traveller might be exposed to chlorine gas and think
+they have escaped the effects, only to become ill
+several hours later.
+All harmful diseases, organisms and chemicals that
+do not have a direct physical effect (e.g. acid, which
+causes wounds in the normal manner) are rated
+according to the difficulty of the END check required
+to resist their effects. If the Effect of the check is
+positive, the Traveller has not been affected; if it is
+negative they have. If the Effect is exactly zero, then
+in some cases the Traveller could become a carrier
+for the disease or agent, or have a delayed onset of
+symptoms. If so, a second attempt to resist the agent
+is made when it finally manifests itself.
+Remember that a properly protected Traveller cannot
+be affected by an agent. For example, someone in a
+gas-proof suit cannot be attacked by gas unless the
+suit is breached or deliberately unsealed.
+
+Diseases, Toxins and Chemicals
+
+A Traveller cannot be affected by an agent if they are
+not exposed to it, so someone who maintains vacc suit
+protocol whilst in a disease area and undergoes proper
+decontamination after leaving runs no risk unless a
+critical error has been made.
+
+The Referee might choose to determine if the Trveller
+is affected at the time of exposure, or instead make the
+determination after the agent’s Delay period, making
+the determination at the point where symptoms would
+appear. Effects are then applied and after the agent’s
+Interval a new determination is made to see if the
+Traveller is still affected or has begun to recover.
+
+73
+
+

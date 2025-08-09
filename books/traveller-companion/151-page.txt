@@ -1,0 +1,164 @@
+Distance Variance
+2D + Astrogator’s
+Effect
+
+Distance Variance
+
+2 or less
+
+110-3D diameters. Bad Jump
+
+3
+
+110-2D diameters. Bad Jump
+
+4
+
+105-1D diameters. Bad Jump
+
+5
+
+100+2Dx10 diameters. Bad Jump
+
+6
+
+100+2Dx5 diameters
+
+7
+
+100+4D diameters
+
+8
+
+100+3D diameters
+
+9
+
+100+2D diameters
+
+10
+
+100+1D diameters
+
+11
+
+100+D3 diameters
+
+12 or more
+
+100 Diameters exactly
+
+Time Variance
+2D + Engineer’s Effect
+
+Time Variance
+
+2 or less
+
+16D Hours. Bad Jump
+
+3
+
+10D Hours. Bad Jump
+
+4
+
+8D Hours. Bad Jump
+
+5
+
+6D Hours. Bad Jump
+
+6
+
+5D Hours
+
+7
+
+4D Hours
+
+8
+
+3D Hours
+
+9
+
+2D Hours
+
+10
+
+1D Hours
+
+11
+
+1D3 Hours
+
+12 or more
+
+160 Hours exactly
+
+If a Bad Jump is indicated, see page 151-152.
+
+Variance can be long or short. Roll 1D: Odd indicates that
+the jump is long in duration, even indicates it is short.
+
+BAD JUMPS
+
+Bad jumps are not confined to Misjumps – some
+systems are notorious for unpleasant jump
+effects, for no known reason. In other cases, a
+hurried insertion or decayed jump plot may also
+merit a bad jump. A decayed plot is a set of jump
+parameters generated for use under slightly different
+circumstances (for example, the ship might have
+significantly changed its speed and heading since the
+plot was generated) or a plot that is more than 3D
+hours old. Jump plots are sufficiently complex that
+they decay quickly. At first this will cause a bad jump;
+severe decay in the plot will cause a misjump.
+If the jump variance rules are in use, ill-effects will
+be felt by the crew and passengers if either Variance
+table indicates a Bad Jump. If both tables indicate a
+Bad Jump, the effects will be magnified as per Very
+Bad Jumps on page 152.
+A Bad Jump typically produces a feeling of dislocation
+and confusion, often accompanied by nausea and
+headaches, at the moment of entry and some time
+before emergence. Everyone aboard the vessel must
+make an END and INT check. One of these checks is
+at Routine (6+) difficulty and the other at Difficult (10+)
+difficulty level. A Traveller can choose which check is
+taken at each difficulty level.
+The END check determines if physical effects are
+present. These include nausea and possibly vomiting,
+plus often a blinding headache. If the END check is
+failed, all checks the Traveller attempts are subject to a
+DM equal to the Effect of the failure for 2D hours after
+entry into jump and again after emergence.
+An Effect of -6 or worse indicates the Traveller is
+incapacitated; unconscious or wishing he was, for
+2Dx30 minutes after which a DM-6 applies on all
+checks for the following 4D hours.
+
+THE JUMP DRIVE
+
+The Distance and Time Variance tables give typical
+jump characteristics. The Effect of the astrogator’s skill
+check to set up the jump plot is used as a DM on the
+Distance Variance table. The Effect of the engineer’s
+skill check is used as a DM on the Time Variance table.
+In general, the better the plot and jump entry, the closer
+the jump will be to baseline parameters. A model jump
+of exactly normal duration and emergence is at 105
+diameters to create a margin of safety, although a very
+good plot can bring the ship out at exactly the 100
+diameter limit and shave some time off the journey.
+
+If the variance indicates the emergence point is closer
+to the target than the 100 diameter limit, the vessel is
+precipitated out of jumpspace at the 100 diameter limit,
+suffering the effects of jump precipitation on page 150.
+
+151
+
+

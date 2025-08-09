@@ -1,0 +1,286 @@
+LIGHT CRUISER
+
+CLASS: STARBURST OF EXTREME HEROISM
+
+The Starburst of Extreme Heroism-class, or SEHclass for short, is a common sight throughout
+Imperial space and may be found serving in many
+of the empire’s numbered fleets. It is essentially a
+
+TL15
+
+TONS
+
+COST (MCR)
+
+30,000 tons, Streamlined
+
+—
+
+1800
+
+Radiation Shielding
+
+—
+
+750
+
+Reinforced
+
+—
+
+900
+
+Armour
+
+Bonded Superdense, Armour: 8
+
+1,920
+
+1728
+
+M-Drive
+
+Thrust 6
+
+1,800
+
+3600
+
+J-Drive
+
+Jump 4
+
+3,005
+
+4507.5
+
+Power Plant
+
+Fusion (TL15), Power 38,800
+
+1,940
+
+3880
+
+Fuel Tanks
+
+J-4 x2, 8 weeks of operation
+
+12,388
+
+—
+
+Bridge
+
+Holographic Display
+
+60
+
+187.5
+
+Computer
+
+Core/100
+
+—
+
+130
+
+Core/90 (backup)
+
+—
+
+120
+
+Advanced
+
+5
+
+5.3
+
+Distributed Arrays
+
+10
+
+10.6
+
+Enhanced Signal Processing
+
+2
+
+8
+
+Military Countermeasures
+
+15
+
+28
+
+Meson Spinal Mount (TL15)
+
+6,000
+
+2600
+
+Fusion Barbettes (long range) x5
+
+25
+
+25
+
+Triple Turrets (long range beam
+lasers) x50
+
+50
+
+143.75
+
+Basic Ship Systems
+
+Triple Turrets (missile racks) x150
+
+150
+
+487.5
+
+Triple Turrets (sandcasters) x10
+
+10
+
+17.5
+
+Manoeuvre Drive
+
+Small Tractor Beam Bays (energy
+inefficient) x3
+
+150
+
+210
+
+Screens
+
+Nuclear Dampers x10
+
+100
+
+100
+
+Ammunition
+
+Missile Storage (3,600 missiles)
+
+300
+
+—
+
+Sandcaster Storage (400 barrels)
+
+20
+
+—
+
+Fuel Processor (5,000 tons/day)
+
+250
+
+12.5
+
+Fuel Scoops
+
+—
+
+—
+
+Armouries x19
+
+19
+
+4.75
+
+Barracks x30
+
+60
+
+3
+
+Briefing Rooms x2
+
+8
+
+1
+
+Brig
+
+4
+
+0.25
+
+Medical Bays x3
+
+12
+
+6
+
+Hull
+
+Sensors
+
+Weapons
+
+Systems
+
+230
+
+more rounded and streamlined version of the larger
+Ghalalk-class cruiser. The form factor of the two
+ships is basically the same with less space for bays
+and other accoutrements on the SEH.
+
+Repair Drones
+
+300
+
+60
+
+UNREP System (100 tons/hour)
+
+5
+
+2.5
+
+Workshops x10
+
+60
+
+9
+
+Crew
+Captain, Pilots x3,
+Astrogator, Engineers
+x65, Gunners x 172,
+Maintenance x20,
+Medics x3, Marines
+x 30, Officers x27,
+Administrators x10
+
+Hull: 16,500
+Running Costs
+MAINTENANCE COST
+MCr1.813632/month
+PURCHASE COST
+MCr21764.335
+
+Power Requirements
+60,000
+18,000
+Jump Drive
+12,000
+Sensors
+16
+Weapons
+2,344
+Fuel Processor
+250
+
+

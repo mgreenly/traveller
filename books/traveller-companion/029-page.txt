@@ -1,0 +1,118 @@
+Power Values
+Power
+
+Degree of Power
+
+Notes
+
+0
+
+Powerless
+
+The individual has virtually no resources they can bring to bear other than their
+own personal possessions.
+
+1
+
+Weak
+
+Has a few friends or contacts who might be willing to help; the equivalent of a
+typical band of Travellers.
+
+2
+
+Useful
+
+Has a significant asset such as a small starship and crew, or a small force of
+skilled mercenaries, high-end lawyers or the like.
+
+3
+
+Moderately
+Powerful
+
+Has access to very significant assets such as a mercenary unit or a modest
+sized business entity.
+
+4
+
+Powerful
+
+Has powerful assets, equivalent to a small merchant shipping line or major
+business group.
+
+5
+
+Very Powerful
+
+Has enormous power, such as someone in the top echelons of a planetary
+government or the CEO of a large shipping line.
+
+6
+
+Major Player
+
+Is a factor in interstellar politics, such as a navy admiral or an official in an
+interstellar government.
+
+Influence Values
+Degree of Influence
+
+Notes
+
+0
+
+No Influence
+
+Has virtually no influence over anyone.
+
+1
+
+Little Influence
+
+Owed a couple of favours by minor officials and local notables such as the
+leader of a street gang or a port authority official.
+
+2
+
+Some Influence
+
+Has one or more minor local notables ‘in their pocket’ and can get them to act
+illegally or dangerously on the odd occasion.
+
+3
+
+Influential
+
+Has some influence over powerful people such as mid-level planetary
+government officials or rich portside merchant factors.
+
+4
+
+Highly Influential
+
+Has some influence at the interplanetary level with government or underworld
+figures that owe him a favour or two.
+
+5
+
+Extremely
+Influential
+
+Has very significant influence at the interstellar level and can lean on lawmakers
+or officials in interstellar government.
+
+6
+
+Kingmaker
+
+Has the ear of extremely powerful people, such as the ruling noble of the
+local subsector.
+
+Allies, contacts, rivals and enemIes
+
+Influence
+
+29
+
+

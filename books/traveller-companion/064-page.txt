@@ -1,0 +1,87 @@
+ATMOSPHERE AND VACUUM
+Humans and most similar creatures need a particular
+mix of gases, at roughly the right temperature and
+pressure, to survive. Even if these conditions are met
+there may be something in the air that is harmful or
+even fatal. A fluid environment such as underwater is
+an atmosphere of sorts, although the greater densities
+of fluids result in a much quicker increase in pressure
+as depth increases.
+
+PRESSURE
+Almost any conceivable kind of creature requires
+gas or fluid around it to balance its own internal
+pressure. A science-fiction game like Traveller can
+stretch a point to allow extremely low-pressure or
+even vacuum dwelling animals, but they are likely to
+be rare and highly unusual.
+The baseline for measuring atmospheric pressure is
+that of Earth’s atmosphere at sea level, a measure
+imaginatively known as one Atmosphere. The following
+general levels of pressure are used in Traveller:
+
+64
+
+Very Thin Atmospheres (Atmosphere 2–3) are
+experienced on Earth in places like the top of Mount
+Everest, where pressure is about a third of an
+Atmosphere. This is enough to support respiration for
+a period but not indefinitely. Effects such as nausea,
+disorientation and dizziness become gradually worse
+until the subject becomes incapable of functioning
+coherently. It is possible that creatures could develop
+which are adapted to these conditions.
+Thin Atmospheres (Atmosphere 4–5) can be
+tolerated indefinitely by humans who have become
+acclimatised but those who are not used to the thin air
+may be prone to altitude sickness, which can cause
+confusion, headaches and nausea. Even individuals
+not affected by altitude sickness will tire quickly and not
+rest well until they become used to the conditions. The
+equivalent on Earth is encountered at altitudes from
+about 2,000 to 4,000 metres, in pressures of around
+two-thirds of an Atmosphere.
+
+Hard Vacuum (Atmosphere 0) means there is no (or
+virtually no) gas pressure. Hard vacuum will render
+humans unconscious in 10–15 seconds or so and kill
+them within two or three minutes.
+
+Standard Atmospheres (Atmosphere 6–7) are
+roughly comparable with that found on Earth at sea
+level, to within a third greater or less pressure. This
+is optimal for the comfort and well-being of most
+Terran humans, although those adapted to different
+environments may be uncomfortable.
+
+Partial Vacuum (Atmosphere 0) means there may be
+some air or other gases present but full protective gear
+is needed. Partial vacuum will kill a human about half
+as fast as hard vacuum, basically just ensuring the
+victim suffers for a while longer.
+
+Dense Atmospheres (Atmosphere 8–9) with a
+pressure up to 2 Atmospheres can be uncomfortable
+for normal humans but are breathable. The combination
+of dense atmosphere and high humidity produces a
+sensation rather like drowning.
+
+Trace (or minimal) Atmosphere (Atmosphere 1) is
+not breathable by humans but will not kill them quickly.
+Enough gas pressure exists that an unprotected
+person could function for a few minutes so long as
+an air supply was available. Prolonged exposure will
+be harmful, however, so pressure suits are advisable
+except in extreme emergencies. Life is possible
+in these conditions but not in forms commonly
+encountered on Earth.
+
+Extremely Dense Atmospheres (Atmosphere 10–13)
+of greater than 2 atmospheres pressure can be coped
+with for short periods with careful compression and
+decompression, and a suitable air supply (in the
+manner used by divers), but without careful pressure
+adjustment and support equipment humans cannot
+survive in this environment.
+
+

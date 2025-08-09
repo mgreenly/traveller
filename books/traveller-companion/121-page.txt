@@ -1,0 +1,107 @@
+The ‘3 Hs’ can be helpful to the Referee in deciding on
+an adventure. If the Travellers are to be running around
+unhindered in the countryside, the adventure needs to
+be set on a Habitable or perhaps minor Hazard world.
+One set on a Hostile planet will require more equipment
+and there are some encounters that simply cannot
+occur in this environment. In some cases, such as oneoff adventures, the Referee might decide which H is
+required and then assign a UWP code to create one.
+
+GENERAL CHARACTERISTICS
+
+The Travellers’ first impressions of a world are
+usually determined by the Atmosphere code, with
+Size and Hydrographics playing a smaller part. Upon
+closer approach, settlement patterns will be noted.
+These factors create the general characteristics of
+the world, summed up by Travellers as ‘what’s it like
+and who lives here?’
+
+EXOTIC WORLDS
+
+Exotic worlds tend to be settled in order to exploit
+resources rather than because anyone wants to live
+there. They typically require specialist life support
+equipment, which pushes people into larger and
+more centralised settlements. Most Exotic worlds
+are obviously different to the norm, such as a large,
+high-gravity planet which has no atmosphere or one
+whose atmospheric composition is highly unusual.
+Life on an Exotic world tends to be very strange to
+humans, although creatures may not be inimical.
+Exotic worlds tend to fall into the Hazard category,
+although sometimes they are dangerous enough to
+be considered Hostile.
+
+HABITABLE WORLDS
+
+Habitable worlds typically look the part, with vibrant
+blues and greens of water and vegetation, with an
+amount of clouds indicated by the Hydrographics
+code. Borderline worlds with an atmospheric taint
+may look much the same, although many taints
+discolour the atmosphere.
+
+Habitable worlds are by far the most diverse in terms
+of culture and technology. Easy living conditions
+and local food mean Habitable worlds are the most
+desirable for settlement. No reason is needed beyond
+‘a good place to live’. One consequence of this is
+that secondary colonisation often takes place when a
+Habitable world is opened up. The main colonial effort
+may be well-funded and lead to carefully planned cities
+but secondary landgrabs may be much less organised.
+It is not uncommon to find Habitable worlds with a
+central city culture that is quite different from that of the
+outback homesteads. In extreme cases, the capital/
+starport and the rest of the planet might as well be in
+different star systems, so different are their societies.
+
+HAZARD WORLDS
+
+Hazard worlds vary considerably, although their nature
+is often obvious on approach. Planets characterised
+by desert, covered in icefields or water will typically
+be identifiable ‘by eye’, as can the presence of some
+atmospheric taints. The severity of a taint will determine
+whether Travellers consider the place borderline
+Habitable or a Hazard world.
+Hazards can have variable effects on a world’s
+settlement pattern. Atmospheric taints, unless very
+serious, tend not to influence settlement too much.
+People will spread out just as readily as they do on
+Habitable planets, providing the taint can be handled
+with simple measures such as masks and sealed
+dwellings. Other hazards tend to concentrate people
+either where they can live most easily or where life
+support can be readily provided.
+
+Interpreting UWP Data
+
+To qualify as Habitable, a world requires a Thin,
+Standard or Dense atmosphere (code 5,7 or 8) and
+sufficient water to support a diverse ecosystem
+– Hydrographics code 3–9. This alone does not
+necessarily indicate a ‘garden world’; there may be
+other factors that make it less than attractive as a
+home. Those most suitable for settlement are called
+Habitable by Travellers, although the term is used in a
+wider sense by surveying agencies to mean any world
+that can support sentient life.
+
+They may show a tight settlement pattern but those
+with an indigenous population or where settlers
+have had time to spread out will tend to have more
+dispersed and random population groupings. There
+is little to prevent small groups from heading into
+unclaimed territory and creating a town, unless
+colonial development is strictly controlled. As a result,
+Habitable worlds tend to have a group of major cities
+with fringe areas between them, in which society and
+available technology can vary considerably. There is
+also the possibility of indigenous societies or races,
+splinter groups and the like.
+
+121
+
+

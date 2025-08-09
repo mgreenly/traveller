@@ -1,0 +1,84 @@
+STARVATION AND THIRST
+Being hungry and thirsty is not much of a problem
+when the Travellers are a few minutes’ walk from their
+favourite starport restaurant. However, the need to
+locate proper sources of food and water can be a major
+driving factor when out in the wilds. Hunger and thirst
+are often limiting or ‘pushing’ factors, in the sense that
+a particular action may not be possible due to the need
+for more supplies than the Travellers can carry, or an
+indication that the Travellers need to get moving before
+their supplies run out.
+These rules are normally an indication of what-is-tobe-avoided. Occasionally, things may go wrong and
+the Travellers might find themselves in a bad situation.
+Knowing how long they can survive might suddenly
+become very important.
+
+LACK OF PROPER FOOD
+A typical human needs about one kilogram of
+decent food per day to avoid beginning to starve. It
+is possible to survive with no food or minimal food
+for a number of days equal to the Traveller’s END
+score before any real harm is suffered, providing the
+Traveller has sufficient water. During this period of
+pre-starvation, the Traveller heals normally and is not
+greatly impaired, although they will be in considerable
+discomfort and may lack energy.
+Assuming the Traveller engages in modest levels
+of activity, starvation begins to take effect after the
+Traveller’s END score in days. After this, the Traveller
+can function for another period equal to twice his END
+score in days, during which he does not heal from
+injuries and is sufficiently impaired to suffer DM-2 on
+any physical actions.
+Symptoms of severe starvation appear after this period,
+and can lead to death. The highest of the Traveller’s
+STR and END is reduced by one each day – determine
+randomly if they are equal. When one or the other
+reaches zero, the Traveller collapses and cannot take
+any further action. Their highest physical attribute (this
+is likely to be DEX at this point) is then reduced by one
+per day until all three physical attributes reach zero. At
+that point the Traveller will die.
+
+80
+
+Recovering from starvation depends on at what
+stage the Traveller begins to eat properly again. If
+the Traveller gains access to sufficient food (i.e. more
+than what would be required to prevent starvation)
+at any time before they begin to lose points from
+STR and END, each day of eating erases one day of
+starvation. A medically tailored diet or consumption of
+high-quality foods increases this to two or even three
+days. So, a Traveller who has had no food for 11 days
+might stuff themselves with high-protein foods upon
+their return to civilisation. After two days of this, they
+have erased four days from their ‘starvation clock’
+but have not rebuilt their body’s reserves. If the food
+supply is cut off, they are treated as already having
+suffered seven days of starvation.
+It is possible to eke out a Traveller’s supplies, for
+example by eating just enough food one day and
+starving the next but this does not ‘reset the clock’
+– the only way to do that is to rebuild the Traveller’s
+reserves by eating a good diet for a number of days
+equal to the time the Traveller was on the brink of
+starvation. Days when the Traveller is able to eat
+enough do not rebuild their reserves but do prevent
+things from getting any worse.
+If a Traveller has suffered a reduction to STR, DEX or
+END due to starvation, the effects will be very visible
+and reversing them requires a lengthy process. One
+point is recovered to each damaged characteristic per
+week of good diet. This period can be reduced by the
+Effect of a Difficult (10+) Medic check.
+A typical person (physical characteristics of 7, 7 and
+7) can last 7 days without ill effects, 14 more with
+moderate ill effects and then begins to deteriorate.
+They will collapse after 13 more days, then linger
+in semi-conscious misery for eight more. Time from
+beginning to end is 42 days. This may seem like a long
+time but real-world incidents produce similar results.
+
+

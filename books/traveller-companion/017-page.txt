@@ -1,0 +1,147 @@
+METROPOLIS
+STR
+
+-1
+
+INT
+
+DEX
+
+—
+
+EDU
+
+END
+
+-1
+
+WATER WORLD
+—
+
+BENEFITS
+
++2 Cr10000, Portable
+SOC — Computer
+
+STR
+
+—
+
+INT
+
+—
+
+BENEFITS
+
+DEX
+
+—
+
+EDU
+
+—
+
+Cr5000
+
+END
+
++1 SOC
+
+—
+
+SKILLS
+
+SKILLS
+
+Admin 1, Advocate 0, Broker 0, Carouse 0,
+Diplomat 1, Drive 0, Electronics (comms or
+computers) 1, Profession (any) 2, Streetwise 1,
+
+Admin 0, Athletics 0, Carouse 0, Electronics
+0, Navigation 1, Profession (any) 1, Recon 1,
+Seafarer (any) 2, Survival 0
+
+The Metropolis package is
+available to Travellers who
+grew up in a high population
+density environment, such as
+a high-population world or very
+crowded city. People from such
+an environment tend to be
+tailored to it and generally better
+educated but less physically fit
+than those from less crowded environments.
+
+SPACE HABITAT
+INT
+
+CAREER PACKAGES
+
+STR
+
+—
+
+DEX
+
++1 EDU
+
++1 Cr5000, Vacc Suit
+
+END
+
+-1
+
+—
+
+SOC
+
+—
+
+The Water World package is
+available to Travellers who
+grew up on very wet worlds
+(Hydrographics code 9 or 10),
+in contact with the natural
+environment of the world.
+Those who dwelt in a city that
+happened to be underwater
+but were little affected by the
+maritime environment, should use the Developed
+World or Metropolis package.
+
+BENEFITS
+
+SKILLS
+
+The Space Habitat package
+is available to Travellers who
+grew up in a ‘city in space’ or
+aboard a starship. Denizens
+of orbital cities or those whose
+family worked at a highport
+should use this package;
+those who had a more roughand-ready upbringing should
+use the Belter package instead.
+
+A career package is equivalent to a full career in the
+chosen area and only one can be taken. Roll 3D for how
+many years the Traveller has aged during his career;
+this need not correspond to a normal term length.
+
+alternate character creation
+
+Admin 0, Astrogation 0, Athletics (dexterity)
+1, Electronics (any) 1, Engineer (life support)
+1, Mechanic 0, Profession (any) 1, Science 0,
+Steward 0, Vacc Suit 0
+
+A career package replaces the Traveller’s normal path
+through career generation and provides a set of fixed
+benefits. A career package replaces all Benefit rolls,
+life events and all other sources of extra skills, with one
+exception – a group of Travellers may still select skills
+from an appropriate skills package before play begins.
+
+17
+
+

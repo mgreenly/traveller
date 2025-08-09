@@ -1,0 +1,124 @@
+T
+
+The standard year in Traveller is based on the Terran
+year; i.e. 365 days. Named months are rarely used;
+instead, the day of the year is used as the date, with
+Day 1 being equivalent to the 1st of January and
+Christmas Day being Day 358. Dates are usually given
+in the format Day-Year, e.g. 056-1111 is the 56th day of
+the year 1111 since the Third Imperium was founded.
+Weeks, of seven days, are important mainly in
+terms of local and shipboard time. Each day has
+a name: Oneday, Twoday, and so on. There is no
+overall significance to any given day but many local
+cultures have special or holy days. These might be
+fixed (e.g. Day 22 of each year), semi-fixed (e.g. the
+seventh Fiveday of the year) or may vary (e.g. the
+Emperor’s Birthday).
+One week (168 hours) is the baseline time for a
+single starship jump, although actual duration varies
+by slightly more than a day and a half each way in
+a normal jump and more in the case of a misjump.
+Many starship crews work on a two-week cycle; the
+time taken to leave port, manoeuvre to the jump point,
+jump to a new destination, manoeuvre to land and
+then spend a few days in port conducting business
+(and just getting out of the ship for a while!), tends to
+be around two weeks.
+
+Refereeing Traveller
+
+Most commercial starships make two jumps in a
+four-week period. For whatever reason (probably
+because on a fixed two-world trade route, two jumps
+is there-and-back), most starships work on a monthly
+accounting period, paying crew and calculating
+expenses each month. This is one of the few uses of
+the month in Traveller and, of course, one ship’s month
+may not be the same as another’s.
+
+114
+
+Distances between star systems are measured in
+parsecs. Parsec is a contraction of Parallax Second,
+a name determined from the mathematical/scientific
+method used to define it and corresponds roughly
+to 3.26 light years. In other words, a parsec is the
+distance a radio message, a photon, or other lightspeed
+phenomenon would travel in 3.26 years. Starship jump
+drives are capable of covering one to six parsecs per
+jump (depending on the drive type). Star maps are laid
+out in one-parsec hexes, some of which contain star
+systems. Other hexes have no system but may not
+actually be empty. Rogue planets, comets and other
+objects may lie between star systems, although finding
+them in a vast area of empty space is problematic (see
+The Great Rift box set for this type of exploration).
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Star systems are not all neatly spaced at one-parsec
+intervals apart but jumps within a certain distance use
+the same amount of fuel so it does not really matter to
+a jump-capable ship whether two systems are 3.44 or
+2.96 light years apart; the journey requires a jump-1
+engine and a jump-1 worth of fuel in either case.
+The actual distance between star systems would
+matter for a non-jump capable ship travelling between
+them but this is very rarely done due to the immense
+time taken to get anywhere. Indeed, the jump drive
+is often used for in-system jumps (sometimes called
+microjumps) where the time required to cover
+the distance in real space is longer than a week.
+Microjumps need a jump-1 engine and use a jump-1
+worth of fuel, as fractional jump drives have never been
+invented and may not be possible. Likewise, other than
+in the case of misjumps (which are dangerous and not
+predictable), it is not possible to cover more than six
+parsecs in one jump in a standard Traveller universe.
+
+CREATING HUMAN AND
+ALIEN SOCIETIES
+
+To be plausible, a society must make sense when
+viewed from its own perspective. The rules governing
+a society may be complex to the point of being
+incomprehensible but they must be consistent.
+Weirdness for its own sake quickly becomes
+unbelievable and makes it difficult for the Travellers to
+make useful deductions or informed choices. To put
+that another way; everything happens for a reason,
+even if that reason makes no sense to outsiders.
+This does not mean that variation cannot exist. Quite
+the opposite, in fact. Even within a major interstellar
+empire, cultural values and Tech Levels may vary
+considerably. There are all manner of reasons why this
+might be but the commonest is simple economics. A
+world that has a small population and little industrial
+base cannot trade for the high-tech goods it needs to
+improve its Tech Level and there is little incentive for
+others to invest in bettering the lot of a backward planet.
+So within a few parsecs of one another, there might
+be a number of very low-technology worlds and
+several high-tech ones, with others in between.
+Technology is often a mix of local and whatever
+higher-tech imports can be afforded and kept
+running. It is not uncommon to see steam trains or
+internal-combustion cars operating alongside the
+grav vehicles and starships of a rich elite.
+
+R
+
+

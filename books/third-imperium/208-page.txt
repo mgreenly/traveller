@@ -1,0 +1,232 @@
+ARGUSHIIGI
+ADMEGULASHA BILANIDIN
+(THE LIBRARIAN OR ‘LIBBY’)
+
+CLASS: AZHANTI HIGH
+
+LIGHTNING CRUISER
+
+Libby is a refurbished Azhanti High Lightning-class
+cruiser permanently assigned to the Reference
+scout base. She has been modified for use by the
+scouts; the fighter wing, launch tubes and recovery
+deck have been replaced by docking spaces for
+
+TL15
+Hull
+Armour
+
+TONS
+
+COST (MCR)
+
+60,000 tons, Standard
+
+—
+
+3000
+
+Reinforced
+
+—
+
+1500
+
+Bonded Superdense, Armour: 5
+
+2,400
+
+1800
+
+Running Costs
+
+Hull: 33,000
+
+M-Drive
+
+Thrust 2
+
+1,200
+
+2400
+
+MAINTENANCE COST
+
+J-Drive
+
+Jump 5
+
+7,505
+
+11257.5
+
+MCr2.2264734/month
+
+Power Plant
+
+Fusion (TL12), Power 54,150
+
+3,610
+
+3610
+
+PURCHASE COST
+
+Fuel Tanks
+
+J-5, 8 weeks of operation
+
+30,722 —
+
+Bridge
+Computer
+Sensors
+Weapons
+
+Ammunition
+Screens
+Craft
+
+208
+
+eight Type-S scout/couriers and two full hangars
+where they are serviced. The armouries have been
+replaced with laboratories, libraries and a mail
+distribution array.
+
+Core/80
+
+60
+
+300
+
+—
+
+95
+
+Improved
+
+3
+
+4.3
+
+Distributed Arrays
+
+6
+
+8.6
+
+Particle Accelerator Spinal Mount
+(TL12)
+
+6,300
+
+2200
+
+Small Missile Bays x24
+
+1,200
+
+288
+
+Fusion Barbettes x40
+
+200
+
+160
+
+Triple Turrets (pulse lasers) x199
+
+199
+
+796
+
+Triple Turrets (sandcasters) x130
+
+130
+
+227.5
+
+Missile Storage (2,880 missiles)
+
+240
+
+—
+
+Sandcaster Storage (3,900 barrels)
+
+195
+
+—
+
+Meson Screens x6
+
+60
+
+120
+
+Nuclear Dampers x5
+
+50
+
+50
+
+Docking Spaces (40 tons) x5
+
+220
+
+55
+
+Pinnaces x5
+
+—
+
+43.56
+
+Docking Spaces (100 tons) x8
+
+880
+
+220
+
+Scout/Couriers x8
+
+—
+
+295.524
+
+Hangars (100 tons) x2
+
+400
+
+80
+
+Docking Spaces (400 tons) x4
+
+1,760
+
+440
+
+Fuel Shuttles x4
+
+—
+
+360.828
+
+MCr26717.680
+
+Power Requirements
+Basic Ship Systems
+12,000
+Manoeuvre Drive
+12,000
+Jump Drive
+30,000
+Sensors
+8
+Weapons
+3,637
+Fuel Processor
+200
+
+

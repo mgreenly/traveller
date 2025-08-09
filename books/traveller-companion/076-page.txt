@@ -1,0 +1,58 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+ATLANTA HAEMORRHAGIC FEVER
+
+Nature: Blood-borne, natural disease
+Difficulty: Formidable (14+)
+Stage 1: After an incubation period of 4D+12 hours, the victim begins to display flu-like symptoms. This soon
+proceeds to minor ‘bleeds’ both internally and externally.
+Stage 2: After 4D hours, the disease proceeds to Stage 2 unless a Formidable (14+) END check is made.
+The victim suffers serious internal haemorrhaging resulting in collapse and death. If the check is successful,
+the victim will recover over the course of 1D+2 days.
+Notes: Haemorrhagic fevers cause a breakdown in the walls of blood vessels and organs. Most are less
+than 30% fatal but this very nasty variant is almost always terminal. It can only be passed by contact with
+bodily fluids, notably blood. An outbreak of a disease this virulent would normally result in the quarantine
+of the entire affected area, creating interesting plot possibilities. A small community such as a backwater
+starport could be completely wiped out in between starship visits or, worse, infected individuals might be
+taken elsewhere aboard a passing ship.
+
+QUARETE FEVER
+
+Nature: Natural ailment, can be weaponised as a bio-weapon
+Difficulty: Average (8+)
+
+Diseases, Toxins and Chemicals
+
+Stage 1: After an incubation period of 2D+8 days, the victim begins to display symptoms of fever,
+headache and possibly chest pain and coughing. Pneumonia is very common as a secondary effect. END
+and STR are both reduced by 1D each, to a minimum of 1. The patient is contagious during stage 1 but
+ceases to be once symptoms appear.
+
+76
+
+Stage 2: After 2+2D days, the patient begins to recover at the rate of one point each of STR and END
+per day. This period is halved to 1D+1 days if medical treatment is available. Most patients recover
+without long-term effects.
+Notes: Quarete fever is very rarely fatal. It does, however, debilitate the victim and make them a carrier.
+Stage 1 sufferers have DM-2 applied against any and all tasks undertaken. Quarete Fever is sometimes
+used as a non-lethal biowarfare agent because it can debilitate personnel for long periods and is often
+mistaken for naturally occurring pneumonia. If weaponised, Quarete Fever can be dispersed as a vapour,
+infecting victims in the same way as any other droplet-borne virus.
+
+R
+
+

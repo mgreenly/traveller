@@ -1,0 +1,118 @@
+More extreme atmospheric conditions can result
+from oddly shaped worlds or unusual surface
+features, or from very high or very low atmospheric
+pressure. A world with very pronounced equatorial
+bulges might have significant pressure differences
+between the equator and the poles, making one or
+the other hazardous. Alternatively, a world with a
+very thin atmosphere might have deep valleys where
+the air is breathable and one with an excessively
+dense atmosphere could have plateaux or mesas
+where again the air is at a breathable pressure.
+Whilst a technological society could build cities
+anywhere, travel between these safe zones might be
+hazardous and a regressed colony might be broken
+into isolated sub-groups by the invisible barriers
+between habitable regions.
+
+LANDING IN DIFFICULT TERRAIN
+Starships and grav vehicles do not usually need to
+make a rolling, aerodynamic landing, although it is
+still common to approach a landing area on a gradual
+descent in the manner of a winged flying vehicle as this
+reduces clutter in the airspace directly above the port.
+A relatively light grav vehicle such as an air/raft can
+land almost anywhere; even on water if it is capable of
+floating. Starships have rather more ground pressure
+and normally require a prepared landing area.
+
+Starship Landing
+Distance From Target
+
+0 or less
+
+No suitable landing site is found
+within 100km x the planet’s Size code
+
+1–3
+
+A suitable landing site is located
+within 2D x 10 x the planet’s Size
+code from the target
+
+4–7
+
+A suitable landing site is located
+within 2D x the planet’s Size code
+from the target
+
+8–11
+
+A suitable landing site is located
+within 2D km from the target
+
+12–14
+
+A suitable landing site is located
+2Dx100m from the target
+
+15 or more
+
+A suitable landing site is located
+within a few metres of the target
+
+Wilderness landings are more hazardous. It is not
+possible to be entirely certain the terrain is as firm
+or even as it looks. A good sensors operator can
+take a lot of the guesswork out of finding a suitable
+landing site but nothing is certain. If the Travellers fly
+around looking for somewhere suitable to land their
+ship, they must make a Difficult (10+) Electronics
+(sensors) check (2D x 10 minutes, INT) and apply
+the Effect as a DM on the Starship Landing table.
+DM-2 applies per attempt after the first.
+This assumes active sensors such as radar are in use,
+which will advertise the Travellers’ presence to anyone
+scanning for electromagnetic emissions. If a site is
+to be ‘eyeballed’ instead using only passive sensors,
+the Recon or Pilot skill can be used but the check is
+Very Difficult (12+) and the landing is subject to all the
+potential hazards of a wilderness landing.
+If the Travellers successfully locate a suitable landing
+area or one is marked for them, the landing is no more
+difficult or hazardous than usual. Gusts and eddies might
+make things tricky for the pilot but the ground will support
+their ship once it gets down. If, on the other hand the
+Travellers choose to put their ship down right here, they
+are exposed to all the risks of a wilderness landing.
+Assuming the pilot makes some attempt to land in a
+fairly clear area, a Difficult (10+) Pilot check (DEX) is
+required to get the ship on the ground safely. If the
+Travellers decide to land in a particularly hazardous
+area this check is Formidable (14+). For example, the
+Travellers decide to set down in very rugged terrain
+or settle into the treetops and allow their ship’s weight
+to crunch through the branches until they reach the
+ground. The Effect of this check is applied to a 2D roll
+on the Wilderness Landing table.
+A ship can become stuck against solid objects like
+rocks or buildings, or may sink into ground that is softer
+than it looked. This may require digging, shoring up of
+loose ground, or other heavy work to free the vessel.
+
+Terrain, Conditions and movement
+
+2D+Effect
+
+Travellers approaching a designated landing area,
+even if it is just a stretch of marked bedrock, can
+normally be confident it will support the weight of their
+ship. Disasters do happen, of course; a landing area
+might have been undermined by subsidence or even
+deliberately sabotaged to damage the next vessel that
+arrives. However, in most cases a prepared landing
+area will be able to support any craft that can fit on it.
+
+91
+
+

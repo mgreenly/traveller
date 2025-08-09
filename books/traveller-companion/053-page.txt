@@ -1,0 +1,153 @@
+Where these rules refer to medical attention, they
+do not mean a quick application of on-scene first
+aid with no follow-up. First aid will keep a Traveller
+with a severe wound from dying but will not prevent
+permanent effects. Only successful surgery and longterm care will suffice, requiring both medical skill and
+suitable equipment.
+
+When a Traveller takes a disabling wound, roll 2D
+on the following Disabling Wounds table, with the
+Traveller’s END modifier as a DM. In addition, the
+following modifiers are used:
+
+Final attack less than 3 points of damage
+
++4
+
+Final attack caused 4–6 points of damage +2
+
+Disabling Wounds
+2D
+
+Result
+
+2 or less
+
+The Traveller is vaporised, shredded,
+spread all over the landscape or
+otherwise destroyed in graphic and
+gruesome fashion.
+
+2–3
+
+The Traveller is either killed outright in
+a dramatic fashion such as having their
+head blown off, or lingers just long enough
+to make a final speech to their friends/
+enemies/passers-by. They cannot be
+saved in either case.
+
+4–5
+
+The Traveller will die unless given prompt
+medical assistance. If they survive,
+they will lose the limb that was injured,
+or an eye, or suffer some similar major
+permanent injury as determined by the
+Referee. This can of course be repaired
+with cybernetics but the process will be
+slow and expensive.
+
+6–7
+
+8–9
+
+12+
+
+-2
+
+COMBAT MISHAPS
+
+I
+The addition of Mishaps to the combat rules creates a
+possibility that even the most skilled of Travellers can
+have a bad day. If a combat-related skill check comes up
+a double-1 and is also a failure, a Mishap has occurred.
+If the skill check was so easy that the double-1 still
+succeeds, there is no Mishap but the attack still fails.
+If a Mishap does occur, roll 2D + the Traveller’s weapon
+skill on the Combat Mishaps table.
+
+Combat Mishaps
+2D
+
+Result
+
+2
+
+Shoot or hit themself for normal
+weapon damage.
+
+3–4
+
+The weapon is dropped somewhere
+inaccessible. It cannot be retrieved
+during this fight and if the Travellers are
+forced to flee it will not be recoverable.
+
+5–6
+
+The weapon is dropped but in sight. It
+can be recovered in a future round using
+a significant action.
+
+7
+
+The Traveller will survive despite their
+injuries, even without assistance, and will
+make a full recovery if medical attention is
+successfully provided.
+
+A minor weapon malfunction or loss
+of proper grip has occurred. Any
+attack made this round is wasted but
+the weapon can be brought back into
+action by making an Easy (6+) skill
+check next round. This takes significant
+action and, if failed, the attempt must
+be repeated every round.
+
+8–9
+
+The Traveller is terribly hurt but will
+somehow cling to life and begin to recover
+even if medical attention is not provided.
+
+A serious weapon malfunction has
+occurred, putting the weapon out of
+action until it can be fixed in a workshop.
+
+10–11
+
+The weapon is destroyed in ammunition
+explosion or other serious incident that
+causes critical structural damage to it.
+
+12+
+
+The skill attempt fails but no Mishap has
+occurred beyond that.
+
+The Traveller will die unless given prompt
+medical assistance and suffer permanent
+effects if they survive at all. Lose 1D from
+any one of STR, DEX or END and D3 from
+the others.
+The Traveller will survive if given even
+the most basic emergency assistance
+and suffer no ill effects providing they
+receive proper medical treatment whilst
+recovering. If it is not, the Traveller will
+permanently lose D3 points from both STR
+and END.
+
+Combat
+
+10–11
+
+Final attack caused more than 6 points
+of damage
+
+53
+
+

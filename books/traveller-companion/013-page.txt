@@ -1,0 +1,86 @@
+LTERNATE
+TRAVELLER CREATION
+
+A
+
+The career system in the Traveller Core Rulebook is
+a lot of fun but also takes time and does not always
+produce the right sort of Traveller for a campaign.
+The variations in this chapter allows a Traveller to be
+created quickly and tailored to a desired play style.
+
+OPTIONAL TRAVELLER
+CREATION RULES
+These rules replace one or more parts of the Traveller
+creation system, leaving the rest unchanged. Any,
+all or none of these alternatives may be used at the
+Referee’s discretion.
+
+IRON MAN
+
+In Classic Traveller, if you failed a survival roll, your
+Traveller was killed. The Iron Man rules repeat that
+challenge – instead of rolling on the Mishap table if
+you fail a survival roll, your Traveller is killed and you
+must start again. Under the Iron Man rules, you must
+balance the advantages garnered from spending
+another term in a career with the risk of dying in action.
+Other than these changes, Iron Man works just like
+normal Traveller creation.
+
+SOLO GENERATION
+
+Creating a Traveller on your own works just like normal,
+with the following minor changes:
+The Connections Rule: Instead of making connections
+to other Travellers, the Referee should provide a list
+of characters, organisations or places in his campaign
+suitable for connections. For example, you might get
+a bonus skill if you had a connection with the Imperial
+Intelligence service, or were on the run from the law
+and willing to take passage on the first ship to hire you.
+Skill Packages: Instead of picking a skill package, gain
+any one skill at Level 1.
+
+SKILL SELECTION
+
+In this variant, skills are picked from the Skills and
+Training tables instead of rolling randomly for them. In
+all other ways, it is identical to standard generation.
+
+ALTERNATE CHARACTERISTIC DETERMINATION
+Alternative methods of determining characteristics can
+be used, tailoring Travellers to the desired style of play.
+Boon Dice Method: The Referee may apply a Boon
+on any two characteristics of the Traveller’s choice,
+rolling 3D for those two characteristics and discarding
+the lowest dice. This practically guarantees a Traveller
+to have at least decent scores in the areas they desire.
+For truly heroic Travellers, Boon dice can be rolled on
+four characteristics, or even all of them.
+Assignment Method: Roll 12D and write down the
+value of each dice. These can then be assigned as
+whole dice to the Traveller’s characteristics as desired,
+allowing the Traveller to obtain high values where
+they are most desirable. For a heroic Traveller, delete
+any two dice scores and replace them with 5s. These
+values are assigned as the Traveller desires.
+
+MAXIMUM TERMS
+A Traveller sticking to well-paying and safe careers
+can avoid ageing almost indefinitely. The Referee may
+wish to impose a limit on the number of terms taken
+during Traveller creation. A limit of three terms will
+produce Travellers competent in one or two fields but
+still have a lot to learn. A limit of six or seven terms
+will give experienced and skilled Travellers who can
+take on dangerous missions. Past eight or nine terms,
+it becomes increasingly likely that the Travellers
+will be too rich and influential to bother with minor
+assignments. (‘I’m a duke, and my friend here was an
+admiral! Why are we wandering the galaxy instead of
+sitting in our palaces?’)
+
+13
+
+

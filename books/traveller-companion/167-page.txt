@@ -1,0 +1,92 @@
+MISSILES AND TORPEDOES
+In regions where missiles and torpedoes are popular
+weapons, vessels are often designed with both heavy
+anti-missile defences and the capability to saturate the
+defences of another ship using a huge salvo. The key
+to a saturation attack is simply number of weapons
+arriving at once – the same number spread over a few
+rounds might be defeated by point defences. Likewise,
+the best defence against a saturation attack is to thin it
+out early with antimissile fire from escorting craft, then
+stop the last few ‘leakers’ with point-defence fire.
+Defence against a large missile salvo might therefore
+take place in several stages – interception by areadefence missiles, interception by dogfight missiles and
+finally point-defence fire. An escorting ship can provide
+point-defence fire for its charge with beam weapons
+and can, of course, engage incoming missiles with
+dogfight or area-defence missiles.
+
+DOGFIGHT MISSILES (POINT-DEFENCE)
+
+A dogfight missile is a smaller version of the standard
+anti-shipping missile, optimised for fast response at
+close range. Dogfight missiles can be carried on a rail
+aboard a fighter or small craft rather than in standard
+missile launchers, with two missiles carried per
+firmpoint. Dogfight missiles have a maximum range
+of Close but gain an additional DM+4 to attack within
+this range (this includes when they are used with the
+Point Defence reaction, as detailed on page 160 of the
+Traveller Core Rulebook). Damage is 1D, making the
+missile ineffective against anything larger than a fighter
+or missile. This is not a drawback; dogfight missiles are
+often used to intercept incoming missiles and torpedoes
+or deal with small craft.
+
+The use of dogfight missiles allows an incoming salvo
+or flight of fighters to be engaged and thinned out
+before point defence fire.
+Weapon
+
+TL Thrust
+
+Damage Cost
+
+Traits
+
+Dogfight
+Missile
+
+10 14
+
+1D
+
+Cr75000
+
+Smart
+
+Interceptor 10 12
+Missile
+
+2D
+
+Cr125000 Smart
+
+INTERCEPTOR MISSILES (AREA DEFENCE)
+
+Interceptor missiles, sometimes referred to as area
+defence missiles, are designed to intercept incoming
+weapons before they get close to the target. Two
+interceptor missiles take up the same amount of
+space as one standard missile, although they can
+only be launched at the same rate. Damage is 2D
+and the weapon gains a DM+2 to attack in addition
+to other factors. If carried on a small craft’s firmpoint,
+one interceptor missile can be carried on a rail, or a
+standard missile rack can be used.
+Interceptor missiles have a maximum range of Short.
+
+If carried as anti-missile or anti-small craft weapons
+by a vessel with conventional hardpoints, four dogfight
+missiles take up the same amount of space as one
+standard missile. They can only be launched at the
+same rate as normal, however, so a double missile rack
+turret can still only fire two missiles at once whether
+they are ship-killers or dogfight missiles. Dogfight
+missiles used in this manner are sometimes termed
+point-defence missiles but are essentially the same
+weapons as carried by fighters, just on a larger mount.
+
+167
+
+

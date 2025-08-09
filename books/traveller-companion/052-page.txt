@@ -1,0 +1,187 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Inanimate Objects
+Note that explosives rely to a great extent on blast
+effect caused by air pressure (or pressure in some
+other fluid such as water or the exotic gas mix of an
+alien world). Without a medium to carry the blast it
+is necessary for explosives to be in contact with the
+target, enabling shock and the cutting effect of an
+explosion to be carried through the target itself. This
+means a satchel charge lobbed next to an enemy
+ATV on an airless world may do no real damage to it,
+although one detonating in contact with the vehicle
+would be more destructive.
+When an explosive device is detonated next to a target,
+or when it is attacked with weapons, the target’s armour
+Protection protects it from some (or perhaps all) of the
+damage, after which its Structure value is reduced.
+Damage is rolled as normal.
+Impaling hand weapons and low-velocity projectiles like
+arrows cannot be used to smash a solid object. Bullets
+will work, eventually, as will vigorous bludgeoning with
+a bladed implement or something heavy and blunt. It
+is difficult enough to damage a target by this method;
+completely destroying it would be a lengthy undertaking.
+
+Combat
+
+All objects have a Structure value which can be
+degraded by damage. If it matters what sort of state an
+object is in, the following levels are used:
+• When an object has lost 50% of its Structure it is
+significantly damaged. Functionality is reduced
+by 50%. For all-or-nothing devices, this means a
+simple 50/50 chance of it working.
+• When an object has lost 75% of its Structure it is
+seriously damaged. Functionality is reduced to 10%.
+• An object that has lost 100% of its Structure ceases
+to function and may have lost important parts.
+
+52
+
+An object that has lost 100% of its Structure is not,
+however, entirely destroyed. The damage listed in
+the Inanimate Objects table is what is required to put
+a roughly fist-sized hole in the object and/or prevent
+it from functioning. Ten times as much damage will
+put a human-sized hole in the object or completely
+destroy something smaller than human sized. A
+device will be wrecked beyond repair long before it is
+physically smashed to pieces.
+
+Object
+
+Protection
+
+Structure
+
+Small Kitchen Appliance
+
+0
+
+4
+
+Personal Computer or Monitor
+
+0
+
+6
+
+Wooden chair
+
+2
+
+8
+
+Typical bar-room table
+
+2
+
+12
+
+Wooden door (normal)
+
+1
+
+6
+
+Wooden door (reinforced)
+
+2
+
+8
+
+Wooden fence (2m section)
+
+1
+
+8
+
+Internal Plastic Door
+
+2
+
+5
+
+Brick Wall
+
+4
+
+16
+
+Concrete Wall
+
+8
+
+24
+
+Reinforced Concrete Wall
+
+10
+
+28
+
+Small Boulder
+
+10
+
+40
+
+Large Boulder
+
+10
+
+60
+
+Steel Hatch
+
+8
+
+50
+
+Steel Blast Door
+
+12
+
+150
+
+Sometimes, smashing things is not enough; they
+must be blown to pieces instead. If explosives are
+used, 10 times the Structure listed in the Inanimate
+Objects table will shatter the target. 25 times the listed
+Structure will utterly destroy the item and scatter its
+parts across a satisfyingly large area. 50 times the
+listed Structure will vaporise it and 100 times is just
+silly… but entertaining to watch.
+
+ADDITIONAL WOUND EFFECTS
+
+In the Traveller Core Rulebook, a Traveller who has
+all three of their physical characteristics reduced
+to zero is dead. This system may be used at the
+Referee’s discretion for Travellers and important nonplayer characters.
+A Traveller whose three attributes are at zero has
+suffered a life-threatening injury, referred to as a
+disabling wound. They will be down, unconscious (or
+close to it) and unable to save themselves. However,
+even without medical assistance, they might make a
+miraculous recovery.
+
+R
+
+

@@ -1,0 +1,102 @@
+DESERT
+
+A desert is defined by extremely low rainfall and not
+by any temperature conditions. Some deserts are very
+hot, others are dry arctic regions. A rainshadow desert
+can be caused by a mountain range, which causes
+moisture-laden air to rise and dump its contents on one
+side of the mountains with little reaching the other.
+An arid plain or semi-desert can be traversed at normal
+speed, although there may be deep gulleys where
+intermittent flooding has cut steep-sided channels.
+These are sometimes concealed or resemble folds in
+the ground which turn out to be much more hazardous
+than they first appear.
+Sandy or dusty deserts are much slower going. Firm
+sand or dust-covered rock can be traversed at full
+speed by hovercraft or low ground pressure vehicles
+such as tracklayers and multi-wheel ATVs but will slow
+more conventional vehicles to 75% of normal speed.
+Soft sand or dunes will slow low ground pressure
+vehicles to 50% of normal speed. Normal vehicles such
+as a typical off-road car will become stuck within a few
+kilometres and only be able to progress by a laborious
+round of digging out and struggling along for a while
+until the next difficult stretch. This process slows the
+vehicle to 10% of normal speed.
+
+AQUATIC TERRAIN
+
+Aquatic terrain includes deep water, the surface of
+seas and lakes, and shorelines or shallows. It poses
+some very obvious problems to Travellers – namely
+breathing underwater and moving around in an aquatic
+environment – but there are many other factors to
+consider. Chief among these is pressure, which
+increases very quickly with depth (see page 68).
+
+A vehicle that is not adapted to operate in water
+will, obviously, sink sooner or later. Very well sealed
+vehicles might bob about for some time but will not
+function properly and ultimately fill up with water. A
+properly adapted vehicle may float but it will need some
+means of propulsion or it will be at the mercy of wind
+and current. Adaptations usually include ballasting to
+reduce the chance of rolling over but even so, most
+semi-aquatic vehicles are capable of operating only in
+calm water. A vehicle with a drive system designed to
+be used in water, such as a water-jet system, will be
+able to travel at the speed dictated by its drive system.
+Those that use a basic system such as wheel rotation
+or a tiny auxiliary propeller are typically limited to 5%
+of their road speed. Unless a vehicle has a boat-form
+hull or similar design, it will be very clumsy in water and
+subject to a great deal of drag. This will limit its ability
+to go against a current that a boat with a similar drive
+system could power through.
+Marshy or boggy terrain slows ground vehicles to 25%
+of their road speed; less if there is thick undergrowth.
+Water that is shallow enough to drive through slows
+vehicles to 50% of their road speed if the bottom is firm
+and 10–20% if the bottom is uneven or soft. Both kinds
+of terrain can conceal hazards such as deeper areas,
+soft mud or concealed obstructions.
+
+VACUUM
+
+A world with a Trace atmosphere, or none at all, will
+have little or no erosion in the usual sense. Rock
+formations tend to be jagged and some areas will be
+impenetrable to vehicles. In addition to the difficulties
+associated with operating in vacuum – such as
+needing to maintain suit integrity and a reliable
+source of air to breathe – this terrain can impose a
+number of additional hazards.
+
+Terrain, Conditions and movement
+
+Very soft sand or dust can be completely impassable
+even for track-laying vehicles. Low ground pressure
+vehicles can labour along at 20% of normal speed
+most of the time but a Difficult (10+) Drive check is
+required every 2D hours to avoid becoming stuck.
+Extricating a vehicle which has become stuck in soft
+sand is virtually impossible, making such areas an
+effective barrier to ground transportation.
+
+The surface layer of a sea or large lake can be very
+active and waves can affect underwater craft. This is
+hazardous in shallow water, dragging a submarine
+around and possibly causing collisions. At depths of
+more than 30 metres, the effects of most surface waves
+are negligible. However, deep water can have violent
+currents and eddies around seabed terrain and other
+hazardous phenomena can be encountered. Seabed
+‘rivers’ are sometimes cut by fast-moving currents and
+‘waterfalls’ can occur when a current crosses the edge
+of a steep depression in the seabed. These currents
+can endanger underwater craft or structures.
+
+89
+
+

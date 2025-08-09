@@ -1,0 +1,108 @@
+If the Traveller needs to spend more than this amount,
+they may do so by making a WLT check, modified by
+DM-1 per 5,000 Credits spent. If the check succeeds,
+the Traveller can make the purchase. If the check is
+failed, permanently reduce WLT by -1 and try again, or
+not make the purchase and avoid the reduction.
+At the end of each month, the Referee should adjust
+a Traveller’s WLT characteristic up or down if their
+financial circumstances have changed greatly. In
+addition, it is suggested that amounts (both earned
+and spent) measured in millions of Credits (MCr) are
+tracked accurately. WLT should be used for personal
+items and purchases alone.
+
+LUCK (LCK)
+Luck represents a Traveller’s general good and bad
+fortunes, and governs situations that are essentially
+beyond a Traveller’s control. It is useful in highly
+cinematic games, allowing Travellers a get-out if
+things go wrong, and can be used to give ‘plucky
+but inexperienced young hero’ type Travellers
+an advantage. This is not always desirable – the
+majority of Traveller games are set in a cold, uncaring
+universe ruled by the laws of science rather than
+whimsy – but Referees running some types of game
+will find LCK useful.
+
+LCK can be used to determine success/failure or
+see who is affected by a random event. A Traveller’s
+chance of succeeding in a task through blind luck
+should never be better than their chance when using
+skills and good planning. However, when all else fails
+and the Traveller must simply leap into the dark, LCK
+can be used to determine whether he lands on his feet
+or faceplants into a wall.
+
+LCK can be used to see what happens to which
+Traveller when no other factors apply. For example, if
+one Traveller selected at random is to be the victim of a
+bad event, everyone can make an opposed LCK check
+and the lowest score will be the victim.
+Some events will instead affect every Traveller failing
+a LCK check. This might occur when a random event
+takes place, such as when a group of Travellers are
+caught in the open during a meteor shower or they
+open unmarked ration tins.
+
+ALTERING CHANCES OF SUCCESS
+If a Traveller really needs to succeed in a skill or
+characteristic check, they may expend LCK on a
+temporary basis. Each point of LCK spent translates
+into DM+1 to the check. Likewise, each LCK point
+expended can be used as a negative DM to a check
+made against them; a Traveller can use LCK to
+make an enemy miss an otherwise easy shot. All
+LCK points expended in this way are regained at the
+end of an adventure.
+
+SURVIVING A DISASTER
+A highly cinematic game might use LCK as a way of
+keeping the Travellers alive through their adventures.
+This is an optional use of an optional characteristic, and
+the Referee is advised to consider this style of game
+carefully; it is likely to be a lot less realistic than the
+typical ‘ordinary joes in space’ style of Traveller game.
+If this rule is in use, when a Traveller suffers some
+catastrophic event the Referee may grant the
+Traveller a chance to survive through blind luck by
+a Very Difficult (12+) check, with no characteristic
+DMs used. Instead, the chances of survival can be
+increased by permanently expending points from the
+Traveller’s LCK characteristic.
+A DM equal to the number of LCK points expended
+can be applied. This means a very significant number
+of points must be ‘burned’ in order to give a good
+chance of survival. Once these points are expended,
+they are gone for good and the Traveller’s LCK score is
+reduced, perhaps increasing the number of bad things
+that happen to them later on.
+If the LCK check is successful, the Traveller somehow
+survives. Maybe their crampons caught the ice surface
+and slowed their fall into the crevasse enough that
+they are hurt and stuck at the bottom of a crevasse
+rather than dead, or maybe they snag something on
+
+Characteristics
+
+LCK is determined by a straight 2D roll and cannot be
+permanently increased or decreased in the manner of a
+Travellers’ other characteristics. Only major events can
+change a Travellers’ LCK; this is at the discretion of the
+Referee, who must decide what factors may influence
+LCK. In some campaigns it may be desirable to allow
+Travellers to collect charms or artefacts that improve
+their fortunes, although this should not be overdone
+(and they may not have the effect the Travellers
+expect). Karma can also play a part; the Referee might
+decide that good or bad deeds are worth a little good
+fortune in the future. Luck can also be used as a plot
+guide in some campaigns, with ‘correct’ actions leading
+to improved LCK and bad deeds adversely affecting the
+Travellers’ fortunes.
+
+RANDOM SITUATIONS
+
+5
+
+

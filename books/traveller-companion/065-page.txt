@@ -1,0 +1,96 @@
+Superdense Atmospheres such as those found on
+Venus or gas giant planets are totally unbreathable to
+humans, no matter what their gas composition may
+be. The pressure may cause physical damage long
+before breathing becomes an issue. A superdense
+atmosphere would normally be assigned a code of 15 –
+unusual – (if they were given one at all) as they lie well
+beyond the normal range.
+
+BREATHING DIFFICULTIES
+Most creatures can withstand a degree of imbalance
+between their internal pressure and conditions
+outside but major changes of pressure, especially
+sudden ones, can cause severe harm. Physical
+effects such as tissue damage require very low
+pressure but a Traveller may encounter respiratory
+difficulties long before pressure becomes low enough
+to cause direct harm.
+Low pressure reduces the availability of oxygen,
+which can have rapid and obvious effects or be
+more insidious. Those who are acclimatised to lower
+pressures can function normally, although there is a limit
+to how little oxygen a Traveller can get by on. Those
+not acclimatised will often display symptoms of altitude
+sickness or in more serious cases be distressed and
+unable to process enough oxygen. Starships normally
+alter their internal conditions slowly whilst in jump,
+allowing passengers to arrive already acclimatised.
+One way to deal with the problem of lacking enough
+air is to use a compressor system or air supply. Most
+forms of armour do not include an air supply and are
+therefore no use against respiratory hazards, but
+some military systems do incorporate emergency
+breathing equipment.
+
+Assuming there is sufficient atmospheric pressure to
+avoid other problems, a Traveller can hold their breath
+for a number of combat rounds equal to their END
+under conditions of moderate activity. This includes
+walking briskly, struggling to open the emergency
+breathing gear locker or swimming underwater.
+Heavy activity such as fighting or running uses up air
+much faster. Roll D3 for every round of such activity;
+this is how many rounds’ worth of normal activity have
+been used up. A Traveller undertaking very light activity
+such as moving slowly and carefully, or who is keeping
+still trying to conserve oxygen, will double the time
+before they need to breathe.
+Once this time is exceeded, the Traveller must make
+an Athletics (endurance) check each round to continue
+holding their breath. Difficulty starts at Simple and
+increases one level every other round until it reaches
+Formidable. Sooner or later this roll will be failed but it
+is possible to hold one’s breath for a long time at need.
+Once the roll is failed, the Traveller must breathe in.
+This may mean taking in a lungful of smoke, water or
+toxic gas mix, or trying to breathe something that will
+not support respiration but causes no direct harm. If
+the Traveller breathes in something harmful mixed
+with breathable air, the effects will depend upon the
+substance breathed in. Neutral gases, water and the
+like do not cause harm as such; they simply do not
+provide any oxygen. This will kill the Traveller in a
+short time. Each round they are unable to breathe,
+they suffer 1D damage.
+
+ATMOSPHERE AND VACUUM
+
+Many breathing systems are simply a mask with
+either bottled air or means of obtaining a breathable
+gas mix from the outside environment. Examples
+include compressor masks, which draw in the outside
+air and compress it sufficiently that the user can
+breathe easily. Filter systems, or combination filter/
+compression systems, are necessary when the
+outside air contains a harmful substance. An artificial
+gill preforms a similar function in water, drawing in
+oxygen and storing it for use.
+
+Filter or compressor based units are little use when
+immersed in liquid but most bottled-air systems will
+allow breathing in any environment that does not require
+a sealed suit. A simple face mask is sufficient where
+air pressure is very low or the Traveller is operating
+in a gas mix that is not harmful but which they cannot
+breathe. In extremely low pressure environments or
+vacuum, a sealed pressure suit is needed to protect
+against the environment – humans need a certain gas
+or liquid pressure around them to function properly. For
+very low pressure and vacuum environments, a sealed
+suit is required. A vacc suit or similar garment maintains
+pressure around the body as well as providing air.
+
+65
+
+

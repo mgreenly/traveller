@@ -1,0 +1,79 @@
+Allies, contacts, rivals and enemIes
+
+T
+
+30
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+D66
+
+Characteristic
+
+11
+
+This individual has reasons to forgive the Traveller or to like them more than usual. Increase Affinity by +1
+
+12
+
+Relations between the Traveller and this individual went particularly sour. Increase Enmity +1 and
+decrease Affinity by -1 if it is 1 or greater.
+
+13
+
+Something happened that altered the relationship between Traveller and Associate. Increase Affinity by
++1 and decrease Enmity by -1.
+
+14
+
+An incident increases the Enmity between the Traveller and this individual by +1.
+
+15
+
+The relationship becomes more moderate; an Enemy becomes a Rival and an Ally becomes a Contact.
+Reroll Affinity and Enmity.
+
+16
+
+The relationship intensifies. A Rival becomes an Enemy and a Contact becomes an Ally. Reroll
+Affinity and Enmity.
+
+21
+
+This individual gains in power. Increase Power by +1.
+
+22
+
+This individual loses some of their power base. Reduce Power by -1.
+
+23
+
+This individual gains influence. Increase Influence by +1.
+
+24
+
+This individual’s influence is diminished. Decrease Influence by -1.
+
+25
+
+This individual gains in both power and influence. Increase each by +1.
+
+26
+
+This individual is diminished in both power and influence. Decrease each by -1.
+
+R
+
+

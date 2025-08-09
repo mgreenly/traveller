@@ -1,0 +1,111 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Starports and Spaceports
+
+Port Events
+
+138
+
+2D
+
+Special Feature
+
+2
+
+The port is under embargo or boycott by a major shipping corporation or other influential body. Personnel
+and vessels may be harassed but there will be no attempts at violence.
+
+3
+
+The port has been neglected for a long time or suffered recent serious damage. Most ships bypass it,
+which has greatly reduced the volume of traffic. Quantities of Common Goods available are down to 25%
+of normal, while Trade Goods originating at the mainworld are up 100%. DM+/-3 applies when determining
+buying prices – Trade Goods prices are worse for the Travellers, Common Goods are better.
+
+4
+
+The port is flooded with naval personnel, military troops, or law enforcement officers. They may be
+responding to a problem at the port or staging for some other trouble spot. In any case, security checks will
+be much tighter than usual.
+
+5
+
+The port is obviously run-down and short of investment. Many businesses have closed. Quantities of all
+goods are halved.
+
+6
+
+The port is experiencing a slowdown in traffic. The quantity of available Trade Goods is unaffected but
+Common Goods are halved. Prices for minor items in stores are 10% lower due to reduced demand.
+
+7
+
+Advantageous economic conditions (rumoured or real) have resulted in large numbers of entrepreneurs
+and small-ship operators converging on the port. Markets are unusually vibrant, with double the usual
+number of passengers, cargoes and freight available. Encounters with Rivals or old friends are likely.
+
+8
+
+The port is experiencing a surge in traffic. Prices in the stores are 20% worse than usual – higher when
+the Travellers buy and lower when they sell. DM-2 applies on the Modified Price table, reflecting the way
+greater volume of trade is forcing the price down.
+
+9
+
+The port is currently receiving a great deal of investment. Areas are being expanded and refurbished, and
+shipping traffic is up. Quantities of available goods are doubled.
+
+10
+
+A group of entrepreneurs have opened up a new market – or convinced investors that one exists. The
+amount of freight bound for one or more nearby worlds is tripled and investors are desperate to get it there.
+They are willing to pay 2Dx5% above normal freighting rates.
+
+11
+
+Piracy, smuggling and conflict have increased in the region, pushing up the cost of repairs and starship
+components as well as refits and maintenance by 20–60%. (2D3x10%).
+
+12
+
+The port is undergoing significant expansion or reconstruction. This might be going well or slowly,
+depending on local conditions. In the meantime, sections are out of order, and workarounds may create
+opportunities to bypass normal channels.
+
+PORT EVENTS
+
+Events can be quite long-term but are more subject
+to change than features. If an event is taking place,
+the Referee should roll 2D on the Port Events table or
+choose an appropriate event.
+
+INSTALLATIONS
+The starport code gives an indication of the services
+available but in some circumstances more extensive or
+additional facilities are available.
+
+Army Bases serve the armed forces of a world or
+interstellar power. Most are separate from the main
+starport and served by their own military port but
+upon occasion the main port will be co-located with
+an army base. This may not be the ‘home’ army of
+the world but could be an occupying force or the
+military of an interstellar power.
+
+R
+
+

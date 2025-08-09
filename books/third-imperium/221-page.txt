@@ -1,0 +1,89 @@
+VOROSHILEF-CLASS BATTLESHIP
+DECK 4
+7
+8
+6
+
+31
+
+18
+
+16
+4
+
+13
+
+5
+DECK 5
+8
+
+15
+
+28
+
+17 29
+14
+19 24 21 20
+
+30 26
+4 27
+6
+
+25
+
+6
+
+DECK 6
+
+9
+5
+
+22
+23
+
+11
+
+6. Triple Turrets (sandcasters)
+7. Particle Accelerator
+Spinal Mount
+8. Large Missile Bays
+9. Medium Meson Gun Bays
+10. Small Fusion Gun Bays
+11. Plasma Barbettes
+12. Docking Spaces
+13. Type II Point
+Defence Batteries
+
+14. Meson Screens
+15. Nuclear Dampers
+16. Missile Storage
+17. Sandcaster Storage
+18. Repair Drones
+19. Barracks
+20. Brigs
+21. Armouries
+22. Medical Bays
+23. UNREP System
+24. Workshops
+25. Launch Tube
+26. Recovery Deck
+27. Docking Space
+28. Staterooms
+29. Low Berths
+30. Common Areas
+31. Fuel Processor
+
+32. Briefing Rooms
+33. Sensors
+34. Bridge
+
+34
+33
+
+32
+
+10
+
+221
+
+

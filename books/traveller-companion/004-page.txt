@@ -1,0 +1,159 @@
+CHARACTERISTICS
+The following rules are intended to expand upon or
+replace those found in the Traveller Core Rulebook.
+They are used at the Referee’s discretion – some,
+all or none of these rules can be applied to a
+campaign as appropriate.
+
+HIGH AND LOW CHARACTERISTICS
+
+Normally, the range of characteristics is 0–15 but
+there are occasions where a being or creature may
+have characteristics that are not on the ‘human scale’.
+Such a being may have one or more characteristics
+above 15, in which case the DMs on the Characteristic
+Modifiers table are applied to checks made using them.
+
+Characteristic Modifiers
+Characteristic
+
+DM
+
+0
+
+-3
+
+1–2
+
+-2
+
+3–5
+
+-1
+
+6–8
+
++0
+
+9–11
+
++1
+
+12–14
+
++2
+
+15–17
+
++3
+
+18–20
+
++4
+
+21–23
+
++5
+
+Every +3 thereafter
+
++1 to DM
+
+ADDITIONAL CHARACTERISTICS
+Some styles of game might require one or more extra
+characteristics. The Traveller Core Rulebook already
+contains one example of this – Psionic Strength.
+In many Traveller campaigns PSI is not used at all,
+although it could be implemented if the Travellers
+encountered some psionic threat.
+
+4
+
+The following additional characteristics lend themselves
+to resolving certain situations that might otherwise
+be difficult to adjudicate. The Referee must decide
+if they are desired in any given campaign and if so,
+all Travellers should generate them. Alternatively,
+they might be used only for non-player characters
+encountered by the Travellers. Note that some of these
+are not just additional characteristics; they are a set of
+mechanics the Referee can use as necessary.
+
+WEALTH (WLT)
+If the Referee does not want to track every Credit and
+cost of item, they can use the abstract Wealth (WLT)
+characteristic. A Traveller’s WLT starts equal to their
+SOC and is increased by one for every Cash Benefit
+roll taken after a career, to a maximum of 15. Reduce
+the Traveller’s WLT by -1 if they are injured during a
+career, and by -3 if they use anagathics.
+A Traveller’s WLT characteristic determines the lifestyle
+they can maintain comfortably and how much petty
+cash they have on hand. The Traveller has a number of
+Credits to hand at any time in a given month equal to
+the amount shown on the Wealth table.
+Wealth
+
+Cash Obtainable
+
+1
+
+Cr100
+
+2
+
+Cr200
+
+3
+
+Cr400
+
+4
+
+Cr800
+
+5
+
+Cr1200
+
+6
+
+Cr1500
+
+7
+
+Cr2000
+
+8
+
+Cr3000
+
+9
+
+Cr5000
+
+10
+
+Cr7500
+
+11
+
+Cr10000
+
+12
+
+Cr12500
+
+13
+
+Cr15000
+
+14
+
+Cr17500
+
+15
+
+Cr20000
+
+

@@ -1,0 +1,120 @@
+T
+
+As per the Traveller Core Rulebook, any Traveller
+who uses a ranged weapon that does not have the
+Zero-G trait, or who attacks with a melee weapon,
+must make an Average (8+) Athletics (dexterity)
+check to avoid spinning out of control. The attack
+automatically misses if this is failed. If the Traveller
+has the Profession (hostile environment) skill, this
+may be substituted for the Athletics check. This also
+allows the Traveller to use a weapon that delivers 1D
+of damage per level of skill without having to make the
+check at all; this includes melee weapons.
+A Traveller who is disoriented after failing this check
+will fall to the ground, albeit slowly, and be brought
+to a stop. This takes D3 rounds, during which they
+can try to orient themselves with an Average (8+)
+Athletics (dexterity) check, although Profession
+(hostile environment/low-G) can be used instead. In
+microgravity or true zero-G conditions, the Traveller will
+spin forever if something does not stop them.
+
+GRAVITY AND RELATED EFFECTS
+
+Another Traveller can rescue them by grabbing them
+but this risks both going out of control. A Routine (6+)
+Athletics (dexterity) check is needed to avoid being
+sent out of control whilst undertaking a rescue.
+
+60
+
+If the spinning Traveller wants to carry on fighting
+regardless, or take some action other than selfrescue, all checks are subject to DM-2. It is possible
+to shoot a firearm or make an attack in such a way
+as to counteract the spin but this is highly unlikely to
+succeed. Both the attack and chance to correct the spin
+are subject to the usual penalty for doing two things
+at once, so the Traveller needs to make Difficult (10+)
+check to attack and to right themselves, whilst subject
+to DM-2 for being out of control in the first place.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+High gravity also causes Travellers to fatigue very
+rapidly. A Traveller undertaking intense activity such as
+hard physical labour or hand-to-hand combat, reduces
+their effective END by -2 each round. This END is
+recovered at the rate of 1 point per round of rest. If it
+reaches zero, the Traveller can do nothing but gasp for
+breath until effective END is once again positive.
+All Travellers not adapted to a very high gravity
+environment (perhaps by way of genetic or cybernetic
+enhancement) suffer DM-4 to all actions. This DM can
+be reduced by one for every level of Profession (hostile
+environment/high-G) the Traveller has. An Effect of -6
+on any action, even something as simple as firing a
+weapon, indicates the Traveller has strained themselves,
+fallen over, or otherwise fallen foul of the high-G
+conditions. They take 1D damage, ignoring armour.
+This will happen even to Travellers with the Profession
+(hostile environment/high-G) skill, but is less likely.
+Extremely high gravity – anything over 2.5G – cannot
+be tolerated for more than a few moments without
+artificial assistance. Someone strapped into an
+acceleration couch can still operate controls even
+under extreme gravity conditions but moving around
+unsupported becomes virtually impossible. All tasks
+suffer DM- 8, again reduced by the level of Profession
+(hostile environment/high-G) the Traveller possesses
+and the consequences of a mishap (Effect -6 or worse
+on any check) is 2D damage.
+
+FIGHTING IN HIGH-GRAVITY
+
+Fighting in a high-G environment is subject to the
+penalties above. There are no additional penalties,
+although projectile weapons are reduced in range. For
+every G above 1, projectile weapon ranges are halved;
+this does not apply to energy weapons such as lasers.
+
+OPERATING IN HIGH GRAVITY
+
+CHANGING GRAVITY
+
+High gravity makes even simple tasks tiring and often
+more dangerous. Falls in particular are extremely
+dangerous and it can be difficult to estimate how much
+effort will be needed to carry out a given task. As a
+result, DM-1 is applied to all tasks for every 0.25G
+difference between the Traveller’s home gravity and
+their current environment.
+
+One technique used by spacer crews to defeat
+boarders is grimly named ‘grav pong’, consisting of
+using artificial gravity to repeatedly smash intruders
+against the deck. Most ships and stations have
+unidirectional artificial gravity, i.e. the field cannot
+be reversed to send a victim up to the ceiling before
+pulling them back down, but such as system could
+be implemented. Likewise, few designers are willing
+to go to the expense of creating long corridors
+with dedicated gravity systems that turn them into
+deathtraps. There are still ways that a Traveller might
+fall ‘along’ a corridor, however.
+
+R
+
+

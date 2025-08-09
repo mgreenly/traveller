@@ -1,0 +1,103 @@
+MISHAPS
+EVENTS
+
+MISHAP
+
+1
+
+Injured in a misadventure or attacked by a deranged objector to your work, you must roll on the
+Injury table and leave this career.
+
+2
+
+Someone affected by the Truth you seek or reveal bears a grudge and swears to kill you. Gain
+an Enemy.
+
+3
+
+You are discredited, rightly or wrongly. Lose SOC -2 and FOL -D3 but you are not ejected from
+this career.
+
+4
+
+You discover that at least some of your work is based on erroneous thinking. Lose 1 skill level
+from any Science skill but you do not have to leave this career.
+
+5
+
+Your Truth is misused or misrepresented and you get the blame. Lose all Benefit rolls gained
+thus far in this career but you do not have to leave this career.
+
+6
+
+Your Truthing alienates former colleagues and contacts, who are determined to bring you
+down. Gain D3 Rivals.
+
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+A corporate or government body wants to use your knowledge in a way you find questionable.
+If you agree, gain an extra Benefit roll and one level in any Science skill, but also D3 Enemies.
+
+4
+
+You are called upon as a consultant for a secret research project. Gain one Contact and +1 on
+one Benefit roll.
+
+5
+
+Understanding some new revelation requires a crash course in a field you lacked knowledge
+of. Gain one level in any Electronics or Science skill you previously did not already possess.
+
+6
+
+Your search for Truth takes you out onto the frontiers. Gain one level of Survival or Recon.
+
+7
+
+Life Event. Roll on the Life Events table.
+
+8
+
+You make a series of high-profile appearances on entertainment/topical news shows. Gain one
+level of Carouse or Persuade, and gain FOL +1.
+
+9
+
+A golden opportunity lands in your lap but taking advantage of it will harm someone else’s
+career. If you decide to go ahead, you are you gain FOL +D3 OR gain SOC +1 OR two levels
+in any of the following skills: Science, Medic, Electronics. This also gains you D3 Enemies.
+Deciding not to take advantage gains you an Ally.
+
+10
+
+You come into contact with a mysterious group who are interested in your Truth. Interactions
+with them are vague and secretive. Gain one level of Streetwise, Recon or Carousing, and
+D3 Contacts.
+
+11
+
+A very public disagreement with another truther or a disbeliever goes in your favour and you
+become something of a celebrity. Gain SOC +1 but also a Rival.
+
+12
+
+Your previously obscure work becomes a lot more mainstream after a new scientific or
+academic breakthrough. Gain FOL +D3.
+
+14
+
+additional careers
+
+1D
+
+37
+
+

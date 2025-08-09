@@ -1,0 +1,153 @@
+T
+
+The easiest way to determine the starting speed of
+missiles is to place a token on the space where the
+firing ship would end up if it does not expend any
+Thrust next round and measure the distance in spaces
+from the firing ship to that space, rounding to the
+nearest whole number. For example, on a square map,
+if the firing ship has vectors of (2, -2), the range on
+a VTT map if using the recommended measurement
+method would be three squares, so the speed would be
+3. Measuring the same distance on a physical map with
+a scale of one inch per square would show 2.8 inches,
+rounded up to 3. Thus, the starting speed of these
+missiles would be 3. Similar methods could be used on
+a hex map, or if using a different measurement system.
+
+Vector-Based Space Combat
+
+Once the token is created and the firing ship, target,
+number of missiles, missile type and starting speed
+are recorded, it is placed on the same space as the
+firing ship (if this is not convenient, place the token
+in the space adjacent to that of the firing ship). The
+missiles do not accelerate or move any further on the
+round in which they are fired. In the Acceleration phase
+of the following round, the missiles’ maximum Thrust
+is added to their current speed and the number of
+rounds of remaining Thrust is decreased by one. In the
+Movement phase, the firing ship moves the missiles
+up to that many spaces towards their target. If the
+missiles reach their target, place them on the same
+space as the target (or adjacent to the target, if that is
+more convenient). Missile detection, countermeasures
+and missile impacts are handled as stated in the Space
+Combat chapter of the Traveller Core Rulebook.
+
+176
+
+As missiles are destroyed via electronic warfare or
+point defence fire, decrease the number of missiles
+on the token, and remove the token if and when
+the last missile is destroyed. Damage from missiles
+that reach their target is handled per the Space
+Combat rules, as normal.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+LARGER-SCALE MAPS
+
+Often, adversaries in space combat may start from a
+great distance apart (for example, from 100 diameters,
+or even from the distance to a gas giant) and it would
+be very impractical to attempt to run a combat scenario
+on a map thousands of spaces across. Even so, the
+Referee might want to track the approach of opposing
+ships or fleets from great distances for immersion and
+dramatic effect. Fortunately, the math is such that it is
+easy to create maps of greater scale: for each multiple
+of 10 in the width of each space, increasing the duration
+of each round by a multiple of four maintains the Thrust
+1 = 1 space scale. For example, if the size of each
+space on the map is increased from 648 kilometres to
+6,480 kilometres and the rounds are increased from six
+minutes in length to 24, acceleration and movement
+can be treated exactly as it is during normal space
+combat rounds using the vector rules above. Of course,
+at any scale beyond 648 kilometres per space, range
+will be Distant and combat will be impossible until the
+adversaries have moved closer to each other.
+The following table provides suggested map scales for
+various common starting ranges.
+While there may be situations when it makes sense to
+increase the scale of your map, it is more likely to be
+useful when opposing sides start at a great distance,
+move towards each other using a higher-scale map,
+and then ‘zoom in’ as the ships get closer, until they
+are on a x1 scale map using standard six-minute space
+combat rounds. Either way, the process is similar.
+When moving from larger-scale to the next smaller
+scale, increase the distance between ships in spaces
+by a factor of 10 and multiply all vectors by 2.5
+(rounding up). When moving from a smaller-scale map
+to the next larger scale, divide the distances between
+ships by a factor of 10, and divide each vector by 2.5,
+rounding to the nearest whole number.
+
+Movement Scales
+Scale
+
+Space Width
+
+Round Length
+
+Suggested use
+
+x1
+
+648km
+
+6 minutes
+
+World Surface to Orbit
+
+x10
+
+6,480km
+
+24 minutes
+
+Orbiting Satellite or 100 diameters from mainworld for smaller
+worlds, or larger worlds when ships have low Thrust
+
+x100
+
+64,800km
+
+96 minutes
+
+100 diameters from mainworlds for larger worlds, especially
+for fast-moving ships
+
+x1,000
+
+648,000km
+
+6.4 hours
+
+Close Neighbour World
+
+x10,000
+
+6,480,000km
+
+25.6 hours
+
+Close or Far Gas Giant
+
+R
+
+

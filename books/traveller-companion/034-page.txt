@@ -1,0 +1,97 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+SCHOOL OF HARD KNOCKS
+Some Travellers grow up on the fringes of society and
+are denied the usual opportunities to enter a career or
+enlist in a service. Not all of these people are criminals
+but many come into contact with crime one way or
+another. Those that get out of that world fall into two
+categories: some leave it as far behind as possible and
+others take it with them wherever they go.
+Streetwise recruits from slums and alleys of big cities
+are sometimes desirable for their special knowledge
+and skills but are rarely promoted and often mistrusted;
+a graduate of the school of hard knocks can expect to
+spend a career on the bottom rungs. Some are proud
+to serve and glad to make a better life. Others are less
+satisfied and become a problem for their employers.
+Either way, careers tend to be short.
+
+Skills: Streetwise 1, plus any two of: Athletics 0,
+Deception 0, Drive 0, Gambler 0, Melee 0, Persuade
+0, Stealth 0.
+Graduation: INT 7+. DM+1 if END 9+. If 11+ is rolled,
+graduate with honours.
+Graduation Benefits:
+• Gain any three other skills listed above at level 0.
+• Gain Gun Combat 0.
+• ‘Honours’ graduates gain Carouse 1 and may
+increase any other skill gained at level 0 to level 1.
+• Decrease SOC by -1.
+• DM-2 on checks to gain promotion or
+commission in first career. If the Traveller leaves
+this career by choice, checks in subsequent
+careers are as normal.
+
+Entry: Automatic if SOC 6-
+
+SPACER COMMUNITY
+
+Pre-career Options
+
+Most who grow up on an orbital habitat or asteroid
+belt community live a life much like anyone else in a
+high-tech city. For these people, their homes might
+as well be planetside, other than the slim chance of
+a life-support failure or similar disaster. However, not
+all space habitats are like this. Some are collections
+of small settlements in a planetoid field, with shuttles
+plying between them. For the inhabitants of such a
+community, formal education is likely to take second
+place to rule-of-thumb instruction in how to survive
+and get a day’s work done in a spacer environment.
+
+34
+
+Some Travellers leave the community and seek a normal
+career elsewhere but many hang around for a few
+years, picking up skills that might make them invaluable
+to a small merchant ship or similar employer where
+competence is more important than documentation.
+‘Graduates’ of a spacer community have had instruction
+from skilled people, whilst ‘honours graduates’ come
+out with additional skills which may have been gained
+at the cost of harrowing experiences.
+
+Entry: Automatic if homeworld size Code 0. Int 4+,
+DM+1 if DEX 8+
+Skills: Vacc Suit 1, plus any two of the following:
+Astrogation 0, Electronics 0, Engineer 0, Profession 0.
+Graduation: INT 8+, DM+1 if DEX 6+. If 12+ is rolled,
+graduate with honours.
+Graduation Benefits:
+• Gain any two other skills listed above at level 0.
+• Gain any skill listed above at level 1.
+• Gain Pilot 0.
+• ‘Honours’ graduates gain Jack-of-all-Trades 1.
+• Increase DEX by +1, Decrease SOC by -2.
+• DM+1 to enlist, gain commission or promotion in
+the Merchant (free trader) career.
+
+R
+
+

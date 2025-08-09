@@ -1,0 +1,44 @@
+PAX IMPERII
+32
+31
+
+29
+22
+
+6
+
+27
+
+DECK 4
+22. Armouries
+23. Biosphere
+24. Gaming Space
+25. Multi-Environment Space
+26. Staterooms
+27. High Staterooms
+28. Luxury Staterooms
+29. Barracks
+30. Common Area
+31. Bridge
+32. Sensors
+
+30
+10
+27
+23
+
+25
+28
+24
+11
+
+14
+
+6
+DECK 3
+
+1 SQUARE = 10 TONS
+
+37
+
+

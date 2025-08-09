@@ -1,0 +1,111 @@
+T
+
+In the case of breathing harmful substances alongside
+useful air, the Traveller will not immediately begin to
+suffocate but will still take damage. Some chemicals
+or substances will have additional effects, depending
+on their nature. For example, a cloud of spores
+might cause problems breathing and also have a
+hallucinogenic effect. This is dealt with under the
+chemicals and diseases rules on page 71.
+
+DECOMPRESSION
+Decompression occurs when a vacc suit or
+spacecraft compartment loses its ability to contain
+air, or when air is deliberately removed from a
+compartment. This will expose Travellers to vacuum
+or very low pressures, and may also have secondary
+effects such as objects being flung around by the
+rush of escaping atmosphere.
+Explosive Decompression takes place when a
+pressurised suit or space craft is suddenly and
+seriously holed, or a hull section fails. Internal pressure
+will quickly push out all the air, along with anything else
+that is not properly secured.
+
+ATMOSPHERE AND VACUUM
+
+When a compartment explosively decompresses,
+the occupants will be flung around (this does not
+apply to suits that are suddenly holed). Everyone
+within the compartment must pass an Average
+(8+) Vacc Suit or Athletics (dexterity) check to grab
+something and secure themselves, or they will be
+propelled towards the breach. If they are fortunate,
+these Travellers will strike something on the way.
+This inflicts 2D damage but gives the Traveller an
+extra chance to grab hold of something.
+
+66
+
+Assuming the breach is not so huge that there is
+no chance to impact an intact part of the wall or
+bulkhead, Travellers have a final chance to avoid
+going straight out of the hole. Another Athletics or
+Vacc Suit check can be made and, if passed, the
+Traveller snags on wreckage or impacts an intact
+section of bulkhead. This causes an additional 3D
+damage. Those who are unlucky go straight out of the
+breach into open space, possible ripping themselves
+to pieces on jagged edges in the process.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+In the round that a catastrophic suit breach occurs
+or a compartment is holed, explosive decompression
+takes place as noted above. The following round the
+compartment is in a state of a Partial Vacuum and all
+Travellers will be harmed accordingly. The round after
+that it will be a complete (hard) vacuum and will remain
+so until sealed and re-pressurised.
+Round 0: Explosive Decompression effects
+Round 1: Partial Vacuum
+Round 2+: Hard Vacuum
+See page 66-67 for the effects of partial and hard
+vacuum exposure.
+Rapid Decompression is not quite so serious. It
+occurs when a minor breach is made and air begins to
+escape. Although there will be discomfort and possibly
+damage to eardrums and the like from rapidly dropping
+pressure, any Travellers in the breached compartment
+have a little time to self-rescue. Small objects may be
+flung towards the breach but the escape of air will not
+be fast enough to endanger humans.
+Rapid decompression takes place over several combat
+rounds. In the round the compartment is holed, the
+situation is apparent but occupants take no immediate
+damage. The Referee should secretly roll D3. This is
+the number of rounds for the atmospheric pressure to
+fall to dangerous levels. After these rounds a minimal
+atmosphere exists in the compartment. The Referee
+should then roll another D3. This is the number of
+rounds until pressure can be considered a partial
+vacuum. D3 rounds after that, all the air is gone and
+occupants are exposed to hard vacuum.
+See below for the effects of minimal atmospheres,
+partial and hard vacuum:
+Round 0: No harmful effects but decompression
+becomes noticeable.
+Stage 1: Roll D3. Atmospheric conditions can be
+considered normal for this many rounds.
+Stage 2: Roll D3. Minimal pressure conditions exist for
+this many rounds.
+Stage 3: Roll D3. Partial Vacuum conditions exist for
+this many rounds.
+Stage 4: Hard Vacuum now exists.
+
+R
+
+

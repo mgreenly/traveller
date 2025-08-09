@@ -1,0 +1,51 @@
+T
+
+Vector-Based Space Combat
+
+USING THE Z AXIS
+
+172
+
+Movement on a hexagonal map along the third axis can
+be thought of in two ways: either treat this as a ‘Z’ axis
+(ignoring the fact that in Cartesian coordinates, the Z
+axis denotes the ‘up-down’ vertical axis with respect
+to the X and Y axes), with ‘northeast’ as the positive
+direction and ‘southwest’ as the negative direction, or
+treat Thrust applied along this axis as a combination of
+Thrust applied in the X and Y directions simultaneously.
+For example:
+• If using a third ‘Z’ axis, speed is recorded as three
+numbers instead of two, and thus our ship applying
+Thrust 4 in the ‘northeast’ direction records its
+speed as (0, 0, 4)
+• If treating ‘Z-axis’ movement as a combination
+of Thrust in the X and Y directions, it records
+the same speed as (4, 4) – this makes it seem
+like it has expended a total of Thrust 8 but it
+is understood that this is just how to denote
+movement in that direction. If the same ship
+wanted to apply Thrust 4 such that it ended up
+three hexes to the ‘northeast’ and one additional
+hex to the ‘east’, it would apply Thrust 3 in the
+positive-X/Y direction for a speed of (3, 3), and
+then apply one additional Thrust in the positive-X
+direction, resulting in a total speed of (4, 3).
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+R
+
+

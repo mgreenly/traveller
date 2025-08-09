@@ -1,0 +1,247 @@
+PAX IMPERII
+TL15
+Screens
+Ammunition
+Systems
+
+Craft
+
+Staterooms
+
+Software
+
+Common
+Areas
+
+TONS
+
+COST (MCR)
+
+Meson Screens x2
+
+20
+
+40
+
+Nuclear Dampers x2
+
+20
+
+20
+
+Railgun Shots x36
+
+36
+
+—
+
+Sandcaster Barrels x400
+
+20
+
+—
+
+Fuel Processor (4,000 tons/day)
+
+200
+
+10
+
+Fuel Scoops
+
+—
+
+—
+
+Armouries x8
+
+8
+
+2
+
+Biosphere
+
+100
+
+20
+
+Gaming Space (200 tons)
+
+200
+
+1.2
+
+Medical Bays x4
+
+16
+
+8
+
+Multi-Environment Space (100 tons)
+
+105
+
+2.5
+
+Stables x4
+
+40
+
+0.1
+
+Vaults x2 (in concealed compartments) 24
+
+12.48
+
+Workshops x10
+
+60
+
+9
+
+Docking Spaces (95 tons) x4
+
+420
+
+105
+
+Shuttles x4
+
+—
+
+60.588
+
+Docking Spaces (4 tons) x4
+
+20
+
+5
+
+Air/rafts x4
+
+—
+
+1
+
+Standard x120
+
+480
+
+60
+
+High x40
+
+240
+
+32
+
+Luxury x20
+
+200
+
+30
+
+Low Berths x20
+
+10
+
+1
+
+Barracks x40
+
+80
+
+4
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/4
+
+—
+
+0.4
+
+Library
+
+—
+
+—
+
+Anti-Hijack/3
+
+—
+
+10
+
+Intellect
+
+—
+
+1
+
+Point Defence/2
+
+—
+
+12
+
+Standard
+
+40
+
+4
+
+Configurable*
+
+440
+
+66
+
+773
+
+—
+
+Cargo
+
+Crew
+Captain/Owner, Pilot,
+Astrogator, Engineers
+x45, Gunners x 44,
+Maintenance x10,
+Medics x2, Marines
+x 40, Officers x5,
+Administrators x5,
+Stewards x7
+
+Hull: 4,400
+Running Costs
+MAINTENANCE COST
+Cr422222/month
+PURCHASE COST
+MCr5066.668
+
+Power Requirements
+Basic Ship Systems
+2,000
+Manoeuvre Drive
+2,000
+Jump Drive
+4,000
+Sensors
+4
+Weapons
+460
+Fuel Processor
+200
+
+* Configurable common area cost is multiplied by 1.5.
+
+PAX IMPERII
+
+35
+
+

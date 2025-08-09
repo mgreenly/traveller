@@ -1,0 +1,121 @@
+T
+
+The cliffhanger is a surprisingly common food animal
+on worlds without much flat land. Resembling a
+tubby goat in many ways, the cliffhanger is extremely
+agile and can forage on near-vertical rocky surfaces
+that would daunt an experienced human climber.
+Cliffhangers have sharp claws that can be used for
+self-defence but are generally peaceable creatures
+who have few natural predators. They are herded on
+some worlds by airborne drones, although lower-tech
+societies have to rely on daring climber-herdsmen.
+Cliffhangers form loose herds in the wild, generally
+using their difficult home environment for protection
+rather than any deliberate measures. They are
+capable of surviving on a minimal diet of very poorquality vegetation for some time but animals that
+become weak or sick rarely survive long as a result
+of their dangerous habitat.
+
+Animal Encounters
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+’Trator
+
+Cliffhanger
+
+100
+
+R
+
+The ’trator is a biologically engineered creature
+designed for infiltration of enemy installations; hence
+its name. Some specimens appear to have escaped
+from their handlers and formed a small breeding
+population, although their origin is sufficiently
+secret that they are normally thought to be naturally
+occurring creatures. The ’trator is a cold-blooded
+quadruped about 10 centimetres long, with a flexible
+outer carapace and unnaturally powerful claws and
+teeth. ’Trators can be fitted with a camera-andcommand pack but are sometimes simply introduced
+into an installation and allowed to roam free.
+’Trators can cause immense damage, which looks to
+have been caused by natural creatures rather than
+deliberate sabotage, and for this reason are sometimes
+used for deniable corporate sabotage operations.
+They are attracted to electrical insulation and circuitry,
+and have an overwhelming impulse to chew and
+scratch through any electrical or electronic systems
+they encounter. A ’trator loose aboard a starship could
+cripple it within hours if not caught.
+
+Animal
+
+Hits
+
+Speed
+
+Cliffhanger
+
+9
+
+6m
+
+Skills
+
+Athletics (dexterity) 2, Survival 2
+
+Animal
+
+Hits
+
+Speed
+
+Attacks
+
+Claws (1D)
+
+’Trator
+
+4
+
+3m
+
+Traits
+
+Small (-1)
+
+Skills
+
+Recon 1
+
+Behaviour
+
+Herbivore, Grazer
+
+Attacks
+
+Claws or Bite (1D)
+
+Traits
+
+Armour (+1), Small (-4)
+
+Behaviour
+
+Omnivore, Grazer
+
+R
+
+

@@ -1,0 +1,65 @@
+T
+
+Since we want a custom world developed from
+scratch, we entered 25 Orionis from the menu as
+there is no data on the worlds of this sector yet.
+We are using the world builder as a tool to create a
+custom star system for use wherever we choose, so
+the sector location is not really important.
+
+Travellermap and the Wiki
+
+We decide our world will be a fairly low-population
+sort of place, located in an extensive star system
+with two planetoid belts, three gas giants and 10
+other planets. Having entered this basic data, the
+Generate World Data button automatically fills in the
+rest, giving a UWP of C746668-7.
+
+132
+
+The generate system tool then produces a complete
+star system for us, complete with data on gas giant
+moons and all of the many bodies we want in our
+system. The Create System Symbol Map produces a
+useful graphical reference for this, with moons listed
+under each planetary body.
+There are tools for altering orbital distances, if that
+seems desirable, and bodies in the system can
+be named. We imaginatively name the mainworld
+Example World and used the Generate Map button to
+create a surface map of it.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+The world builder tool allows the Referee to
+completely generate an entire star system from a
+Travellermap hex, with data on planets and satellites
+in the system and surface maps of them. This
+represents the other end of the scale, which ranges
+from a map of the galaxy to one showing the features
+of a particular moon in a chosen star system. It is a
+powerful tool but perhaps the most important feature
+of Travellermap is that the level of detail can be
+chosen. Marc Miller, creator of Traveller, sets out
+various principles for preparing a game – the idea that
+you should Map Only As Really Necessary (MOARN)
+is good advice. Tools should assist the game, not
+govern it, and should be used when necessary rather
+than on every possible occasion.
+
+R
+
+

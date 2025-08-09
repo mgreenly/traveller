@@ -1,0 +1,54 @@
+VEHICLE DAMAGE
+The vehicle rules presented in the Traveller Core
+Rulebook and Vehicle Handbook work very well but
+there are some cases where loopholes can arise.
+Small, light vehicles can be destroyed or disabled
+with weapons that should not really be able to do
+them much damage, including the fists of an angry
+Traveller. In most cases where it is possible to destroy
+a vehicle with light weapons, this would take a great
+deal of time – blasting a sailing ship apart with a
+shotgun might be possible but it is unlikely anyone
+would expend the time or ammunition.
+
+Anti-personnel weapons do no damage to vehicles
+unless an Effect of 6 or more is scored on their attack
+roll, in which case damage is reduced by 2D to a
+minimum of 1 point.
+
+Then again, these are Travellers we are talking
+about. The following rules are designed to prevent
+exploitation of this loophole. Either or both can be
+used at the Referee’s discretion.
+
+For example, an extremely angry Traveller tries to kick
+his TL6 dune buggy to pieces. His unarmed combat
+damage is 1D, +1 for his STR bonus. He boots the
+vehicle as hard as he can, rolling a total of 7 for
+damage. This would be enough to destroy the dune
+buggy despite its armour Protection of 2 but for the 6
+points of additional Protection it is assumed to have
+due to its Tech Level. Our angry Traveller can inflict
+quite a lot of cosmetic damage with his boot but he
+cannot destroy the vehicle that way.
+
+ANTI-PERSONNEL WEAPONS
+
+Weapons delivering less than 4D damage are defined
+as anti-personnel weapons, as are all personal
+weapons firing a multiple projectile (such as shotguns)
+and those with the Stun trait. Any modifier to damage is
+ignored for the purposes of this definition, so a weapon
+doing 3D+8 damage would still be an anti-personnel
+weapon whereas one doing 4D-4 would be outside the
+anti-personnel category.
+
+BUILT TOUGH
+Vehicles and structures are built from strong and resilient
+materials. Against man portable weapons that are not
+Destructive, a vehicle is considered to have an extra
+amount of armour equal to the TL of its construction.
+
+111
+
+

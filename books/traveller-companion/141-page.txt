@@ -1,0 +1,127 @@
+Port Enforcement
+Result
+
+Law Enforcement
+
+Notes
+
+0 or less
+
+Lawless and violent
+
+Essentially a violent anarchy, with gangs, private guards, or security
+selfishly protecting influential individuals’ property.
+
+1–2
+
+Lawless and harmonious
+
+No formal law enforcement but armed individuals cooperate against
+threats on a common-interest basis.
+
+3–4
+
+Minimal security force
+
+A sheriff and deputies, armed with civilian firearms, possibly part-time.
+
+5–6
+
+Small security force
+
+Small professional security force with civilian weapons.
+
+7–8
+
+Average security force
+
+Adequate security force with paramilitary equipment including
+automatic weapons.
+
+9–10
+
+Well-equipped security force
+
+Adequate security force with paramilitary equipment including
+support weapons.
+
+11–12
+
+Paramilitary security service
+
+Large professional security force. Some personnel have access to
+heavy military weapons.
+
+13–14
+
+Military security service
+
+Large professional security service organised along military lines,
+with heavy weapons. Possibly a mercenary formation.
+
+15 or more
+
+Private army
+
+Excessive military-style security service with armed vehicles and
+support platforms.
+
+STARPORT DEFENCES
+Most ports have defences to prevent an armed ship
+holding the port to ransom or just blasting bits off it.
+This level of defence depends on the port’s budget and
+what is available. Note that these defences are what is
+directly controlled by the port; the host world may have
+its own defensive forces which will usually protect the
+port as well as the rest of the system.
+To determine the level of defence available to a port,
+roll 2D and add the following modifiers, then consult the
+Port Defence table:
++4
+
+Class B or F port
+
++2
+
+Class C or G port
+
+0
+
+Class D or H port
+
+-3
+
+Class E port
+
+-6
+
+Naval base or military base present
+
++4
+
+Naval Depot present
+
++8
+
+Normally, port operators obtain the best weaponry
+they can afford from offworld but sometimes this is not
+possible. Ports on mid-tech worlds are thus sometimes
+defended by conventional artillery or anti-aircraft missile
+systems, which are of marginal effectiveness at best.
+
+Starports and Spaceports
+
+Class A port
+
+The defences of a port are often dictated by local
+Tech Level or what can be bought on the open
+market. Class D and E ports can normally only mount
+defensive weapons planetside, so will typically have
+missile launchers or laser turrets in bunkers close to
+the landing area. Ports with an orbital component will
+usually mount most of their defensive weaponry there,
+with a few weapons planetside.
+
+141
+
+

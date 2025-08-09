@@ -1,0 +1,128 @@
+Astrin Grav APC
+The Astrin is the latest in the line of grav troop carriers
+intended to accompany the Trepida into battle. The
+APC has a crew of two, a driver and gunner, and seats
+12 armed and armoured soldiers.
+
+EQUIPMENT AND WEAPONS
+
+Autopilot (enhanced), Camouflage (advanced),
+Communications System (advanced, encrypted,
+satellite uplink, tightbeam), Computer/5, ECM
+(advanced), Control system (enhanced), Fire
+Extinguishers, Fusion Plant (advanced), Life Support
+(short term), Navigation System (advanced), Prismatic
+Aerosol, Small Turret (VRF gauss gun)
+
+TL
+
+14
+
+SKILL
+
+Flyer (grav)
+
+AGILITY
+
++1
+
+SPEED (CRUISE)
+
+Fast (High)
+
+RANGE (CRUISE)
+
+100 years
+
+CREW
+
+2
+
+PASSENGERS
+
+12
+
+EQUIPMENT
+
+CARGO
+
+0.3 tons
+
+Autopilot (skill level)
+
+2
+
+HULL
+
+80
+
+Communications (range)
+
+1,000km
+
+SHIPPING
+
+20 tons
+
+Navigation (Navigation DM)
+
++4
+
+COST
+
+MCr20.25
+
+Sensors (Electronics (sensors) DM) +2
+
+TRAITS
+
+AFV, Streamlined
+
+ARMOUR
+70
+
+SIDES
+
+Camouflage (Recon DM)
+
+-4
+
+Stealth (Electronics (sensors) DM)
+
+-4
+
+FRONT 100
+
+REAR
+
+100
+
+WEAPON
+
+RANGE
+
+DAMAGE
+
+MAGAZINE MAGAZINE COST
+
+TRAITS
+
+FIRE CONTROL
+
+VRF Gauss Gun
+
+750
+
+4D
+
+400
+
+AP5, Auto 8
+
++4
+
+Cr1000
+
+31
+
+

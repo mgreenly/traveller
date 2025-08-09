@@ -1,0 +1,235 @@
+T
+
+15
+
+R
+
+A
+
+BELIEVER
+
+V
+
+E
+
+L
+
+L
+
+E
+
+CAREER PROGRESS
+SURVIVAL ADVANCEMENT
+
+Qualification: None.
+The Believer career is open to anyone.
+
+Mainstream
+Believer
+
+SOC 3+
+
+SOC 8+
+
+ASSIGNMENTS
+
+Missionary/
+INT 6+
+Humanitarian
+
+SOC 7+
+
+Choose one of the following:
+
+Holy Warrior
+
+INT 5+
+
+Mainstream Believer: You belong to a widespread church and are
+sure of your place in the universe.
+Missionary/Humanitarian: You spread the word of your faith
+across the stars, to anyone willing to listen to the good message.
+Holy Warrior: There are too many unbelievers in the universe. You
+will make them believe.
+
+additional careers
+
+15
+
+38
+
+SKILLS AND TRAINING
+
+*When gaining skills for basic training, use the table for the
+Traveller’s specialism (mainstream, humanitarian or holy warrior)
+rather than service skills.
+
+INT 8+
+
+MUSTERING OUT BENEFITS
+1D
+
+CASH
+
+BENEFITS
+
+1
+
+None
+
+The knowledge that
+your soul is saved
+
+2
+
+Cr1000
+
+You will be rewarded
+in the next life
+
+3
+
+Cr2500
+
+INT +1
+
+4
+
+Cr5000
+
+SOC +1
+
+5
+
+Cr10000
+
+A prominent statue
+and SOC +1
+
+6
+
+Cr25000
+
+3 Ship Shares
+
+7
+
+Cr50000
+
+Sainthood candidacy
+
+1D
+
+PERSONAL DEVELOPMENT
+
+SERVICE SKILLS
+
+ADVANCED EDUCATION (MIN EDU 8)
+
+1
+
+INT +1
+
+Profession (religion)
+
+Profession (religion)
+
+2
+
+EDU +1
+
+Science (belief)
+
+Science (any)
+
+3
+
+SOC +1
+
+Admin
+
+Medic
+
+4
+
+Science (belief)
+
+Electronics (computers)
+
+Investigate
+
+5
+
+Profession (religion)
+
+Diplomat
+
+Electronics (computers)
+
+6
+
+Persuade
+
+Persuade
+
+Advocate
+
+1D
+
+MAINSTREAM RELIGION
+
+MISSIONARY/HUMANITARIAN
+
+HOLY WARRIOR
+
+1
+
+Profession (any)
+
+Jack-of-all-Trades
+
+Gun Combat (any)
+
+2
+
+Profession (religion)
+
+Medic
+
+Melee (any)
+
+3
+
+Science (belief)
+
+Persuade
+
+Explosives
+
+4
+
+Drive (any)
+
+Diplomacy
+
+Heavy Weapons
+
+5
+
+Persuade
+
+Carouse
+
+Tactics (military)
+
+6
+
+Admin
+
+Leadership
+
+Athletics (any)
+
+R
+
+

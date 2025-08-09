@@ -1,0 +1,122 @@
+T
+
+Effective SOC can be reduced by failing to maintain
+the living standards expected of someone at that social
+level. Costs are given on page 92 of the Traveller Core
+Rulebook. Any Traveller failing to meet the standards
+required for their SOC for three months in any four
+must reduce his Effective SOC value to the lowest
+level they maintained in that period unless there is
+some good reason for the reduced standard of living. A
+Traveller held prisoner and fed bread and water does
+not suffer a status reduction for the indignity, although
+they may be censured for allowing themselves to be
+captured in the first place.
+If a Traveller’s Effective SOC is lower than their SOC
+for three consecutive months, their SOC is reduced
+by -1 unless they can make a Difficult (10+) Admin,
+Carousing, Deception or Diplomat check to convince
+people that everything is alright or there is some
+explanation other than relative poverty.
+
+Characteristics
+
+To increase SOC to a value of 10 or less, all that
+is necessary is to maintain an Effective SOC at
+least one point higher than the target score for six
+consecutive months. Only one point of permanent
+SOC can be gained at a time.
+
+12
+
+Increasing SOC to 11 or above requires the
+maintenance of an Effective SOC at least one point
+higher than the target value for a whole year. Effective
+SOC can be increased by several points if an important
+high-society individual endorses the Traveller, but the
+costs of maintaining suitable living standards must be
+met. The award of noble titles will normally follow ingame actions or events during a career and cannot be
+simply bought by maintaining a luxurious lifestyle. If a
+low-SOC Traveller is granted a title his Effective SOC
+immediately jumps to a level suitable to hold it but if
+this is not maintained it will fall again and the title may
+become meaningless or be taken away.
+
+EXAMPLE
+Arix the Accountant is a low-end professional with
+SOC 8. His heroic deeds in the audit department of
+the Sector Duke have resulted in a knighthood, which
+requires a SOC of 11. Arix’s Effective SOC jumps
+immediately to 11 but his permanent SOC value is still
+8. If he can maintain the lifestyle associated with his
+Effective SOC for six months his permanent SOC rises
+to 9, and after another six months to 10. If he could
+continue in this vein for another year he would reach
+SOC 11 but sadly his money runs out. This is quite an
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+embarrassment for an interstellar accountant and, more
+importantly, he cannot maintain the lifestyle associated
+with SOC 10. His Effective SOC drops to 9 for a few
+months and Arix risks a reduction in his permanent
+SOC. He can do some creative accounting to prevent
+this and accounting is what he is good at. However,
+he is becoming aware that others at court consider
+him nothing more than a jumped-up commoner who
+has failed to drag himself up to the standards required
+of his new status. Arix’s knighthood is meaningless to
+some of the ‘old nobility’ at court and he begins to find
+court life quite uncomfortable.
+
+ALTERNATIVE CHARACTERISTICS
+
+To a great extent, SOC is tied to a single society. If
+a Traveller ventures far from this society’s sphere of
+influence, it loses much of its meaning. The same
+applies to Travellers from distant cultures. This can
+be solved by the application of common sense; for
+example, someone from a distant state in the Vargr
+Extents might be very important, with an equivalent
+SOC 12 and used to dealing with people at a high
+level, but their SOC value does not indicate noble rank
+in the Third Imperium.
+In some cases, SOC is less important than a
+Traveller’s innate ability to charm and influence
+people. In this case, SOC can be replaced by a
+Charm (CHA) characteristic that applies almost
+anywhere the Traveller goes. At the Referee’s
+discretion, SOC can be retained as well, indicating
+status in the Traveller’s home society.
+Some characteristics are foreign to humans or other
+creatures, or are entirely alien. If a being would not
+have a characteristic it can be given a value of zero.
+For example, an immobile intellect such as a sentient
+computer would have 0 values for STR and DEX, and
+probably END too. A non-sentient creature would be
+assigned a value of 0 for EDU.
+In cases where an alternative characteristic is desirable,
+perhaps due to a very different natural environment,
+a creature can be assigned one with a similar name
+to indicate its prowess in such an environment. For
+example, a creature that evolved in an aquatic or
+extremely low gravity environment might be assigned
+a characteristic named Grace rather than Dexterity. A
+Traveller from a more conventional environment uses
+half his relevant characteristic as its equivalent.
+
+R
+
+

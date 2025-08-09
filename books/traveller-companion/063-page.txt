@@ -1,0 +1,94 @@
+Falling Objects
+
+DETERMINING DAMAGE FROM COLLISIONS
+
+Object
+
+Damage from and to Object
+
+Light Object
+
+1D per metre fallen
+
+Medium Object
+
+2D per metre fallen
+
+Heavy Object
+
+3D per metre fallen
+
+Very Heavy Object
+
+4D per metre fallen
+
+Gravity
+
+Damage Modifier
+
+Low Gravity
+
+-1 per dice
+
+High Gravity (up to 2g) +1 per dice
+Each 2g thereafter
+
++1 additional damage per dice
+
+A starship-sized object counts as Doubly Destructive
+when hitting something smaller, multiplying the
+damage by 100:
+• Light starships are equivalent to a cargo shuttle
+or maritime patrol boat. A light railroad train,
+consisting of just a couple of carriages, would also
+count as a light starship.
+• Medium starships are equivalent to a corvette or
+maritime combat vessel. A large goods train would
+also be considered an object of this type.
+• Heavy starships are equivalent to a maritime or
+space-going frigate, or a small freighter.
+• Very Heavy starships are equivalent to a
+maritime or space-going light cruiser, or a midsized freighter.
+• Huge starships include heavy cruisers or large
+liners. Such an object would roll 5D per metre
+fallen, with modifiers, if it really matters.
+• Enormous starships include battleships and bulk
+freighters. Damage would be 6D per metre fallen,
+with modifiers.
+
+When two Travellers run into one another, the results
+tend to be survivable. However, being run into by a
+train or charging rhino is a rather more serious event. In
+a collision, an object delivers damage equal to 1D per
+Speed Band it was travelling at, modified by the relative
+size of the object as per falling damage on page 61.
+A person or similar sized object that is free to move
+will simply be pushed aside by a vehicle or starship
+travelling at Idle. No damage is taken if the Traveller
+can make an Average (8+) Athletics (dexterity) check.
+Armour does not normally protect against the impact
+or crushing effect of a collision. However, it will protect
+against additional damage caused by projections,
+spikes, antlers or other potentially dangerous parts of a
+creature or vehicle.
+Travellers inside a vehicle that collides with something
+will usually be thrown around and collide with internal
+surfaces. Damage from such a collision is 1D per
+Speed Band of the collision, modified as follows:
+• A normal vehicle or starship will absorb some of
+the energy of impact, reducing the damage by 1D.
+• A vehicle designed to protect its occupants (with
+crumple zones and airbags, for example) reduces
+damage by 2D.
+• If the Traveller is strapped into a seat with a good
+harness, such as a pilot’s chair, damage is reduced
+by an additional 1D.
+• A survival cocoon or similar device designed to
+protect its occupants reduces damage by an
+additional 2D, provided the occupants are properly
+secured in crash seats or couches.
+
+GRAVITY AND RELATED EFFECTS
+63
+
+

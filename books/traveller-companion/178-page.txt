@@ -1,0 +1,107 @@
+STARSHIP AUTOMATION
+Increased automation reduces crew requirements,
+although a smaller crew is not always desirable. Ships
+with few personnel aboard cannot react as well to a
+crisis or damage; the loss of a single crewmember can
+be crippling to a very tightly crewed vessel. However,
+automation is useful under many circumstances.
+Virtually all ships have some degree of automation,
+from autoloaders on missile systems to automated
+monitoring systems for the power plant. These are
+standard labour-saving devices and without them crew
+requirements increase dramatically. A heavily automated
+vessel makes greater use of such devices and ties them
+into an integrated crew-assistance system.
+
+Instead of reducing the number of personnel aboard,
+automation can be used to make their lives easier
+and more comfortable. This is not usually done except
+aboard long-range ships, where crew are likely to be
+aboard for extended periods and luxury vessels.
+Crew-intensive vessels have virtually no automation;
+everything is done by hand. This is the case aboard
+some very primitive ships but is inefficient to say the
+least. Low automation is cheap but again is inefficient
+unless the crew work hard, in which case fatigue begins
+to set in after a week in space. DMs for shipboard tasks
+are applied to all checks – engineering, astrogation,
+landing; even making lunch in the galley is a trial
+aboard a ship without a powered can-opener.
+
+The cost of automating a vessel is based on the total
+cost of its hull, plus drives and power plant, as shown
+on the Ship Automation table.
+Crew requirements are based on a percentage
+reduction of the normal number of personnel required.
+This tends to affect engineering and operations
+personnel more than flight crew, since there are many
+jobs that cannot be shared. For example, a vessel that
+has four small craft aboard needs a pilot for each of
+them if they are to be used at the same time. It is not
+possible for one crewmember to somehow be piloting
+the main vessel and two of its craft at once unless they
+are fully autonomous robotic devices. By the same
+token, a ship that needs one astrogator but has a 40%
+crew requirement reduction still needs an astrogator.
+
+Ship Automation
+
+178
+
+Automation
+
+Cost
+
+Crew Requirement
+
+Effect
+
+Crew-intensive
+
+-40%
+
++100%
+
+DM-4 on all shipboard tasks.
+
+Low Automation
+
+-20%
+
++40%
+
+DM-1 on all shipboard tasks after 1 week in space
+
+Standard Automation
+
+Normal
+
+Normal
+
+None
+
+Enhanced Automation
+
++25%
+
+-10%
+
+None
+
+Advanced Automation
+
++50%
+
+-25%
+
+DM+1 on all shipboard tasks
+
+High Automation
+
++100%
+
+-40%
+
+DM+2 on all shipboard tasks
+
+

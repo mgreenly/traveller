@@ -1,0 +1,81 @@
+The scout base on Unnagilu includes one of the
+service’s primary zero-G training facilities. The scouts
+have sectioned off a region of the belt for the purpose
+of training its members in the finer points of vacc suit
+and zero-G operations. While its official designation
+is IISS Base 096G-1117, the scouts affectionately
+refer to it as ‘Camp Space Jockey’. The majority
+of scouts present for training are from the
+Exploration and Survey branches with a
+minority from the Communications branch.
+The asteroids inhabited by the scouts have
+been tapped of their most valuable metals
+and minerals, which prevents them from being
+contested by the megacorporations or indies.
+The scouts also have a base on Ordri, one of
+the moons of the system’s innermost gas giant.
+Despite Unnagilu’s problems, centuries of
+settlement have created a thriving civilisation
+in the belt. Hundreds of hollowed out asteroids
+are now home to populations of belters,
+corporate employees and the employees of
+the companies and small businesses that
+are required to provide services for the
+them all. Most of these artificial habitats
+are run quite well by local councils who
+are in the process of building a new
+system government and drafting a
+constitution for Unnagilu that excludes
+the bickering megacorporations from
+having an influence.
+
+IISS EVA Suit
+
+ameros
+
+The Scout Service EVA suit is a hardier, more wellequipped version of its standard vacc suit. The suit is
+designed to handle multiple challenging and hazardous
+working environments with improved heat and radiation
+shielding, internal grav-assist, precise handling and
+extended life support for up to 48 hours. The equipment
+consists of two components: the vacc suit itself,
+which may be worn in non-vacuum, standard-gravity
+environments; and the EVA rig which is a heavy, multipurpose apparatus that the suit clips into.
+The rig includes a set of waldos for sample collection
+and several sealed storage containers to store them
+in. Its advanced life-support gear is designed to make
+operating in the suit very comfortable. The suit closely
+monitors the occupant’s vital signs and has internal
+injectors to provide first aid, anti-rad medicine and
+stimulants for long EVAs.
+Item
+
+Protection
+
+TL
+
+Rad
+
+Kg
+
+Cost
+
+Required Skill
+
+IISS EVA Suit
+
++12
+
+12
+
+150
+
+14
+
+Cr150000
+
+Vacc Suit 1
+
+129
+
+

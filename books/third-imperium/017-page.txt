@@ -1,0 +1,157 @@
+BATTLESHIP
+TL15
+Systems
+
+Staterooms
+
+Software
+
+Fuel Processor (18,000 tons/day)
+
+CLASS: Sylean
+Tons
+
+Cost (MCr)
+
+900
+
+45
+
+Fuel Scoops
+
+—
+
+1
+
+Armouries
+
+20
+
+5
+
+Briefing Rooms x4
+
+16
+
+2
+
+Docking Space (320 tons)
+
+352
+
+88
+
+Pinnace x8
+
+—
+
+69.696
+
+Medical Bay x18
+
+72
+
+36
+
+Repair Drones
+
+1,000
+
+200
+
+Workshops x3
+
+18
+
+2.7
+
+Standard x1,300
+
+5,200
+
+650
+
+High x2
+
+12
+
+1.6
+
+Low Berths x100
+
+50
+
+5
+
+Manoeuvre/0
+
+—
+
+—
+
+Jump Control/4
+
+—
+
+—
+
+Library
+
+—
+
+—
+
+Advanced Fire Control/2
+
+—
+
+15
+
+Anti-Hijack/2
+
+—
+
+8
+
+Auto Repair/2
+
+—
+
+10
+
+Battle System/1
+
+—
+
+18
+
+Broad Spectrum EW
+
+—
+
+14
+
+Evade/1
+
+—
+
+1
+
+Common Areas
+
+1,300
+
+130
+
+Cargo
+
+4,888
+
+—
+
+SYLEAN-CLASS
+BATTLESHIP
+
+17
+
+

@@ -1,0 +1,49 @@
+MEGACORPORATE COURIER
+DECK 1 – FUEL DECK
+
+5
+
+Stateroo
+4
+
+12
+
+10
+
+11
+
+MDA
+
+8
+
+9
+
+3
+
+1
+
+6
+7
+
+2
+
+DECK 2
+
+1. M–Drive
+2. J–Drive
+3. Power Plant
+4. Bridge
+5. Sensors
+6. Airlock
+7. Fuel Processor
+8. Mail Distribution Array
+9. Vault
+10. Stateroom
+11. Low Berths
+12. Common Area
+
+1 SQUARE = 0.5 TONS
+
+57
+
+

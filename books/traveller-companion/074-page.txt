@@ -1,0 +1,181 @@
+T
+
+Damage from harmful substances may occur each
+round or at intervals. In some cases, a Traveller may
+make an END check to avoid damage on that occasion,
+although after the interval has passed another check is
+required to avoid the next set of damage.
+
+AGENT EFFECTS
+
+Diseases, Toxins and Chemicals
+
+Most agents cause damage to the victim in much
+the same way as any other form of attack, although
+some have additional or alternative effects. It is
+possible to contract a chronic disease that injures
+the victim every day, resulting in a Traveller being
+able to go adventuring but be more prone to injury
+due to a damaged END characteristic. Some agents
+directly reduce a characteristic, either permanently
+or on a temporary basis.
+
+74
+
+Agent
+
+Resistance
+Difficulty
+
+Mild Poison
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Temporary damage to a characteristic is regained at
+the rate of one point per week if the Traveller is resting
+and undertaking only light activity. If they are receiving
+proper medical care then their physician can reduce
+the time to regain a point by the Effect of an Average
+(8+) Medic check. A new Medic check can be made the
+following day, potentially allowing very rapid recovery.
+Specific effects may have a set period or last until
+the agent is countered by medical means. They may
+go away when the Traveller successfully resists the
+agent’s effects, or may linger afterward. This is dealt
+with in the notes on specific agents.
+
+SAMPLE AGENTS
+The following are a range of threats that a Traveller
+might have to deal with. Other agents can be modelled
+upon these examples.
+
+Delay
+
+Method of
+Exposure and Effects
+
+Interval
+
+Comments
+
+Easy (4+)
+
+1D x 30
+minutes
+
+Ingested, 1D
+damage
+
+1 hour
+
+Naturally occurring
+biological poison
+
+Very Strong
+Natural Toxin
+
+Difficult (10+)
+
+1D
+Minutes
+
+Ingested, death
+
+None
+
+Lethal biological poison
+
+Snake Venom
+
+Average (8+)
+
+Immediate Injected, 2D damage
+
+10 minutes
+
+Must break skin to
+be injected
+
+Pepper Spray
+
+Average (8+)
+
+Immediate Contact, irritation of
+eyes and respiratory
+passages, 2D Stun
+damage
+
+1D rounds
+
+Must achieve a contact
+with face and eyes
+
+Lethal Chemical
+Agent
+
+Formidable (14+) Immediate Inhaled or contact,
+if inhaled, Very
+immediate collapse
+Difficult (12+) if
+and 3D damage
+contact only
+
+1 round
+
+Typically fatal;
+intoxication can occur
+on skin contact
+
+Soporific Chemical
+
+Difficult (10+)
+
+Immediate Inhaled,
+unconsciousness
+
+2D seconds Gas attacks every
+round until the victim
+moves clear of cloud
+
+Mild Neurotoxin
+
+Very Difficult
+(10+)
+
+Immediate Inhaled or injected,
+confusion and
+disorientation, 1D
+INT damage
+
+1D seconds Injected if naturally
+occurring, gas if
+weaponised
+
+Extremely Lethal
+Biological Toxin
+
+Very Difficult
+(10+)
+
+Immediate Contact, 4D damage
+
+1 minute
+
+Inhalation is by
+definition ‘contact’
+
+R
+
+

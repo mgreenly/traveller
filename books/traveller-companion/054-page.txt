@@ -1,0 +1,133 @@
+T
+
+Sometimes it can be important to know where a blow or
+shot landed. This can be abstracted from the damage
+dice – a high damage score suggests something
+important has been hit; lower damage indicates a
+less critical area. However, with some kinds of armour
+offering only partial coverage, a system for resolving
+where a Traveller is hit may sometimes be useful.
+1D
+
+Location
+
+1
+
+Head
+
+2
+
+Arms
+
+3–5
+
+Torso
+
+6
+
+Legs
+
+GENERAL HIT LOCATION
+
+When a Traveller is struck by a weapon, roll on the
+Locations table to determine the precise location struck.
+
+Combat
+
+Most attacks tend to be directed at the centre of body
+mass, which is also where most vital organs are
+located. Fortunately, the torso is the easiest part of a
+Traveller to armour. Many armour types – such as a
+flak jacket – protect only the torso but represent a good
+bargain in terms of weight and coverage as there is a
+good chance an attack will strike there.
+
+54
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+A Minor Wound is inflicted if damage is less than
+half the Traveller’s END score. Minor wounds have
+no additional effects.
+
+HIT LOCATIONS
+
+If a Traveller is hit in a particular location, the default
+option is that they gain the benefit of the best armour
+they are wearing on that location. If additional detail
+is required, the Referee may impose a check to see
+if armour was hit or an exposed area struck. For
+example, if a Traveller is hit on the head whilst his
+vacc suit faceplate is open, the Referee might impose
+a check to see if the weapon entered the Traveller’s
+helmet or struck an armoured area. This is more detail
+than most Traveller games really need, however, so
+should only be used in critical situations.
+
+WOUND EFFECTS
+
+R
+
+In general, the severity of an injury is indicated by the
+amount of damage it deals. However, blows and shots
+to particular locations may have specific effects. There
+are three levels of wound severity: Minor, Major and
+Severe. The amount of damage required to inflict these
+wounds is based upon the Traveller’s starting END.
+
+A Major Wound is inflicted if the Traveller receives
+between half his END score and his full END score in a
+single instance. A major wound will affect the Traveller’s
+ability to carry out actions relevant to the damaged
+body part until it is healed.
+A Severe Wound is inflicted if the Traveller receives
+more than his END score. A Severe wound will cause
+the Traveller to lose consciousness and will have
+serious consequences even after he recovers.
+The consequences of a wound persist even after the
+Traveller has recovered any END points after a fight.
+Healing from a Major wound requires a successful
+routine (6+) Medic check and D3 days of recuperation.
+A Severe wound requires an Average (8+) Medic check
+and 1D days of recuperation, after which the Traveller
+suffers the effects of a Major wound for another D3 days.
+The effects of even more severe wounds are likely to
+be irrelevant; receiving more than twice the Traveller’s
+END score will likely kill him. If further wound effects
+are desired, the following rules can be applied:
+A Crippling wound results from taking at least twice
+the Traveller’s END score in one attack. If the wound
+is survived, the location hit is completely out of action
+and suffers permanent damage. STR, END or DEX
+(selected at random) is reduced by D3.
+A Critical wound results from taking at least three
+times the Traveller’s END score in one attack. If the
+Traveller survives, the location hit is completely out of
+action and suffers permanent damage. STR, END or
+DEX are reduced by D3+1 each.
+A Mortal wound results from taking at least four
+times the Traveller’s END score in one attack. This
+is unlikely to be survivable and is sufficient to shear
+off a limb or decapitate a Traveller. If the Traveller
+somehow survives they will need to replace or
+regrow a limb or some organs.
+A Devastating wound results from taking at least
+five times the target’s END score or more in a single
+attack. The location struck is completely destroyed,
+vapourised or smashed beyond recognition. This is
+mainly a cinematic effect but can have implications
+when facing certain foes.
+
+R
+
+

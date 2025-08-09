@@ -1,0 +1,145 @@
+T
+
+Field Density
+
+Difficulty
+
+Mines Per Size
+Digit Required
+
+Minimal
+
+Simple (2+)
+
+1
+
+Thin
+
+Easy (4+)
+
+2
+
+Light
+
+Routine (6+)
+
+3
+
+Standard
+
+Average (8+)
+
+5
+
+Dense
+
+Difficult (10+)
+
+10
+
+Extremely Dense
+
+Very Difficult (12+)
+
+15
+
+This check assumes the Travellers are unaware of the
+minefield. Once the field is detected or a mine has been
+encountered, the Travellers may attempt to evade the
+minefield. If they simply go about their business, new
+checks to encounter mines are made every 1D hours.
+For example, a 20,000 ton naval tanker enters
+the atmosphere of a large gas giant, intending
+to skim fuel. There are 2,000 mines in the upper
+atmosphere. Taking the gas giant’s Size as 150,
+this means that 1,500 would be needed for a dense
+field and 2,250 for an extremely dense one. Thus
+the field is dense, requiring a Difficult check to
+avoid accidentally encountering a mine. The check
+is made at DM-4 for the size of the ship. Once the
+first attack has taken place, the Travellers can begin
+trying to find a way through the field.
+
+MINES AND MINELAYING
+EQUIPMENT
+
+Mine Warfare
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+MINELAYER BAY
+
+Minefield Density
+
+162
+
+R
+
+Mines can be manually laid by pushing them out
+of an open cargo bay into the area where they
+are wanted, then remotely controlling the mine to
+orient itself. This is a slow process, requiring 2Dx10
+minutes per mine to be laid. However, specialist
+minelaying equipment is available.
+
+A minelayer bay can be fitted as a small bay weapon,
+requiring one hardpoint, one crewmember and 50
+tons. A minelayer bay can deploy mines of any size
+at the rate of one every 2D minutes. A minelayer
+bay costs MCr1.5 but does not contain any mines.
+Additional tonnage must be allocated to carry mines,
+at a cost of Cr10000 per ton. Thus a ship with 20 tons
+of mine stowage can carry 20 small CAPTOR mines
+or eight large ones, at a cost of Cr200000.
+
+DETECTING AND EVADING
+MINEFIELDS
+
+Some minefields are surrounded by warning beacons,
+in which case Travellers will be made aware of the
+mines before they approach. Of course, the warning
+may be false or the beacons disabled for some reason.
+If there is no warning, a vessel can try to detect the
+minefield early enough to avoid attack.
+Detecting a minefield requires an Average (8+)
+Electronics (sensors) check, increasing to Difficult
+(10+) if the field is located within a gas giant’s upper
+atmosphere. This check indicates the presence of
+something that looks like a minefield but does not
+pinpoint the position of any given mine. To map a
+minefield or find a way through without coming within
+range of a mine requires a Difficult (10+) Electronics
+(sensors) check, increasing to Very Difficult (12+)
+within a gas giant’s atmosphere. Alternatively, a ship
+can try to inch through the field attempting to detect
+individual mines as it goes and move around them.
+This is a very slow process, with each mine requiring
+2Dx5 minutes to detect and bypass. 1D mines will
+typically be encountered in the course of slipping
+through a minefield. Detecting each one early
+enough to avoid attack requires an Average (8+)
+Electronics (sensors) check, increased to Difficult
+(10+) within a gas giant’s atmosphere.
+If any mine detects the Travellers’ ship, it will attack
+with one or more torpedoes or detonate if it is a nuclear
+proximity mine. The whole minefield will then go to
+high alert, imposing DM-2 on all attempts to detect and
+avoid mines. In some cases, the mines of a field may
+communicate with one another and set up a massed
+salvo sufficient to overwhelm the defences of a target
+vessel and annihilate it. This will be coordinated by a
+burst transmission which may be detected.
+
+R
+
+

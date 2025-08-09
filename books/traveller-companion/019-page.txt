@@ -1,0 +1,177 @@
+MEDIC
+
+CORSAIR
+STR
+
+—
+
+INT
+
+—
+
+BENEFITS
+
+STR
+
+—
+
+INT
+
+DEX
+
++1 EDU
+
+—
+
+DEX
+
+—
+
+EDU
+
+END
+
+—
+
+-2
+
+Rank 2 (corporal),
+Cr15000,
+Submachinegun (or
+similar close combat
+weapon), 2 Contacts
+(former crewmembers)
+
+END
+
+—
+
+SOC
+
+SKILLS
+
+Athletics (dexterity) 1, Deception 0, Electronics
+(any) 1, Engineer 0, Explosives 0, Gun Combat
+(any) 1, Gunner 1, Mechanic 1, Medic 0, Melee
+(any) 1, Recon 0, Streetwise 0, Vacc Suit 2
+The Traveller served aboard
+a pirate or privateering
+starship, or perhaps an
+aggressive smuggling ship.
+His skills are a mix of ship
+operations and combat.
+
+SKILLS
+
+—
+
+BENEFITS
+
+Cr90000, Medikit, 2
+SOC +1 Contacts (in the medical
+field or patients)
+—
+
+Admin 2, Advocate 0, Diplomat 0, Drive 0,
+Electronics (computer) 1, Flyer 0, Investigate 1,
+Medic 3, Persuade 1, Science (any) 1
+Most medical professionals
+settle down to a sedentary
+and well-paid life but some
+instead choose to travel. Their
+reasons vary, from altruism or
+a desire to see the universe,
+to a need to stay one step
+ahead of a malpractice suit.
+A medic’s background will
+normally be civilian but might be naval, military or
+connected with some other service.
+
+MILITARY (ENLISTED)
+
+MARINE
+BENEFITS
+
+STR
+
+—
+
+INT
+
+—
+
+BENEFITS
+
++1 EDU
+
+DEX
+
+—
+
+EDU
+
+—
+
+—
+
++1 Rank 2 (corporal),
+SOC — Cr35000, Assault Rifle,
+2 Contacts (former unit
+members or crew)
+
+END
+
++2 SOC
+
+—
+
+Rank 2 (corporal),
+Cr25000, Assault Rifle, 1
+Ally (former unit buddy)
+
+STR
+
+—
+
+DEX
+END
+
+SKILLS
+
+INT
+
+—
+
+The Traveller is a former
+member of a spacegoing
+military or mercenary unit,
+trained for shipboard action
+or planetside operations
+requiring protective equipment
+such as a vacc suit, combat
+armour or battle dress.
+
+Athletics (endurance) 1, Drive 0, Electronics
+0, Explosives 1, Gun Combat (any) 3, Heavy
+Weapons 1, Mechanic 1, Medic 0, Melee 0,
+Recon 1, Stealth 0
+The Traveller is a former
+soldier, familiar with many
+weapon systems and military
+operations. His service might
+have been with a major
+interstellar military force a
+planetary army, a mercenary
+force or a colonial militia.
+
+alternate character creation
+
+Athletics 0, Electronics 0, Explosives 0, Gun
+Combat (any) 2, Gunner 1, Heavy Weapons 0,
+Medic 0, Melee (blade) 1, Recon 0, Vacc Suit 2
+
+SKILLS
+
+19
+
+

@@ -1,0 +1,56 @@
+The one-parsec scale gives more information and
+can be considered the ‘adventure scale’ for Traveller.
+Roughly a subsector is presented at this level, showing
+starport classes and trade zones. The one-parsec scale
+is often used to plan trade runs or chart a route through
+the local area while avoiding likely naval patrol zones.
+
+This is the great advantage of Travellermap. It
+allows the Referee to quickly assess the local and
+wider situation and acts as a spur to creativity when
+something does not quite fit the norm. It also permits
+a group of Travellers to plan their route or pick a
+destination, and similarly enables the Referee to quickly
+see where the Travellers might decide to go next.
+
+STAR SYSTEMS
+Zooming in closer than the one-parsec scale adds
+the world’s Universal World Profile to the map and
+clicking on the hex calls up a box with a link to the
+system’s Wiki entry. Once expanded, this box gives
+access to additional data.
+
+USING THE MAP SCALES
+
+A system that is very distant from economic
+powerhouses and off major trade routes is unlikely
+to receive a great deal of trade. Yet if it has a highend starport there must be a reason why it was built.
+Perhaps the port was part of a failed project to expand
+commerce in the region, in which case the port
+might be a run-down shadow of its intended glory. Or
+perhaps the project is ongoing and the world has a
+boom-town atmosphere. No naval base nearby means
+less patrols, which in turn suggests a hazardous
+system prone to piracy and smuggling.
+
+At this point, the Referee has at his fingertips a
+quick reference to the entire star system – number
+and type of stars, terrestrial planets and gas giants,
+UWP for the mainworld and additional data. Much of
+this is presented as codes but expanding the entry
+produces an explanation.
+
+Travellermap and the Wiki
+
+Travellermap’s zoom feature can be used equally well
+to search for an adventure location or get an idea about
+the strategic and economic situation in a system. A
+great deal of background information can be inferred
+from the different map scales. Is the world in a frontier
+system? At an astrographic choke point? Is it isolated
+or on a main? How far is the nearest high-population,
+high-technology world or naval base?
+
+129
+
+

@@ -1,0 +1,87 @@
+EVENTS
+
+T
+
+additional careers
+
+15
+
+40
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+2D
+
+EVENT
+
+2
+
+Disaster! Roll on the Mishap table but you are not ejected from this career.
+
+3
+
+You are involved in good works in the community, gaining the respect of a large segment of
+society. Gain SOC +1 and an Ally.
+
+4
+
+A notable academic consults with you about a publication or documentary he is working on. Gain
+a Contact in academia.
+
+5
+
+You are sent to a new community or parish to preach The Word among the poor. Gain one level
+of Streetwise or Persuade.
+
+6
+
+You retreat from the mundane world for a time in the hope of a revelation, although this affects
+your work and relationships. Lose SOC -D3 but gain D3 Benefit rolls and DM+1 on these and all
+future Benefit rolls.
+
+7
+
+Life Event. Roll on the Life Events table.
+
+8
+
+You are chosen to represent your faith in a vid show or other highly public forum. Gain one level
+of Carouse or Persuade.
+
+9
+
+You are offered inducements to betray your faith. If you do so, you must leave this career and
+lose all Benefit rolls but gain Cr2D x 10,000 per Benefit roll you lose. If you choose not to sell
+out, gain 1D Enemies.
+
+10
+
+You are asked to secretly provide religious rites for a dying leader or noble, although they do
+not share your faith. If you agree, you gain an Ally in their household or family but also a Rival in
+your own faith, who does not agree with your choice.
+
+11
+
+Someone more charismatic but less devout than you becomes your superior. All future
+advancement rolls are subject to DM-2.
+
+12
+
+Your faith enjoys an explosion of popularity, largely thanks to your efforts. You are immediately
+promoted one grade and gain DM+1 on all future advancement checks.
+
+R
+
+

@@ -1,0 +1,135 @@
+LLIES, CONTACTS,
+RIVALS AND ENEMIES
+
+A
+
+The Traveller Core Rulebook includes rules for Allies,
+Contacts, Rivals and Enemies. This chapter deals
+with these people in more detail. It allows a Traveller
+to have Allies who hate them or an Enemy that would
+do anything for just a kind word from them, creating
+additional opportunities for roleplaying and storytelling.
+Whenever a Traveller acquires an Ally, Contact,
+Rival or Enemy, the following system can be used
+to determine their nature and characteristics. The
+process is as follows:
+1. Determine the degree of Affinity or Enmity towards
+the Traveller
+2. Determine the degree of Power or Influence
+3. Determine any special characteristics
+
+DEGREE OF AFFINITY OR ENMITY
+
+Not all Enemies are hell-bent on the destruction of
+the Traveller. Some are hostile in a passive manner
+and will simply refuse to help rather than going out
+of their way to set death-traps. At the other end of
+the scale is the implacable Enemy who will pursue
+the Traveller to the grave and might even find a way
+to arrange posthumous revenge. Some Rivals are
+actually friendly to the Traveller but have an agenda
+that will cause them to put their own requirements
+before those of a friend.
+Likewise, some Contacts are pretty neutral or even
+a little hostile but will still prove useful if a deal is
+beneficial to them. Some Allies are willing to fight to the
+death for a Traveller others merely well-disposed but
+not willing to put themselves out.
+
+Relationships
+Relationship
+
+Affinity
+
+Enmity
+
+Ally
+
+2D
+
+0
+
+Contact
+
+1D+1
+
+1D-1
+
+Rival
+
+1D-1
+
+1D+1
+
+Enemy
+
+0
+
+2D
+
+Every Ally, Contact, Rival or Enemy has a degree of
+Affinity and a degree of Enmity. Often one of these
+values is zero, placing them firmly on one side of the
+line or the other. However, some relationships are more
+complex than this, making these people unpredictable.
+Interactions with them have the potential to be tragic, or
+may be the key to undoing the plots of their masters if
+they can be won over.
+
+AFFINITY
+
+Affinity represents how favourably inclined the person is
+towards the Traveller. It is rated from zero to six.
+
+ENMITY
+
+Enmity is the opposite of Affinity. It indicates how much
+trouble the person will go to in order to harm or impede
+the Traveller. It is rated from zero to negative six.
+
+AFFINITY AND ENMITY AS INDICATORS
+
+The sum of Affinity and Enmity values is a useful
+indicator of an individual’s actions toward the Traveller.
+For example, a former friend who feels bitterly betrayed
+but sometimes remembers the good times might have
+an Affinity value of 3 and an Enmity value of -4, giving
+a net -1. On average, this person will not actively
+seek to harm the Traveller. However, depending on
+circumstances he might act in an unexpectedly positive
+manner – although in a bitter and ‘don’t you dare thank
+me’ sort of way. On another day he might screw over
+his former friend out of spite and later regret it.
+
+Affinity/Enmity
+Result
+
+Value
+
+2
+
+0
+
+3–4
+
+1/-1
+
+5–6
+
+2/-2
+
+7–8
+
+3/-3
+
+9–10
+
+4/-4
+
+11
+
+5/-5
+
+25
+
+

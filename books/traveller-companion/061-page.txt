@@ -1,0 +1,132 @@
+More commonly, grav pong takes the form of cutting
+artificial gravity in an area then turning it back on.
+Anyone caught may be able to position themselves so
+they land feet-first when the gravity comes back on,
+in which case they suffer no harm. This requires an
+Average (8+) Athletics (dexterity) check. Those who
+fail the check tumble when the gravity is cut. If they do
+not reorient themselves in time, they will fall awkwardly,
+although not from any great height. The result is 1D
+damage from a normal internal gravity system. This
+damage is reduced to D3 if the Traveller makes a
+Difficult (10+) Athletics (dexterity) check or uses a
+similar relevant skill such as Vacc Suit.
+
+GRAVITY, G-FORCES AND FALLING
+
+Per the Traveller Core Rulebook, falling damage in
+normal gravity environment is 1D per two metres fallen,
+plus 1D per four metres in a high-gravity (up to 2G)
+environment and minus 1D per four metres in a lowgravity environment. The following rules can be used to
+replace this system.
+
+FALL-LIKE SITUATIONS
+
+As noted elsewhere, ‘falling’ as such does not really
+happen in microgravity, although a fast-moving
+Traveller might crash into something. A Traveller can
+be subjected to a fall-like situation if a starship begins
+accelerating with the internal gravity turned off, making
+long fore-and-aft corridors dangerous. If artificial gravity
+is on, Travellers will be in contact with the floor or other
+surfaces and will not slide far. If they are floating around
+unsecured, they will ‘fall’ along the corridor. Aboard a
+high-G ship this can be fatal, although it is possible to
+slow the ‘fall’ by friction with the sides of the corridor.
+
+A Traveller may reduce the effective G-force
+experienced by the Effect (in Gs) of an Average (8+)
+Athletics (dexterity) check. Microgravity imposes
+DM-2 on all skill checks for those without relevant
+skills; this applies despite there being a gravity-like
+effect occurring.
+Gravity-like effects greater than 2Gs increase
+falling damage.
+
+G force Experienced
+(World Size Code)
+
+Damage from Falling
+
+Microgravity (Size 0)
+
+None
+
+Minimal Gravity (Size 1–2)
+
+1D-3 per 2 metres fallen
+
+Very Low Gravity (Size 3–4) 1D-2 Per 2 metres fallen
+Low Gravity (Size 5–6)
+
+1D-1 per 2 metres fallen
+
+Normal Gravity (Size 7–8)
+
+1D per 2 metres fallen
+
+High Gravity (up to 1.6G)
+(Size 9–10)
+
+1D+2 per 2 metres fallen
+
+Very High Gravity (up to 2G) 1D+4 per 2 metres fallen
+3–4G
+
+1D per metre fallen
+
+5–6G
+
+2D per metre fallen
+
+7–8G
+
+3D per metre fallen
+
+Each 2G thereafter
+
++1D per metre fallen
+
+SOFT AND HARD LANDINGS
+Falling damage assumes the Traveller falls on
+something hard such as rock or hard earth. A
+more yielding surface such as water or springy turf
+reduces the effective distance of a fall by 20%. A very
+yielding surface such as a deep pile of hay reduces
+fall distance by 40%.
+Travellers who fall onto a surface that can cause
+damage in its own right may suffer harm even if the fall
+does none. A modestly hazardous surface like rough
+rocks inflicts +1D damage on the Traveller, whilst very
+hazardous surfaces with numerous sharp edges and
+points inflict +2D damage. Extremely hazardous areas
+festooned with stalagmites or artificial spikes will inflict
++4D damage in addition to the fall. Armour protects
+normally against this damage.
+
+COLLISIONS AND FALLING OBJECTS
+
+A fall is, in reality, a form of collision between a small
+object (like a Traveller) and a large one (like a planet).
+However, it is simpler to consider the incident only in
+the context of the Traveller. Likewise, the effect on one
+object is often irrelevant, such as when an out of control
+vacc-suited Traveller slams into a cargo container. The
+container can be assumed to have suffered minimal
+damage at most. Collisions between smaller objects
+might have more mutually detrimental effects.
+
+GRAVITY AND RELATED EFFECTS
+
+In a fall-like situation like this, treat the distance the
+Traveller is accelerated for as the distance fallen.
+This will usually be the distance they travel before
+hitting an object but if the ship’s drives are only on
+for a moment the Traveller will coast the rest of the
+way and be hurt less.
+
+Falling Damage
+
+61
+
+

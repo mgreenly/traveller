@@ -1,0 +1,93 @@
+T
+
+Each ship should receive its own token, counter, or
+miniature on the map. For a VTT, online tools such as
+Token Stamp 2 can be used to create virtual tokens
+with ship names or art, which can be imported into
+the VTT. For a physical map, miniatures, counters or
+cardboard cut-outs sized to fit the map can be used. In
+either case, each token should be easily identifiable,
+including the name of the ship and its current vectors.
+Remember that in this system, facing does not
+have a mechanical effect but turning the token to its
+approximate direction of movement can be a useful
+visual aid. For a physical map, a small sticky note
+next to each token can be used to record the ship’s
+name and vector, ideally in pencil since the vectors
+will change from round to round. VTTs usually allow
+tokens to be named, and some include visual counters
+for gameplay elements such as ‘Armour Class’ and
+‘Hit Points’ that could be used to record the current
+speeds in the X and Y directions. It can also be useful
+to see at a glance what a ship’s maximum Thrust is (for
+ships with Reaction drives, a good practice is to record
+maximum Thrust as M+R, where M is the maximum
+manoeuvre drive Thrust, and R is the maximum
+reaction drive Thrust – thus, a ship with an M-drive 5
+and R-drive 3 would be denoted as (5+3). If using a
+VTT that does not provide visual token counters, modify
+the name of the VTT token with its current vectors, for
+example, ‘Beowulf (3, -2)’.
+
+Vector-Based Space Combat
+
+When multiple ships of the same type are moving
+together, a single token can be used to track the group
+– either use the name to denote the number of craft (for
+example, ‘Light Fighters x5’ or note the number on the
+sticky note being used to track their movement vectors.
+
+174
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+OBJECTS IN SPACE
+
+Planets, asteroids, derelict ships, space stations and
+so on may also be represented as tokens. Be sure to
+scale objects appropriately – a large planet may be
+several spaces wide! It is generally simplest to treat
+these objects as stationary on the map, even for
+space stations that have a maximum Thrust of 0.1G
+but in some cases the Referee may choose to give
+them a speed.
+
+ROUND SEQUENCE
+ACCELERATION PHASE
+
+After the Initiative phase but before the Movement
+phase, a new Acceleration phase is added. In this
+phase, each ship in reverse initiative order determines
+how much Thrust they will apply to movement this
+round, adds that to their current recorded vectors and
+records their new vector values. Using reverse initiative
+order in this phase allows higher-initiative ships to react
+to the anticipated movement of ‘slower’ ships. Just as
+in the space combat rules, any Thrust intended to be
+used for evasive action or helping gunners cannot be
+applied as movement Thrust during this phase. Do not
+move ships or missiles on the map during this phase.
+That occurs during the Movement phase.
+For example, a ship with recorded vectors of (-12,
+7) and a maximum Thrust 6 applies Thrust 4 in
+the positive-X direction (slowing its speed along
+the X axis) and Thrust 2 in the positive-Y direction
+(increasing its speed along that axis). Its resulting
+speed vectors will therefore become (-8, 9), so the
+Traveller records that as their new speed.
+
+R
+
+

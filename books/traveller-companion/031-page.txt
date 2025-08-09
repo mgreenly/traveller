@@ -1,0 +1,115 @@
+This individual belongs to an unusual cultural or religious group.
+
+32
+
+This individual belongs to an uncommon alien species.
+
+33
+
+This individual is particularly unusual, such as an artificial intelligence or very alien being.
+
+34
+
+This individual is actually an organisation such as a political movement or modest sized business.
+Powerful groups will want a lot in return for their support; minor ones will expect less but may not be able
+to offer much support.
+
+35
+
+This individual is a member of an organisation which holds a generally opposite view of the Traveller.
+Thus an Ally is a member of an organisation which opposes the Traveller’s agenda.
+
+36
+
+This individual is a questionable figure such as a criminal, pirate or disgraced noble. The Traveller will be
+judged by association.
+
+41
+
+The Traveller and this individual had a very bad falling out. Reroll Enmity on 2D and use the new result if
+higher than the original.
+
+42
+
+The Traveller and this individual had a reconciliation or other very positive change in their relationship.
+Reroll Affinity on 2D and apply the new result if it is higher than the original.
+
+43
+
+This individual fell on hard times. Reduce Power by -1.
+
+44
+
+This individual was ruined by misfortune caused by the Traveller. Reduce Power to 0 and increase
+Enmity by +1.
+
+45
+
+This individual gained influence with the Traveller’s assistance. Increase Influence by 1 level and Affinity
+by 1 level.
+
+46
+
+This individual gained power at the expense of a third party who now blames the Traveller. Increase
+Power by +1 and create a new Enemy for both the Traveller and this individual.
+
+51
+
+This individual is missing under suspicious circumstances.
+
+52
+
+This individual is out of contact doing something interesting but not suspicious. Their reappearance may
+bring about an unexpected opportunity.
+
+53
+
+This individual is in desperate trouble and could use the Traveller’s help.
+
+54
+
+This individual has had an unexpected run of good fortune lately.
+
+55
+
+This individual is in prison or otherwise trapped somewhere.
+
+56
+
+This individual is found or reported dead. This may or may not be the whole story…
+
+61
+
+This individual has recently married or has experienced some other life-changing event that creates
+new responsibilities.
+
+62
+
+This individual has been disowned by family, has become divorced, or otherwise has suffered a
+negatively life-changing event.
+
+63
+
+This individual’s relationships have begun to affect the Traveller. Create a new Contact if this individual’s
+Affinity is higher than Enmity or a Rival if Enmity is higher than Affinity.
+
+64
+
+The relationship between Traveller and associate is completely redefined. Allies become Enemies and
+vice versa; Rivals become Contacts. Swap the Affinity and Enmity values over.
+
+65
+
+Roll two more special characteristics.
+
+66
+
+Roll three more special characteristics.
+
+Allies, contacts, rivals and enemIes
+
+31
+
+31
+
+

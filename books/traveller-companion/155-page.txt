@@ -1,0 +1,98 @@
+Combinations are possible, such as fast jump/high
+variance regions.
+Jump variance is not well understood. Some
+scientists believe that sparsity of stars (and therefore
+lesser gravitational influence) can somehow affect
+the time taken to make a jump. This does not
+explain variation in areas with dense stellar clusters
+however. Some areas of dense star systems have
+shorter average jump duration than is typical and
+some sparse regions require longer.
+
+An instant jump follows all the rules for normal jump
+drives in terms of fuel requirements and distance that
+can be covered. This does impose some limits on
+travel, since ships still need to refuel, but explorers
+will be able to push much farther out before fatigue
+and a need for repairs to the ship require a return
+to base. Thus an instant-jump universe will tend to
+feature societies spread over a greater area – why
+settle a hellhole of a world when there are garden
+planets within a few days’ travel – with underdeveloped
+backwaters in between the major worlds.
+
+ALTERNATE JUMP OPERATIONS
+
+REAL-SPACE TRANSIT
+
+Some or all of these options could be applied to the
+entire setting, or perhaps the technology might be
+restricted to one alien race or a single prototype built
+by a crazed genius. If so, obtaining one of these
+capabilities might be the goal of an entire campaign – or
+it may enable the Travellers to do things others cannot
+and therefore be a driving force in the universe.
+
+High-jump ships offer faster travel, which has political
+and economic implications. Bulk goods will be moved
+aboard slow jump-1 freighters whilst faster ships carry
+messages and priority cargo. It is possible to build a
+low-jump ship with a great deal of fuel, making gaps
+between mains and clusters less of a barrier. A ship still
+needs fuel equal to 10% of its tonnage per parsec but
+a jump-1 ship with 50% of its hull devoted to fuel tanks
+can make five-parsec voyages – albeit slowly.
+
+Changing how the jump drive works can alter the
+setting for a Traveller universe without requiring new
+starships to be designed with different technology.
+The classic Traveller starship designs can be used
+unchanged in a universe where their performance
+is altered but the size and fuel consumption of their
+components is not.
+
+INSTANT JUMP
+
+This allows an interstellar society to spread out
+more evenly, rather than being heavily constrained
+by astrography. Absolute distance becomes more
+important than the presence of easily navigated mains
+and clusters. For a band of Travellers with such a ship
+in an otherwise standard universe, the implications
+are considerable. They will be able to go places others
+cannot reach without extensive prepositioning of fuel
+or tankers and bypass choke points where enemies
+are expecting to encounter them. The Travellers
+will have a freedom of movement denied to others,
+making them the only ones able to carry out some
+missions or giving them a chance to avoid a response
+after some nefarious deed.
+
+THE JUMP DRIVE
+
+Instant jump technology is a universe-changer and
+should be implemented with caution. In the Third
+Imperium universe the speed of communication
+is limited by the rate at which ships could jump
+from one star system to another with information.
+Reducing jump time to zero, or to a short interval,
+allows messages to be sent as fast as ships can
+refuel and re-provision – faster if a ‘pony express’ of
+ready couriers is maintained. This technology also
+has strategic implications. Transferring a fleet from
+one region to another could take months using the
+standard jump drive. If it can be done in days instead,
+the strategic picture will be altered.
+
+Under this variant, the jump drive does not take a ship
+entirely out of the ‘real’ universe. Instead, a ship can
+proceed at a rate of one parsec per week per jump
+number (so a jump-2 ship can cover two parsecs in
+a week, or one parsec in 3.5 days) and can receive
+communications or even change course during its
+interstellar voyage. If fuel requirements are kept the
+same then standard designs can be used unchanged.
+
+155
+
+

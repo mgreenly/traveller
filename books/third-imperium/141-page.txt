@@ -1,0 +1,104 @@
+Bright-Side Crawler
+As much as they might try to avoid it, there are times
+when a mission to the bright side of Arla Un is necessary.
+The bright-side crawler is just the vehicle for the job. The
+crawler is designed to withstand the intense heat of Arla
+Un’s beaming blue-white subgiant star and can transport
+a crew of six (one driver and five passengers) across the
+bright face in safety. Arla Un’s mercurial landscape requires
+caution, so the crawler is outfitted with top-notch sensory
+and navigation systems. Its satellite uplink provides
+constant and secure communications with the world’s
+roving cities and starports.
+TL
+
+11
+
+SKILL
+
+Drive (track)
+
+AGILITY
+
+0
+
+SPEED (CRUISE)
+
+Medium (Slow)
+
+RANGE (CRUISE)
+
+100 years
+
+CREW
+
+1
+
+PASSENGERS
+
+5
+
+CARGO
+
+1 ton
+
+HULL
+
+84
+
+SHIPPING
+
+14 tons
+
+COST
+
+MCr2.579
+
+EQUIPMENT AND WEAPONS
+
+Airlock, Autopilot (advanced), Communications System
+(improved, satellite uplink), Computer/1, Environment
+Protection (hostile, vacuum), Fire Extinguishers,
+Galley (seats 5), Life Support (long term), Manipulator
+Arm (basic), Navigation System (improved), Sensors
+(improved, sensor mast).
+
+ARMOUR
+FRONT 3
+
+REAR
+
+3
+
+SIDES
+
+3
+
+EQUIPMENT
+Autopilot (skill level)
+
++3
+
+Communications (range)
+
+500km
+
+Navigation (Navigation DM)
+
++2
+
+Sensors (Electronics (sensors) DM)
+
++1
+
+Camouflage (Recon DM)
+
+—
+
+Stealth (Electronics (sensors) DM)
+
+—
+
+141
+
+

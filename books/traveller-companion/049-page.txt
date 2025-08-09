@@ -1,0 +1,85 @@
+COMBAT
+This chapter contains optional rules for combat
+situations. As with all other material in this book, the
+Referee must decide which, if any, of these rules
+are to be in use. Some add realism or new combat
+options, while others cover situations that might
+arise during a campaign.
+
+AMMUNITION EXPENDITURE
+Travellers can only carry a limited amount of
+ammunition – half a dozen rifle magazines represents
+a significant amount of weight and bulk! This system
+allows for the possibility that Travellers might run out of
+ammunition during a firefight, without requiring them to
+keep track of every shot fired.
+An attack made with a firearm or energy weapon is
+not necessarily a single shot. For every shot that has
+a chance to hit the target, the Traveller may have fired
+several more rounds or bursts that went nowhere
+useful, which means that a weapon could be empty
+after a single attack. This represents ‘walking’ a
+weapon onto target or the general difficulty of hitting
+anything under combat conditions.
+Every weapon that uses ammunition has a chance
+to run out whenever the Traveller makes an attack.
+This is represented by rolling a dice of a different
+colour along with the attack dice. If the ammunition
+dice comes up equal to or below the weapon’s
+Reload Threshold, the weapon is empty and must be
+reloaded before firing again.
+This does mean that a lucky Traveller might get
+through a firefight lasting 15 combat rounds without
+reloading his revolver. The Referee can deal with this
+in one of two ways. The first is to assume that the
+Traveller has had the opportunity to slip a couple of
+rounds into the weapon now and then during lulls in
+the action, or has swapped part-empty magazines
+out whenever they could. Alternatively, the Referee
+might impose common-sense limits on weapon
+capacity – a six-shot revolver is definitely empty after
+six attacks have been made.
+
+The base Reload Threshold for most weapons is 2,
+assuming a standard capacity weapon for its type.
+This means that if the ammunition dice comes up a 1
+or 2, the weapon is empty. Weapon modifications can
+alter the Reload Threshold, as can the nature of the
+attack being made.
+To determine how Reload Threshold is affected,
+start with the weapon’s normal mode of attack in the
+Reloading table. Moving up the table reduces Reload
+Threshold by -1 (to a minimum of 1), while moving
+down increases it by +1. Weapons are still limited by
+their maximum rate of fire – a revolver cannot deliver a
+Very Rapid Fire attack!
+In the case of weapons that only fire single shots, such
+as a black powder pistol or disposable anti-tank missile,
+the weapon automatically requires reloading after one
+attack. Weapons such as a double-barrelled shotguns
+are treated as manual repeaters for their first attack
+and are assumed to be empty after the second.
+Rate of Fire
+• Aimed Fire
+• Normal Attack
+• Burst
+• Autofire
+• Rapid Fire
+• Very Rapid Fire
+
+DETERMINING RELOAD THRESHOLD
+The Reload Threshold of a weapon is based on its
+ammunition capacity relative to its normal mode of
+operation, as shown on the Reload Threshold table.
+Increasing ammunition capacity by 50% reduces the
+Reload Threshold by 1, while increasing it by 100%
+reduces Reload Threshold by 2, to a minimum of 1.
+Some variation can be permitted here; a weapon
+that is within +/1 20% of these figures qualifies
+for the modification. Thus an assault rifle with a
+42-round magazine counts as a 50% increase in
+ammunition capacity.
+
+49
+
+

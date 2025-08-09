@@ -1,0 +1,105 @@
+T
+
+Class D: Code D is assigned to a very basic port.
+A Class D port is almost always a downport with
+no orbital component at all. Only unrefined fuel is
+available and no repair facilities are on offer; what
+facilities there are may be quite primitive.
+Class E: Code E indicates what is often termed a
+‘frontier installation’. A Class E port can be nothing
+more than a ‘usual place to land’ or a known safe
+area. There are no facilities as such, although
+there might be a settlement close by where ad-hoc
+services can be obtained.
+Class X: Code X applies to worlds with no port at
+all, such as unexplored, interdicted and uninhabited
+worlds. Not only are there no port facilities, there is
+no guarantee that a landing site will be safe. Ground
+subsidence, flooding and other problems can make an
+apparently useable site hazardous.
+As a general rule of thumb, starports can be considered
+to offer the following services.
+
+Starports and Spaceports
+
+E: ‘Safe place to land but there might well be
+nobody there’.
+D: ‘Safe place to land, you can get fuel and supplies'.
+C: ‘Fuel, supplies and some skilled maintenance.
+Commercial and freighting opportunities for small ships’.
+B: ‘High trade volume, skilled maintenance and
+repairs, regular passenger and bulk freight services
+passing through.’
+A: ‘Huge trade volume, shipbuilding. Lots of big ships
+coming through on a frequent basis.’
+
+134
+
+SPACEPORTS
+A star system or even a single planet might have
+multiple spaceports. Sometimes these vie for
+the status of starport, especially on balkanised
+worlds that have a number of states clamouring for
+interstellar trade. Picking the wrong port on such
+a world can result in a very different experience.
+Spaceports can be assigned a code, forming a
+continuation of the A-E system for starports.
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Class F: This is assigned to a high-quality port
+capable of handling a large volume of traffic. Class F
+spaceports usually have facilities equivalent to a Class
+B starport or perhaps a high-end C. A few are as large
+and capable as Class A ports and may have additional
+facilities such as large shipyards or a naval base.
+Class F ports often serve large cities on a planet with a
+central starport, or important offworld installations, such
+as colonies and the like.
+Class G: A G-code is assigned to a basic or fairly poor
+spaceport, equivalent to the lower end of Class C or
+better than average Class D starports. A Class G port
+is likely to be found at a minor city or typical offworld
+asset such as a mining base on a gas giant moon.
+Class H: An H-code is typically assigned to a very
+basic or improvised facility equivalent to a low-end
+Class D port, or simply a landing area next to a small or
+temporary installation. A scientific outpost with a dozen
+personnel, which receives a supply ship once every
+three months, would probably have Class H port.
+Class Y: Code Y indicates no spaceport is present. The
+starport equivalent code, Class X, can also be used.
+
+PORT FEATURES AND EVENTS
+
+Some ports have additional capabilities or different
+characteristics to those indicated by the standard
+codes. Any of the special types listed can be
+implemented at the Referee’s discretion. Alternatively,
+when generating a random starport, a special feature
+is present on a 2D roll of 8+. The exact feature can be
+determined by the Port Features table or chosen by the
+Referee. Similarly, an event might be taking place at
+the port. Events are less permanent than features and
+occur on a 2D roll of 6+.
+All of these features are subject to Referee
+interpretation or veto. For example, a Class E starport
+is not likely to be a major trade nexus, at least not for
+interstellar trade. However, it might be a centre for
+unusually large amounts of planetside trade.
+
+R
+
+

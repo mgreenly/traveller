@@ -1,0 +1,104 @@
+ROAD SKILLS
+AND SPECIALITIES
+
+B
+
+The specialities listed in the Traveller Core Rulebook
+are not the only ones possible. The following
+expanded specialties can be used at the Referee’s
+discretion. In addition, these rules also introduce the
+concept of a sub-speciality.
+
+BROAD SKILLS
+
+In the Traveller Core Rulebook, a Traveller who
+possesses a skill which has specialities associated
+with it is treated as having a skill level of 0 in all
+specialities. In most cases this is a reasonable
+assumption – a starship engineer who specialises in
+jump drives will no doubt understand at least the basic
+principles of power plant operation.
+However, some skills are very broad in scope; notably
+Art, Profession and Science. If these rules are used,
+Travellers who possess a skill in one speciality are not
+treated as having skill level 0 in all others – the ability
+to paint a landscape does not permit a Traveller to play
+the piano and an understanding of linguistics does not
+translate to a grounding in cosmology or knowledge
+of xenology. Nor does the ability to write Traveller
+adventures translate to creating useful maps for them!
+These three skills therefore use specialities and
+sub-specialities. A Traveller who has any skill level
+(including 0) in a sub-speciality is treated as having
+skill level 0 in all sub-specialties of that group but has
+no skill in other sub-specialities. The specialities below
+expand the Art, Profession and Science skills and add
+additional specialities (and sub-specialities) to those
+already listed in the Traveller Core Rulebook. When a
+Traveller gains a skill level in one of these broad skills,
+he must assign it to a sub-speciality.
+The format for a sub-specialism skill is: Skill
+(specialism/sub-specialism), for example: Science
+(life sciences/biology).
+
+ART
+The Art skill is divided into the following specialties:
+Performing: The ability to produce an entertaining or
+convincing performance by use of voice, expression,
+body movement and so forth.
+
+Creative: The ability to create works of art by sculpting,
+painting and digital media.
+Presentation: The ability to convey information or
+emotion through writing, holographic images or an
+impassioned speech.
+The Art skill has the following sub-specialities, most of
+which are described in the Traveller Core Rulebook:
+Performing
+
+Creative
+
+Presentation
+
+Performer
+
+Visual Media
+
+Holography
+
+Instrument
+
+Exotic Media
+
+Writing
+
+Creative Arts/Exotic Media covers strange and possibly
+alien art forms using very unusual techniques and
+materials such as psionic manipulation of particles or
+high-technology alteration of matter.
+
+PROFESSION
+The Profession skill is perhaps the broadest of all.
+The rules below expand and subdivide Profession
+into several areas of related expertise. Those listed
+as specialities in the Traveller Core Rulebook are
+not repeated here.
+Their descriptions remain the same but they are
+now sub-specialities.
+Some Profession specialities deal with general
+fields of endeavour, such as working in hostile
+environments, whilst others are geared towards
+making a living at a general Tech Level. Possession of
+a speciality in an area of the Profession skill indicates
+a general familiarity with procedures, terminology
+and the working environment but does not substitute
+specific skills. For example a Traveller with Profession
+(crewmember) can find and use emergency equipment
+aboard a starship but is no more skilled at operating a
+vacc suit than anyone else without that skill. Likewise,
+he can operate and clean galley equipment but needs
+the Steward skill to make proper use of it.
+
+43
+
+

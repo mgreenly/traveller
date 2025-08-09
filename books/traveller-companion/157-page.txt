@@ -1,0 +1,99 @@
+Objects in low orbit cannot retain direct line-ofsight contact to any fixed point on the ground. This
+is not generally a problem if there are satellites or
+other installations to bounce signals off. Most world
+governments consider their low orbit zone to be
+strategically important and those that can will usually
+maintain some form of low-orbit defence capability.
+This might be ground-based missiles or perhaps
+a few fighters based at the highport in the case
+of a minor world; major worlds tend to have much
+stronger defences. Low-orbit traffic is also closely
+regulated in most cases.
+An object whose orbital period matches the rotation
+of the planet below can maintain a geosynchronous
+orbit, i.e. it is constantly over the same spot on the
+ground, providing it follow’s the world’s equator.
+This is useful for communications satellites but also
+serves as a delineation point between medium and
+high orbit. In systems where traffic is highly regulated
+it is common for ships to request permission before
+transiting between the High Orbit Zone (HOZ), Medium
+Orbit Zone (MOZ) and Low Orbit Zone (LOZ). These
+designations are arbitrary but useful.
+Altitude for a geosynchronous orbit depends on the
+planet’s speed of rotation and may be a theoretical
+point for worlds with very slow or no rotation. For Earth
+this point is an altitude of about 35,000 kilometres.
+Beyond this, the HOZ is generally considered to extend
+out to 10 times the equatorial diameter of the world.
+This ‘10 diameters’ rule is another arbitrary but useful
+distinction; most worlds consider anything within 10
+diameters as being in their sovereign territory.
+
+MOVEMENT AND NAVIGATION
+
+Movement in normal space (i.e. not in jumpspace) is
+governed by a set of well-understood physical laws.
+An object that is moving will continue to move with the
+same velocity (speed and direction) unless something
+makes it change. Likewise, an object not moving
+stays at rest unless something makes it start moving.
+However, the object is acted upon by the gravitational
+attraction of other objects. A small asteroid a long way
+away exerts so little force that it can be discounted but
+planets – especially gas giants – and the system’s stars
+exert a more noticeable force.
+Trying to go from one place to another in a straight line
+is impossible in such an environment, as well as being
+undesirable. Every object in a star system is in motion;
+even the stars. It is normal when navigating to take
+one of the system’s stars as a frame of reference and
+ignore its motion – the movement of the system as a
+whole relative to the rest of the galaxy is not significant
+when delivering a cargo of supplies to a mining outpost
+on one of the outer planets.
+However, the orbital paths of various bodies in the
+system cause their positions to change relative to one
+another. Moving between any two of them requires
+calculating where the target is going to be at time of
+arrival and determining a path to get there efficiently.
+It is possible to save some time by using the gravity
+and motion of objects in the system to create a highly
+efficient trajectory. Likewise, course changes for a new
+destination are usually very inefficient – a ship close
+to the new destination may actually take longer to turn
+around and get there than one starting farther away but
+calculating an efficient course from the outset.
+
+TRAVELLING IN NOMAL SPACE
+
+Almost all local activity takes place within 10
+diameters. Stations and satellites are typically located
+in low orbit, so most traffic is in that region with a
+few vessels having business further out. Any craft
+that goes beyond the 10 diameter limit is considered
+to have left orbital space and is probably on its way
+somewhere else. That might be another body in
+the same system or the vessel might be making an
+interstellar voyage. Ships enter and emerge from jump
+beyond the 100-diameter limit, unless something has
+gone wrong, so most vessels must transit in or out of
+orbital space in order to make a jump.
+
+For Earth, the safe 100-diameter jump limit is roughly
+1,275,000 kilometres, a bit over three times the
+distance from the surface to the Moon. Transit in and
+out from a safe jump distance can be quite lengthy
+and in a busy system there might be numerous ships
+headed in and out at once. However, there is no single
+‘jump point’ in a system so these ships will be spread
+out over a huge volume of space. Other vessels are
+just distant transponder dots on a navigational plot and
+space can be quite lonely even this close to a planet.
+Vessels making a long transit out to other worlds in the
+same system may be very far from any assistance if
+something goes wrong.
+
+157
+
+

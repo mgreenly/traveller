@@ -1,0 +1,103 @@
+T
+
+R
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+TORPEDO-INTERCEPTOR CLUSTER
+At TL6, very high velocity guns firing discarding
+sabot penetrator rounds can engage targets in low
+orbit, although the time required to reach the target
+imposes DM-4 to attack rolls against any orbital
+target that can manoeuvre under power – this is
+in addition to any evasion the target may attempt.
+The usual tactic is to use several guns to fire a box
+barrage around the target’s projected location using
+fragmentation shells in the hope of doing at least
+some damage. A direct hit with a penetrator round
+will do far more harm but is unlikely to hit at all.
+At TL7, hypervelocity guns are available which can
+engage a target in high orbit with at least some chance
+of a hit. High orbital targets are subject to DM-4 to
+attack rolls in addition to any evasion performed,
+providing the target can manoeuvre. Targets in low orbit
+are subject to DM-2 if they can manoeuvre.
+Fragmentation ammunition does half as much damage
+as a standard penetrator round but gains DM+2 to
+attack rolls which may offset some targeting difficulties.
+
+Starship Weaponry
+
+GENERAL-PURPOSE MASS DRIVER
+
+182
+
+A large but fairly low-powered mass driver, this is not
+a weapon as such but can be pressed into service
+for bombardment purposes. It is not very useful as
+a ship-to-ship weapon, suffering DM-4 to attack rolls
+against any target that can manoeuvre, in addition
+to any evasion attempts. Launchers of this sort are
+often carried aboard mining ships to deliver ore to
+a remote destination and the same system can be
+used to bombard a planet with asteroidal debris or
+even the compacted debris of an orbital defence
+squadron. Launchers are also used to deploy mines
+and satellites, saving their own drive systems for
+necessary manoeuvres. A general-purpose mass
+driver requires a small bay for its mountings and can
+launch a mass equal to its own. If additional capacity
+is required, two tons aboard the ship are required
+per ton of additional launch capacity, at a cost of
+Cr75000 and 3 Power per ton.
+
+Torpedo-interceptors are shipped as clusters of
+four; a cluster fits on a hardpoint instead of a turret
+or other mount. Designed to be launched at the last
+instant before a missile or torpedo impacts the vessel,
+interceptors are sometimes carried by vessels with
+no other missile capability and require no additional
+electronics. Interceptor clusters are one-shot systems
+which must be removed and replaced – a dockside
+job – after firing. Torpedo interceptors can be used only
+against incoming missiles or torpedoes. Any or all of the
+interceptors in a cluster can be fired at once; each kills
+one missile on 6+ on a 2D roll and a torpedo on 8+.
+
+WEAPON TRAITS
+Several new weapon traits are introduced here
+for starship weaponry.
+Chain Reaction: This weapon continues to
+deal damage over time as its effects dissipate
+slowly. A target hit by a Chain Reaction weapon
+takes normal damage the first round then half
+as much the following round (rounding down),
+halving again each round thereafter until damage
+reaches zero. If another Chain Reaction hit
+is received during this time, only the highest
+damage is applied (so only one Chain Reaction
+effect is taking place at any one time).
+Reductor: This weapon ruins armour as it
+attacks a ship. The Armour score of a ship
+hit by a Reductor weapon is reduced by -1
+for every dice rolled for damage. Damage is
+applied after this reduction.
+Weak: This weapon can devastate an
+unprotected target but its lethality quickly
+drops off when met with armour. The Armour
+score of the target is doubled against the
+damage this weapon deals.
+
+R
+
+

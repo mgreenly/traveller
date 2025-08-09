@@ -1,0 +1,132 @@
+A far simpler approach is to take a ballpark figure for
+distance between two points and randomise it a little.
+If the resulting distance is more than the average then
+the bodies are at points in their orbit where they are on
+opposite sides of their primary. If the figure is low, then
+the two bodies are in a favourable position.
+The Interplanetary Distances table is based on orbital
+paths of bodies in our own solar system, which
+orbits a main-sequence star. They use an average
+of minimum and maximum distances, which in turn
+depend on the relative positions of the two bodies.
+This means that distances between two outsystem
+bodies can vary far more than the distance between
+two inner-system planets.
+
+Once a baseline value for distance is established,
+the Referee should randomise the actual value. The
+simplest way to do this is to roll 2D-2, creating a value
+between 0 and 10 and multiply that by 5% and 1D
+to determine positive or negative (1–3 positive, 4–6
+negative). Add or subtract the percentage rolled to the
+baseline distance to find the current value and apply
+the transit times or the travel calculations from pages
+152–3 of the Travellers Core Rulebook. This assumes
+a constant acceleration/deceleration of course; a ship
+that coasts much of the way will be far slower. The
+Referee may allow the transit time to be decreased (or
+increased, if the players are so inclined) by 1D percent
+per point of Effect on an Astrogation check.
+
+NOTE ON USING THE TRAVEL FORMULAE
+Interplanetary Distances
+Example
+
+Distance
+
+Surface to low orbit of small
+(Size 4) planet
+
+100–1,000km
+
+Surface to geostationary orbit
+of small (Size 4) planet
+
+20,000km
+
+Surface to low orbit of average 200–2,000km
+(Size 8) planet
+35,000km
+
+Surface to 100 diameters of
+small (Size 4) planet
+
+640,000km
+
+Surface to 100 diameters of
+average (Size 8) planet
+
+1,280,000km
+
+Close inner system bodies
+(e.g. Venus and Mercury)
+
+100,000,000km
+
+Distant inner system bodies
+(e.g. Earth to Asteroid Belt)
+
+400,0000,000km
+
+Inner system body to close
+outsystem body (e.g. Earth
+to Jupiter)
+
+800,000,000km
+
+Inner system body to distant
+outsystem body (e.g. Earth
+to Uranus)
+
+3,000,000,000km
+
+Close outsystem body to
+distant outsystem body (e.g.
+Jupiter to Pluto)
+
+6,000,000,000km
+
+One gas giant moon to
+another
+
+up to 2,000,000km
+
+In the formulae:
+Distance is in metres. Multiply kilometres by 1,000 to
+get the value in metres.
+Time is in seconds. Divide Time by 3,600 to get the
+value in hours and divide by 24 after that for days.
+Acceleration is in metres per second. Multiply the
+ship’s Thrust to get acceleration in metres per second.
+Thrust 1 (1G) is actually about 9.81 metres per second
+but 10 is close enough for our purposes.
+For example, the Travellers want to know how long
+a resupply ship will take to make the long haul out
+from the mainworld to a mining outpost on a distant
+gas giant moon. The Referee decides this is about
+equivalent to going from Earth to Uranus, so takes
+3,000,000,000 kilometres as the baseline distance.
+His 2D-2 roll produces a result of 3 and the 1D roll
+indicates this is a positive value. He thus adds 15% on
+to the distance, for a value of 3,450,000,00 kilometres.
+According to the travel formulae on page 152 of the
+Traveller Core Rulebook, a Thrust 1 ship will take
+326 hours, or about 13 days, to make the transit. A
+jump-capable ship can do it in seven days, but a nonstarship is cheaper and can carry more cargo per trip.
+More importantly, the Travellers now know they can
+take some time off and still get to the outpost in time
+to ambush the supply ship.
+
+TRAVELLING IN NOMAL SPACE
+
+Surface to geostationary orbit
+of average (Size 8) planet
+
+The travel calculations in the Traveller Core
+Rulebook use SI units. Using them is simply a matter
+of putting numbers into a calculator but care must be
+taken to use the right units.
+
+159
+
+

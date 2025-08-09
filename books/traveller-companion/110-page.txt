@@ -1,0 +1,129 @@
+T
+
+The lobug is a nuisance found on several worlds,
+having been carried there inadvertently by spacecraft.
+They resemble woodlice to some extent, although
+a typical lobug is about 50 centimetres long and 20
+centimetres high to the crest of its shell. Lobugs can
+survive extremely low pressures and even vacuum,
+although hard vacuum forces them to curl up and
+become dormant. They can remain thus for some years
+but will eventually expire unless conditions that permit
+the lobug to function return. Lobugs are only able to
+tolerate normal pressures for a few minutes before
+expiring; their bodily fluids tend to leak out when they
+die under such conditions and stink very badly indeed.
+Lobugs can infest areas of starships and spaceports
+as well as low-pressure gray worlds. They are a
+nuisance more than anything else, as they gnaw at
+wiring insulation or burrow into cargo seeking food.
+Although many starships depressurise the cargo hold
+in transit, this rarely creates a perfect vacuum. Lobugs
+thrive in this sort of environment, scuttling off to hide
+when the pressure returns. They can be very hard
+to find when they do so, although the ones that did
+not make it to cover in time will make their position
+evident to anyone with a nose.
+
+Animal Encounters
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Species D-8071 (Hull Net)
+
+Lobug
+
+110
+
+R
+
+Animal
+
+Hits
+
+Speed
+
+Lobug
+
+10
+
+4m
+
+Skills
+
+Survival 1
+
+Attacks
+
+Claws (1D3)
+
+Traits
+
+Armour (+2), Small (-2), Vacuum
+
+Behaviour
+
+Omnivore, Reducer
+
+Species D-8071 is known by many unofficial names,
+of which hull net may be the commonest. Native to
+the upper atmospheres of gas giants, Species D-8071
+resembles a loosely connected web of organic nodules.
+It drifts on the winds and consumes primitive amino
+acids or hydrocarbons formed by electrical activity and
+turbulence. These animals are not hostile and may not
+even be aware of passing vehicles, but can become
+entangled on antennae or hull protrusions. This is not
+normally a major problem but can lead to examples
+being transferred to other atmospheres.
+A ship that has become entangled in a hull net may
+experience electrical disruptions due to the creature’s
+powerful bio-electrical field. This can interfere with
+sensors and the operation of the jump drive. The
+only solution is to scrape off the net from outside the
+ship, a time-consuming process that breaks it up but
+may or may not kill it. Attempting to jump with a net
+in place may have no effect or can cause the drive to
+malfunction wildly; it is not always possible to predict
+the effects from one jump to another.
+Animal
+
+Hits
+
+Speed
+
+Species D-8071
+
+10
+
+Drifts
+
+Skills
+
+None
+
+Attacks
+
+None
+
+Traits
+
+Gossamer
+
+Behaviour
+
+Omnivore, Filter
+
+R
+
+

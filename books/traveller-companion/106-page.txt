@@ -1,0 +1,124 @@
+T
+
+A large air-breathing swimming predator vaguely
+resembling a Terran plesiosaur, the lakefang has
+spindly legs and is slow out of water but can reach a
+considerable distance with its long neck to deliver a
+powerful bite. Adults are solitary but young lakefangs
+swim in packs of anywhere up to a dozen until they
+are more or less mature. Packs can turn on one
+another; indeed, the equivalent of a coming-of-age
+celebration for a lakefang is the day it savages its
+siblings and eats them.
+Lakefangs sometimes attack boats, either by
+bumping them from underneath to spill the occupants
+or more often by simply sinking its teeth into the
+vessel and jerking about until it is sunk, then chasing
+down the occupants. It is not known whether
+lakefangs do this because they see a boat as a
+threat or simply out of spite.
+
+Animal Encounters
+
+A
+
+V
+
+E
+
+L
+
+L
+
+E
+
+Swamp Queen
+
+Lakefang
+
+106
+
+R
+
+Animal
+
+Hits
+
+Speed
+
+Lakefang
+
+56
+
+12m (2m on land)
+
+Skills
+
+Melee (natural) 2
+
+Attacks
+
+Bite (4D)
+
+Traits
+
+Armour (+4), Large (+3), Ornery
+
+Behaviour
+
+Carnivore, Killer
+
+The swamp queen appears to be a composite creature
+comprising a central body mass – or sometimes multiple
+masses connected by tendrils – and numerous outlying
+tentacles attached to smaller fleshy concentrations. The
+main masses, containing critical organs, are usually
+located underwater or in soft sediment, with tentacles
+grappling prey towards a nearby mouth. An averagesized swamp queen can take prey up to the size of
+a small deer, although typically they feed on fish and
+amphibians dwelling in their body of water. Rumours
+persist of much larger queens which pose a serious
+hazard to livestock or even passing vehicles.
+It is not clear if a multiple-node swamp queen should
+be considered a single organism or a group. Organs
+are duplicated, enabling a mass cut off from the rest
+to survive on its own, but a node can be kept alive by
+others for many months, healing from even the most
+severe damage. Getting rid of a swamp queen thus
+requires finding all nodes and completely destroying
+them, usually by fire or other indiscriminate means.
+A swamp queen node typically has 30 Hits, whilst its
+detachable tentacles have 7 Hits each. All nodes must
+be found and killed to eliminate the creature, which
+typically has 1D nodes.
+Animal
+
+Hits
+
+Speed
+
+Swamp Queen
+
+30
+
+0
+
+Skills
+
+Drag and Bite (2D)
+
+Attacks
+
+Composite (1D+3D), Large (+3)
+
+Traits
+
+Carnivore, Trapper
+
+Behaviour
+
+Carnivore, Killer
+
+R
+
+
