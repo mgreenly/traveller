@@ -1,2 +1,23 @@
 #!/bin/bash
+# First run gwip to save any current work
+gwip
+
+# Switch to main branch
 git checkout main
+
+# Squash merge the wip branch into main
+git merge --squash wip
+
+# Commit using the supplied comment
+if [ -z "$1" ]; then
+    echo "Error: gmain requires a commit message"
+    echo "Usage: gmain 'Your commit message'"
+    exit 1
+fi
+git commit -m "$1"
+
+# Switch back to wip branch
+git checkout wip
+
+# Reset wip branch to match main
+git reset --hard main
