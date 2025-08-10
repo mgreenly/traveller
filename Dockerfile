@@ -3,6 +3,7 @@ FROM node:20-slim
 # Install useful CLI tools, Ruby, and Python
 RUN apt-get update && apt-get install -y \
     # Text processing & search
+    git-lfs \
     jq \
     fzf \
     silversearcher-ag \
@@ -43,8 +44,8 @@ RUN ln -s /usr/bin/fdfind /usr/bin/fd
 
 # The node:20-slim image already includes ca-certificates
 
-# Install Claude Code globally
-RUN npm install -g @anthropic-ai/claude-code && \
+# Install Claude Code globally (latest version)
+RUN npm install -g @anthropic-ai/claude-code@latest && \
     npm cache clean --force
 
 # Create a user home directory with proper permissions
