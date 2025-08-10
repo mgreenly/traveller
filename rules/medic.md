@@ -19,10 +19,10 @@
 ### Damage States
 When PCs are injured, assess their condition based on characteristic damage:
 
-**Healthy:** All three physical characteristics (STR, DEX, END) above 0
-**Wounded:** One characteristic at 0, others above 0
-**Unconscious:** Two characteristics at 0, one above 0  
-**Dying/Dead:** All three physical characteristics at 0
+- **Healthy:** All three physical characteristics (STR, DEX, END) above 0
+- **Wounded:** One characteristic at 0, others above 0
+- **Unconscious:** Two characteristics at 0, one above 0
+- **Dying/Dead:** All three physical characteristics at 0
 
 ### Immediate Priorities
 1. **Stabilization** (if two+ characteristics at 0)
@@ -140,7 +140,7 @@ When PCs are injured, assess their condition based on characteristic damage:
 - Kicks in after 3 rounds, lasts 10 minutes
 - **Side Effect:** Fatigued when it wears off
 
-### Healing Acceleration  
+### Healing Acceleration
 **Slow Drug (TL11):** Cr500/dose (Core Rules p.115)
 - **Hospital/Sickbay Only** - lethal outside medical facility (Core Rules p.115)
 - 30x normal metabolism = 1 month healing in 1 day (Core Rules p.115)
@@ -159,7 +159,7 @@ When PCs are injured, assess their condition based on characteristic damage:
 ### Hospital Treatment Costs (Core Rules p.114)
 **Medical Care:** Cr250 per month per Tech Level (Core Rules p.114)
 - TL8 hospital: Cr2,000/month
-- TL12 hospital: Cr3,000/month  
+- TL12 hospital: Cr3,000/month
 - At TL11+, Slow Drug is often standard procedure
 
 **Surgery:** **1D × Cr50 × Tech Level** per operation (Core Rules p.114)
@@ -174,7 +174,7 @@ When PCs are injured, assess their condition based on characteristic damage:
 ### Insurance Considerations
 **Imperial Standard Coverage:**
 - Basic emergency treatment usually covered
-- Major surgery may require pre-authorization  
+- Major surgery may require pre-authorization
 - Cybernetic replacement typically excluded
 - Combat injuries may void coverage
 
