@@ -57,7 +57,7 @@ Use one or two of these as quick, optional beats during downtime. Keep them tigh
 *   Newsburst: Djinni Red Zone (Investigate or Admin 8+): A newsfeed segment about tightened Navy protocols around the [Djinni](../systems/djinni.md) exclusion. Success gleans timing: additional patrols rotate in 4–6 weeks.
 *   University Exhibit (Education or Investigate 8+): Grad students presenting Ancients pieces at the museum. Success uncovers that corporate access to recent digs was “bought out,” souring the University’s mood toward certain firms.
 
-Once the final recipient has checked into the hotel, a formal, encrypted message is sent to each of their rooms: "All parties are present. Please be at our offices tomorrow at 0900 sharp. A car will be waiting."
+Once the final recipient has checked into the hotel, a formal, encrypted message is sent to each of their rooms:\n> **Read-aloud:** "All parties are present. Please be at our offices tomorrow at 0900 sharp. A car will be waiting."
 
 ---
 

@@ -23,12 +23,14 @@ After the presentation, the players can probe for more information with a **Pers
 *   **Advocate:** An attempt to use precise legal questioning to corner the lawyer.
 
 #### Outcome Tiers
-*   **Tier 1: Minimal Success (Failure on Stage 2 check):** The lawyer stonewalls. "All pertinent information is contained within the provided documentation. We have no further comment."
+*   **Tier 1: Minimal Success (Failure on Stage 2 check):** The lawyer stonewalls.
+    > **Read-aloud:** "All pertinent information is contained within the provided documentation. We have no further comment."
 *   **Tier 2: Standard Success (Success on Stage 2 check):** The lawyer concedes that Dr. Aris was a "problematic" client and that the firm is **terminating its relationship** with him, a major red flag.
 *   **Tier 3: Exceptional Success (Success on Stage 2 check with Effect 4+):** The lawyer makes a critical slip, revealing the one-time transponder code is a **tracking device** that sends a confirmation signal back to the firm's network upon activation.
 
 #### The Transfer
-The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](../players/keith.md). They explain the ship is in the **[Djinni](../systems/djinni.md)** system, a **Red Zone**, and provide the transponder code but assume no liability. They also add, "Due to the unique legal circumstances of this transfer, it was filed through our sub-sector branch specializing in fringe assets. Therefore, any salvage or title claim for this vessel must be certified in person at the designated court of record in the **[K'Kirka](../systems/k-kirka.md)** system. Filing elsewhere will be considered invalid."
+The lawyer presents the legal documents transferring the title of the *Stardust Drifter* to [Keith](../players/keith.md). They explain the ship is in the **[Djinni](../systems/djinni.md)** system, a **Red Zone**, and provide the transponder code but assume no liability. They also add:
+> **Read-aloud:** "Due to the unique legal circumstances of this transfer, it was filed through our sub-sector branch specializing in fringe assets. Therefore, any salvage or title claim for this vessel must be certified in person at the designated court of record in the K'Kirka system. Filing elsewhere will be considered invalid."
 
 Finally, they provide the data wafer, explaining it is sealed with a biolock keyed to Keith. Once Keith opens it, he receives the message from [Dr. Aris](../characters/dr-aris.md):
 > *"They'll come for it. Don't trust the lawyers, don't trust the bank. The code is a trap, but one you must spring. You need a pilot. Find a man named [Roric Vance](../characters/roric-vance.md). Tell him 'The Whiskey Jack needs a fast ship.'..."*

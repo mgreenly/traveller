@@ -39,7 +39,7 @@ The main negotiation determines the loan terms. Kane will provide the 3 million 
     - Collateral: The [*Stardust Drifter*](../ships/stardust-drifter.md), all personal assets, **and** future earnings
     - Term: **60 days** before first payment
     - Special clause: Kane's representatives have the right to "inspect" the salvage operation
-    - Kane's parting words: "Don't disappoint me. I do so hate having to collect collateral... personally."
+    - Kane's parting words:\n    > **Read-aloud:** "Don't disappoint me. I do so hate having to collect collateral... personally."
 
 *   **Tier 2: Harsh Terms (Success on Stage 2 check):**
     - Interest: **25% monthly**, compounding  

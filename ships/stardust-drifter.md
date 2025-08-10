@@ -18,7 +18,32 @@ The *Stardust Drifter* is a heavily modified Lab Ship, repurposed by the reclusi
 *   **Special:** 1x Advanced Laboratory, 1x Sample Containment Unit
 *   **Cargo:** 40 tons
 
+
+Systems
+  - Probel Drones x 15
+  - Air Raft
+  - Atv (stored in pinnance)
+
+
+
 ## Crew
 *   **Current Crew:** None (abandoned)
 *   **Original Owner:** [Dr. Aris](../characters/dr-aris.md)
 *   **Intended Recipient:** [Keith](../players/keith.md) (Player Character)
+
+
+
+## Compartments
+
+The ship is broken into four quadrants.
+
+Quadrant 1 has 4 large laboratories and 2 small laboratories at either end.
+
+Quadrant 2 is to the left of Quadrant 1 it has 9 small crew compartments and some common areas.  It has the power and drive compartments that split it in half.
+
+Quadrant 2 is where the dockikng space pinance is attached
+
+qudrant 3 has 6 more cabins and common sspacew and a small garcod pba and the bridgte
+
+quadrant 4 has 2 larger labrotories and 6 small cabins and power and drive compartments splitting it
+
