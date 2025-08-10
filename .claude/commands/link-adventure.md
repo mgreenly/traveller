@@ -1,7 +1,7 @@
 ---
 description: Add missing entity links to an adventure folder
 argument-hint: [adventure number or 'help']
-model: sonnet
+model: sonnet-4
 ---
 
 # Link Adventure Command  

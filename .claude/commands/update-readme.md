@@ -1,7 +1,6 @@
 ---
 description: Update README.md files in folders with summary and table of contents
 argument-hint: [folder path, 'all', or 'help']
-model: sonnet
 ---
 
 # Update README Command
@@ -22,4 +21,10 @@ model: sonnet
 
 ---
 
-Otherwise, I'll use a specialized sub-agent to systematically update README.md files with brief summaries and table of contents for $ARGUMENTS.
+I'll update README.md files with brief summaries and table of contents for the specified target: $ARGUMENTS
+
+To update a specific folder's README, I'll:
+1. List all files in the directory
+2. Create a brief summary of the folder's purpose
+3. Generate a table of contents with file descriptions
+4. Save the updated README.md
