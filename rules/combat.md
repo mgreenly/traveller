@@ -1,9 +1,9 @@
 # Combat Reference
 
 ## Table of Contents
-- [Combat Overview](#combat-overview)
-- [Initiative and Turn Order](#initiative-and-turn-order)
-- [Combat Actions](#combat-actions)
+- [Combat Overview](#combat-overview-core-rules-p73)
+- [Initiative and Turn Order](#initiative-and-turn-order-core-rules-p73)
+- [Combat Actions](#combat-actions-core-rules-p73-75)
 - [Attack Resolution](#attack-resolution)
 - [Damage and Armor](#damage-and-armor)
 - [Special Situations](#special-situations)
