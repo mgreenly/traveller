@@ -1,39 +1,55 @@
 # Ashley
 
+## Description
+
 Age: 54
 
-## Atributes: UPP (555AC6)
+## Attributes: UPP (555AC6)
 
-  -  05 - **Strength:**
-  -  05 - **Dexterity:**
-  -  05 - **Endurance:**
-  -  10 - **Intellect:**
-  -  12 - **Education:**
-  -  06 - **Social:**
+- 05 - **Strength:**
+- 05 - **Dexterity:**
+- 05 - **Endurance:**
+- 10 - **Intellect:**
+- 12 - **Education:**
+- 06 - **Social:**
 
 ## Skills
-  - 0 - Art
-  - 1 - Electronics
-  - 2 - Mechanic
-  - 1 - Vacc Suit
-  - 1 - admin
-  - 0 - athletics
-  - 0 - broker
-  - 0 - carouse
-  - 0 - engiener
-  - 2 - gun combat (energy)
-  - 1 - gun combat
-  - 0 - gunner
-  - 0 - jack-of-all-trades
-  - 2 - leadership
-  - 1 - melee (blade)
-  - 0 - pilot
-  - 1 - streetwise
 
+- 1 - Admin
+- 0 - Art
+- 0 - Athletics
+- 0 - Broker
+- 0 - Carouse
+- 1 - Electronics
+- 0 - Engineer
+- 1 - Gun Combat
+- 2 - Gun Combat (Energy)
+- 0 - Gunner
+- 0 - Jack-of-All-Trades
+- 2 - Leadership
+- 2 - Mechanic
+- 1 - Melee (Blade)
+- 0 - Pilot
+- 1 - Streetwise
+- 1 - Vacc Suit
 
 ## Items
- - 10,000 CR
- - 3 Ship Shares
+
+- 10,000 CR
+- 3 Ship Shares
 
 ## Contacts
- - 1 contact
+
+- 1 Contact
+
+## Career Terms
+1. Naval Academy (graduates)
+1. Navy (engineer/gunner) commissioned - advanced level 1
+1. Navy (engineer/gunner) Level 1
+1. Citizen (corporate) advanced level 1
+1. Citizen (corporate) advanced level 2
+1. Drifter (scavenger) Level 0
+1. Drifter (scavenger) level 0 (taken prisoner)
+1. Prisoner (inmate) Advanced 
+1. Citizen (colonist) advance level 1
+
