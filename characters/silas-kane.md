@@ -4,12 +4,12 @@
 *   **Description:** A large, impeccably dressed man in his 50s with a shaved head and a calm, almost serene demeanor that seems at odds with his physically imposing frame. He is a former corporate enforcer who now runs a high-end pawn shop, "The Gilded Cage," as a front for his predatory lending business. He is always polite, speaks in measured tones, and never makes an explicit threat, but the menace is always present just beneath the surface. He is a master of risk assessment and sees the players' desperation as a prime investment opportunity.
 *   **Location:** "The Gilded Cage," a lavishly decorated but heavily secured pawn shop in the mid-port of Capital on [Regina](../systems/regina.md).
 *   **UPP (78A9A6):**
-    *   **Strength:** 7 (Above Average)
-    *   **Dexterity:** 8 (Above Average)
-    *   **Endurance:** A (10 - Notable)
-    *   **Intellect:** 9 (Above Average)
-    *   **Education:** A (10 - Notable)
-    *   **Social Standing:** 6 (Respected)
+    *   **Strength:** 7 (+0) (Above Average)
+    *   **Dexterity:** 8 (+0) (Above Average)
+    *   **Endurance:** A/10 (+1) (Notable)
+    *   **Intellect:** 9 (+1) (Above Average)
+    *   **Education:** A/10 (+1) (Notable)
+    *   **Social Standing:** 6 (+0) (Respected)
 *   **Skills:** Broker-3, Streetwise-2, Persuade-2, Intimidate-1, Advocate-1
 *   **Function:** He is the only lender willing to finance the high-risk recovery of the [*Stardust Drifter*](../ships/stardust-drifter.md) before the players have a legal salvage claim. He will provide the necessary 2.7 million Credits, using the ship's title transfer document as collateral. The loan terms are severe: an exorbitant interest rate (e.g., 50-100%) and a short repayment window that begins the moment they file their salvage claim. The clear expectation is that the players will secure a traditional loan from an established bank to pay him off immediately after they have legal ownership, but any delay will incur his wrath. Failure to pay will result in him claiming legal ownership of the ship, or sending enforcers to collect the debt in other ways.
 

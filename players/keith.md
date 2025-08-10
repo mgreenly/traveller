@@ -6,12 +6,12 @@ Age: 54
 
 ## Attributes: UPP (5669F5)
 
-- 05 - **Strength:**
-- 06 - **Dexterity:**
-- 06 - **Endurance:**
-- 09 - **Intellect:**
-- 15 - **Education:**
-- 05 - **Social:**
+- 05 (-1) - **Strength:**
+- 06 (+0) - **Dexterity:**
+- 06 (+0) - **Endurance:**
+- 09 (+1) - **Intellect:**
+- 15 (+3) - **Education:**
+- 05 (-1) - **Social:**
 
 ## Skills
 

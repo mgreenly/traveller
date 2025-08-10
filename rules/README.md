@@ -5,7 +5,8 @@ This directory contains essential gameplay aids, reference tables, and detailed 
 ## Table of Contents
 
 ### Combat and Skill Rules
-- [Combat Rules](./combat.md) - Combat mechanics and procedures
+- [Personal Combat Rules](./combat-personal.md) - Personal combat mechanics and procedures
+- [Ship Combat Rules](./combat-ship.md) - Comprehensive starship combat reference
 - [Skill Checks](./skill-checks.md) - Skill check procedures and difficulty levels
 
 ### Medical and Health

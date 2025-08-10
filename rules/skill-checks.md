@@ -1,5 +1,34 @@
 # Skill Checks Reference
 
+## Core Mechanics (Core Rules p.58-72)
+
+### Basic Roll
+**2D + Skill Level + Characteristic DM ≥ Target Number**
+
+### Task Difficulties (Core Rules p.61)
+| Difficulty | Target | Description |
+|------------|--------|-------------|
+| Simple | 2+ | Automatic for skilled characters |
+| Easy | 4+ | Routine tasks for professionals |
+| Routine | 6+ | Standard professional tasks |
+| Average | 8+ | **Default difficulty if not specified** |
+| Difficult | 10+ | Challenging even for experts |
+| Very Difficult | 12+ | Pushes professionals to their limits |
+| Formidable | 14+ | Nearly impossible tasks |
+| Impossible | 16+ | Legendary achievements |
+
+### Skill Specialties
+Many skills have **specialties** that must be chosen:
+- Each specialty is trained separately (e.g., Electronics 0 gives one specialty)
+- Using a different specialty than trained: **-1 DM**
+- Cannot use untrained specialties at all (counts as lacking the skill entirely)
+- Skill-0 in a specialty removes the untrained penalty
+
+### Untrained Skill Use
+- **No skill:** -3 DM to the check
+- **Skill-0:** No bonus, but no untrained penalty
+- **Jack-of-all-Trades:** Reduces untrained penalty by skill level
+
 ## Table of Contents
 - [Admin](#admin)
 - [Advocate](#advocate)
@@ -55,15 +84,31 @@
 
 ## Animals
 **Use:** Handling, training, riding animals, veterinary care
-- **DEX + Animals:** Riding, physical animal handling
-- **INT + Animals:** Training animals, understanding behavior
-- **EDU + Animals:** Veterinary knowledge and care
+
+**Specialties:** (Core Rules p.65)
+- **Handling:** Physical control and riding of animals
+- **Training:** Teaching animals behaviors and commands  
+- **Veterinary:** Medical care and treatment of animals
+
+**Common Checks:**
+- **DEX + Animals (handling):** Riding, calming panicked animals
+- **INT + Animals (training):** Teaching new behaviors, taming wild creatures
+- **EDU + Animals (veterinary):** Diagnosis, medical treatment
 
 ## Art
 **Use:** Creating or performing artistic works
-- **DEX + Art:** Physical performance, playing instruments, painting
-- **INT + Art:** Composition, creative design
-- **SOC + Art:** Stage presence, connecting with audience
+
+**Specialties:** (Core Rules p.65)
+- **Performer:** Acting, dancing, singing
+- **Holography:** Recording and producing holographic images
+- **Instrument:** Playing specific musical instruments
+- **Visual Media:** Painting, sculpture, visual arts
+- **Write:** Composing text, literature, scripts
+
+**Common Checks:**
+- **DEX + Art (instrument):** Playing music, physical artistry
+- **INT + Art (write):** Composing stories, creating designs
+- **SOC + Art (performer):** Stage presence, audience connection
 
 ## Astrogation
 **Use:** Plotting jump courses, calculating jump coordinates
@@ -72,10 +117,17 @@
 - **DEX + Astrogation:** Quick calculations under pressure
 
 ## Athletics
-**Use:** Physical activities, climbing, jumping, running, swimming
-- **STR + Athletics:** Climbing, jumping, swimming
-- **DEX + Athletics:** Balance, coordination tasks
-- **END + Athletics:** Long-distance running, endurance activities
+**Use:** Physical activities, sports, movement in adverse gravity
+
+**Specialties:** (Core Rules p.65)
+- **Dexterity:** Climbing, jumping, throwing, zero-G movement
+- **Endurance:** Long-distance running, swimming, hiking
+- **Strength:** Weight-lifting, feats of strength, high-G movement
+
+**Common Checks:**
+- **STR + Athletics (strength):** Lifting heavy objects, resisting high gravity
+- **DEX + Athletics (dexterity):** Climbing walls, jumping gaps, zero-G maneuvering
+- **END + Athletics (endurance):** Marathon running, extended physical activity
 
 ## Broker
 **Use:** Finding buyers/sellers, negotiating trade deals, evaluating goods
@@ -103,23 +155,48 @@
 
 ## Drive
 **Use:** Operating ground vehicles
-- **DEX + Drive:** Standard driving, maneuvering
-- **INT + Drive:** Navigation, route planning
-- **STR + Drive:** Controlling heavy vehicles
+
+**Specialties:** (Core Rules p.66)
+- **Hovercraft:** Air cushion vehicles
+- **Mole:** Tunneling and underground vehicles
+- **Track:** Tracked vehicles, tanks
+- **Walker:** Legged vehicles
+- **Wheel:** Cars, trucks, wheeled vehicles
+
+**Common Checks:**
+- **DEX + Drive (specialty):** Standard operation, maneuvering
+- **INT + Drive (specialty):** Navigation, route planning
+- **STR + Drive (specialty):** Controlling heavy vehicles in difficult conditions
 
 ## Electronics
-**Use:** Operating and repairing electronic devices, computers, sensors
-- **INT + Electronics (computers):** Programming, hacking, data manipulation
-- **EDU + Electronics (comms):** Operating communication systems
-- **INT + Electronics (sensors):** Interpreting sensor data
-- **DEX + Electronics (remote ops):** Operating drones and remote systems
+**Use:** Operating and repairing electronic devices and systems
+
+**Specialties:** (Core Rules p.67)
+- **Comms:** Communication systems, jamming, signal routing
+- **Computers:** Programming, hacking, data manipulation
+- **Remote Ops:** Drones, telepresence, remote control
+- **Sensors:** Detection systems, data interpretation
+
+**Common Checks:**
+- **INT + Electronics (computers):** Hacking, programming, data search
+- **EDU + Electronics (comms):** Operating comms, accessing networks
+- **INT + Electronics (sensors):** Scanning, interpreting readings
+- **DEX + Electronics (remote ops):** Piloting drones, remote manipulation
 
 ## Engineer
-**Use:** Maintaining and repairing starship systems
-- **INT + Engineer (m-drive):** Diagnosing drive problems
-- **EDU + Engineer (j-drive):** Jump drive maintenance
-- **INT + Engineer (power):** Power distribution and management
-- **STR + Engineer (life support):** Physical repairs to life support
+**Use:** Operating and maintaining spacecraft and advanced vehicle systems
+
+**Specialties:** (Core Rules p.67)
+- **M-drive:** Maneuver drives and artificial gravity
+- **J-drive:** Jump drives and hyperspace systems
+- **Life Support:** Oxygen, heating, environmental systems
+- **Power:** Power plants and distribution systems
+
+**Common Checks:**
+- **INT + Engineer (m-drive):** Optimizing thrust, diagnosing problems
+- **EDU + Engineer (j-drive):** Jump calculations, maintenance
+- **INT + Engineer (power):** Power management, overloading systems
+- **EDU + Engineer (life support):** Environmental control, emergency procedures
 
 ## Explosives
 **Use:** Placing, disarming, and creating explosive devices
@@ -129,9 +206,18 @@
 
 ## Flyer
 **Use:** Operating aircraft and flying vehicles
-- **DEX + Flyer:** Piloting, maneuvering
-- **INT + Flyer:** Navigation, flight planning
-- **EDU + Flyer:** Understanding flight systems
+
+**Specialties:** (Core Rules p.67)
+- **Airship:** Dirigibles, balloons
+- **Grav:** Grav vehicles, air/rafts
+- **Ornithopter:** Wing-flapping aircraft
+- **Rotor:** Helicopters, autogyros
+- **Wing:** Fixed-wing aircraft
+
+**Common Checks:**
+- **DEX + Flyer (specialty):** Piloting, aerial maneuvering
+- **INT + Flyer (specialty):** Navigation, weather assessment
+- **EDU + Flyer (specialty):** Pre-flight checks, systems knowledge
 
 ## Gambler
 **Use:** Games of chance, understanding odds, cheating
@@ -140,22 +226,44 @@
 - **SOC + Gambler:** Reading opponents, bluffing
 
 ## Gun Combat
-**Use:** Using personal firearms
-- **DEX + Gun Combat:** Aiming and firing
-- **INT + Gun Combat:** Tactical positioning
-- **STR + Gun Combat:** Controlling recoil on heavy weapons
+**Use:** Using personal firearms and ranged weapons
+
+**Specialties:** (Core Rules p.68)
+- **Archaic:** Bows, crossbows, primitive firearms
+- **Energy:** Laser weapons, plasma guns
+- **Slug:** Conventional firearms, pistols, rifles
+
+**Common Checks:**
+- **DEX + Gun Combat (specialty):** Aiming and firing
+- **INT + Gun Combat (specialty):** Tactical positioning, ambushes
+- **STR + Gun Combat (slug):** Controlling heavy weapon recoil
 
 ## Gunner
-**Use:** Operating vehicle and starship weapons
-- **DEX + Gunner (turret):** Tracking and firing at targets
-- **INT + Gunner (ortillery):** Calculating orbital bombardment
-- **EDU + Gunner (screen):** Operating defensive screens
+**Use:** Operating vehicle-mounted and spacecraft weapons
+
+**Specialties:** (Core Rules p.68)
+- **Turret:** Spacecraft turret weapons
+- **Ortillery:** Orbital bombardment systems
+- **Screen:** Defensive screens and shields
+- **Capital:** Large ship weapon bays
+
+**Common Checks:**
+- **DEX + Gunner (turret):** Tracking and engaging targets
+- **INT + Gunner (ortillery):** Calculating bombardment trajectories
+- **EDU + Gunner (screen):** Configuring defensive systems
 
 ## Heavy Weapons
-**Use:** Operating support weapons, artillery
-- **STR + Heavy Weapons:** Managing heavy weapon systems
-- **INT + Heavy Weapons:** Calculating indirect fire
-- **DEX + Heavy Weapons:** Direct fire with heavy weapons
+**Use:** Operating military support weapons
+
+**Specialties:** (Core Rules p.68)
+- **Artillery:** Indirect fire weapons, mortars
+- **Man Portable:** Heavy machine guns, rocket launchers
+- **Vehicle:** Vehicle-mounted weapons
+
+**Common Checks:**
+- **STR + Heavy Weapons (man portable):** Setting up and firing
+- **INT + Heavy Weapons (artillery):** Calculating indirect fire
+- **DEX + Heavy Weapons (vehicle):** Direct fire from vehicles
 
 ## Investigate
 **Use:** Searching for clues, research, analysis
@@ -169,10 +277,20 @@
 - Can use any characteristic appropriate to the task
 
 ## Language
-**Use:** Speaking and understanding foreign languages
-- **EDU + Language:** Proper grammar and formal usage
-- **INT + Language:** Understanding context and idioms
-- **SOC + Language:** Accent and cultural appropriateness
+**Use:** Speaking and understanding languages
+
+**Specialties:** Must specify language (e.g., Galanglic, Vilani, Zhodani)
+- Each language is a separate specialty
+- Native language doesn't require skill ranks
+- Language 0: Basic communication
+- Language 1: Conversational
+- Language 2: Fluent
+- Language 3: Native speaker level
+
+**Common Checks:**
+- **EDU + Language (specialty):** Reading, writing, formal usage
+- **INT + Language (specialty):** Understanding dialects, idioms
+- **SOC + Language (specialty):** Appropriate cultural usage
 
 ## Leadership
 **Use:** Commanding others, inspiring groups, organizing teams
@@ -193,10 +311,18 @@
 - **DEX + Medic:** Delicate procedures
 
 ## Melee
-**Use:** Close combat with or without weapons
-- **STR + Melee:** Damage and overpowering
-- **DEX + Melee:** Accuracy and finesse
-- **END + Melee:** Prolonged combat
+**Use:** Close combat with melee weapons or unarmed
+
+**Specialties:** (Core Rules p.69)
+- **Blade:** Swords, knives, edged weapons
+- **Bludgeon:** Clubs, staves, blunt weapons
+- **Natural:** Claws, teeth (for aliens)
+- **Unarmed:** Martial arts, brawling
+
+**Common Checks:**
+- **STR + Melee (specialty):** Damage dealing, overpowering
+- **DEX + Melee (specialty):** Accuracy, finesse attacks
+- **END + Melee (specialty):** Extended combat
 
 ## Navigation
 **Use:** Finding your way on planet surfaces
@@ -211,16 +337,34 @@
 - **STR + Persuade:** Intimidation
 
 ## Pilot
-**Use:** Operating spacecraft
-- **DEX + Pilot:** Ship maneuvering
-- **INT + Pilot:** Navigation and plotting courses
-- **EDU + Pilot:** Understanding ship systems
+**Use:** Operating spacecraft and space vehicles
+
+**Specialties:** (Core Rules p.70)
+- **Small Craft:** Shuttles, fighters (<100 tons)
+- **Spacecraft:** Starships (100-5000 tons)
+- **Capital Ships:** Large vessels (>5000 tons)
+
+**Common Checks:**
+- **DEX + Pilot (specialty):** Maneuvering, docking, evasion
+- **INT + Pilot (specialty):** Navigation, tactical positioning
+- **EDU + Pilot (specialty):** Systems management, procedures
 
 ## Profession
-**Use:** Specific professional knowledge and practice
-- Varies by profession type
-- Generally **INT** or **EDU** for knowledge
-- **DEX** or **STR** for physical professions
+**Use:** Specialized professional skills
+
+**Specialties:** Must specify profession (Core Rules p.70)
+- **Belter:** Asteroid mining
+- **Biologicals:** Biotech, pharmaceuticals
+- **Civil Engineering:** Infrastructure
+- **Construction:** Building
+- **Hydroponics:** Food production
+- **Polymers:** Plastics, chemicals
+- Others as appropriate
+
+**Common Checks:**
+- **INT + Profession (specialty):** Problem solving, design
+- **EDU + Profession (specialty):** Following procedures
+- **DEX/STR + Profession (specialty):** Physical work
 
 ## Recon
 **Use:** Observation, spotting hidden things, surveillance
@@ -230,15 +374,45 @@
 
 ## Science
 **Use:** Scientific knowledge and research
-- **EDU + Science:** Theoretical knowledge
-- **INT + Science:** Practical application, experimentation
-- **DEX + Science:** Laboratory work
+
+**Specialties:** (Core Rules p.70)
+- **Archaeology:** Ancient civilizations, artifacts
+- **Astronomy:** Stars, planets, space phenomena
+- **Biology:** Life sciences
+- **Chemistry:** Chemical reactions, materials
+- **Cosmology:** Universe structure, origins
+- **Cybernetics:** Machine-biological interfaces
+- **Economics:** Financial systems, trade
+- **Genetics:** DNA, heredity
+- **History:** Past events, cultures
+- **Linguistics:** Language structure
+- **Philosophy:** Logic, ethics
+- **Physics:** Physical laws, energy
+- **Planetology:** Planetary formation, geology
+- **Psionicology:** Psionic phenomena
+- **Psychology:** Mental processes, behavior
+- **Robotics:** Artificial intelligence, robots
+- **Sophontology:** Alien species, intelligence
+- **Xenology:** Alien life forms
+
+**Common Checks:**
+- **EDU + Science (specialty):** Theoretical knowledge, research
+- **INT + Science (specialty):** Analysis, experimentation
+- **DEX + Science (specialty):** Lab work, field sampling
 
 ## Seafarer
-**Use:** Operating watercraft, naval knowledge
-- **DEX + Seafarer:** Boat handling
-- **INT + Seafarer:** Navigation at sea
-- **END + Seafarer:** Long voyages
+**Use:** Operating watercraft and submersibles
+
+**Specialties:** (Core Rules p.71)
+- **Ocean Ships:** Large surface vessels
+- **Personal:** Small boats, kayaks
+- **Sail:** Wind-powered vessels
+- **Submarine:** Underwater vehicles
+
+**Common Checks:**
+- **DEX + Seafarer (specialty):** Maneuvering, docking
+- **INT + Seafarer (specialty):** Navigation, weather reading
+- **END + Seafarer (specialty):** Long voyages, rough seas
 
 ## Stealth
 **Use:** Moving unseen, hiding, avoiding detection
@@ -265,10 +439,18 @@
 - **END + Survival:** Enduring harsh conditions
 
 ## Tactics
-**Use:** Military planning, small unit combat coordination
-- **INT + Tactics (military):** Planning operations
-- **EDU + Tactics (naval):** Space combat tactics
-- **SOC + Tactics:** Coordinating with allied units
+**Use:** Combat planning and coordination
+
+**Specialties:** (Core Rules p.71)
+- **Military:** Ground combat tactics
+- **Naval:** Space combat tactics
+
+**Common Checks:**
+- **INT + Tactics (military):** Planning ground operations, ambushes
+- **EDU + Tactics (naval):** Space combat coordination
+- **SOC + Tactics (specialty):** Coordinating with allies
+
+**Combat Effect:** Successful Tactics check adds Effect to entire unit's Initiative
 
 ## Vacc Suit
 **Use:** Operating in vacuum, zero-G movement
