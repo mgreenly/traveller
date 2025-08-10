@@ -16,8 +16,8 @@ This directory contains detailed profiles for all Non-Player Characters (NPCs) i
 *   [Corbin "Maps" Vance](./corbin-vance.md) - Navigator and Roric's relative
 *   [Lena Petrova](./lena-petrova.md) - Engineer and crew member
 
-#### INV Steadfast (Imperial Navy)
-*   [Captain Valerius Thorne](./inv-steadfast/captain-valerius-thorne.md) - Imperial Navy patrol captain
+#### INS Steadfast (Imperial Navy)
+*   [Captain Valerius Thorne](./ins-steadfast/captain-valerius-thorne.md) - Imperial Navy patrol captain
 
 #### Scrap Vulture - "The Rust Dogs" (Rival Salvagers)
 *   [Kara "Wrench" Riker](./scrap-vulture/kara-wrench-riker.md) - Leader of the Rust Dogs salvage crew

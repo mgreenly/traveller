@@ -11,7 +11,7 @@ Without the data core, the players face severe consequences:
 *   **Makhidkarun Wins:** They recover their research through the Rust Dogs and will view the players as loose ends to be eliminated.
 *   **No Leverage:** Without the Kane Contingency file, players have no defense against the crushing debt.
 *   **Reduced Ship Value:** The ship is worth only 20% of its full value without its advanced lab systems and proprietary data.
-*   **Navy Complications:** Without jump capability, evading the [INV *Steadfast*](../ships/inv-steadfast.md) becomes nearly impossible, likely resulting in arrest.
+*   **Navy Complications:** Without jump capability, evading the [INS *Steadfast*](../ships/ins-steadfast.md) becomes nearly impossible, likely resulting in arrest.
 
 ### Dealing with the Debt
 

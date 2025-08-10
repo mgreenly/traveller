@@ -21,7 +21,7 @@
 ---
 ### Arrival Experience
 
-The Djinni system is a silent, dangerous place. An Imperial Navy patrol vessel, the *Vigilant* class corvette [INV *Steadfast*](../ships/inv-steadfast.md), is on station, monitoring the jump points. The system is under strict quarantine, and any unauthorized ship signatures or transponder signals will trigger an immediate and overwhelming response. The main world is a water planet with a thin atmosphere, and the system also contains a significant asteroid belt.
+The Djinni system is a silent, dangerous place. An Imperial Navy patrol vessel, the *Vigilant* class corvette [INS *Steadfast*](../ships/ins-steadfast.md), is on station, monitoring the jump points. The system is under strict quarantine, and any unauthorized ship signatures or transponder signals will trigger an immediate and overwhelming response. The main world is a water planet with a thin atmosphere, and the system also contains a significant asteroid belt.
 
 ---
 ### Factions

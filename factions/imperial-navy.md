@@ -14,7 +14,7 @@ The Imperial Navy is the sword and shield of the Third Imperium in the Spinward 
 The full strength of the 0th Fleet numbers in the thousands of vessels. While a precise order of battle is a closely guarded secret, its primary combat strength is drawn from:
 *   **Battleships & Carriers:** The core of the fleet's power, concentrated at Regina and key border systems.
 *   **Cruisers & Destroyers:** The workhorses of the fleet, forming the bulk of the patrol squadrons that move along the Spinward Main.
-*   **Corvettes & Patrol Ships:** Smaller vessels like the [INV *Steadfast*](./ships/inv-steadfast.md), tasked with customs enforcement, anti-piracy sweeps, and quarantine duties.
+*   **Corvettes & Patrol Ships:** Smaller vessels like the [INS *Steadfast*](../ships/ins-steadfast.md), tasked with customs enforcement, anti-piracy sweeps, and quarantine duties.
 
 In 1105, the fleet is in a state of high alert. Most front-line units are deployed along the Zhodani border, conducting readiness exercises and aggressive patrols.
 

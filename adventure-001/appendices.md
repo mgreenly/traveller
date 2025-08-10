@@ -43,7 +43,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   **[Zina "Sparks" Petrova](../characters/scrap-vulture/zina-sparks-petrova.md):** A grim and efficient engineer/medic.
 
 ### Other
-*   **[Captain Valerius Thorne](../characters/inv-steadfast/captain-valerius-thorne.md):** The inflexible captain of the INV *Steadfast*.
+*   **[Captain Valerius Thorne](../characters/ins-steadfast/captain-valerius-thorne.md):** The inflexible captain of the INS *Steadfast*.
 
 ---
 ## Appendix C: Starships
@@ -52,7 +52,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   [***The Void Gambit***](../ships/the-void-gambit.md): The players' ride. A fast, modified free trader captained by Kaelen.
 *   [***Stray Comet***](../ships/stray-comet.md): A faster, riskier option piloted by Rico "Hotshot" Vega.
 *   [***Scrap Vulture***](../ships/scrap-vulture.md): The rivals' ship. A brutish, modified freighter used by the Rust Dogs.
-*   [***INV Steadfast***](../ships/inv-steadfast.md): The law. An Imperial Navy corvette patrolling the [Djinni](../systems/djinni.md) system.
+*   [***INS Steadfast***](../ships/ins-steadfast.md): The law. An Imperial Navy corvette patrolling the [Djinni](../systems/djinni.md) system.
 ---
 ## Appendix D: The Aris Data Core
 

@@ -14,18 +14,29 @@
 - **Script Location:** Always place executable scripts in the `bin/` directory
 
 ## 3. ADVENTURE CONTEXT ACQUISITION
-- **Trigger:** Upon initialization of a new session.
-- **Action:** Use the `glob` tool to find all `adventure-*` directories. For each directory found:
-  1. Check for and read the `agent-overview.md` file to parse the `AGENT OVERVIEW`
-  2. The `README.md` in each adventure directory contains the table of contents
-  3. The `referee-overview.md` contains behind-the-scenes information
+- **Trigger:** Upon initialization of a new session AND before working on any adventure-related tasks.
+- **MANDATORY READING ORDER:**
+  1. **First:** Read all `README.md` files in the root directory and all subdirectories to understand project structure
+  2. **Second:** Use the `glob` tool to find all `adventure-*` directories
+  3. **Third:** For each adventure directory found, read IN THIS ORDER:
+     - `adventure-XXX/README.md` - Table of contents and quick reference
+     - `adventure-XXX/agent-overview.md` - Contains the AGENT OVERVIEW section
+     - `adventure-XXX/referee-overview.md` - Contains referee-specific information
+  4. **Fourth:** When working on specific scenes, read the relevant scene files to understand current state
 - **Structure:** Adventure directories follow this organization:
   - `adventure-XXX/` - Main adventure directory
   - `adventure-XXX/agent-overview.md` - Contains the AGENT OVERVIEW section
   - `adventure-XXX/referee-overview.md` - Contains referee-specific information
   - `adventure-XXX/README.md` - Table of contents and quick reference
-  - Individual scene files, appendices, and other adventure content
-- **Purpose:** This provides you with a complete overview of all available adventures, their objectives, and key entities at the start of the interaction. This context is foundational for all subsequent tasks.
+  - Individual scene files (e.g., `scene-6-djinni-run.md`) containing specific encounters
+  - Appendices and other adventure content
+- **Critical Details to Track:**
+  - Ship names and classes (e.g., INS Steadfast is a Vigilant-class corvette)
+  - Character names and ranks (e.g., Captain Valerius Thorne commands the Steadfast)
+  - System names and their status (Red Zone, Amber Zone, etc.)
+  - Specific plot points and continuity details
+  - Use correct prefixes (INS for Imperial Navy Ship)
+- **Purpose:** This provides complete overview of all available adventures, their objectives, and key entities. This context is foundational for all subsequent tasks and prevents continuity errors.
 
 ## 4. FILE SYSTEM GUIDE
 - `adventure-*/`: Adventure directories containing structured adventure content with agent-overview.md, referee-overview.md, scene files, and README.md

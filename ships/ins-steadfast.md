@@ -1,7 +1,7 @@
-# INV Steadfast (Vigilant-class Corvette)
+# INS Steadfast (Vigilant-class Corvette)
 
 ## Description
-The INV *Steadfast* is a *Vigilant*-class corvette, a common but effective patrol and interdiction vessel used by the Imperial Navy. It is a symbol of Imperial authority, kept in pristine condition by its professional crew. The ship is designed for extended patrol duties in contested or dangerous systems, with enough firepower to outclass any pirate, smuggler, or civilian vessel it is likely to encounter. Its current mission is to enforce the quarantine of the [Djinni](../systems/djinni.md) system, a dull but critical task.
+The INS *Steadfast* is a *Vigilant*-class corvette, a common but effective patrol and interdiction vessel used by the Imperial Navy. It is a symbol of Imperial authority, kept in pristine condition by its professional crew. The ship is designed for extended patrol duties in contested or dangerous systems, with enough firepower to outclass any pirate, smuggler, or civilian vessel it is likely to encounter. Its current mission is to enforce the quarantine of the [Djinni](../systems/djinni.md) system, a dull but critical task.
 
 ## Ship Stats
 *   **Hull:** 600 tons
