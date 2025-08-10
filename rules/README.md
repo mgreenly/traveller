@@ -14,6 +14,7 @@ This directory contains essential gameplay aids, reference tables, and detailed 
 
 ### Starship Operations
 - [Starship Expenses](./expenses.md) - Complete breakdown of monthly starship operating costs
+- [Starship Fueling](./fueling.md) - Fuel consumption, pricing, refueling methods, and processing
 - [Starship Maintenance](./maintenance.md) - Annual vs ongoing maintenance procedures and costs
 - [Starship Repairs](./repairs.md) - Fixing critical hits, hull damage, and emergency repairs
 
