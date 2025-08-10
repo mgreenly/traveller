@@ -150,7 +150,98 @@ QDI weapons require background checks and are typically only sold at Class A sta
 *To be added*
 
 ## Consumer Goods
-*To be added*
+
+### Fashion & Clothing
+
+**Stellar Threads™**
+**Headquarters:** Regina/Regina (Spinward Marches)
+**Product Type:** Mid-range fashion and everyday wear
+**Slogan:** "From Core to Rim"
+
+The most ubiquitous clothing brand in the Spinward Marches, Stellar Threads operates factory outlets in every Class B+ starport. Known for durable, culture-neutral designs that won't offend on any world. Their "Universal Traveller" line includes clothing with hidden pockets for documentation and currency, wrinkle-resistant fabrics, and styles that adapt from business to casual wear.
+
+**VoidWear Industries**
+**Headquarters:** Rhylanor/Rhylanor (Spinward Marches)
+**Product Type:** Shipboard and zero-g apparel
+**Slogan:** "Designed for Life Between the Stars"
+
+Specializing in clothing for spacers, VoidWear produces magnetic-soled boots, temperature-regulating undersuits, and the famous "GravShift" jacket that looks professional in any gravity level. Their clothes feature sealed seams compatible with emergency vacc suit attachments and fabrics that resist static buildup common in ship environments.
+
+### Food & Beverage
+
+**Jump Juice™ Coffee**
+**Headquarters:** Mora/Mora (Spinward Marches)
+**Product Type:** Caffeinated beverages and coffee substitutes
+**Slogan:** "Keeps You Flying"
+
+The preferred caffeine delivery system for spacers across the Marches. Jump Juice operates kiosks in most starports, serving everything from traditional Terran coffee to Vilani khafa and Vargr-strength stimulant brews. Their signature "Red-Eye Special" is rumored to cure jump-lag, though medical professionals strongly disagree. Sells portable brew units designed for shipboard use.
+
+**Cosmic Grounds**
+**Headquarters:** Lunion/Lunion (Spinward Marches)
+**Product Type:** Premium coffee and tea
+**Slogan:** "Imported from a Thousand Worlds"
+
+Upscale coffee chain catering to business travelers and naval officers. Each location features a "World of the Month" featuring authentic beans from that system. Known for their exclusive contracts with agricultural worlds and their patented cryo-preservation that maintains flavor during jump transport. Significantly more expensive than Jump Juice but considered a status symbol.
+
+**Quick-Grav Burgers**
+**Headquarters:** Glisten/Glisten (Spinward Marches)
+**Product Type:** Fast food chain
+**Slogan:** "Fast as Falling"
+
+Found in every major starport and most frontier settlements, Quick-Grav serves standardized meals in under 3 minutes. Menu features synthetic meat patties, vat-grown vegetables, and their famous "Meteor Fries." Popular with crews on tight schedules and families traveling with children. Franchise opportunities available on newly-settled worlds.
+
+**Emperor's Table**
+**Headquarters:** Capital/Core (Franchise throughout Imperium)
+**Product Type:** Standardized dining
+**Slogan:** "The Taste of Civilization"
+
+Imperial-wide restaurant chain offering "authentic Core sector cuisine" adapted for local tastes. More upscale than Quick-Grav but still affordable. Each location required to maintain the same 50 core menu items plus 20 local specialties. Popular for business lunches and as a "safe" choice when entertaining offworld guests.
+
+**Parsec Pizza**
+**Headquarters:** Regina/Regina (Spinward Marches)
+**Product Type:** Delivery and takeout
+**Slogan:** "30 Parsecs in 30 Minutes" (Note: Not actually possible)
+
+Specializes in delivery to ships in port and station quarters. Menu includes "traditional" pizzas plus local variations like Vargr-style raw meat toppings or Aslan spiced variants. Their insulated delivery containers maintain temperature for up to 2 hours and are designed to fit through standard airlock pass-throughs.
+
+### Personal Care & Hygiene
+
+**CleanSpace Solutions**
+**Headquarters:** Trin/Trin's Veil (Spinward Marches)
+**Product Type:** Shipboard hygiene products
+**Slogan:** "Because Space Shouldn't Smell"
+
+Produces water-free cleaning products essential for long jumps. Their dry shampoo, sonic toothbrushes, and enzyme-based laundry tablets are standard equipment on most commercial vessels. Also manufactures the "FreshLock" personal hygiene kit required by many passenger lines for their crews.
+
+**Imperial Standard Pharmaceuticals**
+**Headquarters:** Rhylanor/Rhylanor (Spinward Marches)
+**Product Type:** Over-the-counter medications
+**Slogan:** "Your Health, Our Mission"
+
+Largest supplier of basic medications in the subsector. Products include anti-radiation tablets, jump-sickness remedies, and broad-spectrum antibiotics. Every starport pharmacy stocks their distinctive blue-and-gold packages. Known for consistent quality and multilingual labeling that includes pictographic instructions for low-tech worlds.
+
+### Entertainment & Recreation
+
+**StellarStream Entertainment**
+**Headquarters:** Mora/Mora (Spinward Marches)
+**Product Type:** Digital entertainment subscription
+**Slogan:** "A Universe of Entertainment"
+
+Streaming service that pre-loads content onto ship computers before jump. Subscribers can download up to 1000 hours of video, music, and interactive content per month. Includes news broadcasts from major worlds (with jump-lag delay), educational content, and their popular "Traveller Tales" documentary series about merchant crews.
+
+**Galactic Games Ltd.**
+**Headquarters:** Vilis/Vilis (Spinward Marches)
+**Product Type:** Physical and digital games
+**Slogan:** "Fun Across the Stars"
+
+Produces both traditional board games and neural-interface VR experiences. Their "Port to Port" trading game is found in most crew lounges, while their VR combat simulators are used by mercenary units for training. Recently launched "JumpSpace," a horror-survival game set aboard a misjumped trader that's been banned on three worlds for causing excessive anxiety.
+
+**Frontier Spirits Collective**
+**Headquarters:** Distributed (Various frontier worlds)
+**Product Type:** Alcoholic beverages
+**Slogan:** "Every World Has a Story"
+
+Cooperative of small distilleries from frontier worlds, distributing unique local spirits throughout the Marches. Each bottle includes a QR code linking to the story of its origin world and distillery. Popular items include Bowman Blue (a luminescent liqueur), Vargr Bite (extremely high proof), and Regina Royal (whiskey aged in null-g). Available in most starport duty-free shops.
 
 ---
 
