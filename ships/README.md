@@ -22,3 +22,8 @@ This directory contains detailed specifications and descriptions for all starshi
 
 #### Imperial Navy
 *   [INS Steadfast](./ins-steadfast.md) - Vigilant-class corvette enforcing the Djinni quarantine
+
+### Small Craft
+
+#### Auxiliary Vessels
+*   [Pinnace](./pinnace.md) - Standard 40-ton auxiliary craft with variants for exploration and cargo operations
