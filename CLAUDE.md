@@ -10,6 +10,8 @@
 
 ## 2. CORE OPERATING PRINCIPLES
 - **Adhere to Conventions:** All file creations or modifications must match the style, structure, and format of existing files in the project.
+- **Script Language:** Use Bash or Ruby when writing scripts (prefer Ruby for complex logic, Bash for simple operations)
+- **Script Location:** Always place executable scripts in the `bin/` directory
 
 ## 3. ADVENTURE CONTEXT ACQUISITION
 - **Trigger:** Upon initialization of a new session.
@@ -90,3 +92,44 @@ When answering rules questions:
 - `books/third-imperium/README.md` - Imperial history, politics, and organization
 
 **VIOLATION WARNING:** Accessing book page files without first checking rules/ and then reading the appropriate README will result in inefficient context usage and potential rule lookup errors.
+
+## 7. SLASH COMMANDS
+
+### /update-session <date>
+**Purpose:** Transforms session notes into fictionalized narratives from a future perspective.
+
+**Usage:** `/update-session 20250810` (where date is in YYYYMMDD format)
+
+**Implementation:** This is a Claude interactive command - when the user types this command, Claude will process it directly using the LLM capabilities to generate the narrative.
+
+**Process:**
+1. **Context Gathering:** 
+   - Read up to 10 previous session narratives (if they exist) from `sessions/` directory to maintain consistency of tone, style, and story continuity
+   - Consult relevant files from `characters/`, `lore/`, and `systems/` folders for accurate characterization, established locations, and consistent world-building details
+2. **Input:** Reads the source file from `sessions/src/YYYYMMDD-<title>.md`
+3. **Output:** Writes fictionalized version to `sessions/YYYYMMDD-<title>.md`
+
+**Narrative Instructions:**
+- **Length:** Generate approximately 2 pages of text (800-1000 words) per session
+- **Setting:** The story is told 50 years in the future by someone reminiscing about the crew's adventures
+- **Narrator:** Often in a bar, telling the story to whoever will listen
+- **Opening:** Begin each session with 2-3 sentences setting the scene - describe where the narrator is and that they're telling a story about the legendary "Star Duster's crew" from the past
+- **Historical Context:** The narrator emphasizes that these events took place before the Fifth Frontier War - a time when no one quite realized what was coming. This pre-war timing is significant and the narrator may comment on the innocence or ignorance of those days
+- **The Crew:** Initially, the protagonists are simply known as "the Star Duster's crew" - individual names may emerge over time but the collective identity comes first. The narrator may hint that they later became known by more famous names
+- **Style Requirements:**
+  - Fictionalize all content - transform gameplay notes into immersive narrative
+  - Incorporate aesthetic details from `lore/aesthetics.md` (TL-11 vs TL-15 starship aesthetics, etc.)
+  - **Maintain Consistency:** Reference established details from `characters/`, `lore/`, and `systems/` folders - character personalities, location descriptions, faction behaviors, etc.
+  - Reference previous session narratives for consistency
+  - The narrator has faulty memory - feel free to embellish, exaggerate, or deviate from actual events if it makes a better story
+  - **Exaggerate crew abilities:** The narrator remembers the crew as legendary figures - failed skill checks become narrow successes against impossible odds, successful checks become superhuman feats
+  - Transform simple actions into heroic moments - a basic pilot check becomes threading the needle through an asteroid field, a successful negotiation becomes silver-tongued mastery
+  - Add atmospheric details, sensory descriptions, and character emotions
+  - Transform mechanical game events into dramatic narrative moments
+  - The narrator might get details wrong, conflate events, or add colorful embellishments
+  - Expand brief notes into fully realized scenes with dialogue and description
+  - If source material is sparse, elaborate creatively while maintaining story coherence
+  - **Scene Transitions:** Include smooth narrative transitions between scenes that maintain story flow and may hint at what's to come or reflect on what just happened
+  - **Rearrange for Drama:** Feel free to reorder events from the session notes for better dramatic effect and narrative pacing
+- **Creative Freedom:** The agent should think deeply and creatively when writing, prioritizing narrative quality over strict accuracy
+- **Tone:** Nostalgic, slightly unreliable narrator, tales of legendary adventures told through the haze of time and possibly alcohol
