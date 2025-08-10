@@ -6,6 +6,7 @@
 *   **Description:** A standard-sized, water-heavy world with a tainted, dense atmosphere. It has a good starport and a population in the hundreds of thousands.
 *   **World Type:** Medium Rocky World (11,200km diameter)
 *   **Jump Distance:** 1,120,000 km from center (100-diameter limit)
+    *   **M-Drive Travel Times:** M1: 35.1 hours | M2: 24.8 hours | M3: 20.3 hours
 *   **UPP (C799663-9):**
     *   **Starport:** C (Routine)
     *   **Size:** 7 (11,200km diameter)

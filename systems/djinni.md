@@ -6,6 +6,7 @@
 *   **Description:** A completely undeveloped and uninhabited world with no starport. It is a medium-sized, thin-atmosphere water world.
 *   **World Type:** Medium Rocky World (8,000km diameter)
 *   **Jump Distance:** 800,000 km from center (100-diameter limit)
+    *   **M-Drive Travel Times:** M1: 29.6 hours | M2: 20.9 hours | M3: 17.1 hours
 *   **UPP (X559000-0):**
     *   **Starport:** X (No Starport)
     *   **Size:** 5 (8,000km diameter)

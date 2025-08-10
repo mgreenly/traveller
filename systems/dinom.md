@@ -6,6 +6,7 @@
 *   **Description:** A small, airless rock with a population in the tens of thousands. The starport is poor, suggesting it's a mining outpost or a research station.
 *   **World Type:** Small Rocky World (4,800km diameter)
 *   **Jump Distance:** 480,000 km from center (100-diameter limit)
+    *   **M-Drive Travel Times:** M1: 22.9 hours | M2: 16.2 hours | M3: 13.2 hours
 *   **UPP (D300535-A):**
     *   **Starport:** D (Poor)
     *   **Size:** 3 (4,800km diameter)

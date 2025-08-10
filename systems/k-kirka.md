@@ -6,6 +6,7 @@
 *   **Description:** A temperate, earth-like world with a good starport. It is the designated administrative capital of the Lanth subsector.
 *   **World Type:** Medium Rocky World (9,600km diameter)
 *   **Jump Distance:** 960,000 km from center (100-diameter limit)
+    *   **M-Drive Travel Times:** M1: 32.4 hours | M2: 22.9 hours | M3: 18.7 hours
 *   **UPP (B677898-B):**
     *   **Starport:** B (Good)
     *   **Size:** 6 (9,600km diameter)

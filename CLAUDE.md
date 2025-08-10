@@ -38,35 +38,45 @@
 - **MAINTENANCE:** After changing any of the above files, check if this file (`CLAUDE.md`) needs to be updated to reflect the changes.
 
 ## 5. KNOWLEDGE BASE
-- `books/core-rules-2022/`: Primary source for all game rules, character creation, equipment, and gameplay procedures. **ALWAYS CHECK HERE FIRST for any rules questions.**
-- `books/behind-the-claw/`: Primary source for sector lore, history, politics, and detailed system information.
-- `books/starship-operators-manual/`: Comprehensive guide to starship systems, operations, maintenance, crew roles, and detailed ship walkthroughs.
-- `books/aliens-1/`: Major alien races (Aslan, K'kree, Vargr, Zhodani) with complete character generation and cultural details.
-- `books/aliens-2/`: Solomani, Droyne, and Hivers with their histories, technologies, and governmental systems.
-- `books/aliens-3/`: Minor races (Darrians, Geonee, Dolphins, Orca, Bwaps) with specialized backgrounds.
-- `books/aliens-4/`: Additional species (Suerrat, Za'tachk, Gurvin, Tezcat) and their unique cultures.
+- `rules/`: **ALWAYS CHECK HERE FIRST** - Curated rule summaries, tables, and quick references for efficient lookup
+- `books/core-rules-2022/`: Complete source for all game rules, character creation, equipment, and gameplay procedures
+- `books/behind-the-claw/`: Complete source for sector lore, history, politics, and detailed system information
+- `books/starship-operators-manual/`: Comprehensive guide to starship systems, operations, maintenance, crew roles, and detailed ship walkthroughs
+- `books/aliens-1/`: Major alien races (Aslan, K'kree, Vargr, Zhodani) with complete character generation and cultural details
+- `books/aliens-2/`: Solomani, Droyne, and Hivers with their histories, technologies, and governmental systems
+- `books/aliens-3/`: Minor races (Darrians, Geonee, Dolphins, Orca, Bwaps) with specialized backgrounds
+- `books/aliens-4/`: Additional species (Suerrat, Za'tachk, Gurvin, Tezcat) and their unique cultures
 
-## 6. MANDATORY BOOK ACCESS PROCEDURE
+## 6. MANDATORY RULES LOOKUP PROCEDURE
 **CRITICAL:** Before accessing any book content, you MUST follow this procedure to minimize context usage:
 
-### Step 1: Always Read README.md First
-- **For ANY book-related query, FIRST read the relevant `books/[book-name]/README.md` file**
+### Step 1: Check Rules Directory First
+- **For ANY rules question, FIRST check the `rules/` directory for relevant summaries, tables, or quick references**
+- The rules directory contains curated, condensed rule summaries and gameplay aids
+- **If the rules directory provides sufficient information to answer the question, STOP HERE - do not access books**
+- Only proceed to books if the information is not available or insufficient in the rules directory
+- **DO NOT access books directly without first checking rules/**
+
+### Step 2: Book README Consultation (only if rules/ insufficient)
+- **If rules/ does not contain sufficient information, THEN read the relevant `books/[book-name]/README.md` file**
 - These README files contain comprehensive tables of contents with chapter summaries
 - Use the README to identify the exact chapter and page range containing the information you need
 - **DO NOT search through individual page files until you have consulted the README**
 
-### Step 2: Targeted Page Access
+### Step 3: Targeted Page Access (only if rules/ and README insufficient)
 - Only after consulting the README, access specific page files in the identified range
 - Use the README's chapter summaries to verify you're looking in the right section
 - Reference the "Quick Reference" sections in README files for commonly needed information
 
-### Step 3: Rule Verification Process
+### Step 4: Rule Verification Process
 When answering rules questions:
-1. **FIRST:** Read the appropriate `books/[book-name]/README.md` to locate the relevant chapter
-2. **SECOND:** Access only the specific page range identified in the README
-3. **THIRD:** Quote or reference the exact page number when possible
-4. **DO NOT:** Rely on memory of rules from other editions (Classic, MegaTraveller, T4, T5, Mongoose 1st edition, etc.)
-5. **DO NOT:** Search through page files randomly without first consulting the README
+1. **FIRST:** Check the `rules/` directory for relevant summaries or tables - **STOP if sufficient**
+2. **SECOND:** If rules/ insufficient, read the appropriate `books/[book-name]/README.md` to locate the relevant chapter
+3. **THIRD:** If README insufficient, access only the specific page range identified in the README
+4. **FOURTH:** Quote or reference the exact page number when possible
+5. **FINAL RESORT:** If all local sources are insufficient, search the web for Mongoose Traveller 2022 rules clarifications
+6. **DO NOT:** Rely on memory of rules from other editions (Classic, MegaTraveller, T4, T5, Mongoose 1st edition, etc.)
+7. **DO NOT:** Search through page files randomly without first consulting rules/ and README
 
 ### Available Book README Files:
 - `books/core-rules-2022/README.md` - Core game mechanics and procedures
@@ -79,4 +89,4 @@ When answering rules questions:
 - `books/traveller-companion/README.md` - Additional rules and options
 - `books/third-imperium/README.md` - Imperial history, politics, and organization
 
-**VIOLATION WARNING:** Accessing book page files without first reading the appropriate README will result in inefficient context usage and potential rule lookup errors.
+**VIOLATION WARNING:** Accessing book page files without first checking rules/ and then reading the appropriate README will result in inefficient context usage and potential rule lookup errors.

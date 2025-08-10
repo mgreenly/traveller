@@ -6,6 +6,7 @@
 *   **Description:** A large, dense, water-rich world with a population in the billions. It boasts an excellent starport and is a major hub of activity.
 *   **World Type:** Large Rocky World (11,200km diameter moon)
 *   **Jump Distance:** 1,120,000 km from center (100-diameter limit)
+    *   **M-Drive Travel Times:** M1: 35.1 hours | M2: 24.8 hours | M3: 20.3 hours
 *   **UPP (A788899-C):**
     *   **Starport:** A (Excellent)
     *   **Size:** 7 (11,200km diameter)

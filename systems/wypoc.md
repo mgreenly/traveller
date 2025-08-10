@@ -6,6 +6,7 @@
 *   **Description:** A large world with a frontier starport and an exotic, unbreathable atmosphere (high argon content). The population is small, and the government is a representative democracy.
 *   **World Type:** Large Rocky World (14,400km diameter)
 *   **Jump Distance:** 1,440,000 km from center (100-diameter limit)
+    *   **M-Drive Travel Times:** M1: 39.7 hours | M2: 28.1 hours | M3: 22.9 hours
 *   **UPP (E9C4547-9):**
     *   **Starport:** E (Frontier)
     *   **Size:** 9 (14,400km diameter)

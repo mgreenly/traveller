@@ -6,6 +6,7 @@
 *   **Description:** A large, tainted world with a population in the millions but a poor starport. The most notable feature is its state of anarchy.
 *   **World Type:** Large Rocky World (14,400km diameter)
 *   **Jump Distance:** 1,440,000 km from center (100-diameter limit)
+    *   **M-Drive Travel Times:** M1: 39.7 hours | M2: 28.1 hours | M3: 22.9 hours
 *   **UPP (D9957AA-6):**
     *   **Starport:** D (Poor)
     *   **Size:** 9 (14,400km diameter)

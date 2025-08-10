@@ -6,6 +6,7 @@
 *   **Description:** A medium-sized world with a standard atmosphere and significant landmass. It has a good starport and a population in the hundreds of thousands.
 *   **World Type:** Medium Rocky World (9,600km diameter)
 *   **Jump Distance:** 960,000 km from center (100-diameter limit)
+    *   **M-Drive Travel Times:** M1: 32.4 hours | M2: 22.9 hours | M3: 18.7 hours
 *   **UPP (B674632-9):**
     *   **Starport:** B (Good)
     *   **Size:** 6 (9,600km diameter)
