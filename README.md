@@ -47,9 +47,8 @@ bin/claude   # Launch Claude Code CLI
 
 ### Git Workflow
 ```bash
-wip                     # Save all changes to wip branch
-claude                  # Work with Claude AI
-main "commit message"   # Squash merge to main with message
+wip              # Save all changes to wip branch
+main "MESSAGE"   # Squash merge wip into main with message
 ```
 
 **Available Commands** (via direnv):
