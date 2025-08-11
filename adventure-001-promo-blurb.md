@@ -3,29 +3,56 @@
 
 ---
 
-### *"Six strangers. One ship. A fortune waiting in the deadliest system in the subsector."*
+### *"Six strangers. One ship. A debt that could destroy them all."*
 
-When a mysterious benefactor bequeaths a state-of-the-art laboratory ship to six unsuspecting heirs, what seems like incredible fortune quickly becomes a desperate race against time. The catch? The *Stardust Drifter* sits derelict in the Djinni system—a Red Zone quarantined by the Imperial Navy, where plague victims once fled to die and now only scavengers dare to tread.
+When Dr. Aris mysteriously bequeaths his advanced laboratory ship to six unconnected individuals, the players inherit both an incredible opportunity and a deadly problem: the *Stardust Drifter* lies derelict in the Djinni system—a plague-quarantined Red Zone patrolled by the Imperial Navy. To claim their MCr15 inheritance, they must first spend Cr3,000,000 they don't have.
 
-To claim their inheritance, the unlikely partners must navigate the treacherous waters of Regina's financial underworld, securing backing from the predatory loan shark Silas Kane whose terms grow more dangerous with each failed negotiation. Their journey to the lawless frontier world of Rech tests both their resolve and their dwindling credit balance as they search for a pilot brave—or foolish—enough to run the Imperial blockade.
+### The Setup (Referee's Eyes Only)
+The adventure opens with the players leveraging their only asset—the ship's title—to secure a predatory loan from Silas Kane, whose repayment terms (60/90/120 days) depend entirely on negotiation success. Unknown to the players, the megacorporation Makhidkarun has been tracking their prize via a hidden corporate beacon and has already dispatched the ruthless salvage crew known as the Rust Dogs to strip the vessel.
 
-But they're not alone in their pursuit. The notorious salvage crew known as the Rust Dogs has caught wind of the prize, and their heavily-armed ship *Scrap Vulture* has a head start. Led by the ruthless Kara "Wrench" Riker, these pirates won't hesitate to claim what they see as rightfully theirs—by any means necessary.
+The true stakes emerge gradually: Dr. Aris's data core contains the "Kane Contingency" file—evidence of the financier's illegal activities that would void their debt entirely. But the Rust Dogs will reach the ship first, stealing this crucial data core before the players arrive, setting up a desperate chase through the asteroid belt.
 
-As the Imperial Navy corvette *INS Steadfast* patrols the quarantine zone with orders to destroy any ship attempting to breach the perimeter, the heirs must thread the needle between certain death and financial ruin. Hidden within the derelict's data core lies the "Kane Contingency"—evidence that could free them from their debt, but only if they reach it before the Rust Dogs strip the ship bare.
+### Adventure Structure
+**Act 1: The Devil's Bargain (Regina)**
+- Meeting with executor reveals the inheritance conditions
+- Information broker Roric Vance provides crucial intel for a price
+- Loan negotiation with Silas Kane creates the ticking clock
+- Players learn they need specialized crew to breach the Red Zone
 
-### Key Features:
-- **High-Stakes Salvage Operation:** Navigate Imperial quarantine zones, hostile salvagers, and crushing debt
-- **Dynamic NPC Interactions:** Choose your pilot wisely—will you trust the professional Captain Kaelen or gamble on hotshot Rico Vega?
-- **Tactical Space Combat:** Outmaneuver or outfight the Rust Dogs in the asteroid-strewn Djinni system
-- **Moral Dilemmas:** How far will you go to secure your fortune? Every choice has consequences
-- **Expandable Campaign Starter:** The inherited ship becomes your crew's base for future adventures
+**Act 2: Journey to the Fringe**
+- Travel through Jenghe, Dinom, Dinomn, and Wypoc systems
+- Resource management as funds dwindle with each jump
+- First sighting of the Rust Dogs at Dinomn creates urgency
+- Arrival at lawless Rech for pilot recruitment
 
-**The Inheritance** combines financial intrigue, dangerous space travel, and pulse-pounding salvage action in a race where second place means bankruptcy—or worse. When legitimate business meets frontier lawlessness, only the clever and the bold will claim their prize.
+**Act 3: The Salvage Run**
+- Choice between professional Captain Kaelen (expensive but reliable) or hotshot Rico Vega (cheaper but reckless)
+- Cat-and-mouse game with INS *Steadfast* enforcing quarantine
+- Discovery that the ship has been stripped of its data core
+- Final confrontation with Rust Dogs in the asteroid belt
 
-*Will you secure your inheritance, or will the void claim another set of dreamers?*
+### Hidden Layers
+- **Corporate Espionage:** Makhidkarun wants their research back and uses deniable assets
+- **Section 86:** Imperial intelligence monitors the situation, potentially offering deals
+- **The Cultivators:** This mysterious faction observes from the shadows with unknown motives
+- **Pilot Mechanics:** First pilot approached can refuse based on reaction rolls; second always accepts
+
+### Referee Tools
+- Dynamic encounter tables for each system
+- Detailed NPCs with clear motivations and resources
+- Modular scenes allowing for player agency
+- Built-in consequences for both success and failure
+- Clear cost breakdowns for mission planning
+
+### Campaign Potential
+The adventure concludes with the players either in possession of a valuable starship (with or without debt), or having learned expensive lessons about frontier justice. The inherited lab ship becomes their base for future adventures, while relationships formed (or burned) create ongoing campaign threads.
+
+**Critical Design Note:** The Rust Dogs will always steal the data core before the players arrive, ensuring dramatic tension. The "Kane Contingency" creates a perfect moral dilemma—use it to void the debt, or leverage it for greater gains?
 
 ---
 
-**Recommended for:** Intermediate players familiar with Traveller basics  
+**Difficulty:** Moderate to Challenging  
 **Estimated Play Time:** 12-20 hours (3-5 sessions)  
+**Required Investment:** ~Cr3,000,000 (in-game loan)  
+**Potential Reward:** MCr15 lab ship (minus complications)  
 **Setting:** Regina Subsector, Spinward Marches, Third Imperium
