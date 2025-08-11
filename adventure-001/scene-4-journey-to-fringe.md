@@ -2,8 +2,56 @@
 
 > **Read Aloud:** The journey ahead is a long one, taking you from the heart of the Imperium to its lawless fringe. Each jump will take you further from the safety of Imperial law and closer to the kind of places where a quick wit and a loaded gun are more valuable than a credit chip. Your path is a well-worn trade route, a string of systems connected by jump-1 parsec lanes, each with its own character and dangers.
 
+### Travel Availability System
+
+#### Number of Available Passages
+
+**Instructions:** Roll on the Available Passage Table based on the current system's population:
+- **Population 9** (Regina): Roll 5 times
+- **Population 6-7** (Jenghe, Dinomn, Rech): Roll 3 times
+- **Population 5** (Dinom, Wypoc): Roll 2 times
+- **Population 4 or less**: Roll 1 time
+
+Each roll represents one available ship with passage. Players can choose from any available options, but must wait for that specific ship's departure (see table for wait times).
+
+**Special Modifiers:**
+- **To/From Regina:** +1 additional roll (major hub)
+- **To Rech:** -1 roll (minimum 1) due to its lawless reputation
+- **From Wypoc to Rech:** Only unofficial passages available (no legitimate carriers will enter a Red Zone)
+
+#### Available Passage Table (2d6)
+| 2d6 Roll | Jump Capability | Departure Wait |
+|----------|----------------|----------------|
+| 2-10     | Jump-1 (Next system only) | 1d6 days |
+| 11-12    | Jump-2 (Skip one system) | 1d6 + 6 days |
+
+#### Passage Rates
+
+**Jump-1 Passage (1 parsec):**
+- **High Passage:** Cr9,000 (own stateroom, high quality meals, full ship facilities)
+- **Middle Passage:** Cr6,500 (shared stateroom, standard meals, basic facilities)
+- **Basic Passage:** Cr2,000 (communal bunks, basic rations, minimal facilities)
+- **Low Passage:** Cr700 (cryogenic suspension, 10% risk of death)
+
+**Jump-2 Passage (2 parsecs):**
+- **High Passage:** Cr14,000 (own stateroom, high quality meals, full ship facilities)
+- **Middle Passage:** Cr10,000 (shared stateroom, standard meals, basic facilities)
+- **Basic Passage:** Cr3,000 (communal bunks, basic rations, minimal facilities)
+- **Low Passage:** Cr1,300 (cryogenic suspension, 10% risk of death)
+
+**Jump-2 Route Options from Current Location:**
+- From Regina: Direct to Dinom (2 parsecs)
+- From Jenghe: Direct to Dinomn (2 parsecs)
+- From Dinom: Direct to Wypoc (2 parsecs)
+- From Dinomn: Direct to Rech (2 parsecs)
+
+**Example:** At Jenghe (Pop 6), the referee rolls 3 times on the table. Results: 7, 10, 11. This means two Jump-1 ships and one Jump-2 ship are available. The referee then rolls 1d6 for departure times: 
+- Ship 1 (rolled 7, Jump-1): departs in 3 days (rolled 3 on d6)
+- Ship 2 (rolled 10, Jump-1): departs in 4 days (rolled 4 on d6)  
+- Ship 3 (rolled 11, Jump-2): departs in 8 days (rolled 2 on d6, so 2+6)
+
 ### Task Chain: Haggling for Passage
-This reusable task chain can be used whenever the players negotiate for passage or lodging. The "standard price" is the one listed in the adventure text for each leg of the journey.
+This reusable task chain can be used whenever the players negotiate for passage or lodging. The "standard price" is the base price from the Passage Rates table.
 
 #### Stage 1: Finding Leverage (TN 8+)
 Before negotiating, players can make a **Streetwise** or **Investigate** check to find an advantage.
@@ -24,22 +72,11 @@ The players negotiate with the captain or broker using a **Broker** or **Persuad
 
 ---
 
-### Stop 1: [Jenghe](../systems/jenghe.md) (Colonial Holding, Law Level 3)
-> **Read Aloud:** The jump to Jenghe is short and comfortable. The system is bathed in the perpetual orange twilight of its K-class star. The orbital starport is a functional, no-frills station. After a shuttle ride down, you find the downport to be a clean but unremarkable facility smelling of processed grains and machinery. This is a quiet backwater, a clear step down from the grandeur of the subsector capital.
+### Journey Stops
 
-*   **Passage to [Dinom](../systems/dinom.md):** ~Cr1,500 (Low) or ~Cr6,000 (Standard).
+The journey from Regina to Rech involves multiple stops through increasingly frontier systems. Each stop is detailed in its own scene file:
 
-### Stop 2: [Dinom](../systems/dinom.md) (Mining Outpost, Law Level 5)
-> **Read Aloud:** Your ride to Dinom is on a cramped ore hauler that constantly vibrates. The system is bleak and lonely. The orbital starport is a utilitarian station reeking of ozone. The downport on the pockmarked grey rock below is a small cluster of domes connected by tunnels, all huddled near a massive mining operation. The only bar is a rough-and-tumble dome filled with dust-covered miners who eye you with open suspicion.
-
-*   **Passage to [Dinomn](../systems/dinomn.md):** ~Cr8,000 (Standard) or ~Cr12,000 (Private).
-
-### Stop 3: [Dinomn](../systems/dinomn.md) (Scout Base, Law Level 2)
-> **Read Aloud:** The Dinomn system feels like a return to civilization. The orbital starport is a well-maintained commercial station with a visible Imperial Scout presence. From a viewport, you see the majestic, ringed gas giant Chronos. As you wait for your connecting passage, you see a brutish, heavily modified freighter docked at a secure berth across the field, undergoing a rapid refueling. It's the [*Scrap Vulture*](../ships/scrap-vulture.md). The Rust Dogs are here, and they are moving fast.
-
-*   **Passage to [Wypoc](../systems/wypoc.md):** ~Cr2,000 (Low), ~Cr10,000 (Standard), or ~Cr25,000 (High).
-
-### Stop 4: [Wypoc](../systems/wypoc.md) (Frontier World, Law Level 7)
-> **Read Aloud:** The brilliant, blue-white light of Wypoc's F-class star forces the ship's viewports to polarize. The planet is a hazy, hostile orb. The orbital starport is a basic, frontier-style station. The downport is a collection of pressurized domes connected by sterile corridors. The moment you step off the shuttle, the argon-heavy atmosphere requires you to don filter masks. As you're being scrutinized by Imperial customs, you see the *Scrap Vulture* lifting off from a distant pad. Your rivals are once again one step ahead.
-
-*   **Passage to [Rech](../systems/rech.md):** ~Cr20,000 per person (cash only, off-the-books).
+1. **[Scene 4a: Jenghe](./scene-4a-jenghe.md)** - Colonial Holding (Law Level 3)
+2. **[Scene 4b: Dinom](./scene-4b-dinom.md)** - Mining Outpost (Law Level 5)
+3. **[Scene 4c: Dinomn](./scene-4c-dinomn.md)** - Scout Base (Law Level 2)
+4. **[Scene 4d: Wypoc](./scene-4d-wypoc.md)** - Frontier World (Law Level 7)

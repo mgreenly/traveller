@@ -8,6 +8,7 @@ This directory contains detailed information on the major factions, organization
 
 #### Official Government Forces
 *   [The Imperial Navy (0th Fleet)](./imperial-navy.md) - The Imperium's military presence in the Spinward Marches
+*   [The 18th Fleet](./18th-fleet.md) - Imperial Navy fleet deployed to Lanth subsector
 *   [Section 86 (Imperial Intelligence)](./section-86.md) - Classified intelligence service (officially doesn't exist)
 
 ### Corporate Powers

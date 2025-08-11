@@ -101,6 +101,67 @@ Jump-trauma has profoundly influenced Imperial culture:
 - **Reality orientation therapy** for severe dissociation
 - **Inpatient treatment** for acute jump psychosis
 
+## Game Mechanics: Jump Sickness
+
+### Duration by Passage Type
+Upon exiting jump space, all conscious travelers experience jump sickness for:
+- **High Passage:** 1d6 hours
+- **Middle Passage:** 2d6 hours  
+- **Basic Passage:** 3d6 hours
+- **Low Passage:** No effect (unconscious during jump)
+
+### Effects
+While suffering from jump sickness:
+- **DM-1 to all checks using INT, EDU, or SOC**
+- **Disorientation:** Difficulty concentrating or performing complex mental tasks
+- **Mild nausea:** Character feels unsteady but can still function
+
+### Mitigating Factors
+- **Smooth Jump (Engineer):** If the ship's engineer achieves Effect 4+ on their jump check, reduce the number of jump sickness dice by 1:
+  - High Passage: 1d6 becomes 0 (no jump sickness)
+  - Middle Passage: 2d6 becomes 1d6 hours
+  - Basic Passage: 3d6 becomes 2d6 hours
+  - Low Passage remains unaffected (already no sickness)
+- **Experienced Traveller (10+ jumps):** Reduce duration by 1 hour (minimum 1)
+- **Medical treatment:** Medic check (8+) reduces duration by 1d3 hours
+- **Jump-smooth drugs:** If taken before jump, halve the duration (round up)
+- **First jump ever:** Add 1d6 hours to duration
+
+### Severe Cases
+On a natural 12 when rolling duration:
+- Character experiences **severe jump sickness**
+- **DM-2 to all mental checks** for the duration
+- Must make **END 8+** check or be incapacitated for first hour
+
+## Optional Rule: Variable Passage Restocking Costs
+
+While standard rules specify Cr1000 per stateroom for life support and supplies (providing "rather spartan" meals), referees may wish to differentiate costs based on passage class to reflect the quality differences:
+
+### Restocking Costs per Stateroom (per Maintenance Period)
+- **High Passage:** Cr1500-2000 
+  - Premium food and beverages
+  - Luxury toiletries and amenities
+  - Fresh linens and enhanced entertainment
+  - Quality jump-sickness medications included
+  
+- **Middle Passage:** Cr1000 (standard)
+  - Adequate meals with some variety
+  - Basic toiletries
+  - Standard linens
+  - Basic medical supplies
+  
+- **Basic Passage:** Cr500-750
+  - Minimal rations and water
+  - No amenities beyond essentials
+  - Communal supplies only
+  - Passengers often bring their own comfort items
+
+- **Low Passage:** Cr100 (as per standard rules)
+  - Life support chemicals only
+  - No food or amenities needed
+
+This optional rule makes operating luxury passenger service more expensive but also explains the significant price differences between passage types. Ships can still choose to use standard supplies for all passengers and pocket the difference, but discriminating travelers may notice.
+
 ## Referee Notes
 
 Jump-trauma provides excellent roleplaying opportunities:
@@ -110,7 +171,7 @@ Jump-trauma provides excellent roleplaying opportunities:
 - Character development through shared jump experiences
 - Cultural flavor through different societies' approaches
 
-Consider having PCs make END or INT checks for particularly difficult jumps, with failure resulting in temporary penalties or interesting roleplay effects. Jump-trauma shouldn't cripple characters but can add depth to the jump travel experience.
+The mechanical effects of jump sickness add meaningful consequences to travel choices. Players must weigh the comfort and reduced recovery time of expensive passages against the longer disorientation of budget travel. This creates interesting tactical decisions about when to arrive at a destination and how much to spend on passage.
 
 ---
 

@@ -21,7 +21,6 @@ This directory contains reusable in-universe locations, encounters, and establis
 
 ### Historical & Military
 - [Fourth Frontier War](./fourth-frontier-war.md) - Overview of the Fourth Frontier War (1082-1084) between the Imperium and Zhodani Consulate.
-- [Imperial Navy Lanth](./imperial-navy-lanth.md) - Information about the 18th Fleet and naval forces deployed to Lanth subsector.
 - [Third Frontier War](./third-frontier-war.md) - Details of the Third Frontier War (979-986) and its impact on the Spinward Marches.
 - [Timeline](./timeline.md) - Chronological timeline of major events in the Spinward Marches.
 

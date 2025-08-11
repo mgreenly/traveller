@@ -102,6 +102,8 @@ Actions so quick they don't warrant a Minor Action:
 
 ### Melee Attack (Core Rules p.74, p.77)
 1. **Roll:** 2D + STR or DEX DM + Melee (Core Rules p.74)
+   - STR: Better for maximizing damage since STR DM gets added to damage (line 108). Use when you want to hit hard.
+   - DEX: Better if you have higher DEX than STR for accuracy. Use when you prioritize hitting over damage output.
 2. **Modifiers:**
    - Opponent can parry (inflicts Melee skill as negative DM)
    - Size difference modifiers

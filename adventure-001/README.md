@@ -14,7 +14,11 @@ A Traveller RPG adventure where six player characters inherit a valuable lab shi
 *   [Scene 1: An Unexpected Inheritance](./scene-1-unexpected-inheritance.md) - Meeting the executor on Regina
 *   [Scene 2: The Information Broker](./scene-2-information-broker.md) - Roric Vance provides crucial intel
 *   [Scene 3: The Devil's Bargain](./scene-3-devils-bargain.md) - Financing negotiation with Silas Kane
-*   [Scene 4: The Journey to the Fringe](./scene-4-journey-to-fringe.md) - Travel to Rech to hire pilot
+*   [Scene 4: The Journey to the Fringe](./scene-4-journey-to-fringe.md) - Travel system with passage availability tables
+    - [Scene 4a: Jenghe](./scene-4a-jenghe.md) - First stop, colonial holding
+    - [Scene 4b: Dinom](./scene-4b-dinom.md) - Mining outpost layover
+    - [Scene 4c: Dinomn](./scene-4c-dinomn.md) - Scout base, first Rust Dogs sighting
+    - [Scene 4d: Wypoc](./scene-4d-wypoc.md) - Frontier world, final jump to Rech
 *   [Scene 5: Anarchy and Opportunity](./scene-5-anarchy-and-opportunity.md) - Pilot recruitment on lawless Rech
 *   [Scene 6: The Djinni Run](./scene-6-djinni-run.md) - Dangerous entry into the Red Zone
 *   [Scene 7: The Ghost Ship](./scene-7-ghost-ship.md) - Boarding the derelict Stardust Drifter
