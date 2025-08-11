@@ -23,8 +23,9 @@ Welcome to **"The Long Haul"**, a high-stakes Traveller RPG campaign set in the 
 - **[Factions](./factions/README.md)** - Organizations shaping the campaign's politics
 
 ### Reference Materials
-- **[Lore & Encounters](./lore/README.md)** - Locations, establishments, and reusable encounters
+- **[Lore & Encounters](./lore/README.md)** - Locations, establishments, brands, and historical events
 - **[Rules & Tables](./rules/README.md)** - Game mechanics, equipment, and reference materials
+- **[Session Notes](./sessions/README.md)** - Campaign session narratives and records
 
 ---
 
@@ -46,23 +47,14 @@ bin/claude   # Launch Claude Code CLI
 
 ### Git Workflow
 ```bash
-gwip                    # Create feature branch
+wip                     # Save all changes to wip branch
 claude                  # Work with Claude AI
-gmain                   # Switch to main
-gsquash                 # Squash merge changes  
-gcommit "description"   # Commit with message
-gclean                  # Delete feature branch
+main "commit message"   # Squash merge to main with message
 ```
 
 **Available Commands** (via direnv):
-- `gwip` - Create and switch to wip branch
-- `gadd` - Stage and commit all changes with 'wip' message (wip branch only)
-- `grollback` - Reset last commit (wip branch only)
-- `gmain` - Switch to main branch
-- `gsquash` - Squash merge wip → main
-- `gcommit "msg"` - Commit with message and push to GitHub
-- `gclean` - Delete wip branch (safe)
-- `greset` - Force delete wip branch
+- `wip` - Commits all changes to wip branch and pushes to GitHub
+- `main "message"` - Squash merges wip to main, commits with message, and pushes to GitHub
 
 ### Safety Features
 - **Docker Isolation** - Nothing outside project folder can be changed
@@ -71,6 +63,25 @@ gclean                  # Delete feature branch
 - **Risk-free Experimentation** - Try bold changes knowing you can revert
 
 ---
+
+## 📂 Project Structure
+
+### Key Files
+- **[CLAUDE.md](./CLAUDE.md)** - AI assistant configuration and context
+- **[Dockerfile](./Dockerfile)** - Container definition
+- **[bin/](./bin/)** - Utility scripts for development
+
+### Content Organization
+- **adventures/** - Structured adventure modules with scenes and NPCs
+- **characters/** - NPC data sheets organized by affiliation
+- **ships/** - Detailed starship specifications
+- **systems/** - Star system data and planetary information
+- **factions/** - Political and corporate organizations
+- **lore/** - Reusable locations, brands, and historical events
+- **rules/** - Game mechanics quick references
+- **players/** - Player character records
+- **sessions/** - Campaign session narratives
+- **books/** - Reference materials (Mongoose Traveller 2022)
 
 ## 🛠️ Technical Details
 
