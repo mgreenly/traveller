@@ -46,7 +46,85 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   **[Captain Valerius Thorne](../characters/ins-steadfast/captain-valerius-thorne.md):** The inflexible captain of the INS *Steadfast*.
 
 ---
-## Appendix C: Starships
+## Appendix C: Faction Relationships
+
+### The Power Triangle
+
+The adventure involves three key power groups whose hidden relationships drive the conflict:
+
+#### 1. Haskins & Associates (The Catalyst)
+- **Role:** Law firm on Regina handling Dr. Aros's estate
+- **Motivation:** Wash their hands of a problematic client as quickly as possible
+- **Actions:** 
+  - Transfer the *Stardust Drifter*'s ownership to the player characters
+  - Insist all salvage claims must be filed in K'Kirka system
+  - Possibly leaked information about the inheritance to interested parties
+- **Relationship to Others:** Neutral facilitators who inadvertently set events in motion
+
+#### 2. The Rust Dogs (The Pawns)
+- **Role:** Rival salvage crew operating the *Scrap Vulture*
+- **Members:** Kara "Wrench" Riker (leader), Joric "Slick" Fen (pilot/slicer), Grak (muscle), Zina "Sparks" Petrova (medic)
+- **Motivation:** Profit from salvage operation, unaware of their employer's true identity
+- **Actions:**
+  - Track the *Stardust Drifter* using old corporate beacon data
+  - Ambush players on Rech to eliminate competition
+  - Steal the ship's data core before players arrive
+- **Relationship to Others:** 
+  - Secretly hired by Makhidkarun through shell company "Fringe Asset Recovery, LLC"
+  - Direct antagonists to the player characters
+  - Unaware they're being monitored by Section 86
+
+#### 3. Makhidkarun Corporation (The Puppet Master)
+- **Role:** Imperial megacorporation and true antagonist
+- **Public Face:** Respected manufacturer of starships, electronics, and consumer goods
+- **True Nature:** Masters of political manipulation and industrial espionage
+- **Motivation:** Recover "their" research asset and biological samples
+- **Actions:**
+  - Previously funded Dr. Aros's research
+  - Installed tracking devices on the *Stardust Drifter*
+  - Hired Rust Dogs through untraceable shell company
+  - Owns Silas Kane as an asset for financial operations
+- **Relationship to Others:**
+  - Former patron of Dr. Aros (now trying to reclaim assets)
+  - Secret employer of the Rust Dogs
+  - Suspected ties to the Zhodani Consulate
+
+### The Hidden Web
+
+Beyond the primary triangle, other factions observe from the shadows:
+
+#### Section 86 (Imperial Intelligence)
+- Monitoring the situation through hacked Rust Dogs systems
+- Aware of Makhidkarun's involvement
+- Watching to see what the players uncover
+
+#### The Cultivators
+- Observing through unknown means
+- Interest in Dr. Aros's biological research
+- Potential future contact depending on player actions
+
+### Key Relationship Dynamics
+
+1. **Information Flow:** 
+   - Lawyers → Players (legitimate transfer)
+   - Lawyers → Unknown parties (leaked information)
+   - Makhidkarun → Rust Dogs (mission parameters via shell company)
+   - Section 86 → Monitoring all parties
+
+2. **Power Dynamics:**
+   - Makhidkarun manipulates from the shadows
+   - Rust Dogs believe they're independent operators
+   - Players are caught between multiple conspiracies
+   - Lawyers just want to avoid liability
+
+3. **Escalation Path:**
+   - Initial: Simple inheritance dispute
+   - Revealed: Corporate salvage competition
+   - Hidden: Makhidkarun asset recovery operation
+   - Ultimate: Multiple intelligence agencies watching
+
+---
+## Appendix D: Starships
 
 *   [***Stardust Drifter***](../ships/stardust-drifter.md): The prize. A modified lab ship, abandoned in the [Djinni](../systems/djinni.md) system.
 *   [***The Void Gambit***](../ships/the-void-gambit.md): The players' ride. A fast, modified free trader captained by Kaelen.
@@ -54,7 +132,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   [***Scrap Vulture***](../ships/scrap-vulture.md): The rivals' ship. A brutish, modified freighter used by the Rust Dogs.
 *   [***INS Steadfast***](../ships/ins-steadfast.md): The law. An Imperial Navy corvette patrolling the [Djinni](../systems/djinni.md) system.
 ---
-## Appendix D: The Aris Data Core
+## Appendix E: The Aris Data Core
 
 Once the players have recovered the main data core from the Rust Dogs and installed it in the *Stardust Drifter*, they gain access to more than just the ship's operating systems. Buried in the terabytes of mundane data are several of Dr. Aros's personal research files and logs, offering new adventure hooks.
 
@@ -78,18 +156,28 @@ Hidden within the data core's encrypted partition is a folder labeled "Insurance
 *   **Content:** The data points to a previously uncharted moon, **Cthonia**, orbiting a gas giant in the barren **Menkar** system (a system several parsecs off the main trade routes). Aris's log describes his last visit there: *"The structures are not of any known race. Geometric, crystalline... they hum in a frequency my sensors can't properly analyze. I had to leave before I could explore the primary subterranean entrance; the radiation spikes were becoming too dangerous. The site is pristine, completely unknown to the IISS. I've encrypted its location; can't risk a megacorp getting their claws on it."*
 *   **Hook:** The players now have the coordinates to a completely unknown and potentially priceless alien archaeological site. What secrets does it hold? What dangers caused the radiation spikes? And what will they do with the discovery of a lifetime?
 
-### 2. Project "Janus"
-*   **File Type:** Encrypted Research Proposal (Half-finished)
-*   **Content:** This file outlines Aris's theoretical work on a revolutionary and highly illegal technology: a "Janus-class" computer virus. The virus is designed to simultaneously create a perfect digital duplicate of a ship's computer core while erasing the original, making it the ultimate tool for data theft. The proposal notes the extreme danger: a minor error in the code could cause a cascade failure, turning the target computer into a useless brick. Aris seems to have abandoned the project, noting it was "too unstable, too dangerous."
-*   **Hook:** The incomplete code is a digital time bomb. Do the players try to finish it, creating a powerful but illegal cyberweapon? Do they try to sell the dangerous research to a corporation or government? Or do they destroy it, fearing it could fall into the wrong hands? Their decision could attract the attention of corporate security, Imperial intelligence, or a syndicate of high-tech thieves.
-
-### 3. The "Sparrow" Correspondence
+### 2. The "Sparrow" Correspondence
 *   **File Type:** A series of heavily encrypted, one-way communications.
 *   **Content:** These are messages *sent to* Dr. Aros from an unknown contact who signs off only as "Sparrow." The messages are cryptic and personal. *"They know. The Regina project was compromised. I'm burning this identity and going dark. Don't try to find me. I've enclosed the usual payment for your silence. Stay safe, old friend."* The final message is dated just a few weeks before Aris abandoned the *Stardust Drifter*. Attached is a digital wallet with a few thousand untraceable credits.
 *   **Hook:** Who is Sparrow? What was the "Regina project"? Was Aris helping someone on the run? This breadcrumb trail could lead the players into a web of personal loyalty and corporate or political espionage, trying to uncover the identity of Sparrow and the secret they were protecting.
 
+### 3. Project Prometheus
+*   **File Type:** Heavily Encrypted Research Database (Requires TN 12+ to decrypt)
+*   **Content:** The files reference extensive genetic modification experiments aimed at creating humans capable of surviving in extreme environments without life support—vacuum, high radiation, toxic atmospheres. The test subjects appear to have developed unexpected psionic abilities as a side effect, with later entries discussing "controlled evolution" and "guided transcendence." The final logs are corrupted but mention a breakthrough involving "stable hereditary traits" and urgent warnings about "cascade mutations."
+*   **Hook:** Is this the forbidden research that got Dr. Aros killed? The data could revolutionize colonization efforts or create a new subspecies of humanity—but the Imperial ban on genetic enhancement makes this knowledge incredibly dangerous to possess.
+
+### 4. The Altaira Protocols  
+*   **File Type:** Medical Database with Biometric Locks (Named after his deceased daughter)
+*   **Content:** Initially appearing to be life extension research using nanotechnology and "telomere crystallization," deeper files reveal the true purpose: Dr. Aros's desperate attempts to resurrect his daughter Altaira, who died seven years ago in the Djinni system. The protocols detail a process of extracting residual consciousness patterns from preserved tissue samples, combined with quantum reconstruction of neural pathways. The later entries become increasingly frantic, documenting partially successful transfers into cloned bodies that survive for days or weeks before suffering catastrophic psychological collapse, each one retaining fragments of Altaira's memories but never her complete personality.
+*   **Hook:** The most recent entry, dated just before Aros's disappearance, claims a breakthrough: "She spoke to me. Not a recording, not an echo—HER. The consciousness matrix is stable at 47% integrity. If I can reach 75%, she can live again." Several major Imperial nobles are listed as secret funders, having been promised the same resurrection technology for their own loved ones.
+
+### 5. The Consciousness Matrices
+*   **File Type:** Quantum Data Storage Array (Incompatible with standard readers)
+*   **Content:** These files contain what appear to be complete neural maps of twelve different individuals, including someone identified only as "A.R." (possibly Aros himself). The technology seems to allow for the complete digitization and storage of human consciousness, with notes about successful "re-instantiation" into cloned bodies or advanced synthetic frames. One disturbing entry mentions that the original Dr. Aros may have died years ago, and the person the players knew was actually the third copy.
+*   **Hook:** The ability to backup and restore human consciousness would fundamentally change civilization—but who are the twelve stored minds, and why does one of them keep trying to communicate through the ship's systems?
+
 ---
-## Appendix E: Reusable Encounters
+## Appendix F: Reusable Encounters
 
 This adventure uses several modular, reusable encounters that can be found in the `/rules` directory. They are designed to be dropped into any adventure in this campaign.
 

@@ -27,11 +27,12 @@ A Traveller RPG adventure where six player characters inherit a valuable lab shi
 ### Resolution & Resources
 *   [Resolution](./resolution.md) - Adventure conclusion and aftermath
 *   [Appendices](./appendices.md) - Supporting materials and encounters
-    - Appendix A: Random Encounters
-    - Appendix B: Dramatis Personae
-    - Appendix C: Starships
-    - Appendix D: The Aris Data Core
-    - Appendix E: Reusable Encounters
+    - [Appendix A: Random Encounters](./appendices.md#appendix-a-random-encounters)
+    - [Appendix B: Dramatis Personae](./appendices.md#appendix-b-dramatis-personae)
+    - [Appendix C: Faction Relationships](./appendices.md#appendix-c-faction-relationships)
+    - [Appendix D: Starships](./appendices.md#appendix-d-starships)
+    - [Appendix E: The Aris Data Core](./appendices.md#appendix-e-the-aris-data-core)
+    - [Appendix F: Reusable Encounters](./appendices.md#appendix-f-reusable-encounters)
 
 ## Quick Reference
 
