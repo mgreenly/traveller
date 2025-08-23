@@ -24,7 +24,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   **[Quinn](../players/quinn.md)**
 
 ### Allies & Contacts
-*   **[Dr. Aris](../characters/dr-aris.md):** The mysterious, reclusive scientist who bequeaths the *Stardust Drifter*.
+*   **[Dr. Aros](../characters/dr-aros.md):** The mysterious, reclusive scientist who bequeaths the *Stardust Drifter*.
 *   **[Roric Vance](../characters/roric-vance.md):** An aging information broker on [Regina](../systems/regina.md).
 *   **[Silas "The Gilded" Kane](../characters/silas-kane.md):** A predatory financier on [Regina](../systems/regina.md).
 *   **The Crew of *[The Void Gambit](../ships/the-void-gambit.md)***
@@ -56,7 +56,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 ---
 ## Appendix D: The Aris Data Core
 
-Once the players have recovered the main data core from the Rust Dogs and installed it in the *Stardust Drifter*, they gain access to more than just the ship's operating systems. Buried in the terabytes of mundane data are several of Dr. Aris's personal research files and logs, offering new adventure hooks.
+Once the players have recovered the main data core from the Rust Dogs and installed it in the *Stardust Drifter*, they gain access to more than just the ship's operating systems. Buried in the terabytes of mundane data are several of Dr. Aros's personal research files and logs, offering new adventure hooks.
 
 ### The Kane Contingency File
 
@@ -85,7 +85,7 @@ Hidden within the data core's encrypted partition is a folder labeled "Insurance
 
 ### 3. The "Sparrow" Correspondence
 *   **File Type:** A series of heavily encrypted, one-way communications.
-*   **Content:** These are messages *sent to* Dr. Aris from an unknown contact who signs off only as "Sparrow." The messages are cryptic and personal. *"They know. The Regina project was compromised. I'm burning this identity and going dark. Don't try to find me. I've enclosed the usual payment for your silence. Stay safe, old friend."* The final message is dated just a few weeks before Aris abandoned the *Stardust Drifter*. Attached is a digital wallet with a few thousand untraceable credits.
+*   **Content:** These are messages *sent to* Dr. Aros from an unknown contact who signs off only as "Sparrow." The messages are cryptic and personal. *"They know. The Regina project was compromised. I'm burning this identity and going dark. Don't try to find me. I've enclosed the usual payment for your silence. Stay safe, old friend."* The final message is dated just a few weeks before Aris abandoned the *Stardust Drifter*. Attached is a digital wallet with a few thousand untraceable credits.
 *   **Hook:** Who is Sparrow? What was the "Regina project"? Was Aris helping someone on the run? This breadcrumb trail could lead the players into a web of personal loyalty and corporate or political espionage, trying to uncover the identity of Sparrow and the secret they were protecting.
 
 ---

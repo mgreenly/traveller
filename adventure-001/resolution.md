@@ -1,6 +1,6 @@
 ## Resolution
 
-The adventure concludes when the players escape the [Djinni](../systems/djinni.md) system with the [*Stardust Drifter*](../ships/stardust-drifter.md). To make their ownership official, they must file a salvage and inheritance claim at the starport on [K'Kirka](../systems/k-kirka.md). This sets the stage for future adventures, where they must deal with their massive debt to [Silas Kane](../characters/silas-kane.md), the unwanted attention from [Makhidkarun](../factions/makhidkarun.md), and the true nature of [Dr. Aris](../characters/dr-aris.md)'s research.
+The adventure concludes when the players escape the [Djinni](../systems/djinni.md) system with the [*Stardust Drifter*](../ships/stardust-drifter.md). To make their ownership official, they must travel to [K'Kirka](../systems/k-kirka.md) with both the ship and the original ownership documents from Haskins & Associates. At the starport, Imperial inspectors will verify the ship's identity, check for liens, and assess any encumbrances before certifying the claim. Without both the physical vessel and the legal documents present, the claim cannot be processed. This sets the stage for future adventures, where they must deal with their massive debt to [Silas Kane](../characters/silas-kane.md), the unwanted attention from [Makhidkarun](../factions/makhidkarun.md), and the true nature of [Dr. Aros](../characters/dr-aros.md)'s research.
 
 ### If the Data Core is Lost
 

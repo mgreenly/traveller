@@ -5,7 +5,7 @@ This directory contains detailed profiles for all Non-Player Characters (NPCs) i
 ## Table of Contents
 
 ### Key Campaign NPCs
-*   [Dr. Aris](./dr-aris.md) - Mysterious scientist who bequeaths the Stardust Drifter
+*   [Dr. Aros](./dr-aros.md) - Mysterious scientist who bequeaths the Stardust Drifter
 *   [Roric Vance](./roric-vance.md) - Washed-up information broker with hidden loyalties
 *   [Silas Kane](./silas-kane.md) - Predatory financier who runs "The Gilded Cage"
 

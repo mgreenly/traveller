@@ -1,7 +1,7 @@
 # Stardust Drifter (Lab Ship)
 
 ## Description
-The *Stardust Drifter* is a heavily modified Lab Ship, repurposed by the reclusive scientist [Dr. Aris](../characters/dr-aris.md) for extended duration exploration trips and research in hazardous environments. Its exterior is weathered and scarred from years of travel through uncharted space. Internally, the ship's standard laboratory has been upgraded to be state-of-the-art, and specialized sample containment units have been installed at the expense of cargo capacity. The ship is old but was once top-of-the-line, a testament to [Dr. Aris](../characters/dr-aris.md)'s dedication to his work.
+The *Stardust Drifter* is a heavily modified Lab Ship, repurposed by the reclusive scientist [Dr. Aros](../characters/dr-aros.md) for extended duration exploration trips and research in hazardous environments. Its exterior is weathered and scarred from years of travel through uncharted space. Internally, the ship's standard laboratory has been upgraded to be state-of-the-art, and specialized sample containment units have been installed at the expense of cargo capacity. The ship is old but was once top-of-the-line, a testament to [Dr. Aros](../characters/dr-aros.md)'s dedication to his work.
 
 ## Ship Stats (Based on a Lab Ship)
 *   **Hull:** 200 tons
@@ -28,7 +28,7 @@ Systems
 
 ## Crew
 *   **Current Crew:** None (abandoned)
-*   **Original Owner:** [Dr. Aris](../characters/dr-aris.md)
+*   **Original Owner:** [Dr. Aros](../characters/dr-aros.md)
 *   **Intended Recipient:** [Keith](../players/keith.md) (Player Character)
 
 

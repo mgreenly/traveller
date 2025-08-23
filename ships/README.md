@@ -7,7 +7,7 @@ This directory contains detailed specifications and descriptions for all starshi
 ### Key Vessels
 
 #### The Prize
-*   [Stardust Drifter](./stardust-drifter.md) - Dr. Aris's heavily modified lab ship, the inheritance at the heart of the campaign
+*   [Stardust Drifter](./stardust-drifter.md) - Dr. Aros's heavily modified lab ship, the inheritance at the heart of the campaign
 
 ### Player-Accessible Ships
 

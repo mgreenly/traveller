@@ -36,7 +36,7 @@ A Traveller RPG adventure where six player characters inherit a valuable lab shi
 ## Quick Reference
 
 ### Key NPCs
-- **[Dr. Aris](../characters/dr-aris.md)** - Mysterious scientist who bequeaths the ship
+- **[Dr. Aros](../characters/dr-aros.md)** - Mysterious scientist who bequeaths the ship
 - **[Silas Kane](../characters/silas-kane.md)** - Predatory financier (antagonist)
 - **[Kara "Wrench" Riker](../characters/scrap-vulture/kara-wrench-riker.md)** - Leader of the Rust Dogs (rival)
 - **[Captain Kaelen](../characters/the-void-gambit/captain-kaelen.md)** - Professional pilot option

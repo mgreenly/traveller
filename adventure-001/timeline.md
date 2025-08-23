@@ -12,7 +12,7 @@ This timeline provides a realistic estimate of how many days pass from the start
 
 ### Day 8: Regina - The Inheritance
 - **Morning (0900):** Meeting at Haskins & Associates law offices
-- **Afternoon:** Research and planning, opening [Dr. Aris](../characters/dr-aris.md)'s data wafer
+- **Afternoon:** Research and planning, opening [Dr. Aros](../characters/dr-aros.md)'s data wafer
 - **Evening:** Search for [Roric Vance](../characters/roric-vance.md) begins
 
 ### Day 9: Regina - Information and Financing

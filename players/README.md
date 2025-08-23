@@ -15,4 +15,4 @@ This directory contains character sheets and background information for all Play
 
 ### Campaign Notes
 
-Keith serves as the primary connection to the "Inheritance" adventure, being Dr. Aris's former student and the legal recipient of the Stardust Drifter. The other five characters are brought together through various connections and circumstances as they join Keith in pursuing this dangerous inheritance.
+Keith serves as the primary connection to the "Inheritance" adventure, being Dr. Aros's former student and the legal recipient of the Stardust Drifter. The other five characters are brought together through various connections and circumstances as they join Keith in pursuing this dangerous inheritance.

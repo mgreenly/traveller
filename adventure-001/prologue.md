@@ -8,11 +8,11 @@ Then, several days ago, each of you received the same secure, personalized messa
 
 ---
 
-> **Subject: A Matter of Utmost Importance — Regarding [Dr. Aris](../characters/dr-aris.md)**
+> **Subject: A Matter of Utmost Importance — Regarding [Dr. Aros](../characters/dr-aros.md)**
 >
 > **[Recipient's Name],**
 >
-> This message serves as a formal notification from the law offices of Haskins & Associates, representing the interests of [Dr. Aris](../characters/dr-aris.md).
+> This message serves as a formal notification from the law offices of Haskins & Associates, representing the interests of [Dr. Aros](../characters/dr-aros.md).
 >
 > A legal directive filed by our client includes a provision that we believe you will find to be of significant material interest. Pursuant to this directive, you have been named as a beneficiary in a transfer of significant assets.
 >
@@ -29,9 +29,9 @@ Then, several days ago, each of you received the same secure, personalized messa
 
 **data slate**
 
-> **Read Aloud (optional):** Your data-slate chirps and decrypts an official-looking notice. The Haskins & Associates crest rotates above crisp text. Someone named Dr. Aris has named you in a transfer of assets. A paid ticket to Regina waits at the nearest starport. The message is terse, legitimate, and very clear: come at once.
+> **Read Aloud (optional):** Your data-slate chirps and decrypts an official-looking notice. The Haskins & Associates crest rotates above crisp text. Someone named Dr. Aros has named you in a transfer of assets. A paid ticket to Regina waits at the nearest starport. The message is terse, legitimate, and very clear: come at once.
 
-You all know Dr. Aris. He was an eccentric research scientist whose path crossed each of yours at some point in your careers.
+You all know Dr. Aros. He was an eccentric research scientist whose path crossed each of yours at some point in your careers.
 
 ---
 
@@ -54,7 +54,7 @@ While waiting, they might visit some of [Regina](../systems/regina.md)'s famous 
 Use one or two of these as quick, optional beats during downtime. Keep them tight and informative.
 *   Security Sweep (Recon or Deception 8+): Plainclothes officers conduct a random scan in the hotel lobby. Success avoids scrutiny; failure invites routine questioning about recent travel (no consequences if honest).
 *   Corporate Head-hunter (Persuade or Streetwise 8+): A recruiter mistakes a PC for a prospect and fishes for background. Success nets a rumor: Haskins has recently offloaded several “fringe assets.”
-*   Old Acquaintance (Social or Persuade 8+): A familiar face from a prior career buys a drink. Success yields a lead: whispers that [Dr. Aris](../characters/dr-aris.md) was cut off by multiple firms months ago.
+*   Old Acquaintance (Social or Persuade 8+): A familiar face from a prior career buys a drink. Success yields a lead: whispers that [Dr. Aros](../characters/dr-aros.md) was cut off by multiple firms months ago.
 *   Downport Brush (Streetwise or Recon 8+): A pickpocket attempt or slipped tracker at the Grand Concourse. Success spots it; failure means the PCs are quietly tagged until they notice (Electronics (Comms) or Recon 8+ to remove).
 *   Newsburst: Djinni Red Zone (Investigate or Admin 8+): A newsfeed segment about tightened Navy protocols around the [Djinni](../systems/djinni.md) exclusion. Success gleans timing: additional patrols rotate in 4–6 weeks.
 *   University Exhibit (Education or Investigate 8+): Grad students presenting Ancients pieces at the museum. Success uncovers that corporate access to recent digs was “bought out,” souring the University’s mood toward certain firms.

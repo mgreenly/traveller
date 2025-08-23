@@ -5,12 +5,12 @@
 
 ### *"Six strangers. One ship. A debt that could destroy them all."*
 
-When Dr. Aris mysteriously bequeaths his advanced laboratory ship to six unconnected individuals, the players inherit both an incredible opportunity and a deadly problem: the *Stardust Drifter* lies derelict in the Djinni system—a plague-quarantined Red Zone patrolled by the Imperial Navy. To claim their MCr15 inheritance, they must first spend Cr3,000,000 they don't have.
+When Dr. Aros mysteriously bequeaths his advanced laboratory ship to six unconnected individuals, the players inherit both an incredible opportunity and a deadly problem: the *Stardust Drifter* lies derelict in the Djinni system—a plague-quarantined Red Zone patrolled by the Imperial Navy. To claim their MCr15 inheritance, they must first spend Cr3,000,000 they don't have.
 
 ### The Setup (Referee's Eyes Only)
 The adventure opens with the players leveraging their only asset—the ship's title—to secure a predatory loan from Silas Kane, whose repayment terms (60/90/120 days) depend entirely on negotiation success. Unknown to the players, the megacorporation Makhidkarun has been tracking their prize via a hidden corporate beacon and has already dispatched the ruthless salvage crew known as the Rust Dogs to strip the vessel.
 
-The true stakes emerge gradually: Dr. Aris's data core contains the "Kane Contingency" file—evidence of the financier's illegal activities that would void their debt entirely. But the Rust Dogs will reach the ship first, stealing this crucial data core before the players arrive, setting up a desperate chase through the asteroid belt.
+The true stakes emerge gradually: Dr. Aros's data core contains the "Kane Contingency" file—evidence of the financier's illegal activities that would void their debt entirely. But the Rust Dogs will reach the ship first, stealing this crucial data core before the players arrive, setting up a desperate chase through the asteroid belt.
 
 ### Adventure Structure
 **Act 1: The Devil's Bargain (Regina)**

@@ -8,7 +8,7 @@
 
 ### Task Chain: Negotiating with Roric Vance
 This encounter is a two-stage task chain. The outcome of the first stage impacts the difficulty of the second, determining the quality of information the players receive.
-**Required Element:** The players MUST use the code phrase: *"The Whiskey Jack needs a fast ship."* Without it, the negotiation automatically fails.
+**Required Element:** The players MUST use the code phrase: *"Whiskey Jack needs a fast ship."* Without it, the negotiation automatically fails.
 
 #### Stage 1: The Approach (TN 8+)
 The players must make a **Streetwise** or **Investigate** check to approach Vance without making him more paranoid.
@@ -19,7 +19,7 @@ The players must make a **Streetwise** or **Investigate** check to approach Vanc
 
 #### Stage 2: The Negotiation (TN 8+)
 After giving the code phrase, the players make a **Persuade** or **Broker** check (modified by Stage 1) to determine how much information Vance shares.
-*   **Persuade:** Represents appealing to Vance's sincerity or loyalty to [Dr. Aris](../characters/dr-aris.md).
+*   **Persuade:** Represents appealing to Vance's sincerity or loyalty to [Dr. Aros](../characters/dr-aros.md).
 *   **Broker:** Represents treating this as a professional transaction.
 
 #### Outcome Tiers
