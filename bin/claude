@@ -7,6 +7,9 @@ readonly PROJECT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 readonly CONTAINER_HOME="/home/user"
 readonly IMAGE_NAME="agent"
 
+# Model configuration (can be overridden by environment variable)
+readonly MODEL="${CLAUDE_MODEL:-sonnet}"
+
 # Check if Docker is available
 if ! command -v docker &> /dev/null; then
     echo "Error: Docker is not installed or not in PATH" >&2
@@ -50,6 +53,7 @@ docker_args=(
     --tty
     --user "${HOST_UID}:${HOST_GID}"
     --env "HOME=${CONTAINER_HOME}"
+    --env "MODEL=${MODEL}"
     --volume "${PROJECT_DIR}:/workspace"
     --volume "${HOME}/.claude:${CONTAINER_HOME}/.claude:rw"
     --volume "${HOME}/.claude.json:${CONTAINER_HOME}/.claude.json:rw"

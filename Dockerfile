@@ -4,8 +4,8 @@ FROM node:20-slim
 RUN apt-get update && apt-get install -y \
     # Text processing & search
     git-lfs \
-    jq \
     fzf \
+    jq \
     silversearcher-ag \
     fd-find \
     # File operations  
@@ -55,5 +55,8 @@ RUN mkdir -p /home/user && chmod 1777 /home/user
 # Set working directory
 WORKDIR /workspace
 
-# Use the claude command from PATH
-ENTRYPOINT ["claude"]
+# Add ENV for model with default value
+ENV MODEL="sonnet"
+
+# Use the claude command from PATH with model parameter
+ENTRYPOINT ["sh", "-c", "claude --model \"${MODEL}\" \"$@\"", "claude"]

@@ -27,6 +27,8 @@ Then, several days ago, each of you received the same secure, personalized messa
 > **Haskins & Associates**
 > *Fiduciary & Legal Services*
 
+**data slate**
+
 > **Read Aloud (optional):** Your data-slate chirps and decrypts an official-looking notice. The Haskins & Associates crest rotates above crisp text. Someone named Dr. Aris has named you in a transfer of assets. A paid ticket to Regina waits at the nearest starport. The message is terse, legitimate, and very clear: come at once.
 
 You all know Dr. Aris. He was an eccentric research scientist whose path crossed each of yours at some point in your careers.
