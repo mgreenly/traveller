@@ -6,12 +6,9 @@ This directory contains character sheets and background information for all Play
 
 ### The Crew
 
-*   [Ashley](./ashley.md) - Player character profile and background
-*   [Eric](./eric.md) - Player character profile and background  
-*   [Keith](./keith.md) - Primary protagonist, inheritor of the Stardust Drifter
-*   [Mike](./mike.md) - Player character profile and background
-*   [Quinn](./quinn.md) - Player character profile and background
+*   [Aria](./aria.md) - Played by Ashley.
+*   [Ash](./ash.md) - Played by Keith.
+*   [Mike](./mike.md) - Played by TBD
+*   [Mina](./mina.md) - Played by Quinn
+*   [Sydney](./sydney.md) - Played by Eric.
 
-### Campaign Notes
-
-Keith serves as the primary connection to the "Inheritance" adventure, being Dr. Aros's former student and the legal recipient of the Stardust Drifter. The other four characters are brought together through various connections and circumstances as they join Keith in pursuing this dangerous inheritance.

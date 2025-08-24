@@ -21,13 +21,13 @@
 *   **Theoretical Breakthroughs:** Has developed theories about "psycho-temporal resonance" and "consciousness matrices" that most scientists dismiss as brilliant madness.
 
 ## Current Status
-*   **Actions:** He legally transferred his lab ship, the [*Stardust Drifter*](../ships/stardust-drifter.md), to his former student, [Keith](../players/keith.md). He also sent [Keith](../players/keith.md) a cryptic, biolocked message warning him of danger and instructing him to find the information broker [Roric Vance](./roric-vance.md). 
+*   **Actions:** He legally transferred his lab ship, the [*Stardust Drifter*](../ships/stardust-drifter.md), to his former student, [Ash](../players/ash.md). He also sent [Ash](../players/ash.md) a cryptic, biolocked message warning him of danger and instructing him to find the information broker [Roric Vance](./roric-vance.md). 
 *   **Disappearance:** Vanished shortly after filing the transfer papers. His last known location was a research station near the Zhodani border, investigating rumors of functioning Ancient technology.
 *   **Legacy:** He has left booby traps, a dangerous "guest" (a native life form from [Djinni](../systems/djinni.md)), and a cryptic log aboard the [*Stardust Drifter*](../ships/stardust-drifter.md). The ship's computer contains fragments of his research, including references to "Project Prometheus" and warnings about "corporate consciousness parasites."
 
 ## Relationships
 *   **[Rob Tobor](./rob-tobor.md):** His loyal lab assistant and perhaps the only person who truly understands him. Rob has been with him for over a decade, serving as both research partner and caretaker.
-*   **[Keith](../players/keith.md):** Former student who showed promise but lacked the obsessive drive Dr. Aros deemed necessary for "true discovery."
+*   **[Ash](../players/ash.md):** Former student who showed promise but lacked the obsessive drive Dr. Aros deemed necessary for "true discovery."
 *   **Corporate Enemies:** Multiple megacorporations want his research, particularly Makhidkarun, who claim he stole proprietary Ancient artifacts from their dig sites.
 
 ## Quotes

@@ -1,4 +1,4 @@
-# Quinn
+# Mina
 
 * **Role:** Player Character
 

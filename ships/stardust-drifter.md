@@ -29,7 +29,7 @@ Systems
 ## Crew
 *   **Current Crew:** None (abandoned)
 *   **Original Owner:** [Dr. Aros](../characters/dr-aros.md)
-*   **Intended Recipient:** [Keith](../players/keith.md) (Player Character)
+*   **Intended Recipient:** [Ash](../players/ash.md) (Player Character)
 
 
 

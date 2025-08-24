@@ -13,27 +13,6 @@
 - **Script Language:** Use Bash or Ruby when writing scripts (prefer Ruby for complex logic, Bash for simple operations)
 - **Script Location:** Always place executable scripts in the `bin/` directory
 
-## 2.1 AGENT.md FILE HIERARCHY
-**CRITICAL:** Before modifying ANY files in ANY subfolder, you MUST check for and read AGENT.md files:
-
-### Lookup Procedure:
-1. **Start at target directory:** Check if an `AGENT.md` file exists in the directory where you plan to modify files
-2. **Search upward:** If no AGENT.md found, move up one directory level and check again
-3. **Continue until found:** Keep moving up the directory tree until an AGENT.md file is found
-4. **Read before modifying:** Once found, read the AGENT.md file completely before making any changes to files in that folder or its subfolders
-
-### Purpose:
-- Each folder may have special rules and conventions specific to that part of the project
-- AGENT.md files contain critical instructions about how to handle files in their scope
-- These files explain what parts of the project they control and any special formatting or content requirements
-- Following AGENT.md instructions ensures consistency and prevents errors
-
-### Example:
-- Before modifying `/workspace/adventure-001/scene-1.md`, check for:
-  1. `/workspace/adventure-001/AGENT.md` (if exists, read it)
-  2. If not found, check `/workspace/AGENT.md` (if exists, read it)
-  3. Apply any rules found in the AGENT.md file when making modifications
-
 ## 3. ADVENTURE CONTEXT ACQUISITION
 - **Trigger:** Upon initialization of a new session AND before working on any adventure-related tasks.
 - **MANDATORY READING ORDER:**

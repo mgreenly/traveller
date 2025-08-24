@@ -16,12 +16,12 @@ A travel broker senses the players' urgency and quotes them a price double the s
 ## Appendix B: Dramatis Personae
 
 ### Player Characters
-*   **[Keith](../players/keith.md)**
+*   **[Ash](../players/ash.md)**
 *   **[Ashley](../players/ashley.md)**
-*   **[Eric](../players/eric.md)**
+*   **[Sydney](../players/sydney.md)**
 *   **[Mike](../players/mike.md)**
 *   **[Pete](../players/pete.md)**
-*   **[Quinn](../players/quinn.md)**
+*   **[Mina](../players/mina.md)**
 
 ### Allies & Contacts
 *   **[Dr. Aros](../characters/dr-aros.md):** The mysterious, reclusive scientist who bequeaths the *Stardust Drifter*.
