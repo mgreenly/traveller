@@ -14,7 +14,7 @@ Welcome to **"The Long Haul"**, a high-stakes Traveller RPG campaign set in the 
 
 ### Core Materials
 - **[Adventures](./adventure-001/README.md)** - Complete adventure modules with scenes and encounters
-- **[Player Characters](./players/README.md)** - The heroes (or scoundrels) of our story
+- **[Traveller Characters](./travellers/README.md)** - The heroes (or scoundrels) of our story
 - **[NPCs & Characters](./characters/README.md)** - Allies, contacts, rivals, and villains
 
 ### Setting & Equipment  
@@ -78,7 +78,7 @@ main "MESSAGE"   # Squash merge wip into main with message
 - **factions/** - Political and corporate organizations
 - **lore/** - Reusable locations, brands, and historical events
 - **rules/** - Game mechanics quick references
-- **players/** - Player character records
+- **travellers/** - Traveller character records
 - **sessions/** - Campaign session narratives
 - **books/** - Reference materials (Mongoose Traveller 2022)
 

@@ -1,6 +1,6 @@
-# Mina
+# Mike
 
-* **Role:** Player Character
+* **Role:** Traveller Character
 
 Age: [TBD]
 

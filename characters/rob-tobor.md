@@ -24,7 +24,7 @@
 ## Current Status
 *   **Last Known Location:** Disappeared with Dr. Aros, but left behind subtle clues only the player characters might recognize - a pattern of purchased supplies that suggests they're heading toward the Zhodani border.
 *   **Hidden Messages:** Has been leaving encrypted messages in routine maintenance logs of the *Stardust Drifter*, readable only by someone who knows his old Navy service number.
-*   **The Contingency:** Unknown to Aros, Rob has been maintaining a "dead man's switch" - if he doesn't check in every 30 days, a data packet will be sent to [Ash](../players/ash.md) containing Aros's real research notes and a warning about "Project Prometheus."
+*   **The Contingency:** Unknown to Aros, Rob has been maintaining a "dead man's switch" - if he doesn't check in every 30 days, a data packet will be sent to [Ash](../travellers/ash.md) containing Aros's real research notes and a warning about "Project Prometheus."
 
 ## Quirks & Habits
 *   **Coffee Ritual:** Makes Dr. Aros's coffee exactly 3.7 minutes before the doctor realizes he wants it, having memorized his biorhythms over the years.

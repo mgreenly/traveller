@@ -15,13 +15,13 @@ A travel broker senses the players' urgency and quotes them a price double the s
 ---
 ## Appendix B: Dramatis Personae
 
-### Player Characters
-*   **[Ash](../players/ash.md)**
-*   **[Ashley](../players/ashley.md)**
-*   **[Sydney](../players/sydney.md)**
-*   **[Mike](../players/mike.md)**
-*   **[Pete](../players/pete.md)**
-*   **[Mina](../players/mina.md)**
+### Traveller Characters
+*   **[Ash](../travellers/ash.md)**
+*   **[Ashley](../travellers/ashley.md)**
+*   **[Sydney](../travellers/sydney.md)**
+*   **[Mike](../travellers/mike.md)**
+*   **[Pete](../travellers/pete.md)**
+*   **[Mina](../travellers/mina.md)**
 
 ### Allies & Contacts
 *   **[Dr. Aros](../characters/dr-aros.md):** The mysterious, reclusive scientist who bequeaths the *Stardust Drifter*.

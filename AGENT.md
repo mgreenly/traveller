@@ -47,7 +47,7 @@
 - `factions/`: Faction data sheets.
 - `rules/`: Rules references, tables, and gameplay aids.
 - `lore/`: In-universe locations, encounters, and establishments.
-- `players/`: Player character data sheets. There are 5 player characters in the campaign.
+- `travellers/`: Traveller character data sheets. There are 5 traveller characters in the campaign.
 - **MAINTENANCE:** After changing any of the above files, check if this file (`CLAUDE.md`) needs to be updated to reflect the changes.
 
 ## 5. KNOWLEDGE BASE
