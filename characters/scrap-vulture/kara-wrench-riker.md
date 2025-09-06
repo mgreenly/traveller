@@ -10,5 +10,11 @@
     *   **Intellect:** 7 (Above Average)
     *   **Education:** 6 (Average)
     *   **Social Standing:** 5 (Citizen)
-*   **Skills:** Leadership-2, Gun Combat (Pistol)-2, Melee (Blade)-1, Streetwise-2, Tactics (Corporate)-1, Persuade-1
-*   **Gear:** Auto-Pistol with 2 spare clips, Combat Knife, Flak Jacket (worn under a long coat), Comms Unit, Data Pad with encrypted client information.
+*   **Skills:** Leadership-2, Gun Combat (energy)-2, Gun Combat (slug)-2, Melee (blade)-1, Streetwise-2, Tactics-2, Persuade-1
+*   **Weapons:**
+    *   **Stunner Rifle** (primary): Damage 2D stun (ignores armor), Range 100m
+    *   **Autopistol** (backup): Damage 3D-3, Range 10m, Magazine 15
+    *   **Combat Knife**: Damage 1D+2, Range Melee
+    *   **Smoke Grenades x2**: Creates obscuring smoke
+*   **Armor:** Flak Jacket (Protection +3)
+*   **Other Gear:** Comms Unit, Data Pad with encrypted client information, Custom multitool with prominent Scrap Vulture logo engraving

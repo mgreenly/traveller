@@ -17,7 +17,7 @@ The bridge is dark, with only the faint emergency lights of the [*Void Gambit*](
 *   **The System:** The secondary bridge terminals are still functional but locked. A **Computers (TN 8)** check is required to gain basic access to ship systems (power, life support, etc.).
 *   **The Crime Scene:** A successful **Investigate (TN 8)** or **Mechanics (TN 8)** check of the damaged console reveals two things:
     1.  The cutting marks on the housing are crude and forceful, not the work of a skilled technician.
-    2.  Wedged into a crevice is a small, branded multitool, carelessly left behind. It bears the snarling dog emblem of the "Scrap Vultures."
+    2.  Wedged into a crevice is a small, branded multitool, carelessly left behind. It bears the Scrap Vulture logo emblem.
 *   **The Realization:** The players have the ship, but the most valuable part is gone. Worse, they see that the custom jump drive's navigation computer is physically slaved to the main data core housing. The severed cables make the truth brutally clear: **without the core, the ship cannot calculate a jump.** They are stranded.
 
 ### 3. Clue #1: The "Guest" in the Lab

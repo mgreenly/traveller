@@ -7,10 +7,10 @@
 #### Initial Contact (Jump Flash + 30 minutes)
 *Your comm system picks up a wide-beam transmission on all standard Imperial Navy frequencies, broadcasting on repeat:*
 
-> **Read-aloud:** "Unknown vessel, Contact Designation Two, this is INS Steadfast, Subsector Naval Command. You have entered restricted space under Imperial Quarantine Order Seven-Seven-Alpha. This system is under full naval interdiction by authority of the Imperial Navy. You are ordered to immediately reverse course and initiate jump preparations for system departure. Maintain current velocity and heading while charging jump drives. Do not—repeat—do not approach the mainworld gravity well or any system bodies. Acknowledge this transmission and state your vessel identification and purpose. Steadfast standing by."
+> **Read-aloud:** "Unknown vessel, Contact Designation Two, this is INS Steadfast, Subsector Naval Command. You have entered restricted space under Imperial Quarantine Order Seven-Seven-Alpha. This system is under full naval interdiction by authority of the Imperial Navy. You are ordered to immediately halt your approach and initiate jump preparations for system departure. Maintain your current position while charging jump drives—do not advance further into the system. Do not—repeat—do not approach the mainworld gravity well or any system bodies. Acknowledge this transmission and state your vessel identification and purpose. Steadfast standing by."
 
 #### Second Warning (Jump Flash + 2 hours)
-*All comm channels are overridden by a priority military broadcast, the signal strength suggesting significant power behind the transmission:*
+*All comm channels are overridden by a priority military broadcast, the signal strength reading 95 dBm suggesting significant power behind the transmission:*
 
 > **Read-aloud:** "Contact Two, this is Captain Thorne, INS Steadfast. You have failed to acknowledge Imperial Navy directives. Be advised: any approach toward the inner system or planetary bodies will be interpreted as hostile action under Quarantine Protocol. Naval assets are actively scanning for your position. We are authorized to use deadly force to maintain quarantine integrity. You have ten minutes to transmit your acknowledgment and begin visible preparations for jump departure. Any vessel violating the 50-diameter limit of system bodies will be fired upon without further warning. The blood of your crew will be on your hands, Captain. Do not test the resolve of His Majesty's Imperial Navy. Steadfast out."
 

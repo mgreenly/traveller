@@ -1,7 +1,7 @@
 # Scrap Vulture (Modified Freighter)
 
 ## Description
-The *Scrap Vulture* is a monstrosity of a ship, a heavily modified freighter that has been turned into a tool for aggressive "asset recovery." Its hull is a patchwork of additional armor plating, and oversized weapon mounts give it a brutish, intimidating silhouette. A crudely painted emblem of a snarling dog adorns its hull. The ship is also equipped with modified stealth capabilities, allowing it to run silently and reduce its sensor signature, making it perfect for ambushes and operating in legally ambiguous zones.
+The *Scrap Vulture* is a monstrosity of a ship, a heavily modified freighter that has been turned into a tool for aggressive "asset recovery." Its hull is a patchwork of additional armor plating, and oversized weapon mounts give it a brutish, intimidating silhouette. A crudely painted Scrap Vulture logo adorns its hull - the image depicts a vulture with outstretched wings clutching various tools (wrench, cutting torch, pry bar) in its talons, symbolizing their "salvage" operations. The ship is also equipped with modified stealth capabilities, allowing it to run silently and reduce its sensor signature, making it perfect for ambushes and operating in legally ambiguous zones.
 
 ## Ship Stats (Based on a Modified Type A Free Trader)
 *   **Hull:** 200 tons (with 10 tons of additional armor)

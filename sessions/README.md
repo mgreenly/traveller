@@ -42,6 +42,7 @@ Each fictionalized session:
 - Expands brief gameplay notes into fully realized scenes with dialogue and description
 - **Scene Transitions:** Includes smooth narrative bridges between scenes that maintain flow
 - **Dramatic Reordering:** Events may be rearranged from the source notes for better pacing
+- **CRITICAL - Knowledge Restriction:** The reading audience should NEVER know anything the crew doesn't know. The story is told from their fictionalized perspective. If the crew doesn't know why something happened, who someone is, or what motivations drive other characters, neither should the readers. Mystery and uncertainty are preserved as the crew experienced them
 
 ### Creative License
 The fictionalization process embraces:

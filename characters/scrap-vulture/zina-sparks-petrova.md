@@ -10,5 +10,9 @@
     *   **Intellect:** 8 (Above Average)
     *   **Education:** 9 (Masters)
     *   **Social Standing:** 3 (Citizen)
-*   **Skills:** Engineer (all)-2, Mechanics-1, Medic-2, Gun Combat (Pistol)-1
-*   **Gear:** Pistol, Advanced Medkit, Multi-tool, Protective Goggles, Comms Unit.
+*   **Skills:** Engineer (all)-2, Mechanics-1, Medic-2, Gun Combat (energy)-1, Recon-1
+*   **Weapons:**
+    *   **Stunner Rifle with scope** (primary): Damage 2D stun (ignores armor), Range 100m
+    *   **Autopistol** (backup): Damage 3D-3, Range 10m, Magazine 15
+*   **Armor:** None (stays at range)
+*   **Other Gear:** Advanced Medikit (TL10, DM+1 to Medic checks), Multi-tool, Protective Goggles, Comms Unit, Toolkit bag with small Scrap Vulture logo patch

@@ -10,5 +10,9 @@
     *   **Intellect:** 9 (Above Average)
     *   **Education:** 5 (Average)
     *   **Social Standing:** 4 (Citizen)
-*   **Skills:** Pilot (Small Craft)-2, Gunner (Turret)-1, Computers-2, Deception-1, Sensors-1
-*   **Gear:** Pistol, Flight Suit, Comms Unit, Custom Data Pad for slicing into secure networks.
+*   **Skills:** Pilot (Small Craft)-2, Gunner (Turret)-1, Gun Combat (slug)-1, Computers-2, Deception-2, Stealth-2, Sensors-1
+*   **Weapons:**
+    *   **Stunner Pistol** (concealed, primary): Damage 2D stun (ignores armor), Range 10m
+    *   **Body Pistol** (backup): Damage 2D, Range 5m, Magazine 6
+*   **Armor:** None (relies on speed and stealth)
+*   **Other Gear:** Flight Suit, Comms Unit, Custom Data Pad for slicing into secure networks, Scrap Vulture logo tattoo partially visible on neck
