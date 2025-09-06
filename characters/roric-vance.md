@@ -4,6 +4,7 @@
 *   **Full Name:** Roric Alastair Vance
 *   **Age:** 61 standard years
 *   **Description:** A walking cautionary tale about flying too close to the corporate suns. His face is a topographical map of hard living—deep lines carved by stress, eyes perpetually bloodshot from cheap alcohol and cheaper stims. The tremor in his hands isn't just from the drinking; it's neurological damage from a corporate "warning" that included experimental interrogation drugs. His synth-leather jacket, a burgundy number with silver clasps, was haute couture twenty years ago. Now it's held together by duraplast patches and stubborn pride.
+*   **Trait:** Taps his fingers against surfaces in complex patterns - actually encrypted messages in old Imperial Navy code that only trained intelligence officers would recognize.
 
 ## Background
 *   **The Golden Years:** Once operated from a suite in Regina Highport, brokering information between megacorps, nobility, and government agencies. Had a network of 200+ assets across the subsector.

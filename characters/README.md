@@ -2,6 +2,17 @@
 
 This directory contains detailed profiles for all Non-Player Characters (NPCs) in the Traveller RPG campaign. Characters are organized by their ship affiliations and roles in the ongoing adventures.
 
+## Character Format Requirements
+
+Every character profile MUST include a **unique identifying trait** that helps distinguish them without using their name. This should be ONE distinctive characteristic that no other character shares, such as:
+- A signature phrase or verbal tic they frequently use
+- A unique style of dress or accessory
+- A physical mannerism or nervous habit
+- A distinctive voice quality or accent
+- A memorable behavioral quirk
+
+This trait should be listed in the character profile under a **"Trait:"** field and referenced consistently when the character appears in scenes.
+
 ## Table of Contents
 
 ### Key Campaign NPCs

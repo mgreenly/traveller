@@ -2,6 +2,7 @@
 
 *   **Role:** Ally, Astrogator of the [*Stray Comet*](../ships/stray-comet.md)
 *   **Description:** A quiet, meticulous young man who seems utterly out of place on a chaotic world like Rech. He is the nephew of the information broker [Roric Vance](../roric-vance.md) and possesses a genius-level intellect for mathematics and astrogation. He plots the most efficient and often the most daring jump routes, which is the only reason a hotshot like Rico keeps him around. He rarely speaks, preferring to communicate through his calculations and data-slate.
+*   **Trait:** Traces jump route calculations in the air with his finger while muttering numbers - actually drawing invisible equations that only he can see in his mind's eye.
 *   **UPP (57CB95):**
     *   **Strength:** 5 (-1) (Below Average)
     *   **Dexterity:** 7 (+0) (Average)

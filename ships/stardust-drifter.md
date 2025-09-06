@@ -31,6 +31,25 @@ Systems
 *   **Original Owner:** [Dr. Aros](../characters/dr-aros.md)
 *   **Intended Recipient:** [Ash](../travellers/ash.md) (Traveller Character)
 
+## Ship's Logs (Fragments)
+
+### Medical Bay Log - 7 Years Ago
+*   **Entry 1142.3:** "Emergency cryo pod activated. Subject: A. Aros. Neural trauma extensive. Initiating experimental preservation protocol Alpha-7."
+*   **Entry 1143.1:** "Subject vitals degrading despite cryo stabilization. Beginning consciousness pattern recording using Ancient sensor interface."
+*   **Entry 1145.7:** "Subject deceased. Body preserved in experimental cryo unit. Dr. Aros has locked himself in Lab 2. Rob attempting intervention."
+
+### Laboratory Log - 5 Years Ago
+*   **Entry 2001.1:** "Clone designation Alpha-1 prepared. Genetic template source: Cryo Pod 7. Beginning consciousness transfer attempt using Djinni sensor data."
+*   **Entry 2003.4:** "Alpha-1 rejection cascade initiated at hour 36. Subject experiencing severe psychological fragmentation. Terminating experiment."
+*   **Entry 2156.8:** "Clone Alpha-6 showing promise. Recognition patterns stable. Subject spoke today - asked for 'father.' Dr. Aros inconsolable."
+
+### Security Log - 2 Years Ago
+*   **Entry 3411.2:** "Unauthorized access detected in Medical Bay. Cryo Pod 7 has been moved. Internal sensors offline for 47 minutes. Dr. Aros claims this was planned maintenance."
+*   **Entry 3411.9:** "Cargo manifest updated. One specialized medical containment unit transferred to undisclosed facility. Authorization: Dr. P. Aros."
+
+### Final Entry - 3 Months Ago
+*   **System Alert:** "Critical data purge initiated. Selected logs archived to hidden partition. Message for Ash: 'She's not gone. The Altaira Protocols work. They're coming for what I've created. The body is safe. Clone Seven... is more than we hoped. Trust no one from Makhidkarun. The Zhodani connection must remain secret. -Aros'"
+
 
 
 ## Compartments

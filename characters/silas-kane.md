@@ -4,6 +4,7 @@
 *   **Full Name:** Silas Matthias Kane
 *   **Age:** 57 standard years
 *   **Description:** A massive man who moves with the controlled grace of a predator at rest. His tailored suits cost more than most people's annual salary, stretched perfectly across shoulders that could crush bone. His head is shaved to mirror perfection, and his dark eyes possess an unsettling stillness—like a shark's before it strikes. He speaks in measured, cultured tones, never raising his voice, never making explicit threats. The menace is in what he doesn't say, in the pauses between words where violence lives.
+*   **Trait:** Polishes an antique pocket chronometer while speaking - never looks at it, just methodically rubs it with a silk cloth in hypnotic circular motions.
 
 ## Background
 *   **Origin:** Former Makhidkarun corporate "resolver"—their euphemism for someone who made problems disappear, whether through negotiation, blackmail, or more permanent solutions.

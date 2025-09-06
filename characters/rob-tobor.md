@@ -4,6 +4,7 @@
 *   **Full Name:** Robert "Rob" Tobor
 *   **Age:** 43 standard years
 *   **Description:** The perfect counterbalance to Dr. Aros's chaotic genius - methodical where Aros is abstract, practical where Aros is theoretical, and surprisingly empathetic where Aros is distant. Rob serves as translator between Aros's exponential intellect and the mundane world, often finishing the doctor's sentences or explaining his theories in comprehensible terms.
+*   **Trait:** His cybernetic left hand drums a precise 4/4 beat when thinking - the rhythm speeds up proportionally to the complexity of the problem he's solving.
 
 ## Background
 *   **Origin:** Former Imperial Navy engineer who suffered a catastrophic decompression accident that left him with extensive cybernetic replacements - nearly 40% of his body is now synthetic, including his left arm, both legs below the knee, and several internal organs.

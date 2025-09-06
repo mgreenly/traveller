@@ -2,6 +2,7 @@
 
 *   **Role:** Ally, Engineer of the [*Stray Comet*](../ships/stray-comet.md)
 *   **Description:** A highly skilled but perpetually stressed engineer in her late 20s. She is the estranged younger sister of [Zina "Sparks" Petrova](../scrap-vulture/zina-sparks-petrova.md) and is constantly trying to escape the shadow of her family's criminal reputation. She keeps the *Stray Comet's* overclocked systems from exploding through sheer talent and constant work, but her nerves are frayed from the constant risk. She is the cautious voice of reason in the crew.
+*   **Trait:** Chews on the end of her stylus when stressed - has gone through dozens, leaving teeth marks on every tool she owns.
 *   **UPP (68A984):**
     *   **Strength:** 6 (Average)
     *   **Dexterity:** 8 (Above Average)

@@ -2,6 +2,7 @@
 
 *   **Role:** Obstacle, Captain of the [INS *Steadfast*](../../ships/ins-steadfast.md)
 *   **Description:** A veteran officer in his late 50s, with sharp grey eyes and a meticulously maintained uniform. Thorne is a consummate professional who has built a career on quiet competence and strict adherence to Imperial regulations. He finds the [Djinni](../../systems/djinni.md) quarantine duty to be a mind-numbingly dull assignment but runs his ship with unwavering discipline, believing that readiness is the key to survival in the fringe. He is not cruel, but he is inflexible, and he will not tolerate any breach of his assigned patrol.
+*   **Trait:** Clicks his heels together precisely three times before issuing any order - a ritual from his academy days that he's never broken.
 *   **UPP (9A8A87):**
     *   **Strength:** 9 (Above Average)
     *   **Dexterity:** A (10 - Notable)

@@ -3,6 +3,7 @@
 *   **Role:** Antagonist, Leader of the "Scrap Vultures"
 *   **Affiliation:** Captain of the [*Scrap Vulture*](../../ships/scrap-vulture.md)
 *   **Description:** A woman in her late 30s with sharp, calculating eyes, a cybernetic left arm, and a demeanor that radiates cold confidence. A former corporate security enforcer, she leads through a mixture of fear, respect, and a flawless track record of getting the job done, no matter the cost.
+*   **Trait:** Her cybernetic arm's servos whir and click in a distinctive pattern when she's about to make a decision - crew members have learned to listen for it.
 *   **UPP (8A9765):**
     *   **Strength:** 8 (Above Average)
     *   **Dexterity:** A (10 - Notable)

@@ -2,6 +2,7 @@
 
 *   **Role:** Ally, Captain of [*The Void Gambit*](../../ships/the-void-gambit.md)
 *   **Description:** A sharp-witted and pragmatic ex-scout in her early 40s. Her dark hair is cut short for practicality, and her face has laugh lines around a steady, grey-eyed gaze that misses nothing. She wears a worn but well-maintained flight jacket over a simple shipsuit, with a snub pistol holstered discreetly at her side. Discharged for "insubordination" (which she translates as "refusing a suicide mission"), she now makes a living taking on the jobs no one else will touch, but she's not reckless. She values her ship and her crew above all else and will only take a risk if the reward is worth it and the plan is solid.
+*   **Trait:** Always checks her watch exactly three times before making any decision - a habit from scout service timed decision protocols that she can't shake.
 *   **UPP (8A9A78):**
     *   **Strength:** 8 (+0) (Above Average)
     *   **Dexterity:** A/10 (+1) (Notable)

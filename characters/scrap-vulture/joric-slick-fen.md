@@ -3,6 +3,7 @@
 *   **Role:** Antagonist, Pilot/Slicer of the "Scrap Vultures"
 *   **Affiliation:** Crew of the [*Scrap Vulture*](../../ships/scrap-vulture.md)
 *   **Description:** A wiry, fast-talking man in his late 20s with a cocky grin and fingers that are constantly drumming on any available surface. He believes he's the best pilot in the subsector and has the skills to back it up, making him arrogant and prone to taking unnecessary risks for a bigger thrill or payout.
+*   **Trait:** Snaps his fingers twice in rapid succession before delivering what he thinks is a clever line - "snap-snap" has become his annoying signature.
 *   **UPP (7B8954):**
     *   **Strength:** 7 (Above Average)
     *   **Dexterity:** B (11 - Notable)

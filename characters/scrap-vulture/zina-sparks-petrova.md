@@ -3,6 +3,7 @@
 *   **Role:** Antagonist, Engineer/Medic of the "Scrap Vultures"
 *   **Affiliation:** Crew of the [*Scrap Vulture*](../../ships/scrap-vulture.md)
 *   **Description:** A focused, grim-faced woman with grease-stained hands and a tool kit that's never more than an arm's length away. She views people with the same detached, analytical gaze she uses on a faulty power conduit, making her an efficient, if unnerving, medic.
+*   **Trait:** Constantly cleans her fingernails with a small precision screwdriver, even when they're already spotless - a compulsive habit she can't break.
 *   **UPP (68A893):**
     *   **Strength:** 6 (Average)
     *   **Dexterity:** 8 (Above Average)

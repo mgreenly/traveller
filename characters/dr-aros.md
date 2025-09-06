@@ -9,21 +9,26 @@
 *   **Education:** Triple doctorate in Xenoarchaeology, Theoretical Physics, and Psionics Research (the latter conducted in secret)
 *   **Personality:** Extremely intelligent but emotionally distant. Prone to obsessive focus that blinds him to practical dangers. Exhibits signs of guilt-driven paranoia since losing his daughter.
 *   **Appearance:** Tall and gaunt with piercing grey eyes that seem to look through people rather than at them. His hair has gone prematurely white from stress and exposure to exotic energies. Often wears a worn lab coat over civilian clothes, regardless of the setting.
+*   **Trait:** Constantly adjusts invisible glasses on his nose - a nervous tic from decades of wearing AR research goggles that he no longer needs.
 
 ## The Altaira Incident
-*   **Tragedy:** His daughter Altaira, a promising xenobiologist, died during an expedition to explore an Ancients site in the [Djinni](../systems/djinni.md) system seven years ago. Dr. Aros had dismissed her concerns about unusual energy readings as "statistically insignificant anomalies."
+*   **Tragedy:** His daughter [Altaira](./altaira.md), a promising xenobiologist, was fatally injured during an expedition to explore an Ancients site in the [Djinni](../systems/djinni.md) system seven years ago. Dr. Aros had dismissed her concerns about unusual energy readings as "statistically insignificant anomalies."
+*   **Discovery:** Before her death, Altaira discovered and named the [Photovoric Capacitors](../lore/photovoric-capacitors.md) - crystalline organisms that would ultimately cause her demise when Ancient defense systems used them as neural disruption amplifiers.
+*   **The Truth:** She survived the initial defense system activation but died three days later aboard the *Stardust Drifter* from severe neural trauma caused by "neural crystallization" from the Photovoric Capacitors. Dr. Aros preserved her body in an experimental medical cryo pod.
 *   **Guilt:** He discovered later that the readings indicated a dormant defense system that he could have identified had he not been so focused on his own research. This failure haunts him and drives his current paranoid precautions.
-*   **Memorial:** He named several of his research projects after her, including the "Altaira Protocols" - safety measures he now obsessively implements.
+*   **The Experiments:** Created at least seven clones of Altaira, attempting to transfer her consciousness using data recovered from Ancient sensors at the Djinni site. Each attempt ended in failure, with clones suffering psychological collapse.
+*   **Memorial:** He named several of his research projects after her, including the "Altaira Protocols" - not just safety measures, but his desperate attempts to achieve human immortality through consciousness preservation.
 
 ## Research & Discoveries
 *   **Ancient Influence:** His work has been profoundly influenced by recovered Ancient technology, particularly their understanding of consciousness transference and dimensional mechanics. Some colleagues suspect his mind has been altered by prolonged exposure to Ancient artifacts.
-*   **The Djinni Research:** His experiments in the [Djinni](../systems/djinni.md) system involved attempting to reactivate an Ancient installation. The results were so catastrophic that the Imperium declared the entire system a Red Zone.
+*   **The Djinni Research:** His experiments in the [Djinni](../systems/djinni.md) system involved attempting to reactivate an Ancient installation. The results were so catastrophic that the Imperium declared the entire system a Red Zone. His last trip there was to recover Ancient sensor data containing residual consciousness patterns from the site where Altaira was injured.
 *   **Theoretical Breakthroughs:** Has developed theories about "psycho-temporal resonance" and "consciousness matrices" that most scientists dismiss as brilliant madness.
+*   **The Immortality Key:** The Altaira Protocols contain the secret to true consciousness preservation - making human minds effectively immortal through hybrid Ancient-human consciousness matrices.
 
 ## Current Status
 *   **Actions:** He legally transferred his lab ship, the [*Stardust Drifter*](../ships/stardust-drifter.md), to his former student, [Ash](../travellers/ash.md). He also sent [Ash](../travellers/ash.md) a cryptic, biolocked message warning him of danger and instructing him to find the information broker [Roric Vance](./roric-vance.md). 
 *   **Disappearance:** Vanished shortly after filing the transfer papers. His last known location was a research station near the Zhodani border, investigating rumors of functioning Ancient technology.
-*   **Legacy:** He has left booby traps, a dangerous "guest" (a native life form from [Djinni](../systems/djinni.md)), and a cryptic log aboard the [*Stardust Drifter*](../ships/stardust-drifter.md). The ship's computer contains fragments of his research, including references to "Project Prometheus" and warnings about "corporate consciousness parasites."
+*   **Legacy:** He has left booby traps, a dangerous "guest" (a [Photovoric Capacitor](../lore/photovoric-capacitors.md) from [Djinni](../systems/djinni.md)), and a cryptic log aboard the [*Stardust Drifter*](../ships/stardust-drifter.md). The ship's computer contains fragments of his research, including references to "Project Prometheus" and warnings about "corporate consciousness parasites."
 
 ## Relationships
 *   **[Rob Tobor](./rob-tobor.md):** His loyal lab assistant and perhaps the only person who truly understands him. Rob has been with him for over a decade, serving as both research partner and caretaker.

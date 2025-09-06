@@ -2,6 +2,7 @@
 
 *   **Role:** Alternative Ally, Pilot
 *   **Description:** A cocky, ambitious pilot in his mid-20s with a charming grin and a reckless streak a parsec wide. He has modified his small courier ship, the *Stray Comet*, for pure speed, often at the expense of safety and reliability. He's always looking for the next big score that will make him a legend in the subsector. He's cheaper and faster than established captains, but hiring him is a significant gamble.
+*   **Trait:** Constantly flips and catches a worn casino chip while talking - claims it's from his "biggest win ever" though the story changes each time.
 *   **UPP (7C8963):**
     *   **Strength:** 7 (+0) (Average)
     *   **Dexterity:** C/12 (+2) (Impressive)
