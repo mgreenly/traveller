@@ -8,7 +8,7 @@ Without the data core, the players face severe consequences:
 
 *   **Ship is Immobile:** The *Stardust Drifter* cannot calculate jumps without its custom core. Towing to the nearest starport costs Cr500,000-1,000,000.
 *   **Debt Escalates:** Kane's "partial salvage recovery" clause activates immediately, increasing interest to **50% monthly** compounding.
-*   **Makhidkarun Wins:** They recover their research through the Rust Dogs and will view the players as loose ends to be eliminated.
+*   **Makhidkarun Wins:** They recover their research through the Scrap Vultures and will view the players as loose ends to be eliminated.
 *   **No Leverage:** Without the Kane Contingency file, players have no defense against the crushing debt.
 *   **Reduced Ship Value:** The ship is worth only 20% of its full value without its advanced lab systems and proprietary data.
 *   **Navy Complications:** Without jump capability, evading the [INS *Steadfast*](../ships/ins-steadfast.md) becomes nearly impossible, likely resulting in arrest.

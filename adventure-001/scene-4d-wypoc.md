@@ -25,7 +25,7 @@ This is the last stop before entering the lawless Rech system. Players should be
 - No insurance or legal recourse if something goes wrong
 - Imperial law ends here
 
-### Second Rust Dogs Sighting
+### Second Scrap Vultures Sighting
 
 The *Scrap Vulture* departing confirms they're maintaining their lead. They're heading to Rech, likely to pick up their own specialized pilot for the Djinni run.
 

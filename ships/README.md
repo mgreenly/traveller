@@ -18,7 +18,7 @@ This directory contains detailed specifications and descriptions for all starshi
 ### Opposition Forces
 
 #### Rival Salvagers
-*   [Scrap Vulture](./scrap-vulture.md) - The Rust Dogs' heavily armed and modified salvage freighter
+*   [Scrap Vulture](./scrap-vulture.md) - The Scrap Vultures' heavily armed and modified salvage freighter
 
 #### Imperial Navy
 *   [INS Steadfast](./ins-steadfast.md) - Vigilant-class corvette enforcing the Djinni quarantine

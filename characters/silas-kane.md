@@ -38,7 +38,7 @@
 *   **The Insurance Policy:** Has a dead-man switch on his data vault. If he dies unnaturally, every secret gets broadcast across the subsector's networks.
 
 ## Relationships
-*   **The Rust Dogs:** Keeps Kara Riker's crew on retainer for "special collections." They don't know he's playing multiple angles with their Djinni mission.
+*   **The Scrap Vultures:** Keeps Kara Riker's crew on retainer for "special collections." They don't know he's playing multiple angles with their Djinni mission.
 *   **Marcus Thorne (Rival):** Another financier who operates in the adjacent subsector. They maintain a cold war, respecting each other's territory while constantly probing for weaknesses.
 *   **Inspector Claudia Voss:** A port authority inspector on his payroll who ensures his shipments never get thoroughly examined.
 *   **"The Accountant":** His mysterious financial advisor, never seen in person, who some believe is an AI or uploaded consciousness.

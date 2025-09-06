@@ -5,7 +5,7 @@ In a starport bar, two drunk locals try to pick a fight, hoping to intimidate th
 *   **Skills:** Melee (Brawl), Persuade/Intimidate, Streetwise.
 
 ### 2. Mistaken Identity
-Uniformed patrol officers, on the lookout for the Rust Dogs, stop the players, believing they might be the criminals they're searching for.
+Uniformed patrol officers, on the lookout for the Scrap Vultures, stop the players, believing they might be the criminals they're searching for.
 *   **Skills:** Deception, Persuade, Advocate.
 
 ### 3. The Greedy Broker
@@ -36,7 +36,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
     *   **[Corbin "Maps" Vance](../characters/corbin-vance.md):** A quiet, studious navigator.
     *   **[Lena Petrova](../characters/lena-petrova.md):** A gifted mechanic.
 
-### Rivals: The "Rust Dogs"
+### Rivals: The "Scrap Vultures"
 *   **[Kara "Wrench" Riker](../characters/scrap-vulture/kara-wrench-riker.md):** The ruthless and calculating leader.
 *   **[Joric "Slick" Fen](../characters/scrap-vulture/joric-slick-fen.md):** A cocky and skilled pilot/slicer.
 *   **[Grak](../characters/scrap-vulture/grak.md):** The heavily augmented muscle.
@@ -61,7 +61,7 @@ The adventure involves three key power groups whose hidden relationships drive t
   - Possibly leaked information about the inheritance to interested parties
 - **Relationship to Others:** Neutral facilitators who inadvertently set events in motion
 
-#### 2. The Rust Dogs (The Pawns)
+#### 2. The Scrap Vultures (The Pawns)
 - **Role:** Rival salvage crew operating the *Scrap Vulture*
 - **Members:** Kara "Wrench" Riker (leader), Joric "Slick" Fen (pilot/slicer), Grak (muscle), Zina "Sparks" Petrova (medic)
 - **Motivation:** Profit from salvage operation, unaware of their employer's true identity
@@ -82,11 +82,11 @@ The adventure involves three key power groups whose hidden relationships drive t
 - **Actions:**
   - Previously funded Dr. Aros's research
   - Installed tracking devices on the *Stardust Drifter*
-  - Hired Rust Dogs through untraceable shell company
+  - Hired Scrap Vultures through untraceable shell company
   - Owns Silas Kane as an asset for financial operations
 - **Relationship to Others:**
   - Former patron of Dr. Aros (now trying to reclaim assets)
-  - Secret employer of the Rust Dogs
+  - Secret employer of the Scrap Vultures
   - Suspected ties to the Zhodani Consulate
 
 ### The Hidden Web
@@ -94,7 +94,7 @@ The adventure involves three key power groups whose hidden relationships drive t
 Beyond the primary triangle, other factions observe from the shadows:
 
 #### Section 86 (Imperial Intelligence)
-- Monitoring the situation through hacked Rust Dogs systems
+- Monitoring the situation through hacked Scrap Vultures systems
 - Aware of Makhidkarun's involvement
 - Watching to see what the players uncover
 
@@ -108,12 +108,12 @@ Beyond the primary triangle, other factions observe from the shadows:
 1. **Information Flow:** 
    - Lawyers → Players (legitimate transfer)
    - Lawyers → Unknown parties (leaked information)
-   - Makhidkarun → Rust Dogs (mission parameters via shell company)
+   - Makhidkarun → Scrap Vultures (mission parameters via shell company)
    - Section 86 → Monitoring all parties
 
 2. **Power Dynamics:**
    - Makhidkarun manipulates from the shadows
-   - Rust Dogs believe they're independent operators
+   - Scrap Vultures believe they're independent operators
    - Players are caught between multiple conspiracies
    - Lawyers just want to avoid liability
 
@@ -129,12 +129,12 @@ Beyond the primary triangle, other factions observe from the shadows:
 *   [***Stardust Drifter***](../ships/stardust-drifter.md): The prize. A modified lab ship, abandoned in the [Djinni](../systems/djinni.md) system.
 *   [***The Void Gambit***](../ships/the-void-gambit.md): The players' ride. A fast, modified free trader captained by Kaelen.
 *   [***Stray Comet***](../ships/stray-comet.md): A faster, riskier option piloted by Rico "Hotshot" Vega.
-*   [***Scrap Vulture***](../ships/scrap-vulture.md): The rivals' ship. A brutish, modified freighter used by the Rust Dogs.
+*   [***Scrap Vulture***](../ships/scrap-vulture.md): The rivals' ship. A brutish, modified freighter used by the Scrap Vultures.
 *   [***INS Steadfast***](../ships/ins-steadfast.md): The law. An Imperial Navy corvette patrolling the [Djinni](../systems/djinni.md) system.
 ---
 ## Appendix E: The Aris Data Core
 
-Once the players have recovered the main data core from the Rust Dogs and installed it in the *Stardust Drifter*, they gain access to more than just the ship's operating systems. Buried in the terabytes of mundane data are several of Dr. Aros's personal research files and logs, offering new adventure hooks.
+Once the players have recovered the main data core from the Scrap Vultures and installed it in the *Stardust Drifter*, they gain access to more than just the ship's operating systems. Buried in the terabytes of mundane data are several of Dr. Aros's personal research files and logs, offering new adventure hooks.
 
 ### The Kane Contingency File
 

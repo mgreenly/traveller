@@ -48,7 +48,7 @@ This timeline provides a realistic estimate of how many days pass from the start
 - **Note:** First sighting of [*Scrap Vulture*](../ships/scrap-vulture.md) during layover
 
 ### Days 38-39: Dinomn Layover
-- **Day 38:** Arrive at Scout base, spot Rust Dogs' ship
+- **Day 38:** Arrive at Scout base, spot Scrap Vultures' ship
 - **Day 39:** Hasty departure arrangements to [Wypoc](../systems/wypoc.md)
 
 ### Days 40-46: Jump to Wypoc
@@ -64,7 +64,7 @@ This timeline provides a realistic estimate of how many days pass from the start
 ### Days 56-58: Rech - Hiring and Conflict
 - **Day 56:** Arrive at lawless Rech, begin search for pilots
 - **Day 57:** Negotiations with chosen pilot ([Kaelen](../characters/the-void-gambit/captain-kaelen.md) or [Rico](../characters/rico-hotshot-vega.md))
-- **Day 58:** Rust Dogs ambush, final preparations
+- **Day 58:** Scrap Vultures ambush, final preparations
 
 ### Days 59-65: Jump to Djinni
 - **Jump space:** 7 days
@@ -74,8 +74,8 @@ This timeline provides a realistic estimate of how many days pass from the start
   - Silent running to avoid Navy patrol
   - Locate and board [*Stardust Drifter*](../ships/stardust-drifter.md)
   - Discover missing data core
-  - Rust Dogs arrive and reveal themselves
-- **Day 67:** Confrontation with Rust Dogs
+  - Scrap Vultures arrive and reveal themselves
+- **Day 67:** Confrontation with Scrap Vultures
   - Combat/negotiation for data core
   - Escape from Djinni system before Navy intercept
 
@@ -95,7 +95,7 @@ This timeline provides a realistic estimate of how many days pass from the start
    - 90-day first payment (Tier 2 terms) - 45 days breathing room
    - 120-day first payment (Tier 3 terms) - 75 days breathing room
 
-2. **Rust Dogs:** Always 1-2 days ahead until Rech ambush
+2. **Scrap Vultures:** Always 1-2 days ahead until Rech ambush
 
 3. **Navy Patrol:** Immediate threat once in Djinni system
 
@@ -103,5 +103,5 @@ This timeline provides a realistic estimate of how many days pass from the start
 - Travel times assume finding passage within 1-2 days at each port
 - Poor negotiations or complications could add 3-5 days per stop
 - Weather, customs, or mechanical issues could cause additional delays
-- The Rust Dogs' head start emphasizes urgency throughout the journey
+- The Scrap Vultures' head start emphasizes urgency throughout the journey
 - Players with Tier 1 loan terms will be under extreme pressure to monetize the ship immediately upon return

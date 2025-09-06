@@ -59,8 +59,8 @@ The main negotiation determines the loan terms. Kane will provide the 3 million 
 
 Regardless of the outcome, Kane produces an ornate datapad with the contract. As the players sign, he adds one final comment:
 
-> "Oh, one more thing. I've heard rumors about some... competing interests in your salvage operation. The Rust Dogs, I believe they're called? Such a shame when salvage crews fight over claims. So many accidents can happen in deep space. Still, I'm sure professionals like yourselves can handle a little competition."
+> "Oh, one more thing. I've heard rumors about some... competing interests in your salvage operation. The Scrap Vultures, I believe they're called? Such a shame when salvage crews fight over claims. So many accidents can happen in deep space. Still, I'm sure professionals like yourselves can handle a little competition."
 
-The way he says it makes it clear he's the one who leaked information to the Rust Dogs, ensuring the players will be desperate enough to accept his terms.
+The way he says it makes it clear he's the one who leaked information to the Scrap Vultures, ensuring the players will be desperate enough to accept his terms.
 
 **Important:** If any player succeeds on a **Difficult (10+) Investigate or Admin** check while reviewing the contract, they notice a subtle clause that gives Kane the right to "renegotiate terms in the event of partial salvage recovery." This hints that recovering the data core is even more critical than they thought.

@@ -17,12 +17,12 @@ A Traveller RPG adventure where six player characters inherit a valuable lab shi
 *   [Scene 4: The Journey to the Fringe](./scene-4-journey-to-fringe.md) - Travel system with passage availability tables
     - [Scene 4a: Jenghe](./scene-4a-jenghe.md) - First stop, colonial holding
     - [Scene 4b: Dinom](./scene-4b-dinom.md) - Mining outpost layover
-    - [Scene 4c: Dinomn](./scene-4c-dinomn.md) - Scout base, first Rust Dogs sighting
+    - [Scene 4c: Dinomn](./scene-4c-dinomn.md) - Scout base, first Scrap Vultures sighting
     - [Scene 4d: Wypoc](./scene-4d-wypoc.md) - Frontier world, final jump to Rech
 *   [Scene 5: Anarchy and Opportunity](./scene-5-anarchy-and-opportunity.md) - Pilot recruitment on lawless Rech
 *   [Scene 6: The Djinni Run](./scene-6-djinni-run.md) - Dangerous entry into the Red Zone
 *   [Scene 7: The Ghost Ship](./scene-7-ghost-ship.md) - Boarding the derelict Stardust Drifter
-*   [Scene 8: Climax in the Belt](./scene-8-climax-in-belt.md) - Final confrontation with the Rust Dogs
+*   [Scene 8: Climax in the Belt](./scene-8-climax-in-belt.md) - Final confrontation with the Scrap Vultures
 
 ### Resolution & Resources
 *   [Resolution](./resolution.md) - Adventure conclusion and aftermath
@@ -39,7 +39,7 @@ A Traveller RPG adventure where six player characters inherit a valuable lab shi
 ### Key NPCs
 - **[Dr. Aros](../characters/dr-aros.md)** - Mysterious scientist who bequeaths the ship
 - **[Silas Kane](../characters/silas-kane.md)** - Predatory financier (antagonist)
-- **[Kara "Wrench" Riker](../characters/scrap-vulture/kara-wrench-riker.md)** - Leader of the Rust Dogs (rival)
+- **[Kara "Wrench" Riker](../characters/scrap-vulture/kara-wrench-riker.md)** - Leader of the Scrap Vultures (rival)
 - **[Captain Kaelen](../characters/the-void-gambit/captain-kaelen.md)** - Professional pilot option
 - **[Rico "Hotshot" Vega](../characters/rico-hotshot-vega.md)** - Reckless pilot option
 
@@ -51,6 +51,6 @@ A Traveller RPG adventure where six player characters inherit a valuable lab shi
 
 ### Critical Plot Elements
 - The ship's data core contains the "Kane Contingency" file needed to cancel the debt
-- The Rust Dogs will steal the data core before the PCs arrive
+- The Scrap Vultures will steal the data core before the PCs arrive
 - Loan terms (60/90/120 days) depend on negotiation success
 - Without the data core, the ship cannot jump

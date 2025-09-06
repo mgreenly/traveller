@@ -19,8 +19,8 @@ This directory contains detailed profiles for all Non-Player Characters (NPCs) i
 #### INS Steadfast (Imperial Navy)
 *   [Captain Valerius Thorne](./ins-steadfast/captain-valerius-thorne.md) - Imperial Navy patrol captain
 
-#### Scrap Vulture - "The Rust Dogs" (Rival Salvagers)
-*   [Kara "Wrench" Riker](./scrap-vulture/kara-wrench-riker.md) - Leader of the Rust Dogs salvage crew
+#### Scrap Vulture - "The Scrap Vultures" (Rival Salvagers)
+*   [Kara "Wrench" Riker](./scrap-vulture/kara-wrench-riker.md) - Leader of the Scrap Vultures salvage crew
 *   [Grak](./scrap-vulture/grak.md) - Crew member and enforcer
 *   [Joric "Slick" Fen](./scrap-vulture/joric-slick-fen.md) - Smooth-talking crew member
 *   [Zina "Sparks" Petrova](./scrap-vulture/zina-sparks-petrova.md) - Engineer and electronics specialist
