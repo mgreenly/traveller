@@ -42,7 +42,7 @@ Options travelling from Wypoc to Rech
 On Rech
 They find out the crew of the Void Gambit hangs out at the Alibi
 Mina sets up forging holo ids at the Alibi
-After a week  Mina finds Karean and the crew of the Void Gambit at the Alibi.
+After a week  Mina finds Kaelen and the crew of the Void Gambit at the Alibi.
 
 5 million credits (cost)
 crews in

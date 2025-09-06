@@ -20,7 +20,6 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   **[Ashley](../travellers/ashley.md)**
 *   **[Sydney](../travellers/sydney.md)**
 *   **[Mike](../travellers/mike.md)**
-*   **[Pete](../travellers/pete.md)**
 *   **[Mina](../travellers/mina.md)**
 
 ### Allies & Contacts

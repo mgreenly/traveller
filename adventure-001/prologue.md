@@ -4,7 +4,7 @@ At the start of the adventure, each of you is going about your life without any 
 Then, several days ago, each of you received the same secure, personalized message on your personal data-slate.
 
 **The Recipients:**
- **[Ash](../travellers/ash.md)**, **[Ashley](../travellers/ashley.md)**, **[Sydney](../travellers/sydney.md)**, **[Mike](../travellers/mike.md)**, **[Pete](../travellers/pete.md)**, **[Mina](../travellers/mina.md)**
+ **[Ash](../travellers/ash.md)**, **[Ashley](../travellers/ashley.md)**, **[Sydney](../travellers/sydney.md)**, **[Mike](../travellers/mike.md)**, **[Mina](../travellers/mina.md)**
 
 ---
 

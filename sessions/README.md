@@ -6,13 +6,21 @@ This directory contains fictionalized narratives of our Traveller campaign sessi
 
 ## Directory Structure
 
-- `src/` - Source directory containing raw session notes
+- `prep/` - Session preparation materials
+  - Format: `YYYYMMDD-prep.md`
+  - Contains encounters, NPCs, mechanics, and scenarios prepared before the game
+  - **Status:** Potential content - may or may not have been used during play
+  - Represents what was available to the referee, not necessarily what happened
+  
+- `notes/` - Raw session notes taken during gameplay
   - Format: `YYYYMMDD-<kebab-case-title>.md`
-  - Contains gameplay notes, dice rolls, and referee annotations
+  - Contains actual gameplay notes, dice rolls, and referee annotations
+  - **Status:** Canon events - this is what actually happened at the table
+  - The authoritative source for actual campaign events
   
 - Root directory - Fictionalized session narratives
   - Format: `YYYYMMDD-<kebab-case-title>.md`
-  - Contains narrative retellings of the sessions
+  - Contains narrative retellings based on the notes (not the prep)
 
 ## The Narrative Framework
 
@@ -55,6 +63,17 @@ The fictionalization process embraces:
 - **Expansion:** Brief notes are elaborated into full scenes to reach the target length of 2 pages
 - **Creative filling:** When source material is sparse, the narrator adds colorful details and subplots
 
+## Content Hierarchy for Narrative Creation
+
+When creating fictionalized narratives, future agents should understand the relationship between content sources:
+
+1. **Adventure Files** (`adventure-XXX/`) - The overarching framework and potential events
+2. **Prep Files** (`sessions/prep/`) - What was ready and available for that session
+3. **Notes Files** (`sessions/notes/`) - **THE AUTHORITATIVE SOURCE** - What actually happened
+4. **World Files** (`characters/`, `lore/`, `systems/`) - Consistent world details to reference
+
+**Critical:** The notes always override prep and adventure content. If the notes say something different happened than what was planned, the notes are correct.
+
 ## Using the /update-session Command
 
 To create a fictionalized narrative from session notes:
@@ -68,9 +87,11 @@ Example: `/update-session 20250810`
 This command will:
 1. Read up to 10 previous session narratives (if they exist) to maintain consistency
 2. Consult relevant `characters/`, `lore/`, and `systems/` files for accurate world details
-3. Read the source file from `sessions/src/20250810-<title>.md`
+3. Read the source file from `sessions/notes/20250810-<title>.md` (NOT the prep file)
 4. Transform it into a narrative with smooth scene transitions
 5. Write the fictionalized version to `sessions/20250810-<title>.md`
+
+**Note:** The prep file may be consulted for additional context (NPC names, location descriptions) but the events must come from the notes file
 
 ## The Purpose
 

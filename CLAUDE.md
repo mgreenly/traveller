@@ -69,6 +69,10 @@
 - `rules/`: Rules references, tables, and gameplay aids.
 - `lore/`: In-universe locations, encounters, and establishments.
 - `travellers/`: Traveller character data sheets. There are 5 traveller characters in the campaign.
+- `sessions/`: Session content organized as follows:
+  - `sessions/prep/`: Pre-session preparation (potential content, may not have been used)
+  - `sessions/notes/`: Actual session notes (canon events, what really happened)
+  - `sessions/*.md`: Fictionalized narratives based on the notes
 - **MAINTENANCE:** After changing any of the above files, check if this file (`CLAUDE.md`) needs to be updated to reflect the changes.
 
 ## 5. KNOWLEDGE BASE
@@ -138,7 +142,8 @@ When answering rules questions:
 1. **Context Gathering:** 
    - Read up to 10 previous session narratives (if they exist) from `sessions/` directory to maintain consistency of tone, style, and story continuity
    - Consult relevant files from `characters/`, `lore/`, and `systems/` folders for accurate characterization, established locations, and consistent world-building details
-2. **Input:** Reads the source file from `sessions/src/YYYYMMDD-<title>.md`
+   - May reference `sessions/prep/YYYYMMDD-prep.md` for additional context (NPC details, location descriptions) but NOT for events
+2. **Input:** Reads the source file from `sessions/notes/YYYYMMDD-<title>.md` (the actual events that happened)
 3. **Output:** Writes fictionalized version to `sessions/YYYYMMDD-<title>.md`
 
 **Narrative Instructions:**
