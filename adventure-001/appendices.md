@@ -19,7 +19,7 @@ A travel broker senses the players' urgency and quotes them a price double the s
 *   **[Ash](../travellers/ash.md)**
 *   **[Ashley](../travellers/ashley.md)**
 *   **[Sydney](../travellers/sydney.md)**
-*   **[Mike](../travellers/mike.md)**
+*   **[Kris](../travellers/kris.md)**
 *   **[Mina](../travellers/mina.md)**
 
 ### Allies & Contacts
@@ -174,6 +174,11 @@ Hidden within the data core's encrypted partition is a folder labeled "Insurance
 *   **File Type:** Quantum Data Storage Array (Incompatible with standard readers)
 *   **Content:** These files contain what appear to be complete neural maps of twelve different individuals, including someone identified only as "A.R." (possibly Aros himself). The technology seems to allow for the complete digitization and storage of human consciousness, with notes about successful "re-instantiation" into cloned bodies or advanced synthetic frames. One disturbing entry mentions that the original Dr. Aros may have died years ago, and the person the players knew was actually the third copy.
 *   **Hook:** The ability to backup and restore human consciousness would fundamentally change civilization—but who are the twelve stored minds, and why does one of them keep trying to communicate through the ship's systems?
+
+### 6. Project Omicron Particle
+*   **File Type:** Ancient Network Interface Protocol with Encrypted Logs
+*   **Content:** The Omicron Particle is a quantum key that unlocks dormant Ancient communication nodes. When Dr. Aros activated it, he received this terrifying message: *"System Reset Initiated - Contamination Threshold Exceeded - Species 7731 Industrial Markers Detected at Protected Site [DESIGNATION CORRUPTED] - Automatic Reclamation Sequence Commencing in 1,827 Cycles - All Non-Baseline Organic Matter Will Be Reconfigured to Original Template."* His research indicates a human mining operation breached an Ancient "Protected Site" approximately 1,820 cycles ago, triggering a terraforming reset that will destroy all current life and restore the planet to its state from 300,000 years ago. The partial coordinates "...327.4...[CORRUPTED]...Marches..." and mining records narrow it to three possible worlds in the Spinward Marches. The process will begin with months of spectacular atmospheric auroras before the reclamation begins.
+*   **Hook:** Dr. Aros's final note reads: "The auroras should begin soon. We might have months, or mere days. I tried to abort - the system responded: 'Authority Not Recognized. Species 7731: Invasive. Quarantine Failed. Reclamation Authorized.' Someone needs to find which world and either evacuate the population or find an Ancient site with override authority. The seventeen dormant nodes I've located might hold the key - including one beneath Regina's capital."
 
 ---
 ## Appendix F: Reusable Encounters

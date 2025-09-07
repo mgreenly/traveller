@@ -1,4 +1,4 @@
-# Mike
+# Kris
 
 * **Role:** Traveller Character
 

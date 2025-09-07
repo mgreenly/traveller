@@ -8,7 +8,6 @@ This directory contains character sheets and background information for all Trav
 
 *   [Aria](./aria.md) - Played by Ashley.
 *   [Ash](./ash.md) - Played by Keith.
-*   [Mike](./mike.md) - Played by TBD
+*   [Kris](./kris.md) - Played by Mike.
 *   [Mina](./mina.md) - Played by Quinn
 *   [Sydney](./sydney.md) - Played by Eric.
-
