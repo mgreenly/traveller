@@ -150,9 +150,9 @@ Hidden within the data core's encrypted partition is a folder labeled "Insurance
 *   **Blackmail:** Use for ongoing leverage. Provides +4 to all negotiations with Kane but requires constant vigilance against retaliation.
 *   **Sale to Rivals:** Other crime bosses or corporations would pay Cr500,000-1,000,000 for this information.
 
-### 1. The Ghost of Cthonia
+### 1. The Ghost of Cthonia (kuh-THO-nee-uh)
 *   **File Type:** Fragmented Survey Data & Personal Log
-*   **Content:** The data points to a previously uncharted moon, **Cthonia**, orbiting a gas giant in the barren **Menkar** system (a system several parsecs off the main trade routes). Aris's log describes his last visit there: *"The structures are not of any known race. Geometric, crystalline... they hum in a frequency my sensors can't properly analyze. I had to leave before I could explore the primary subterranean entrance; the radiation spikes were becoming too dangerous. The site is pristine, completely unknown to the IISS. I've encrypted its location; can't risk a megacorp getting their claws on it."*
+*   **Content:** The data points to a previously uncharted moon, **Cthonia (kuh-THO-nee-uh)**, orbiting a gas giant in the barren **Menkar** system (a system several parsecs off the main trade routes). Aris's log describes his last visit there: *"The structures are not of any known race. Geometric, crystalline... they hum in a frequency my sensors can't properly analyze. I had to leave before I could explore the primary subterranean entrance; the radiation spikes were becoming too dangerous. The site is pristine, completely unknown to the IISS. I've encrypted its location; can't risk a megacorp getting their claws on it."*
 *   **Hook:** The players now have the coordinates to a completely unknown and potentially priceless alien archaeological site. What secrets does it hold? What dangers caused the radiation spikes? And what will they do with the discovery of a lifetime?
 
 ### 2. The "Sparrow" Correspondence

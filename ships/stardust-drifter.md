@@ -1,10 +1,31 @@
 # Stardust Drifter (Lab Ship)
 
+## Ship Registry
+- **Imperial Registry:** SD-4471
+- **Ship Class:** Modified Laboratory Ship
+- **Tonnage:** 400 tons
+- **Current Port of Registry:** K'Kirka
+
 ## Description
-The *Stardust Drifter* is a heavily modified Lab Ship, repurposed by the reclusive scientist [Dr. Aros](../characters/dr-aros.md) for extended duration exploration trips and research in hazardous environments. Its exterior is weathered and scarred from years of travel through uncharted space. Internally, the ship's standard laboratory has been upgraded to be state-of-the-art, and specialized sample containment units have been installed at the expense of cargo capacity. The ship is old but was once top-of-the-line, a testament to [Dr. Aros](../characters/dr-aros.md)'s dedication to his work.
+The *Stardust Drifter* is a heavily modified 400-ton Laboratory Ship, repurposed by the reclusive scientist [Dr. Aros](../characters/dr-aros.md) for extended duration exploration trips and research in hazardous environments. Its exterior is weathered and scarred from years of travel through uncharted space. Internally, the ship's standard laboratory has been upgraded to be state-of-the-art, and specialized sample containment units have been installed at the expense of cargo capacity. The ship is old but was once top-of-the-line, a testament to [Dr. Aros](../characters/dr-aros.md)'s dedication to his work.
+
+## Financial Status
+- **Total Value:** MCr 140 (heavily modified lab ship)
+- **Monthly Payment:** Cr 583,333 (MCr 140 ÷ 240 months)
+- **Months Delinquent:** 12 months
+- **Total Past Due:** Cr 6,999,996 (12 × Cr 583,333)
+- **Late Fees:** Cr 700,000 (10% of past due)
+- **Total Amount Owed:** Cr 7,699,996 (due in 90 days from claim filing)
+
+## Ownership Structure
+- **Ash:** MCr 70 (50% of ship value)
+- **Each Other Traveller:** MCr 1 each (4 travelers = MCr 4 total)
+- **Spinward Financial Services:** MCr 66 (47.1% of ship value)
+- **Total Ship Value:** MCr 140
+- **Note:** Dr. Aros's MCr 74 equity was transferred to the travelers upon inheritance
 
 ## Ship Stats (Based on a Lab Ship)
-*   **Hull:** 200 tons
+*   **Hull:** 400 tons (modified lab ship)
 *   **M-Drive:** 1G
 *   **J-Drive:** 2 parsecs
 *   **Power Plant:** 2G
@@ -27,9 +48,10 @@ Systems
 
 
 ## Crew
-*   **Current Crew:** None (abandoned)
+*   **Current Crew:** The 5 Travellers (as of claiming salvage)
 *   **Original Owner:** [Dr. Aros](../characters/dr-aros.md)
 *   **Intended Recipient:** [Ash](../travellers/ash.md) (Traveller Character)
+*   **Primary Operator:** Ash (50% salvage share holder)
 
 ## Ship's Logs (Fragments)
 
@@ -65,4 +87,20 @@ Quadrant 2 is where the dockikng space pinance is attached
 qudrant 3 has 6 more cabins and common sspacew and a small garcod pba and the bridgte
 
 quadrant 4 has 2 larger labrotories and 6 small cabins and power and drive compartments splitting it
+
+## Current Ship Condition
+- **Maintenance Status:** 8 months overdue (requires immediate service)
+- **Fuel Status:** 15% capacity (6 tons of 40)
+- **Life Support:** 40% consumables remaining
+- **Hull Integrity:** 94% (minor asteroid damage from Djinni)
+- **Laboratory Status:** Requires recertification after Djinni specimen containment
+- **Data Core:** Recovered and reinstalled (contains Dr. Aros's research)
+
+## Monthly Operating Costs
+- **Mortgage Payment:** Cr 583,333 (when current)
+- **Routine Maintenance:** Cr 20,000
+- **Life Support Consumables:** Cr 2,000
+- **Fuel (per jump):** Cr 17,000 (refined)
+- **Docking Fees:** Cr 1,000
+- **Total Monthly:** Cr 623,333 (with mortgage)
 
